@@ -1,15 +1,105 @@
 {
-  "generated": "2026-03-09T14:40:33.569808+00:00",
+  "generated": "2026-03-09T19:54:45.639635+00:00",
   "feeds": {
     "offerte": [
       {
-        "title": "Alessandra Mastronardi, per il suo birthday Look omaggia Giorgio Armani con un meraviglioso abito in velluto nero",
-        "description": "Per il suo birthday party, Alessandra Mastronardi ha sfoggiato un meraviglioso abito in velluto nero firmato Giorgio Armani.…",
-        "link": "https://www.stylosophy.it/articolo/alessandra-mastronardi-per-il-suo-birthday-look-omaggia-giorgio-armani-con-un-meraviglioso-abito-in-velluto-nero/248711/",
-        "pubDate": "2026-03-09T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "title": "Perché salare l’acqua della pasta migliora la cottura",
+        "description": "Un team di ricercatori da tutto il mondo ha analizzato cosa succede alla struttura della pasta quando la si cuoce col sale. Spoiler: il sale serve.\nL'articolo P…",
+        "link": "https://www.dissapore.com/cucina/uno-studio-sulle-nanoparticelle-ci-dice-quanto-sale-dobbiamo-mettere-nella-pasta/",
+        "pubDate": "2026-03-09T19:22:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/pasta-secca-scaled-e1738349101533.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Beyond Meat cambia nome: “non è il momento per la carne vegetale”",
+        "description": "Beyond Meat diventa Beyond The Plant Protein Co.: dopo le bevande proteiche, un'altra strategia per scongiurare la crisi delle alternative vegetali.\nL'articolo …",
+        "link": "https://www.dissapore.com/notizie/beyond-meat-cambia-nome-non-e-il-momento-per-la-carne-vegetale/",
+        "pubDate": "2026-03-09T16:57:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2340632015-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Che cos’è lo sticky toffee pudding, il dessert inglese caldo e appiccicoso con salsa al caramello",
+        "description": "Servito caldo e ricoperto di salsa al caramello, lo sticky toffee pudding è uno dei dolci più amati nei pub del Regno Unito…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sticky-toffee-pudding-dolce-britannico-caramello/",
+        "pubDate": "2026-03-09T16:36:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La serranda è quasi chiusa, ma il pane c’è: il piccolo forno romano che vende quasi solo su prenotazione",
+        "description": "Tra Tuscolana e Appia, a Roma, Infarinatura è un piccolo laboratorio condiviso dove il pane a lievito madre nasce tra artigiani che dividono spazi, clienti e id…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/laboratorio-panificazione-coworking-infarinatura-pane-tuscolana-appia/",
+        "pubDate": "2026-03-09T16:33:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Trump e Putin affondano le vendite di Moscato d’Asti e Asti Spumante",
+        "description": "L’Asti Docg chiude il 2025 con vendite globali nella grande distribuzione (retail) in calo del 9%, per un totale di quasi 75 milioni di bottiglie. A incidere so…",
+        "link": "https://www.winemag.it/trump-e-putin-affondano-le-vendite-di-moscato-dasti-e-asti-spumante/",
+        "pubDate": "2026-03-09T16:19:46+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Vinipendenti-2026-a-Pisa-tre-giorni-di-vini-naturali-alla-Leopolda.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il quartiere che rinasce a Milano: Corvetto tra chioschi storici, bakery e osterie popolari",
+        "description": "Un'area vasta compresa tra piazzale Lodi e Rogoredo, un tempo poco rassicurante ma che ora, grazie anche al Villaggio Olimpico e all'arena di Santagiulia, sta r…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/quartiere-rinasce-milano-corvetto-chioschi-bakery-osterie-popolari/",
+        "pubDate": "2026-03-09T15:56:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cosa sono i maritozzi quaresimali: il dolce romano “permesso” durante il digiuno",
+        "description": "Più piccoli e senza panna rispetto alla versione più famosa, i maritozzi quaresimali sono un antico dolce romano con uvetta e canditi, legato alla Quaresima e a…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/maritozzi-quaresimalidolci-romani-digiuno/",
+        "pubDate": "2026-03-09T15:27:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è la crescia fogliata di Fiuminata: il dolce marchigiano che sembra uno strudel (ma non lo è)",
+        "description": "Nata oltre 700 anni fa nel borgo marchigiano di Fiuminata, la crescia fogliata è un dolce arrotolato con sfoglia sottilissima, mele, uvetta e mosto cotto: una s…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/crescia-sfogliata-fiuminata-non-e-strudel/",
+        "pubDate": "2026-03-09T15:18:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I tortellini di una volta sui Navigli: Rodrigo porta la Bologna più “grassa” a Milano",
+        "description": "Nel Savona District di Milano, Rodrigo porta la cucina bolognese tra tortellini in brodo fatti dalle sfogline, tagliatelle al ragù e un’eleganza borghese che pr…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/rodrigo-cucina-bolognese-milano-navigli/",
+        "pubDate": "2026-03-09T14:59:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La cannabis può aiutare a ridurre il consumo di alcool?",
+        "description": "Uno studio recente ha dimostrato come la cannabis aiuti a ridurre il desiderio di alcool nei forti bevitori: ma secondo gli esperti non è una soluzione definiti…",
+        "link": "https://www.dissapore.com/notizie/la-cannabis-puo-aiutare-a-ridurre-il-consumo-di-alcool/",
+        "pubDate": "2026-03-09T14:40:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2610148157-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il capo su cui investire a occhi chiusi questa primavera? I pantaloni gessati! E lo conferma anche Vittoria Ceretti",
+        "description": "È stata una delle indiscusse protagoniste di questo lungo Fashion Month, l’abbiamo vista sfilare per grandi nomi come Gucci, Chloé, Alaïa e Balenciaga, ma Vitto…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-gessati-eleganti-neri-blu-bianchi-vittoria-ceretti-fidanzata-leonardo-di-caprio-zara-donna-958473",
+        "pubDate": "2026-03-09T13:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Pantaloni_Gessati.jpg",
         "cat": "Moda",
-        "source": "Stylosophy"
+        "source": "Grazia"
       },
       {
         "title": "A Kiev un fornaio francese ogni giorno sforna 700 filoni di pane da regalare",
@@ -39,13 +129,13 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "5 mascara allunganti per un bellissimo effetto “ciglia finte”",
-        "description": "Per uno sguardo sensuale e femminile, ecco 5 mascara allunganti dall'effetto \"ciglia finte\". Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-mascara-allunganti-per-un-bellissimo-effetto-ciglia-finte/248683/",
-        "pubDate": "2026-03-09T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
+        "title": "Vinipendenti 2026 a Pisa: tre giorni di vini naturali alla Leopolda",
+        "description": "Dal 21 al 23 marzo 2026 torna a Pisa Vinipendenti &#8211; La Festa Fiera del Vino Naturale. L’evento si svolgerà negli spazi della Stazione Leopolda e riunirà v…",
+        "link": "https://www.winemag.it/vinipendenti-2026-a-pisa-tre-giorni-di-vini-naturali-alla-leopolda/",
+        "pubDate": "2026-03-09T10:48:15+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Il bar ristorante dei nonni diventa una pizzeria premiata: la storia di tre fratelli calabresi sulla Sila",
@@ -64,15 +154,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Capi e accessori: 6 novità Mango perfette per la mezza stagione",
-        "description": "Mango primavera 2026: i nuovi arrivi che stanno già dettando tendenza (e andranno presto sold out)!…",
-        "link": "https://www.stylosophy.it/articolo/capi-e-accessori-6-novita-mango-perfette-per-la-mezza-stagione/248685/",
-        "pubDate": "2026-03-09T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       },
       {
         "title": "La “lista nera” di René Redzepi: se esiste, allora significa che c’è un sistema",
@@ -100,98 +181,17 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_GONNE_JEANS.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "La storica cantina che produce un ottimo Lambrusco Spumante in una rara versione rosé",
-        "description": "Tra le diverse varietà di Lambrusco, il Salamino è il più democratico, senza l'acidità spiccata del Sorbara e il tannino del Grasparossa. Ecco quello che abbiam…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/lambrusco-salamino-spumante-rose-santa-croce/",
-        "pubDate": "2026-03-09T06:12:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Qualcosa non torna con la senape di Esselunga",
-        "description": "La senape a marchio Esselunga, per qualche motivo che ci sfugge, non vuole farsi riconoscere.\nL'articolo Qualcosa non torna con la senape di Esselunga proviene …",
-        "link": "https://www.dissapore.com/notizie/qualcosa-non-torna-con-la-senape-di-esselunga/",
-        "pubDate": "2026-03-08T19:21:35+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/esselunga-senape-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Pugni, insulti e punizioni”: cosa raccontano gli ex dipendenti del Noma nell’inchiesta del New York Times",
-        "description": "Più di 35 ex dipendenti raccontano anni di violenze fisiche e umiliazioni nella cucina del Noma. Redzepi si difende: \"Non reggevo la pressione, ho lavorato per …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pugni-insulti-e-punizioni-cosa-raccontano-gli-ex-dipendenti-del-noma-nellinchiesta-del-new-york-times/",
-        "pubDate": "2026-03-08T15:44:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questa poltrona sospesa Maisons du Monde è il nuovo oggetto del desiderio per l’outdoor",
-        "description": "La Poltrona Maisons du Monde perfetta per chi vuole creare un angolo accogliente e trendy in giardino o sul terrazzo.…",
-        "link": "https://www.stylosophy.it/articolo/poltrona-sospesa-maisons-du-monde-nuovo-oggetto-del-desiderio-per-loutdoor/248529/",
-        "pubDate": "2026-03-08T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Chiara Ferragni stravolge il suo look: ecco il suo nuovo hair style! FOTO",
-        "description": "Chiara Ferragni, dopo aver preso parte alla Paris Fashion Week, ora si gode un po' di relax e tempo libero sfoggiando un nuovo hair look.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-stravolge-il-suo-look-ecco-il-suo-nuovo-hair-style-foto/248650/",
-        "pubDate": "2026-03-08T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“C’è troppa pressione sulle donne in cucina. Uscivo dal ristorante e piangevo”: Pía León si racconta",
-        "description": "Chef di Kjolle a Lima, Pia León è tra le figure più influenti della gastronomia latinoamericana: \"Spero che un giorno non avremo più bisogno del premio per la m…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/troppa-pressione-donne-cucina-ristorante-piangevo-pia-leon-peru/",
-        "pubDate": "2026-03-08T12:51:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questo piccolo Borgo è una vera gemma dell’Oltrepò Pavese",
-        "description": "Alla scoperta di questo piccolo borgo nel cuore dell'Oltrepò Piavese, una gemma dal fascino senza tempo!…",
-        "link": "https://www.stylosophy.it/articolo/questo-piccolo-borgo-e-una-vera-gemma-delloltrepo-pavese/248655/",
-        "pubDate": "2026-03-08T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La Giacca in suede è ancora il pezzo statement della Primavera!",
-        "description": "E' arrivato il momento di rispolverare la Giacca in suede o, perché no, di comprarne una nuova di zecca! Qui i modelli più cool in circolazione...…",
-        "link": "https://www.stylosophy.it/articolo/la-giacca-in-suede-e-ancora-il-pezzo-statement-della-primavera/248659/",
-        "pubDate": "2026-03-08T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "L’ammissione e le scuse di René Redzepi: “Sono diventato lo chef che non avrei mai voluto essere”",
-        "description": "Arrivano, quando non se ne poteva più fare a meno, le scuse dello chef più famoso del mondo dopo la valanga di testimonianze sui suoi abusi in cucina.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/lammissione-e-le-scuse-di-rene-redzepi-sono-diventato-lo-chef-che-non-avrei-mai-voluto-essere/",
-        "pubDate": "2026-03-08T09:22:03+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/noma-copenaghen.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
       {
-        "title": "Alessandra Mastronardi, per il suo birthday Look omaggia Giorgio Armani con un meraviglioso abito in velluto nero",
-        "description": "Per il suo birthday party, Alessandra Mastronardi ha sfoggiato un meraviglioso abito in velluto nero firmato Giorgio Armani.…",
-        "link": "https://www.stylosophy.it/articolo/alessandra-mastronardi-per-il-suo-birthday-look-omaggia-giorgio-armani-con-un-meraviglioso-abito-in-velluto-nero/248711/",
-        "pubDate": "2026-03-09T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "title": "Il capo su cui investire a occhi chiusi questa primavera? I pantaloni gessati! E lo conferma anche Vittoria Ceretti",
+        "description": "È stata una delle indiscusse protagoniste di questo lungo Fashion Month, l’abbiamo vista sfilare per grandi nomi come Gucci, Chloé, Alaïa e Balenciaga, ma Vitto…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-gessati-eleganti-neri-blu-bianchi-vittoria-ceretti-fidanzata-leonardo-di-caprio-zara-donna-958473",
+        "pubDate": "2026-03-09T13:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Pantaloni_Gessati.jpg",
         "cat": "Moda",
-        "source": "Stylosophy"
+        "source": "Grazia"
       },
       {
         "title": "Alexa Chung, Charlize Theron e tutte le star meglio vestite della Paris Fashion Week!",
@@ -201,24 +201,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_PFW_front_row.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "5 mascara allunganti per un bellissimo effetto “ciglia finte”",
-        "description": "Per uno sguardo sensuale e femminile, ecco 5 mascara allunganti dall'effetto \"ciglia finte\". Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-mascara-allunganti-per-un-bellissimo-effetto-ciglia-finte/248683/",
-        "pubDate": "2026-03-09T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Capi e accessori: 6 novità Mango perfette per la mezza stagione",
-        "description": "Mango primavera 2026: i nuovi arrivi che stanno già dettando tendenza (e andranno presto sold out)!…",
-        "link": "https://www.stylosophy.it/articolo/capi-e-accessori-6-novita-mango-perfette-per-la-mezza-stagione/248685/",
-        "pubDate": "2026-03-09T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       },
       {
         "title": "“Questa primavera non voglio la solita giacca di pelle”: le fashion addicted rispondono con questi 10 modelli super cool!",
@@ -237,42 +219,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_GONNE_JEANS.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Questa poltrona sospesa Maisons du Monde è il nuovo oggetto del desiderio per l’outdoor",
-        "description": "La Poltrona Maisons du Monde perfetta per chi vuole creare un angolo accogliente e trendy in giardino o sul terrazzo.…",
-        "link": "https://www.stylosophy.it/articolo/poltrona-sospesa-maisons-du-monde-nuovo-oggetto-del-desiderio-per-loutdoor/248529/",
-        "pubDate": "2026-03-08T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Chiara Ferragni stravolge il suo look: ecco il suo nuovo hair style! FOTO",
-        "description": "Chiara Ferragni, dopo aver preso parte alla Paris Fashion Week, ora si gode un po' di relax e tempo libero sfoggiando un nuovo hair look.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-stravolge-il-suo-look-ecco-il-suo-nuovo-hair-style-foto/248650/",
-        "pubDate": "2026-03-08T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Questo piccolo Borgo è una vera gemma dell’Oltrepò Pavese",
-        "description": "Alla scoperta di questo piccolo borgo nel cuore dell'Oltrepò Piavese, una gemma dal fascino senza tempo!…",
-        "link": "https://www.stylosophy.it/articolo/questo-piccolo-borgo-e-una-vera-gemma-delloltrepo-pavese/248655/",
-        "pubDate": "2026-03-08T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La Giacca in suede è ancora il pezzo statement della Primavera!",
-        "description": "E' arrivato il momento di rispolverare la Giacca in suede o, perché no, di comprarne una nuova di zecca! Qui i modelli più cool in circolazione...…",
-        "link": "https://www.stylosophy.it/articolo/la-giacca-in-suede-e-ancora-il-pezzo-statement-della-primavera/248659/",
-        "pubDate": "2026-03-08T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       },
       {
         "title": "“ClairObscur”: 5 highlight della sfilata FW26 di Balenciaga",
@@ -302,33 +248,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Colori per case piccole: le scelte intelligenti che fanno sembrare gli spazi più grandi",
-        "description": "Scopri i colori che trasformano le case piccole, rendendo ogni stanza più luminosa, armoniosa e visivamente più spaziosa.…",
-        "link": "https://www.stylosophy.it/articolo/colori-per-case-piccole-le-scelte-intelligenti-che-fanno-sembrare-gli-spazi-piu-grandi/248519/",
-        "pubDate": "2026-03-07T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Giulia De Lellis realizza il make up perfetto per tutti i giorni, pratico e veloce, con solo 3 prodotti!",
-        "description": "Ecco qui di seguito i passaggi e i prodotti utilizzati da Giulia De Lellis per il suo make up da tutti i giorni.…",
-        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-realizza-il-make-up-perfetto-per-tutti-i-giorni-pratico-e-veloce-con-solo-3-prodotti/248617/",
-        "pubDate": "2026-03-07T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Un borgo nel cuore della Sicilia circondato da panorami mozzafiato",
-        "description": "In provincia di Palermo, nel cuore del Parco delle Madonie, si nasconde un meraviglioso borgo dal fascino indiscusso. Ecco qual è...…",
-        "link": "https://www.stylosophy.it/articolo/un-borgo-nel-cuore-della-sicilia-circondato-da-panorami-mozzafiato/248634/",
-        "pubDate": "2026-03-07T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "A proposito di gioielli: 6 trend della primavera da appuntarsi subito",
         "description": "Con la primavera si aprono le porte a nuovi capispalla, nuove scarpe e….nuovi gioielli! Il cosiddetto “cambio armadio primaverile”, infatti, non coinvolge solam…",
         "link": "https://www.grazia.it/moda/tendenze-moda/trend-gioielli-primavera-2026-anelli-collane-perle-orecchini-grandi-spille-bijoux-bracciali-rigidi-957613",
@@ -354,18 +273,99 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/fashion-pills-rosalia-new-balance-DESK.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "De Marquet e il lusso che parla sottovoce",
-        "description": "Per la Primavera/Estate 2026 il lusso è qualcosa che si percepisce davvero, si avvicina piano e si svela nei dettagli e nelle superfici. Questo è ciò che in que…",
-        "link": "https://www.grazia.it/moda/news-moda/de-marquet-borse-primavera-estate-2026-958197",
-        "pubDate": "2026-03-06T11:27:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Perché salare l’acqua della pasta migliora la cottura",
+        "description": "Un team di ricercatori da tutto il mondo ha analizzato cosa succede alla struttura della pasta quando la si cuoce col sale. Spoiler: il sale serve.\nL'articolo P…",
+        "link": "https://www.dissapore.com/cucina/uno-studio-sulle-nanoparticelle-ci-dice-quanto-sale-dobbiamo-mettere-nella-pasta/",
+        "pubDate": "2026-03-09T19:22:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/pasta-secca-scaled-e1738349101533.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Beyond Meat cambia nome: “non è il momento per la carne vegetale”",
+        "description": "Beyond Meat diventa Beyond The Plant Protein Co.: dopo le bevande proteiche, un'altra strategia per scongiurare la crisi delle alternative vegetali.\nL'articolo …",
+        "link": "https://www.dissapore.com/notizie/beyond-meat-cambia-nome-non-e-il-momento-per-la-carne-vegetale/",
+        "pubDate": "2026-03-09T16:57:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2340632015-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Che cos’è lo sticky toffee pudding, il dessert inglese caldo e appiccicoso con salsa al caramello",
+        "description": "Servito caldo e ricoperto di salsa al caramello, lo sticky toffee pudding è uno dei dolci più amati nei pub del Regno Unito…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sticky-toffee-pudding-dolce-britannico-caramello/",
+        "pubDate": "2026-03-09T16:36:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La serranda è quasi chiusa, ma il pane c’è: il piccolo forno romano che vende quasi solo su prenotazione",
+        "description": "Tra Tuscolana e Appia, a Roma, Infarinatura è un piccolo laboratorio condiviso dove il pane a lievito madre nasce tra artigiani che dividono spazi, clienti e id…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/laboratorio-panificazione-coworking-infarinatura-pane-tuscolana-appia/",
+        "pubDate": "2026-03-09T16:33:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Trump e Putin affondano le vendite di Moscato d’Asti e Asti Spumante",
+        "description": "L’Asti Docg chiude il 2025 con vendite globali nella grande distribuzione (retail) in calo del 9%, per un totale di quasi 75 milioni di bottiglie. A incidere so…",
+        "link": "https://www.winemag.it/trump-e-putin-affondano-le-vendite-di-moscato-dasti-e-asti-spumante/",
+        "pubDate": "2026-03-09T16:19:46+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Vinipendenti-2026-a-Pisa-tre-giorni-di-vini-naturali-alla-Leopolda.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il quartiere che rinasce a Milano: Corvetto tra chioschi storici, bakery e osterie popolari",
+        "description": "Un'area vasta compresa tra piazzale Lodi e Rogoredo, un tempo poco rassicurante ma che ora, grazie anche al Villaggio Olimpico e all'arena di Santagiulia, sta r…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/quartiere-rinasce-milano-corvetto-chioschi-bakery-osterie-popolari/",
+        "pubDate": "2026-03-09T15:56:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cosa sono i maritozzi quaresimali: il dolce romano “permesso” durante il digiuno",
+        "description": "Più piccoli e senza panna rispetto alla versione più famosa, i maritozzi quaresimali sono un antico dolce romano con uvetta e canditi, legato alla Quaresima e a…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/maritozzi-quaresimalidolci-romani-digiuno/",
+        "pubDate": "2026-03-09T15:27:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è la crescia fogliata di Fiuminata: il dolce marchigiano che sembra uno strudel (ma non lo è)",
+        "description": "Nata oltre 700 anni fa nel borgo marchigiano di Fiuminata, la crescia fogliata è un dolce arrotolato con sfoglia sottilissima, mele, uvetta e mosto cotto: una s…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/crescia-sfogliata-fiuminata-non-e-strudel/",
+        "pubDate": "2026-03-09T15:18:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I tortellini di una volta sui Navigli: Rodrigo porta la Bologna più “grassa” a Milano",
+        "description": "Nel Savona District di Milano, Rodrigo porta la cucina bolognese tra tortellini in brodo fatti dalle sfogline, tagliatelle al ragù e un’eleganza borghese che pr…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/rodrigo-cucina-bolognese-milano-navigli/",
+        "pubDate": "2026-03-09T14:59:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La cannabis può aiutare a ridurre il consumo di alcool?",
+        "description": "Uno studio recente ha dimostrato come la cannabis aiuti a ridurre il desiderio di alcool nei forti bevitori: ma secondo gli esperti non è una soluzione definiti…",
+        "link": "https://www.dissapore.com/notizie/la-cannabis-puo-aiutare-a-ridurre-il-consumo-di-alcool/",
+        "pubDate": "2026-03-09T14:40:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2610148157-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "A Kiev un fornaio francese ogni giorno sforna 700 filoni di pane da regalare",
         "description": "A Borodyanka, nella regione di Kiev, il boulanger Loic Nervi lavora ogni giorno nel suo forno mobile alimentato da generatori: sforna pagnotte e le distribuisce…",
@@ -383,6 +383,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vinipendenti 2026 a Pisa: tre giorni di vini naturali alla Leopolda",
+        "description": "Dal 21 al 23 marzo 2026 torna a Pisa Vinipendenti &#8211; La Festa Fiera del Vino Naturale. L’evento si svolgerà negli spazi della Stazione Leopolda e riunirà v…",
+        "link": "https://www.winemag.it/vinipendenti-2026-a-pisa-tre-giorni-di-vini-naturali-alla-leopolda/",
+        "pubDate": "2026-03-09T10:48:15+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Il bar ristorante dei nonni diventa una pizzeria premiata: la storia di tre fratelli calabresi sulla Sila",
@@ -412,13 +421,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "La storica cantina che produce un ottimo Lambrusco Spumante in una rara versione rosé",
-        "description": "Tra le diverse varietà di Lambrusco, il Salamino è il più democratico, senza l'acidità spiccata del Sorbara e il tannino del Grasparossa. Ecco quello che abbiam…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/lambrusco-salamino-spumante-rose-santa-croce/",
-        "pubDate": "2026-03-09T06:12:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "ProWein: cronaca di un declino",
+        "description": "Era il 2019. Ma sembra passata una vita. ProWein Düsseldorf celebrava il suo momento di massimo splendore. Oltre 61 mila visitatori professionali. Quasi 7 mila …",
+        "link": "https://www.winemag.it/prowein-cronaca-di-un-declino/",
+        "pubDate": "2026-03-09T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Andamento-di-visitatori-ed-espositori-di-ProWein-Dusseldorf-dal-2014-al-2026.-Dopo-il-picco-del-2019-la-fiera-non-e-piu-tornata-ai-livelli-pre-pandemia.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Qualcosa non torna con la senape di Esselunga",
@@ -430,24 +439,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Pugni, insulti e punizioni”: cosa raccontano gli ex dipendenti del Noma nell’inchiesta del New York Times",
-        "description": "Più di 35 ex dipendenti raccontano anni di violenze fisiche e umiliazioni nella cucina del Noma. Redzepi si difende: \"Non reggevo la pressione, ho lavorato per …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pugni-insulti-e-punizioni-cosa-raccontano-gli-ex-dipendenti-del-noma-nellinchiesta-del-new-york-times/",
-        "pubDate": "2026-03-08T15:44:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“C’è troppa pressione sulle donne in cucina. Uscivo dal ristorante e piangevo”: Pía León si racconta",
-        "description": "Chef di Kjolle a Lima, Pia León è tra le figure più influenti della gastronomia latinoamericana: \"Spero che un giorno non avremo più bisogno del premio per la m…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/troppa-pressione-donne-cucina-ristorante-piangevo-pia-leon-peru/",
-        "pubDate": "2026-03-08T12:51:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "L’ammissione e le scuse di René Redzepi: “Sono diventato lo chef che non avrei mai voluto essere”",
         "description": "Arrivano, quando non se ne poteva più fare a meno, le scuse dello chef più famoso del mondo dopo la valanga di testimonianze sui suoi abusi in cucina.\nL'articol…",
         "link": "https://www.dissapore.com/notizie/lammissione-e-le-scuse-di-rene-redzepi-sono-diventato-lo-chef-che-non-avrei-mai-voluto-essere/",
@@ -457,94 +448,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "“È stato difficile far capire che dietro al ristorante c’era anche una donna”. Francesca Barreca di Mazzo racconta la dura vita delle chef",
-        "description": "La parità di genere si costruisce ogni giorno, a suon di comportamenti e di contratti. Ma a volte questo non basta per difendersi da episodi di discriminazione…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/mazzo-francesca-barreca-chef-donna/",
-        "pubDate": "2026-03-08T09:02:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’indimenticabile genovese di mamma simbolo del suo amore perduto. Storia del piatto più importante della mia vita",
-        "description": "Nel 1958 una ragazza lascia casa per studiare a Napoli e vive il suo primo grande amore. Anni dopo, tra ricordi e malinconie, quella genovese diventa il piatto …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasta-genovese-mamma-amore-perduto-piatto-infanzia/",
-        "pubDate": "2026-03-08T08:21:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dalla toga alla vigna, l’ex avvocata che vicino a Caserta produce un vino di rara eleganza",
-        "description": "Teresa Mincione con una lettura rivoluzionaria del casavecchia, un vitigno autoctono poco conosciuto, conquista i Tre Bicchieri del Gambero Rosso. Ecco la sua s…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/casavecchia-teresa-mincione/",
-        "pubDate": "2026-03-08T07:02:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il migliore cioccolato italiano da comprare nel 2026",
-        "description": "Le migliori tavolette, ma anche praline e creme spalmabili, da comprare nel 2026 stando alla Tavoletta d’Oro, il più autorevole premio del settore. \nL'articolo …",
-        "link": "https://www.dissapore.com/spesa/il-migliore-cioccolato-italiano-da-comprare-nel-2026/",
-        "pubDate": "2026-03-07T17:09:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2016/09/cioccolato-fondente-giraudi-dolcevita.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Una sentenza scongiurerà gli stereotipi nei ristoranti italiani all’estero?",
-        "description": "La catena di ristoranti italiani in Spagna \"La Mafia se sienta a la mesa” potrebbe dover cambiare nome: sarà la fine del folklore di dubbio gusto?\nL'articolo Un…",
-        "link": "https://www.dissapore.com/notizie/una-sentenza-scongiurera-gli-stereotipi-nei-ristoranti-italiani-allestero/",
-        "pubDate": "2026-03-07T14:57:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/mafia-tavolo-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le parole proibite dall’UE per definire i prodotti plant-based",
-        "description": "L'Unione Europea mette al bando 31 termini che non potranno essere più usati per indentificare prodotti a base vegetale: bistecca no, hamburger sì. \nL'articolo …",
-        "link": "https://www.dissapore.com/notizie/le-parole-proibite-dallue-per-definire-i-prodotti-plant-based/",
-        "pubDate": "2026-03-06T17:37:32+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2624961633-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Enrico Bartolini apre in Cina: la stella Michelin è in arrivo?",
-        "description": "\"Enrico Bartolini Hangzhou\" inaugura oggi, e la guida Michelin locale uscirà a maggio: arriverà una stella dalla Cina per lo chef italiano più stellato al mondo…",
-        "link": "https://www.dissapore.com/notizie/enrico-bartolini-apre-in-cina-la-stella-michelin-e-in-arrivo/",
-        "pubDate": "2026-03-06T14:42:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/chef_enrico_bartolini-e1748591774517.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il caviale biologico è più etico?",
-        "description": "In Spagna c'è il primo produttore di caviale che adotta il biologico in tutta la filiera, ma il vantaggio sul benessere animale è ancora relativo.\nL'articolo Il…",
-        "link": "https://www.dissapore.com/notizie/il-caviale-biologico-e-piu-etico/",
-        "pubDate": "2026-03-06T11:27:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/storione-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Masterchef sta diventando troppo prevedibile?",
-        "description": "Masterchef Italia 15 lo ha vinto Matteo Canzi, detto Teo: nessuna sorpresa in questa finale, che barba che noia. \nL'articolo Masterchef sta diventando troppo pr…",
-        "link": "https://www.dissapore.com/notizie/masterchef-sta-diventando-troppo-prevedibile/",
-        "pubDate": "2026-03-06T00:47:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/PT24_finale-8554.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’Iran blocca le esportazioni agroalimentari: cosa cambia per l’Italia",
-        "description": "L'Iran è uno dei principali esportatore di alcune materie prime d'eccellenza, e il blocco avrà conseguenze anche in UE e in Italia.\nL'articolo L&#8217;Iran bloc…",
-        "link": "https://www.dissapore.com/notizie/liran-blocca-le-esportazioni-agroalimentari-cosa-cambia-per-litalia/",
-        "pubDate": "2026-03-05T17:19:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/07/pistacchio-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
+        "title": "Caffè decaffeinato, in Italia cresce il consumo consapevole",
+        "description": "Il consumo di caffè in Italia cambia volto. Accanto alla tazzina tradizionale cresce l’attenzione verso il decaffeinato, scelto per modulare l’apporto di caffei…",
+        "link": "https://www.winemag.it/caffe-decaffeinato-in-italia-cresce-consumo-consapevole/",
+        "pubDate": "2026-03-08T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       }
     ]
   }
