@@ -11,6 +11,17 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+# ── PLACEHOLDER IMMAGINI PER FONTE ─────────────────────────────────────────
+# Foto tematiche Unsplash (libere, no API key)
+SOURCE_PLACEHOLDER = {
+    "Stylosophy":   "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",  # moda
+    "Grazia":       "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=200&q=70",  # moda
+    "Gustoblog":    "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",  # food
+    "Dissapore":    "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",  # cucina
+    "Wine Mag":     "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",  # vino
+    "Gambero Rosso":"https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",  # ristorante
+}
+
 # ── FEED DA SCARICARE ──────────────────────────────────────────────────────────
 FEEDS = {
     "offerte": [
@@ -167,8 +178,8 @@ def fetch_feed(feed: dict) -> list:
             "source":      label,
         })
 
-        img_count = sum(1 for r in results if r["image"])
-        print(f"  ✓ {label}: {len(results)} articoli, {img_count} con immagine")
+    img_count = sum(1 for r in results if r["image"])
+    print(f"  ✓ {label}: {len(results)} articoli, {img_count} con immagine")
     return results
 
 
@@ -191,6 +202,10 @@ def main():
                 items = [{**item, "cat": feed["cat"], "source": feed["label"]} for item in raw_items]
             else:
                 items = fetch_feed(feed)
+                # Placeholder per articoli senza immagine
+                for item in items:
+                    if not item["image"]:
+                        item["image"] = SOURCE_PLACEHOLDER.get(feed["label"], "")
                 feed_cache[url] = items
 
             for item in items:
