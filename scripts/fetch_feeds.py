@@ -52,28 +52,61 @@ def parse_date(date_str: str) -> str:
 
 
 def extract_image(item_el: ET.Element, ns: dict) -> str:
-    """Cerca l'immagine in enclosure, media:content o prima <img> della description."""
+    """Cerca l'immagine in enclosure, media:content, media:thumbnail o <img> nella description."""
+    import re
+
+    # Tutti i possibili namespace media
+    MEDIA_NS = [
+        "media:content", "media:thumbnail",
+        "{http://search.yahoo.com/mrss/}content",
+        "{http://search.yahoo.com/mrss/}thumbnail",
+        "{http://video.search.yahoo.com/mrss/}content",
+    ]
+
     # enclosure
     enc = item_el.find("enclosure")
     if enc is not None:
         url = enc.get("url", "")
-        if url and any(url.lower().endswith(ext) for ext in (".jpg", ".jpeg", ".png", ".webp", ".gif")):
+        if url and re.search(r"\.(jpe?g|png|webp|gif)", url, re.I):
             return url
 
-    # media:content (namespace)
-    for tag in ("media:content", "{http://search.yahoo.com/mrss/}content"):
+    # media:content / media:thumbnail con vari namespace
+    for tag in MEDIA_NS:
+        for el in item_el.iter(tag.split("}")[-1] if "}" in tag else tag):
+            url = el.get("url", "")
+            if url:
+                return url
         mc = item_el.find(tag)
         if mc is not None:
             url = mc.get("url", "")
             if url:
                 return url
 
-    # prima <img> nella description
+    # Cerca qualsiasi tag con attributo url che sia un'immagine
+    for child in item_el.iter():
+        url = child.get("url", "")
+        if url and re.search(r"\.(jpe?g|png|webp|gif)", url, re.I):
+            return url
+
+    # prima <img> nella description (anche con entità HTML)
     desc = item_el.findtext("description") or ""
-    import re
-    m = re.search(r'<img[^>]+src=["\']([^"\']+\.(jpe?g|png|webp|gif))["\']', desc, re.IGNORECASE)
+    desc = desc.replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"').replace("&amp;", "&")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', desc, re.IGNORECASE)
     if m:
-        return m.group(1)
+        url = m.group(1)
+        if not url.startswith("data:"):  # escludi base64
+            return url
+
+    # content:encoded (alcuni feed WordPress)
+    for tag in ("{http://purl.org/rss/1.0/modules/content/}encoded", "content:encoded"):
+        encoded = item_el.findtext(tag) or ""
+        if encoded:
+            encoded = encoded.replace("&lt;", "<").replace("&gt;", ">")
+            m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', encoded, re.IGNORECASE)
+            if m:
+                url = m.group(1)
+                if not url.startswith("data:"):
+                    return url
 
     return ""
 
