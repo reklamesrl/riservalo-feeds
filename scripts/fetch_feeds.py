@@ -14,24 +14,21 @@ from pathlib import Path
 # ── FEED DA SCARICARE ──────────────────────────────────────────────────────────
 FEEDS = {
     "offerte": [
-        # Mix dei feed migliori da tutte le categorie
-        {"url": "https://www.stylosophy.it/feed/",      "label": "Stylosophy",    "cat": "Moda"},
-        {"url": "https://www.donnamoderna.com/feed",     "label": "Donna Moderna", "cat": "Moda"},
-        {"url": "https://www.gustoblog.it/feed/",        "label": "Gustoblog",     "cat": "Food"},
-        {"url": "https://www.dissapore.com/feed/",       "label": "Dissapore",     "cat": "Food"},
-        {"url": "https://www.winemag.it/feed/",          "label": "Wine Mag",      "cat": "Vino"},
-        {"url": "https://blog.zalando.it/it/feed/",      "label": "Zalando Blog",  "cat": "Offerte"},
+        {"url": "https://www.stylosophy.it/feed/",          "label": "Stylosophy",  "cat": "Moda"},
+        {"url": "https://www.gustoblog.it/feed/",            "label": "Gustoblog",   "cat": "Food"},
+        {"url": "https://www.dissapore.com/feed/",           "label": "Dissapore",   "cat": "Food"},
+        {"url": "https://www.winemag.it/feed/",              "label": "Wine Mag",    "cat": "Vino"},
+        {"url": "https://feeds.feedburner.com/Fashionblog",  "label": "Fashionblog", "cat": "Moda"},
     ],
     "moda": [
-        {"url": "https://www.stylosophy.it/feed/",      "label": "Stylosophy",    "cat": "Moda"},
-        {"url": "https://www.donnamoderna.com/feed",     "label": "Donna Moderna", "cat": "Stile"},
-        {"url": "https://blog.zalando.it/it/feed/",      "label": "Zalando Blog",  "cat": "Offerte"},
+        {"url": "https://www.stylosophy.it/feed/",          "label": "Stylosophy",  "cat": "Moda"},
+        {"url": "https://feeds.feedburner.com/Fashionblog",  "label": "Fashionblog", "cat": "Moda"},
     ],
     "lifestyle": [
-        {"url": "https://www.gustoblog.it/feed/",        "label": "Gustoblog",     "cat": "Food"},
-        {"url": "https://www.dissapore.com/feed/",       "label": "Dissapore",     "cat": "Cucina"},
-        {"url": "https://www.delivery.it/blog/feed/",    "label": "Delivery.it",   "cat": "Delivery"},
-        {"url": "https://www.winemag.it/feed/",          "label": "Wine Mag",      "cat": "Vino"},
+        {"url": "https://www.gustoblog.it/feed/",            "label": "Gustoblog",   "cat": "Food"},
+        {"url": "https://www.dissapore.com/feed/",           "label": "Dissapore",   "cat": "Cucina"},
+        {"url": "https://www.winemag.it/feed/",              "label": "Wine Mag",    "cat": "Vino"},
+        {"url": "https://www.gamberorosso.it/feed/",         "label": "Gambero Rosso","cat": "Food"},
     ],
 }
 
