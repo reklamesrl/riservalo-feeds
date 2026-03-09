@@ -252,6 +252,21 @@
     }
     @keyframes dots { 0%{content:''} 25%{content:'.'} 50%{content:'..'} 75%{content:'...'} 100%{content:''} }
 
+    /* ── THUMBNAIL ── */
+    .row-thumb {
+      width: 96px; height: 68px;
+      object-fit: cover; border-radius: 6px;
+      flex-shrink: 0; align-self: center;
+      background: var(--line);
+    }
+    .article-row.has-image {
+      grid-template-columns: 96px 1fr auto;
+    }
+    @media (max-width: 900px) {
+      .row-thumb { width: 72px; height: 54px; }
+      .article-row.has-image { grid-template-columns: 72px 1fr auto; }
+    }
+
     /* ── LOAD MORE ── */
     .load-more-wrap {
       text-align: center; padding: 24px 48px;
@@ -530,6 +545,17 @@
       }
     }
 
+    // ── TIME AGO ──
+    function timeAgo(dateStr) {
+      if (!dateStr) return '';
+      try {
+        const diff = (Date.now() - new Date(dateStr)) / 1000;
+        if (diff < 3600) return Math.floor(diff/60) + ' min fa';
+        if (diff < 86400) return Math.floor(diff/3600) + 'h fa';
+        return Math.floor(diff/86400) + ' giorni fa';
+      } catch(e) { return ''; }
+    }
+
     // ── RENDER: inserisce articoli RSS, poi riposiziona Amazon come 3° elemento ──
     function renderItems(items, listId) {
       const el = document.getElementById(listId);
@@ -543,8 +569,9 @@
 
       // Scrivi gli articoli RSS
       el.innerHTML = items.map((item, i) => `
-        <a class="article-row" href="${item.link}" target="_blank" rel="noopener"
+        <a class="article-row${item.image ? ' has-image' : ''}" href="${item.link}" target="_blank" rel="noopener"
            style="animation-delay:${i * 0.05}s">
+          ${item.image ? `<img class="row-thumb" src="${item.image}" alt="" loading="lazy" onerror="this.parentElement.classList.remove('has-image');this.remove()">` : ''}
           <div class="row-main">
             <div class="row-cat">${item.cat}</div>
             <div class="row-title">${item.title}</div>
