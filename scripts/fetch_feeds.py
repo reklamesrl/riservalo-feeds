@@ -14,18 +14,24 @@ from pathlib import Path
 # ── FEED DA SCARICARE ──────────────────────────────────────────────────────────
 FEEDS = {
     "offerte": [
-        {"url": "https://www.ilsalvagente.it/feed/",  "label": "Il Salvagente", "cat": "Risparmio"},
-        {"url": "https://www.dissapore.com/feed/",     "label": "Dissapore",     "cat": "Food & Vita"},
-        {"url": "https://www.stylosophy.it/feed/",     "label": "Stylosophy",    "cat": "Moda"},
+        # Mix dei feed migliori da tutte le categorie
+        {"url": "https://www.stylosophy.it/feed/",      "label": "Stylosophy",    "cat": "Moda"},
+        {"url": "https://www.donnamoderna.com/feed",     "label": "Donna Moderna", "cat": "Moda"},
+        {"url": "https://www.gustoblog.it/feed/",        "label": "Gustoblog",     "cat": "Food"},
+        {"url": "https://www.dissapore.com/feed/",       "label": "Dissapore",     "cat": "Food"},
+        {"url": "https://www.winemag.it/feed/",          "label": "Wine Mag",      "cat": "Vino"},
+        {"url": "https://blog.zalando.it/it/feed/",      "label": "Zalando Blog",  "cat": "Offerte"},
     ],
     "moda": [
-        {"url": "https://www.stylosophy.it/feed/",     "label": "Stylosophy",    "cat": "Moda"},
-        {"url": "https://www.ilsalvagente.it/feed/",   "label": "Il Salvagente", "cat": "Acquisti"},
+        {"url": "https://www.stylosophy.it/feed/",      "label": "Stylosophy",    "cat": "Moda"},
+        {"url": "https://www.donnamoderna.com/feed",     "label": "Donna Moderna", "cat": "Stile"},
+        {"url": "https://blog.zalando.it/it/feed/",      "label": "Zalando Blog",  "cat": "Offerte"},
     ],
     "lifestyle": [
-        {"url": "https://www.gustoblog.it/feed/",      "label": "Gustoblog",     "cat": "Food"},
-        {"url": "https://www.dissapore.com/feed/",     "label": "Dissapore",     "cat": "Food & Life"},
-        {"url": "https://www.ilsalvagente.it/feed/",   "label": "Il Salvagente", "cat": "Risparmio"},
+        {"url": "https://www.gustoblog.it/feed/",        "label": "Gustoblog",     "cat": "Food"},
+        {"url": "https://www.dissapore.com/feed/",       "label": "Dissapore",     "cat": "Cucina"},
+        {"url": "https://www.delivery.it/blog/feed/",    "label": "Delivery.it",   "cat": "Delivery"},
+        {"url": "https://www.winemag.it/feed/",          "label": "Wine Mag",      "cat": "Vino"},
     ],
 }
 
@@ -136,17 +142,28 @@ def fetch_feed(feed: dict) -> list:
 
 def main():
     output = {}
-    seen_urls = set()  # deduplicazione globale
+    feed_cache = {}  # cache per URL: evita di scaricare lo stesso feed 2 volte
 
     for section, feeds in FEEDS.items():
         print(f"\n[{section.upper()}]")
+        seen_links = set()  # deduplicazione per sezione
         all_items = []
 
         for feed in feeds:
-            items = fetch_feed(feed)
+            url = feed["url"]
+            # Usa cache se il feed e' gia' stato scaricato (magari con label/cat diversi)
+            if url in feed_cache:
+                raw_items = feed_cache[url]
+                print(f"  ↩ {feed['label']} (da cache)")
+                # Aggiorna cat/source con quelli di questa sezione
+                items = [{**item, "cat": feed["cat"], "source": feed["label"]} for item in raw_items]
+            else:
+                items = fetch_feed(feed)
+                feed_cache[url] = items
+
             for item in items:
-                if item["link"] not in seen_urls:
-                    seen_urls.add(item["link"])
+                if item["link"] not in seen_links:
+                    seen_links.add(item["link"])
                     all_items.append(item)
 
         # Ordina per data decrescente
