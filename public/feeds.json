@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-09T11:43:06.796174+00:00",
+  "generated": "2026-03-09T11:51:00.058676+00:00",
   "feeds": {
     "offerte": [
       {
@@ -277,6 +277,15 @@
     ],
     "lifestyle": [
       {
+        "title": "A 11 anni faceva pizze fritte per strada. Oggi Salvatore Santucci sforna la tonda al Vomero",
+        "description": "Cresciuto tra i vicoli di Forcella e le pizze fritte preparate per strada, Salvatore Santucci ha attraversato trent’anni di evoluzione della pizza napoletana co…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizze-fritte-per-strada-salvatore-santucci-vomero/",
+        "pubDate": "2026-03-09T11:00:55+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Vinipendenti 2026 a Pisa: tre giorni di vini naturali alla Leopolda",
         "description": "Dal 21 al 23 marzo 2026 torna a Pisa Vinipendenti &#8211; La Festa Fiera del Vino Naturale. L’evento si svolgerà negli spazi della Stazione Leopolda e riunirà v…",
         "link": "https://www.winemag.it/vinipendenti-2026-a-pisa-tre-giorni-di-vini-naturali-alla-leopolda/",
@@ -286,6 +295,24 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Il bar ristorante dei nonni diventa una pizzeria premiata: la storia di tre fratelli calabresi sulla Sila",
+        "description": "A Taverna, nel cuore della Sila catanzarese, i fratelli Scalzo hanno trasformato il locale aperto dai nonni nel 1967 in un indirizzo contemporaneo: pizza al met…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/bar-ristorante-nonni-pizzeria-calabria-semaforo-sila/",
+        "pubDate": "2026-03-09T10:44:27+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbacchio fritto, carciofi e quinto quarto: da Checco er Carettiere i piatti che raccontano la Roma di una volta",
+        "description": "Dal Gianicolo alla cucina di Trastevere: Stefania Porcelli racconta i piatti simbolo di Checco er Carettiere, dall’insalata di zampetti all’abbacchio fritto con…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/abbacchio-fritto-carciofi-checco-er-carettiere-passione-romana/",
+        "pubDate": "2026-03-09T10:28:35+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "La “lista nera” di René Redzepi: se esiste, allora significa che c’è un sistema",
         "description": "La vicenda del Noma di René Redzepi e degli abusi subiti dai dipendenti pone una questione fondamentale: esiste davvero un \"sistema\" che ha coperto (o ha passat…",
         "link": "https://www.dissapore.com/notizie/la-lista-nera-di-rene-redzepi-se-esiste-allora-significa-che-ce-un-sistema/",
@@ -293,6 +320,15 @@
         "image": "",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "La storica cantina che produce un ottimo Lambrusco Spumante in una rara versione rosé",
+        "description": "Tra le diverse varietà di Lambrusco, il Salamino è il più democratico, senza l'acidità spiccata del Sorbara e il tannino del Grasparossa. Ecco quello che abbiam…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/lambrusco-salamino-spumante-rose-santa-croce/",
+        "pubDate": "2026-03-09T06:12:15+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "ProWein: cronaca di un declino",
@@ -313,6 +349,24 @@
         "source": "Dissapore"
       },
       {
+        "title": "“Pugni, insulti e punizioni”: cosa raccontano gli ex dipendenti del Noma nell’inchiesta del New York Times",
+        "description": "Più di 35 ex dipendenti raccontano anni di violenze fisiche e umiliazioni nella cucina del Noma. Redzepi si difende: \"Non reggevo la pressione, ho lavorato per …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pugni-insulti-e-punizioni-cosa-raccontano-gli-ex-dipendenti-del-noma-nellinchiesta-del-new-york-times/",
+        "pubDate": "2026-03-08T15:44:09+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“C’è troppa pressione sulle donne in cucina. Uscivo dal ristorante e piangevo”: Pía León si racconta",
+        "description": "Chef di Kjolle a Lima, Pia León è tra le figure più influenti della gastronomia latinoamericana: \"Spero che un giorno non avremo più bisogno del premio per la m…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/troppa-pressione-donne-cucina-ristorante-piangevo-pia-leon-peru/",
+        "pubDate": "2026-03-08T12:51:28+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "L’ammissione e le scuse di René Redzepi: “Sono diventato lo chef che non avrei mai voluto essere”",
         "description": "Arrivano, quando non se ne poteva più fare a meno, le scuse dello chef più famoso del mondo dopo la valanga di testimonianze sui suoi abusi in cucina.\nL'articol…",
         "link": "https://www.dissapore.com/notizie/lammissione-e-le-scuse-di-rene-redzepi-sono-diventato-lo-chef-che-non-avrei-mai-voluto-essere/",
@@ -322,6 +376,33 @@
         "source": "Dissapore"
       },
       {
+        "title": "“È stato difficile far capire che dietro al ristorante c’era anche una donna”. Francesca Barreca di Mazzo racconta la dura vita delle chef",
+        "description": "La parità di genere si costruisce ogni giorno, a suon di comportamenti e di contratti. Ma a volte questo non basta per difendersi da episodi di discriminazione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/mazzo-francesca-barreca-chef-donna/",
+        "pubDate": "2026-03-08T09:02:02+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’indimenticabile genovese di mamma simbolo del suo amore perduto. Storia del piatto più importante della mia vita",
+        "description": "Nel 1958 una ragazza lascia casa per studiare a Napoli e vive il suo primo grande amore. Anni dopo, tra ricordi e malinconie, quella genovese diventa il piatto …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasta-genovese-mamma-amore-perduto-piatto-infanzia/",
+        "pubDate": "2026-03-08T08:21:12+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dalla toga alla vigna, l’ex avvocata che vicino a Caserta produce un vino di rara eleganza",
+        "description": "Teresa Mincione con una lettura rivoluzionaria del casavecchia, un vitigno autoctono poco conosciuto, conquista i Tre Bicchieri del Gambero Rosso. Ecco la sua s…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/casavecchia-teresa-mincione/",
+        "pubDate": "2026-03-08T07:02:55+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Caffè decaffeinato, in Italia cresce il consumo consapevole",
         "description": "Il consumo di caffè in Italia cambia volto. Accanto alla tazzina tradizionale cresce l’attenzione verso il decaffeinato, scelto per modulare l’apporto di caffei…",
         "link": "https://www.winemag.it/caffe-decaffeinato-in-italia-cresce-consumo-consapevole/",
@@ -329,6 +410,15 @@
         "image": "",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "“Pane, pace e libertà”: il grido delle donne che ha dato origine all’8 marzo (e perché non è una festa)",
+        "description": "Dalle proteste delle operaie tessili nella Russia del 1917 alla nascita della Giornata internazionale della donna: la storia dell’8 marzo è molto diversa da que…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-pace-liberta-8-marzo-come-nasce-festa-delle-donne/",
+        "pubDate": "2026-03-08T05:04:55+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Il migliore cioccolato italiano da comprare nel 2026",
@@ -365,96 +455,6 @@
         "image": "",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Enrico Bartolini apre in Cina: la stella Michelin è in arrivo?",
-        "description": "\"Enrico Bartolini Hangzhou\" inaugura oggi, e la guida Michelin locale uscirà a maggio: arriverà una stella dalla Cina per lo chef italiano più stellato al mondo…",
-        "link": "https://www.dissapore.com/notizie/enrico-bartolini-apre-in-cina-la-stella-michelin-e-in-arrivo/",
-        "pubDate": "2026-03-06T14:42:26+00:00",
-        "image": "",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il caviale biologico è più etico?",
-        "description": "In Spagna c'è il primo produttore di caviale che adotta il biologico in tutta la filiera, ma il vantaggio sul benessere animale è ancora relativo.\nL'articolo Il…",
-        "link": "https://www.dissapore.com/notizie/il-caviale-biologico-e-piu-etico/",
-        "pubDate": "2026-03-06T11:27:39+00:00",
-        "image": "",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nasce in Spagna una delle più grandi cooperative vitivinicole del mondo",
-        "description": "Tre grandi cooperative vitivinicole della Castiglia-La Mancia hanno annunciato la loro fusione. Si tratta di Virgen de las Viñas Bodega y Almazara, Vinícola de …",
-        "link": "https://www.winemag.it/nasce-in-spagna-una-delle-piu-grandi-cooperative-vitivinicole-del-mondo-virgen-de-las-vinas/",
-        "pubDate": "2026-03-06T11:22:24+00:00",
-        "image": "",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Barolo, fine di un’era? «Difficile produrre Nebbiolo longevo come in passato»",
-        "description": "Il Barolo sta cambiando. Non per scelta di mercato. Ma per necessità. A dirlo è Maurizio Anselma, titolare della cantina Famiglia Anselma di Barolo, che osserva…",
-        "link": "https://www.winemag.it/barolo-fine-di-un-era-difficile-produrre-nebbiolo-longevo-come-in-passato/",
-        "pubDate": "2026-03-06T06:00:00+00:00",
-        "image": "",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Masterchef sta diventando troppo prevedibile?",
-        "description": "Masterchef Italia 15 lo ha vinto Matteo Canzi, detto Teo: nessuna sorpresa in questa finale, che barba che noia. \nL'articolo Masterchef sta diventando troppo pr…",
-        "link": "https://www.dissapore.com/notizie/masterchef-sta-diventando-troppo-prevedibile/",
-        "pubDate": "2026-03-06T00:47:55+00:00",
-        "image": "",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’Iran blocca le esportazioni agroalimentari: cosa cambia per l’Italia",
-        "description": "L'Iran è uno dei principali esportatore di alcune materie prime d'eccellenza, e il blocco avrà conseguenze anche in UE e in Italia.\nL'articolo L&#8217;Iran bloc…",
-        "link": "https://www.dissapore.com/notizie/liran-blocca-le-esportazioni-agroalimentari-cosa-cambia-per-litalia/",
-        "pubDate": "2026-03-05T17:19:22+00:00",
-        "image": "",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Mundus Vini Spring Tasting 2026: Italia, oltre 800 medaglie",
-        "description": "L’Italia si conferma tra i protagonisti del Mundus Vini Spring Tasting 2026, l’edizione primaverile dello storico concorso enologico internazionale organizzato …",
-        "link": "https://www.winemag.it/mundus-vini-spring-tasting-2026-italia-oltre-800-medaglie/",
-        "pubDate": "2026-03-05T12:46:26+00:00",
-        "image": "",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Wines Experience, oltre 200 cantine italiane a Londra per l’evento B2B dedicato al mercato britannico",
-        "description": "Oltre 200 cantine italiane si riuniranno il 26 e 27 aprile al centro conferenze ExCeL di Londra per Wines Experience, evento B2B dedicato al vino italiano nel R…",
-        "link": "https://www.winemag.it/wines-experience-oltre-200-cantine-italiane-londra-evento-b2b-mercato-britannico/",
-        "pubDate": "2026-03-05T10:11:52+00:00",
-        "image": "",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Sardegna: il Concorso del Vermentino 2026 torna a casa, in Gallura",
-        "description": "Il Concorso Enologico Internazionale del Vermentino torna in Sardegna nel 2026, per la sua quarta edizione. L’appuntamento è fissato il 22 e 23 maggio ad Arzach…",
-        "link": "https://www.winemag.it/sardegna-il-concorso-del-vermentino-2026-torna-a-casa-in-gallura/",
-        "pubDate": "2026-03-05T06:00:00+00:00",
-        "image": "",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Fonti di Vino: a San Casciano dei Bagni la prima edizione tra cantine, terme e territorio",
-        "description": "San Casciano dei Bagni si prepara a raccontare il proprio volto enologico con la prima edizione di “Fonti di Vino – Tra calici e acque termali”, in programma sa…",
-        "link": "https://www.winemag.it/fonti-di-vino-2026-san-casciano-dei-bagni-prima-edizione-tra-cantine-terme-territorio/",
-        "pubDate": "2026-03-04T11:34:02+00:00",
-        "image": "",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
