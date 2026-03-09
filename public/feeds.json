@@ -1,7 +1,16 @@
 {
-  "generated": "2026-03-09T11:51:00.058676+00:00",
+  "generated": "2026-03-09T12:03:07.985539+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A 11 anni faceva pizze fritte per strada. Oggi Salvatore Santucci sforna la tonda al Vomero",
+        "description": "Cresciuto tra i vicoli di Forcella e le pizze fritte preparate per strada, Salvatore Santucci ha attraversato trent’anni di evoluzione della pizza napoletana co…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizze-fritte-per-strada-salvatore-santucci-vomero/",
+        "pubDate": "2026-03-09T11:00:55+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "5 mascara allunganti per un bellissimo effetto “ciglia finte”",
         "description": "Per uno sguardo sensuale e femminile, ecco 5 mascara allunganti dall'effetto \"ciglia finte\". Da non perdere!…",
@@ -19,6 +28,24 @@
         "image": "",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Il bar ristorante dei nonni diventa una pizzeria premiata: la storia di tre fratelli calabresi sulla Sila",
+        "description": "A Taverna, nel cuore della Sila catanzarese, i fratelli Scalzo hanno trasformato il locale aperto dai nonni nel 1967 in un indirizzo contemporaneo: pizza al met…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/bar-ristorante-nonni-pizzeria-calabria-semaforo-sila/",
+        "pubDate": "2026-03-09T10:44:27+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbacchio fritto, carciofi e quinto quarto: da Checco er Carettiere i piatti che raccontano la Roma di una volta",
+        "description": "Dal Gianicolo alla cucina di Trastevere: Stefania Porcelli racconta i piatti simbolo di Checco er Carettiere, dall’insalata di zampetti all’abbacchio fritto con…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/abbacchio-fritto-carciofi-checco-er-carettiere-passione-romana/",
+        "pubDate": "2026-03-09T10:28:35+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Capi e accessori: 6 novità Mango perfette per la mezza stagione",
@@ -39,6 +66,24 @@
         "source": "Dissapore"
       },
       {
+        "title": "Queste sono le gonne di jeans di cui non potrete fare a meno questa primavera",
+        "description": "La tela blu si fa portavoce e manifesto delle gonne di tendenza di stagione. È proprio il denim a reinterpretare in chiave urban chic quelli che sono i macro tr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-di-jeans-primavera-estate-2026-gonna-denim-corta-midi-lunga-957572",
+        "pubDate": "2026-03-09T07:32:00+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "La storica cantina che produce un ottimo Lambrusco Spumante in una rara versione rosé",
+        "description": "Tra le diverse varietà di Lambrusco, il Salamino è il più democratico, senza l'acidità spiccata del Sorbara e il tannino del Grasparossa. Ecco quello che abbiam…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/lambrusco-salamino-spumante-rose-santa-croce/",
+        "pubDate": "2026-03-09T06:12:15+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "ProWein: cronaca di un declino",
         "description": "Era il 2019. Ma sembra passata una vita. ProWein Düsseldorf celebrava il suo momento di massimo splendore. Oltre 61 mila visitatori professionali. Quasi 7 mila …",
         "link": "https://www.winemag.it/prowein-cronaca-di-un-declino/",
@@ -57,6 +102,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "“Pugni, insulti e punizioni”: cosa raccontano gli ex dipendenti del Noma nell’inchiesta del New York Times",
+        "description": "Più di 35 ex dipendenti raccontano anni di violenze fisiche e umiliazioni nella cucina del Noma. Redzepi si difende: \"Non reggevo la pressione, ho lavorato per …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pugni-insulti-e-punizioni-cosa-raccontano-gli-ex-dipendenti-del-noma-nellinchiesta-del-new-york-times/",
+        "pubDate": "2026-03-08T15:44:09+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Questa poltrona sospesa Maisons du Monde è il nuovo oggetto del desiderio per l’outdoor",
         "description": "La Poltrona Maisons du Monde perfetta per chi vuole creare un angolo accogliente e trendy in giardino o sul terrazzo.…",
         "link": "https://www.stylosophy.it/articolo/poltrona-sospesa-maisons-du-monde-nuovo-oggetto-del-desiderio-per-loutdoor/248529/",
@@ -73,6 +127,15 @@
         "image": "",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "“C’è troppa pressione sulle donne in cucina. Uscivo dal ristorante e piangevo”: Pía León si racconta",
+        "description": "Chef di Kjolle a Lima, Pia León è tra le figure più influenti della gastronomia latinoamericana: \"Spero che un giorno non avremo più bisogno del premio per la m…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/troppa-pressione-donne-cucina-ristorante-piangevo-pia-leon-peru/",
+        "pubDate": "2026-03-08T12:51:28+00:00",
+        "image": "",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Questo piccolo Borgo è una vera gemma dell’Oltrepò Pavese",
@@ -102,85 +165,22 @@
         "source": "Dissapore"
       },
       {
-        "title": "Caffè decaffeinato, in Italia cresce il consumo consapevole",
-        "description": "Il consumo di caffè in Italia cambia volto. Accanto alla tazzina tradizionale cresce l’attenzione verso il decaffeinato, scelto per modulare l’apporto di caffei…",
-        "link": "https://www.winemag.it/caffe-decaffeinato-in-italia-cresce-consumo-consapevole/",
-        "pubDate": "2026-03-08T06:00:00+00:00",
-        "image": "",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il migliore cioccolato italiano da comprare nel 2026",
-        "description": "Le migliori tavolette, ma anche praline e creme spalmabili, da comprare nel 2026 stando alla Tavoletta d’Oro, il più autorevole premio del settore. \nL'articolo …",
-        "link": "https://www.dissapore.com/spesa/il-migliore-cioccolato-italiano-da-comprare-nel-2026/",
-        "pubDate": "2026-03-07T17:09:50+00:00",
+        "title": "“È stato difficile far capire che dietro al ristorante c’era anche una donna”. Francesca Barreca di Mazzo racconta la dura vita delle chef",
+        "description": "La parità di genere si costruisce ogni giorno, a suon di comportamenti e di contratti. Ma a volte questo non basta per difendersi da episodi di discriminazione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/mazzo-francesca-barreca-chef-donna/",
+        "pubDate": "2026-03-08T09:02:02+00:00",
         "image": "",
         "cat": "Food",
-        "source": "Dissapore"
+        "source": "Gambero Rosso"
       },
       {
-        "title": "Colori per case piccole: le scelte intelligenti che fanno sembrare gli spazi più grandi",
-        "description": "Scopri i colori che trasformano le case piccole, rendendo ogni stanza più luminosa, armoniosa e visivamente più spaziosa.…",
-        "link": "https://www.stylosophy.it/articolo/colori-per-case-piccole-le-scelte-intelligenti-che-fanno-sembrare-gli-spazi-piu-grandi/248519/",
-        "pubDate": "2026-03-07T15:00:00+00:00",
+        "title": "“ClairObscur”: 5 highlight della sfilata FW26 di Balenciaga",
+        "description": "Un gioco di luci e ombre, un continuo dialogo tra struttura e leggerezza: è “ClairObscur” la nuova collezione FW26 di Balenciaga presentata ieri a Parigi, la te…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/balenciaga-pierpaolo-piccioli-show-clairobscur-chiaroscuro-euphoria-spoiler-sam-levinson-heated-rivalry-hudson-williams-958397",
+        "pubDate": "2026-03-08T08:57:29+00:00",
         "image": "",
         "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Una sentenza scongiurerà gli stereotipi nei ristoranti italiani all’estero?",
-        "description": "La catena di ristoranti italiani in Spagna \"La Mafia se sienta a la mesa” potrebbe dover cambiare nome: sarà la fine del folklore di dubbio gusto?\nL'articolo Un…",
-        "link": "https://www.dissapore.com/notizie/una-sentenza-scongiurera-gli-stereotipi-nei-ristoranti-italiani-allestero/",
-        "pubDate": "2026-03-07T14:57:01+00:00",
-        "image": "",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Giulia De Lellis realizza il make up perfetto per tutti i giorni, pratico e veloce, con solo 3 prodotti!",
-        "description": "Ecco qui di seguito i passaggi e i prodotti utilizzati da Giulia De Lellis per il suo make up da tutti i giorni.…",
-        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-realizza-il-make-up-perfetto-per-tutti-i-giorni-pratico-e-veloce-con-solo-3-prodotti/248617/",
-        "pubDate": "2026-03-07T13:00:00+00:00",
-        "image": "",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Un borgo nel cuore della Sicilia circondato da panorami mozzafiato",
-        "description": "In provincia di Palermo, nel cuore del Parco delle Madonie, si nasconde un meraviglioso borgo dal fascino indiscusso. Ecco qual è...…",
-        "link": "https://www.stylosophy.it/articolo/un-borgo-nel-cuore-della-sicilia-circondato-da-panorami-mozzafiato/248634/",
-        "pubDate": "2026-03-07T11:00:00+00:00",
-        "image": "",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Abiti da cerimonia cercasi? Ecco i modelli più cute in circolazione",
-        "description": "Qui 4 abiti semplici ed eleganti per essere un’invitata perfetta ai matrimoni di questa Primavera 2026!…",
-        "link": "https://www.stylosophy.it/articolo/abiti-da-cerimonia-cercasi-ecco-i-modelli-piu-cute-in-circolazione/248636/",
-        "pubDate": "2026-03-07T10:00:00+00:00",
-        "image": "",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Dodas: dodici cantine del Canton Ticino unite per il Merlot ticinese",
-        "description": "Dosas. Ovvero Dodici, in dialetto ticinese. Dodici cantine del Canton Ticino si uniscono per valorizzare uno dei simboli dell’enologia svizzera: il Merlot ticin…",
-        "link": "https://www.winemag.it/dodas-dodici-cantine-canton-ticino-unite-per-merlot-ticinese/",
-        "pubDate": "2026-03-07T06:00:00+00:00",
-        "image": "",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le parole proibite dall’UE per definire i prodotti plant-based",
-        "description": "L'Unione Europea mette al bando 31 termini che non potranno essere più usati per indentificare prodotti a base vegetale: bistecca no, hamburger sì. \nL'articolo …",
-        "link": "https://www.dissapore.com/notizie/le-parole-proibite-dallue-per-definire-i-prodotti-plant-based/",
-        "pubDate": "2026-03-06T17:37:32+00:00",
-        "image": "",
-        "cat": "Food",
-        "source": "Dissapore"
+        "source": "Grazia"
       }
     ],
     "moda": [
@@ -201,6 +201,15 @@
         "image": "",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Queste sono le gonne di jeans di cui non potrete fare a meno questa primavera",
+        "description": "La tela blu si fa portavoce e manifesto delle gonne di tendenza di stagione. È proprio il denim a reinterpretare in chiave urban chic quelli che sono i macro tr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-di-jeans-primavera-estate-2026-gonna-denim-corta-midi-lunga-957572",
+        "pubDate": "2026-03-09T07:32:00+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Questa poltrona sospesa Maisons du Monde è il nuovo oggetto del desiderio per l’outdoor",
@@ -239,6 +248,33 @@
         "source": "Stylosophy"
       },
       {
+        "title": "“ClairObscur”: 5 highlight della sfilata FW26 di Balenciaga",
+        "description": "Un gioco di luci e ombre, un continuo dialogo tra struttura e leggerezza: è “ClairObscur” la nuova collezione FW26 di Balenciaga presentata ieri a Parigi, la te…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/balenciaga-pierpaolo-piccioli-show-clairobscur-chiaroscuro-euphoria-spoiler-sam-levinson-heated-rivalry-hudson-williams-958397",
+        "pubDate": "2026-03-08T08:57:29+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Oscar 2026: gli abiti che potrebbero indossare le star sul red carpet (il nostro pronostico!)",
+        "description": "L&#8217;appuntamento con una delle notti più importanti per lo star system è dietro l&#8217;angolo: il prossimo 15 marzo si terrà a Los Angeles la cerimonia deg…",
+        "link": "https://www.grazia.it/moda/celebrity-style/oscar-2026-abiti-star-candidate-pronostico-look-emma-stone-rose-byrne-renate-reinsve-kate-hudson-elle-fanning-957593",
+        "pubDate": "2026-03-08T07:30:00+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Cinque donne e un dialogo sull’empowerment: così Furla celebra l’8 marzo",
+        "description": "In occasione della Giornata Internazionale della Donna, Furla sceglie di celebrare l’8 marzo con una conversazione aperta, autentica, tra donne. Non un talk for…",
+        "link": "https://www.grazia.it/moda/news-moda/furla-giornata-internazionale-della-donna-empowerment-femminile-958337",
+        "pubDate": "2026-03-07T22:44:00+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Colori per case piccole: le scelte intelligenti che fanno sembrare gli spazi più grandi",
         "description": "Scopri i colori che trasformano le case piccole, rendendo ogni stanza più luminosa, armoniosa e visivamente più spaziosa.…",
         "link": "https://www.stylosophy.it/articolo/colori-per-case-piccole-le-scelte-intelligenti-che-fanno-sembrare-gli-spazi-piu-grandi/248519/",
@@ -273,6 +309,60 @@
         "image": "",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "A proposito di gioielli: 6 trend della primavera da appuntarsi subito",
+        "description": "Con la primavera si aprono le porte a nuovi capispalla, nuove scarpe e….nuovi gioielli! Il cosiddetto “cambio armadio primaverile”, infatti, non coinvolge solam…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/trend-gioielli-primavera-2026-anelli-collane-perle-orecchini-grandi-spille-bijoux-bracciali-rigidi-957613",
+        "pubDate": "2026-03-07T07:30:00+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Tra passato e presente: 5 highlight della sfilata FW26 di Schiaparelli",
+        "description": "Era una delle sfilate più attese di questa edizione della Paris Fashion Week, e ieri pomeriggio è andata in scena negli spazi del Carrousel du Louvre. Schiapare…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/schiaparelli-sfilata-show-paris-fashion-week-louvre-buco-della-serratura-the-sphynx-daniel-roseberry-958286",
+        "pubDate": "2026-03-06T13:05:41+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Aria di primavera, nuove collaborazioni e tanta voglia di leggerezza. La stagione cambia, la moda si rinnova — e anche se dovesse piovere, niente paura: saremo …",
+        "link": "https://www.grazia.it/moda/news-moda/rosalia-new-balance-pdpaola-gioielli-borsa-cos-petit-bateau-impermeabili-melissa-scholl-collab-asap-rocky-ray-ban-eme-sneakers-958168",
+        "pubDate": "2026-03-06T11:33:00+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "De Marquet e il lusso che parla sottovoce",
+        "description": "Per la Primavera/Estate 2026 il lusso è qualcosa che si percepisce davvero, si avvicina piano e si svela nei dettagli e nelle superfici. Questo è ciò che in que…",
+        "link": "https://www.grazia.it/moda/news-moda/de-marquet-borse-primavera-estate-2026-958197",
+        "pubDate": "2026-03-06T11:27:00+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "Il weekend è alle porte&#8230;quale occasione migliore per dedicarsi a un po&#8217; di shopping? No, non parliamo di capi e accessori qualsiasi, bensì dei pezzi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/consigli-per-gli-acquisti-della-settimana-shopping-weekend-cosa-comprare-and-other-stories-primark-scholl-957686",
+        "pubDate": "2026-03-06T07:30:00+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Chloé e il suo omaggio alla femminilità: 5 highlight dello show FW26",
+        "description": "La Paris Fashion Week entra nel vivo e stamattina ad aprire questa quarta giornata di show è stata Chloé che ha svelato la nuova collezione FW26 firmata dalla d…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/chloe-sfilata-show-paris-fashion-week-boho-chic-olivia-rodrigo-alexa-chung-oprah-brooks-shields-aimee-lou-wood-958036",
+        "pubDate": "2026-03-05T14:43:11+00:00",
+        "image": "",
+        "cat": "Moda",
+        "source": "Grazia"
       }
     ],
     "lifestyle": [
