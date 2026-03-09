@@ -167,7 +167,7 @@ def fetch_feed(feed: dict) -> list:
             "source":      label,
         })
 
-    img_count = sum(1 for r in results if r["image"])
+        img_count = sum(1 for r in results if r["image"])
         print(f"  ✓ {label}: {len(results)} articoli, {img_count} con immagine")
     return results
 
