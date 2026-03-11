@@ -1,7 +1,25 @@
 {
-  "generated": "2026-03-10T19:54:18.916593+00:00",
+  "generated": "2026-03-11T07:57:59.764649+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Letrari: 50 anni di storia, famiglia e Trentodoc",
+        "description": "Letrari giunge al traguardo dei 50 anni di attività. La cantina, pioniera del Trentodoc, celebra il primo mezzo secolo di storia con una serie di eventi, il pri…",
+        "link": "https://www.winemag.it/letrari-50-anni-di-storia-famiglia-trentodoc/",
+        "pubDate": "2026-03-11T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Letrari-50-anni-di-storia-famiglia-e-TrentoDoc-LETRARI-36.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "«Mindful intimacy» la nuova collezione di Miu Miu mette al centro il corpo (e la mente)",
+        "description": "Il corpo è il protagonista della sfilata Autunno-Inverno 2026/27 di Miu Miu, andata in scena come da tradizione a Parigi, in un Palais d’Iéna trasformato in un …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/miu-miu-sfilata-autunno-inverno-2026-27-parigi-958985",
+        "pubDate": "2026-03-10T20:35:57+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/DESK-miu-miu-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Ecco un borgo ligure che ha stregato perfino Byron, un luogo davvero eccezionale…",
         "description": "Viaggio verso un borgo ligure che è pura bellezza, un luogo che ha ammaliato poeti e artisti e che farà lo stesso con chiunque deciderà di visitarlo…",
@@ -10,6 +28,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Louis Vuitton Autunno-Inverno 2026/27: ritorno alla Natura",
+        "description": "Nel calendario della Paris Fashion Week dedicata alle collezioni Autunno-Inverno 2026/27 arriva il giorno di Louis Vuitton e della nuova passerella firmata dal …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/louis-vuitton-sfilata-autunno-inverno-2026-27-parigi-958878",
+        "pubDate": "2026-03-10T17:57:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/desk-Louis-Vuitton-fw-2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Ecco il programma di Vinitaly and the City 2026. Quest’anno il fuori salone coinvolgerà anche l’Arena di Verona",
@@ -154,36 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le stampe di tendenza della primavera? Eccone 5 da sfoggiare all season long",
-        "description": "Le sfoggiamo anche in pieno inverno, e di certo non basta un po’ di freddo a impedirci di indossarle dalla testa ai piedi, ma una cosa è certa: è la primavera l…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stampe-di-tendenza-della-primavera-2026-animalier-righe-spesse-fiori-quadri-pois-tendenze-moda-dnna-2026-zara-958624",
-        "pubDate": "2026-03-10T11:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_5_stampe.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Bye bye cellulite: 5 creme corpo rassodanti per preparare il corpo all’Estate",
-        "description": "Come prepararsi all'arrivo dell'Estate 2026? Optando per una crema corpo rassodante, per una pelle liscia e levigata. Ecco le migliori da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/bye-bye-cellulite-5-creme-corpo-rassodanti-per-preparare-il-corpo-allestate/248715/",
-        "pubDate": "2026-03-10T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Dakota Johnson e il fascino dell’essenziale: la nuova campagna Calvin Klein celebra il “less is more”",
-        "description": "Che negli anni 90 Calvin Klein sia stato emblema di sensualità lo sappiamo molto bene. Complici le iconiche campagne della linea Underwear che hanno visto prota…",
-        "link": "https://www.grazia.it/moda/news-moda/calvin-klein-campagna-dakota-johnson-primavera-2026-958783",
-        "pubDate": "2026-03-10T10:59:56+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/ck-dakota-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "«Mindful intimacy» la nuova collezione di Miu Miu mette al centro il corpo (e la mente)",
+        "description": "Il corpo è il protagonista della sfilata Autunno-Inverno 2026/27 di Miu Miu, andata in scena come da tradizione a Parigi, in un Palais d’Iéna trasformato in un …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/miu-miu-sfilata-autunno-inverno-2026-27-parigi-958985",
+        "pubDate": "2026-03-10T20:35:57+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/DESK-miu-miu-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Ecco un borgo ligure che ha stregato perfino Byron, un luogo davvero eccezionale…",
         "description": "Viaggio verso un borgo ligure che è pura bellezza, un luogo che ha ammaliato poeti e artisti e che farà lo stesso con chiunque deciderà di visitarlo…",
@@ -192,6 +201,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Louis Vuitton Autunno-Inverno 2026/27: ritorno alla Natura",
+        "description": "Nel calendario della Paris Fashion Week dedicata alle collezioni Autunno-Inverno 2026/27 arriva il giorno di Louis Vuitton e della nuova passerella firmata dal …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/louis-vuitton-sfilata-autunno-inverno-2026-27-parigi-958878",
+        "pubDate": "2026-03-10T17:57:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/desk-Louis-Vuitton-fw-2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Veneziane IKEA, un grande classico per finestre moderne",
@@ -345,27 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_GONNE_JEANS.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "“ClairObscur”: 5 highlight della sfilata FW26 di Balenciaga",
-        "description": "Un gioco di luci e ombre, un continuo dialogo tra struttura e leggerezza: è “ClairObscur” la nuova collezione FW26 di Balenciaga presentata ieri a Parigi, la te…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/balenciaga-pierpaolo-piccioli-show-clairobscur-chiaroscuro-euphoria-spoiler-sam-levinson-heated-rivalry-hudson-williams-958397",
-        "pubDate": "2026-03-08T08:57:29+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Balenciaga.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Oscar 2026: gli abiti che potrebbero indossare le star sul red carpet (il nostro pronostico!)",
-        "description": "L&#8217;appuntamento con una delle notti più importanti per lo star system è dietro l&#8217;angolo: il prossimo 15 marzo si terrà a Los Angeles la cerimonia deg…",
-        "link": "https://www.grazia.it/moda/celebrity-style/oscar-2026-abiti-star-candidate-pronostico-look-emma-stone-rose-byrne-renate-reinsve-kate-hudson-elle-fanning-957593",
-        "pubDate": "2026-03-08T07:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/DESK-toto-oscar-2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Letrari: 50 anni di storia, famiglia e Trentodoc",
+        "description": "Letrari giunge al traguardo dei 50 anni di attività. La cantina, pioniera del Trentodoc, celebra il primo mezzo secolo di storia con una serie di eventi, il pri…",
+        "link": "https://www.winemag.it/letrari-50-anni-di-storia-famiglia-trentodoc/",
+        "pubDate": "2026-03-11T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Letrari-50-anni-di-storia-famiglia-e-TrentoDoc-LETRARI-36.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Ecco il programma di Vinitaly and the City 2026. Quest’anno il fuori salone coinvolgerà anche l’Arena di Verona",
         "description": "Da venerdì 10 a domenica 12 aprile, oltre 70 appuntamenti nella città Unesco, tra degustazioni e visite guidate. Nel Cortile del Tribunale ci sarà anche il Gamb…",
@@ -533,18 +542,9 @@
         "description": "L’Asti Docg chiude il 2025 con vendite globali nella grande distribuzione (retail) in calo del 9%, per un totale di quasi 75 milioni di bottiglie. A incidere so…",
         "link": "https://www.winemag.it/trump-e-putin-affondano-le-vendite-di-moscato-dasti-e-asti-spumante/",
         "pubDate": "2026-03-09T16:19:46+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Guerra-in-Iran-e-caro-gasolio-allarme-Coldiretti-sui-danni-allexport-agroalimentare.jpg",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Letrari-50-anni-di-storia-famiglia-e-TrentoDoc.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "La cannabis può aiutare a ridurre il consumo di alcool?",
-        "description": "Uno studio recente ha dimostrato come la cannabis aiuti a ridurre il desiderio di alcool nei forti bevitori: ma secondo gli esperti non è una soluzione definiti…",
-        "link": "https://www.dissapore.com/notizie/la-cannabis-puo-aiutare-a-ridurre-il-consumo-di-alcool/",
-        "pubDate": "2026-03-09T14:40:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2610148157-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
