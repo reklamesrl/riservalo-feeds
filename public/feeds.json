@@ -1,7 +1,133 @@
 {
-  "generated": "2026-03-11T14:38:23.219550+00:00",
+  "generated": "2026-03-11T19:53:48.932976+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Questo borgo sardo è un vero museo a cielo aperto, un luogo più unico che raro…",
+        "description": "Questo borgo sardo è un vero museo a cielo aperto che merita di essere scoperto questa primavera e vissuto in prima persona…",
+        "link": "https://www.stylosophy.it/articolo/questo-borgo-sardo-e-un-vero-museo-a-cielo-aperto-un-luogo-piu-unico-che-raro/248762/",
+        "pubDate": "2026-03-11T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Che cosa sono i panicelli, i fagottini calabresi di cui era ghiotto Gabriele D’Annunzio",
+        "description": "Piccoli fagottini di uva passa e scorza di cedro legati con ginestra selvatica: i Panicelli sono uno dei dessert più antichi della Costa dei Cedri, tra tradizio…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/che-cosa-sono-i-panicelli-i-fagottini-calabresi-di-cui-era-ghiotto-gabriele-dannunzio/",
+        "pubDate": "2026-03-11T17:21:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’export di vino italiano chiude il 2025 a 7,7 miliardi di euro: persi 300 milioni di euro",
+        "description": "Si registra un forte calo negli Usa (-9,2%) a causa dei dazi e della svalutazione del dollaro. Uiv: \"Nel secondo semestre difficoltà senza precedenti\"…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/perdita-export-vino-italiano-2025/",
+        "pubDate": "2026-03-11T17:13:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La tuna pizza arriva a Firenze: debutta il ristorante dello chef globale Akira Back",
+        "description": "Lo chef coreano cresciuto negli Stati Uniti debutta in Italia con il suo ristorante al W Florence: sushi contemporaneo, influenze coreane e piatti cult come la …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/akira-back-firenze-sushi-w-florence/",
+        "pubDate": "2026-03-11T16:26:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Redzepi ha chiesto scusa, spero non ci siano conseguenze”. Raffaele Alajmo sul caso Noma",
+        "description": "Caso Noma, Raffaele Alajmo commenta le accuse a René Redzepi e il modello dell’alta ristorazione tra stage, pressione e lavoro in cucina…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/redzepi-chiesto-scusa-spero-non-conseguenze-raffaele-alajmo-caso-noma/",
+        "pubDate": "2026-03-11T16:19:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Malvasia dai giovani produttori piacentini: perché partecipare a Innesti",
+        "description": "Malvasia Prima Vol. 2 è l'evento voluto dal collettivo Innesti per promuovere una nuova lettura sulla Malvasia, anche confrontandola con un grande vitigno inter…",
+        "link": "https://www.dissapore.com/notizie/la-malvasia-dai-giovani-produttori-piacentini-perche-partecipare-a-innesti/",
+        "pubDate": "2026-03-11T16:16:39+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Innesti-MalvasiaPrima-Vol2_01-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Provo molta tristezza”: Heston Blumenthal annuncia la chiusura del Dinner di Londra",
+        "description": "Lo chef britannico annuncia la chiusura del ristorante al Mandarin Oriental di Knightsbridge: dopo 16 anni e due stelle Michelin il locale chiuderà nel 2027. \"È…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/heston-blumenthal-annuncia-chiusura-dinner-londra/",
+        "pubDate": "2026-03-11T15:56:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cucchiaini di burro ai neonati: la nuova mania di TikTok che spaventa i pediatri",
+        "description": "Sui social si diffonde il trend #butterbaby: genitori che danno burro ai neonati per farli dormire tutta la notte. Ma i pediatri avvertono che non esiste alcuna…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cucchiaini-di-burro-ai-neonati-la-nuova-mania-di-tiktok-che-spaventa-i-pediatri/",
+        "pubDate": "2026-03-11T15:51:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è lo “gnocco” cotto sotto la cenere, il pane che si faceva prima dei forni",
+        "description": "A Bomporto, nella bassa modenese, viene riproposta la tecnica del gnocco cotto sotto la cenere: un pane semplice senza forno, cotto tra braci e cenere, con un r…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gnocco-cotto-sotto-cenere-pane-bassa-modenese/",
+        "pubDate": "2026-03-11T15:38:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’inedita e sorprendente Malvasia nata dalla collaborazione tra Nino Caravaglio e Thomas Duroux",
+        "description": "Dal sodalizio tra il produttore eoliano e il ceo di Château Palmer arrivano due nuove interpretazioni del cru di Salina: un progetto che valorizza il bianco med…",
+        "link": "https://www.gamberorosso.it/notizie/vino/malvasia-lipari-nino-caravaglio-thomas-duroux/",
+        "pubDate": "2026-03-11T15:18:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mango Home si ispira a Duralex e lancia una collezione di bicchieri, tazze e accessori da cucina in stile retrò",
+        "description": "Una collezione di bicchieri e accessori in vetro resistente che riporta in tavola il fascino delle stoviglie di una volta, ma con un tocco contemporaneo.…",
+        "link": "https://www.stylosophy.it/articolo/mango-home-si-ispira-a-duralex-e-lancia-una-collezione-di-bicchieri-tazze-e-accessori-da-cucina-in-stile-retro/248801/",
+        "pubDate": "2026-03-11T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il rosato come identità di un territorio. A Vieste la settima edizione di Vieste en Rose",
+        "description": "Il 1° giugno 2026 Vieste celebra il rosato con la settima edizione di Vieste en Rose: degustazioni, incontri e una masterclass firmata Gambero Rosso nel cuore d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/la-vieste-en-rose-2026/",
+        "pubDate": "2026-03-11T14:33:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Jessie Buckley: lo stile della favorita agli Oscar 2026 in 7 look",
+        "description": "Tra qualche giorno si terrà uno degli eventi più attesi dell’anno per gli appassionati di cinema e non solo: domenica 15 marzo, infatti, al Dolby Theatre andrà …",
+        "link": "https://www.grazia.it/moda/celebrity-style/jessie-buckley-oscar-2026-hamnet-miglior-attrice-stile-look-red-carpet-959098",
+        "pubDate": "2026-03-11T13:59:50+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Jessie_Buckley.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Desigual ridefinisce il concetto di “Dopamine dressing” con JOYFUL, la nuova collezione SS26",
+        "description": "Ciò che indossiamo può influenzare il nostro modo di sentirci e di comportarci e cosa c’è di più efficace del ”Dopamine Dressing&#8221; per migliorare l’autosti…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/desigual-nuova-collezione-ss26-joyful-dopamine-dressing-wear-the-joy-campagna-delilah-belle-958076",
+        "pubDate": "2026-03-11T13:58:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_Desigual-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Paris Fashion Week: il recap delle sfilate Autunno-Inverno 2026",
         "description": "La Paris Fashion Week dedicata alle collezioni Autunno/Inverno 2026-2027 si conferma ancora una volta il punto culminante della stagione delle sfilate. Tra atte…",
@@ -55,135 +181,45 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Orient Express Venezia: Heinz Beck alla guida la proposta gastronomica",
-        "description": "Lo chef internazionale Heinz Beck assume la guida dell’intera proposta gastronomica dell’hotel Orient Express Venezia. Figura di riferimento dell’alta cucina eu…",
-        "link": "https://www.winemag.it/orient-express-venezia-heinz-beck-alla-guida-la-proposta-gastronomica/",
-        "pubDate": "2026-03-11T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bayer accelera sulla viticoltura rigenerativa con il progetto ‘Rigenerare per crescere’",
-        "description": "Bayer rafforza il proprio impegno nella viticoltura rigenerativa con il progetto “Rigenerare per crescere”, presentato quest&#8217;oggi, 11 marzo 2026, all’Audi…",
-        "link": "https://www.winemag.it/bayer-accelera-sulla-viticoltura-rigenerativa-con-il-progetto-rigenerare-per-crescere/",
-        "pubDate": "2026-03-11T10:57:41+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Oltre il vino naturale c’è di più. In Italia si fa spazio una nuova sobrietà produttiva lontana dalle ideologie",
-        "description": "Un modo di fare viticoltura sempre più diffuso, fatto di lavoro silenzioso e scelte quotidiane, senza dogmi, slogan o scorciatoie comode. Ecco quattro cantine c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/oltre-vino-naturale-sobrieta-produttiva-versio-steiger-kalena-prandi-ajetta/",
-        "pubDate": "2026-03-11T10:01:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "H&M: Capi e Accessori in stile Boho per look primaverili super cool",
-        "description": "I capi e gli accessori in stile Boho di H&#038;M che ameremo indossare nella Primavera Estate 2026…",
-        "link": "https://www.stylosophy.it/articolo/hm-capi-e-accessori-in-stile-boho-per-look-primaverili-super-cool/248809/",
-        "pubDate": "2026-03-11T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Polemica a Alessandro Borghese – 4 ristoranti: “Nel bunet non ci vanno le uova”",
-        "description": "Nell'ultima puntata di Alessandro Borghese - 4 ristoranti, andata in onda da Torino, è partita una polemica tutta sabauda, se il bunet si faccia con le uova o n…",
-        "link": "https://www.dissapore.com/notizie/polemica-a-alessandro-borghese-4-ristoranti-nel-bunet-non-ci-vanno-le-uova/",
-        "pubDate": "2026-03-11T09:21:03+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/bunet.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il pastificio di Roma dove la pasta si fa ancora a mano come 40 anni fa",
-        "description": "A Tor Marancia il laboratorio della famiglia Cellini prepara pasta fresca dal 1985: ravioli, strangozzi, gnocchi e piatti pronti fatti in casa che raccontano la…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastificio-cellini-roma-pasta-come-40-anni-fa-tor-marancia/",
-        "pubDate": "2026-03-11T09:01:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Livigno punta sulla colazione identitaria: nasce Tas’t, progetto dedicato ai sapori locali",
-        "description": "Sull’onda dell’entusiasmo generato dai Giochi Olimpici Invernali di Milano Cortina 2026, Livigno rafforza il percorso di valorizzazione delle proprie eccellenze…",
-        "link": "https://www.winemag.it/tas-t-colazione-identitaria-di-livigno/",
-        "pubDate": "2026-03-11T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“È finito un ciclo”: dopo 80 anni chiude all’improvviso lo storico ristorante Pierino Penati",
-        "description": "La famiglia Penati annuncia la chiusura della storica sede di Viganò Brianza dopo 86 anni di attività. Il ristorante, punto di riferimento della cucina lombarda…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/dopo-oltre-80-anni-chiude-storico-ristorante-brianza/",
-        "pubDate": "2026-03-11T08:54:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo anni di scarsità ora l’Europa non sa più cosa fare con tutte queste patate",
-        "description": "Dopo quasi vent’anni di produzione in calo e prezzi record, l’espansione delle coltivazioni ha generato un raccolto senza precedenti in Europa: oltre 27 milioni…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/europa-eccesso-patate-dopo-anni-carenza/",
-        "pubDate": "2026-03-11T08:33:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il ritorno dello stile di Carolyn Bessette Kennedy: l’icona minimal che conquista (anche) i social",
-        "description": "Negli ultimi mesi, il nome di Carolyn Bessette Kennedy è tornato a circolare con forza sui social. Complice l’uscita della serie Love Story: John F. Kennedy Jr.…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/carolyn-bessette-kennedy-icona-stile-minimal-anni-90-calvin-klein-look-iconici-958665",
-        "pubDate": "2026-03-11T07:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_carolyn_bessette_look.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Letrari: 50 anni di storia, famiglia e Trentodoc",
-        "description": "Letrari giunge al traguardo dei 50 anni di attività. La cantina, pioniera del Trentodoc, celebra il primo mezzo secolo di storia con una serie di eventi, il pri…",
-        "link": "https://www.winemag.it/letrari-50-anni-di-storia-famiglia-trentodoc/",
-        "pubDate": "2026-03-11T06:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Letrari-50-anni-di-storia-famiglia-e-TrentoDoc-LETRARI-36.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "«Mindful intimacy» la nuova collezione di Miu Miu mette al centro il corpo (e la mente)",
-        "description": "Il corpo è il protagonista della sfilata Autunno-Inverno 2026/27 di Miu Miu, andata in scena come da tradizione a Parigi, in un Palais d’Iéna trasformato in un …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/miu-miu-sfilata-autunno-inverno-2026-27-parigi-958985",
-        "pubDate": "2026-03-10T20:35:57+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/DESK-miu-miu-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Ecco un borgo ligure che ha stregato perfino Byron, un luogo davvero eccezionale…",
-        "description": "Viaggio verso un borgo ligure che è pura bellezza, un luogo che ha ammaliato poeti e artisti e che farà lo stesso con chiunque deciderà di visitarlo…",
-        "link": "https://www.stylosophy.it/articolo/ecco-un-borgo-ligure-che-ha-stregato-perfino-byron-un-luogo-davvero-eccezionale/248724/",
-        "pubDate": "2026-03-10T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Louis Vuitton Autunno-Inverno 2026/27: ritorno alla Natura",
-        "description": "Nel calendario della Paris Fashion Week dedicata alle collezioni Autunno-Inverno 2026/27 arriva il giorno di Louis Vuitton e della nuova passerella firmata dal …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/louis-vuitton-sfilata-autunno-inverno-2026-27-parigi-958878",
-        "pubDate": "2026-03-10T17:57:35+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/desk-Louis-Vuitton-fw-2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Questo borgo sardo è un vero museo a cielo aperto, un luogo più unico che raro…",
+        "description": "Questo borgo sardo è un vero museo a cielo aperto che merita di essere scoperto questa primavera e vissuto in prima persona…",
+        "link": "https://www.stylosophy.it/articolo/questo-borgo-sardo-e-un-vero-museo-a-cielo-aperto-un-luogo-piu-unico-che-raro/248762/",
+        "pubDate": "2026-03-11T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Mango Home si ispira a Duralex e lancia una collezione di bicchieri, tazze e accessori da cucina in stile retrò",
+        "description": "Una collezione di bicchieri e accessori in vetro resistente che riporta in tavola il fascino delle stoviglie di una volta, ma con un tocco contemporaneo.…",
+        "link": "https://www.stylosophy.it/articolo/mango-home-si-ispira-a-duralex-e-lancia-una-collezione-di-bicchieri-tazze-e-accessori-da-cucina-in-stile-retro/248801/",
+        "pubDate": "2026-03-11T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Jessie Buckley: lo stile della favorita agli Oscar 2026 in 7 look",
+        "description": "Tra qualche giorno si terrà uno degli eventi più attesi dell’anno per gli appassionati di cinema e non solo: domenica 15 marzo, infatti, al Dolby Theatre andrà …",
+        "link": "https://www.grazia.it/moda/celebrity-style/jessie-buckley-oscar-2026-hamnet-miglior-attrice-stile-look-red-carpet-959098",
+        "pubDate": "2026-03-11T13:59:50+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Jessie_Buckley.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Desigual ridefinisce il concetto di “Dopamine dressing” con JOYFUL, la nuova collezione SS26",
+        "description": "Ciò che indossiamo può influenzare il nostro modo di sentirci e di comportarci e cosa c’è di più efficace del ”Dopamine Dressing&#8221; per migliorare l’autosti…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/desigual-nuova-collezione-ss26-joyful-dopamine-dressing-wear-the-joy-campagna-delilah-belle-958076",
+        "pubDate": "2026-03-11T13:58:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_Desigual-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Paris Fashion Week: il recap delle sfilate Autunno-Inverno 2026",
         "description": "La Paris Fashion Week dedicata alle collezioni Autunno/Inverno 2026-2027 si conferma ancora una volta il punto culminante della stagione delle sfilate. Tra atte…",
@@ -327,45 +363,99 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Chanel.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Questo borgo toscano tra le vette dell’appennino è davvero una meta da scoprire",
-        "description": "Viaggio verso un borgo toscano che vanta un legame unico con il sommo poeta Dante, una vera bellezza da scoprire al più presto…",
-        "link": "https://www.stylosophy.it/articolo/questo-borgo-toscano-tra-le-vette-dellappennino-e-davvero-una-meta-da-scoprire/248679/",
-        "pubDate": "2026-03-09T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il segreto per una Tavola Primaverile perfetta? Ecco 5 Set di Piatti nei colori e nei motivi di stagione",
-        "description": "Colori delicati, motivi floreali e dettagli che richiamano la natura: la tavola di primavera si veste di leggerezza e stile.…",
-        "link": "https://www.stylosophy.it/articolo/il-segreto-per-una-tavola-primaverile-perfetta-set-di-piatti/248725/",
-        "pubDate": "2026-03-09T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il capo su cui investire a occhi chiusi questa primavera? I pantaloni gessati! E lo conferma anche Vittoria Ceretti",
-        "description": "È stata una delle indiscusse protagoniste di questo lungo Fashion Month, l’abbiamo vista sfilare per grandi nomi come Gucci, Chloé, Alaïa e Balenciaga, ma Vitto…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-gessati-eleganti-neri-blu-bianchi-vittoria-ceretti-fidanzata-leonardo-di-caprio-zara-donna-958473",
-        "pubDate": "2026-03-09T13:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Pantaloni_Gessati.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Alexa Chung, Charlize Theron e tutte le star meglio vestite della Paris Fashion Week!",
-        "description": "La Paris Fashion Week Autunno/Inverno 2026‑2027 sta animando Parigi con uno dei calendari più densi e attesi di stagione: 68 sfilate e oltre 30 presentazioni, i…",
-        "link": "https://www.grazia.it/moda/celebrity-style/star-meglio-vestite-paris-fashion-week-2026-front-row-look-alexa-chung-charlize-theron-958414",
-        "pubDate": "2026-03-09T11:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_PFW_front_row.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Che cosa sono i panicelli, i fagottini calabresi di cui era ghiotto Gabriele D’Annunzio",
+        "description": "Piccoli fagottini di uva passa e scorza di cedro legati con ginestra selvatica: i Panicelli sono uno dei dessert più antichi della Costa dei Cedri, tra tradizio…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/che-cosa-sono-i-panicelli-i-fagottini-calabresi-di-cui-era-ghiotto-gabriele-dannunzio/",
+        "pubDate": "2026-03-11T17:21:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’export di vino italiano chiude il 2025 a 7,7 miliardi di euro: persi 300 milioni di euro",
+        "description": "Si registra un forte calo negli Usa (-9,2%) a causa dei dazi e della svalutazione del dollaro. Uiv: \"Nel secondo semestre difficoltà senza precedenti\"…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/perdita-export-vino-italiano-2025/",
+        "pubDate": "2026-03-11T17:13:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La tuna pizza arriva a Firenze: debutta il ristorante dello chef globale Akira Back",
+        "description": "Lo chef coreano cresciuto negli Stati Uniti debutta in Italia con il suo ristorante al W Florence: sushi contemporaneo, influenze coreane e piatti cult come la …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/akira-back-firenze-sushi-w-florence/",
+        "pubDate": "2026-03-11T16:26:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Redzepi ha chiesto scusa, spero non ci siano conseguenze”. Raffaele Alajmo sul caso Noma",
+        "description": "Caso Noma, Raffaele Alajmo commenta le accuse a René Redzepi e il modello dell’alta ristorazione tra stage, pressione e lavoro in cucina…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/redzepi-chiesto-scusa-spero-non-conseguenze-raffaele-alajmo-caso-noma/",
+        "pubDate": "2026-03-11T16:19:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Malvasia dai giovani produttori piacentini: perché partecipare a Innesti",
+        "description": "Malvasia Prima Vol. 2 è l'evento voluto dal collettivo Innesti per promuovere una nuova lettura sulla Malvasia, anche confrontandola con un grande vitigno inter…",
+        "link": "https://www.dissapore.com/notizie/la-malvasia-dai-giovani-produttori-piacentini-perche-partecipare-a-innesti/",
+        "pubDate": "2026-03-11T16:16:39+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Innesti-MalvasiaPrima-Vol2_01-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Provo molta tristezza”: Heston Blumenthal annuncia la chiusura del Dinner di Londra",
+        "description": "Lo chef britannico annuncia la chiusura del ristorante al Mandarin Oriental di Knightsbridge: dopo 16 anni e due stelle Michelin il locale chiuderà nel 2027. \"È…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/heston-blumenthal-annuncia-chiusura-dinner-londra/",
+        "pubDate": "2026-03-11T15:56:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cucchiaini di burro ai neonati: la nuova mania di TikTok che spaventa i pediatri",
+        "description": "Sui social si diffonde il trend #butterbaby: genitori che danno burro ai neonati per farli dormire tutta la notte. Ma i pediatri avvertono che non esiste alcuna…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cucchiaini-di-burro-ai-neonati-la-nuova-mania-di-tiktok-che-spaventa-i-pediatri/",
+        "pubDate": "2026-03-11T15:51:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è lo “gnocco” cotto sotto la cenere, il pane che si faceva prima dei forni",
+        "description": "A Bomporto, nella bassa modenese, viene riproposta la tecnica del gnocco cotto sotto la cenere: un pane semplice senza forno, cotto tra braci e cenere, con un r…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gnocco-cotto-sotto-cenere-pane-bassa-modenese/",
+        "pubDate": "2026-03-11T15:38:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’inedita e sorprendente Malvasia nata dalla collaborazione tra Nino Caravaglio e Thomas Duroux",
+        "description": "Dal sodalizio tra il produttore eoliano e il ceo di Château Palmer arrivano due nuove interpretazioni del cru di Salina: un progetto che valorizza il bianco med…",
+        "link": "https://www.gamberorosso.it/notizie/vino/malvasia-lipari-nino-caravaglio-thomas-duroux/",
+        "pubDate": "2026-03-11T15:18:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il rosato come identità di un territorio. A Vieste la settima edizione di Vieste en Rose",
+        "description": "Il 1° giugno 2026 Vieste celebra il rosato con la settima edizione di Vieste en Rose: degustazioni, incontri e una masterclass firmata Gambero Rosso nel cuore d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/la-vieste-en-rose-2026/",
+        "pubDate": "2026-03-11T14:33:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Nelle cantine italiane ci sono ancora 58,6 milioni di ettolitri di vino da vendere",
         "description": "Stock complessivi in aumento del 5,8% rispetto a un anno fa, a cui si aggiungono circa 6 milioni di ettolitri di mosti. Nel solo Veneto ben 15 milioni di ettoli…",
@@ -412,15 +502,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Oltre il vino naturale c’è di più. In Italia si fa spazio una nuova sobrietà produttiva lontana dalle ideologie",
-        "description": "Un modo di fare viticoltura sempre più diffuso, fatto di lavoro silenzioso e scelte quotidiane, senza dogmi, slogan o scorciatoie comode. Ecco quattro cantine c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/oltre-vino-naturale-sobrieta-produttiva-versio-steiger-kalena-prandi-ajetta/",
-        "pubDate": "2026-03-11T10:01:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Polemica a Alessandro Borghese – 4 ristoranti: “Nel bunet non ci vanno le uova”",
         "description": "Nell'ultima puntata di Alessandro Borghese - 4 ristoranti, andata in onda da Torino, è partita una polemica tutta sabauda, se il bunet si faccia con le uova o n…",
         "link": "https://www.dissapore.com/notizie/polemica-a-alessandro-borghese-4-ristoranti-nel-bunet-non-ci-vanno-le-uova/",
@@ -428,15 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/bunet.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il pastificio di Roma dove la pasta si fa ancora a mano come 40 anni fa",
-        "description": "A Tor Marancia il laboratorio della famiglia Cellini prepara pasta fresca dal 1985: ravioli, strangozzi, gnocchi e piatti pronti fatti in casa che raccontano la…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastificio-cellini-roma-pasta-come-40-anni-fa-tor-marancia/",
-        "pubDate": "2026-03-11T09:01:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Livigno punta sulla colazione identitaria: nasce Tas’t, progetto dedicato ai sapori locali",
@@ -448,24 +520,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "“È finito un ciclo”: dopo 80 anni chiude all’improvviso lo storico ristorante Pierino Penati",
-        "description": "La famiglia Penati annuncia la chiusura della storica sede di Viganò Brianza dopo 86 anni di attività. Il ristorante, punto di riferimento della cucina lombarda…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/dopo-oltre-80-anni-chiude-storico-ristorante-brianza/",
-        "pubDate": "2026-03-11T08:54:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo anni di scarsità ora l’Europa non sa più cosa fare con tutte queste patate",
-        "description": "Dopo quasi vent’anni di produzione in calo e prezzi record, l’espansione delle coltivazioni ha generato un raccolto senza precedenti in Europa: oltre 27 milioni…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/europa-eccesso-patate-dopo-anni-carenza/",
-        "pubDate": "2026-03-11T08:33:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Letrari: 50 anni di storia, famiglia e Trentodoc",
         "description": "Letrari giunge al traguardo dei 50 anni di attività. La cantina, pioniera del Trentodoc, celebra il primo mezzo secolo di storia con una serie di eventi, il pri…",
         "link": "https://www.winemag.it/letrari-50-anni-di-storia-famiglia-trentodoc/",
@@ -473,15 +527,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/03/Letrari-50-anni-di-storia-famiglia-e-TrentoDoc-LETRARI-36.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Ecco il programma di Vinitaly and the City 2026. Quest’anno il fuori salone coinvolgerà anche l’Arena di Verona",
-        "description": "Da venerdì 10 a domenica 12 aprile, oltre 70 appuntamenti nella città Unesco, tra degustazioni e visite guidate. Nel Cortile del Tribunale ci sarà anche il Gamb…",
-        "link": "https://www.gamberorosso.it/notizie/vino/programma-vinitaly-and-the-city-2026-verona/",
-        "pubDate": "2026-03-10T17:54:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Jessica Rosval e Davide Guidara: due fuoriclasse della nuova generazione gastronomica",
@@ -500,51 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/The-1907-Rogers-Zac-Cadwalader-Onyx-Sign-23.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il piccolo ristorante di Roma dove una giovane coppia ridà vita a ricette dimenticate",
-        "description": "Nel quartiere Quarto Miglio, a Roma, Paolo D’Ercole e Chiara Valzania gestiscono Scima da soli: lui cucina senza brigata, lei cura la sala e i vini, mentre nel …",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/piccolo-ristorante-roma-ricette-dimenticate-scima-quarto-miglio/",
-        "pubDate": "2026-03-10T16:37:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Guerra in Iran e caro gasolio: allarme Coldiretti sui danni all’export agroalimentare",
-        "description": "L’aumento dei costi di produzione e il blocco dei traffici commerciali legato alla guerra in Iran stanno già provocando gravi conseguenze per l’agroalimentare i…",
-        "link": "https://www.winemag.it/guerra-in-iran-e-caro-gasolio-allarme-coldiretti-sui-danni-allexport-agroalimentare/",
-        "pubDate": "2026-03-10T16:21:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Accordo storico in Friuli Venezia Giulia: due consorzi del vino si mettono assieme per promuoversi meglio",
-        "description": "Collio e Friuli Colli orientali e Ramandolo annunciano la costituzione di un'associazione temporanea di impresa per provare a superare sia le divisioni cultural…",
-        "link": "https://www.gamberorosso.it/notizie/vino/accordo-consorzi-vino-friuli-venezia-giulia-collio-ramandolo/",
-        "pubDate": "2026-03-10T16:12:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché i produttori di vino in Cina si convertono alla produzione di Brandy",
-        "description": "Con il consumo di vino in rallentamento, diverse cantine cinesi stanno distillando l’invenduto per produrre brandy. Una scelta pragmatica in un Paese dove gli s…",
-        "link": "https://www.gamberorosso.it/notizie/vino/produttori-vino-cina-convertono-produzione-brandy/",
-        "pubDate": "2026-03-10T16:06:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Naike Rivelli: “Digiuno 16 ore e mangio solo verdure. Il tofu? Mi faceva orrore”",
-        "description": "Salutista, animalista, attivista irriverente: Rivelli, figlia di Ornella Muti, riesce a catalizzare l'attenzione su di sé soprattutto attraverso i social cercan…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/naike-rivelli-digiuno-alimentazione-vegana-intervista/",
-        "pubDate": "2026-03-10T15:58:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
