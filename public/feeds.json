@@ -1,7 +1,142 @@
 {
-  "generated": "2026-03-12T14:38:29.958854+00:00",
+  "generated": "2026-03-12T19:55:33.861243+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Ascesa e declino di René Redzepi: la parabola dello chef che ha cambiato l’alta cucina",
+        "description": "Dal successo globale del Noma di Copenaghen e della New Nordic cuisine alle accuse di abusi denunciate da oltre 35 ex dipendenti: la storia di uno degli chef pi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/ritratto-rene-redzepi-chef-che-ha-cambiato-alta-cucina-noma/",
+        "pubDate": "2026-03-12T19:30:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è la brigata di cucina: il modello militare sotto accusa dopo il caso Noma",
+        "description": "Dall’organizzazione ideata da Auguste Escoffier nelle cucine degli hotel di lusso alla polemica sul Noma di René Redzepi: come funziona davvero la brigata e per…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/brigata-cucina-modello-militare-accusa-caso-noma/",
+        "pubDate": "2026-03-12T18:33:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questo gioiello lombardo è candidato a diventare il Borgo dei Borghi 2026",
+        "description": "Ecco il candidato a borgo dei borghi 2026 per la Lombardia, un gioiello che si affaccia sul lago e che vale la pena di scoprire questa primavera…",
+        "link": "https://www.stylosophy.it/articolo/questo-gioiello-lombardo-e-candidato-a-diventare-il-borgo-dei-borghi-2026/248797/",
+        "pubDate": "2026-03-12T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Bottiglie pesanti, vini troppo alcolici e barriere linguistiche. La policrisi del vino spiegata bene",
+        "description": "Il futuro del settore? Mercati più vicini, formati alternativi, bassa gradazione alcolica e bollicine. Mentre in vigna il focus si sposterà dal bio al ripristin…",
+        "link": "https://www.gamberorosso.it/notizie/vino/guerre-crisi-vino-secondo-intelligenza-artificiale/",
+        "pubDate": "2026-03-12T17:12:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cari chef, quando la smetterete di raccontare frottole a noi giornalisti (e ai lettori)?",
+        "description": "Quando si risponde alla domanda di un giornalista bisognerebbe farlo con la massima sincerità e serietà, perché l'interlocutore ultimo non è lui, ma il lettore.…",
+        "link": "https://www.dissapore.com/ristoranti/cari-chef-quando-la-smetterete-di-raccontare-frottole-a-noi-e-ai-lettori/",
+        "pubDate": "2026-03-12T17:11:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/Soci-Stefano-Colombo-Claudio-Sadler-Credits-Jacopo-Salvi--e1770218428798.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Voleva fare lo chef, ora è una star del pane: la storia di Sergio Scovazzo",
+        "description": "Partito quasi per caso durante il Covid, il giovane fornaio piemontese oggi collabora con ristoranti stellati e tiene masterclass sui panettoni in tutto il mond…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/voleva-fare-chef-star-pane-sergio-scovazzo-grano-santena/",
+        "pubDate": "2026-03-12T17:01:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La trattoria della Dolce Vita riapre a Roma: il ritorno di Taverna Flavia tra star, storia e nuova cucina",
+        "description": "Da Audrey Hepburn a Frank Sinatra, era uno dei ristoranti simbolo della Roma della Dolce Vita. Oggi Taverna Flavia riapre con una nuova gestione e la cucina del…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/la-trattoria-della-dolce-vita-riapre-a-roma-il-ritorno-di-taverna-flavia-tra-star-storia-e-nuova-cucina/",
+        "pubDate": "2026-03-12T17:01:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Crisi del vino piemontese? Colpa delle cantine sociali”. Matteo Ascheri attacca il sistema delle cooperative",
+        "description": "L'ex presidente del consorzio del Barolo punta il dito contro chi paga sempre meno i conferitori e vende il vino a prezzi da hard discount. La sua ricetta? \"Est…",
+        "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-piemontese-matteo-ascheri-contro-cantine-sociali/",
+        "pubDate": "2026-03-12T16:50:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Caporalato e lavoro nero nelle Langhe: un business da 40 milioni di euro",
+        "description": "La stima contenuta in un dossier di Altraeconomia riguarda il periodo tra 2023 e 2024. Il Consorzio si difende: \"Dati parziali che non tengono conto della mecca…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caporalato-langhe-dossier-grappoli-amari/",
+        "pubDate": "2026-03-12T16:13:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Meno presenze italiane quest’anno a Düsseldorf. Ecco cosa aspettarci da ProWein 2026",
+        "description": "In vista dell’inizio della fiera tedesca abbiamo selezionato alcuni eventi da seguire. Si parte con la grande degustazione del 14 marzo firmata Gambero Rosso…",
+        "link": "https://www.gamberorosso.it/notizie/vino/dusseldorf-appuntamneti-prowein-2026/",
+        "pubDate": "2026-03-12T16:01:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Enovitis in campo 20° edizione: appuntamento il 17 e 18 giugno nel Chianti Classico",
+        "description": "Taglia il traguardo delle venti edizioni Enovitis in campo, la rassegna itinerante di Unione italiana vini (Uiv) dedicata alle tecnologie per la viticoltura e p…",
+        "link": "https://www.winemag.it/enovitis-in-campo-20-edizione-appuntamento-17-18-giugno-chianti-classico/",
+        "pubDate": "2026-03-12T15:18:21+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il caffè istantaneo è al centro di una falla legislativa da risolversi istantaneamente",
+        "description": "Attraverso il caffè istantaneo le aziende possono eludere il regolamento dell'Unione Europea sulla deforestazione, ma la situazione potrebbe cambiare presto.\nL'…",
+        "link": "https://www.dissapore.com/notizie/il-caffe-istantaneo-e-al-centro-di-una-falla-legislativa-da-risolversi-istantaneamente/",
+        "pubDate": "2026-03-12T15:03:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2541222803-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Zara Home riscopre il valore della tradizione: 6 pezzi imperdibili dalla Nuova Collezione",
+        "description": "Materiali naturali, lavorazioni curate e dettagli senza tempo definiscono alcune delle novità più interessanti della stagione firmata Zara Home.…",
+        "link": "https://www.stylosophy.it/articolo/zara-home-riscopre-il-valore-della-tradizione-nuova-collezione/248846/",
+        "pubDate": "2026-03-12T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Etro e Marco De Vincenzo si separano: si chiude un capitolo creativo durato quasi quattro anni",
+        "description": "Si chiude un capitolo nella storia recente di Etro. La maison milanese infatti ha annunciato la fine della collaborazione con Marco De Vincenzo, che negli ultim…",
+        "link": "https://www.grazia.it/moda/news-moda/marco-de-vincenzo-lascia-etro-959482",
+        "pubDate": "2026-03-12T14:45:49+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Nelle birre con l’uva (le IGA) c’è l’uva, ma solo da oggi si può scrivere in etichetta",
+        "description": "Dopo anni di paradossi normativi, Unionbirrai festeggia il parere del Ministero che fa chiarezza sulla produzione delle birre artigianali a base di ingredienti …",
+        "link": "https://www.dissapore.com/bere/nelle-birre-con-luva-le-iga-ce-luva-ma-solo-da-oggi-si-puo-scrivere-in-etichetta/",
+        "pubDate": "2026-03-12T14:05:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/VittorioFerraris-980x808-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "“Stop ai nuovi impianti viticoli. Ridurre le rese non basta più”. L’appello di Legacoop Agroalimentare",
         "description": "Per riequilibrare domanda e offerta vitivinicola, il presidente Maretti non esclude misure più drastiche come estirpazione dei vigneti e distillazione di crisi…",
@@ -30,6 +165,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "“Ho dovuto sputarlo”: i primi sostituti del cacao non stanno funzionando benissimo",
+        "description": "Le grandi aziende stanno provando a sostituire il cacao vero con surrogati, e i risultati non sembrano soddisfare tutti.\nL'articolo &#8220;Ho dovuto sputarlo&#8…",
+        "link": "https://www.dissapore.com/notizie/ho-dovuto-sputarlo-i-primi-sostituti-del-cacao-non-stanno-funzionando-benissimo/",
+        "pubDate": "2026-03-12T12:34:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2687933975-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
         "title": "“A Montefalco”: dal 26 al 28 aprile la presentazione del Sagrantino 2022",
         "description": "Dal 26 al 28 aprile Montefalco ospita “A Montefalco”, iniziativa promossa dal Consorzio Tutela Vini Montefalco dedicata alla stampa nazionale e internazionale e…",
         "link": "https://www.winemag.it/a-montefalco-dal-26-al-28-aprile-la-presentazione-del-sagrantino-2022/",
@@ -37,153 +181,36 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Siamo sicuri che il vino italiano si sia emancipato dalla Francia? Forse ha solo cambiato modello",
-        "description": "La Master of wine Sarah Heller si interroga sul concetto di fine wine applicato alla produzione italiana e sulla difficoltà di superare l'influenza ora di Borde…",
-        "link": "https://www.gamberorosso.it/notizie/vino/master-wine-sarah-heller-fine-wine-italiani/",
-        "pubDate": "2026-03-12T12:01:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Masi-Tenuta Casa Re Pinot Noir del Re: un nuovo Pinot Nero in Oltrepò Pavese",
-        "description": "Masi Agricola presenta a Vinitaly 2026 Pinot Noir del Re, nuovo Pinot Nero prodotto nella Tenuta Casa Re, nell’Oltrepò Pavese. Il vino nasce da uve coltivate ne…",
-        "link": "https://www.winemag.it/masi-tenuta-casa-re-pinot-noir-del-re-nuovo-pinot-nero-oltrepo-pavese/",
-        "pubDate": "2026-03-12T12:01:36+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Reserved: la primavera 2026 tra contrasti e femminilità contemporanea",
-        "description": "Effortless, luminosa e sofisticata. La nuova collezione Primavera 2026 di Reserved racconta una femminilità moderna che gioca con contrasti, colori vibranti e s…",
-        "link": "https://www.grazia.it/moda/news-moda/reserved-la-primavera-2026-tra-contrasti-e-femminilita-contemporanea-959041",
-        "pubDate": "2026-03-12T11:19:18+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_reserved.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Aspettando gli Oscar 2026: i look più belli delle vincitrici del passato",
-        "description": "La notte degli Oscar sta per arrivare e mentre proseguono i pronostici su chi sarà la vincitrice di questa edizione (Jessie Buckley sembra super favorita) è già…",
-        "link": "https://www.grazia.it/moda/celebrity-style/oscar-2026-film-vincitrici-look-celeb-red-carpet-emma-stone-julia-roberts-jessie-buckley-cate-blanchett-dolby-theatre-domenica-15-marzo-959376",
-        "pubDate": "2026-03-12T11:07:30+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Vincitrici_Oscar.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "I blush in stick più gettonati della Primavera 2026, facili da applicare e glam",
-        "description": "Facili da applicare, glam e super versatili, i blush in stick sono il \"mai più senza\" della Primavera. Ecco i migliori da non lasciarsi sfuggire...…",
-        "link": "https://www.stylosophy.it/articolo/i-blush-in-stick-piu-gettonati-della-primavera-2026/248863/",
-        "pubDate": "2026-03-12T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Lo sapevate che le Scarpe argento sono il must have della Primavera 2025?",
-        "description": "Per molte di noi le scarpe rappresentano il punto di partenza nella costruzione di un outfit. Prima ancora di scegliere abiti e accessori, sono proprio loro a g…",
-        "link": "https://www.stylosophy.it/articolo/lo-sapevate-che-le-scarpe-argento-sono-il-must-have-della-primavera-2025/248842/",
-        "pubDate": "2026-03-12T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Nuova stagione, nuovo knitwear: ecco gli abiti in maglia protagonisti della primavera 2026",
-        "description": "Filati più leggeri e nuances che fioriscono in colorazioni spesso monochrome: è questo il nuovo capitolo degli abiti in maglia della primavera estate 2026. Meno…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-in-maglia-donna-lunghi-eleganti-zara-modelli-primavera-knit-dress-958752",
-        "pubDate": "2026-03-12T09:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_ABITI_IN_MAGLIA.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Collio unito in difesa del vigneto Ronco della Chiesa di Borgo del Tiglio",
-        "description": "Una parte significativa della comunità del vino del Collio ha sottoscritto una lettera aperta indirizzata alla famiglia Manferrari di Borgo del Tiglio, dopo la …",
-        "link": "https://www.winemag.it/collio-unito-in-difesa-del-vigneto-ronco-della-chiesa-di-borgo-del-tiglio/",
-        "pubDate": "2026-03-12T09:11:23+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "E se il cioccolato del futuro non avesse cacao?",
-        "description": "Con l’ingrediente vegetale ChoViva, ottenuto da semi di girasole e vinaccioli fermentati, Nestlé punta a sostituire il cacao tradizionale mentre la crisi climat…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/primo-snack-cioccolato-senza-cioccolato-nestle/",
-        "pubDate": "2026-03-12T08:55:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il contadino inglese che è diventato un pioniere dell’olio d’oliva",
-        "description": "Nel Lincolnshire nasce uno degli esperimenti agricoli più sorprendenti d’Europa: 18mila olivi piantati nelle Fens per produrre olio inglese e affrontare il camb…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/contadino-inglese-diventato-pioniere-olio-oliva/",
-        "pubDate": "2026-03-12T08:44:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Le scuse non bastano”: Redzepi lascia il Noma dopo lo scandalo",
-        "description": "Lo chef simbolo della nuova cucina nordica annuncia il passo indietro dopo l’inchiesta del New York Times. Oltre 35 ex dipendenti che lo hanno accusato di viole…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/scuse-non-bastano-redzepi-lascia-noma-scandalo/",
-        "pubDate": "2026-03-12T07:31:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cardigan con zip: il capo cool da indossare ora e per tutta la primavera",
-        "description": "Se fino a poco tempo fa erano associati soprattutto a look sportivi o super casual, oggi i cardigan con zip sono ufficialmente entrati nel radar della moda. Com…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cardigan-con-zip-donna-zara-cotone-cashmere-nero-blu-bianco-modelli-primavera-958678",
-        "pubDate": "2026-03-12T07:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_maglie_zip.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Viandante del Cielo, vini del Trasimeno tra spirito locale e visione internazionale",
-        "description": "A Passignano in provincia di Perugia, sulle colline che dominano la sponda nord del lago Trasimeno, la cantina Viandante del Cielo (Cantina Rivelazione Centro I…",
-        "link": "https://www.winemag.it/viandante-del-cielo-spirito-locale-visione-internazionale-raccontare-trasimeno/",
-        "pubDate": "2026-03-12T06:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Viandante-del-Cielo-spirito-locale-e-visione-internazionale-per-raccontare-il-Trasimeno-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bianca Balti diventa Ambassador Bvlgari per l’Italia",
-        "description": "C’è qualcosa nella bellezza mediterranea di Bianca Balti che sembra dialogare naturalmente con l’estetica di Bvlgari. Non sorprende quindi che la top model ital…",
-        "link": "https://www.grazia.it/moda/news-moda/bianca-balti-diventa-testimonial-bvlgari-italia-959245",
-        "pubDate": "2026-03-11T18:05:49+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura-1-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Questo borgo sardo è un vero museo a cielo aperto, un luogo più unico che raro…",
-        "description": "Questo borgo sardo è un vero museo a cielo aperto che merita di essere scoperto questa primavera e vissuto in prima persona…",
-        "link": "https://www.stylosophy.it/articolo/questo-borgo-sardo-e-un-vero-museo-a-cielo-aperto-un-luogo-piu-unico-che-raro/248762/",
-        "pubDate": "2026-03-11T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Che cosa sono i panicelli, i fagottini calabresi di cui era ghiotto Gabriele D’Annunzio",
-        "description": "Piccoli fagottini di uva passa e scorza di cedro legati con ginestra selvatica: i Panicelli sono uno dei dessert più antichi della Costa dei Cedri, tra tradizio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/che-cosa-sono-i-panicelli-i-fagottini-calabresi-di-cui-era-ghiotto-gabriele-dannunzio/",
-        "pubDate": "2026-03-11T17:21:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Questo gioiello lombardo è candidato a diventare il Borgo dei Borghi 2026",
+        "description": "Ecco il candidato a borgo dei borghi 2026 per la Lombardia, un gioiello che si affaccia sul lago e che vale la pena di scoprire questa primavera…",
+        "link": "https://www.stylosophy.it/articolo/questo-gioiello-lombardo-e-candidato-a-diventare-il-borgo-dei-borghi-2026/248797/",
+        "pubDate": "2026-03-12T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Zara Home riscopre il valore della tradizione: 6 pezzi imperdibili dalla Nuova Collezione",
+        "description": "Materiali naturali, lavorazioni curate e dettagli senza tempo definiscono alcune delle novità più interessanti della stagione firmata Zara Home.…",
+        "link": "https://www.stylosophy.it/articolo/zara-home-riscopre-il-valore-della-tradizione-nuova-collezione/248846/",
+        "pubDate": "2026-03-12T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Etro e Marco De Vincenzo si separano: si chiude un capitolo creativo durato quasi quattro anni",
+        "description": "Si chiude un capitolo nella storia recente di Etro. La maison milanese infatti ha annunciato la fine della collaborazione con Marco De Vincenzo, che negli ultim…",
+        "link": "https://www.grazia.it/moda/news-moda/marco-de-vincenzo-lascia-etro-959482",
+        "pubDate": "2026-03-12T14:45:49+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Kendall Jenner mostra ai fan sui social come realizzare un make up semplice, luminoso e naturale da tutti i giorni!",
         "description": "Kendall Jenner ha mostrato ai fan sui social come realizzare un make up da tutti i giorni con pochi passaggi: semplice, luminoso e naturale.…",
@@ -336,36 +363,117 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/DESK-miu-miu-.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Ecco un borgo ligure che ha stregato perfino Byron, un luogo davvero eccezionale…",
-        "description": "Viaggio verso un borgo ligure che è pura bellezza, un luogo che ha ammaliato poeti e artisti e che farà lo stesso con chiunque deciderà di visitarlo…",
-        "link": "https://www.stylosophy.it/articolo/ecco-un-borgo-ligure-che-ha-stregato-perfino-byron-un-luogo-davvero-eccezionale/248724/",
-        "pubDate": "2026-03-10T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Louis Vuitton Autunno-Inverno 2026/27: ritorno alla Natura",
-        "description": "Nel calendario della Paris Fashion Week dedicata alle collezioni Autunno-Inverno 2026/27 arriva il giorno di Louis Vuitton e della nuova passerella firmata dal …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/louis-vuitton-sfilata-autunno-inverno-2026-27-parigi-958878",
-        "pubDate": "2026-03-10T17:57:35+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/desk-Louis-Vuitton-fw-2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Veneziane IKEA, un grande classico per finestre moderne",
-        "description": "Il classico delle veneziane torna in chiave moderna con IKEA VECKLARFLY, un’alternativa elegante alle tende a rullo.…",
-        "link": "https://www.stylosophy.it/articolo/le-veneziane-ikea-vecklarfly-il-ritorno-di-un-classico-per-finestre-moderne/248747/",
-        "pubDate": "2026-03-10T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Ascesa e declino di René Redzepi: la parabola dello chef che ha cambiato l’alta cucina",
+        "description": "Dal successo globale del Noma di Copenaghen e della New Nordic cuisine alle accuse di abusi denunciate da oltre 35 ex dipendenti: la storia di uno degli chef pi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/ritratto-rene-redzepi-chef-che-ha-cambiato-alta-cucina-noma/",
+        "pubDate": "2026-03-12T19:30:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è la brigata di cucina: il modello militare sotto accusa dopo il caso Noma",
+        "description": "Dall’organizzazione ideata da Auguste Escoffier nelle cucine degli hotel di lusso alla polemica sul Noma di René Redzepi: come funziona davvero la brigata e per…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/brigata-cucina-modello-militare-accusa-caso-noma/",
+        "pubDate": "2026-03-12T18:33:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bottiglie pesanti, vini troppo alcolici e barriere linguistiche. La policrisi del vino spiegata bene",
+        "description": "Il futuro del settore? Mercati più vicini, formati alternativi, bassa gradazione alcolica e bollicine. Mentre in vigna il focus si sposterà dal bio al ripristin…",
+        "link": "https://www.gamberorosso.it/notizie/vino/guerre-crisi-vino-secondo-intelligenza-artificiale/",
+        "pubDate": "2026-03-12T17:12:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cari chef, quando la smetterete di raccontare frottole a noi giornalisti (e ai lettori)?",
+        "description": "Quando si risponde alla domanda di un giornalista bisognerebbe farlo con la massima sincerità e serietà, perché l'interlocutore ultimo non è lui, ma il lettore.…",
+        "link": "https://www.dissapore.com/ristoranti/cari-chef-quando-la-smetterete-di-raccontare-frottole-a-noi-e-ai-lettori/",
+        "pubDate": "2026-03-12T17:11:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/Soci-Stefano-Colombo-Claudio-Sadler-Credits-Jacopo-Salvi--e1770218428798.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Voleva fare lo chef, ora è una star del pane: la storia di Sergio Scovazzo",
+        "description": "Partito quasi per caso durante il Covid, il giovane fornaio piemontese oggi collabora con ristoranti stellati e tiene masterclass sui panettoni in tutto il mond…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/voleva-fare-chef-star-pane-sergio-scovazzo-grano-santena/",
+        "pubDate": "2026-03-12T17:01:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La trattoria della Dolce Vita riapre a Roma: il ritorno di Taverna Flavia tra star, storia e nuova cucina",
+        "description": "Da Audrey Hepburn a Frank Sinatra, era uno dei ristoranti simbolo della Roma della Dolce Vita. Oggi Taverna Flavia riapre con una nuova gestione e la cucina del…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/la-trattoria-della-dolce-vita-riapre-a-roma-il-ritorno-di-taverna-flavia-tra-star-storia-e-nuova-cucina/",
+        "pubDate": "2026-03-12T17:01:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Crisi del vino piemontese? Colpa delle cantine sociali”. Matteo Ascheri attacca il sistema delle cooperative",
+        "description": "L'ex presidente del consorzio del Barolo punta il dito contro chi paga sempre meno i conferitori e vende il vino a prezzi da hard discount. La sua ricetta? \"Est…",
+        "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-piemontese-matteo-ascheri-contro-cantine-sociali/",
+        "pubDate": "2026-03-12T16:50:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Caporalato e lavoro nero nelle Langhe: un business da 40 milioni di euro",
+        "description": "La stima contenuta in un dossier di Altraeconomia riguarda il periodo tra 2023 e 2024. Il Consorzio si difende: \"Dati parziali che non tengono conto della mecca…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caporalato-langhe-dossier-grappoli-amari/",
+        "pubDate": "2026-03-12T16:13:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Meno presenze italiane quest’anno a Düsseldorf. Ecco cosa aspettarci da ProWein 2026",
+        "description": "In vista dell’inizio della fiera tedesca abbiamo selezionato alcuni eventi da seguire. Si parte con la grande degustazione del 14 marzo firmata Gambero Rosso…",
+        "link": "https://www.gamberorosso.it/notizie/vino/dusseldorf-appuntamneti-prowein-2026/",
+        "pubDate": "2026-03-12T16:01:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Enovitis in campo 20° edizione: appuntamento il 17 e 18 giugno nel Chianti Classico",
+        "description": "Taglia il traguardo delle venti edizioni Enovitis in campo, la rassegna itinerante di Unione italiana vini (Uiv) dedicata alle tecnologie per la viticoltura e p…",
+        "link": "https://www.winemag.it/enovitis-in-campo-20-edizione-appuntamento-17-18-giugno-chianti-classico/",
+        "pubDate": "2026-03-12T15:18:21+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il caffè istantaneo è al centro di una falla legislativa da risolversi istantaneamente",
+        "description": "Attraverso il caffè istantaneo le aziende possono eludere il regolamento dell'Unione Europea sulla deforestazione, ma la situazione potrebbe cambiare presto.\nL'…",
+        "link": "https://www.dissapore.com/notizie/il-caffe-istantaneo-e-al-centro-di-una-falla-legislativa-da-risolversi-istantaneamente/",
+        "pubDate": "2026-03-12T15:03:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2541222803-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nelle birre con l’uva (le IGA) c’è l’uva, ma solo da oggi si può scrivere in etichetta",
+        "description": "Dopo anni di paradossi normativi, Unionbirrai festeggia il parere del Ministero che fa chiarezza sulla produzione delle birre artigianali a base di ingredienti …",
+        "link": "https://www.dissapore.com/bere/nelle-birre-con-luva-le-iga-ce-luva-ma-solo-da-oggi-si-puo-scrivere-in-etichetta/",
+        "pubDate": "2026-03-12T14:05:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/VittorioFerraris-980x808-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "“Stop ai nuovi impianti viticoli. Ridurre le rese non basta più”. L’appello di Legacoop Agroalimentare",
         "description": "Per riequilibrare domanda e offerta vitivinicola, il presidente Maretti non esclude misure più drastiche come estirpazione dei vigneti e distillazione di crisi…",
@@ -385,6 +493,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "“Ho dovuto sputarlo”: i primi sostituti del cacao non stanno funzionando benissimo",
+        "description": "Le grandi aziende stanno provando a sostituire il cacao vero con surrogati, e i risultati non sembrano soddisfare tutti.\nL'articolo &#8220;Ho dovuto sputarlo&#8…",
+        "link": "https://www.dissapore.com/notizie/ho-dovuto-sputarlo-i-primi-sostituti-del-cacao-non-stanno-funzionando-benissimo/",
+        "pubDate": "2026-03-12T12:34:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2687933975-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "“A Montefalco”: dal 26 al 28 aprile la presentazione del Sagrantino 2022",
         "description": "Dal 26 al 28 aprile Montefalco ospita “A Montefalco”, iniziativa promossa dal Consorzio Tutela Vini Montefalco dedicata alla stampa nazionale e internazionale e…",
         "link": "https://www.winemag.it/a-montefalco-dal-26-al-28-aprile-la-presentazione-del-sagrantino-2022/",
@@ -392,15 +509,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Siamo sicuri che il vino italiano si sia emancipato dalla Francia? Forse ha solo cambiato modello",
-        "description": "La Master of wine Sarah Heller si interroga sul concetto di fine wine applicato alla produzione italiana e sulla difficoltà di superare l'influenza ora di Borde…",
-        "link": "https://www.gamberorosso.it/notizie/vino/master-wine-sarah-heller-fine-wine-italiani/",
-        "pubDate": "2026-03-12T12:01:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Masi-Tenuta Casa Re Pinot Noir del Re: un nuovo Pinot Nero in Oltrepò Pavese",
@@ -421,31 +529,13 @@
         "source": "Wine Mag"
       },
       {
-        "title": "E se il cioccolato del futuro non avesse cacao?",
-        "description": "Con l’ingrediente vegetale ChoViva, ottenuto da semi di girasole e vinaccioli fermentati, Nestlé punta a sostituire il cacao tradizionale mentre la crisi climat…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/primo-snack-cioccolato-senza-cioccolato-nestle/",
-        "pubDate": "2026-03-12T08:55:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il contadino inglese che è diventato un pioniere dell’olio d’oliva",
-        "description": "Nel Lincolnshire nasce uno degli esperimenti agricoli più sorprendenti d’Europa: 18mila olivi piantati nelle Fens per produrre olio inglese e affrontare il camb…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/contadino-inglese-diventato-pioniere-olio-oliva/",
-        "pubDate": "2026-03-12T08:44:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Le scuse non bastano”: Redzepi lascia il Noma dopo lo scandalo",
-        "description": "Lo chef simbolo della nuova cucina nordica annuncia il passo indietro dopo l’inchiesta del New York Times. Oltre 35 ex dipendenti che lo hanno accusato di viole…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/scuse-non-bastano-redzepi-lascia-noma-scandalo/",
-        "pubDate": "2026-03-12T07:31:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "René Redzepi e la decisione più incredibile: lo chef lascia la guida del Noma",
+        "description": "Dopo l'apertura del pop up del Noma a Los Angeles, con qualche sponsor in meno del previsto, René Redzepi ha improvvisamente annunciato l'addio alla direzione d…",
+        "link": "https://www.dissapore.com/notizie/rene-redzepi-e-la-decisione-piu-incredibile-lo-chef-lascia-la-guida-del-noma/",
+        "pubDate": "2026-03-12T08:29:40+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Noma-Los-Angeles.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       },
       {
         "title": "Viandante del Cielo, vini del Trasimeno tra spirito locale e visione internazionale",
@@ -453,96 +543,6 @@
         "link": "https://www.winemag.it/viandante-del-cielo-spirito-locale-visione-internazionale-raccontare-trasimeno/",
         "pubDate": "2026-03-12T06:00:00+00:00",
         "image": "https://www.winemag.it/wp-content/uploads/2026/03/Viandante-del-Cielo-spirito-locale-e-visione-internazionale-per-raccontare-il-Trasimeno-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Che cosa sono i panicelli, i fagottini calabresi di cui era ghiotto Gabriele D’Annunzio",
-        "description": "Piccoli fagottini di uva passa e scorza di cedro legati con ginestra selvatica: i Panicelli sono uno dei dessert più antichi della Costa dei Cedri, tra tradizio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/che-cosa-sono-i-panicelli-i-fagottini-calabresi-di-cui-era-ghiotto-gabriele-dannunzio/",
-        "pubDate": "2026-03-11T17:21:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’export di vino italiano chiude il 2025 a 7,7 miliardi di euro: persi 300 milioni di euro",
-        "description": "Si registra un forte calo negli Usa (-9,2%) a causa dei dazi e della svalutazione del dollaro. Uiv: \"Nel secondo semestre difficoltà senza precedenti\"…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/perdita-export-vino-italiano-2025/",
-        "pubDate": "2026-03-11T17:13:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La tuna pizza arriva a Firenze: debutta il ristorante dello chef globale Akira Back",
-        "description": "Lo chef coreano cresciuto negli Stati Uniti debutta in Italia con il suo ristorante al W Florence: sushi contemporaneo, influenze coreane e piatti cult come la …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/akira-back-firenze-sushi-w-florence/",
-        "pubDate": "2026-03-11T16:26:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Redzepi ha chiesto scusa, spero non ci siano conseguenze”. Raffaele Alajmo sul caso Noma",
-        "description": "Caso Noma, Raffaele Alajmo commenta le accuse a René Redzepi e il modello dell’alta ristorazione tra stage, pressione e lavoro in cucina…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/redzepi-chiesto-scusa-spero-non-conseguenze-raffaele-alajmo-caso-noma/",
-        "pubDate": "2026-03-11T16:19:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cammini del Vino: a Milano confronto nazionale sull’enoturismo a piedi",
-        "description": "Il vino come esperienza di territorio e il cammino come strumento di scoperta delle comunità locali. Nasce da questa visione l’incontro “Cammini del Vino; esper…",
-        "link": "https://www.winemag.it/cammini-del-vino-a-milano-confronto-nazionale-sullenoturismo-a-piedi/",
-        "pubDate": "2026-03-11T11:07:30+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Orient Express Venezia: Heinz Beck alla guida la proposta gastronomica",
-        "description": "Lo chef internazionale Heinz Beck assume la guida dell’intera proposta gastronomica dell’hotel Orient Express Venezia. Figura di riferimento dell’alta cucina eu…",
-        "link": "https://www.winemag.it/orient-express-venezia-heinz-beck-alla-guida-la-proposta-gastronomica/",
-        "pubDate": "2026-03-11T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bayer accelera sulla viticoltura rigenerativa con il progetto ‘Rigenerare per crescere’",
-        "description": "Bayer rafforza il proprio impegno nella viticoltura rigenerativa con il progetto “Rigenerare per crescere”, presentato quest&#8217;oggi, 11 marzo 2026, all’Audi…",
-        "link": "https://www.winemag.it/bayer-accelera-sulla-viticoltura-rigenerativa-con-il-progetto-rigenerare-per-crescere/",
-        "pubDate": "2026-03-11T10:57:41+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Livigno punta sulla colazione identitaria: nasce Tas’t, progetto dedicato ai sapori locali",
-        "description": "Sull’onda dell’entusiasmo generato dai Giochi Olimpici Invernali di Milano Cortina 2026, Livigno rafforza il percorso di valorizzazione delle proprie eccellenze…",
-        "link": "https://www.winemag.it/tas-t-colazione-identitaria-di-livigno/",
-        "pubDate": "2026-03-11T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Letrari: 50 anni di storia, famiglia e Trentodoc",
-        "description": "Letrari giunge al traguardo dei 50 anni di attività. La cantina, pioniera del Trentodoc, celebra il primo mezzo secolo di storia con una serie di eventi, il pri…",
-        "link": "https://www.winemag.it/letrari-50-anni-di-storia-famiglia-trentodoc/",
-        "pubDate": "2026-03-11T06:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Letrari-50-anni-di-storia-famiglia-e-TrentoDoc-LETRARI-36.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Guerra in Iran e caro gasolio: allarme Coldiretti sui danni all’export agroalimentare",
-        "description": "L’aumento dei costi di produzione e il blocco dei traffici commerciali legato alla guerra in Iran stanno già provocando gravi conseguenze per l’agroalimentare i…",
-        "link": "https://www.winemag.it/guerra-in-iran-e-caro-gasolio-allarme-coldiretti-sui-danni-allexport-agroalimentare/",
-        "pubDate": "2026-03-10T16:21:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       }
