@@ -1,7 +1,79 @@
 {
-  "generated": "2026-03-13T14:30:51.141798+00:00",
+  "generated": "2026-03-13T19:48:45.013129+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Fritto e pieno di crema: dove mangiare i migliori bignè di San Giuseppe a Roma",
+        "description": "Fritti, enormi e stracolmi di crema pasticcera: i bignè di San Giuseppe sono il vero dolce dei papà romani. Ecco dove trovare i migliori in città…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-comprare-bigne-san-giuseppe-roma-festa-del-papa/",
+        "pubDate": "2026-03-13T18:37:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha lasciato le cucine stellate per fare il pane: la scelta di Giulia Foppoli a Lucca",
+        "description": "Dopo Alma e le cucine di Bottura, Alajmo e Berton, Giulia Foppoli ha scelto il pane. A Lucca ha aperto Le Lucciole, un panificio lento e artigianale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/lucciole-panificio-lucca-giulia-foppoli/",
+        "pubDate": "2026-03-13T18:35:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma apre Bar Sogno: il baretto di quartiere dove si beve naturale e si vive il bancone",
+        "description": "All’Appio Latino quattro amici aprono Bar Sogno: vini naturali, piattini semplici, musica e un bancone pensato per far tornare il bar al centro della vita di qu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bar-sogno-roma-nuovo-quartiere-appio-latino/",
+        "pubDate": "2026-03-13T18:32:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cosa sono gli spaghetti del saponaro, la pasta povera amata da Eduardo De Filippo",
+        "description": "Olive di Gaeta, capperi e pangrattato: la ricetta degli spaghetti “a sapunariello”, uno dei piatti più semplici e identitari della cucina napoletana…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/spaghetti-sapunariello-saponaro-eduardo-de-filippo/",
+        "pubDate": "2026-03-13T18:30:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pestàt, Sasaka, Varhackara e Argjel: cosa sono le conserve di maiale friulane",
+        "description": "Quali sono, come si fanno e in che modo si usano in cucina le conserve a base di lardo del Friuli Venezia Giulia. \nL'articolo Pestàt, Sasaka, Varhackara e Argje…",
+        "link": "https://www.dissapore.com/cucina/pestat-sasaka-varhackara-e-argjel-cosa-sono-le-conserve-di-maiale-friulane/",
+        "pubDate": "2026-03-13T18:17:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Pestat.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ecco le città d’arte italiane in cui organizzare un weekend di Pasqua davvero speciale",
+        "description": "Ecco le città d'arte italiane in cui organizzare il weekend di Pasqua, per vivere dei giorni di festa pieni di bellezza…",
+        "link": "https://www.stylosophy.it/articolo/ecco-le-citta-darte-italiane-in-cui-organizzare-un-weekend-di-pasqua-davvero-speciale/248818/",
+        "pubDate": "2026-03-13T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "In un antico casale dei Castelli Romani c’è una famiglia che produce uno dei migliori Frascati",
+        "description": "La malvasia del Lazio, detta anche malvasia puntinata, è il vitigno protagonista del vino principe del territorio sul fronte bianchista, il Frascati. Qui vi pre…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/frascati-quarto-marchese-sotto-20-euro/",
+        "pubDate": "2026-03-13T15:55:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "IKEA sorprende con il comodino che cambia forma: piccolo, flessibile e perfetto per case mini",
+        "description": "Un nuovo complemento firmato IKEA, promette di rivoluzionare lo stile del classico comodino grazie a una struttura leggera e adattabile a più ambienti della cas…",
+        "link": "https://www.stylosophy.it/articolo/ikea-sorprende-con-il-comodino-che-cambia-forma/248889/",
+        "pubDate": "2026-03-13T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Hello spring! La nuova stagione porta con sé nuove icone: modelli di borse da scoprire, bijoux che illuminano i look, archivi storici che tornano a ispirare il …",
@@ -109,81 +181,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_love_first_sight_12_03.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "La carne del futuro sarà prodotta a partire dal secchio dell’umido",
-        "description": "Una recente ricerca scientifica spiega come la fermentazione fungina può trasformare gli scarti alimentari in proteine commestibili, per contrastare la scarsità…",
-        "link": "https://www.dissapore.com/notizie/la-carne-del-futuro-sara-prodotta-a-partire-dal-secchio-dellumido/",
-        "pubDate": "2026-03-13T09:07:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/fermentazione-fungina-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Da fashion editor vi svelo 9 scarpe che sembrano super costose ma non lo sono affatto!",
-        "description": "Nei miei anni da fashion editor ho imparato a riconoscere quali sono le scarpe &#8220;smart&#8221;, quelli eleganti, versatili, perfette in molte occasioni e ch…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-eleganti-sotto-i-100-euro-decollete-slingback-ballerine-958940",
-        "pubDate": "2026-03-13T07:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_SCARPE_SOTTO_100.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Apre Isa Voiardi a Roma: il nuovo caffè che riscopre savoiardi e pasticci",
-        "description": "Nel quartiere Salario il nuovo locale di Gastone Pierini punta su savoiardi, maritozzi e pasticci salati ispirati alla tradizione francese di Paul Bocuse…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-isa-voiardi-caffe-pasticci/",
-        "pubDate": "2026-03-13T07:32:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il caso Noma riapre il lato oscuro delle cucine stellate: urla, punizioni e brigate sotto pressione",
-        "description": "Dallo scandalo che ha travolto René Redzepi alle testimonianze di chef come Gordon Ramsay e Ángel León: il dibattito su abusi, disciplina marziale e cultura tos…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-lato-oscuro-cucine-stellate-urla-punizioni-brigate/",
-        "pubDate": "2026-03-13T05:01:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ascesa e declino di René Redzepi: la parabola dello chef che ha cambiato l’alta cucina",
-        "description": "Dal successo globale del Noma di Copenaghen e della New Nordic cuisine alle accuse di abusi denunciate da oltre 35 ex dipendenti: la storia di uno degli chef pi…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ritratto-rene-redzepi-chef-che-ha-cambiato-alta-cucina-noma/",
-        "pubDate": "2026-03-12T19:30:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è la brigata di cucina: il modello militare sotto accusa dopo il caso Noma",
-        "description": "Dall’organizzazione ideata da Auguste Escoffier nelle cucine degli hotel di lusso alla polemica sul Noma di René Redzepi: come funziona davvero la brigata e per…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/brigata-cucina-modello-militare-accusa-caso-noma/",
-        "pubDate": "2026-03-12T18:33:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questo gioiello lombardo è candidato a diventare il Borgo dei Borghi 2026",
-        "description": "Ecco il candidato a borgo dei borghi 2026 per la Lombardia, un gioiello che si affaccia sul lago e che vale la pena di scoprire questa primavera…",
-        "link": "https://www.stylosophy.it/articolo/questo-gioiello-lombardo-e-candidato-a-diventare-il-borgo-dei-borghi-2026/248797/",
-        "pubDate": "2026-03-12T18:00:00+00:00",
+        "title": "Ecco le città d’arte italiane in cui organizzare un weekend di Pasqua davvero speciale",
+        "description": "Ecco le città d'arte italiane in cui organizzare il weekend di Pasqua, per vivere dei giorni di festa pieni di bellezza…",
+        "link": "https://www.stylosophy.it/articolo/ecco-le-citta-darte-italiane-in-cui-organizzare-un-weekend-di-pasqua-davvero-speciale/248818/",
+        "pubDate": "2026-03-13T18:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Bottiglie pesanti, vini troppo alcolici e barriere linguistiche. La policrisi del vino spiegata bene",
-        "description": "Il futuro del settore? Mercati più vicini, formati alternativi, bassa gradazione alcolica e bollicine. Mentre in vigna il focus si sposterà dal bio al ripristin…",
-        "link": "https://www.gamberorosso.it/notizie/vino/guerre-crisi-vino-secondo-intelligenza-artificiale/",
-        "pubDate": "2026-03-12T17:12:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
+        "title": "IKEA sorprende con il comodino che cambia forma: piccolo, flessibile e perfetto per case mini",
+        "description": "Un nuovo complemento firmato IKEA, promette di rivoluzionare lo stile del classico comodino grazie a una struttura leggera e adattabile a più ambienti della cas…",
+        "link": "https://www.stylosophy.it/articolo/ikea-sorprende-con-il-comodino-che-cambia-forma/248889/",
+        "pubDate": "2026-03-13T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Hello spring! La nuova stagione porta con sé nuove icone: modelli di borse da scoprire, bijoux che illuminano i look, archivi storici che tornano a ispirare il …",
@@ -345,27 +363,63 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_ABITI_IN_MAGLIA.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Questo borgo sardo è un vero museo a cielo aperto, un luogo più unico che raro…",
-        "description": "Questo borgo sardo è un vero museo a cielo aperto che merita di essere scoperto questa primavera e vissuto in prima persona…",
-        "link": "https://www.stylosophy.it/articolo/questo-borgo-sardo-e-un-vero-museo-a-cielo-aperto-un-luogo-piu-unico-che-raro/248762/",
-        "pubDate": "2026-03-11T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Mango Home si ispira a Duralex e lancia una collezione di bicchieri, tazze e accessori da cucina in stile retrò",
-        "description": "Una collezione di bicchieri e accessori in vetro resistente che riporta in tavola il fascino delle stoviglie di una volta, ma con un tocco contemporaneo.…",
-        "link": "https://www.stylosophy.it/articolo/mango-home-si-ispira-a-duralex-e-lancia-una-collezione-di-bicchieri-tazze-e-accessori-da-cucina-in-stile-retro/248801/",
-        "pubDate": "2026-03-11T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Fritto e pieno di crema: dove mangiare i migliori bignè di San Giuseppe a Roma",
+        "description": "Fritti, enormi e stracolmi di crema pasticcera: i bignè di San Giuseppe sono il vero dolce dei papà romani. Ecco dove trovare i migliori in città…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-comprare-bigne-san-giuseppe-roma-festa-del-papa/",
+        "pubDate": "2026-03-13T18:37:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha lasciato le cucine stellate per fare il pane: la scelta di Giulia Foppoli a Lucca",
+        "description": "Dopo Alma e le cucine di Bottura, Alajmo e Berton, Giulia Foppoli ha scelto il pane. A Lucca ha aperto Le Lucciole, un panificio lento e artigianale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/lucciole-panificio-lucca-giulia-foppoli/",
+        "pubDate": "2026-03-13T18:35:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma apre Bar Sogno: il baretto di quartiere dove si beve naturale e si vive il bancone",
+        "description": "All’Appio Latino quattro amici aprono Bar Sogno: vini naturali, piattini semplici, musica e un bancone pensato per far tornare il bar al centro della vita di qu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bar-sogno-roma-nuovo-quartiere-appio-latino/",
+        "pubDate": "2026-03-13T18:32:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cosa sono gli spaghetti del saponaro, la pasta povera amata da Eduardo De Filippo",
+        "description": "Olive di Gaeta, capperi e pangrattato: la ricetta degli spaghetti “a sapunariello”, uno dei piatti più semplici e identitari della cucina napoletana…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/spaghetti-sapunariello-saponaro-eduardo-de-filippo/",
+        "pubDate": "2026-03-13T18:30:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pestàt, Sasaka, Varhackara e Argjel: cosa sono le conserve di maiale friulane",
+        "description": "Quali sono, come si fanno e in che modo si usano in cucina le conserve a base di lardo del Friuli Venezia Giulia. \nL'articolo Pestàt, Sasaka, Varhackara e Argje…",
+        "link": "https://www.dissapore.com/cucina/pestat-sasaka-varhackara-e-argjel-cosa-sono-le-conserve-di-maiale-friulane/",
+        "pubDate": "2026-03-13T18:17:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Pestat.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In un antico casale dei Castelli Romani c’è una famiglia che produce uno dei migliori Frascati",
+        "description": "La malvasia del Lazio, detta anche malvasia puntinata, è il vitigno protagonista del vino principe del territorio sul fronte bianchista, il Frascati. Qui vi pre…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/frascati-quarto-marchese-sotto-20-euro/",
+        "pubDate": "2026-03-13T15:55:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "L’export alimentare made in Italy cresce, ma mancano i professionisti: i dati",
         "description": "A fronte di una crescita sui mercati internazionali, il futuro dell'alimentare italiano è messo in dubbio dalla mancanza di pastai, panettieri, pasticcieri e ge…",
@@ -421,37 +475,28 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Pasqua 2026 sulla Bolgheri Coast: natura, mare e relax tra Rimigliano e il Park Hotel Marinetta",
+        "description": "Le vacanze di Pasqua rappresentano un’occasione per organizzare una pausa all’aria aperta e approfittare della primavera, quando le giornate si allungano e il c…",
+        "link": "https://www.winemag.it/pasqua-2026-bolgheri-coast-natura-mare-relax-rimigliano/",
+        "pubDate": "2026-03-13T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Fiano e Sangiovese in Australia: c’è un po’ di Italia in Oceania",
+        "description": "Gli esploratori europei che viaggiavano verso la terra posta sotto il continente asiatico la chiamavano The Land Down Under. Il Paese Giù Sotto. L&#8217;Austral…",
+        "link": "https://www.winemag.it/fiano-e-sangiovese-in-australia-ce-un-po-di-italia-in-oceania/",
+        "pubDate": "2026-03-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Il caso Noma riapre il lato oscuro delle cucine stellate: urla, punizioni e brigate sotto pressione",
         "description": "Dallo scandalo che ha travolto René Redzepi alle testimonianze di chef come Gordon Ramsay e Ángel León: il dibattito su abusi, disciplina marziale e cultura tos…",
         "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-lato-oscuro-cucine-stellate-urla-punizioni-brigate/",
         "pubDate": "2026-03-13T05:01:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ascesa e declino di René Redzepi: la parabola dello chef che ha cambiato l’alta cucina",
-        "description": "Dal successo globale del Noma di Copenaghen e della New Nordic cuisine alle accuse di abusi denunciate da oltre 35 ex dipendenti: la storia di uno degli chef pi…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ritratto-rene-redzepi-chef-che-ha-cambiato-alta-cucina-noma/",
-        "pubDate": "2026-03-12T19:30:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è la brigata di cucina: il modello militare sotto accusa dopo il caso Noma",
-        "description": "Dall’organizzazione ideata da Auguste Escoffier nelle cucine degli hotel di lusso alla polemica sul Noma di René Redzepi: come funziona davvero la brigata e per…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/brigata-cucina-modello-militare-accusa-caso-noma/",
-        "pubDate": "2026-03-12T18:33:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Bottiglie pesanti, vini troppo alcolici e barriere linguistiche. La policrisi del vino spiegata bene",
-        "description": "Il futuro del settore? Mercati più vicini, formati alternativi, bassa gradazione alcolica e bollicine. Mentre in vigna il focus si sposterà dal bio al ripristin…",
-        "link": "https://www.gamberorosso.it/notizie/vino/guerre-crisi-vino-secondo-intelligenza-artificiale/",
-        "pubDate": "2026-03-12T17:12:37+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -466,22 +511,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "Voleva fare lo chef, ora è una star del pane: la storia di Sergio Scovazzo",
-        "description": "Partito quasi per caso durante il Covid, il giovane fornaio piemontese oggi collabora con ristoranti stellati e tiene masterclass sui panettoni in tutto il mond…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/voleva-fare-chef-star-pane-sergio-scovazzo-grano-santena/",
-        "pubDate": "2026-03-12T17:01:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La trattoria della Dolce Vita riapre a Roma: il ritorno di Taverna Flavia tra star, storia e nuova cucina",
-        "description": "Da Audrey Hepburn a Frank Sinatra, era uno dei ristoranti simbolo della Roma della Dolce Vita. Oggi Taverna Flavia riapre con una nuova gestione e la cucina del…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/la-trattoria-della-dolce-vita-riapre-a-roma-il-ritorno-di-taverna-flavia-tra-star-storia-e-nuova-cucina/",
-        "pubDate": "2026-03-12T17:01:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Enovitis in campo 20° edizione: appuntamento il 17 e 18 giugno nel Chianti Classico",
+        "description": "Taglia il traguardo delle venti edizioni Enovitis in campo, la rassegna itinerante di Unione italiana vini (Uiv) dedicata alle tecnologie per la viticoltura e p…",
+        "link": "https://www.winemag.it/enovitis-in-campo-20-edizione-appuntamento-17-18-giugno-chianti-classico/",
+        "pubDate": "2026-03-12T15:18:21+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Il caffè istantaneo è al centro di una falla legislativa da risolversi istantaneamente",
@@ -507,42 +543,6 @@
         "link": "https://www.dissapore.com/notizie/ho-dovuto-sputarlo-i-primi-sostituti-del-cacao-non-stanno-funzionando-benissimo/",
         "pubDate": "2026-03-12T12:34:06+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2687933975-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "René Redzepi e la decisione più incredibile: lo chef lascia la guida del Noma",
-        "description": "Dopo l'apertura del pop up del Noma a Los Angeles, con qualche sponsor in meno del previsto, René Redzepi ha improvvisamente annunciato l'addio alla direzione d…",
-        "link": "https://www.dissapore.com/notizie/rene-redzepi-e-la-decisione-piu-incredibile-lo-chef-lascia-la-guida-del-noma/",
-        "pubDate": "2026-03-12T08:29:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Noma-Los-Angeles.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La Malvasia dai giovani produttori piacentini: perché partecipare a Innesti",
-        "description": "Malvasia Prima Vol. 2 è l'evento voluto dal collettivo Innesti per promuovere una nuova lettura sulla Malvasia, anche confrontandola con un grande vitigno inter…",
-        "link": "https://www.dissapore.com/notizie/la-malvasia-dai-giovani-produttori-piacentini-perche-partecipare-a-innesti/",
-        "pubDate": "2026-03-11T16:16:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Innesti-MalvasiaPrima-Vol2_01-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La buona idea della pizza di Ciccio Vitiello che nessuno serve",
-        "description": "Ciccio Vitiello propone una pizza che nessuno serve al tavolo: l'ennesima eccentrica idea che però, questa volta, ci piace. \nL'articolo La buona idea della pizz…",
-        "link": "https://www.dissapore.com/notizie/la-buona-idea-della-pizza-di-ciccio-vitiello-che-nessuno-serve/",
-        "pubDate": "2026-03-11T11:06:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/pizza-cover.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Polemica a Alessandro Borghese – 4 ristoranti: “Nel bunet non ci vanno le uova”",
-        "description": "Nell'ultima puntata di Alessandro Borghese - 4 ristoranti, andata in onda da Torino, è partita una polemica tutta sabauda, se il bunet si faccia con le uova o n…",
-        "link": "https://www.dissapore.com/notizie/polemica-a-alessandro-borghese-4-ristoranti-nel-bunet-non-ci-vanno-le-uova/",
-        "pubDate": "2026-03-11T09:21:03+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/bunet.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
