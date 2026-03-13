@@ -1,7 +1,43 @@
 {
-  "generated": "2026-03-12T19:55:33.861243+00:00",
+  "generated": "2026-03-13T07:59:18.398652+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Apre Isa Voiardi a Roma: il nuovo caffè che riscopre savoiardi e pasticci",
+        "description": "Nel quartiere Salario il nuovo locale di Gastone Pierini punta su savoiardi, maritozzi e pasticci salati ispirati alla tradizione francese di Paul Bocuse…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-isa-voiardi-caffe-pasticci/",
+        "pubDate": "2026-03-13T07:32:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pasqua 2026 sulla Bolgheri Coast: natura, mare e relax tra Rimigliano e il Park Hotel Marinetta",
+        "description": "Le vacanze di Pasqua rappresentano un’occasione per organizzare una pausa all’aria aperta e approfittare della primavera, quando le giornate si allungano e il c…",
+        "link": "https://www.winemag.it/pasqua-2026-bolgheri-coast-natura-mare-relax-rimigliano/",
+        "pubDate": "2026-03-13T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Fiano e Sangiovese in Australia: c’è un po’ di Italia in Oceania",
+        "description": "Gli esploratori europei che viaggiavano verso la terra posta sotto il continente asiatico la chiamavano The Land Down Under. Il Paese Giù Sotto. L&#8217;Austral…",
+        "link": "https://www.winemag.it/fiano-e-sangiovese-in-australia-ce-un-po-di-italia-in-oceania/",
+        "pubDate": "2026-03-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il caso Noma riapre il lato oscuro delle cucine stellate: urla, punizioni e brigate sotto pressione",
+        "description": "Dallo scandalo che ha travolto René Redzepi alle testimonianze di chef come Gordon Ramsay e Ángel León: il dibattito su abusi, disciplina marziale e cultura tos…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-lato-oscuro-cucine-stellate-urla-punizioni-brigate/",
+        "pubDate": "2026-03-13T05:01:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Ascesa e declino di René Redzepi: la parabola dello chef che ha cambiato l’alta cucina",
         "description": "Dal successo globale del Noma di Copenaghen e della New Nordic cuisine alle accuse di abusi denunciate da oltre 35 ex dipendenti: la storia di uno degli chef pi…",
@@ -138,24 +174,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Stop ai nuovi impianti viticoli. Ridurre le rese non basta più”. L’appello di Legacoop Agroalimentare",
-        "description": "Per riequilibrare domanda e offerta vitivinicola, il presidente Maretti non esclude misure più drastiche come estirpazione dei vigneti e distillazione di crisi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/stop-nuovi-impianti-viticoli-appello-legacoop-agroalimentare/",
-        "pubDate": "2026-03-12T13:47:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre milioni di euro per un impianto di dealcolazione vini in Italia. Il Gruppo Argea investe sul no alcol",
-        "description": "La sede non è stata ancora scelta ma sarà al Settentrione. Come racconta il ceo Romani, accanto al dealcolato, l'altra scommessa è sui ready to drink a base vin…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/impianto-dealcolazione-vini-gruppo-argea/",
-        "pubDate": "2026-03-12T13:09:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Kendall Jenner mostra ai fan sui social come realizzare un make up semplice, luminoso e naturale da tutti i giorni!",
         "description": "Kendall Jenner ha mostrato ai fan sui social come realizzare un make up da tutti i giorni con pochi passaggi: semplice, luminoso e naturale.…",
         "link": "https://www.stylosophy.it/articolo/kendall-jenner-mostra-ai-fan-sui-social-come-realizzare-un-make-up-semplice-luminoso-e-naturale-da-tutti-i-giorni/248837/",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "“Ho dovuto sputarlo”: i primi sostituti del cacao non stanno funzionando benissimo",
-        "description": "Le grandi aziende stanno provando a sostituire il cacao vero con surrogati, e i risultati non sembrano soddisfare tutti.\nL'articolo &#8220;Ho dovuto sputarlo&#8…",
-        "link": "https://www.dissapore.com/notizie/ho-dovuto-sputarlo-i-primi-sostituti-del-cacao-non-stanno-funzionando-benissimo/",
-        "pubDate": "2026-03-12T12:34:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2687933975-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“A Montefalco”: dal 26 al 28 aprile la presentazione del Sagrantino 2022",
-        "description": "Dal 26 al 28 aprile Montefalco ospita “A Montefalco”, iniziativa promossa dal Consorzio Tutela Vini Montefalco dedicata alla stampa nazionale e internazionale e…",
-        "link": "https://www.winemag.it/a-montefalco-dal-26-al-28-aprile-la-presentazione-del-sagrantino-2022/",
-        "pubDate": "2026-03-12T12:21:04+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Apre Isa Voiardi a Roma: il nuovo caffè che riscopre savoiardi e pasticci",
+        "description": "Nel quartiere Salario il nuovo locale di Gastone Pierini punta su savoiardi, maritozzi e pasticci salati ispirati alla tradizione francese di Paul Bocuse…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-isa-voiardi-caffe-pasticci/",
+        "pubDate": "2026-03-13T07:32:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pasqua 2026 sulla Bolgheri Coast: natura, mare e relax tra Rimigliano e il Park Hotel Marinetta",
+        "description": "Le vacanze di Pasqua rappresentano un’occasione per organizzare una pausa all’aria aperta e approfittare della primavera, quando le giornate si allungano e il c…",
+        "link": "https://www.winemag.it/pasqua-2026-bolgheri-coast-natura-mare-relax-rimigliano/",
+        "pubDate": "2026-03-13T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Fiano e Sangiovese in Australia: c’è un po’ di Italia in Oceania",
+        "description": "Gli esploratori europei che viaggiavano verso la terra posta sotto il continente asiatico la chiamavano The Land Down Under. Il Paese Giù Sotto. L&#8217;Austral…",
+        "link": "https://www.winemag.it/fiano-e-sangiovese-in-australia-ce-un-po-di-italia-in-oceania/",
+        "pubDate": "2026-03-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il caso Noma riapre il lato oscuro delle cucine stellate: urla, punizioni e brigate sotto pressione",
+        "description": "Dallo scandalo che ha travolto René Redzepi alle testimonianze di chef come Gordon Ramsay e Ángel León: il dibattito su abusi, disciplina marziale e cultura tos…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-lato-oscuro-cucine-stellate-urla-punizioni-brigate/",
+        "pubDate": "2026-03-13T05:01:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Ascesa e declino di René Redzepi: la parabola dello chef che ha cambiato l’alta cucina",
         "description": "Dal successo globale del Noma di Copenaghen e della New Nordic cuisine alle accuse di abusi denunciate da oltre 35 ex dipendenti: la storia di uno degli chef pi…",
         "link": "https://www.gamberorosso.it/notizie/attualita/ritratto-rene-redzepi-chef-che-ha-cambiato-alta-cucina-noma/",
@@ -475,24 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Stop ai nuovi impianti viticoli. Ridurre le rese non basta più”. L’appello di Legacoop Agroalimentare",
-        "description": "Per riequilibrare domanda e offerta vitivinicola, il presidente Maretti non esclude misure più drastiche come estirpazione dei vigneti e distillazione di crisi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/stop-nuovi-impianti-viticoli-appello-legacoop-agroalimentare/",
-        "pubDate": "2026-03-12T13:47:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre milioni di euro per un impianto di dealcolazione vini in Italia. Il Gruppo Argea investe sul no alcol",
-        "description": "La sede non è stata ancora scelta ma sarà al Settentrione. Come racconta il ceo Romani, accanto al dealcolato, l'altra scommessa è sui ready to drink a base vin…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/impianto-dealcolazione-vini-gruppo-argea/",
-        "pubDate": "2026-03-12T13:09:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "“Ho dovuto sputarlo”: i primi sostituti del cacao non stanno funzionando benissimo",
         "description": "Le grandi aziende stanno provando a sostituire il cacao vero con surrogati, e i risultati non sembrano soddisfare tutti.\nL'articolo &#8220;Ho dovuto sputarlo&#8…",
         "link": "https://www.dissapore.com/notizie/ho-dovuto-sputarlo-i-primi-sostituti-del-cacao-non-stanno-funzionando-benissimo/",
@@ -525,24 +543,6 @@
         "link": "https://www.winemag.it/collio-unito-in-difesa-del-vigneto-ronco-della-chiesa-di-borgo-del-tiglio/",
         "pubDate": "2026-03-12T09:11:23+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "René Redzepi e la decisione più incredibile: lo chef lascia la guida del Noma",
-        "description": "Dopo l'apertura del pop up del Noma a Los Angeles, con qualche sponsor in meno del previsto, René Redzepi ha improvvisamente annunciato l'addio alla direzione d…",
-        "link": "https://www.dissapore.com/notizie/rene-redzepi-e-la-decisione-piu-incredibile-lo-chef-lascia-la-guida-del-noma/",
-        "pubDate": "2026-03-12T08:29:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Noma-Los-Angeles.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Viandante del Cielo, vini del Trasimeno tra spirito locale e visione internazionale",
-        "description": "A Passignano in provincia di Perugia, sulle colline che dominano la sponda nord del lago Trasimeno, la cantina Viandante del Cielo (Cantina Rivelazione Centro I…",
-        "link": "https://www.winemag.it/viandante-del-cielo-spirito-locale-visione-internazionale-raccontare-trasimeno/",
-        "pubDate": "2026-03-12T06:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Viandante-del-Cielo-spirito-locale-e-visione-internazionale-per-raccontare-il-Trasimeno-1.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
       }
