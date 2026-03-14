@@ -1,7 +1,25 @@
 {
-  "generated": "2026-03-13T19:48:45.013129+00:00",
+  "generated": "2026-03-14T07:51:08.609170+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "“Si beve meno vino? Colpa dei prezzi, abbiamo esagerato tutti”. Parla Federico Graziani, tra i vignaioli della rinascita dell’Etna",
+        "description": "Il vignaiolo dell’Etna ed ex sommelier parla di ricarichi al ristorante, nuove abitudini di consumo e della rinascita dei vini del vulcano…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/beve-meno-vino-colpa-prezzi-esagerato-federico-vignaiolo-etna/",
+        "pubDate": "2026-03-14T07:48:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ferran Adrià: “Sarebbe un bene se il dibattito sul Noma facesse riflettere chi maltratta in cucina”",
+        "description": "Lo chef simbolo di elBulli parla al Gambero Rosso: \"Nessuno può discutere cosa René Redzepi ha significato nella storia della gastronomia. I maltrattamenti vann…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-ferran-adria-cucine-dibattito-positivo/",
+        "pubDate": "2026-03-14T05:59:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Fritto e pieno di crema: dove mangiare i migliori bignè di San Giuseppe a Roma",
         "description": "Fritti, enormi e stracolmi di crema pasticcera: i bignè di San Giuseppe sono il vero dolce dei papà romani. Ecco dove trovare i migliori in città…",
@@ -58,7 +76,7 @@
       },
       {
         "title": "In un antico casale dei Castelli Romani c’è una famiglia che produce uno dei migliori Frascati",
-        "description": "La malvasia del Lazio, detta anche malvasia puntinata, è il vitigno protagonista del vino principe del territorio sul fronte bianchista, il Frascati. Qui vi pre…",
+        "description": "La malvasia del Lazio, detta anche malvasia puntinata, è il vitigno protagonista del vino principe del territorio sul fronte bianchista. Qui vi presentiamo una …",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/frascati-quarto-marchese-sotto-20-euro/",
         "pubDate": "2026-03-13T15:55:18+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -161,24 +179,6 @@
         "link": "https://www.grazia.it/moda/tendenze-moda/valentino-roma-sfilata-palazzo-barberini-show-collezione-autunno-inverno-2026-alessandro-michele-interferenze-959582",
         "pubDate": "2026-03-13T10:23:53+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Valentino.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Tanto cool quanto comodi, i Cargo Pants sono i pantaloni del momento!",
-        "description": "Cargo pants, la tendenza comfy chic da indossare per tutta la Primavera (e oltre)!…",
-        "link": "https://www.stylosophy.it/articolo/tanto-cool-quanto-comodi-i-cargo-pants-sono-i-pantaloni-del-momento/248906/",
-        "pubDate": "2026-03-13T10:20:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
-        "description": "La primavera si avvicina a grandi passi e, con il suo arrivo ormai imminente, sta crescendo anche la voglia di uscire e di sfoderare look favolosi. Come dare un…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/consigli-per-gli-acquisti-della-settimana-shopping-abiti-borse-scarpe-giacca-di-pelle-mango-alexa-chung-959175",
-        "pubDate": "2026-03-13T09:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_love_first_sight_12_03.jpg",
         "cat": "Moda",
         "source": "Grazia"
       }
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "“Si beve meno vino? Colpa dei prezzi, abbiamo esagerato tutti”. Parla Federico Graziani, tra i vignaioli della rinascita dell’Etna",
+        "description": "Il vignaiolo dell’Etna ed ex sommelier parla di ricarichi al ristorante, nuove abitudini di consumo e della rinascita dei vini del vulcano…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/beve-meno-vino-colpa-prezzi-esagerato-federico-vignaiolo-etna/",
+        "pubDate": "2026-03-14T07:48:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ferran Adrià: “Sarebbe un bene se il dibattito sul Noma facesse riflettere chi maltratta in cucina”",
+        "description": "Lo chef simbolo di elBulli parla al Gambero Rosso: \"Nessuno può discutere cosa René Redzepi ha significato nella storia della gastronomia. I maltrattamenti vann…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-ferran-adria-cucine-dibattito-positivo/",
+        "pubDate": "2026-03-14T05:59:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Fritto e pieno di crema: dove mangiare i migliori bignè di San Giuseppe a Roma",
         "description": "Fritti, enormi e stracolmi di crema pasticcera: i bignè di San Giuseppe sono il vero dolce dei papà romani. Ecco dove trovare i migliori in città…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-comprare-bigne-san-giuseppe-roma-festa-del-papa/",
@@ -413,7 +431,7 @@
       },
       {
         "title": "In un antico casale dei Castelli Romani c’è una famiglia che produce uno dei migliori Frascati",
-        "description": "La malvasia del Lazio, detta anche malvasia puntinata, è il vitigno protagonista del vino principe del territorio sul fronte bianchista, il Frascati. Qui vi pre…",
+        "description": "La malvasia del Lazio, detta anche malvasia puntinata, è il vitigno protagonista del vino principe del territorio sul fronte bianchista. Qui vi presentiamo una …",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/frascati-quarto-marchese-sotto-20-euro/",
         "pubDate": "2026-03-13T15:55:18+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -466,15 +484,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Apre Isa Voiardi a Roma: il nuovo caffè che riscopre savoiardi e pasticci",
-        "description": "Nel quartiere Salario il nuovo locale di Gastone Pierini punta su savoiardi, maritozzi e pasticci salati ispirati alla tradizione francese di Paul Bocuse…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-isa-voiardi-caffe-pasticci/",
-        "pubDate": "2026-03-13T07:32:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Pasqua 2026 sulla Bolgheri Coast: natura, mare e relax tra Rimigliano e il Park Hotel Marinetta",
         "description": "Le vacanze di Pasqua rappresentano un’occasione per organizzare una pausa all’aria aperta e approfittare della primavera, quando le giornate si allungano e il c…",
         "link": "https://www.winemag.it/pasqua-2026-bolgheri-coast-natura-mare-relax-rimigliano/",
@@ -491,15 +500,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Il caso Noma riapre il lato oscuro delle cucine stellate: urla, punizioni e brigate sotto pressione",
-        "description": "Dallo scandalo che ha travolto René Redzepi alle testimonianze di chef come Gordon Ramsay e Ángel León: il dibattito su abusi, disciplina marziale e cultura tos…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-lato-oscuro-cucine-stellate-urla-punizioni-brigate/",
-        "pubDate": "2026-03-13T05:01:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Cari chef, quando la smetterete di raccontare frottole a noi giornalisti (e ai lettori)?",
