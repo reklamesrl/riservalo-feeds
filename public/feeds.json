@@ -1,10 +1,28 @@
 {
-  "generated": "2026-03-15T14:00:20.428493+00:00",
+  "generated": "2026-03-15T19:18:44.185549+00:00",
   "feeds": {
     "offerte": [
       {
+        "title": "Gelato Day: il 23 marzo, a Roma, si mangia buon gelato artigianale per solidarietà",
+        "description": "Il 23 marzo 20 maestri gelatieri si riuniscono da Criollo, a Roma, a sostegno dell'ODV \"Il cuore grande di Flavio\", nata per sostenere i pazienti oncologici in …",
+        "link": "https://www.dissapore.com/notizie/gelato-day-il-23-marzo-a-roma-si-mangia-buon-gelato-artigianale-per-solidarieta/",
+        "pubDate": "2026-03-15T18:25:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/melody-gelato-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La libreria di Maisons du Monde che sta conquistando tutti: naturale, elegante e super funzionale",
+        "description": "Un mobile che unisce materiali naturali, design contemporaneo e grande capacità contenitiva. Una soluzione capace di cambiare subito l’atmosfera del soggiorno.…",
+        "link": "https://www.stylosophy.it/articolo/la-libreria-di-maisons-du-monde-che-sta-conquistando-tutti/248901/",
+        "pubDate": "2026-03-15T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
         "title": "Le migliori Zeppole di San Giuseppe da comprare a Napoli nel 2026",
-        "description": "I 5 indirizzi migliori di Napoli per acquistare e mangiare le zeppole di San Giuseppe, evitando fregature e distinguendo quelle fatte artigianalmente, con con v…",
+        "description": "I 5 indirizzi migliori di Napoli per acquistare e mangiare le zeppole di San Giuseppe, evitando fregature e distinguendo quelle fatte artigianalmente con vera c…",
         "link": "https://www.dissapore.com/locali/le-migliori-zeppole-di-san-giuseppe-da-comprare-a-napoli-nel-2026/",
         "pubDate": "2026-03-15T13:22:34+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Zeppole-San-Giuseppe_7.jpg?width=660&amp;height=0&amp;quality=75",
@@ -120,6 +138,15 @@
         "source": "Grazia"
       },
       {
+        "title": "Il miglior bignè di San Giuseppe di Roma si trova in un’ex borgata",
+        "description": "Da anni i bignè fritti della pasticceria Bompiani sono un punto di riferimento per la festa del papà: pasta choux perfetta e una crema tra le migliori della cit…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/miglior-bigne-san-giuseppe-roma-pasticceria-bompiani/",
+        "pubDate": "2026-03-15T06:28:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Cosa sono le “uova di dinosauro” che stanno conquistando chef e social",
         "description": "Per una volta TikTok fa qualcosa di buono, riportando in auge un'antica e varietà di sale dalle Filippine.\nL'articolo Cosa sono le &#8220;uova di dinosauro&#822…",
         "link": "https://www.dissapore.com/notizie/cosa-sono-le-uova-di-dinosauro-che-stanno-conquistando-chef-e-social/",
@@ -154,36 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2023/01/rene-redzepi-noma.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "La pizza che devi andare a prendere da solo: la provocazione di Ciccio Vitiello sulla crisi della ristorazione",
-        "description": "Alla pizzeria Cambia-Menti di Caserta nasce “Mancanza di personale”, una pizza che il cliente ritira al banco per denunciare uno dei problemi più gravi del sett…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-che-nessuno-porta-al-tavolo-ciccio-vitiello-mancanza-personale/",
-        "pubDate": "2026-03-14T12:28:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un piccolo borgo tra i Colli Euganei, una gemma nel cuore del Veneto",
-        "description": "Nel cuore del Veneto, si nasconde un meraviglioso borgo dal fascino senza tempo. Ecco qual è...…",
-        "link": "https://www.stylosophy.it/articolo/borgo-tra-i-colli-euganei-una-gemma-nel-cuore-del-veneto/248937/",
-        "pubDate": "2026-03-14T11:00:00+00:00",
+        "title": "La libreria di Maisons du Monde che sta conquistando tutti: naturale, elegante e super funzionale",
+        "description": "Un mobile che unisce materiali naturali, design contemporaneo e grande capacità contenitiva. Una soluzione capace di cambiare subito l’atmosfera del soggiorno.…",
+        "link": "https://www.stylosophy.it/articolo/la-libreria-di-maisons-du-monde-che-sta-conquistando-tutti/248901/",
+        "pubDate": "2026-03-15T15:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Che cos’è il pane di panicolo: il pane giallo della Calabria nato per i contadini",
-        "description": "Antico pane calabrese a base di farina di mais, spezie e olio extravergine, il pane di panicolo nasce come cibo povero dei campi e oggi è una specialità riscope…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-panicolo-giallo-calabria-contadini/",
-        "pubDate": "2026-03-14T10:55:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Hailey Bieber lancia la nuova collezione primaverile di lip tint",
         "description": "Hailey Bieber ha lanciato la nuova collezione di lip tint perfette per la primavera.…",
@@ -293,15 +302,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Samira Lui, anche per i Look in montagna non rinuncia ad un tocco glamour e sexy FOTO",
-        "description": "Samira Lui, nei giorni scorsi, è volata in montagna e anche qui non ha rinunciato a sfoggiare look con un tocco glamour e sexy.…",
-        "link": "https://www.stylosophy.it/articolo/samira-lui-anche-per-i-look-in-montagna-non-rinuncia-ad-un-tocco-glamour-e-sexy-foto/248897/",
-        "pubDate": "2026-03-13T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Siamo sicuri che Zendaya volesse davvero rendere omaggio a Carrie Bradshow? Forse no!",
         "description": "La star di &#8220;Dune&#8221; ha indossato in occasione degli ESSENCE Black Women in Hollywood 2026 l&#8217;abito che Carrie Bradshaw portava nelle sequenze ini…",
         "link": "https://www.grazia.it/moda/news-moda/zendaya-abito-sex-and-the-city-carrie-whitney-houston-storia-959537",
@@ -367,8 +367,17 @@
     ],
     "lifestyle": [
       {
+        "title": "Gelato Day: il 23 marzo, a Roma, si mangia buon gelato artigianale per solidarietà",
+        "description": "Il 23 marzo 20 maestri gelatieri si riuniscono da Criollo, a Roma, a sostegno dell'ODV \"Il cuore grande di Flavio\", nata per sostenere i pazienti oncologici in …",
+        "link": "https://www.dissapore.com/notizie/gelato-day-il-23-marzo-a-roma-si-mangia-buon-gelato-artigianale-per-solidarieta/",
+        "pubDate": "2026-03-15T18:25:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/melody-gelato-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Le migliori Zeppole di San Giuseppe da comprare a Napoli nel 2026",
-        "description": "I 5 indirizzi migliori di Napoli per acquistare e mangiare le zeppole di San Giuseppe, evitando fregature e distinguendo quelle fatte artigianalmente, con con v…",
+        "description": "I 5 indirizzi migliori di Napoli per acquistare e mangiare le zeppole di San Giuseppe, evitando fregature e distinguendo quelle fatte artigianalmente con vera c…",
         "link": "https://www.dissapore.com/locali/le-migliori-zeppole-di-san-giuseppe-da-comprare-a-napoli-nel-2026/",
         "pubDate": "2026-03-15T13:22:34+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Zeppole-San-Giuseppe_7.jpg?width=660&amp;height=0&amp;quality=75",
@@ -448,6 +457,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Il miglior bignè di San Giuseppe di Roma si trova in un’ex borgata",
+        "description": "Da anni i bignè fritti della pasticceria Bompiani sono un punto di riferimento per la festa del papà: pasta choux perfetta e una crema tra le migliori della cit…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/miglior-bigne-san-giuseppe-roma-pasticceria-bompiani/",
+        "pubDate": "2026-03-15T06:28:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Cosa sono le “uova di dinosauro” che stanno conquistando chef e social",
         "description": "Per una volta TikTok fa qualcosa di buono, riportando in auge un'antica e varietà di sale dalle Filippine.\nL'articolo Cosa sono le &#8220;uova di dinosauro&#822…",
         "link": "https://www.dissapore.com/notizie/cosa-sono-le-uova-di-dinosauro-che-stanno-conquistando-chef-e-social/",
@@ -502,15 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Si beve meno vino? Colpa dei prezzi, abbiamo esagerato tutti”. Parla Federico Graziani, tra i vignaioli della rinascita dell’Etna",
-        "description": "Il vignaiolo dell’Etna ed ex sommelier parla di ricarichi al ristorante, nuove abitudini di consumo e della rinascita dei vini del vulcano…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/beve-meno-vino-colpa-prezzi-esagerato-federico-vignaiolo-etna/",
-        "pubDate": "2026-03-14T07:48:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Pestàt, Sasaka, Varhackara e Argjel: cosa sono le conserve di maiale friulane",
         "description": "Quali sono, come si fanno e in che modo si usano in cucina le conserve a base di lardo del Friuli Venezia Giulia. \nL'articolo Pestàt, Sasaka, Varhackara e Argje…",
         "link": "https://www.dissapore.com/cucina/pestat-sasaka-varhackara-e-argjel-cosa-sono-le-conserve-di-maiale-friulane/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/fermentazione-fungina-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Pasqua 2026 sulla Bolgheri Coast: natura, mare e relax tra Rimigliano e il Park Hotel Marinetta",
-        "description": "Le vacanze di Pasqua rappresentano un’occasione per organizzare una pausa all’aria aperta e approfittare della primavera, quando le giornate si allungano e il c…",
-        "link": "https://www.winemag.it/pasqua-2026-bolgheri-coast-natura-mare-relax-rimigliano/",
-        "pubDate": "2026-03-13T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
