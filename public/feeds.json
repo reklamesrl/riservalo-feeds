@@ -1,7 +1,133 @@
 {
-  "generated": "2026-03-17T08:07:30.608786+00:00",
+  "generated": "2026-03-17T15:43:56.735022+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Le decorazioni Loberon che trasformeranno la tua casa a Pasqua (la ghirlanda è la nostra preferita)",
+        "description": "Materiali naturali, dettagli dipinti a mano e atmosfere accoglienti: la Pasqua non è mai stata così raffinata.…",
+        "link": "https://www.stylosophy.it/articolo/le-decorazioni-loberon-che-trasformeranno-la-tua-casa-a-pasqua/249029/",
+        "pubDate": "2026-03-17T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Zara annuncia una partnership con John Galliano: quando l’archivio diventa couture",
+        "description": "Chi ama la moda sa che certi incontri non sono semplici collaborazioni, ma veri momenti di svolta. È il caso della nuova partnership tra Zara e John Galliano, a…",
+        "link": "https://www.grazia.it/moda/news-moda/zara-john-galliano-collaborazione-di-due-anni-archivi-vecchie-collezioni-settembre-2026-960484",
+        "pubDate": "2026-03-17T14:16:36+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura-szilveszter_mako_john_galliano-32.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Un mix di sensualità e spirito ribelle: GUESS presenta la nuova Camden Bag",
+        "description": "Ispirata allo spirito vibrante e spensierato di Ibiza, progettata per una donna sicura di sè, capace di incarnare contemporaneamente forza e dolcezza: è la Camd…",
+        "link": "https://www.grazia.it/moda/news-moda/guess-borsa-camden-bag-chiara-ferragni-video-960473",
+        "pubDate": "2026-03-17T13:52:08+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Camden_Bag.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Ilary Blasi brilla a Verissimo con il Look con felpa bomber e gonna lunga con spacco tempestata di paillettes",
+        "description": "Ilary Blasi, ospite a Verissimo, ha sfoggiato un look con felpa bomber e gonna lunga con spacco e paillettes.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-brilla-a-verissimo-con-il-look-con-felpa-bomber-e-gonna-lunga-con-spacco-tempestata-di-paillettes/249036/",
+        "pubDate": "2026-03-17T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“Quando le domande arrivano, gli chef spariscono”: il caso Noma e l’ipocrisia dell’alta cucina",
+        "description": "Dal silenzio su René Redzepi alle interviste patinate o senza contraddittorio. Il sistema della ristorazione celebra sé stesso ma si sottrae quando deve rispond…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/domande-arrivano-chef-spariscono-caso-noma-pocrisia-alta-cucina/",
+        "pubDate": "2026-03-17T12:26:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Utility jacket: 5 idee su come indossarle questa primavera (e sì, anche con i look più raffinati)",
+        "description": "Con l’arrivo della primavera corriamo a far spazio nell’armadio a blazer, trench e giacche di pelle, ma c’è un altro capospalla leggero da non sottovalutare in …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/utility-jacket-donna-abbigliamento-come-indossare-abbinamenti-street-style-idee-outfit-primavera-960384",
+        "pubDate": "2026-03-17T11:20:31+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Utility_Jacket.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Morellato torna alle sue radici e racconta Venezia nella nuova campagna Primavera-Estate 2026",
+        "description": "Ci sono gioielli che non aspettano un’occasione speciale. Vivono infatti con chi li indossa, nel ritmo spontaneo delle giornate, nella luce improvvisa di un mom…",
+        "link": "https://www.grazia.it/moda/news-moda/morellato-gioielli-campagna-primavera-estate-2026-venezia-959749",
+        "pubDate": "2026-03-17T11:14:11+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Mauro Uliassi: “Il caso Noma ci obbliga a riflettere sulle dinamiche di potere nelle cucine”",
+        "description": "Dopo lo scandalo che ha travolto René Redzepi e il Noma, lo chef di Senigallia riflette sul lato oscuro delle cucine: stage, gerarchie, pressione e futuro dell’…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/mauro-uliassi-caso-noma-riflettere-dinamiche-potere-cucine/",
+        "pubDate": "2026-03-17T11:01:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il segreto per capelli sani? Questi termoprotettori, a prova di phon e piastre",
+        "description": "Per capelli sani, forti e belli, puntate su un ottimo termoprotettore, un alleato haircare per una chioma tutta da invidiare. Ecco 5 proposte da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/il-segreto-per-capelli-sani-questi-termoprotettori-a-prova-di-phon-e-piastre/249019/",
+        "pubDate": "2026-03-17T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Festa del papà 2026: 6 idee regalo moda che lo conquisteranno!",
+        "description": "La Festa del Papà è alle porte! E, dunque, non farti cogliere impreparato. Ecco qui le proposte moda più cool per fare un regalo super chic al proprio papà...…",
+        "link": "https://www.stylosophy.it/articolo/festa-del-papa-2026-6-idee-regalo-moda-che-lo-conquisteranno/249047/",
+        "pubDate": "2026-03-17T10:35:49+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Quando McDonald’s abbassa i prezzi dobbiamo davvero preoccuparci",
+        "description": "Ad aprile negli Stati Uniti il fast food più noto al mondo lancerà molti prodotti a 3 euro e uno menu a 4 euro, per riconquistare i consumatori a basso reddito.…",
+        "link": "https://www.dissapore.com/notizie/quando-mcdonalds-abbassa-i-prezzi-dobbiamo-davvero-preoccuparci/",
+        "pubDate": "2026-03-17T10:35:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/10/Burger-King-e1730369499735.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Valdo rileva I Magredi nell’anno del centenario: acquisizione in Friuli",
+        "description": "Valdo Spumanti celebra i suoi primi 100 anni con l’acquisizione della cantina friulana I Magredi, con sede a San Giorgio della Richinvelda (Pordenone). L’aziend…",
+        "link": "https://www.winemag.it/valdo-rileva-i-magredi-nell-anno-del-centenario-acquisizione-in-friuli/",
+        "pubDate": "2026-03-17T09:26:54+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Non siamo il capro espiatorio della crisi del vino piemontese”. La dura replica delle cooperative ad Ascheri",
+        "description": "Confcooperative Fedagripesca Piemonte replica alle accuse dell’ex presidente del Consorzio Barolo Barbaresco: \"La crisi non nasce dalle cantine sociali ma da co…",
+        "link": "https://www.gamberorosso.it/notizie/vino/non-siamo-capro-espiatorio-crisi-vino-piemontese-confcooperative-ascheri/",
+        "pubDate": "2026-03-17T09:05:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Yannick Alleno nella storia con diciotto stelle Michelin totali",
+        "description": "Yannick Alleno porta a casa Dior la prima stella della maison di moda, aggiungendo un ennesimo macaron al suo ragguardevole palmares\nL'articolo Yannick Alleno n…",
+        "link": "https://www.dissapore.com/notizie/yannick-alleno-nella-storia-con-diciotto-stelle-michelin-totali/",
+        "pubDate": "2026-03-17T08:35:00+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/efc54df3d8ed4161b6638b9a52f5ad0a_Le-Corot-nouvelles-etoiles-du-Guide-MICHELIN-France-2026.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Zeppole di San Giuseppe a Napoli: dove mangiare le migliori",
         "description": "Fritte o al forno? Dal centro storico al lungomare, le pasticcerie simbolo della città dove assaggiare uno dei dolci più amati della tradizione partenopea…",
@@ -19,6 +145,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gonne see-through: i look street style da cui prendere ispirazione per indossarle questa primavera",
+        "description": "In primavera il sole torna finalmente a fare capolino, le temperature iniziano ad alzarsi e a regalarci quelle giornate che ci fanno già immaginare in bikini e …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-see-through-come-indossare-look-street-style-abbinamenti-primavera-2026-959709",
+        "pubDate": "2026-03-17T07:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_inspo_gonne_see_trough.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Tullia: a Roma un nuovo ristorante tra tradizione capitolina e visione contemporanea",
@@ -46,144 +181,90 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Robot, vigneti e macchine intelligenti: il futuro della viticoltura arriva nel Chianti",
-        "description": "Enovitis in campo festeggia 20 anni e sbarca per la prima volta nel Chianti Classico: il 17 e 18 giugno a Tenuta di Nozzole tecnologie, robotica e prove dal viv…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/robot-vigneti-macchine-intelligenti-enovitis-chianti/",
-        "pubDate": "2026-03-17T05:05:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Renzo Cotarella Winemakers’ Winemaker Award 2026 Institute of Masters of Wine",
-        "description": "Renzo Cotarella riceve il Winemakers’ Winemaker Award 2026 dell’Institute of Masters of Wine (IMW). Il riconoscimento è stato consegnato a Düsseldorf durante Pr…",
-        "link": "https://www.winemag.it/renzo-cotarella-winemakers-winemaker-award-2026-institute-of-masters-of-wine/",
-        "pubDate": "2026-03-16T21:22:37+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Lo chiamano il balcone delle Marche ed è un luogo che vi saprà sorprendere a ogni passo",
-        "description": "Viaggio vero il Balcone delle Marche, un borgo unico e che vanta una vista eccezionale sulla regione…",
-        "link": "https://www.stylosophy.it/articolo/lo-chiamano-il-balcone-delle-marche-ed-e-un-luogo-che-vi-sapra-sorprendere-a-ogni-passo/249001/",
-        "pubDate": "2026-03-16T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il prezzo del cacao cala, ma le uova di cioccolato sono più care dell’anno scorso",
-        "description": "Le analisi di mercato a inizio stagione segnalano già dei rincari sulle uova di cioccolato, anche se meno importanti rispetto ai due anni appena trascorsi.\nL'ar…",
-        "link": "https://www.dissapore.com/notizie/il-prezzo-del-cacao-cala-ma-le-uova-di-cioccolato-sono-piu-care-dellanno-scorso/",
-        "pubDate": "2026-03-16T17:16:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/coltivatore-di-cacao-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La storia di due famiglie di viticoltori calabresi tra i primi ad aver reso celebre il Cirò",
-        "description": "Mar Ionio, gaglioppo e ricerca dell'identità del territorio: sono queste le direttrici su cui si muove una storica azienda cirotana premiata per la prima volta …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/ciro-rosso-lice-caparra-siciliani/",
-        "pubDate": "2026-03-16T16:55:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dove mettere la Lavatrice se non hai lo spazio per una zona lavanderia",
-        "description": "Anche nelle case più piccole è possibile trovare il posto giusto per la lavatrice. Basta conoscere alcune soluzioni progettuali che uniscono funzionalità, ordin…",
-        "link": "https://www.stylosophy.it/articolo/dove-mettere-la-lavatrice-se-non-hai-lo-spazio-per-una-zona-lavanderia/248971/",
-        "pubDate": "2026-03-16T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I dazi Usa affossano l’export di vino europeo nel 2025: perso un miliardo di euro",
-        "description": "Il settore è in controtendenza rispetto all'incremento delle vendite complessive dell'agrifood Ue, cresciute dell'1% a quota 238,4 miliardi di euro. Negli Stati…",
-        "link": "https://www.gamberorosso.it/notizie/vino/dazi-usa-affossano-export-vino-europeo-2025-un-miliardo-euro/",
-        "pubDate": "2026-03-16T12:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "François Carillon, degustazione dei suoi Chardonnay di Borgogna: gli assaggi da Bourgogne a Puligny-Montrachet",
-        "description": "Dal Bourgogne Côte d’Or al Puligny-Montrachet Premier Cru Champ-Gain: la degustazione dei vini di François Carillon, vigneron borgognone che punta su eleganza, …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/francois-carillon-degustazione-chardonnay-borgogna/",
-        "pubDate": "2026-03-16T11:46:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Carbonara liquida e aglio bruciato”: i piatti imperfetti di papà con cui sono cresciuto",
-        "description": "Quando mia madre non c’era, a cucinare era mio padre: tra carbonare improvvisate, spaghetti aglio e olio troppo piccanti e uova al tegamino croccanti, la sua cu…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/piatti-sbagliati-papa-con-cui-sono-cresciuto/",
-        "pubDate": "2026-03-16T11:34:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è ‘a semmulella, l’antico pane di Torre del Greco da mangiare con le acciughe",
-        "description": "Croccante fuori e morbidissimo dentro, profumatissimo di semola: la semmulella è il pane simbolo di Torre del Greco, un tempo venduto per strada dai ragazzi e o…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/semmulella-antico-pane-torre-del-greco-acciughe/",
-        "pubDate": "2026-03-16T11:29:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il macellaio milanese che ha salvato il mercato rionale del Giambellino",
-        "description": "Nel mercato di Lorenteggio, a Milano, Vito Landillo ha tenuto aperto il banco di carne equina quando tutto sembrava chiudere. Oggi davanti alla sua tartare e al…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/da-vito-macelleria-equina-apre-il-bar/",
-        "pubDate": "2026-03-16T11:26:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quello nella ristorazione è il lavoro più bello del mondo, in teoria",
-        "description": "Far rispettare le regole che ci sono, aumentando i controlli sulle condizioni di lavoro di cuochi e camerieri nei ristoranti, sarebbe la soluzione più pratica e…",
-        "link": "https://www.dissapore.com/ristoranti/quello-della-ristorazione-e-il-lavoro-piu-bello-del-mondo-in-teoria/",
-        "pubDate": "2026-03-16T11:17:15+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/menu-ristorante-allaperto.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gli spray corpo al cocco per una bodycare di Primavera più dolce e fresca",
-        "description": "Dolci, avvolgenti e freschi, questi spray corpo al cocco sono il must have della Primavera 2026. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/gli-spray-corpo-al-cocco-per-una-bodycare-di-primavera-piu-dolce-e-fresca/248981/",
-        "pubDate": "2026-03-16T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Vinitaly Tourism 2026, enoturismo asset strategico del sistema vino",
-        "description": "Competenze, visione e strumenti operativi per rafforzare l’enoturismo italiano nel turismo globale. È questo l’obiettivo di Vinitaly Tourism 2026, che torna a V…",
-        "link": "https://www.winemag.it/vinitaly-tourism-2026-lenoturismo-diventa-asset-strategico-del-sistema-vino/",
-        "pubDate": "2026-03-16T10:48:53+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Trend Alert: queste sono le stampe e le fantasie più IN del momento!",
-        "description": "Qui 4 stampe e fantasie, nuove o rivisitate, pronte a diventare le protagoniste indiscusse di ogni guardaroba cool e di moda che si rispetti!…",
-        "link": "https://www.stylosophy.it/articolo/trend-alert-queste-sono-le-stampe-e-le-fantasie-piu-in-del-momento/248992/",
-        "pubDate": "2026-03-16T10:12:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Le decorazioni Loberon che trasformeranno la tua casa a Pasqua (la ghirlanda è la nostra preferita)",
+        "description": "Materiali naturali, dettagli dipinti a mano e atmosfere accoglienti: la Pasqua non è mai stata così raffinata.…",
+        "link": "https://www.stylosophy.it/articolo/le-decorazioni-loberon-che-trasformeranno-la-tua-casa-a-pasqua/249029/",
+        "pubDate": "2026-03-17T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Zara annuncia una partnership con John Galliano: quando l’archivio diventa couture",
+        "description": "Chi ama la moda sa che certi incontri non sono semplici collaborazioni, ma veri momenti di svolta. È il caso della nuova partnership tra Zara e John Galliano, a…",
+        "link": "https://www.grazia.it/moda/news-moda/zara-john-galliano-collaborazione-di-due-anni-archivi-vecchie-collezioni-settembre-2026-960484",
+        "pubDate": "2026-03-17T14:16:36+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura-szilveszter_mako_john_galliano-32.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Un mix di sensualità e spirito ribelle: GUESS presenta la nuova Camden Bag",
+        "description": "Ispirata allo spirito vibrante e spensierato di Ibiza, progettata per una donna sicura di sè, capace di incarnare contemporaneamente forza e dolcezza: è la Camd…",
+        "link": "https://www.grazia.it/moda/news-moda/guess-borsa-camden-bag-chiara-ferragni-video-960473",
+        "pubDate": "2026-03-17T13:52:08+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Camden_Bag.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Ilary Blasi brilla a Verissimo con il Look con felpa bomber e gonna lunga con spacco tempestata di paillettes",
+        "description": "Ilary Blasi, ospite a Verissimo, ha sfoggiato un look con felpa bomber e gonna lunga con spacco e paillettes.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-brilla-a-verissimo-con-il-look-con-felpa-bomber-e-gonna-lunga-con-spacco-tempestata-di-paillettes/249036/",
+        "pubDate": "2026-03-17T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Utility jacket: 5 idee su come indossarle questa primavera (e sì, anche con i look più raffinati)",
+        "description": "Con l’arrivo della primavera corriamo a far spazio nell’armadio a blazer, trench e giacche di pelle, ma c’è un altro capospalla leggero da non sottovalutare in …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/utility-jacket-donna-abbigliamento-come-indossare-abbinamenti-street-style-idee-outfit-primavera-960384",
+        "pubDate": "2026-03-17T11:20:31+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Utility_Jacket.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Morellato torna alle sue radici e racconta Venezia nella nuova campagna Primavera-Estate 2026",
+        "description": "Ci sono gioielli che non aspettano un’occasione speciale. Vivono infatti con chi li indossa, nel ritmo spontaneo delle giornate, nella luce improvvisa di un mom…",
+        "link": "https://www.grazia.it/moda/news-moda/morellato-gioielli-campagna-primavera-estate-2026-venezia-959749",
+        "pubDate": "2026-03-17T11:14:11+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Il segreto per capelli sani? Questi termoprotettori, a prova di phon e piastre",
+        "description": "Per capelli sani, forti e belli, puntate su un ottimo termoprotettore, un alleato haircare per una chioma tutta da invidiare. Ecco 5 proposte da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/il-segreto-per-capelli-sani-questi-termoprotettori-a-prova-di-phon-e-piastre/249019/",
+        "pubDate": "2026-03-17T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Festa del papà 2026: 6 idee regalo moda che lo conquisteranno!",
+        "description": "La Festa del Papà è alle porte! E, dunque, non farti cogliere impreparato. Ecco qui le proposte moda più cool per fare un regalo super chic al proprio papà...…",
+        "link": "https://www.stylosophy.it/articolo/festa-del-papa-2026-6-idee-regalo-moda-che-lo-conquisteranno/249047/",
+        "pubDate": "2026-03-17T10:35:49+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Gonne see-through: i look street style da cui prendere ispirazione per indossarle questa primavera",
+        "description": "In primavera il sole torna finalmente a fare capolino, le temperature iniziano ad alzarsi e a regalarci quelle giornate che ci fanno già immaginare in bikini e …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-see-through-come-indossare-look-street-style-abbinamenti-primavera-2026-959709",
+        "pubDate": "2026-03-17T07:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_inspo_gonne_see_trough.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Lo chiamano il balcone delle Marche ed è un luogo che vi saprà sorprendere a ogni passo",
         "description": "Viaggio vero il Balcone delle Marche, un borgo unico e che vanta una vista eccezionale sulla regione…",
@@ -266,24 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Questo borgo della Lucania è la meta ideale per un dolce weekend di Primavera",
-        "description": "Questo piccolo borgo della Lucania è una gemma tutta da scoprire, celebre per i suoi panorami mozzafiato e per il centro storico caratteristico! Ecco qual è...…",
-        "link": "https://www.stylosophy.it/articolo/questo-borgo-della-lucania-e-la-meta-ideale-per-un-dolce-weekend-di-primavera/248976/",
-        "pubDate": "2026-03-15T11:33:33+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "L’accessorio per Capelli che fa tendenza ora. Ti stupirà!",
-        "description": "Un comeback che non ti aspetti ma a cui non potrai resistere!…",
-        "link": "https://www.stylosophy.it/articolo/laccessorio-per-capelli-che-fa-tendenza-ora-ti-stupira/248962/",
-        "pubDate": "2026-03-15T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Belli e possibili: questi abiti sono perfetti per la primavera (e costano meno di 100 euro)",
         "description": "Che cosa c&#8217;è di meglio dell&#8217;arrivo della primavera per sfoggiare finalmente un bel vestito cute, magari senza i collant 100 denari che ci tormentano…",
         "link": "https://www.grazia.it/moda/tendenze-moda/abiti-sotto-i-100-euro-primaverili-da-cerimonia-corti-midi-lunghi-modelli-low-cost-primavera-2026-959435",
@@ -293,24 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Scopri il set IKEA da meno di 60 euro che tutti vogliono per il balcone",
-        "description": "Con la bella stagione tornano protagonisti gli arredi da esterno compatti: tra i più richiesti c’è il set IKEA pensato per balconi e terrazze di piccole dimensi…",
-        "link": "https://www.stylosophy.it/articolo/scopri-il-set-ikea-da-meno-di-60-euro-che-tutti-vogliono-per-il-balcone/248893/",
-        "pubDate": "2026-03-14T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Chiara Ferragni, con questo make up e hair look è una diva d’altri tempi FOTO",
-        "description": "Chiara Ferragni, per la sfilata di Valentino a Roma, ha optato per un make up e un hair look da vera diva.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-con-questo-make-up-e-hair-look-e-una-diva-daltri-tempi-foto/248927/",
-        "pubDate": "2026-03-14T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Mini, medium o large… il secchiello per la primavera 2026 è servito!",
         "description": "Non è tra i modelli più semplici o pratici ma ha quel fascino speciale che fa vacillare un po&#8217; tutte: la borsa a secchiello, o bucket bag, continua a esse…",
         "link": "https://www.grazia.it/moda/tendenze-moda/borse-secchiello-donna-firmate-furla-borbonese-coccinelle-primavera-2026-959649",
@@ -318,54 +363,63 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_borse_secchielli.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Hello spring! La nuova stagione porta con sé nuove icone: modelli di borse da scoprire, bijoux che illuminano i look, archivi storici che tornano a ispirare il …",
-        "link": "https://www.grazia.it/moda/news-moda/tezenis-superior-softness-benetton-denim-vestopazzo-gioielli-tory-burch-borsa-charlie-blumarine-negozio-milano-messika-julianne-moore-levis-x-afa-959615",
-        "pubDate": "2026-03-13T14:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/Senza-titolo-22.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Siamo sicuri che Zendaya volesse davvero rendere omaggio a Carrie Bradshow? Forse no!",
-        "description": "La star di &#8220;Dune&#8221; ha indossato in occasione degli ESSENCE Black Women in Hollywood 2026 l&#8217;abito che Carrie Bradshaw portava nelle sequenze ini…",
-        "link": "https://www.grazia.it/moda/news-moda/zendaya-abito-sex-and-the-city-carrie-whitney-houston-storia-959537",
-        "pubDate": "2026-03-13T11:56:18+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/zendaya-EVI.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Nicole Kidman, Teyana Taylor e le altre star meglio vestite della settimana",
-        "description": "Ogni settimana il red carpet offre nuovi spunti di stile, tra première cinematografiche, gala esclusivi e grandi eventi dell’industria dello spettacolo. Alcune …",
-        "link": "https://www.grazia.it/moda/celebrity-style/nicole-kidman-teyana-taylor-kaia-gerber-sarah-pidgeon-look-star-meglio-vestite-959263",
-        "pubDate": "2026-03-13T11:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_best_dressed_13_marzo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Le “Interferenze” di Valentino a Roma: 5 highlight della sfilata FW26",
-        "description": "Valentino è tornato a Roma: dopo anni nella Ville Lumiére, il direttore creativo Alessandro Michele ha scelto di svelare “Interferenze”, la nuova collezione FW2…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/valentino-roma-sfilata-palazzo-barberini-show-collezione-autunno-inverno-2026-alessandro-michele-interferenze-959582",
-        "pubDate": "2026-03-13T10:23:53+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Valentino.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
-        "description": "La primavera si avvicina a grandi passi e, con il suo arrivo ormai imminente, sta crescendo anche la voglia di uscire e di sfoderare look favolosi. Come dare un…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/consigli-per-gli-acquisti-della-settimana-shopping-abiti-borse-scarpe-giacca-di-pelle-mango-alexa-chung-959175",
-        "pubDate": "2026-03-13T09:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_love_first_sight_12_03.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "“Quando le domande arrivano, gli chef spariscono”: il caso Noma e l’ipocrisia dell’alta cucina",
+        "description": "Dal silenzio su René Redzepi alle interviste patinate o senza contraddittorio. Il sistema della ristorazione celebra sé stesso ma si sottrae quando deve rispond…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/domande-arrivano-chef-spariscono-caso-noma-pocrisia-alta-cucina/",
+        "pubDate": "2026-03-17T12:26:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mauro Uliassi: “Il caso Noma ci obbliga a riflettere sulle dinamiche di potere nelle cucine”",
+        "description": "Dopo lo scandalo che ha travolto René Redzepi e il Noma, lo chef di Senigallia riflette sul lato oscuro delle cucine: stage, gerarchie, pressione e futuro dell’…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/mauro-uliassi-caso-noma-riflettere-dinamiche-potere-cucine/",
+        "pubDate": "2026-03-17T11:01:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Quando McDonald’s abbassa i prezzi dobbiamo davvero preoccuparci",
+        "description": "Ad aprile negli Stati Uniti il fast food più noto al mondo lancerà molti prodotti a 3 euro e uno menu a 4 euro, per riconquistare i consumatori a basso reddito.…",
+        "link": "https://www.dissapore.com/notizie/quando-mcdonalds-abbassa-i-prezzi-dobbiamo-davvero-preoccuparci/",
+        "pubDate": "2026-03-17T10:35:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/10/Burger-King-e1730369499735.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Valdo rileva I Magredi nell’anno del centenario: acquisizione in Friuli",
+        "description": "Valdo Spumanti celebra i suoi primi 100 anni con l’acquisizione della cantina friulana I Magredi, con sede a San Giorgio della Richinvelda (Pordenone). L’aziend…",
+        "link": "https://www.winemag.it/valdo-rileva-i-magredi-nell-anno-del-centenario-acquisizione-in-friuli/",
+        "pubDate": "2026-03-17T09:26:54+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Non siamo il capro espiatorio della crisi del vino piemontese”. La dura replica delle cooperative ad Ascheri",
+        "description": "Confcooperative Fedagripesca Piemonte replica alle accuse dell’ex presidente del Consorzio Barolo Barbaresco: \"La crisi non nasce dalle cantine sociali ma da co…",
+        "link": "https://www.gamberorosso.it/notizie/vino/non-siamo-capro-espiatorio-crisi-vino-piemontese-confcooperative-ascheri/",
+        "pubDate": "2026-03-17T09:05:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Yannick Alleno nella storia con diciotto stelle Michelin totali",
+        "description": "Yannick Alleno porta a casa Dior la prima stella della maison di moda, aggiungendo un ennesimo macaron al suo ragguardevole palmares\nL'articolo Yannick Alleno n…",
+        "link": "https://www.dissapore.com/notizie/yannick-alleno-nella-storia-con-diciotto-stelle-michelin-totali/",
+        "pubDate": "2026-03-17T08:35:00+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/efc54df3d8ed4161b6638b9a52f5ad0a_Le-Corot-nouvelles-etoiles-du-Guide-MICHELIN-France-2026.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Zeppole di San Giuseppe a Napoli: dove mangiare le migliori",
         "description": "Fritte o al forno? Dal centro storico al lungomare, le pasticcerie simbolo della città dove assaggiare uno dei dolci più amati della tradizione partenopea…",
@@ -466,33 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Carbonara liquida e aglio bruciato”: i piatti imperfetti di papà con cui sono cresciuto",
-        "description": "Quando mia madre non c’era, a cucinare era mio padre: tra carbonare improvvisate, spaghetti aglio e olio troppo piccanti e uova al tegamino croccanti, la sua cu…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/piatti-sbagliati-papa-con-cui-sono-cresciuto/",
-        "pubDate": "2026-03-16T11:34:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è ‘a semmulella, l’antico pane di Torre del Greco da mangiare con le acciughe",
-        "description": "Croccante fuori e morbidissimo dentro, profumatissimo di semola: la semmulella è il pane simbolo di Torre del Greco, un tempo venduto per strada dai ragazzi e o…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/semmulella-antico-pane-torre-del-greco-acciughe/",
-        "pubDate": "2026-03-16T11:29:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il macellaio milanese che ha salvato il mercato rionale del Giambellino",
-        "description": "Nel mercato di Lorenteggio, a Milano, Vito Landillo ha tenuto aperto il banco di carne equina quando tutto sembrava chiudere. Oggi davanti alla sua tartare e al…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/da-vito-macelleria-equina-apre-il-bar/",
-        "pubDate": "2026-03-16T11:26:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Quello nella ristorazione è il lavoro più bello del mondo, in teoria",
         "description": "Far rispettare le regole che ci sono, aumentando i controlli sulle condizioni di lavoro di cuochi e camerieri nei ristoranti, sarebbe la soluzione più pratica e…",
         "link": "https://www.dissapore.com/ristoranti/quello-della-ristorazione-e-il-lavoro-piu-bello-del-mondo-in-teoria/",
@@ -518,33 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1900168309-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Gelato Day: il 23 marzo, a Roma, si mangia buon gelato artigianale per solidarietà",
-        "description": "Il 23 marzo 20 maestri gelatieri si riuniscono da Criollo, a Roma, a sostegno dell'ODV \"Il cuore grande di Flavio\", nata per sostenere i pazienti oncologici in …",
-        "link": "https://www.dissapore.com/notizie/gelato-day-il-23-marzo-a-roma-si-mangia-buon-gelato-artigianale-per-solidarieta/",
-        "pubDate": "2026-03-15T18:25:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/melody-gelato-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le migliori Zeppole di San Giuseppe da comprare a Napoli nel 2026",
-        "description": "I 5 indirizzi migliori di Napoli per acquistare e mangiare le zeppole di San Giuseppe, evitando fregature e distinguendo quelle fatte artigianalmente con vera c…",
-        "link": "https://www.dissapore.com/locali/le-migliori-zeppole-di-san-giuseppe-da-comprare-a-napoli-nel-2026/",
-        "pubDate": "2026-03-15T13:22:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Zeppole-San-Giuseppe_7.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vini Tokaj dolci e spumanti, l’Ungheria fa ordine tra tipologie",
-        "description": "L&#8217;Unione europea ha pubblicato nella Gazzetta ufficiale del 6 marzo 2026 la domanda di modifica del disciplinare della denominazione di origine protetta T…",
-        "link": "https://www.winemag.it/vini-tokaj-dolci-e-spumanti-ungheria-fa-ordine-tra-tipologie/",
-        "pubDate": "2026-03-15T11:53:25+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
