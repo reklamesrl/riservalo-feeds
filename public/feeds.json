@@ -1,7 +1,70 @@
 {
-  "generated": "2026-03-16T19:58:59.957847+00:00",
+  "generated": "2026-03-17T08:07:30.608786+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Zeppole di San Giuseppe a Napoli: dove mangiare le migliori",
+        "description": "Fritte o al forno? Dal centro storico al lungomare, le pasticcerie simbolo della città dove assaggiare uno dei dolci più amati della tradizione partenopea…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/zeppole-san-giuseppe-dove-comprarle-napoli/",
+        "pubDate": "2026-03-17T07:58:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Trapani c’è un famoso produttore di Marsala che realizza un Grillo di grande personalità",
+        "description": "Francesco Intorcia non si è limitato a gestire l'azienda fondata dal nonno nel 1930, ma da imprenditore visionario e illuminato ha dato vita al progetto Heritag…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/grillo-vignemie-francesco-intorcia-heritage/",
+        "pubDate": "2026-03-17T07:43:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tullia: a Roma un nuovo ristorante tra tradizione capitolina e visione contemporanea",
+        "description": "Nel quartiere Prati, a pochi passi da Castel Sant’Angelo e dal Vaticano, apre il ristorante Tullia. Il locale si trova accanto al NYX Hotel Rome, sulla sponda d…",
+        "link": "https://www.winemag.it/tullia-roma-un-nuovo-ristorante-tra-tradizione-capitolina-visione-contemporanea/",
+        "pubDate": "2026-03-17T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Rosset Terroir, c’è un fuoriclasse Sopraquota 900",
+        "description": "Arrivarci non è una passeggiata. Il sentiero sale deciso. Verticale. Il fiato si accorcia. Le gambe faticano. Ogni sguardo indietro apre uno scorcio in più di V…",
+        "link": "https://www.winemag.it/rosset-terroir-fuoriclasse-sopraquota-900-petite-arvine/",
+        "pubDate": "2026-03-17T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Rosset-Terroir-ce-un-fuoriclasse-Sopraquota-900.-Vino-icona-della-Valle-d-Aosta-da-uve-Petite-Arvine-da-un-vigneto-di-montagna-5.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Caso Noma, Albert Adrià: “La brigata vecchio stampo è un mito. Le guide non giudichino il lavoro in cucina”",
+        "description": "Dopo le accuse sulle condizioni di lavoro nelle cucine del Noma, lo chef catalano interviene nel dibattito parlando con il Gambero Rosso: \"La pressione è mitizz…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-albert-adria-brigata-vecchio-stampo-mito-redzepi/",
+        "pubDate": "2026-03-17T05:54:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Robot, vigneti e macchine intelligenti: il futuro della viticoltura arriva nel Chianti",
+        "description": "Enovitis in campo festeggia 20 anni e sbarca per la prima volta nel Chianti Classico: il 17 e 18 giugno a Tenuta di Nozzole tecnologie, robotica e prove dal viv…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/robot-vigneti-macchine-intelligenti-enovitis-chianti/",
+        "pubDate": "2026-03-17T05:05:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Renzo Cotarella Winemakers’ Winemaker Award 2026 Institute of Masters of Wine",
+        "description": "Renzo Cotarella riceve il Winemakers’ Winemaker Award 2026 dell’Institute of Masters of Wine (IMW). Il riconoscimento è stato consegnato a Düsseldorf durante Pr…",
+        "link": "https://www.winemag.it/renzo-cotarella-winemakers-winemaker-award-2026-institute-of-masters-of-wine/",
+        "pubDate": "2026-03-16T21:22:37+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Lo chiamano il balcone delle Marche ed è un luogo che vi saprà sorprendere a ogni passo",
         "description": "Viaggio vero il Balcone delle Marche, un borgo unico e che vanta una vista eccezionale sulla regione…",
@@ -84,24 +147,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Dormivo sui sacchi di farina e avevo 300 milioni di cambiali”: la storia del forno Roscioli all’Esquilino",
-        "description": "Nel quartiere più mutevole di Roma, Pietro Roscioli racconta la sua vita da fornaio iniziata nel 1982: dall’infanzia passata a vendere noccioline al cinema al r…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dormivo-sui-sacchi-di-farina-e-avevo-300-milioni-di-cambiali-la-storia-del-forno-roscioli-allesquilino/",
-        "pubDate": "2026-03-16T11:22:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come fare la cacio e pepe perfetta con i segreti di Checco er Carettiere",
-        "description": "Nella nuova puntata di Passione Romana si attraversa il Tevere da Via Giulia a Testaccio e si entra nella cucina di Checco er Carettiere: tra involtini della do…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cacio-pepe-roma-checco-er-carrettiere-gambero-rosso-tv/",
-        "pubDate": "2026-03-16T11:18:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Quello nella ristorazione è il lavoro più bello del mondo, in teoria",
         "description": "Far rispettare le regole che ci sono, aumentando i controlli sulle condizioni di lavoro di cuochi e camerieri nei ristoranti, sarebbe la soluzione più pratica e…",
         "link": "https://www.dissapore.com/ristoranti/quello-della-ristorazione-e-il-lavoro-piu-bello-del-mondo-in-teoria/",
@@ -109,15 +154,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/01/menu-ristorante-allaperto.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Nel borgo dove nascono le trofie: la storia del pastificio che da Sori ha conquistato la Liguria",
-        "description": "Da un laboratorio del 1903 alla macchina che ha rivoluzionato la produzione: così il Pastificio Novella ha trasformato una pasta fatta in casa in uno dei simbol…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/trofie-fresche-sori-liguria-pastificio-novella/",
-        "pubDate": "2026-03-16T11:13:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Gli spray corpo al cocco per una bodycare di Primavera più dolce e fresca",
@@ -145,42 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "I look più belli delle celeb all’after party degli Oscar 2026",
-        "description": "Il red carpet degli Academy Awards regala sempre grandi soddisfazioni e in effetti anche i look sfoggiati ieri dalle celeb agli Oscar 2026 non hanno deluso le a…",
-        "link": "https://www.grazia.it/moda/party-eventi/oscar-after-party-2026-vanity-fair-jessie-buckley-sarah-pidgeon-olivia-rodrigo-nicole-kidman-dua-lipa-960102",
-        "pubDate": "2026-03-16T10:06:48+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Oscar_Party.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’alleato più furbo e chic delle cosiddette “mezze stagioni”? La polo!",
-        "description": "Un tempo considerata decisamente casual e sporty, poco adatta insomma a essere mixata con capi chic. Oggi invece la polo si è presa la sua bella rivincita e si …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/polo-maglia-donna-manica-lunga-cotone-bianca-a-righe-maniche-corte-maglieria-primavera-2026-959768",
-        "pubDate": "2026-03-16T09:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_maglie_polo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Qual è il futuro delle lattine nella birra artigianale?",
-        "description": "Le lattine restano il contenitore preferito dal movimento birrario artigianale, ma per quanto?\nL'articolo Qual è il futuro delle lattine nella birra artigianale…",
-        "link": "https://www.dissapore.com/notizie/qual-e-il-futuro-delle-lattine-nella-birra-artigianale/",
-        "pubDate": "2026-03-16T07:52:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1900168309-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Che cos’è il Salamino di Vacca della Fraschetta, il salume piemontese che si può mangiare anche crudo",
-        "description": "Nato nella pianura alessandrina per valorizzare la carne delle vacche “a fine carriera”, questo raro salamino artigianale oggi è prodotto da pochissimi macellai…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/salamino-vacca-fraschetta-salume-piemontese-crudo/",
-        "pubDate": "2026-03-16T07:37:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,69 @@
     ],
     "lifestyle": [
       {
+        "title": "Zeppole di San Giuseppe a Napoli: dove mangiare le migliori",
+        "description": "Fritte o al forno? Dal centro storico al lungomare, le pasticcerie simbolo della città dove assaggiare uno dei dolci più amati della tradizione partenopea…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/zeppole-san-giuseppe-dove-comprarle-napoli/",
+        "pubDate": "2026-03-17T07:58:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Trapani c’è un famoso produttore di Marsala che realizza un Grillo di grande personalità",
+        "description": "Francesco Intorcia non si è limitato a gestire l'azienda fondata dal nonno nel 1930, ma da imprenditore visionario e illuminato ha dato vita al progetto Heritag…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/grillo-vignemie-francesco-intorcia-heritage/",
+        "pubDate": "2026-03-17T07:43:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tullia: a Roma un nuovo ristorante tra tradizione capitolina e visione contemporanea",
+        "description": "Nel quartiere Prati, a pochi passi da Castel Sant’Angelo e dal Vaticano, apre il ristorante Tullia. Il locale si trova accanto al NYX Hotel Rome, sulla sponda d…",
+        "link": "https://www.winemag.it/tullia-roma-un-nuovo-ristorante-tra-tradizione-capitolina-visione-contemporanea/",
+        "pubDate": "2026-03-17T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Rosset Terroir, c’è un fuoriclasse Sopraquota 900",
+        "description": "Arrivarci non è una passeggiata. Il sentiero sale deciso. Verticale. Il fiato si accorcia. Le gambe faticano. Ogni sguardo indietro apre uno scorcio in più di V…",
+        "link": "https://www.winemag.it/rosset-terroir-fuoriclasse-sopraquota-900-petite-arvine/",
+        "pubDate": "2026-03-17T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Rosset-Terroir-ce-un-fuoriclasse-Sopraquota-900.-Vino-icona-della-Valle-d-Aosta-da-uve-Petite-Arvine-da-un-vigneto-di-montagna-5.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Caso Noma, Albert Adrià: “La brigata vecchio stampo è un mito. Le guide non giudichino il lavoro in cucina”",
+        "description": "Dopo le accuse sulle condizioni di lavoro nelle cucine del Noma, lo chef catalano interviene nel dibattito parlando con il Gambero Rosso: \"La pressione è mitizz…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-albert-adria-brigata-vecchio-stampo-mito-redzepi/",
+        "pubDate": "2026-03-17T05:54:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Robot, vigneti e macchine intelligenti: il futuro della viticoltura arriva nel Chianti",
+        "description": "Enovitis in campo festeggia 20 anni e sbarca per la prima volta nel Chianti Classico: il 17 e 18 giugno a Tenuta di Nozzole tecnologie, robotica e prove dal viv…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/robot-vigneti-macchine-intelligenti-enovitis-chianti/",
+        "pubDate": "2026-03-17T05:05:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Renzo Cotarella Winemakers’ Winemaker Award 2026 Institute of Masters of Wine",
+        "description": "Renzo Cotarella riceve il Winemakers’ Winemaker Award 2026 dell’Institute of Masters of Wine (IMW). Il riconoscimento è stato consegnato a Düsseldorf durante Pr…",
+        "link": "https://www.winemag.it/renzo-cotarella-winemakers-winemaker-award-2026-institute-of-masters-of-wine/",
+        "pubDate": "2026-03-16T21:22:37+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Il prezzo del cacao cala, ma le uova di cioccolato sono più care dell’anno scorso",
         "description": "Le analisi di mercato a inizio stagione segnalano già dei rincari sulle uova di cioccolato, anche se meno importanti rispetto ai due anni appena trascorsi.\nL'ar…",
         "link": "https://www.dissapore.com/notizie/il-prezzo-del-cacao-cala-ma-le-uova-di-cioccolato-sono-piu-care-dellanno-scorso/",
@@ -430,24 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Dormivo sui sacchi di farina e avevo 300 milioni di cambiali”: la storia del forno Roscioli all’Esquilino",
-        "description": "Nel quartiere più mutevole di Roma, Pietro Roscioli racconta la sua vita da fornaio iniziata nel 1982: dall’infanzia passata a vendere noccioline al cinema al r…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dormivo-sui-sacchi-di-farina-e-avevo-300-milioni-di-cambiali-la-storia-del-forno-roscioli-allesquilino/",
-        "pubDate": "2026-03-16T11:22:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come fare la cacio e pepe perfetta con i segreti di Checco er Carettiere",
-        "description": "Nella nuova puntata di Passione Romana si attraversa il Tevere da Via Giulia a Testaccio e si entra nella cucina di Checco er Carettiere: tra involtini della do…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cacio-pepe-roma-checco-er-carrettiere-gambero-rosso-tv/",
-        "pubDate": "2026-03-16T11:18:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Quello nella ristorazione è il lavoro più bello del mondo, in teoria",
         "description": "Far rispettare le regole che ci sono, aumentando i controlli sulle condizioni di lavoro di cuochi e camerieri nei ristoranti, sarebbe la soluzione più pratica e…",
         "link": "https://www.dissapore.com/ristoranti/quello-della-ristorazione-e-il-lavoro-piu-bello-del-mondo-in-teoria/",
@@ -455,15 +500,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/01/menu-ristorante-allaperto.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Nel borgo dove nascono le trofie: la storia del pastificio che da Sori ha conquistato la Liguria",
-        "description": "Da un laboratorio del 1903 alla macchina che ha rivoluzionato la produzione: così il Pastificio Novella ha trasformato una pasta fatta in casa in uno dei simbol…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/trofie-fresche-sori-liguria-pastificio-novella/",
-        "pubDate": "2026-03-16T11:13:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Vinitaly Tourism 2026, enoturismo asset strategico del sistema vino",
@@ -482,15 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1900168309-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Che cos’è il Salamino di Vacca della Fraschetta, il salume piemontese che si può mangiare anche crudo",
-        "description": "Nato nella pianura alessandrina per valorizzare la carne delle vacche “a fine carriera”, questo raro salamino artigianale oggi è prodotto da pochissimi macellai…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/salamino-vacca-fraschetta-salume-piemontese-crudo/",
-        "pubDate": "2026-03-16T07:37:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Gelato Day: il 23 marzo, a Roma, si mangia buon gelato artigianale per solidarietà",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "I forni a legna delle pizzerie inquinano troppo?",
-        "description": "Uno studio di ENEA ha analizzato le tipologie di inquinanti prodotte nelle varie fasi di uso dei forni a legna, per capire se è il caso di intervenire con una r…",
-        "link": "https://www.dissapore.com/notizie/i-forni-a-legna-delle-pizzerie-inquinano-troppo/",
-        "pubDate": "2026-03-15T09:15:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/forno-a-legna-acceso-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa sono le “uova di dinosauro” che stanno conquistando chef e social",
-        "description": "Per una volta TikTok fa qualcosa di buono, riportando in auge un'antica e varietà di sale dalle Filippine.\nL'articolo Cosa sono le &#8220;uova di dinosauro&#822…",
-        "link": "https://www.dissapore.com/notizie/cosa-sono-le-uova-di-dinosauro-che-stanno-conquistando-chef-e-social/",
-        "pubDate": "2026-03-14T15:03:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2380338979-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Lo scandalo del Noma non rivoluzionerà le cucine tossiche del fine dining",
-        "description": "Ci sono due grandi motivi perché quello che sta succedendo con le accuse a René Redzepi e all'ambiente del Noma non rappresenta affatto la rivoluzione culturale…",
-        "link": "https://www.dissapore.com/ristoranti/lo-scandalo-del-noma-non-rivoluzionera-le-cucine-tossiche-del-fine-dining/",
-        "pubDate": "2026-03-14T12:42:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/01/rene-redzepi-noma.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
