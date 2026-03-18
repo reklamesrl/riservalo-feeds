@@ -1,7 +1,61 @@
 {
-  "generated": "2026-03-18T15:56:08.227723+00:00",
+  "generated": "2026-03-18T19:56:13.605068+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Questo borgo delle Marche è un viaggio tra leggenda e magia",
+        "description": "Ecco un borgo delle Marche che vale davvero la pena di essere scoperto, tra leggende, bellezze antiche e atmosfere che riportano indietro nel tempo…",
+        "link": "https://www.stylosophy.it/articolo/questo-borgo-delle-marche-e-un-viaggio-tra-leggenda-e-magia/249066/",
+        "pubDate": "2026-03-18T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Che cos’è il pasticcio di maccheroni ferrarese (e perché è il piatto più sorprendente del Rinascimento)",
+        "description": "Dolce fuori e salato dentro: il timballo simbolo della cucina estense, nato nel ’500 tra zucchero, spezie e banchetti di corte…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticcio-maccheroni-ferrara/",
+        "pubDate": "2026-03-18T16:47:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Dopo l’incidente in moto ho lasciato l’alta cucina”: oggi è un influencer da 800mila follower",
+        "description": "La gavetta l'ha fatta nelle cucine dei grandi chef la fama l'ha trovata sui social. Tutta la storia del cuoco influencer che urla sui social…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/alessio-pellizzoni-chef-incidente-moto-intervista/",
+        "pubDate": "2026-03-18T16:06:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Abbiamo perso il senso profondo delle Dop”. Parla Nicolas Joly, padre della biodinamica applicata al vino",
+        "description": "\"Potete ottenere un sapore perfetto con la tecnologia, ma non potete ottenere la vita. L’aria non mente\". Con il grande vigneron abbiamo toccato alcuni dei temi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/nicolas-joly-biodinamica-vino/",
+        "pubDate": "2026-03-18T16:06:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Antonino Cannavacciuolo è il nuovo testimonial di Lidl Italia, ma è già una notizia vecchia",
+        "description": "Non stupisce, ma dovrebbe, che uno chef \"tristellato\" sia il nuovo volto della private label di un discount. Dice Lidl che il cuoco ha personalmente assaggiato …",
+        "link": "https://www.dissapore.com/spesa/antonino-cannavacciuolo-e-il-nuovo-testimonial-di-lidl-italia-ma-e-gia-una-notizia-vecchia/",
+        "pubDate": "2026-03-18T16:01:00+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Italiamo_Cantuccini-con-22-mandorle-IGP-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Zendaya e quell’abito bianco da sposa che spunta dal suo armadio",
+        "description": "È di sicuro il momento di Zendaya: tra la notizia del suo matrimonio segreto con Tom Holland e la presentazione del suo ultimo film, The Drama, in cui recita al…",
+        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-abito-bianco-westwood-oscar-2015-960774",
+        "pubDate": "2026-03-18T15:05:51+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/zendaya-bianco-evi.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Specchi IKEA DAGGKAPRIFOL: design decorativo e colori di tendenza per arredare le pareti",
         "description": "Colori delicati e dettagli decorativi: lo specchio che cambia l’atmosfera senza rivoluzionare l’arredo.…",
@@ -127,63 +181,27 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b96df3c1524.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Dove viveva il bibliotecario ora si mangiano anche i tortellini: il nuovo ristorante sul Garda",
-        "description": "Nella Cittadella di Ugo Da Como, a Lonato del Garda, lo chef Stefano Zanini apre Tavola MoS: un progetto che unisce cucina, memoria e territorio, tra piatti tra…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ristorante-bibliotecario-tortellini-tavola-mos/",
-        "pubDate": "2026-03-18T10:19:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pratiche e chic, quelle trapuntate sono le Giacche della mezza stagione",
-        "description": "Dall’inconfondibile fascino british, la Giacca Trapuntata continua a conquistarci anche quest’anno con la sua eleganza e la sua praticità! Ecco le più belle da …",
-        "link": "https://www.stylosophy.it/articolo/pratiche-e-chic-quelle-trapuntate-sono-le-giacche-della-mezza-stagione/249084/",
-        "pubDate": "2026-03-18T10:00:00+00:00",
+        "title": "Questo borgo delle Marche è un viaggio tra leggenda e magia",
+        "description": "Ecco un borgo delle Marche che vale davvero la pena di essere scoperto, tra leggende, bellezze antiche e atmosfere che riportano indietro nel tempo…",
+        "link": "https://www.stylosophy.it/articolo/questo-borgo-delle-marche-e-un-viaggio-tra-leggenda-e-magia/249066/",
+        "pubDate": "2026-03-18T18:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "La ricetta nascosta nel portafogli di papà che non avevo mai visto",
-        "description": "Un gesto mai fatto prima e una scoperta inattesa: tra oggetti quotidiani e memoria, una figlia ritrova il padre nei dettagli più semplici…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricetta-ricotta-portafoglio-papa/",
-        "pubDate": "2026-03-18T08:56:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come tre grandi nome del beverage vogliono rivoluzionare il mercato dell’analcolico",
-        "description": "L'ex CEO di Campari, il fondatore di Velier e quello di Egine Gin uniscono le forse per creare Liquid Ventures, un progetto che promette di dare una scossa al m…",
-        "link": "https://www.dissapore.com/notizie/come-tre-grandi-nome-del-beverage-vogliono-rivoluzionare-il-mercato-dellanalcolico/",
-        "pubDate": "2026-03-18T08:43:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b13cacb2e77.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "10 tendenze dalle sfilate Autunno Inverno 2026/27",
-        "description": "New York, Londra, Milano, Parigi (più qualche tappa extra). La maratona delle fashion week dedicate al prêt-à-porter è appena terminata e, come di consueto, è a…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/tendenze-moda-donna-autunno-inverno-2026-27-sfilate-960425",
-        "pubDate": "2026-03-18T07:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_trend_sfilate_FW26-27.jpg",
+        "title": "Zendaya e quell’abito bianco da sposa che spunta dal suo armadio",
+        "description": "È di sicuro il momento di Zendaya: tra la notizia del suo matrimonio segreto con Tom Holland e la presentazione del suo ultimo film, The Drama, in cui recita al…",
+        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-abito-bianco-westwood-oscar-2015-960774",
+        "pubDate": "2026-03-18T15:05:51+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/zendaya-bianco-evi.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
-      {
-        "title": "Domaine Mayard Côtes du Rhône: un rosso francese da bere d’un fiato",
-        "description": "Il Côtes du Rhône 2024 firmato Domaine Mayard racconta di un vino rosso francese da bere d&#8217;un fiato, firmato non a caso da una nuova generazione di vignai…",
-        "link": "https://www.winemag.it/domaine-mayard-cotes-du-rhone-un-rosso-francese-da-bere-d-un-fiato/",
-        "pubDate": "2026-03-18T06:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Domaine-Mayard-Cotes-du-Rhone-un-rosso-francese-da-bere-d-un-fiato-Chateauneuf-du-Pape.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      }
-    ],
-    "moda": [
       {
         "title": "Specchi IKEA DAGGKAPRIFOL: design decorativo e colori di tendenza per arredare le pareti",
         "description": "Colori delicati e dettagli decorativi: lo specchio che cambia l’atmosfera senza rivoluzionare l’arredo.…",
@@ -338,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Lo chiamano il balcone delle Marche ed è un luogo che vi saprà sorprendere a ogni passo",
-        "description": "Viaggio vero il Balcone delle Marche, un borgo unico e che vanta una vista eccezionale sulla regione…",
-        "link": "https://www.stylosophy.it/articolo/lo-chiamano-il-balcone-delle-marche-ed-e-un-luogo-che-vi-sapra-sorprendere-a-ogni-passo/249001/",
-        "pubDate": "2026-03-16T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "I look più belli delle celeb all’after party degli Oscar 2026",
         "description": "Il red carpet degli Academy Awards regala sempre grandi soddisfazioni e in effetti anche i look sfoggiati ieri dalle celeb agli Oscar 2026 non hanno deluso le a…",
         "link": "https://www.grazia.it/moda/party-eventi/oscar-after-party-2026-vanity-fair-jessie-buckley-sarah-pidgeon-olivia-rodrigo-nicole-kidman-dua-lipa-960102",
@@ -354,18 +363,45 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Oscar_Party.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "L’alleata più furba e chic delle cosiddette “mezze stagioni”? La maglia polo!",
-        "description": "Un tempo considerata decisamente casual e sporty, poco adatta insomma a essere mixata con capi chic. Oggi invece la polo si è presa la sua bella rivincita e si …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/polo-maglia-donna-manica-lunga-cotone-bianca-a-righe-maniche-corte-maglieria-primavera-2026-959768",
-        "pubDate": "2026-03-16T09:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_maglie_polo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Che cos’è il pasticcio di maccheroni ferrarese (e perché è il piatto più sorprendente del Rinascimento)",
+        "description": "Dolce fuori e salato dentro: il timballo simbolo della cucina estense, nato nel ’500 tra zucchero, spezie e banchetti di corte…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticcio-maccheroni-ferrara/",
+        "pubDate": "2026-03-18T16:47:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Dopo l’incidente in moto ho lasciato l’alta cucina”: oggi è un influencer da 800mila follower",
+        "description": "La gavetta l'ha fatta nelle cucine dei grandi chef la fama l'ha trovata sui social. Tutta la storia del cuoco influencer che urla sui social…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/alessio-pellizzoni-chef-incidente-moto-intervista/",
+        "pubDate": "2026-03-18T16:06:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Abbiamo perso il senso profondo delle Dop”. Parla Nicolas Joly, padre della biodinamica applicata al vino",
+        "description": "\"Potete ottenere un sapore perfetto con la tecnologia, ma non potete ottenere la vita. L’aria non mente\". Con il grande vigneron abbiamo toccato alcuni dei temi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/nicolas-joly-biodinamica-vino/",
+        "pubDate": "2026-03-18T16:06:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Antonino Cannavacciuolo è il nuovo testimonial di Lidl Italia, ma è già una notizia vecchia",
+        "description": "Non stupisce, ma dovrebbe, che uno chef \"tristellato\" sia il nuovo volto della private label di un discount. Dice Lidl che il cuoco ha personalmente assaggiato …",
+        "link": "https://www.dissapore.com/spesa/antonino-cannavacciuolo-e-il-nuovo-testimonial-di-lidl-italia-ma-e-gia-una-notizia-vecchia/",
+        "pubDate": "2026-03-18T16:01:00+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Italiamo_Cantuccini-con-22-mandorle-IGP-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Valtènesi Dop cancellata dall’Unione europea: «Acquista valore, diventa sottozona»",
         "description": "La denominazione di origine protetta Valtènesi è stata cancellata dall&#8217;elenco delle Dop. Esce quindi ufficialmente dal registro delle indicazioni geografi…",
@@ -448,24 +484,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Dove viveva il bibliotecario ora si mangiano anche i tortellini: il nuovo ristorante sul Garda",
-        "description": "Nella Cittadella di Ugo Da Como, a Lonato del Garda, lo chef Stefano Zanini apre Tavola MoS: un progetto che unisce cucina, memoria e territorio, tra piatti tra…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ristorante-bibliotecario-tortellini-tavola-mos/",
-        "pubDate": "2026-03-18T10:19:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La ricetta nascosta nel portafogli di papà che non avevo mai visto",
-        "description": "Un gesto mai fatto prima e una scoperta inattesa: tra oggetti quotidiani e memoria, una figlia ritrova il padre nei dettagli più semplici…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricetta-ricotta-portafoglio-papa/",
-        "pubDate": "2026-03-18T08:56:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Come tre grandi nome del beverage vogliono rivoluzionare il mercato dell’analcolico",
         "description": "L'ex CEO di Campari, il fondatore di Velier e quello di Egine Gin uniscono le forse per creare Liquid Ventures, un progetto che promette di dare una scossa al m…",
         "link": "https://www.dissapore.com/notizie/come-tre-grandi-nome-del-beverage-vogliono-rivoluzionare-il-mercato-dellanalcolico/",
@@ -491,15 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/mc-donald-premium.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "“Quando le domande arrivano, gli chef spariscono”: il caso Noma e l’ipocrisia dell’alta cucina",
-        "description": "Dal silenzio su René Redzepi alle interviste patinate o senza contraddittorio. Il sistema della ristorazione celebra sé stesso ma si sottrae quando deve rispond…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/domande-arrivano-chef-spariscono-caso-noma-pocrisia-alta-cucina/",
-        "pubDate": "2026-03-17T12:26:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Quando McDonald’s abbassa i prezzi dobbiamo davvero preoccuparci",
@@ -534,15 +543,6 @@
         "link": "https://www.winemag.it/tullia-roma-un-nuovo-ristorante-tra-tradizione-capitolina-visione-contemporanea/",
         "pubDate": "2026-03-17T07:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Rosset Terroir, c’è un fuoriclasse Sopraquota 900",
-        "description": "Arrivarci non è una passeggiata. Il sentiero sale deciso. Verticale. Il fiato si accorcia. Le gambe faticano. Ogni sguardo indietro apre uno scorcio in più di V…",
-        "link": "https://www.winemag.it/rosset-terroir-fuoriclasse-sopraquota-900-petite-arvine/",
-        "pubDate": "2026-03-17T06:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Rosset-Terroir-ce-un-fuoriclasse-Sopraquota-900.-Vino-icona-della-Valle-d-Aosta-da-uve-Petite-Arvine-da-un-vigneto-di-montagna-5.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
       }
