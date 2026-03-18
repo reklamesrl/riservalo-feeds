@@ -1,189 +1,252 @@
 {
-  "generated": "2026-03-18T08:04:54.169826+00:00",
+  "generated": "2026-03-18T15:56:08.227723+00:00",
   "feeds": {
     "offerte": [
       {
+        "title": "Specchi IKEA DAGGKAPRIFOL: design decorativo e colori di tendenza per arredare le pareti",
+        "description": "Colori delicati e dettagli decorativi: lo specchio che cambia l’atmosfera senza rivoluzionare l’arredo.…",
+        "link": "https://www.stylosophy.it/articolo/specchi-ikea-daggkaprifol-design-decorativo-e-colori-di-tendenza/249080/",
+        "pubDate": "2026-03-18T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Swarovski presenta la seconda collezione con Ariana Grande",
+        "description": "Il 20 marzo la primavera avrà ufficialmente inizio con l&#8217;equinozio e quale modo migliore di festeggiarla con una collezione poetica e romantica che ne cel…",
+        "link": "https://www.grazia.it/moda/news-moda/swarovski-ariana-grande-gioielli-collezione-primavera-2026-960686",
+        "pubDate": "2026-03-18T13:58:20+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/Ariana-Grande-x-Swarovski-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Valtènesi Dop cancellata dall’Unione europea: «Acquista valore, diventa sottozona»",
+        "description": "La denominazione di origine protetta Valtènesi è stata cancellata dall&#8217;elenco delle Dop. Esce quindi ufficialmente dal registro delle indicazioni geografi…",
+        "link": "https://www.winemag.it/valtenesi-dop-cancellata-da-unione-europea-garda-bresciano-si-riorganizza/",
+        "pubDate": "2026-03-18T13:31:51+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2025/06/Garda-Doc-Cremant-e-Low-Alcol-verso-il-via-libera-alle-nuove-tipologie-consorzio-garda-doc-spumante-metodo-classico-e-bassa-gradazione-alcolica.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con questo Look! FOTO",
+        "description": "Ecco qui di seguito che cosa ha indossato Ilary Blasi per la prima puntata del Grande Fratello Vip.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-lascia-tutti-senza-fiato-al-grande-fratello-vip-con-questo-look-foto/249100/",
+        "pubDate": "2026-03-18T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Gli amaretti di Saronno non si mangiavano soltanto: una volta il loro incarto volava",
+        "description": "Dalla leggenda dell’arcivescovo alla carta velina che si accendeva e svolazzava, i biscotti simbolo di Saronno raccontano una storia fatta di tradizione, ritual…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/amaretti-saronno-incarto-volava/",
+        "pubDate": "2026-03-18T12:53:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cosa sono i quaresimali fiorentini, i biscotti a forma di lettere della Quaresima",
+        "description": "Nati nei conventi tra Firenze e Prato, sono dolci semplici e austeri, senza latte né lievito, che trasformano la tradizione del digiuno in un racconto simbolico…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/quaresimali-fiorentini-dolci-forma-lettere-alfabeto/",
+        "pubDate": "2026-03-18T12:49:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nella pasticceria di Roma dove la colazione si fa anche vegana (ma fatta bene)",
+        "description": "Da Dolcemascolo, a Roma, la viennoiserie vegetale affianca quella tradizionale: cornetti e lievitati pensati per essere più leggeri, inclusivi e adatti alla col…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/croissant-instagrammabili-roma-cornetti-vegani-dolcemascolo/",
+        "pubDate": "2026-03-18T12:39:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ballerine animalier in primavera? Perchè no! Ecco i modelli da puntare ASAP",
+        "description": "Fino a qualche stagione fa le indossavamo solo in poche e rare occasioni. Poi abbiamo iniziato a sfoggiarle esclusivamente durante il periodo invernale. Adesso …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-animalier-cavallino-zara-punta-pelle-leopardate-zara-mucca-bambi-mary-jane-donna-primavera-tendenze-960644",
+        "pubDate": "2026-03-18T11:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Ballerine_animalier.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "5 Esfolianti coreani per una pelle del viso più luminosa e raggiante",
+        "description": "Per una pelle del viso luminosa e fresca, punta su uno di questi 5 esfolianti coreani, di ottima qualità!…",
+        "link": "https://www.stylosophy.it/articolo/5-esfolianti-coreani-per-una-pelle-del-viso-piu-luminosa-e-raggiante/249069/",
+        "pubDate": "2026-03-18T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Rivoluzione Amarone: la direzione è quella della sottrazione, ma “il pericolo è fare dei vinelli”. Ecco perché",
+        "description": "Gli assaggi di Amarone Opera Prima 2026 e da un incontro in altra sede con le Famiglie Storiche restituiscono uno scenario in movimento: la grande Docg veneta s…",
+        "link": "https://www.gamberorosso.it/notizie/vino/amarone-valpolicella-rivoluzione-appassimento-rischi/",
+        "pubDate": "2026-03-18T10:55:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Da 18 anni a Milano si studia come il cervello sceglie il vino (e l’AI sta cambiando tutto)",
+        "description": "Nel Centro di Ricerca in Neuromarketing della Iulm, neuroscienze e intelligenza artificiale si incontrano per analizzare emozioni, desiderio e percezione: così …",
+        "link": "https://www.gamberorosso.it/notizie/vino/ai-integrata-neuroscienze-cantine-comunicatori-vino/",
+        "pubDate": "2026-03-18T10:50:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“I dazi li paghiamo noi”: come un piccolo importatore di vino ha sfidato Donald Trump",
+        "description": "La storia di Victor Owen Schwartz, partito da un magazzino di bottiglie a New York e arrivato fino alla Corte Suprema: quando il vino diventa terreno di scontro…",
+        "link": "https://www.gamberorosso.it/notizie/vino/come-piccolo-importatore-sfidato-dazi-donald-trump/",
+        "pubDate": "2026-03-18T10:48:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Caso Noma, il clima di terrore in cucina non funziona”: perché i giovani chef stanno cambiando la cucina",
+        "description": "Dopo il caso Noma e anni di brigate rigide, una nuova generazione di cuochi mette in discussione il modello tradizionale: gerarchie sì, ma senza paura, tra risp…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/clima-terrore-cucina-non-giovani-chef-cambiano-caso-noma/",
+        "pubDate": "2026-03-18T10:36:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Storica performance dell’Italia al Bocuse d’Or: per la prima volta sul podio",
+        "description": "Il piazzamento è da libri di storia: il nostro team si è piazzato per la prima sul podio in una finale, grazie a creazioni profondamente mediterranee.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/storica-performance-dellitalia-al-bocuse-dor-per-la-prima-volta-sul-podio/",
+        "pubDate": "2026-03-18T10:22:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b96df3c1524.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dove viveva il bibliotecario ora si mangiano anche i tortellini: il nuovo ristorante sul Garda",
+        "description": "Nella Cittadella di Ugo Da Como, a Lonato del Garda, lo chef Stefano Zanini apre Tavola MoS: un progetto che unisce cucina, memoria e territorio, tra piatti tra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ristorante-bibliotecario-tortellini-tavola-mos/",
+        "pubDate": "2026-03-18T10:19:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pratiche e chic, quelle trapuntate sono le Giacche della mezza stagione",
+        "description": "Dall’inconfondibile fascino british, la Giacca Trapuntata continua a conquistarci anche quest’anno con la sua eleganza e la sua praticità! Ecco le più belle da …",
+        "link": "https://www.stylosophy.it/articolo/pratiche-e-chic-quelle-trapuntate-sono-le-giacche-della-mezza-stagione/249084/",
+        "pubDate": "2026-03-18T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La ricetta nascosta nel portafogli di papà che non avevo mai visto",
+        "description": "Un gesto mai fatto prima e una scoperta inattesa: tra oggetti quotidiani e memoria, una figlia ritrova il padre nei dettagli più semplici…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricetta-ricotta-portafoglio-papa/",
+        "pubDate": "2026-03-18T08:56:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come tre grandi nome del beverage vogliono rivoluzionare il mercato dell’analcolico",
+        "description": "L'ex CEO di Campari, il fondatore di Velier e quello di Egine Gin uniscono le forse per creare Liquid Ventures, un progetto che promette di dare una scossa al m…",
+        "link": "https://www.dissapore.com/notizie/come-tre-grandi-nome-del-beverage-vogliono-rivoluzionare-il-mercato-dellanalcolico/",
+        "pubDate": "2026-03-18T08:43:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b13cacb2e77.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "10 tendenze dalle sfilate Autunno Inverno 2026/27",
+        "description": "New York, Londra, Milano, Parigi (più qualche tappa extra). La maratona delle fashion week dedicate al prêt-à-porter è appena terminata e, come di consueto, è a…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/tendenze-moda-donna-autunno-inverno-2026-27-sfilate-960425",
+        "pubDate": "2026-03-18T07:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_trend_sfilate_FW26-27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Domaine Mayard Côtes du Rhône: un rosso francese da bere d’un fiato",
-        "description": "Il Côtes du Rhône firmato Domaine Mayard racconta di un vino rosso francese da bere d&#8217;un fiato, firmato non a caso da una nuova generazione di vignaioli n…",
+        "description": "Il Côtes du Rhône 2024 firmato Domaine Mayard racconta di un vino rosso francese da bere d&#8217;un fiato, firmato non a caso da una nuova generazione di vignai…",
         "link": "https://www.winemag.it/domaine-mayard-cotes-du-rhone-un-rosso-francese-da-bere-d-un-fiato/",
         "pubDate": "2026-03-18T06:00:00+00:00",
         "image": "https://www.winemag.it/wp-content/uploads/2026/03/Domaine-Mayard-Cotes-du-Rhone-un-rosso-francese-da-bere-d-un-fiato-Chateauneuf-du-Pape.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Viaggio sulla Riviera dei Cedri verso un borgo calabro che è una vera bellezza",
-        "description": "Viaggio primaverile verso un borgo calabro che è una vera bellezza lungo la Riviera dei Cedri, una meta da scoprire ora e che ricorderete per sempre…",
-        "link": "https://www.stylosophy.it/articolo/viaggio-sulla-riviera-dei-cedri-verso-un-borgo-calabro-che-e-una-vera-bellezza/249041/",
-        "pubDate": "2026-03-17T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Come cambia la pizza napoletana del 2026 e cosa ci dice sul nostro potere d’acquisto",
-        "description": "Con la crisi del canotto è la rivincita della ruota di carro. Ma soprattutto, se il prezzo della margherita impenna, emergono le formule POP dei pizzaioli con u…",
-        "link": "https://www.dissapore.com/pizzerie/come-cambia-la-pizza-napoletana-del-2026-e-cosa-ci-dice-sul-nostro-potere-dacquisto/",
-        "pubDate": "2026-03-17T16:54:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/mc-donald-premium.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le decorazioni Loberon che trasformeranno la tua casa a Pasqua (la ghirlanda è la nostra preferita)",
-        "description": "Materiali naturali, dettagli dipinti a mano e atmosfere accoglienti: la Pasqua non è mai stata così raffinata.…",
-        "link": "https://www.stylosophy.it/articolo/le-decorazioni-loberon-che-trasformeranno-la-tua-casa-a-pasqua/249029/",
-        "pubDate": "2026-03-17T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Zara annuncia una partnership con John Galliano: quando l’archivio diventa couture",
-        "description": "Chi ama la moda sa che certi incontri non sono semplici collaborazioni, ma veri momenti di svolta. È il caso della nuova partnership tra Zara e John Galliano, a…",
-        "link": "https://www.grazia.it/moda/news-moda/zara-john-galliano-collaborazione-di-due-anni-archivi-vecchie-collezioni-settembre-2026-960484",
-        "pubDate": "2026-03-17T14:16:36+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura-szilveszter_mako_john_galliano-32.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Un mix di sensualità e spirito ribelle: GUESS presenta la nuova Camden Bag",
-        "description": "Ispirata allo spirito vibrante e spensierato di Ibiza, progettata per una donna sicura di sè, capace di incarnare contemporaneamente forza e dolcezza: è la Camd…",
-        "link": "https://www.grazia.it/moda/news-moda/guess-borsa-camden-bag-chiara-ferragni-video-960473",
-        "pubDate": "2026-03-17T13:52:08+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Camden_Bag.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Ilary Blasi brilla a Verissimo con il Look con felpa bomber e gonna lunga con spacco tempestata di paillettes",
-        "description": "Ilary Blasi, ospite a Verissimo, ha sfoggiato un look con felpa bomber e gonna lunga con spacco e paillettes.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-brilla-a-verissimo-con-il-look-con-felpa-bomber-e-gonna-lunga-con-spacco-tempestata-di-paillettes/249036/",
-        "pubDate": "2026-03-17T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Quando le domande arrivano, gli chef spariscono”: il caso Noma e l’ipocrisia dell’alta cucina",
-        "description": "Dal silenzio su René Redzepi alle interviste patinate o senza contraddittorio. Il sistema della ristorazione celebra sé stesso ma si sottrae quando deve rispond…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/domande-arrivano-chef-spariscono-caso-noma-pocrisia-alta-cucina/",
-        "pubDate": "2026-03-17T12:26:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Utility jacket: 5 idee su come indossarle questa primavera (e sì, anche con i look più raffinati)",
-        "description": "Con l’arrivo della primavera corriamo a far spazio nell’armadio a blazer, trench e giacche di pelle, ma c’è un altro capospalla leggero da non sottovalutare in …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/utility-jacket-donna-abbigliamento-come-indossare-abbinamenti-street-style-idee-outfit-primavera-960384",
-        "pubDate": "2026-03-17T11:20:31+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Utility_Jacket.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Morellato torna alle sue radici e racconta Venezia nella nuova campagna Primavera-Estate 2026",
-        "description": "Ci sono gioielli che non aspettano un’occasione speciale. Vivono infatti con chi li indossa, nel ritmo spontaneo delle giornate, nella luce improvvisa di un mom…",
-        "link": "https://www.grazia.it/moda/news-moda/morellato-gioielli-campagna-primavera-estate-2026-venezia-959749",
-        "pubDate": "2026-03-17T11:14:11+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/ok-apertura-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Mauro Uliassi: “Il caso Noma ci obbliga a riflettere sulle dinamiche di potere nelle cucine”",
-        "description": "Dopo lo scandalo che ha travolto René Redzepi e il Noma, lo chef di Senigallia riflette sul lato oscuro delle cucine: stage, gerarchie, pressione e futuro dell’…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/mauro-uliassi-caso-noma-riflettere-dinamiche-potere-cucine/",
-        "pubDate": "2026-03-17T11:01:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il segreto per capelli sani? Questi termoprotettori, a prova di phon e piastre",
-        "description": "Per capelli sani, forti e belli, puntate su un ottimo termoprotettore, un alleato haircare per una chioma tutta da invidiare. Ecco 5 proposte da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/il-segreto-per-capelli-sani-questi-termoprotettori-a-prova-di-phon-e-piastre/249019/",
-        "pubDate": "2026-03-17T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Festa del papà 2026: 6 idee regalo moda che lo conquisteranno!",
-        "description": "La Festa del Papà è alle porte! E, dunque, non farti cogliere impreparato. Ecco qui le proposte moda più cool per fare un regalo super chic al proprio papà...…",
-        "link": "https://www.stylosophy.it/articolo/festa-del-papa-2026-6-idee-regalo-moda-che-lo-conquisteranno/249047/",
-        "pubDate": "2026-03-17T10:35:49+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Quando McDonald’s abbassa i prezzi dobbiamo davvero preoccuparci",
-        "description": "Ad aprile negli Stati Uniti il fast food più noto al mondo lancerà molti prodotti a 3 euro e uno menu a 4 euro, per riconquistare i consumatori a basso reddito.…",
-        "link": "https://www.dissapore.com/notizie/quando-mcdonalds-abbassa-i-prezzi-dobbiamo-davvero-preoccuparci/",
-        "pubDate": "2026-03-17T10:35:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/10/Burger-King-e1730369499735.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Valdo rileva I Magredi nell’anno del centenario: acquisizione in Friuli",
-        "description": "Valdo Spumanti celebra i suoi primi 100 anni con l’acquisizione della cantina friulana I Magredi, con sede a San Giorgio della Richinvelda (Pordenone). L’aziend…",
-        "link": "https://www.winemag.it/valdo-rileva-i-magredi-nell-anno-del-centenario-acquisizione-in-friuli/",
-        "pubDate": "2026-03-17T09:26:54+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“Non siamo il capro espiatorio della crisi del vino piemontese”. La dura replica delle cooperative ad Ascheri",
-        "description": "Confcooperative Fedagripesca Piemonte replica alle accuse dell’ex presidente del Consorzio Barolo Barbaresco: \"La crisi non nasce dalle cantine sociali ma da co…",
-        "link": "https://www.gamberorosso.it/notizie/vino/non-siamo-capro-espiatorio-crisi-vino-piemontese-confcooperative-ascheri/",
-        "pubDate": "2026-03-17T09:05:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Yannick Alleno nella storia con diciotto stelle Michelin totali",
-        "description": "Yannick Alleno porta a casa Dior la prima stella della maison di moda, aggiungendo un ennesimo macaron al suo ragguardevole palmares\nL'articolo Yannick Alleno n…",
-        "link": "https://www.dissapore.com/notizie/yannick-alleno-nella-storia-con-diciotto-stelle-michelin-totali/",
-        "pubDate": "2026-03-17T08:35:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/efc54df3d8ed4161b6638b9a52f5ad0a_Le-Corot-nouvelles-etoiles-du-Guide-MICHELIN-France-2026.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Zeppole di San Giuseppe a Napoli: dove mangiare le migliori",
-        "description": "Fritte o al forno? Dal centro storico al lungomare, le pasticcerie simbolo della città dove assaggiare uno dei dolci più amati della tradizione partenopea…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/zeppole-san-giuseppe-dove-comprarle-napoli/",
-        "pubDate": "2026-03-17T07:58:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Trapani c’è un famoso produttore di Marsala che realizza un Grillo di grande personalità",
-        "description": "Francesco Intorcia non si è limitato a gestire l'azienda fondata dal nonno nel 1930, ma da imprenditore visionario e illuminato ha dato vita al progetto Heritag…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/grillo-vignemie-francesco-intorcia-heritage/",
-        "pubDate": "2026-03-17T07:43:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gonne see-through: i look street style da cui prendere ispirazione per indossarle questa primavera",
-        "description": "In primavera il sole torna finalmente a fare capolino, le temperature iniziano ad alzarsi e a regalarci quelle giornate che ci fanno già immaginare in bikini e …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-see-through-come-indossare-look-street-style-abbinamenti-primavera-2026-959709",
-        "pubDate": "2026-03-17T07:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_inspo_gonne_see_trough.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Specchi IKEA DAGGKAPRIFOL: design decorativo e colori di tendenza per arredare le pareti",
+        "description": "Colori delicati e dettagli decorativi: lo specchio che cambia l’atmosfera senza rivoluzionare l’arredo.…",
+        "link": "https://www.stylosophy.it/articolo/specchi-ikea-daggkaprifol-design-decorativo-e-colori-di-tendenza/249080/",
+        "pubDate": "2026-03-18T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Swarovski presenta la seconda collezione con Ariana Grande",
+        "description": "Il 20 marzo la primavera avrà ufficialmente inizio con l&#8217;equinozio e quale modo migliore di festeggiarla con una collezione poetica e romantica che ne cel…",
+        "link": "https://www.grazia.it/moda/news-moda/swarovski-ariana-grande-gioielli-collezione-primavera-2026-960686",
+        "pubDate": "2026-03-18T13:58:20+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/Ariana-Grande-x-Swarovski-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con questo Look! FOTO",
+        "description": "Ecco qui di seguito che cosa ha indossato Ilary Blasi per la prima puntata del Grande Fratello Vip.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-lascia-tutti-senza-fiato-al-grande-fratello-vip-con-questo-look-foto/249100/",
+        "pubDate": "2026-03-18T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Ballerine animalier in primavera? Perchè no! Ecco i modelli da puntare ASAP",
+        "description": "Fino a qualche stagione fa le indossavamo solo in poche e rare occasioni. Poi abbiamo iniziato a sfoggiarle esclusivamente durante il periodo invernale. Adesso …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-animalier-cavallino-zara-punta-pelle-leopardate-zara-mucca-bambi-mary-jane-donna-primavera-tendenze-960644",
+        "pubDate": "2026-03-18T11:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Ballerine_animalier.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "5 Esfolianti coreani per una pelle del viso più luminosa e raggiante",
+        "description": "Per una pelle del viso luminosa e fresca, punta su uno di questi 5 esfolianti coreani, di ottima qualità!…",
+        "link": "https://www.stylosophy.it/articolo/5-esfolianti-coreani-per-una-pelle-del-viso-piu-luminosa-e-raggiante/249069/",
+        "pubDate": "2026-03-18T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Pratiche e chic, quelle trapuntate sono le Giacche della mezza stagione",
+        "description": "Dall’inconfondibile fascino british, la Giacca Trapuntata continua a conquistarci anche quest’anno con la sua eleganza e la sua praticità! Ecco le più belle da …",
+        "link": "https://www.stylosophy.it/articolo/pratiche-e-chic-quelle-trapuntate-sono-le-giacche-della-mezza-stagione/249084/",
+        "pubDate": "2026-03-18T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "10 tendenze dalle sfilate Autunno Inverno 2026/27",
+        "description": "New York, Londra, Milano, Parigi (più qualche tappa extra). La maratona delle fashion week dedicate al prêt-à-porter è appena terminata e, come di consueto, è a…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/tendenze-moda-donna-autunno-inverno-2026-27-sfilate-960425",
+        "pubDate": "2026-03-18T07:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_trend_sfilate_FW26-27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Viaggio sulla Riviera dei Cedri verso un borgo calabro che è una vera bellezza",
         "description": "Viaggio primaverile verso un borgo calabro che è una vera bellezza lungo la Riviera dei Cedri, una meta da scoprire ora e che ricorderete per sempre…",
@@ -284,33 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Dove mettere la Lavatrice se non hai lo spazio per una zona lavanderia",
-        "description": "Anche nelle case più piccole è possibile trovare il posto giusto per la lavatrice. Basta conoscere alcune soluzioni progettuali che uniscono funzionalità, ordin…",
-        "link": "https://www.stylosophy.it/articolo/dove-mettere-la-lavatrice-se-non-hai-lo-spazio-per-una-zona-lavanderia/248971/",
-        "pubDate": "2026-03-16T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Gli spray corpo al cocco per una bodycare di Primavera più dolce e fresca",
-        "description": "Dolci, avvolgenti e freschi, questi spray corpo al cocco sono il must have della Primavera 2026. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/gli-spray-corpo-al-cocco-per-una-bodycare-di-primavera-piu-dolce-e-fresca/248981/",
-        "pubDate": "2026-03-16T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Trend Alert: queste sono le stampe e le fantasie più IN del momento!",
-        "description": "Qui 4 stampe e fantasie, nuove o rivisitate, pronte a diventare le protagoniste indiscusse di ogni guardaroba cool e di moda che si rispetti!…",
-        "link": "https://www.stylosophy.it/articolo/trend-alert-queste-sono-le-stampe-e-le-fantasie-piu-in-del-momento/248992/",
-        "pubDate": "2026-03-16T10:12:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "I look più belli delle celeb all’after party degli Oscar 2026",
         "description": "Il red carpet degli Academy Awards regala sempre grandi soddisfazioni e in effetti anche i look sfoggiati ieri dalle celeb agli Oscar 2026 non hanno deluso le a…",
         "link": "https://www.grazia.it/moda/party-eventi/oscar-after-party-2026-vanity-fair-jessie-buckley-sarah-pidgeon-olivia-rodrigo-nicole-kidman-dua-lipa-960102",
@@ -320,55 +356,127 @@
         "source": "Grazia"
       },
       {
-        "title": "L’alleato più furbo e chic delle cosiddette “mezze stagioni”? La polo!",
+        "title": "L’alleata più furba e chic delle cosiddette “mezze stagioni”? La maglia polo!",
         "description": "Un tempo considerata decisamente casual e sporty, poco adatta insomma a essere mixata con capi chic. Oggi invece la polo si è presa la sua bella rivincita e si …",
         "link": "https://www.grazia.it/moda/tendenze-moda/polo-maglia-donna-manica-lunga-cotone-bianca-a-righe-maniche-corte-maglieria-primavera-2026-959768",
         "pubDate": "2026-03-16T09:30:00+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_maglie_polo.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Oscar 2026: tutti i look delle star sul red carpet",
-        "description": "L&#8217;appuntamento più atteso dal mondo del cinema è arrivato: a Los Angeles si accendono i riflettori sulla 98esima edizione dei premi Oscar. L&#8217;attesa …",
-        "link": "https://www.grazia.it/moda/celebrity-style/oscar-2026-look-star-red-carpet-demi-moore-emma-stone-959854",
-        "pubDate": "2026-03-15T22:30:43+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/DESK-OSCAR-2026-3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La libreria di Maisons du Monde che sta conquistando tutti: naturale, elegante e super funzionale",
-        "description": "Un mobile che unisce materiali naturali, design contemporaneo e grande capacità contenitiva. Una soluzione capace di cambiare subito l’atmosfera del soggiorno.…",
-        "link": "https://www.stylosophy.it/articolo/la-libreria-di-maisons-du-monde-che-sta-conquistando-tutti/248901/",
-        "pubDate": "2026-03-15T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Belli e possibili: questi abiti sono perfetti per la primavera (e costano meno di 100 euro)",
-        "description": "Che cosa c&#8217;è di meglio dell&#8217;arrivo della primavera per sfoggiare finalmente un bel vestito cute, magari senza i collant 100 denari che ci tormentano…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-sotto-i-100-euro-primaverili-da-cerimonia-corti-midi-lunghi-modelli-low-cost-primavera-2026-959435",
-        "pubDate": "2026-03-15T07:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_abiti_sotto_100.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Mini, medium o large… il secchiello per la primavera 2026 è servito!",
-        "description": "Non è tra i modelli più semplici o pratici ma ha quel fascino speciale che fa vacillare un po&#8217; tutte: la borsa a secchiello, o bucket bag, continua a esse…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/borse-secchiello-donna-firmate-furla-borbonese-coccinelle-primavera-2026-959649",
-        "pubDate": "2026-03-14T07:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_borse_secchielli.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
       {
+        "title": "Valtènesi Dop cancellata dall’Unione europea: «Acquista valore, diventa sottozona»",
+        "description": "La denominazione di origine protetta Valtènesi è stata cancellata dall&#8217;elenco delle Dop. Esce quindi ufficialmente dal registro delle indicazioni geografi…",
+        "link": "https://www.winemag.it/valtenesi-dop-cancellata-da-unione-europea-garda-bresciano-si-riorganizza/",
+        "pubDate": "2026-03-18T13:31:51+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2025/06/Garda-Doc-Cremant-e-Low-Alcol-verso-il-via-libera-alle-nuove-tipologie-consorzio-garda-doc-spumante-metodo-classico-e-bassa-gradazione-alcolica.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Gli amaretti di Saronno non si mangiavano soltanto: una volta il loro incarto volava",
+        "description": "Dalla leggenda dell’arcivescovo alla carta velina che si accendeva e svolazzava, i biscotti simbolo di Saronno raccontano una storia fatta di tradizione, ritual…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/amaretti-saronno-incarto-volava/",
+        "pubDate": "2026-03-18T12:53:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cosa sono i quaresimali fiorentini, i biscotti a forma di lettere della Quaresima",
+        "description": "Nati nei conventi tra Firenze e Prato, sono dolci semplici e austeri, senza latte né lievito, che trasformano la tradizione del digiuno in un racconto simbolico…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/quaresimali-fiorentini-dolci-forma-lettere-alfabeto/",
+        "pubDate": "2026-03-18T12:49:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nella pasticceria di Roma dove la colazione si fa anche vegana (ma fatta bene)",
+        "description": "Da Dolcemascolo, a Roma, la viennoiserie vegetale affianca quella tradizionale: cornetti e lievitati pensati per essere più leggeri, inclusivi e adatti alla col…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/croissant-instagrammabili-roma-cornetti-vegani-dolcemascolo/",
+        "pubDate": "2026-03-18T12:39:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Rivoluzione Amarone: la direzione è quella della sottrazione, ma “il pericolo è fare dei vinelli”. Ecco perché",
+        "description": "Gli assaggi di Amarone Opera Prima 2026 e da un incontro in altra sede con le Famiglie Storiche restituiscono uno scenario in movimento: la grande Docg veneta s…",
+        "link": "https://www.gamberorosso.it/notizie/vino/amarone-valpolicella-rivoluzione-appassimento-rischi/",
+        "pubDate": "2026-03-18T10:55:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Da 18 anni a Milano si studia come il cervello sceglie il vino (e l’AI sta cambiando tutto)",
+        "description": "Nel Centro di Ricerca in Neuromarketing della Iulm, neuroscienze e intelligenza artificiale si incontrano per analizzare emozioni, desiderio e percezione: così …",
+        "link": "https://www.gamberorosso.it/notizie/vino/ai-integrata-neuroscienze-cantine-comunicatori-vino/",
+        "pubDate": "2026-03-18T10:50:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“I dazi li paghiamo noi”: come un piccolo importatore di vino ha sfidato Donald Trump",
+        "description": "La storia di Victor Owen Schwartz, partito da un magazzino di bottiglie a New York e arrivato fino alla Corte Suprema: quando il vino diventa terreno di scontro…",
+        "link": "https://www.gamberorosso.it/notizie/vino/come-piccolo-importatore-sfidato-dazi-donald-trump/",
+        "pubDate": "2026-03-18T10:48:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Caso Noma, il clima di terrore in cucina non funziona”: perché i giovani chef stanno cambiando la cucina",
+        "description": "Dopo il caso Noma e anni di brigate rigide, una nuova generazione di cuochi mette in discussione il modello tradizionale: gerarchie sì, ma senza paura, tra risp…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/clima-terrore-cucina-non-giovani-chef-cambiano-caso-noma/",
+        "pubDate": "2026-03-18T10:36:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Storica performance dell’Italia al Bocuse d’Or: per la prima volta sul podio",
+        "description": "Il piazzamento è da libri di storia: il nostro team si è piazzato per la prima sul podio in una finale, grazie a creazioni profondamente mediterranee.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/storica-performance-dellitalia-al-bocuse-dor-per-la-prima-volta-sul-podio/",
+        "pubDate": "2026-03-18T10:22:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b96df3c1524.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dove viveva il bibliotecario ora si mangiano anche i tortellini: il nuovo ristorante sul Garda",
+        "description": "Nella Cittadella di Ugo Da Como, a Lonato del Garda, lo chef Stefano Zanini apre Tavola MoS: un progetto che unisce cucina, memoria e territorio, tra piatti tra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ristorante-bibliotecario-tortellini-tavola-mos/",
+        "pubDate": "2026-03-18T10:19:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La ricetta nascosta nel portafogli di papà che non avevo mai visto",
+        "description": "Un gesto mai fatto prima e una scoperta inattesa: tra oggetti quotidiani e memoria, una figlia ritrova il padre nei dettagli più semplici…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricetta-ricotta-portafoglio-papa/",
+        "pubDate": "2026-03-18T08:56:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come tre grandi nome del beverage vogliono rivoluzionare il mercato dell’analcolico",
+        "description": "L'ex CEO di Campari, il fondatore di Velier e quello di Egine Gin uniscono le forse per creare Liquid Ventures, un progetto che promette di dare una scossa al m…",
+        "link": "https://www.dissapore.com/notizie/come-tre-grandi-nome-del-beverage-vogliono-rivoluzionare-il-mercato-dellanalcolico/",
+        "pubDate": "2026-03-18T08:43:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b13cacb2e77.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Domaine Mayard Côtes du Rhône: un rosso francese da bere d’un fiato",
-        "description": "Il Côtes du Rhône firmato Domaine Mayard racconta di un vino rosso francese da bere d&#8217;un fiato, firmato non a caso da una nuova generazione di vignaioli n…",
+        "description": "Il Côtes du Rhône 2024 firmato Domaine Mayard racconta di un vino rosso francese da bere d&#8217;un fiato, firmato non a caso da una nuova generazione di vignai…",
         "link": "https://www.winemag.it/domaine-mayard-cotes-du-rhone-un-rosso-francese-da-bere-d-un-fiato/",
         "pubDate": "2026-03-18T06:00:00+00:00",
         "image": "https://www.winemag.it/wp-content/uploads/2026/03/Domaine-Mayard-Cotes-du-Rhone-un-rosso-francese-da-bere-d-un-fiato-Chateauneuf-du-Pape.jpg",
@@ -394,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Mauro Uliassi: “Il caso Noma ci obbliga a riflettere sulle dinamiche di potere nelle cucine”",
-        "description": "Dopo lo scandalo che ha travolto René Redzepi e il Noma, lo chef di Senigallia riflette sul lato oscuro delle cucine: stage, gerarchie, pressione e futuro dell’…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/mauro-uliassi-caso-noma-riflettere-dinamiche-potere-cucine/",
-        "pubDate": "2026-03-17T11:01:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Quando McDonald’s abbassa i prezzi dobbiamo davvero preoccuparci",
         "description": "Ad aprile negli Stati Uniti il fast food più noto al mondo lancerà molti prodotti a 3 euro e uno menu a 4 euro, per riconquistare i consumatori a basso reddito.…",
         "link": "https://www.dissapore.com/notizie/quando-mcdonalds-abbassa-i-prezzi-dobbiamo-davvero-preoccuparci/",
@@ -421,15 +520,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "“Non siamo il capro espiatorio della crisi del vino piemontese”. La dura replica delle cooperative ad Ascheri",
-        "description": "Confcooperative Fedagripesca Piemonte replica alle accuse dell’ex presidente del Consorzio Barolo Barbaresco: \"La crisi non nasce dalle cantine sociali ma da co…",
-        "link": "https://www.gamberorosso.it/notizie/vino/non-siamo-capro-espiatorio-crisi-vino-piemontese-confcooperative-ascheri/",
-        "pubDate": "2026-03-17T09:05:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Yannick Alleno nella storia con diciotto stelle Michelin totali",
         "description": "Yannick Alleno porta a casa Dior la prima stella della maison di moda, aggiungendo un ennesimo macaron al suo ragguardevole palmares\nL'articolo Yannick Alleno n…",
         "link": "https://www.dissapore.com/notizie/yannick-alleno-nella-storia-con-diciotto-stelle-michelin-totali/",
@@ -437,24 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/efc54df3d8ed4161b6638b9a52f5ad0a_Le-Corot-nouvelles-etoiles-du-Guide-MICHELIN-France-2026.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Zeppole di San Giuseppe a Napoli: dove mangiare le migliori",
-        "description": "Fritte o al forno? Dal centro storico al lungomare, le pasticcerie simbolo della città dove assaggiare uno dei dolci più amati della tradizione partenopea…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/zeppole-san-giuseppe-dove-comprarle-napoli/",
-        "pubDate": "2026-03-17T07:58:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Trapani c’è un famoso produttore di Marsala che realizza un Grillo di grande personalità",
-        "description": "Francesco Intorcia non si è limitato a gestire l'azienda fondata dal nonno nel 1930, ma da imprenditore visionario e illuminato ha dato vita al progetto Heritag…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/grillo-vignemie-francesco-intorcia-heritage/",
-        "pubDate": "2026-03-17T07:43:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Tullia: a Roma un nuovo ristorante tra tradizione capitolina e visione contemporanea",
@@ -473,78 +545,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/03/Rosset-Terroir-ce-un-fuoriclasse-Sopraquota-900.-Vino-icona-della-Valle-d-Aosta-da-uve-Petite-Arvine-da-un-vigneto-di-montagna-5.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Caso Noma, Albert Adrià: “La brigata vecchio stampo è un mito. Le guide non giudichino il lavoro in cucina”",
-        "description": "Dopo le accuse sulle condizioni di lavoro nelle cucine del Noma, lo chef catalano interviene nel dibattito parlando con il Gambero Rosso: \"La pressione è mitizz…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caso-noma-albert-adria-brigata-vecchio-stampo-mito-redzepi/",
-        "pubDate": "2026-03-17T05:54:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Robot, vigneti e macchine intelligenti: il futuro della viticoltura arriva nel Chianti",
-        "description": "Enovitis in campo festeggia 20 anni e sbarca per la prima volta nel Chianti Classico: il 17 e 18 giugno a Tenuta di Nozzole tecnologie, robotica e prove dal viv…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/robot-vigneti-macchine-intelligenti-enovitis-chianti/",
-        "pubDate": "2026-03-17T05:05:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Renzo Cotarella Winemakers’ Winemaker Award 2026 Institute of Masters of Wine",
-        "description": "Renzo Cotarella riceve il Winemakers’ Winemaker Award 2026 dell’Institute of Masters of Wine (IMW). Il riconoscimento è stato consegnato a Düsseldorf durante Pr…",
-        "link": "https://www.winemag.it/renzo-cotarella-winemakers-winemaker-award-2026-institute-of-masters-of-wine/",
-        "pubDate": "2026-03-16T21:22:37+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il prezzo del cacao cala, ma le uova di cioccolato sono più care dell’anno scorso",
-        "description": "Le analisi di mercato a inizio stagione segnalano già dei rincari sulle uova di cioccolato, anche se meno importanti rispetto ai due anni appena trascorsi.\nL'ar…",
-        "link": "https://www.dissapore.com/notizie/il-prezzo-del-cacao-cala-ma-le-uova-di-cioccolato-sono-piu-care-dellanno-scorso/",
-        "pubDate": "2026-03-16T17:16:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/coltivatore-di-cacao-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La storia di due famiglie di viticoltori calabresi tra i primi ad aver reso celebre il Cirò",
-        "description": "Mar Ionio, gaglioppo e ricerca dell'identità del territorio: sono queste le direttrici su cui si muove una storica azienda cirotana premiata per la prima volta …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/ciro-rosso-lice-caparra-siciliani/",
-        "pubDate": "2026-03-16T16:55:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I dazi Usa affossano l’export di vino europeo nel 2025: perso un miliardo di euro",
-        "description": "Il settore è in controtendenza rispetto all'incremento delle vendite complessive dell'agrifood Ue, cresciute dell'1% a quota 238,4 miliardi di euro. Negli Stati…",
-        "link": "https://www.gamberorosso.it/notizie/vino/dazi-usa-affossano-export-vino-europeo-2025-un-miliardo-euro/",
-        "pubDate": "2026-03-16T12:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "François Carillon, degustazione dei suoi Chardonnay di Borgogna: gli assaggi da Bourgogne a Puligny-Montrachet",
-        "description": "Dal Bourgogne Côte d’Or al Puligny-Montrachet Premier Cru Champ-Gain: la degustazione dei vini di François Carillon, vigneron borgognone che punta su eleganza, …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/francois-carillon-degustazione-chardonnay-borgogna/",
-        "pubDate": "2026-03-16T11:46:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quello nella ristorazione è il lavoro più bello del mondo, in teoria",
-        "description": "Far rispettare le regole che ci sono, aumentando i controlli sulle condizioni di lavoro di cuochi e camerieri nei ristoranti, sarebbe la soluzione più pratica e…",
-        "link": "https://www.dissapore.com/ristoranti/quello-della-ristorazione-e-il-lavoro-piu-bello-del-mondo-in-teoria/",
-        "pubDate": "2026-03-16T11:17:15+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/menu-ristorante-allaperto.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
