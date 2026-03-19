@@ -1,7 +1,34 @@
 {
-  "generated": "2026-03-18T19:56:13.605068+00:00",
+  "generated": "2026-03-19T08:00:53.597965+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Sotto la guerra, la vita resiste: nei tunnel della metro ucraina dove il cibo sfida le bombe",
+        "description": "Tra rifugi sotterranei e bombardamenti, il profumo di zuppe e plov tiene viva la comunità: il cibo come ultimo gesto di normalità nella guerra…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/ucraina-distribuzione-pasti-tunnel-bombe/",
+        "pubDate": "2026-03-19T07:57:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gelato Day 2026, il 24 marzo torna la giornata europea dedicata al gelato artigianale",
+        "description": "Il 24 marzo si celebra in tutta Europa la Giornata Europea del Gelato Artigianale, l’unica dedicata a un alimento dal Parlamento Europeo. Giunta alla quattordic…",
+        "link": "https://www.winemag.it/gelato-day-2026-il-24-marzo-torna-la-giornata-europea-dedicata-al-gelato-artigianale/",
+        "pubDate": "2026-03-19T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Oscar Champagne 2026 FIS: 24 etichette, Maison e Vigneron a Roma",
+        "description": "Torna a Roma Oscar Champagne 2026, l’evento della Fondazione Italiana Sommelier dedicato alla cultura dello Champagne. L’appuntamento è fissato per sabato 16 ma…",
+        "link": "https://www.winemag.it/oscar-champagne-2026-fis-24-etichette-maison-e-vigneron-a-roma/",
+        "pubDate": "2026-03-19T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Questo borgo delle Marche è un viaggio tra leggenda e magia",
         "description": "Ecco un borgo delle Marche che vale davvero la pena di essere scoperto, tra leggende, bellezze antiche e atmosfere che riportano indietro nel tempo…",
@@ -30,22 +57,13 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Abbiamo perso il senso profondo delle Dop”. Parla Nicolas Joly, padre della biodinamica applicata al vino",
+        "title": "“Abbiamo perso il senso profondo delle denominazioni”. Parla Nicolas Joly, guru del vino biodinamico",
         "description": "\"Potete ottenere un sapore perfetto con la tecnologia, ma non potete ottenere la vita. L’aria non mente\". Con il grande vigneron abbiamo toccato alcuni dei temi…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/nicolas-joly-biodinamica-vino/",
         "pubDate": "2026-03-18T16:06:23+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Antonino Cannavacciuolo è il nuovo testimonial di Lidl Italia, ma è già una notizia vecchia",
-        "description": "Non stupisce, ma dovrebbe, che uno chef \"tristellato\" sia il nuovo volto della private label di un discount. Dice Lidl che il cuoco ha personalmente assaggiato …",
-        "link": "https://www.dissapore.com/spesa/antonino-cannavacciuolo-e-il-nuovo-testimonial-di-lidl-italia-ma-e-gia-una-notizia-vecchia/",
-        "pubDate": "2026-03-18T16:01:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Italiamo_Cantuccini-con-22-mandorle-IGP-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       },
       {
         "title": "Zendaya e quell’abito bianco da sposa che spunta dal suo armadio",
@@ -138,7 +156,7 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Rivoluzione Amarone: la direzione è quella della sottrazione, ma “il pericolo è fare dei vinelli”. Ecco perché",
+        "title": "Amarone: la direzione è quella della sottrazione, ma “il pericolo è fare dei vinelli”. Ecco perché",
         "description": "Gli assaggi di Amarone Opera Prima 2026 e da un incontro in altra sede con le Famiglie Storiche restituiscono uno scenario in movimento: la grande Docg veneta s…",
         "link": "https://www.gamberorosso.it/notizie/vino/amarone-valpolicella-rivoluzione-appassimento-rischi/",
         "pubDate": "2026-03-18T10:55:56+00:00",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Caso Noma, il clima di terrore in cucina non funziona”: perché i giovani chef stanno cambiando la cucina",
-        "description": "Dopo il caso Noma e anni di brigate rigide, una nuova generazione di cuochi mette in discussione il modello tradizionale: gerarchie sì, ma senza paura, tra risp…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/clima-terrore-cucina-non-giovani-chef-cambiano-caso-noma/",
-        "pubDate": "2026-03-18T10:36:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Storica performance dell’Italia al Bocuse d’Or: per la prima volta sul podio",
-        "description": "Il piazzamento è da libri di storia: il nostro team si è piazzato per la prima sul podio in una finale, grazie a creazioni profondamente mediterranee.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/storica-performance-dellitalia-al-bocuse-dor-per-la-prima-volta-sul-podio/",
-        "pubDate": "2026-03-18T10:22:42+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b96df3c1524.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Sotto la guerra, la vita resiste: nei tunnel della metro ucraina dove il cibo sfida le bombe",
+        "description": "Tra rifugi sotterranei e bombardamenti, il profumo di zuppe e plov tiene viva la comunità: il cibo come ultimo gesto di normalità nella guerra…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/ucraina-distribuzione-pasti-tunnel-bombe/",
+        "pubDate": "2026-03-19T07:57:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gelato Day 2026, il 24 marzo torna la giornata europea dedicata al gelato artigianale",
+        "description": "Il 24 marzo si celebra in tutta Europa la Giornata Europea del Gelato Artigianale, l’unica dedicata a un alimento dal Parlamento Europeo. Giunta alla quattordic…",
+        "link": "https://www.winemag.it/gelato-day-2026-il-24-marzo-torna-la-giornata-europea-dedicata-al-gelato-artigianale/",
+        "pubDate": "2026-03-19T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Oscar Champagne 2026 FIS: 24 etichette, Maison e Vigneron a Roma",
+        "description": "Torna a Roma Oscar Champagne 2026, l’evento della Fondazione Italiana Sommelier dedicato alla cultura dello Champagne. L’appuntamento è fissato per sabato 16 ma…",
+        "link": "https://www.winemag.it/oscar-champagne-2026-fis-24-etichette-maison-e-vigneron-a-roma/",
+        "pubDate": "2026-03-19T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Che cos’è il pasticcio di maccheroni ferrarese (e perché è il piatto più sorprendente del Rinascimento)",
         "description": "Dolce fuori e salato dentro: il timballo simbolo della cucina estense, nato nel ’500 tra zucchero, spezie e banchetti di corte…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticcio-maccheroni-ferrara/",
@@ -385,22 +412,13 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Abbiamo perso il senso profondo delle Dop”. Parla Nicolas Joly, padre della biodinamica applicata al vino",
+        "title": "“Abbiamo perso il senso profondo delle denominazioni”. Parla Nicolas Joly, guru del vino biodinamico",
         "description": "\"Potete ottenere un sapore perfetto con la tecnologia, ma non potete ottenere la vita. L’aria non mente\". Con il grande vigneron abbiamo toccato alcuni dei temi…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/nicolas-joly-biodinamica-vino/",
         "pubDate": "2026-03-18T16:06:23+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Antonino Cannavacciuolo è il nuovo testimonial di Lidl Italia, ma è già una notizia vecchia",
-        "description": "Non stupisce, ma dovrebbe, che uno chef \"tristellato\" sia il nuovo volto della private label di un discount. Dice Lidl che il cuoco ha personalmente assaggiato …",
-        "link": "https://www.dissapore.com/spesa/antonino-cannavacciuolo-e-il-nuovo-testimonial-di-lidl-italia-ma-e-gia-una-notizia-vecchia/",
-        "pubDate": "2026-03-18T16:01:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Italiamo_Cantuccini-con-22-mandorle-IGP-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       },
       {
         "title": "Valtènesi Dop cancellata dall’Unione europea: «Acquista valore, diventa sottozona»",
@@ -439,7 +457,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Rivoluzione Amarone: la direzione è quella della sottrazione, ma “il pericolo è fare dei vinelli”. Ecco perché",
+        "title": "Amarone: la direzione è quella della sottrazione, ma “il pericolo è fare dei vinelli”. Ecco perché",
         "description": "Gli assaggi di Amarone Opera Prima 2026 e da un incontro in altra sede con le Famiglie Storiche restituiscono uno scenario in movimento: la grande Docg veneta s…",
         "link": "https://www.gamberorosso.it/notizie/vino/amarone-valpolicella-rivoluzione-appassimento-rischi/",
         "pubDate": "2026-03-18T10:55:56+00:00",
@@ -466,33 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Caso Noma, il clima di terrore in cucina non funziona”: perché i giovani chef stanno cambiando la cucina",
-        "description": "Dopo il caso Noma e anni di brigate rigide, una nuova generazione di cuochi mette in discussione il modello tradizionale: gerarchie sì, ma senza paura, tra risp…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/clima-terrore-cucina-non-giovani-chef-cambiano-caso-noma/",
-        "pubDate": "2026-03-18T10:36:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Storica performance dell’Italia al Bocuse d’Or: per la prima volta sul podio",
-        "description": "Il piazzamento è da libri di storia: il nostro team si è piazzato per la prima sul podio in una finale, grazie a creazioni profondamente mediterranee.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/storica-performance-dellitalia-al-bocuse-dor-per-la-prima-volta-sul-podio/",
-        "pubDate": "2026-03-18T10:22:42+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b96df3c1524.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Come tre grandi nome del beverage vogliono rivoluzionare il mercato dell’analcolico",
-        "description": "L'ex CEO di Campari, il fondatore di Velier e quello di Egine Gin uniscono le forse per creare Liquid Ventures, un progetto che promette di dare una scossa al m…",
-        "link": "https://www.dissapore.com/notizie/come-tre-grandi-nome-del-beverage-vogliono-rivoluzionare-il-mercato-dellanalcolico/",
-        "pubDate": "2026-03-18T08:43:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/image_870x_69b13cacb2e77.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
         "title": "Domaine Mayard Côtes du Rhône: un rosso francese da bere d’un fiato",
         "description": "Il Côtes du Rhône 2024 firmato Domaine Mayard racconta di un vino rosso francese da bere d&#8217;un fiato, firmato non a caso da una nuova generazione di vignai…",
         "link": "https://www.winemag.it/domaine-mayard-cotes-du-rhone-un-rosso-francese-da-bere-d-un-fiato/",
@@ -500,24 +491,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/03/Domaine-Mayard-Cotes-du-Rhone-un-rosso-francese-da-bere-d-un-fiato-Chateauneuf-du-Pape.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Come cambia la pizza napoletana del 2026 e cosa ci dice sul nostro potere d’acquisto",
-        "description": "Con la crisi del canotto è la rivincita della ruota di carro. Ma soprattutto, se il prezzo della margherita impenna, emergono le formule POP dei pizzaioli con u…",
-        "link": "https://www.dissapore.com/pizzerie/come-cambia-la-pizza-napoletana-del-2026-e-cosa-ci-dice-sul-nostro-potere-dacquisto/",
-        "pubDate": "2026-03-17T16:54:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/mc-donald-premium.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Quando McDonald’s abbassa i prezzi dobbiamo davvero preoccuparci",
-        "description": "Ad aprile negli Stati Uniti il fast food più noto al mondo lancerà molti prodotti a 3 euro e uno menu a 4 euro, per riconquistare i consumatori a basso reddito.…",
-        "link": "https://www.dissapore.com/notizie/quando-mcdonalds-abbassa-i-prezzi-dobbiamo-davvero-preoccuparci/",
-        "pubDate": "2026-03-17T10:35:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/10/Burger-King-e1730369499735.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       },
       {
         "title": "Valdo rileva I Magredi nell’anno del centenario: acquisizione in Friuli",
@@ -529,19 +502,46 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Yannick Alleno nella storia con diciotto stelle Michelin totali",
-        "description": "Yannick Alleno porta a casa Dior la prima stella della maison di moda, aggiungendo un ennesimo macaron al suo ragguardevole palmares\nL'articolo Yannick Alleno n…",
-        "link": "https://www.dissapore.com/notizie/yannick-alleno-nella-storia-con-diciotto-stelle-michelin-totali/",
-        "pubDate": "2026-03-17T08:35:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/efc54df3d8ed4161b6638b9a52f5ad0a_Le-Corot-nouvelles-etoiles-du-Guide-MICHELIN-France-2026.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
         "title": "Tullia: a Roma un nuovo ristorante tra tradizione capitolina e visione contemporanea",
         "description": "Nel quartiere Prati, a pochi passi da Castel Sant’Angelo e dal Vaticano, apre il ristorante Tullia. Il locale si trova accanto al NYX Hotel Rome, sulla sponda d…",
         "link": "https://www.winemag.it/tullia-roma-un-nuovo-ristorante-tra-tradizione-capitolina-visione-contemporanea/",
         "pubDate": "2026-03-17T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Rosset Terroir, c’è un fuoriclasse Sopraquota 900",
+        "description": "Arrivarci non è una passeggiata. Il sentiero sale deciso. Verticale. Il fiato si accorcia. Le gambe faticano. Ogni sguardo indietro apre uno scorcio in più di V…",
+        "link": "https://www.winemag.it/rosset-terroir-fuoriclasse-sopraquota-900-petite-arvine/",
+        "pubDate": "2026-03-17T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Rosset-Terroir-ce-un-fuoriclasse-Sopraquota-900.-Vino-icona-della-Valle-d-Aosta-da-uve-Petite-Arvine-da-un-vigneto-di-montagna-5.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Renzo Cotarella Winemakers’ Winemaker Award 2026 Institute of Masters of Wine",
+        "description": "Renzo Cotarella riceve il Winemakers’ Winemaker Award 2026 dell’Institute of Masters of Wine (IMW). Il riconoscimento è stato consegnato a Düsseldorf durante Pr…",
+        "link": "https://www.winemag.it/renzo-cotarella-winemakers-winemaker-award-2026-institute-of-masters-of-wine/",
+        "pubDate": "2026-03-16T21:22:37+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vinitaly Tourism 2026, enoturismo asset strategico del sistema vino",
+        "description": "Competenze, visione e strumenti operativi per rafforzare l’enoturismo italiano nel turismo globale. È questo l’obiettivo di Vinitaly Tourism 2026, che torna a V…",
+        "link": "https://www.winemag.it/vinitaly-tourism-2026-lenoturismo-diventa-asset-strategico-del-sistema-vino/",
+        "pubDate": "2026-03-16T10:48:53+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vini Tokaj dolci e spumanti, l’Ungheria fa ordine tra tipologie",
+        "description": "L&#8217;Unione europea ha pubblicato nella Gazzetta ufficiale del 6 marzo 2026 la domanda di modifica del disciplinare della denominazione di origine protetta T…",
+        "link": "https://www.winemag.it/vini-tokaj-dolci-e-spumanti-ungheria-fa-ordine-tra-tipologie/",
+        "pubDate": "2026-03-15T11:53:25+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
