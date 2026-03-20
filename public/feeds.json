@@ -1,7 +1,16 @@
 {
-  "generated": "2026-03-19T19:56:31.174926+00:00",
+  "generated": "2026-03-20T07:59:13.914414+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La silenziosa ascesa di una pizzeria di provincia: il caso Mercurio",
+        "description": "Da storico asporto di Pomezia a locale contemporaneo: la trasformazione di Mercurio tra qualità, impasti curati e cucina vegetale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/silenziosa-ascesa-pizzeria-romana-provincia/",
+        "pubDate": "2026-03-20T06:59:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Ecco un borgo toscano colorato e pittoresco da scoprire questa primavera",
         "description": "Viaggio verso un borgo toscano che è una vera bellezza affacciata sul mare, un luogo pieno di colori e di bellezze che vi conquisteranno all'istante…",
@@ -172,15 +181,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Sono questi i sieri ciglia per uno sguardo super accattivante",
-        "description": "L'alleato beauty per una sguardo da vera gatta? Il siero ciglia, per ciglia folte e morbide in pochi giorni. Ecco i migliori da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/sono-questi-i-sieri-ciglia-per-uno-sguardo-super-accattivante/249127/",
-        "pubDate": "2026-03-19T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "La silenziosa ascesa di una pizzeria di provincia: il caso Mercurio",
+        "description": "Da storico asporto di Pomezia a locale contemporaneo: la trasformazione di Mercurio tra qualità, impasti curati e cucina vegetale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/silenziosa-ascesa-pizzeria-romana-provincia/",
+        "pubDate": "2026-03-20T06:59:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Faenza ha una nuova anima gastronomica: il ristorante Anma",
         "description": "Idee chiare, prezzi contenuti e una cucina originale ma traversale: Anma di chef Candida Visaggi è uno dei nuovi centri della rinascita gastronomica romagnola. …",
         "link": "https://www.dissapore.com/ristoranti/anma-a-faenza-recensione/",
@@ -488,15 +497,6 @@
         "description": "Tipico di Ancona, questo dolce semplice e simbolico “taglia” la Quaresima a metà: oggi però sopravvive sempre più raramente tra forni e memoria popolare…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sega-vecchia-dolce-anconetano-quaresima/",
         "pubDate": "2026-03-19T10:02:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Il biologico è sotto pressione, ma va difeso”: La difesa dell’enologo De Gennaro Aquino",
-        "description": "Tra clima, costi e calo delle superfici, il vino bio vive una fase complessa. Ma per l’enologo la risposta passa da innovazione e agritech: \"Droni e robot posso…",
-        "link": "https://www.gamberorosso.it/notizie/vino/enologo-gennaro-aquino-difende-biologico/",
-        "pubDate": "2026-03-19T09:58:11+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
