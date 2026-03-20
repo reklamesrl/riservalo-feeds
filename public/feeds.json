@@ -1,7 +1,70 @@
 {
-  "generated": "2026-03-20T14:32:37.942803+00:00",
+  "generated": "2026-03-20T19:50:37.630407+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Buone idee in cucina, ma il servizio va rodato: cosa non funziona (per ora) da Stecca a Roma",
+        "description": "Bistrot contemporaneo nato dall’incontro tra Flavio De Maio e Franco Franciosi: materie prime eccellenti, alcuni piatti interessanti e un’identità forte, ma ser…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/stecca-roma-recensione-buona-cucina-servizio-da-rodare-cosa-non-funziona/",
+        "pubDate": "2026-03-20T18:51:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo chiamavano “L’acciaio di Milano”, uno splendido borgo lombardo in pietra che riporta indietro nel tempo",
+        "description": "Ecco un bellissimo borgo lombardo che è un vero capolavoro in pietra e che vanta una storia che vale la pena scoprire…",
+        "link": "https://www.stylosophy.it/articolo/lo-chiamavano-lacciaio-di-milano-uno-splendido-borgo-lombardo-in-pietra-che-riporta-indietro-nel-tempo/249156/",
+        "pubDate": "2026-03-20T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "C’è crisi nella birra artigianale degli Stati Uniti",
+        "description": "Nel paese da cui tutto è partito, i birrifici chiudono e la produzione scende, anche in stati che furono simbolo del movimento craft.\nL'articolo C&#8217;è crisi…",
+        "link": "https://www.dissapore.com/notizie/ce-crisi-nella-birra-artigianale-degli-stati-uniti/",
+        "pubDate": "2026-03-20T17:55:30+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/brewmaster-garrett-oliver-2.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Niente zucchero, cena entro le sei, 25 anni di scorte alimentari”: la regola di Chuck Norris morto a 86 anni",
+        "description": "Una dieta ferrea fatta di proteine, verdure e disciplina assoluta: così Chuck Norris si teneva in forma, con qualche rara eccezione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/chuck-norris-morto-avocado-toast-pop-corn/",
+        "pubDate": "2026-03-20T17:50:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Michel Rolland, il ricordo di Marco Caprai: «Ha cambiato il vino mondiale»",
+        "description": "Michel Rolland è morto improvvisamente nella notte tra il 19 e il 20 marzo a Bordeaux. Aveva 78 anni. La sua scomparsa chiude una stagione decisiva per l’enolog…",
+        "link": "https://www.winemag.it/michel-rolland-ricordo-marco-caprai-ha-cambiato-vino-mondiale/",
+        "pubDate": "2026-03-20T16:10:11+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Una settimana che racconta la primavera in tutte le sue sfumature, tra capsule eleganti e altre più giocose, incursioni nel denim d’autore e collaborazioni che …",
+        "link": "https://www.grazia.it/moda/news-moda/autry-windscape-mother-martha-stewart-gabrielle-le-voyage-molly-bracken-primark-owning-spring-okkia-x-seletti-essentiel-antwerp-snoopy-peanuts-high-moments-961231",
+        "pubDate": "2026-03-20T16:03:10+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/Senza-titolo-33.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Come organizzare un bagno piccolo: soluzioni salvaspazio e idee funzionali",
+        "description": "Pochi metri ma tanto potenziale: basta progettare nel modo giusto.\nScopri come trasformare anche il bagno più piccolo.…",
+        "link": "https://www.stylosophy.it/articolo/come-organizzare-un-bagno-piccolo-soluzioni-salvaspazio-e-idee-funzionali/249178/",
+        "pubDate": "2026-03-20T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Federico Umberto D’Amato, il critico gastronomico dietro la strage di Bologna",
         "description": "Gli aneddoti gastronomici (e politici) su Federico Umberto D’Amato vengono ben sciorinati in L’uomo che sapeva tutto, documentario di Sky che vi suggeriamo di v…",
@@ -30,6 +93,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Tutte li amano, tutte li vogliono! I pantaloni balloon sono la grande rivelazione della primavera",
+        "description": "Aderenti in vita, “gonfi” sulle gambe, stretti alla caviglia: li avete riconosciuti? Sono i pantaloni balloon, quei modelli dalla silhouette ampia e morbida la …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-balloon-palloncino-harem-tendenze-primavera-bershka-neri-eleganti-seta-pizzo-961106",
+        "pubDate": "2026-03-20T13:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Pantaloni_balloon.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Giulia Salemi, super trendy con gli accessori coordinati e con il colore must di stagione!",
         "description": "Giulia Salemi è sempre al passo con i tempi e sfoggia gli accessori coordinati nel colore must di stagione.…",
         "link": "https://www.stylosophy.it/articolo/giulia-salemi-super-trendy-con-gli-accessori-coordinati-e-con-il-colore-must-di-stagione/249183/",
@@ -37,6 +109,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Anche le it girl dicono sì alle tinte pastello in primavera! 6 look “sorbetto” da cui prendere ispirazione",
+        "description": "Si può davvero definire “primavera”, una primavera senza una sana dose di look pastello? La risposta è no!Un po’ come pane e Nutella, primavera e colori pastell…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/look-colori-pastello-otufit-primavera-2026-instagram-960880",
+        "pubDate": "2026-03-20T11:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_colori_pastello_IG.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "5 Profumi arabi dall’aroma dolce per una Primavera indimenticabile",
@@ -100,90 +181,45 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Primavera comanda color…?  Queste sono le 5 combo cromatiche da indossare adesso!",
-        "description": "Ogni stagione ha i suoi colori e questa primavera 2026, in fatto di accenti cromatici, non è certo da meno. Le tendenze che arrivano dalle passerelle lo fanno c…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abbinamenti-colore-priimavera-2026-combo-look-colorati-960860",
-        "pubDate": "2026-03-20T09:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/DESK-combo-colore-primavera-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Colli Tortonesi Timorasso: Roma blocca Piccolo, Derthona e Riserva",
-        "description": "Nel 2020, la scelta del Consorzio fu chiara: avanzare la richiesta di una &#8220;sottozona Derthona&#8221; e non di una &#8220;Doc Derthona&#8221;. «Le piccole …",
-        "link": "https://www.winemag.it/colli-tortonesi-timorasso-roma-blocca-piccolo-derthona-e-riserva/",
-        "pubDate": "2026-03-20T08:33:35+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Oggi inizia la primavera: ecco la scusa che aspettavamo per fare un po’ di shopping",
-        "description": "Oggi è il primo giorno ufficiale di primavera e, nonostante il clima un po&#8217; pazzerello del periodo e l&#8217;alternarsi tra giornate di sole e pioggia che…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/primo-giorno-di-primavera-2026-equinozio-oggi-shopping-cosa-comprare-look-primaverili-960688",
-        "pubDate": "2026-03-20T07:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_Welcome_SPRING.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La silenziosa ascesa di una pizzeria di provincia: il caso Mercurio",
-        "description": "Da storico asporto di Pomezia a locale contemporaneo: la trasformazione di Mercurio tra qualità, impasti curati e cucina vegetale…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/silenziosa-ascesa-pizzeria-romana-provincia/",
-        "pubDate": "2026-03-20T06:59:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Si mangia con le mani e si servono 13 piatti”: il rito della tavola di San Giuseppe in Molise",
-        "description": "Nel cuore del Molise, tra altari, preghiere e piatti di magro, la Tavola di San Giuseppe è un rito antico fatto di condivisione, devozione e tredici portate sim…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tredici-piatti-san-giuseppe-molise/",
-        "pubDate": "2026-03-19T18:29:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ecco un borgo toscano colorato e pittoresco da scoprire questa primavera",
-        "description": "Viaggio verso un borgo toscano che è una vera bellezza affacciata sul mare, un luogo pieno di colori e di bellezze che vi conquisteranno all'istante…",
-        "link": "https://www.stylosophy.it/articolo/ecco-un-borgo-toscano-colorato-e-pittoresco-da-scoprire-questa-primavera/249136/",
-        "pubDate": "2026-03-19T18:00:00+00:00",
+        "title": "Lo chiamavano “L’acciaio di Milano”, uno splendido borgo lombardo in pietra che riporta indietro nel tempo",
+        "description": "Ecco un bellissimo borgo lombardo che è un vero capolavoro in pietra e che vanta una storia che vale la pena scoprire…",
+        "link": "https://www.stylosophy.it/articolo/lo-chiamavano-lacciaio-di-milano-uno-splendido-borgo-lombardo-in-pietra-che-riporta-indietro-nel-tempo/249156/",
+        "pubDate": "2026-03-20T18:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Faenza ha una nuova anima gastronomica: il ristorante Anma",
-        "description": "Idee chiare, prezzi contenuti e una cucina originale ma traversale: Anma di chef Candida Visaggi è uno dei nuovi centri della rinascita gastronomica romagnola. …",
-        "link": "https://www.dissapore.com/ristoranti/anma-a-faenza-recensione/",
-        "pubDate": "2026-03-19T17:55:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/lucio-crudi-scaled-e1763726153684.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Una settimana che racconta la primavera in tutte le sue sfumature, tra capsule eleganti e altre più giocose, incursioni nel denim d’autore e collaborazioni che …",
+        "link": "https://www.grazia.it/moda/news-moda/autry-windscape-mother-martha-stewart-gabrielle-le-voyage-molly-bracken-primark-owning-spring-okkia-x-seletti-essentiel-antwerp-snoopy-peanuts-high-moments-961231",
+        "pubDate": "2026-03-20T16:03:10+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/Senza-titolo-33.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Come cambia il Prowein: meno numeri, più realtà. E ammette i suoi limiti",
-        "description": "Düsseldorf ridimensiona la fiera e punta su qualità e business concreto: meno espositori, meno visitatori, ma incontri più mirati. Intanto cresce il confronto c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/come-cambia-il-prowein-meno-numeri-piu-realta-e-ammette-i-suoi-limiti/",
-        "pubDate": "2026-03-19T16:11:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Come organizzare un bagno piccolo: soluzioni salvaspazio e idee funzionali",
+        "description": "Pochi metri ma tanto potenziale: basta progettare nel modo giusto.\nScopri come trasformare anche il bagno più piccolo.…",
+        "link": "https://www.stylosophy.it/articolo/come-organizzare-un-bagno-piccolo-soluzioni-salvaspazio-e-idee-funzionali/249178/",
+        "pubDate": "2026-03-20T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "Il vino italiano torna negli Stati Uniti. Il tour del Gambero Rosso in 4 fantastiche tappe",
-        "description": "Dal Los Angeles a New York, il parere di distributori, ristoratori, sommelier e produttori di vino tra calo dei consumi e voglia di resistere alla complicata co…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-italiano-america-trump-dazi-tour-gambero-rosso/",
-        "pubDate": "2026-03-19T15:57:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
+        "title": "Tutte li amano, tutte li vogliono! I pantaloni balloon sono la grande rivelazione della primavera",
+        "description": "Aderenti in vita, “gonfi” sulle gambe, stretti alla caviglia: li avete riconosciuti? Sono i pantaloni balloon, quei modelli dalla silhouette ampia e morbida la …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-balloon-palloncino-harem-tendenze-primavera-bershka-neri-eleganti-seta-pizzo-961106",
+        "pubDate": "2026-03-20T13:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Pantaloni_balloon.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Giulia Salemi, super trendy con gli accessori coordinati e con il colore must di stagione!",
         "description": "Giulia Salemi è sempre al passo con i tempi e sfoggia gli accessori coordinati nel colore must di stagione.…",
@@ -192,6 +228,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Anche le it girl dicono sì alle tinte pastello in primavera! 6 look “sorbetto” da cui prendere ispirazione",
+        "description": "Si può davvero definire “primavera”, una primavera senza una sana dose di look pastello? La risposta è no!Un po’ come pane e Nutella, primavera e colori pastell…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/look-colori-pastello-otufit-primavera-2026-instagram-960880",
+        "pubDate": "2026-03-20T11:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_colori_pastello_IG.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "5 Profumi arabi dall’aroma dolce per una Primavera indimenticabile",
@@ -318,54 +363,45 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_5_tendenze.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Questo borgo delle Marche è un viaggio tra leggenda e magia",
-        "description": "Ecco un borgo delle Marche che vale davvero la pena di essere scoperto, tra leggende, bellezze antiche e atmosfere che riportano indietro nel tempo…",
-        "link": "https://www.stylosophy.it/articolo/questo-borgo-delle-marche-e-un-viaggio-tra-leggenda-e-magia/249066/",
-        "pubDate": "2026-03-18T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Zendaya e quell’abito bianco da sposa che spunta dal suo armadio",
-        "description": "È di sicuro il momento di Zendaya: tra la notizia del suo matrimonio segreto con Tom Holland e la presentazione del suo ultimo film, The Drama, in cui recita al…",
-        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-abito-bianco-westwood-oscar-2015-960774",
-        "pubDate": "2026-03-18T15:05:51+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/zendaya-bianco-evi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Specchi IKEA DAGGKAPRIFOL: design decorativo e colori di tendenza per arredare le pareti",
-        "description": "Colori delicati e dettagli decorativi: lo specchio che cambia l’atmosfera senza rivoluzionare l’arredo.…",
-        "link": "https://www.stylosophy.it/articolo/specchi-ikea-daggkaprifol-design-decorativo-e-colori-di-tendenza/249080/",
-        "pubDate": "2026-03-18T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Swarovski presenta la seconda collezione con Ariana Grande",
-        "description": "Il 20 marzo la primavera avrà ufficialmente inizio con l&#8217;equinozio e quale modo migliore di festeggiarla con una collezione poetica e romantica che ne cel…",
-        "link": "https://www.grazia.it/moda/news-moda/swarovski-ariana-grande-gioielli-collezione-primavera-2026-960686",
-        "pubDate": "2026-03-18T13:58:20+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/Ariana-Grande-x-Swarovski-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Ballerine animalier in primavera? Perchè no! Ecco i modelli da puntare ASAP",
-        "description": "Fino a qualche stagione fa le indossavamo solo in poche e rare occasioni. Poi abbiamo iniziato a sfoggiarle esclusivamente durante il periodo invernale. Adesso …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-animalier-cavallino-zara-punta-pelle-leopardate-zara-mucca-bambi-mary-jane-donna-primavera-tendenze-960644",
-        "pubDate": "2026-03-18T11:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Ballerine_animalier.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Buone idee in cucina, ma il servizio va rodato: cosa non funziona (per ora) da Stecca a Roma",
+        "description": "Bistrot contemporaneo nato dall’incontro tra Flavio De Maio e Franco Franciosi: materie prime eccellenti, alcuni piatti interessanti e un’identità forte, ma ser…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/stecca-roma-recensione-buona-cucina-servizio-da-rodare-cosa-non-funziona/",
+        "pubDate": "2026-03-20T18:51:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’è crisi nella birra artigianale degli Stati Uniti",
+        "description": "Nel paese da cui tutto è partito, i birrifici chiudono e la produzione scende, anche in stati che furono simbolo del movimento craft.\nL'articolo C&#8217;è crisi…",
+        "link": "https://www.dissapore.com/notizie/ce-crisi-nella-birra-artigianale-degli-stati-uniti/",
+        "pubDate": "2026-03-20T17:55:30+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/brewmaster-garrett-oliver-2.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Niente zucchero, cena entro le sei, 25 anni di scorte alimentari”: la regola di Chuck Norris morto a 86 anni",
+        "description": "Una dieta ferrea fatta di proteine, verdure e disciplina assoluta: così Chuck Norris si teneva in forma, con qualche rara eccezione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/chuck-norris-morto-avocado-toast-pop-corn/",
+        "pubDate": "2026-03-20T17:50:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Michel Rolland, il ricordo di Marco Caprai: «Ha cambiato il vino mondiale»",
+        "description": "Michel Rolland è morto improvvisamente nella notte tra il 19 e il 20 marzo a Bordeaux. Aveva 78 anni. La sua scomparsa chiude una stagione decisiva per l’enolog…",
+        "link": "https://www.winemag.it/michel-rolland-ricordo-marco-caprai-ha-cambiato-vino-mondiale/",
+        "pubDate": "2026-03-20T16:10:11+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Federico Umberto D’Amato, il critico gastronomico dietro la strage di Bologna",
         "description": "Gli aneddoti gastronomici (e politici) su Federico Umberto D’Amato vengono ben sciorinati in L’uomo che sapeva tutto, documentario di Sky che vi suggeriamo di v…",
@@ -484,15 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il vino italiano torna negli Stati Uniti. Il tour del Gambero Rosso in 4 fantastiche tappe",
-        "description": "Dal Los Angeles a New York, il parere di distributori, ristoratori, sommelier e produttori di vino tra calo dei consumi e voglia di resistere alla complicata co…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-italiano-america-trump-dazi-tour-gambero-rosso/",
-        "pubDate": "2026-03-19T15:57:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La brasiliana Bold Snacks è la nuova acquisizione, salutista, del Gruppo Ferrero",
         "description": "Ferrero ha acquisito un'azienda brasiliana di snack proteici, rafforzando la sua presenza in Sud America.\nL'articolo La brasiliana Bold Snacks è la nuova acquis…",
         "link": "https://www.dissapore.com/notizie/la-brasiliana-bold-snacks-e-la-nuova-acquisizione-salutista-del-gruppo-ferrero/",
@@ -500,15 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/bold-snacks.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Svolta in Toscana: in regione ora si potranno produrre anche gli spumanti",
-        "description": "Via libera del Masaf: la Toscana Igt apre agli spumanti Metodo Classico e Charmat. Una svolta che segue il mercato e amplia l’offerta dei produttori. Ora manca …",
-        "link": "https://www.gamberorosso.it/notizie/vino/toscana-bollicine-produce-spumanti-igt/",
-        "pubDate": "2026-03-19T15:49:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "ProWein 2026: 31 mila operatori da 105 Paesi, focus su business e nuovi format",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/notizie/cosa-ci-dicono-i-dati-di-ascolto-di-masterchef-italia-15/",
         "pubDate": "2026-03-19T12:57:49+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/PT7_INVENTION-TEST-4107.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Oro Rosso Blanc de Noirs Riserva: nuovo Trentodoc per Cembra Cantina di Montagna",
-        "description": "Cembra Cantina di Montagna amplia la linea TrentoDoc con Oro Rosso Blanc de Noirs Riserva, nuovo Metodo Classico da uve Pinot Nero che rafforza il progetto “Oro…",
-        "link": "https://www.winemag.it/oro-rosso-blanc-de-noirs-riserva-nuovo-trentodoc-per-cembra-cantina-di-montagna/",
-        "pubDate": "2026-03-19T11:24:55+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Uk contro UE per matnenere livelli più alti di CBD in cibo e bevande alla cannabis",
-        "description": "Riallinearsi alle regole di Bruxelles imporrebbe cambiamenti drastici per le aziende inglesi, anche per la carne da coltura cellulare e l'agricoltura.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/uk-contro-ue-per-matnenere-livelli-piu-alti-di-cbd-in-cibo-e-bevande-alla-cannabis/",
-        "pubDate": "2026-03-19T08:54:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1587048973-scaled-e1773065924182.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
