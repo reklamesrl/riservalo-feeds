@@ -1,7 +1,25 @@
 {
-  "generated": "2026-03-20T19:50:37.630407+00:00",
+  "generated": "2026-03-21T07:46:40.476767+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A Bergamo un gelato è nato da una minestra (e oggi è famoso in tutto il mondo)",
+        "description": "Dalla Porta Sant’Alessandro al bar La Marianna, la storia della Stracciatella attraversa un secolo: un’intuizione semplice, un nome rimasto uguale ovunque e una…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bar-bergamo-inventato-gelato-stracciatella/",
+        "pubDate": "2026-03-21T07:34:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Romania del vino, A7 e Vinarium: nasce l’Autostrada dei Vigneti Ploiești-Iași",
+        "description": "La Romania del vino entra in una fase nuova. A determinarla non è una denominazione, né una singola azienda, ma un’infrastruttura: l’autostrada A7, ribattezzata…",
+        "link": "https://www.winemag.it/romania-del-vino-a7-e-vinarium-nasce-autostrada-dei-vigneti-ploiesti-iasi/",
+        "pubDate": "2026-03-21T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Buone idee in cucina, ma il servizio va rodato: cosa non funziona (per ora) da Stecca a Roma",
         "description": "Bistrot contemporaneo nato dall’incontro tra Flavio De Maio e Franco Franciosi: materie prime eccellenti, alcuni piatti interessanti e un’identità forte, ma ser…",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "I prezzi del caffè si abbassano, ma la tazzina non è destinata a scendere",
-        "description": "Le previsioni dei raccolti fanno calare i prezzi della materia prima, ma i fattori che influiscono sul costo finale della tazzina sono molti.\nL'articolo I prezz…",
-        "link": "https://www.dissapore.com/notizie/i-prezzi-del-caffe-si-abbassano-ma-la-tazzina-non-e-destinata-a-scendere/",
-        "pubDate": "2026-03-20T10:16:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/04/piantagione-caffe.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Valpolicella: la “messa a riposo delle uve” candidata a patrimonio culturale Unesco",
-        "description": "La Commissione nazionale italiana per l’Unesco, su proposta del Ministero della Cultura, ha deciso di presentare la candidatura della pratica della “messa a rip…",
-        "link": "https://www.winemag.it/valpolicella-messa-riposo-delle-uve-candidata-patrimonio-culturale-unesco/",
-        "pubDate": "2026-03-20T10:06:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "A Bergamo un gelato è nato da una minestra (e oggi è famoso in tutto il mondo)",
+        "description": "Dalla Porta Sant’Alessandro al bar La Marianna, la storia della Stracciatella attraversa un secolo: un’intuizione semplice, un nome rimasto uguale ovunque e una…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bar-bergamo-inventato-gelato-stracciatella/",
+        "pubDate": "2026-03-21T07:34:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Romania del vino, A7 e Vinarium: nasce l’Autostrada dei Vigneti Ploiești-Iași",
+        "description": "La Romania del vino entra in una fase nuova. A determinarla non è una denominazione, né una singola azienda, ma un’infrastruttura: l’autostrada A7, ribattezzata…",
+        "link": "https://www.winemag.it/romania-del-vino-a7-e-vinarium-nasce-autostrada-dei-vigneti-ploiesti-iasi/",
+        "pubDate": "2026-03-21T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Buone idee in cucina, ma il servizio va rodato: cosa non funziona (per ora) da Stecca a Roma",
         "description": "Bistrot contemporaneo nato dall’incontro tra Flavio De Maio e Franco Franciosi: materie prime eccellenti, alcuni piatti interessanti e un’identità forte, ma ser…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/stecca-roma-recensione-buona-cucina-servizio-da-rodare-cosa-non-funziona/",
@@ -511,15 +529,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Come cambia il Prowein: meno numeri, più realtà. E ammette i suoi limiti",
-        "description": "Düsseldorf ridimensiona la fiera e punta su qualità e business concreto: meno espositori, meno visitatori, ma incontri più mirati. Intanto cresce il confronto c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/come-cambia-il-prowein-meno-numeri-piu-realta-e-ammette-i-suoi-limiti/",
-        "pubDate": "2026-03-19T16:11:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La brasiliana Bold Snacks è la nuova acquisizione, salutista, del Gruppo Ferrero",
         "description": "Ferrero ha acquisito un'azienda brasiliana di snack proteici, rafforzando la sua presenza in Sud America.\nL'articolo La brasiliana Bold Snacks è la nuova acquis…",
         "link": "https://www.dissapore.com/notizie/la-brasiliana-bold-snacks-e-la-nuova-acquisizione-salutista-del-gruppo-ferrero/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Cosa ci dicono i dati di ascolto di Masterchef Italia 15",
-        "description": "I dati sugli ascolti di Masterchef Italia e sulle interazioni social ci raccontano di un programma che ha imparato a essere contemporaneo, in controtendenza con…",
-        "link": "https://www.dissapore.com/notizie/cosa-ci-dicono-i-dati-di-ascolto-di-masterchef-italia-15/",
-        "pubDate": "2026-03-19T12:57:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/PT7_INVENTION-TEST-4107.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
