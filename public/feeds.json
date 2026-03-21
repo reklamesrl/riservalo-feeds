@@ -1,7 +1,16 @@
 {
-  "generated": "2026-03-21T13:54:30.707840+00:00",
+  "generated": "2026-03-21T19:04:04.417556+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Le mensole che tutti stanno scegliendo: 5 idee di design che trasformano subito casa",
+        "description": "Soluzioni versatili e scenografiche per dare carattere alle pareti. Ecco 5 Mensole di design, modelli originali per arredare le pareti con stile.…",
+        "link": "https://www.stylosophy.it/articolo/le-mensole-che-tutti-stanno-scegliendo-idee-di-design/249221/",
+        "pubDate": "2026-03-21T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Giulia De Lellis realizza il 5-minute make up perfetto per tutte e per tutti i giorni!",
         "description": "Ecco qui di seguito i passaggi e i prodotti utilizzati da Giulia De Lellis per il suo 5-minute make up perfetto per tutti i giorni.…",
@@ -102,6 +111,15 @@
         "source": "Grazia"
       },
       {
+        "title": "“A tavola senza telefono”: la lezione del Ramadan che abbiamo dimenticato",
+        "description": "Tra Ramadan e tradizione cristiana, il cibo torna a essere gesto condiviso e non solo consumo veloce…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/tavola-senza-telefono-lezione-ramadan/",
+        "pubDate": "2026-03-21T06:49:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Romania del vino, A7 e Vinarium: nasce l’Autostrada dei Vigneti Ploiești-Iași",
         "description": "La Romania del vino entra in una fase nuova. A determinarla non è una denominazione, né una singola azienda, ma un’infrastruttura: l’autostrada A7, ribattezzata…",
         "link": "https://www.winemag.it/romania-del-vino-a7-e-vinarium-nasce-autostrada-dei-vigneti-ploiesti-iasi/",
@@ -163,27 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/Senza-titolo-33.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Come organizzare un bagno piccolo: soluzioni salvaspazio e idee funzionali",
-        "description": "Pochi metri ma tanto potenziale: basta progettare nel modo giusto.\nScopri come trasformare anche il bagno più piccolo.…",
-        "link": "https://www.stylosophy.it/articolo/come-organizzare-un-bagno-piccolo-soluzioni-salvaspazio-e-idee-funzionali/249178/",
-        "pubDate": "2026-03-20T15:00:00+00:00",
+        "title": "Le mensole che tutti stanno scegliendo: 5 idee di design che trasformano subito casa",
+        "description": "Soluzioni versatili e scenografiche per dare carattere alle pareti. Ecco 5 Mensole di design, modelli originali per arredare le pareti con stile.…",
+        "link": "https://www.stylosophy.it/articolo/le-mensole-che-tutti-stanno-scegliendo-idee-di-design/249221/",
+        "pubDate": "2026-03-21T15:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Federico Umberto D’Amato, il critico gastronomico dietro la strage di Bologna",
-        "description": "Gli aneddoti gastronomici (e politici) su Federico Umberto D’Amato vengono ben sciorinati in L’uomo che sapeva tutto, documentario di Sky che vi suggeriamo di v…",
-        "link": "https://www.dissapore.com/tv/federico-umberto-damato-il-critico-gastronomico-dietro-la-strage-di-bologna/",
-        "pubDate": "2026-03-20T14:22:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/documentario-Luomo-che-sapeva-tutto.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "Giulia De Lellis realizza il 5-minute make up perfetto per tutte e per tutti i giorni!",
         "description": "Ecco qui di seguito i passaggi e i prodotti utilizzati da Giulia De Lellis per il suo 5-minute make up perfetto per tutti i giorni.…",
@@ -329,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Avete mai visto la Casa della conduttrice del Grande Fratello Vip, Ilary Blasi?",
-        "description": "Dalla tv alla vita privata, ogni dettaglio conquista i fan. Ecco dove vive davvero la conduttrice del Grande Fratello Vip.…",
-        "link": "https://www.stylosophy.it/articolo/avete-mai-visto-la-casa-della-conduttrice-del-grande-fratello-vip-ilary-blasi/249169/",
-        "pubDate": "2026-03-19T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "“Rosso + rosa”: è proprio questa la combo colore più cool della primavera",
         "description": "Uno è audace, intenso e deciso, l’altro è più dolce, delicato e romantico: sulla carta rosso e rosa sono due colori totalmente agli antipodi, eppure insieme pos…",
         "link": "https://www.grazia.it/moda/tendenze-moda/rosso-e-rosa-abbinamenti-colore-come-indossare-primavera-2026-960939",
@@ -430,6 +430,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "“A tavola senza telefono”: la lezione del Ramadan che abbiamo dimenticato",
+        "description": "Tra Ramadan e tradizione cristiana, il cibo torna a essere gesto condiviso e non solo consumo veloce…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/tavola-senza-telefono-lezione-ramadan/",
+        "pubDate": "2026-03-21T06:49:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Romania del vino, A7 e Vinarium: nasce l’Autostrada dei Vigneti Ploiești-Iași",
         "description": "La Romania del vino entra in una fase nuova. A determinarla non è una denominazione, né una singola azienda, ma un’infrastruttura: l’autostrada A7, ribattezzata…",
         "link": "https://www.winemag.it/romania-del-vino-a7-e-vinarium-nasce-autostrada-dei-vigneti-ploiesti-iasi/",
@@ -506,15 +515,6 @@
         "description": "Un vino raro e senza fretta: la Vernaccia di Oristano Antico Gregori della cantina Contini, affinata per oltre tre decenni, racconta il tempo, il mare e l’ident…",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vernaccia-di-oristano-antico-gregori-attilio-contini/",
         "pubDate": "2026-03-20T10:27:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dal vigneto del nonno a uno dei migliori Pecorino del Piceno: la storia di Tenuta Santori",
-        "description": "«Sono affascinato dai vitigni in grado di dare origine a vini capaci di durare e migliorare nel tempo e il pecorino è uno di questi», parola di Marco Santori, c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/pecorino-piceno-tenuta-santori-sotto-20-euro/",
-        "pubDate": "2026-03-20T10:21:27+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
