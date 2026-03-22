@@ -1,7 +1,16 @@
 {
-  "generated": "2026-03-21T19:04:04.417556+00:00",
+  "generated": "2026-03-22T07:52:00.665688+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Rivoluzione Toscana Igt, spumanti nel disciplinare: Charmat e Metodo classico",
+        "description": "Il Comitato Nazionale Vini del Masaf ha approvato le modifiche al disciplinare di produzione della Toscana Igt, introducendo per la prima volta la tipologia spu…",
+        "link": "https://www.winemag.it/rivoluzione-toscana-igt-spumanti-nel-disciplinare-charmat-e-metodo-classico/",
+        "pubDate": "2026-03-22T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Le mensole che tutti stanno scegliendo: 5 idee di design che trasformano subito casa",
         "description": "Soluzioni versatili e scenografiche per dare carattere alle pareti. Ecco 5 Mensole di design, modelli originali per arredare le pareti con stile.…",
@@ -58,7 +67,7 @@
       },
       {
         "title": "Dall’olio al vino: la famiglia che in Irpinia realizza uno dei migliori Fiano di Avellino",
-        "description": "Villa Raiano è una delle cantine più in forma del territorio irpino. Ripercorriamone la storia il cui obiettivo (raggiunto) era spostare il focus produttivo dai…",
+        "description": "Villa Raiano è una delle cantine più in forma del territorio irpino. Ripercorriamo la storia della famiglia Basso, il cui obiettivo (raggiunto) era spostare il …",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/fiano-di-avellino-villa-raiano-sotto-20-euro/",
         "pubDate": "2026-03-21T09:07:09+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -172,15 +181,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Una settimana che racconta la primavera in tutte le sue sfumature, tra capsule eleganti e altre più giocose, incursioni nel denim d’autore e collaborazioni che …",
-        "link": "https://www.grazia.it/moda/news-moda/autry-windscape-mother-martha-stewart-gabrielle-le-voyage-molly-bracken-primark-owning-spring-okkia-x-seletti-essentiel-antwerp-snoopy-peanuts-high-moments-961231",
-        "pubDate": "2026-03-20T16:03:10+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/Senza-titolo-33.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Rivoluzione Toscana Igt, spumanti nel disciplinare: Charmat e Metodo classico",
+        "description": "Il Comitato Nazionale Vini del Masaf ha approvato le modifiche al disciplinare di produzione della Toscana Igt, introducendo per la prima volta la tipologia spu…",
+        "link": "https://www.winemag.it/rivoluzione-toscana-igt-spumanti-nel-disciplinare-charmat-e-metodo-classico/",
+        "pubDate": "2026-03-22T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Che la mafia usi i ristoranti per riciclare il denaro lo sappiamo noi, figurarsi il Sottosegretario alla Giustizia",
         "description": "Un uomo di tribunali e giustizia come Andrea Delmastro dovrebbe sapere bene quanto la ristorazione sia o tra gli investimenti preferiti delle mafie.  \nL'articol…",
         "link": "https://www.dissapore.com/notizie/che-la-mafia-usi-i-ristoranti-per-riciclare-il-denaro-lo-sappiamo-noi-figurarsi-il-sottosegretario-alla-giustizia/",
@@ -386,7 +395,7 @@
       },
       {
         "title": "Dall’olio al vino: la famiglia che in Irpinia realizza uno dei migliori Fiano di Avellino",
-        "description": "Villa Raiano è una delle cantine più in forma del territorio irpino. Ripercorriamone la storia il cui obiettivo (raggiunto) era spostare il focus produttivo dai…",
+        "description": "Villa Raiano è una delle cantine più in forma del territorio irpino. Ripercorriamo la storia della famiglia Basso, il cui obiettivo (raggiunto) era spostare il …",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/fiano-di-avellino-villa-raiano-sotto-20-euro/",
         "pubDate": "2026-03-21T09:07:09+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -533,15 +542,6 @@
         "description": "La Commissione nazionale italiana per l’Unesco, su proposta del Ministero della Cultura, ha deciso di presentare la candidatura della pratica della “messa a rip…",
         "link": "https://www.winemag.it/valpolicella-messa-riposo-delle-uve-candidata-patrimonio-culturale-unesco/",
         "pubDate": "2026-03-20T10:06:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Colli Tortonesi Timorasso: Roma blocca Piccolo, Derthona e Riserva",
-        "description": "Nel 2020, la scelta del Consorzio fu chiara: avanzare la richiesta di una &#8220;sottozona Derthona&#8221; e non di una &#8220;Doc Derthona&#8221;. «Le piccole …",
-        "link": "https://www.winemag.it/colli-tortonesi-timorasso-roma-blocca-piccolo-derthona-e-riserva/",
-        "pubDate": "2026-03-20T08:33:35+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
