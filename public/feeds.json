@@ -1,7 +1,61 @@
 {
-  "generated": "2026-03-22T07:52:00.665688+00:00",
+  "generated": "2026-03-22T13:56:26.711835+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Belen Rodriguez lancia la nuova linea di solari con il suo brand Rebeya",
+        "description": "Belen Rodriguez lancia la sua nuova linea di solari per l'estate con il suo brand Rebeya: qui i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/belen-rodriguez-lancia-la-nuova-linea-di-solari-con-il-suo-brand-rebeya/249271/",
+        "pubDate": "2026-03-22T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa significa che la più grande multinazionale venda i suoi marchi food?",
+        "description": "Unilever conferma le voci secondo cui tutto il suo comparto alimentare, con marchi come Hellmann's e Knorr sia in vendita.\nL'articolo Cosa significa che la più …",
+        "link": "https://www.dissapore.com/notizie/cosa-significa-che-la-piu-grande-multinazionale-venda-i-suoi-marchi-food/",
+        "pubDate": "2026-03-22T11:50:02+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1766345432-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "È questo il borgo più bello della Calabria, una perla affacciata su un tratto di costa meraviglioso",
+        "description": "In provincia di Cosenza si nasconde un meraviglioso borgo affacciato sul mare, una gemma del sud Italia tutta da esplorare!…",
+        "link": "https://www.stylosophy.it/articolo/e-questo-il-borgo-piu-bello-della-calabria-una-perla-affacciata-su-un-tratto-di-costa-meraviglioso/249212/",
+        "pubDate": "2026-03-22T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La storica cantina che alle porte di Perugia produce uno dei migliori vini bianchi (non solo) dell’Umbria",
+        "description": "La famiglia Goretti, tra le protagoniste della vitivinicoltura regionale da quattro generazioni, è stata premiata per la prima volta con i Tre Bicchieri grazie …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/trebbiano-spoletino-trebbio-goretti/",
+        "pubDate": "2026-03-22T10:42:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Irlanda i pub stanno diventando sempre più sobri",
+        "description": "Nella terra di San Patrizio si assiste a uno shift culturale verso stili di vita più sani, che comprendono anche le alternative analcoliche. \nL'articolo In Irla…",
+        "link": "https://www.dissapore.com/notizie/in-irlanda-i-pub-stanno-diventando-sempre-piu-sobri/",
+        "pubDate": "2026-03-22T10:05:50+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/pub-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Che la Pink Mania abbia inizio: 8 look da Instagram pronti a conquistarvi per la primavera",
+        "description": "Con l’arrivo della primavera, l’animo romantico della moda si tinge di mille sfumature di rosa: dai toni più chiari e delicati che ricordano i fiori appena sboc…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/rosa-abbinamenti-come-abbinare-look-primavera-instagram-960948",
+        "pubDate": "2026-03-22T07:34:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_t_girl_rosa.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Rivoluzione Toscana Igt, spumanti nel disciplinare: Charmat e Metodo classico",
         "description": "Il Comitato Nazionale Vini del Masaf ha approvato le modifiche al disciplinare di produzione della Toscana Igt, introducendo per la prima volta la tipologia spu…",
@@ -127,63 +181,36 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Romania del vino, A7 e Vinarium: nasce l’Autostrada dei Vigneti Ploiești-Iași",
-        "description": "La Romania del vino entra in una fase nuova. A determinarla non è una denominazione, né una singola azienda, ma un’infrastruttura: l’autostrada A7, ribattezzata…",
-        "link": "https://www.winemag.it/romania-del-vino-a7-e-vinarium-nasce-autostrada-dei-vigneti-ploiesti-iasi/",
-        "pubDate": "2026-03-21T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Buone idee in cucina, ma il servizio va rodato: cosa non funziona (per ora) da Stecca a Roma",
-        "description": "Bistrot contemporaneo nato dall’incontro tra Flavio De Maio e Franco Franciosi: materie prime eccellenti, alcuni piatti interessanti e un’identità forte, ma ser…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/stecca-roma-recensione-buona-cucina-servizio-da-rodare-cosa-non-funziona/",
-        "pubDate": "2026-03-20T18:51:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lo chiamavano “L’acciaio di Milano”, uno splendido borgo lombardo in pietra che riporta indietro nel tempo",
-        "description": "Ecco un bellissimo borgo lombardo che è un vero capolavoro in pietra e che vanta una storia che vale la pena scoprire…",
-        "link": "https://www.stylosophy.it/articolo/lo-chiamavano-lacciaio-di-milano-uno-splendido-borgo-lombardo-in-pietra-che-riporta-indietro-nel-tempo/249156/",
-        "pubDate": "2026-03-20T18:00:00+00:00",
+        "title": "Belen Rodriguez lancia la nuova linea di solari con il suo brand Rebeya",
+        "description": "Belen Rodriguez lancia la sua nuova linea di solari per l'estate con il suo brand Rebeya: qui i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/belen-rodriguez-lancia-la-nuova-linea-di-solari-con-il-suo-brand-rebeya/249271/",
+        "pubDate": "2026-03-22T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "C’è crisi nella birra artigianale degli Stati Uniti",
-        "description": "Nel paese da cui tutto è partito, i birrifici chiudono e la produzione scende, anche in stati che furono simbolo del movimento craft.\nL'articolo C&#8217;è crisi…",
-        "link": "https://www.dissapore.com/notizie/ce-crisi-nella-birra-artigianale-degli-stati-uniti/",
-        "pubDate": "2026-03-20T17:55:30+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/brewmaster-garrett-oliver-2.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "È questo il borgo più bello della Calabria, una perla affacciata su un tratto di costa meraviglioso",
+        "description": "In provincia di Cosenza si nasconde un meraviglioso borgo affacciato sul mare, una gemma del sud Italia tutta da esplorare!…",
+        "link": "https://www.stylosophy.it/articolo/e-questo-il-borgo-piu-bello-della-calabria-una-perla-affacciata-su-un-tratto-di-costa-meraviglioso/249212/",
+        "pubDate": "2026-03-22T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "“Niente zucchero, cena entro le sei, 25 anni di scorte alimentari”: la regola di Chuck Norris morto a 86 anni",
-        "description": "Una dieta ferrea fatta di proteine, verdure e disciplina assoluta: così Chuck Norris si teneva in forma, con qualche rara eccezione…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/chuck-norris-morto-avocado-toast-pop-corn/",
-        "pubDate": "2026-03-20T17:50:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Che la Pink Mania abbia inizio: 8 look da Instagram pronti a conquistarvi per la primavera",
+        "description": "Con l’arrivo della primavera, l’animo romantico della moda si tinge di mille sfumature di rosa: dai toni più chiari e delicati che ricordano i fiori appena sboc…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/rosa-abbinamenti-come-abbinare-look-primavera-instagram-960948",
+        "pubDate": "2026-03-22T07:34:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_t_girl_rosa.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Michel Rolland, il ricordo di Marco Caprai: «Ha cambiato il vino mondiale»",
-        "description": "Michel Rolland è morto improvvisamente nella notte tra il 19 e il 20 marzo a Bordeaux. Aveva 78 anni. La sua scomparsa chiude una stagione decisiva per l’enolog…",
-        "link": "https://www.winemag.it/michel-rolland-ricordo-marco-caprai-ha-cambiato-vino-mondiale/",
-        "pubDate": "2026-03-20T16:10:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      }
-    ],
-    "moda": [
       {
         "title": "Le mensole che tutti stanno scegliendo: 5 idee di design che trasformano subito casa",
         "description": "Soluzioni versatili e scenografiche per dare carattere alle pareti. Ecco 5 Mensole di design, modelli originali per arredare le pareti con stile.…",
@@ -293,15 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Le Polo a maniche corte sono la nostra “spring crush”. Ecco quelle da avere…",
-        "description": "Per look preppy e bon ton, questa Primavera punta tutto sulle polo a maniche corte...…",
-        "link": "https://www.stylosophy.it/articolo/le-polo-a-maniche-corte-sono-la-nostra-spring-crush-ecco-quelle-da-avere/249191/",
-        "pubDate": "2026-03-20T10:17:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Primavera comanda color…?  Queste sono le 5 combo cromatiche da indossare adesso!",
         "description": "Ogni stagione ha i suoi colori e questa primavera 2026, in fatto di accenti cromatici, non è certo da meno. Le tendenze che arrivano dalle passerelle lo fanno c…",
         "link": "https://www.grazia.it/moda/tendenze-moda/abbinamenti-colore-priimavera-2026-combo-look-colorati-960860",
@@ -318,15 +336,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_Welcome_SPRING.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Ecco un borgo toscano colorato e pittoresco da scoprire questa primavera",
-        "description": "Viaggio verso un borgo toscano che è una vera bellezza affacciata sul mare, un luogo pieno di colori e di bellezze che vi conquisteranno all'istante…",
-        "link": "https://www.stylosophy.it/articolo/ecco-un-borgo-toscano-colorato-e-pittoresco-da-scoprire-questa-primavera/249136/",
-        "pubDate": "2026-03-19T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       },
       {
         "title": "Scarpe da sposa: le novità più belle del momento",
@@ -354,18 +363,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_IT_GIRL_massimaliste.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Grazia.it talks with: Marzia Bellotti, founder di Marbell",
-        "description": "Il capospalla come &#8220;corazza&#8221;, come biglietto da visita. Che non serve solo a &#8220;coprire&#8221; durante la stagione fredda ma che dà un&#8217;ant…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/marbell-intervista-marzia-bellotti-960254",
-        "pubDate": "2026-03-19T09:22:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_Marzia-Bellotti.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Cosa significa che la più grande multinazionale venda i suoi marchi food?",
+        "description": "Unilever conferma le voci secondo cui tutto il suo comparto alimentare, con marchi come Hellmann's e Knorr sia in vendita.\nL'articolo Cosa significa che la più …",
+        "link": "https://www.dissapore.com/notizie/cosa-significa-che-la-piu-grande-multinazionale-venda-i-suoi-marchi-food/",
+        "pubDate": "2026-03-22T11:50:02+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1766345432-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La storica cantina che alle porte di Perugia produce uno dei migliori vini bianchi (non solo) dell’Umbria",
+        "description": "La famiglia Goretti, tra le protagoniste della vitivinicoltura regionale da quattro generazioni, è stata premiata per la prima volta con i Tre Bicchieri grazie …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/trebbiano-spoletino-trebbio-goretti/",
+        "pubDate": "2026-03-22T10:42:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Irlanda i pub stanno diventando sempre più sobri",
+        "description": "Nella terra di San Patrizio si assiste a uno shift culturale verso stili di vita più sani, che comprendono anche le alternative analcoliche. \nL'articolo In Irla…",
+        "link": "https://www.dissapore.com/notizie/in-irlanda-i-pub-stanno-diventando-sempre-piu-sobri/",
+        "pubDate": "2026-03-22T10:05:50+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/pub-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Rivoluzione Toscana Igt, spumanti nel disciplinare: Charmat e Metodo classico",
         "description": "Il Comitato Nazionale Vini del Masaf ha approvato le modifiche al disciplinare di produzione della Toscana Igt, introducendo per la prima volta la tipologia spu…",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Dopo 35 anni in botte è ancora vitale”: la Vernaccia di Oristano che sfida il tempo",
-        "description": "Un vino raro e senza fretta: la Vernaccia di Oristano Antico Gregori della cantina Contini, affinata per oltre tre decenni, racconta il tempo, il mare e l’ident…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vernaccia-di-oristano-antico-gregori-attilio-contini/",
-        "pubDate": "2026-03-20T10:27:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I prezzi del caffè si abbassano, ma la tazzina non è destinata a scendere",
-        "description": "Le previsioni dei raccolti fanno calare i prezzi della materia prima, ma i fattori che influiscono sul costo finale della tazzina sono molti.\nL'articolo I prezz…",
-        "link": "https://www.dissapore.com/notizie/i-prezzi-del-caffe-si-abbassano-ma-la-tazzina-non-e-destinata-a-scendere/",
-        "pubDate": "2026-03-20T10:16:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/04/piantagione-caffe.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Valpolicella: la “messa a riposo delle uve” candidata a patrimonio culturale Unesco",
-        "description": "La Commissione nazionale italiana per l’Unesco, su proposta del Ministero della Cultura, ha deciso di presentare la candidatura della pratica della “messa a rip…",
-        "link": "https://www.winemag.it/valpolicella-messa-riposo-delle-uve-candidata-patrimonio-culturale-unesco/",
-        "pubDate": "2026-03-20T10:06:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
