@@ -1,7 +1,25 @@
 {
-  "generated": "2026-03-24T15:46:56.262994+00:00",
+  "generated": "2026-03-24T20:01:17.843220+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Weekend di primavera in Sardegna: Ecco 5 borghi che vale la pena visitare",
+        "description": "Viaggio in Sardegna verso i suoi borghi più belli, per vivere un weekend di primavera all'insegna della bellezza più autentica…",
+        "link": "https://www.stylosophy.it/articolo/weekend-di-primavera-in-sardegna-ecco-5-borghi-che-vale-la-pena-visitare/249345/",
+        "pubDate": "2026-03-24T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Intervista a Valerio Braschi, l’unico Masterchef che ce l’ha fatta",
+        "description": "Uno su mille ce la fa, ma anche uno su mille ci prova: la versione di Valerio Braschi, l'unico Masterchef d'Italia ad aver fatto davvero la carriera da chef. \nL…",
+        "link": "https://www.dissapore.com/ristoranti/intervista-a-valerio-braschi-lunico-masterchef-che-ce-lha-fatta/",
+        "pubDate": "2026-03-24T17:54:31+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/location_TheVIEWbyBRASCHI_12.25_JpegHD-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Una trattoria contemporanea, 40 coperti e nessuna etichetta: nasce Gilioli a Reggio Emilia",
         "description": "Guglielmo Chiarapini apre il suo primo locale solista: tradizione emiliana, quinto quarto e un’idea di ristorazione accessibile che guarda ai grandi modelli eur…",
@@ -19,6 +37,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Yoga in cashmere: la prima capsule Falconeri tra eleganza e comfort",
+        "description": "Proprio nel giorno dell&#8217;equinozio di primavera (il 20 marzo), nella stagione della rinascita, del risveglio e di una ritrovata apertura energetica, Falcon…",
+        "link": "https://www.grazia.it/moda/news-moda/falconeri-cashmere-yoga-capsule-wellness-961630",
+        "pubDate": "2026-03-24T15:23:29+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/Falconeri-Cachemire-Yoga.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Quanta finezza e freschezza: i vini di Arianna Occhipinti che abbattono gli stereotipi sul Sud",
@@ -154,36 +181,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Peplum top obsession: perché tutte lo vogliono adesso",
-        "description": "Anche per voi c’è qualcosa di profondamente rassicurante nei ritorni della moda? Soprattutto quando riguardano capi capaci di valorizzare la figura e farci sent…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/top-peplum-baschina-volant-balza-in-vita-primavera-2026-come-indossare-960383",
-        "pubDate": "2026-03-24T09:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_peplum.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "C’è un vino che molto prima di diventare Doc è finito nel Purgatorio di Dante",
-        "description": "Si tratta di un bianco toscano citato nella cornice dei golosi, dove le anime espiano gli eccessi del cibo e del bere. Secoli dopo sarebbe diventata la prima de…",
-        "link": "https://www.gamberorosso.it/notizie/vino/sessantanni-vernaccia-san-gimignano-citazione-purgatorio-dante/",
-        "pubDate": "2026-03-24T09:06:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Al più grande mangiatore di Big Mac del mondo non piace il Big Arch",
-        "description": "McDonald's ce la sta mettendo tutta, ma il nuovo Big Arch non sembra sfondare, nemmeno tra i fan più accaniti. \nL'articolo Al più grande mangiatore di Big Mac d…",
-        "link": "https://www.dissapore.com/notizie/al-piu-grande-mangiatore-di-big-mac-del-mondo-non-piace-il-big-arch/",
-        "pubDate": "2026-03-24T08:47:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/DcoFvXAVAAAyGrL.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Weekend di primavera in Sardegna: Ecco 5 borghi che vale la pena visitare",
+        "description": "Viaggio in Sardegna verso i suoi borghi più belli, per vivere un weekend di primavera all'insegna della bellezza più autentica…",
+        "link": "https://www.stylosophy.it/articolo/weekend-di-primavera-in-sardegna-ecco-5-borghi-che-vale-la-pena-visitare/249345/",
+        "pubDate": "2026-03-24T18:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Yoga in cashmere: la prima capsule Falconeri tra eleganza e comfort",
+        "description": "Proprio nel giorno dell&#8217;equinozio di primavera (il 20 marzo), nella stagione della rinascita, del risveglio e di una ritrovata apertura energetica, Falcon…",
+        "link": "https://www.grazia.it/moda/news-moda/falconeri-cashmere-yoga-capsule-wellness-961630",
+        "pubDate": "2026-03-24T15:23:29+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/Falconeri-Cachemire-Yoga.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Le Combinazioni di colore giuste per la Primavera 2026: le palette di tendenza per la casa",
         "description": "Palette naturali e accostamenti inaspettati ridefiniscono gli interni. Il segreto è l’equilibrio, non l’effetto sorpresa.…",
@@ -329,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "H&M Moves Barcellona: dentro l’energia (reale) della nuova collezione",
-        "description": "H&#38;M Move a Barcellona non è stato solo un evento, ma un momento da vivere, di quelli in cui il confine tra sport, moda e persone si dissolve fino a diventar…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/hm-move-collezione-running-fitness-961353",
-        "pubDate": "2026-03-23T11:12:28+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/OK-DESK-1-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Il segreto per zigomi luminosi? Questi 5 illuminanti dal finish super glow",
         "description": "Per zigomi luminosi ma dall'effetto naturale, ecco 5 illuminanti dal finish glow. Dei veri alleati beauty per un make-up al top!…",
         "link": "https://www.stylosophy.it/articolo/il-segreto-per-zigomi-luminosi-questi-5-illuminanti-dal-finish-super-glow/249291/",
@@ -354,18 +363,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Dentro la casa di Antonella Elia: ecco dove vive una delle protagoniste più amate del GF VIP",
-        "description": "Tra colori audaci e dettagli chic, l’abitazione della showgirl rivela un lato inaspettato.…",
-        "link": "https://www.stylosophy.it/articolo/dentro-la-casa-di-antonella-elia-ecco-dove-vive/249267/",
-        "pubDate": "2026-03-22T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Intervista a Valerio Braschi, l’unico Masterchef che ce l’ha fatta",
+        "description": "Uno su mille ce la fa, ma anche uno su mille ci prova: la versione di Valerio Braschi, l'unico Masterchef d'Italia ad aver fatto davvero la carriera da chef. \nL…",
+        "link": "https://www.dissapore.com/ristoranti/intervista-a-valerio-braschi-lunico-masterchef-che-ce-lha-fatta/",
+        "pubDate": "2026-03-24T17:54:31+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/location_TheVIEWbyBRASCHI_12.25_JpegHD-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Una trattoria contemporanea, 40 coperti e nessuna etichetta: nasce Gilioli a Reggio Emilia",
         "description": "Guglielmo Chiarapini apre il suo primo locale solista: tradizione emiliana, quinto quarto e un’idea di ristorazione accessibile che guarda ai grandi modelli eur…",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/cosa-significa-che-la-piu-grande-multinazionale-venda-i-suoi-marchi-food/",
         "pubDate": "2026-03-22T11:50:02+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1766345432-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Irlanda i pub stanno diventando sempre più sobri",
-        "description": "Nella terra di San Patrizio si assiste a uno shift culturale verso stili di vita più sani, che comprendono anche le alternative analcoliche. \nL'articolo In Irla…",
-        "link": "https://www.dissapore.com/notizie/in-irlanda-i-pub-stanno-diventando-sempre-piu-sobri/",
-        "pubDate": "2026-03-22T10:05:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/pub-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
