@@ -1,7 +1,34 @@
 {
-  "generated": "2026-03-24T20:01:17.843220+00:00",
+  "generated": "2026-03-25T08:06:21.068405+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Quattro Gatti Gin, dall’Umbria due dry gin ispirati allo stile di vita italiano",
+        "description": "Nasce Quattro Gatti, un gin “made in Umbria” presentato a Milano presso il The Wilde Club lo scorso 18 marzo. Un gin costruito attorno al concetto di lentezza e…",
+        "link": "https://www.winemag.it/quattro-gatti-gin-umbria-due-dry-gin/",
+        "pubDate": "2026-03-25T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Che cosa sono i Ginetti di Pasqua, gli anelli di pasta dolce che si fanno per la Domenica delle Palme",
+        "description": "A Cosenza e dintorni questi taralli dolci glassati di bianco scandiscono i giorni della Quaresima, resistendo a feste e matrimoni e continuando a profumare di a…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ginetti-pasqua-anelli-pasta-dolce-domenica-delle-palme/",
+        "pubDate": "2026-03-25T05:46:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Caviro, Cantine Leonardo da Vinci in liquidazione coatta",
+        "description": "Cantine Leonardo da Vinci è stata posta in liquidazione coatta amministrativa dal Ministero delle Imprese e del Made in Italy. Il provvedimento riguardante la c…",
+        "link": "https://www.winemag.it/caviro-cantine-leonardo-da-vinci-in-liquidazione-coatta/",
+        "pubDate": "2026-03-24T23:30:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Weekend di primavera in Sardegna: Ecco 5 borghi che vale la pena visitare",
         "description": "Viaggio in Sardegna verso i suoi borghi più belli, per vivere un weekend di primavera all'insegna della bellezza più autentica…",
@@ -154,33 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli scrub perfetti per un cuoio capelluto pulito e una chioma nutrita",
-        "description": "Sogni una cute detersa e pulita? Ecco 5 scrub per capelli da non perdere! Scopriamoli insieme...…",
-        "link": "https://www.stylosophy.it/articolo/gli-scrub-perfetti-per-un-cuoio-capelluto-pulito-e-una-chioma-nutrita/249307/",
-        "pubDate": "2026-03-24T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il vino della Napa valley sta fallendo perché è gestito da boomer?",
-        "description": "Una delle grandi zone del vino è in crisi, e uno dei motivi è che la generazione che ha fatto la fortuna di questa valle non ha saputo costruire un dopo.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/il-vino-della-napa-valley-sta-fallendo-perche-e-gestita-dai-boomer/",
-        "pubDate": "2026-03-24T10:30:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/treno-napa-valley-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Come indossare la Gonna trasparente, tendenza primaverile dalle vibes ultra girlish",
-        "description": "Ecco qualche idea su come indossare la sheer skirt questa Primavera Estate…",
-        "link": "https://www.stylosophy.it/articolo/come-indossare-la-gonna-trasparente-tendenza-primaverile-dalle-vibes-ultra-girlish/249355/",
-        "pubDate": "2026-03-24T10:03:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Quattro Gatti Gin, dall’Umbria due dry gin ispirati allo stile di vita italiano",
+        "description": "Nasce Quattro Gatti, un gin “made in Umbria” presentato a Milano presso il The Wilde Club lo scorso 18 marzo. Un gin costruito attorno al concetto di lentezza e…",
+        "link": "https://www.winemag.it/quattro-gatti-gin-umbria-due-dry-gin/",
+        "pubDate": "2026-03-25T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Che cosa sono i Ginetti di Pasqua, gli anelli di pasta dolce che si fanno per la Domenica delle Palme",
+        "description": "A Cosenza e dintorni questi taralli dolci glassati di bianco scandiscono i giorni della Quaresima, resistendo a feste e matrimoni e continuando a profumare di a…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ginetti-pasqua-anelli-pasta-dolce-domenica-delle-palme/",
+        "pubDate": "2026-03-25T05:46:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Caviro, Cantine Leonardo da Vinci in liquidazione coatta",
+        "description": "Cantine Leonardo da Vinci è stata posta in liquidazione coatta amministrativa dal Ministero delle Imprese e del Made in Italy. Il provvedimento riguardante la c…",
+        "link": "https://www.winemag.it/caviro-cantine-leonardo-da-vinci-in-liquidazione-coatta/",
+        "pubDate": "2026-03-24T23:30:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Intervista a Valerio Braschi, l’unico Masterchef che ce l’ha fatta",
         "description": "Uno su mille ce la fa, ma anche uno su mille ci prova: la versione di Valerio Braschi, l'unico Masterchef d'Italia ad aver fatto davvero la carriera da chef. \nL…",
         "link": "https://www.dissapore.com/ristoranti/intervista-a-valerio-braschi-lunico-masterchef-che-ce-lha-fatta/",
@@ -475,15 +502,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "C’è un vino che molto prima di diventare Doc è finito nel Purgatorio di Dante",
-        "description": "Si tratta di un bianco toscano citato nella cornice dei golosi, dove le anime espiano gli eccessi del cibo e del bere. Secoli dopo sarebbe diventata la prima de…",
-        "link": "https://www.gamberorosso.it/notizie/vino/sessantanni-vernaccia-san-gimignano-citazione-purgatorio-dante/",
-        "pubDate": "2026-03-24T09:06:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Al più grande mangiatore di Big Mac del mondo non piace il Big Arch",
         "description": "McDonald's ce la sta mettendo tutta, ma il nuovo Big Arch non sembra sfondare, nemmeno tra i fan più accaniti. \nL'articolo Al più grande mangiatore di Big Mac d…",
         "link": "https://www.dissapore.com/notizie/al-piu-grande-mangiatore-di-big-mac-del-mondo-non-piace-il-big-arch/",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/notizie/la-robusta-amazzonica-sta-dando-una-possibilita-al-caffe-nonostante-la-crisi-climatica-e-dei-prezzi/",
         "pubDate": "2026-03-23T08:35:24+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/piantagioni-di-caffe-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’intelligenza artificiale contro l’aumento dei prezzi: stacca più carne dalle ossa",
-        "description": "Cargill sta sperimentando un sistema per separare meccanicamente la carne in maniera più efficiente, recuperando migliaia di tonnelllate.\nL'articolo L&#8217;int…",
-        "link": "https://www.dissapore.com/notizie/lintelligenza-artificiale-contro-laumento-dei-prezzi-stacca-piu-carne-dalle-ossa/",
-        "pubDate": "2026-03-22T17:06:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2292558713-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa significa che la più grande multinazionale venda i suoi marchi food?",
-        "description": "Unilever conferma le voci secondo cui tutto il suo comparto alimentare, con marchi come Hellmann's e Knorr sia in vendita.\nL'articolo Cosa significa che la più …",
-        "link": "https://www.dissapore.com/notizie/cosa-significa-che-la-piu-grande-multinazionale-venda-i-suoi-marchi-food/",
-        "pubDate": "2026-03-22T11:50:02+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1766345432-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
