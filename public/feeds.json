@@ -1,7 +1,34 @@
 {
-  "generated": "2026-03-25T19:57:58.202357+00:00",
+  "generated": "2026-03-26T08:37:16.148738+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il vitigno quasi scomparso che ha conquistato i mercati esteri. Tre giorni alla scoperta del timorasso",
+        "description": "Torna l'appuntamento con Derthona Due.Zero: dal 28 al 30 marzo Tortona ospita l'anteprima del vino bianco piemontese e oltre 50 produttori…",
+        "link": "https://www.gamberorosso.it/notizie/vino/timorasso-derthona-anteprima-2026/",
+        "pubDate": "2026-03-26T08:10:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le sperimentazioni low alcol del Prosecco Doc, che ora guarda all’espansione in Africa, India ed Est Europa",
+        "description": "Le bollicine del Nord Est preparano il prossimo futuro passando per la bassa gradazione naturale e per una diversificazione commerciale. Il direttore Luca Giavi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/prosecco-low-alcol-sperimentazioni-luca-giavi/",
+        "pubDate": "2026-03-26T07:06:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le 7 migliori colombe di Pasqua del supermercato: la classifica 2026 del Gambero Rosso",
+        "description": "Cosa abbiamo trovato assaggiando 14 colombe della grande distribuzione. Ecco le 7 promosse dal panel del Gambero Rosso…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/colombe-pasqua-supermercato-migliori-classifica-2026/",
+        "pubDate": "2026-03-26T05:56:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Noto come il Borgo delle stelle, un vero gioiello ligure da scoprire in Primavera",
         "description": "Viaggio in Liguria verso il borgo delle stelle, un luogo che fa sognare e in cui perdersi con lo sguardo…",
@@ -151,33 +178,6 @@
         "description": "Per labbra leggermente colorate, luminose e idratate, ecco 5 lip oil su cui puntare questa Primavera. Imperdibili!…",
         "link": "https://www.stylosophy.it/articolo/5-lip-oil-colorati-da-inserire-nella-make-up-routine-primaverile/249384/",
         "pubDate": "2026-03-25T11:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Le pumps tornano a dominare le tendenze della primavera: ecco le più belle da puntare ora",
-        "description": "Con l’arrivo della bella stagione abbiamo prontamente aggiornato la nostra wishlist ma tra sneakers in satin, ballerine animalier e mocassini in stile preppy, c…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-con-tacco-pumps-accollate-tacco-alto-largo-kitten-heels-scollo-a-v-tendenze-donna-primavera-2026-961774",
-        "pubDate": "2026-03-25T11:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Pumps.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Stop alle esportazioni di Prosecco australiano (ma solo tra dieci anni). Ecco cosa prevede l’accordo con l’Ue",
-        "description": "Si potrà, invece, continuare ad usare il nome del vino sul mercato interno, che vale 200 milioni di dollari. Ma le associazioni locali parlano di misure protezi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/prosecco-australiano-accordo-europa/",
-        "pubDate": "2026-03-25T10:46:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli Orecchini più desiderati della Primavera 2026 sono questi",
-        "description": "Qui gli orecchini a fiore perfetti per accogliere la bella stagione con la giusta dose di stile e spensieratezza!…",
-        "link": "https://www.stylosophy.it/articolo/gli-orecchini-piu-desiderati-della-primavera-2026-sono-questi/249402/",
-        "pubDate": "2026-03-25T10:15:30+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Il vitigno quasi scomparso che ha conquistato i mercati esteri. Tre giorni alla scoperta del timorasso",
+        "description": "Torna l'appuntamento con Derthona Due.Zero: dal 28 al 30 marzo Tortona ospita l'anteprima del vino bianco piemontese e oltre 50 produttori…",
+        "link": "https://www.gamberorosso.it/notizie/vino/timorasso-derthona-anteprima-2026/",
+        "pubDate": "2026-03-26T08:10:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le sperimentazioni low alcol del Prosecco Doc, che ora guarda all’espansione in Africa, India ed Est Europa",
+        "description": "Le bollicine del Nord Est preparano il prossimo futuro passando per la bassa gradazione naturale e per una diversificazione commerciale. Il direttore Luca Giavi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/prosecco-low-alcol-sperimentazioni-luca-giavi/",
+        "pubDate": "2026-03-26T07:06:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le 7 migliori colombe di Pasqua del supermercato: la classifica 2026 del Gambero Rosso",
+        "description": "Cosa abbiamo trovato assaggiando 14 colombe della grande distribuzione. Ecco le 7 promosse dal panel del Gambero Rosso…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/colombe-pasqua-supermercato-migliori-classifica-2026/",
+        "pubDate": "2026-03-26T05:56:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Pane e salute: come funziona il forno di Orsara di Puglia attivo da 500 anni",
         "description": "Tra il Subappennino Dauno e l’Irpinia c'è un forno a paglia che funziona esattamente dal 1526. Lo abbiamo provato. \nL'articolo Pane e salute: come funziona il f…",
         "link": "https://www.dissapore.com/locali/pane-e-salute-come-funziona-il-forno-di-orsara-di-puglia-attivo-da-500-anni/",
@@ -500,33 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/recensioni-online-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "I due artisti che hanno aperto un bar senza macchina da espresso (e hanno fatto arrabbiare tutti)",
-        "description": "A Porto, nel quartiere creativo di Bonfim, A Certain Café sfida la tradizione: niente espresso ma solo caffè filtro. All’inizio proteste e clienti furiosi, poi …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/due-artisti-bar-senza-macchina-espresso/",
-        "pubDate": "2026-03-25T08:38:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nasce un gigante della ristorazione: i Cerea aprono a Ruffini (Moncler)",
-        "description": "Dopo sessant'anni la famiglia Cerea trova un partner nell'Ou(r) Group che ha fondato Moncler e che vanta un'uguale partecipazione in Langosteria. Un'alleanza ch…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/nasce-un-gigante-della-ristorazione-i-cerea-aprono-a-ruffini-moncler/",
-        "pubDate": "2026-03-25T08:29:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“L’uovo, con il sale”: il piatto preferito di Dante nascosto dentro la Divina Commedia",
-        "description": "Dal celebre aneddoto sull’uovo alle tracce nella Divina Commedia: cosa mangiava Dante e cosa raccontano i suoi versi sulla cucina del Trecento…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/uovo-sale-piatto-preferito-dante-divina-commedia/",
-        "pubDate": "2026-03-25T08:25:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Prosecco Australia, accordo Ue: userà nome solo in patria",
