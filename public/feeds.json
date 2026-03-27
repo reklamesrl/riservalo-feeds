@@ -1,7 +1,16 @@
 {
-  "generated": "2026-03-26T20:00:14.789572+00:00",
+  "generated": "2026-03-27T08:09:17.268341+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Da pub iconico a bistrot contemporaneo: la nuova vita romana del Dulcamara",
+        "description": "A Ponte Milvio lo storico Dulcamara cambia pelle con l’arrivo dello chef Marco Fedeli: cucina tra mare e tradizione, pane fatto in casa e nuova identità da bist…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/marco-fedeli-dopo-ippolito-a-fiumicino-ponte-milvio/",
+        "pubDate": "2026-03-27T05:51:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Le uova di cioccolato da comprare per Pasqua 2026",
         "description": "Le novità del 2026 non mancano, tra le uova di Pasqua. Ecco il meglio, selezionato da noi e raccolto in una vetrina di creazioni dall'estetica contemporanea e, …",
@@ -172,15 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Cosa è la mela di legno: guida al frutto che sembra una pietra",
-        "description": "Brutta, dall’odore discutibile e dal sapore sorprendente: la wood apple dallo Sri Lanka è un’esperienza gastronomica che spiazza e conquista…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mela-legno-frutto-pietra-sri-lanka/",
-        "pubDate": "2026-03-26T10:08:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Da pub iconico a bistrot contemporaneo: la nuova vita romana del Dulcamara",
+        "description": "A Ponte Milvio lo storico Dulcamara cambia pelle con l’arrivo dello chef Marco Fedeli: cucina tra mare e tradizione, pane fatto in casa e nuova identità da bist…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/marco-fedeli-dopo-ippolito-a-fiumicino-ponte-milvio/",
+        "pubDate": "2026-03-27T05:51:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Le uova di cioccolato da comprare per Pasqua 2026",
         "description": "Le novità del 2026 non mancano, tra le uova di Pasqua. Ecco il meglio, selezionato da noi e raccolto in una vetrina di creazioni dall'estetica contemporanea e, …",
         "link": "https://www.dissapore.com/spesa/le-uova-di-cioccolato-da-comprare-per-pasqua-2026/",
@@ -497,15 +506,6 @@
         "description": "Dopo tre anni di crisi, una boccato d'ossigeno per il mercato secondario. A giocare a favore sono soprattutto il calo generale dei prezzi e la riduzione dei tas…",
         "link": "https://www.gamberorosso.it/notizie/attualita/stime-fine-wine-liv-ex-2026/",
         "pubDate": "2026-03-26T09:04:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vitigno quasi scomparso che ha conquistato i mercati esteri. Tre giorni alla scoperta del timorasso",
-        "description": "Torna l'appuntamento con Derthona Due.Zero: dal 28 al 30 marzo Tortona ospita l'anteprima del vino bianco piemontese e oltre 50 produttori…",
-        "link": "https://www.gamberorosso.it/notizie/vino/timorasso-derthona-anteprima-2026/",
-        "pubDate": "2026-03-26T08:10:57+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
