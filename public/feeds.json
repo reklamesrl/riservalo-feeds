@@ -1,7 +1,34 @@
 {
-  "generated": "2026-03-28T14:03:35.644629+00:00",
+  "generated": "2026-03-28T19:46:14.283145+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Set tavolo e sedie IKEA in stile industriale: la soluzione per cucine moderne e piccoli spazi",
+        "description": "Un equilibrio studiato tra legno massiccio, metallo e comfort quotidiano. Una proposta d’arredo pensata per chi cerca stile contemporaneo senza complicazioni.…",
+        "link": "https://www.stylosophy.it/articolo/tavolo-e-sedie-ikea-in-stile-industriale-la-soluzione-per-piccoli-spazi/249594/",
+        "pubDate": "2026-03-28T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Nestlé ha messo in vendita San Pellegrino e Acqua Panna",
+        "description": "L'operazione varrà 5 miliardi di euro, e vedrà la multinazionale svizzera \"alleggerirsi\" anche del marchio Perrier.\nL'articolo Nestlé ha messo in vendita San Pe…",
+        "link": "https://www.dissapore.com/notizie/nestle-ha-messo-in-vendita-san-pellegrino-e-acqua-panna/",
+        "pubDate": "2026-03-28T15:37:41+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/shutterstock_2716094283-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dietro questa paninoteca di Montesacro a Roma c’è una storia che viene da lontano",
+        "description": "Dall’Etiopia alla Libia, poi il mare e Roma: la storia di Takle arriva in una paninoteca a Montesacro, California Cookhouse, dove le vite si incontrano e divent…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/paninoteca-takle-quartiere-montesacro-roma/",
+        "pubDate": "2026-03-28T14:29:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La cucina italo-giapponese che sta conquistando il mondo: cos’è l’itameshi wafu",
         "description": "Si chiama itameshi wafu e unisce ingredienti e tecniche di due culture amatissime: tra piatti sorprendenti e nuove tendenze globali…",
@@ -154,36 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "La bottega che da 40 anni conquista italiani e stranieri nel cuore di Verona (da non perdere durante Vinitaly)",
-        "description": "Si mangia e si fanno acquisti alla Gastronomia di via Stella, un'insegna a gestione familiare che, puntando da sempre sui grandi classici, è diventata un punto …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bottega-gastronomia-stella-cuore-di-verona/",
-        "pubDate": "2026-03-27T15:46:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Itinera”: la prima borsa iconica di Peserico che unisce funzionalità ed eleganza senza tempo",
-        "description": "La vita quotidiana è scandita da appuntamenti, scadenze e ritmi sempre più serrati e riuscire a mantenere il passo tra un impegno e l’altro senza rinunciare all…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/itinera-peserico-borsa-iconica-due-dimensioni-pelle-961275",
-        "pubDate": "2026-03-27T15:25:33+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_peserico.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Il fil rouge di questa settimana è un equilibrio delicato e ricercato tra passato e futuro, tra heritage e visione, che attraversa tutte le nostre Fashion Pills…",
-        "link": "https://www.grazia.it/moda/sebago-weekend-maxmara-intimissimi-ultra-cottton-etro-bloom-borsa-furla-occhiali-escapista-ibeliv-borse-net-a-porter-the-vanguard-962371",
-        "pubDate": "2026-03-27T15:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/Senza-titolo-44.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Set tavolo e sedie IKEA in stile industriale: la soluzione per cucine moderne e piccoli spazi",
+        "description": "Un equilibrio studiato tra legno massiccio, metallo e comfort quotidiano. Una proposta d’arredo pensata per chi cerca stile contemporaneo senza complicazioni.…",
+        "link": "https://www.stylosophy.it/articolo/tavolo-e-sedie-ikea-in-stile-industriale-la-soluzione-per-piccoli-spazi/249594/",
+        "pubDate": "2026-03-28T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Chiara Ferragni lancia una nuova linea di prodotti skincare",
         "description": "Chiara Ferragni, in questi giorni, ha annunciato il lancio della sua nuova ed imminente linea di prodotti skincare.…",
@@ -338,15 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Il colore che cambia l’atmosfera di casa: basta usarlo così per sentirsi subito meglio",
-        "description": "Tra gli elementi che definiscono carattere e personalità della tua casa c'è anche il colore, questo che stiamo per mostrarti è super versatile e promette di reg…",
-        "link": "https://www.stylosophy.it/articolo/con-questo-colore-regalerai-serenita-e-armonia-alla-tua-casa/189537/",
-        "pubDate": "2026-03-26T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Vi portiamo sul set della campagna della CHANEL 25, la it bag della maison, in compagnia di Margot Robbie e Kylie Minogue",
         "description": "In questi giorni non si parla  d&#8217;altro o quasi: se siete fashion addicted ve ne sarete accorti e accorte, in Rete la nuovissima campagna per la bag CHANEL…",
         "link": "https://www.grazia.it/moda/news-moda/chanel-backstage-video-campagna-margot-robbie-kylie-minogue-chanel-25-borsa-961989",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Nestlé ha messo in vendita San Pellegrino e Acqua Panna",
+        "description": "L'operazione varrà 5 miliardi di euro, e vedrà la multinazionale svizzera \"alleggerirsi\" anche del marchio Perrier.\nL'articolo Nestlé ha messo in vendita San Pe…",
+        "link": "https://www.dissapore.com/notizie/nestle-ha-messo-in-vendita-san-pellegrino-e-acqua-panna/",
+        "pubDate": "2026-03-28T15:37:41+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/shutterstock_2716094283-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dietro questa paninoteca di Montesacro a Roma c’è una storia che viene da lontano",
+        "description": "Dall’Etiopia alla Libia, poi il mare e Roma: la storia di Takle arriva in una paninoteca a Montesacro, California Cookhouse, dove le vite si incontrano e divent…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/paninoteca-takle-quartiere-montesacro-roma/",
+        "pubDate": "2026-03-28T14:29:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La cucina italo-giapponese che sta conquistando il mondo: cos’è l’itameshi wafu",
         "description": "Si chiama itameshi wafu e unisce ingredienti e tecniche di due culture amatissime: tra piatti sorprendenti e nuove tendenze globali…",
@@ -493,15 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Roma ha aperto un forno con spettacolari croissant francesi (e grandi classici della panificazione)",
-        "description": "Un bel rapporto qualità-prezzo, prodotti semplici e pain au chocolat squisiti per una colazione da vera boulangerie francese: si chiama Forno Bianchi ed è un nu…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-forno-croissant-francesi-pane-garbatella/",
-        "pubDate": "2026-03-27T11:54:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cos’è il Fiore Sardo DOP e cosa cambia rispetto al Pecorino sardo",
         "description": "Storia, caratteristiche sensoriali e produzione del Fiore Sardo DOP, l'altro pecorino di Sardegna. Un formaggio che racconta molto della tradizione casearia del…",
         "link": "https://www.dissapore.com/cucina/cose-il-fiore-sardo-dop-e-cosa-cambia-rispetto-al-pecorino-sardo/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/2022_05_35355_12_TG345403_MG457153088.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "VINALTUM 2026 a Castel Mareccio: il festival del vino sceglie Bolzano",
-        "description": "VINALTUM torna con la terza edizione e cambia scenario. Il festival dedicato alle eccellenze vitivinicole italiane e internazionali si sposta a Castel Mareccio,…",
-        "link": "https://www.winemag.it/vinaltum-2026-a-castel-mareccio-il-festival-del-vino-sceglie-bolzano/",
-        "pubDate": "2026-03-26T16:00:07+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
