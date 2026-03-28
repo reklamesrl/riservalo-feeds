@@ -1,7 +1,34 @@
 {
-  "generated": "2026-03-27T19:53:06.901138+00:00",
+  "generated": "2026-03-28T07:58:11.350543+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La nuova frontiera contro l’effetto serra sta nella birra",
+        "description": "L'idea di un birrificio americano di trasformare l'anidride carbonica sequestrata dall'atmosfera in bollicine è assai promettente. \nL'articolo La nuova frontier…",
+        "link": "https://www.dissapore.com/notizie/la-nuova-frontiera-contro-leffetto-serra-sta-nella-birra/",
+        "pubDate": "2026-03-28T07:16:04+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/birra-bollicine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Che cos’è la cuzzupa, il dolce della Pasqua calabrese che cambia forma a seconda del destinatario",
+        "description": "Si chiama cuzzupa ed è simbolo di fertilità e rinascita: forme, significati e varianti di uno dei dolci più antichi della Pasqua italiana…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cuzzupa-dolce-pasqua-calabrese-cambia-forma/",
+        "pubDate": "2026-03-28T07:07:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I cornetti “normali” che stanno conquistando Roma Sud (e nessuno ne parla)",
+        "description": "A Mezzocammino la pasticceria Donnarumma firma colazioni impeccabili: lieviti fatti a regola d’arte, senza mode ma con tanto burro buono…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pasticceria-nascosta-periferia-roma-cornetti-donnarumma/",
+        "pubDate": "2026-03-28T05:47:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "I pub inglesi non vogliono più bambini",
         "description": "Nemmeno i pub inglesi sfuggono alla polemica sui bambini nei locali pubblici: per molti è meglio evitarli.\nL'articolo I pub inglesi non vogliono più bambini pro…",
@@ -154,33 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Cos’è il Fiore Sardo DOP e cosa cambia rispetto al Pecorino sardo",
-        "description": "Storia, caratteristiche sensoriali e produzione del Fiore Sardo DOP, l'altro pecorino di Sardegna. Un formaggio che racconta molto della tradizione casearia del…",
-        "link": "https://www.dissapore.com/cucina/cose-il-fiore-sardo-dop-e-cosa-cambia-rispetto-al-pecorino-sardo/",
-        "pubDate": "2026-03-27T10:45:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/fiore-sardo-.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vi presentiamo gli Abiti di Mango perfetti per le prossime cerimonie",
-        "description": "Alla ricerca dell’abito giusto, quello che ti faccia sentire l’invitata perfetta? Mango ha quello che fa al caso tuo!…",
-        "link": "https://www.stylosophy.it/articolo/vi-presentiamo-gli-abiti-di-mango-perfetti-per-le-prossime-cerimonie/249516/",
-        "pubDate": "2026-03-27T10:07:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Zendaya, Miley Cyrus, Anne Hathaway e le altre star meglio vestite della settimana!",
-        "description": "Anche questa settimana, con il susseguirsi di première internazionali ed eventi esclusivi, le best dressed of the week tornano a dettare legge. Questa volta, a …",
-        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-anne-hathaway-miley-cyrus-look-meglio-vestite-settimana-962070",
-        "pubDate": "2026-03-27T09:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_best_dressed_25_marzo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "La nuova frontiera contro l’effetto serra sta nella birra",
+        "description": "L'idea di un birrificio americano di trasformare l'anidride carbonica sequestrata dall'atmosfera in bollicine è assai promettente. \nL'articolo La nuova frontier…",
+        "link": "https://www.dissapore.com/notizie/la-nuova-frontiera-contro-leffetto-serra-sta-nella-birra/",
+        "pubDate": "2026-03-28T07:16:04+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/birra-bollicine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Che cos’è la cuzzupa, il dolce della Pasqua calabrese che cambia forma a seconda del destinatario",
+        "description": "Si chiama cuzzupa ed è simbolo di fertilità e rinascita: forme, significati e varianti di uno dei dolci più antichi della Pasqua italiana…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cuzzupa-dolce-pasqua-calabrese-cambia-forma/",
+        "pubDate": "2026-03-28T07:07:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I cornetti “normali” che stanno conquistando Roma Sud (e nessuno ne parla)",
+        "description": "A Mezzocammino la pasticceria Donnarumma firma colazioni impeccabili: lieviti fatti a regola d’arte, senza mode ma con tanto burro buono…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pasticceria-nascosta-periferia-roma-cornetti-donnarumma/",
+        "pubDate": "2026-03-28T05:47:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "I pub inglesi non vogliono più bambini",
         "description": "Nemmeno i pub inglesi sfuggono alla polemica sui bambini nei locali pubblici: per molti è meglio evitarli.\nL'articolo I pub inglesi non vogliono più bambini pro…",
         "link": "https://www.dissapore.com/notizie/i-pub-inglesi-non-vogliono-piu-bambini/",
@@ -484,24 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il dolce “inquietante” che si mangia solo una volta l’anno: i tortelli di San Lazzaro",
-        "description": "A Faenza una tradizione antichissima celebra il sabato prima delle Palme: biscotti ripieni di castagne che ricordano Lazzaro e la sua resurrezione…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tortelli-san-lazzaro-dolcetti-faenza/",
-        "pubDate": "2026-03-27T08:46:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tra Liguria e Toscana c’è una famiglia che produce uno dei migliori Vermentino sotto i 15 euro",
-        "description": "Luca Federici, alla guida dell'azienda La Baia del Sole insieme al fratello Andrea, ci racconta la storia della famiglia da quattro generazioni dedita alla viti…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vermentino-liguria-solaris-la-baia-del-sole-sotto-15-euro/",
-        "pubDate": "2026-03-27T08:41:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Le uova di cioccolato da comprare per Pasqua 2026",
         "description": "Le novità del 2026 non mancano, tra le uova di Pasqua. Ecco il meglio, selezionato da noi e raccolto in una vetrina di creazioni dall'estetica contemporanea e, …",
         "link": "https://www.dissapore.com/spesa/le-uova-di-cioccolato-da-comprare-per-pasqua-2026/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/prosecco-dalzotto-.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Aste online, l’Italia guida l’Europa nel 2025: vino tra le categorie più scambiate",
-        "description": "L’Italia si conferma nel 2025 il principale mercato europeo delle aste online. Sono stati venduti quasi 750.000 lotti, con una crescita del 10% rispetto all’ann…",
-        "link": "https://www.winemag.it/aste-online-italia-guida-europa-nel-2025-vino-tra-le-categorie-piu-scambiate/",
-        "pubDate": "2026-03-26T10:46:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
