@@ -1,7 +1,34 @@
 {
-  "generated": "2026-03-28T19:46:14.283145+00:00",
+  "generated": "2026-03-29T08:02:32.124017+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "T-shirt + pantaloni eleganti: 5 idee dallo street style su come indossare la combo più furba di stagione",
+        "description": "Da un lato uno dei grandi must-have del guardaroba daily, dall’altro un pezzo indispensabile per creare look formali e raffinati adatti persino alle occasioni s…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-tshirt-e-pantaloni-eleganti-idee-street-style-abbinamenti-neri-bianca-cotone-sera-tacchi-primavera-962412",
+        "pubDate": "2026-03-29T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_T-shirt_pantaloni_Eleganti.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "SYNC by Aperol: il listening bar che ridisegna l’aperitivo a Milano",
+        "description": "Apre nel cuore di Milano, in Piazza Duomo, SYNC by Aperol Listening Bar &#38; Bistro. Il nuovo progetto firmato Aperol introduce in città una visione contempora…",
+        "link": "https://www.winemag.it/sync-by-aperol-il-listening-bar-che-ridisegna-laperitivo-a-milano/",
+        "pubDate": "2026-03-29T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Un ristorante di montagna e uno chef che ha scelto di cucinarla in modo radicale",
+        "description": "Sull’Altopiano di Asiago, da Lemelæ, lo chef Andrew Lunardi lavora con erbe spontanee, fermentazioni e cotture alla brace per restituire un’idea autentica di mo…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/un-ristorante-di-montagna-e-uno-chef-che-ha-scelto-di-cucinarla-in-modo-radicale/",
+        "pubDate": "2026-03-29T05:35:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Set tavolo e sedie IKEA in stile industriale: la soluzione per cucine moderne e piccoli spazi",
         "description": "Un equilibrio studiato tra legno massiccio, metallo e comfort quotidiano. Una proposta d’arredo pensata per chi cerca stile contemporaneo senza complicazioni.…",
@@ -154,36 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ecco un borgo dell’Irpinia candidato a borgo dei borghi 2026, una vera bellezza!",
-        "description": "Viaggio verso un borgo dell'Irpinia che è una vera bellezza, un luogo pieno di storia e tradizioni uniche…",
-        "link": "https://www.stylosophy.it/articolo/ecco-un-borgo-dellirpinia-candidato-a-borgo-dei-borghi-2026-una-vera-bellezza/249483/",
-        "pubDate": "2026-03-27T18:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Chi produce le colombe dei marchi del supermercato nel 2026",
-        "description": "Si chiamano private label e qualche volta ci fanno risparmiare, se non siamo affezionati ai packaging dei grandi marchi. Quali produttori ci sono dietro le colo…",
-        "link": "https://www.dissapore.com/spesa/chi-produce-le-colombe-dei-marchi-del-supermercato-nel-2026/",
-        "pubDate": "2026-03-27T16:21:31+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/colomba-sapori-e-dintorni-conad.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa significa davvero ospitalità? La risposta in un racconto",
-        "description": "Nel libro “99+1” il contributo di Marco Benatti: accogliere non è fare, ma saper vedere e fare spazio all’altro così com’è…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cosa-significa-ospitalita-risposta-racconto-libro/",
-        "pubDate": "2026-03-27T16:06:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "T-shirt + pantaloni eleganti: 5 idee dallo street style su come indossare la combo più furba di stagione",
+        "description": "Da un lato uno dei grandi must-have del guardaroba daily, dall’altro un pezzo indispensabile per creare look formali e raffinati adatti persino alle occasioni s…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-tshirt-e-pantaloni-eleganti-idee-street-style-abbinamenti-neri-bianca-cotone-sera-tacchi-primavera-962412",
+        "pubDate": "2026-03-29T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_T-shirt_pantaloni_Eleganti.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Set tavolo e sedie IKEA in stile industriale: la soluzione per cucine moderne e piccoli spazi",
         "description": "Un equilibrio studiato tra legno massiccio, metallo e comfort quotidiano. Una proposta d’arredo pensata per chi cerca stile contemporaneo senza complicazioni.…",
@@ -354,18 +363,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/chanel-backstage_DESK-ok.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Rosalìa e quei look del Lux Tour che sono già diventati iconici",
-        "description": "Dopo tanta attesa, ieri finalmente il Lux Tour di Rosalìa ha fatto tappa a Milano. Fan provenienti da tutta Italia si sono ritrovati sugli spalti dell’Unipol Fo…",
-        "link": "https://www.grazia.it/moda/celebrity-style/rosalia-lux-tour-look-milano-assago-concerto-anne-demeulemeester-berghain-962100",
-        "pubDate": "2026-03-26T10:34:54+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Rosalia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "SYNC by Aperol: il listening bar che ridisegna l’aperitivo a Milano",
+        "description": "Apre nel cuore di Milano, in Piazza Duomo, SYNC by Aperol Listening Bar &#38; Bistro. Il nuovo progetto firmato Aperol introduce in città una visione contempora…",
+        "link": "https://www.winemag.it/sync-by-aperol-il-listening-bar-che-ridisegna-laperitivo-a-milano/",
+        "pubDate": "2026-03-29T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Un ristorante di montagna e uno chef che ha scelto di cucinarla in modo radicale",
+        "description": "Sull’Altopiano di Asiago, da Lemelæ, lo chef Andrew Lunardi lavora con erbe spontanee, fermentazioni e cotture alla brace per restituire un’idea autentica di mo…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/un-ristorante-di-montagna-e-uno-chef-che-ha-scelto-di-cucinarla-in-modo-radicale/",
+        "pubDate": "2026-03-29T05:35:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Nestlé ha messo in vendita San Pellegrino e Acqua Panna",
         "description": "L'operazione varrà 5 miliardi di euro, e vedrà la multinazionale svizzera \"alleggerirsi\" anche del marchio Perrier.\nL'articolo Nestlé ha messo in vendita San Pe…",
@@ -502,15 +520,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "“Fotografano la carta dei vini e chiedono all’IA”: cosa sta cambiando nei ristoranti",
-        "description": "Negli Stati Uniti sempre più clienti usano ChatGPT per scegliere il vino: aiuta a decidere, ma non sostituisce il sommelier…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/fotografano-carta-vini-intelligenza-artificiale-sommelier/",
-        "pubDate": "2026-03-27T12:01:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cos’è il Fiore Sardo DOP e cosa cambia rispetto al Pecorino sardo",
         "description": "Storia, caratteristiche sensoriali e produzione del Fiore Sardo DOP, l'altro pecorino di Sardegna. Un formaggio che racconta molto della tradizione casearia del…",
         "link": "https://www.dissapore.com/cucina/cose-il-fiore-sardo-dop-e-cosa-cambia-rispetto-al-pecorino-sardo/",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/spesa/le-uova-di-cioccolato-da-comprare-per-pasqua-2026/",
         "pubDate": "2026-03-26T18:00:24+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Gobino.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Un grande albergatore e uno chef stellato uniscono le forze nelle Marche",
-        "description": "Errico Recanati, maestro stellato della brace di Andreina, e Guido Guidi di The Begin Hotels si sono uniti in una partnership che potrebbe portare nuove energie…",
-        "link": "https://www.dissapore.com/notizie/un-grande-albergatore-e-uno-chef-stellato-uniscono-le-forze-nelle-marche/",
-        "pubDate": "2026-03-26T16:47:27+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/2022_05_35355_12_TG345403_MG457153088.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
