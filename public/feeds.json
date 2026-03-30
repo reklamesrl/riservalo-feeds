@@ -1,7 +1,52 @@
 {
-  "generated": "2026-03-30T15:56:39.257767+00:00",
+  "generated": "2026-03-30T20:05:03.345013+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Dall’Abruzzo al Rodano: Chiara Pepe firmerà le prossime annate del leggendario Domaine de La Chapelle",
+        "description": "Chiara Pepe è la nuova responsabile della viticoltura e della vinificazione dell'iconica cantina boutique del Rodano, che produce alcuni dei vini più ricercati …",
+        "link": "https://www.gamberorosso.it/notizie/vino/chiara-pepe-domaine-de-la-chapelle/",
+        "pubDate": "2026-03-30T18:04:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vinitaly a Verona: dove mangiare la pastisada de caval, il piatto simbolo della città",
+        "description": "Dalle trattorie storiche alle versioni contemporanee, la pastisada de caval resta un classico veronese anche in primavera: ecco dove provarla durante il Vinital…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pastisada-de-caval-verona-vinitaly-2026/",
+        "pubDate": "2026-03-30T17:06:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Poche verifiche, minacce ai dipendenti e troppi silenzi”: cosa non è stato detto sul caso Noma",
+        "description": "Tra l’analisi della londinese Haut de Gamme e le testimonianze raccolte da Cook_inc, emergono nuove sfumature sul caso Noma e sul ruolo di chi ha denunciato i m…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/poche-verifiche-minacce-cosa-non-e-stato-detto-caso-noma/",
+        "pubDate": "2026-03-30T17:02:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questi borghi immersi nella natura sono la meta ideale per un weekend di primavera",
+        "description": "Ecco cinque borghi immersi nella natura che vale la pena scoprire durante questa primavera…",
+        "link": "https://www.stylosophy.it/articolo/questi-borghi-immersi-nella-natura-sono-la-meta-ideale-per-un-weekend-di-primavera/249574/",
+        "pubDate": "2026-03-30T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Le creme corpo alla Vaniglia per una Primavera super dolce",
+        "description": "Dolci, delicate e super profumate, queste 5 creme corpo alla vaniglia sono un must have della Primavera 2026. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/le-creme-corpo-alla-vaniglia-per-una-primavera-super-dolce/249630/",
+        "pubDate": "2026-03-30T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Che cosa sono mugnoli e chezzerièje, la pasta contadina abruzzese che si mangia fino a Pasqua",
         "description": "Un broccolo antichissimo e una pasta povera raccontano una storia di transumanza: dai tratturi pugliesi fino a Pettorano sul Gizio, tra orti, neve e ricette di …",
@@ -129,15 +174,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Carciofi alla romana e alla giudia perfetti con i consigli di una storica trattoria di Roma",
-        "description": "Dal Ghetto a Largo Argentina, i consigli di Checco er Carettiere: come pulire, cucinare e non sprecare nulla del carciofo, tra tradizione romana e memoria…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/carciofi-romana-giudia-checco-er-carettiere-ricette-ghetto/",
-        "pubDate": "2026-03-30T10:49:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Borse in pelle intrecciata: i modelli da colpo di fulmine immediato",
         "description": "Lo scorso anno hanno fanno ufficialmente il loro ritorno tra i grandi trend della bella stagione e a distanza di mesi poco o nulla è cambiato: le borse in pelle…",
         "link": "https://www.grazia.it/moda/tendenze-moda/borse-in-pelle-intrecciata-primavera-bottega-veneta-low-cost-tendenze-tote-bag-pochette-tracolla-donna-962716",
@@ -145,45 +181,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/COVER_Borse_pelle_intrecciata.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Cari produttori, non fate complimenti ai giovani giornalisti di vino",
-        "description": "C’è un momento, in certi ambienti professionali, in cui il tempo smette di essere solo un&#8217;unità di misura e diventa un problema. Non per chi avanza, ma pe…",
-        "link": "https://www.winemag.it/cari-produttori-non-fate-complimenti-ai-giovani-giornalisti-di-vino/",
-        "pubDate": "2026-03-30T09:51:36+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bar Giorgio: ora Rivergaro ha un “bar di paese” con un senso gastronomico",
-        "description": "Il nuovo Bar Giorgio di Rivergaro ha tutte le carte per dimostrare che un bar di paese può essere laboratorio gastronomico e far convivere vecchio e nuovo. Ecco…",
-        "link": "https://www.dissapore.com/notizie/bar-giorgio-ora-rivergaro-ha-un-bar-di-paese-con-un-senso-gastronomico/",
-        "pubDate": "2026-03-30T09:01:45+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/IMG_7205-scaled-e1774859831897.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Che cos’è la stranissima zuppa di varano, il brodo piccante fatto con un rettile",
-        "description": "Tutt’altro che una trovata televisiva. La sop biawak è un piatto cerimoniale con radici induiste, credenze afrodisiache e un ecosistema che inizia a pagarne il …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/zuppa-varano-brodo-piccante-bali/",
-        "pubDate": "2026-03-30T07:12:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Hanno rubato un camion di KitKat e Nestlé ci ride su",
-        "description": "L'edizione speciale per la Formula1 rischia di non essere disponibile in molti supermercati europei, e l'azienda prova a salvare il salvabile.\nL'articolo Hanno …",
-        "link": "https://www.dissapore.com/notizie/hanno-rubato-un-camion-di-kitkat-e-nestle-ci-ride-su/",
-        "pubDate": "2026-03-30T06:52:20+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Questi borghi immersi nella natura sono la meta ideale per un weekend di primavera",
+        "description": "Ecco cinque borghi immersi nella natura che vale la pena scoprire durante questa primavera…",
+        "link": "https://www.stylosophy.it/articolo/questi-borghi-immersi-nella-natura-sono-la-meta-ideale-per-un-weekend-di-primavera/249574/",
+        "pubDate": "2026-03-30T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Le creme corpo alla Vaniglia per una Primavera super dolce",
+        "description": "Dolci, delicate e super profumate, queste 5 creme corpo alla vaniglia sono un must have della Primavera 2026. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/le-creme-corpo-alla-vaniglia-per-una-primavera-super-dolce/249630/",
+        "pubDate": "2026-03-30T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Cos’è il “privilegio del bianco” sfoderato dalla Principessa Charlene di Monaco e sua figlia Gabriella",
         "description": "Sabato 28 marzo Papa Leone XIV era in visita ufficiale nel Principato di Monaco e, ad accoglierlo,  ovviamente c&#8217;erano la famiglia Ranieri al completo: il…",
@@ -311,24 +329,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "5 Borghi in mezzo alla natura per weekend Primaverili indimenticabili",
-        "description": "Ecco 5 borghi in mezzo alla natura dove trascorrere fine settimana di Primavera davvero unici. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-borghi-in-mezzo-alla-natura-per-weekend-primaverili-indimenticabili/249579/",
-        "pubDate": "2026-03-28T11:33:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Questo set coordinato firmato H&M è la nostra ultima fashion obsession!",
-        "description": "Il set coordinato di H&#038;M occuperà un posto d'onore nel guardaroba della Primavera Estate 2026…",
-        "link": "https://www.stylosophy.it/articolo/questo-set-coordinato-firmato-hm-e-la-nostra-ultima-fashion-obsession/249540/",
-        "pubDate": "2026-03-28T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Zendaya e i tre look, ispirati alla tradizione portafortuna delle spose, sfoggiati durante la promozione del film “The Drama”",
         "description": "&#8220;Qualcosa di vecchio, qualcosa di nuovo, qualcosa di prestato, qualcosa di blu&#8220;: è l’antica tradizione seguita dalle spose il giorno del matrimonio …",
         "link": "https://www.grazia.it/moda/celebrity-style/zendaya-film-the-drama-robert-pattinson-premiere-look-red-carpet-sposa-matrimonio-tom-holland-los-angeles-parigi-roma-962595",
@@ -366,6 +366,33 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Dall’Abruzzo al Rodano: Chiara Pepe firmerà le prossime annate del leggendario Domaine de La Chapelle",
+        "description": "Chiara Pepe è la nuova responsabile della viticoltura e della vinificazione dell'iconica cantina boutique del Rodano, che produce alcuni dei vini più ricercati …",
+        "link": "https://www.gamberorosso.it/notizie/vino/chiara-pepe-domaine-de-la-chapelle/",
+        "pubDate": "2026-03-30T18:04:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vinitaly a Verona: dove mangiare la pastisada de caval, il piatto simbolo della città",
+        "description": "Dalle trattorie storiche alle versioni contemporanee, la pastisada de caval resta un classico veronese anche in primavera: ecco dove provarla durante il Vinital…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pastisada-de-caval-verona-vinitaly-2026/",
+        "pubDate": "2026-03-30T17:06:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Poche verifiche, minacce ai dipendenti e troppi silenzi”: cosa non è stato detto sul caso Noma",
+        "description": "Tra l’analisi della londinese Haut de Gamme e le testimonianze raccolte da Cook_inc, emergono nuove sfumature sul caso Noma e sul ruolo di chi ha denunciato i m…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/poche-verifiche-minacce-cosa-non-e-stato-detto-caso-noma/",
+        "pubDate": "2026-03-30T17:02:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Che cosa sono mugnoli e chezzerièje, la pasta contadina abruzzese che si mangia fino a Pasqua",
         "description": "Un broccolo antichissimo e una pasta povera raccontano una storia di transumanza: dai tratturi pugliesi fino a Pettorano sul Gizio, tra orti, neve e ricette di …",
@@ -457,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Carciofi alla romana e alla giudia perfetti con i consigli di una storica trattoria di Roma",
-        "description": "Dal Ghetto a Largo Argentina, i consigli di Checco er Carettiere: come pulire, cucinare e non sprecare nulla del carciofo, tra tradizione romana e memoria…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/carciofi-romana-giudia-checco-er-carettiere-ricette-ghetto/",
-        "pubDate": "2026-03-30T10:49:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cari produttori, non fate complimenti ai giovani giornalisti di vino",
         "description": "C’è un momento, in certi ambienti professionali, in cui il tempo smette di essere solo un&#8217;unità di misura e diventa un problema. Non per chi avanza, ma pe…",
         "link": "https://www.winemag.it/cari-produttori-non-fate-complimenti-ai-giovani-giornalisti-di-vino/",
@@ -482,15 +500,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/IMG_7205-scaled-e1774859831897.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Che cos’è la stranissima zuppa di varano, il brodo piccante fatto con un rettile",
-        "description": "Tutt’altro che una trovata televisiva. La sop biawak è un piatto cerimoniale con radici induiste, credenze afrodisiache e un ecosistema che inizia a pagarne il …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/zuppa-varano-brodo-piccante-bali/",
-        "pubDate": "2026-03-30T07:12:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Hanno rubato un camion di KitKat e Nestlé ci ride su",
@@ -518,15 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/campo-di-basilico-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "La storica salumeria romana che non si è mai piegata alle mode",
-        "description": "Dal 1982 un punto di riferimento per salumi e formaggi d’eccellenza: oltre 400 referenze e una filosofia che rifiuta la standardizzazione…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storica-salumeria-la-tradizione-roma/",
-        "pubDate": "2026-03-29T09:56:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "SYNC by Aperol: il listening bar che ridisegna l’aperitivo a Milano",
