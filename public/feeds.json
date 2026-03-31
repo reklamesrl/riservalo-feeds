@@ -1,7 +1,151 @@
 {
-  "generated": "2026-03-31T09:46:05.378316+00:00",
+  "generated": "2026-03-31T15:53:47.421231+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A Roma apre un ristorante con bottega dedicato a gamberi rossi, scampi e caviale",
+        "description": "Un menu minimale in cui si sceglie tra gamberi rossi di Mazara del Vallo o scampi che arrivano dai pescherecci di proprietà: un nuovo format valorizza al massim…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-ristorante-bottega-gamberi-rossi-scampi-caviale/",
+        "pubDate": "2026-03-31T15:30:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come scegliere il Tappeto ideale per il tuo living: forma, materiali e stile",
+        "description": "Il tappeto diventa il protagonista del soggiorno moderno, basta scegliere le giuste proporzioni, i materiali e i colori più adatti.…",
+        "link": "https://www.stylosophy.it/articolo/tappeto-living-contemporaneo-come-scegliere-forma-stile-e-proporzioni/241390/",
+        "pubDate": "2026-03-31T14:35:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Ferran Adrià firma la cucina del Mirazur di Mauro Colagreco fino al 17 maggio",
+        "description": "Per i vent'anni del suo ristorante, uno degli chef più famosi del mondo ha lasciato le redini a un collega: il nuovo menu che Mauro Colagreco e Ferran Adrià han…",
+        "link": "https://www.dissapore.com/notizie/ferran-adria-firma-la-cucina-del-mirazur-di-mauro-colagreco-fino-al-17-maggio/",
+        "pubDate": "2026-03-31T13:57:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/26-02-MIRAZUR-20-ANS-MCxFA-Table-travail-%C2%A9-Matteo-Carassale-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Orcia Wine Festival 2026: tre giorni tra vino, cultura e territorio in Val d’Orcia",
+        "description": "Dal 24 al 26 aprile torna l’Orcia Wine Festival, giunto alla quindicesima edizione. L’evento si svolgerà a San Quirico d’Orcia, nel cuore della Val d’Orcia, con…",
+        "link": "https://www.winemag.it/orcia-wine-festival-2026-tre-giorni-tra-vino-cultura-e-territorio-in-val-dorcia/",
+        "pubDate": "2026-03-31T13:36:02+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La vedova torinese e la fabbrica di cioccolato che hanno inventato l’uovo di Pasqua",
+        "description": "Dalle prime uova riempite a mano in una bottega torinese ai gusci modellati nelle fabbriche: la storia del simbolo della Pasqua tra tradizione e innovazione…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chi-inventa-uova-cioccolato-pasqua-casa-sartorio-giambone/",
+        "pubDate": "2026-03-31T13:30:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Calzedonia presenta il collant che si crede un “correttore” make up (ed è diventato virale!)",
+        "description": "Arriva la primavera a con lei la voglia di scoprire finalmente le gambe! Ma spesso, dopo in lunghi mesi invernali, non sono ancora al loro &#8220;top&#8221;, le…",
+        "link": "https://www.grazia.it/moda/news-moda/calzedonia-collant-virale-invisible-make-up-effect-gambe-perfette-963100",
+        "pubDate": "2026-03-31T13:30:17+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/calzedonia-leg-perfector.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Coratella con carciofi, la ricetta romana di Pasqua: come prepararla passo dopo passo",
+        "description": "Un classico della tradizione romana protagonista della Pasqua: ingredienti, passaggi e consigli per preparare la coratella con i carciofi…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/ricetta-coratella-con-carciofi-piatto-romano-pasqua/",
+        "pubDate": "2026-03-31T12:56:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Nessun furto, bollette sempre pagate”. La pasticceria Cavalletti si difende dopo il blitz dei carabinieri",
+        "description": "Contestati furto di energia per 360mila euro, carenze igieniche e irregolarità sul lavoro. La proprietà affida ai legali la verifica dei consumi per poter conte…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cavalletti-blitz-parioli-difesa-furto-energia/",
+        "pubDate": "2026-03-31T12:42:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Belen Rodriguez lancia una nuova capsule collection Me Fui x Rebeya",
+        "description": "Belen Rodriguez lancia una capsule collection con i suoi due brand Me Fui e Rebeya: ecco di cosa si tratta.…",
+        "link": "https://www.stylosophy.it/articolo/belen-rodriguez-lancia-una-nuova-capsule-collection-me-fui-x-rebeya/249641/",
+        "pubDate": "2026-03-31T12:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "A Roma c’è un forno dove tutti fanno la fila per le lingue di pizza rossa",
+        "description": "Nel quartiere Montagnola, tra Eur e Ardeatina, un piccolo panificio di quartiere tiene insieme persone, attese e abitudini: tutto per una lingua di pizza rossa …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/roma-panificio-nebbia-lingua-pizza-rossa/",
+        "pubDate": "2026-03-31T11:12:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La famiglia Marzotto acquisisce i vigneti di Domaine Lumineux, tenuta fondata da Francis Ford Coppola",
+        "description": "Si tratta del quarto investimento nella Willamette Valley attraverso la società americana Roco Winery : in dote arrivano 24 ettari di terreno di cui 16,6 vitati…",
+        "link": "https://www.gamberorosso.it/notizie/vino/oregon-herita-marzotto-acquisizione-vigneti-domaine-lumineux-tenuta-fondata-da-francis-ford-coppola/",
+        "pubDate": "2026-03-31T11:08:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Colomba Balocco classica: Prova d’assaggio",
+        "description": "La nostra recensione della colomba classica Balocco: prova d'assaggio, prezzo, lista ingredienti e degustazione.\nL'articolo Colomba Balocco classica: Prova d&#8…",
+        "link": "https://www.dissapore.com/spesa/colomba-balocco-classica-recensione-2026/",
+        "pubDate": "2026-03-31T10:58:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/colomba-balocco-ricetta-classica-2026-6.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Viale dei Cipressi di Bolgheri minacciato da un progetto eolico. L’allarme dei produttori di vino",
+        "description": "Si teme per l'impatto paesaggistico del parco offshore flottante nel Mar Ligure. Lettera della presidente del Consorzio Merli al ministro dell'Ambiente Pichetto…",
+        "link": "https://www.gamberorosso.it/notizie/vino/viale-cipressi-bolgheri-progetto-eolico-allarme-consorzio/",
+        "pubDate": "2026-03-31T10:38:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Il Prosecco va difeso: paradossale accettare l’accordo con l’Australia”. L’appello di Sandro Bottega",
+        "description": "Il produttore veneto di bollicine critica duramente l'accordo di libero scambio che permetterebbe agli australiani di continuare a produrre Prosecco aussie: \"Pr…",
+        "link": "https://www.gamberorosso.it/notizie/vino/prosecco-sandro-bottega-contro-accordo-europa-australia/",
+        "pubDate": "2026-03-31T10:15:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Il Diavolo veste Prada 2”: i look di Anne Hathaway e Meryl Streep durante la promozione del film in Messico",
+        "description": "Il tour promozionale de “Il Diavolo veste Prada 2” è ufficialmente iniziato è questo significa solo una cosa: l’attesa è praticamente finita e ormai manca pochi…",
+        "link": "https://www.grazia.it/moda/celebrity-style/il-diavolo-veste-prada-2-tour-promozionale-anne-hathaway-meryl-streep-sequel-uscita-red-carpet-look-miranda-priestley-andy-sachs-962971",
+        "pubDate": "2026-03-31T10:13:52+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/EVI_Diavolo_Veste_Prada_2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Capelli: qui i sieri anticaduta per una chioma folta e sana!",
+        "description": "I migliori sieri anticaduta per capelli visibilmente più forti e sani. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/capelli-qui-i-sieri-anticaduta-per-una-chioma-folta-e-sana/249645/",
+        "pubDate": "2026-03-31T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Cosa non piace all’Australia del nuovo accordo con l’UE",
         "description": "Il 98% dei dazi è stato eliminato, ma per alcuni settori dell'agroalimentare australiano, l'accordo commerciale con l'UE potrebbe essere un problema.\nL'articolo…",
@@ -21,6 +165,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Fuori le gambe! Ecco i vestiti corti da indossare per tutta la bella stagione",
+        "description": "Con l’arrivo della primavera, cresce la voglia di alleggerire il guardaroba e riscoprire capi versatili, facili da stratificare e perfetti da indossare già ades…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/vestiti-corti-eleganti-maniche-lunghe-zara-mini-dress-primavera-2026-modelli-962604",
+        "pubDate": "2026-03-31T08:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOp_minidress.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Quali scarpe indossare con la gonna? 5 combo da provare questa primavera",
         "description": "Spring is in the air! E se c’è un capo che più di tutti riesce a incarnare lo spirito della primavera, quello è senza dubbio la gonna. Lunga, midi o corta, plis…",
         "link": "https://www.grazia.it/moda/tendenze-moda/quali-scarpe-indossare-con-la-gonna-lunga-midi-corta-outfit-con-gonne-primavera-962646",
@@ -28,162 +181,54 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_mix_match_scarpe_gonne.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Anteprima Kalterersee 2026: beva e longevità della Schiava di Caldaro",
-        "description": "Schiava, femminile plurale. Vietato immaginare pochi, singoli dettagli sulla carta di identità della Schiava di Caldaro. Lo dice l&#8217;Anteprima Kalterersee 2…",
-        "link": "https://www.winemag.it/anteprima-kalterersee-2026-beva-e-longevita-della-schiava-di-caldaro-2025/",
-        "pubDate": "2026-03-30T22:20:11+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Anteprima-Kalterersee-beva-e-longevita-della-Schiava-di-Caldaro-2-scaled.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dall’Abruzzo al Rodano: Chiara Pepe firmerà le prossime annate del leggendario Domaine de La Chapelle",
-        "description": "Chiara Pepe è la nuova responsabile della viticoltura e della vinificazione dell'iconica cantina boutique del Rodano, che produce alcuni dei vini più ricercati …",
-        "link": "https://www.gamberorosso.it/notizie/vino/chiara-pepe-domaine-de-la-chapelle/",
-        "pubDate": "2026-03-30T18:04:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vinitaly a Verona: dove mangiare la pastisada de caval, il piatto simbolo della città",
-        "description": "Dalle trattorie storiche alle versioni contemporanee, la pastisada de caval resta un classico veronese anche in primavera: ecco dove provarla durante il Vinital…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pastisada-de-caval-verona-vinitaly-2026/",
-        "pubDate": "2026-03-30T17:06:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Poche verifiche, minacce ai dipendenti e troppi silenzi”: cosa non è stato detto sul caso Noma",
-        "description": "Tra l’analisi della londinese Haut de Gamme e le testimonianze raccolte da Cook_inc, emergono nuove sfumature sul caso Noma e sul ruolo di chi ha denunciato i m…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/poche-verifiche-minacce-cosa-non-e-stato-detto-caso-noma/",
-        "pubDate": "2026-03-30T17:02:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questi borghi immersi nella natura sono la meta ideale per un weekend di primavera",
-        "description": "Ecco cinque borghi immersi nella natura che vale la pena scoprire durante questa primavera…",
-        "link": "https://www.stylosophy.it/articolo/questi-borghi-immersi-nella-natura-sono-la-meta-ideale-per-un-weekend-di-primavera/249574/",
-        "pubDate": "2026-03-30T17:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Le creme corpo alla Vaniglia per una Primavera super dolce",
-        "description": "Dolci, delicate e super profumate, queste 5 creme corpo alla vaniglia sono un must have della Primavera 2026. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/le-creme-corpo-alla-vaniglia-per-una-primavera-super-dolce/249630/",
-        "pubDate": "2026-03-30T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Che cosa sono mugnoli e chezzerièje, la pasta contadina abruzzese che si mangia fino a Pasqua",
-        "description": "Un broccolo antichissimo e una pasta povera raccontano una storia di transumanza: dai tratturi pugliesi fino a Pettorano sul Gizio, tra orti, neve e ricette di …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mugnoli-chezzerieje-pasta-contadina-abruzzese-pasqua/",
-        "pubDate": "2026-03-30T14:48:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un cammino tra miniere, vino e tonno nel sud-ovest della Sardegna: cosa vedere (e mangiare) nel Sulcis",
-        "description": "Dal Cammino Minerario di Santa Barbara alle tonnare di Carloforte, passando per il Carignano del Sulcis: un viaggio tra paesaggi segnati dal lavoro e una nuova …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/cammino-miniere-vino-tonno-sardegna-cosa-vedere-mangiare-sulcis/",
-        "pubDate": "2026-03-30T14:46:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Una serie Netflix coreana sta facendo triplicare le prenotazioni nei ristoranti dei concorrenti",
-        "description": "Il successo di Culinary Class Wars si riflette anche sulla ristorazione, ma il turismo gastronomico è in crescita in tutta l'Asia.\nL'articolo Una serie Netflix …",
-        "link": "https://www.dissapore.com/notizie/una-serie-netflix-coreana-sta-facendo-triplicare-le-prenotazioni-nei-ristoranti-dei-concorrenti/",
-        "pubDate": "2026-03-30T14:23:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/AAAABdvW4aVTtmvNBShuW5iB2VlJwXLm-353yfiuB3I9RkbUTo86Uh9evV7i-1hieFjFCeieqvwPoKr5YiZlyjB5m-_PX8jc_OEScbkK.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cos’è il “privilegio del bianco” sfoderato dalla Principessa Charlene di Monaco e sua figlia Gabriella",
-        "description": "Sabato 28 marzo Papa Leone XIV era in visita ufficiale nel Principato di Monaco e, ad accoglierlo,  ovviamente c&#8217;erano la famiglia Ranieri al completo: il…",
-        "link": "https://www.grazia.it/moda/celebrity-style/privilegio-del-bianco-cos-e-principessa-charlene-monaco-gabriella-papa-leone-xiv-962851",
-        "pubDate": "2026-03-30T14:11:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/charlene-gabriella-monaco.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Valentino Eyewear accende New York: il debutto della collezione SS26",
-        "description": "Il 25 marzo, il The Shed di New York si è trasformato nel palcoscenico di uno dei debutti più attesi della stagione: la presentazione della collezione Valentino…",
-        "link": "https://www.grazia.it/moda/news-moda/valentino-eyewear-ss26-new-york-kering-962491",
-        "pubDate": "2026-03-30T14:00:02+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/ok-evidenza-5.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Poltrone IKEA: design, comfort e colori di tendenza per la Primavera 2026",
-        "description": "Linee morbide, tessuti pratici e nuance sorprendenti: le poltrone diventano protagoniste della stagione. Scopri perché stanno conquistando ogni ambiente.…",
-        "link": "https://www.stylosophy.it/articolo/poltrone-ikea-design-comfort-e-colori-di-tendenza-per-la-primavera-2026/249624/",
-        "pubDate": "2026-03-30T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Vai a Vinitaly? Ecco cos’è il risino veronese e dove mangiarlo a Verona",
-        "description": "Durante Vinitaly, tra degustazioni e stand, vale la pena fermarsi per un risino: il dolce tipico veronese con frolla e crema di riso, da provare nelle migliori …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-risini-verona-dolce-tipico/",
-        "pubDate": "2026-03-30T13:48:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“A 50 anni ho cambiato vita: ho lasciato la pittura per i dolci”",
-        "description": "Dal lockdown nella cucina di casa a una community da oltre 200mila persone: la storia di Althea, tra dolci, social e una seconda vita costruita da zero…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/50-anni-cambio-vita-pittrice-dolci-social/",
-        "pubDate": "2026-03-30T12:57:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Derthona Due.Zero: da “anteprima” a manifesto dei Colli Tortonesi",
-        "description": "Quando il punto fermo è l&#8217;identità, le interpretazioni stilistiche sono dettagli dello stesso quadro. E il lavoro di squadra emerge su tutto, in maniera n…",
-        "link": "https://www.winemag.it/derthona-due-zero-da-anteprima-timorasso-a-manifesto-dei-colli-tortonesi/",
-        "pubDate": "2026-03-30T12:07:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Elettra Lamborghini, pura visione a Canzonissima con questo meraviglioso abito a sirena con giochi di luce e riflessi scintillanti",
-        "description": "Elettra Lamborghini, per la seconda puntata di Canzonissima, ha sfoggiato un meraviglioso abito a sirena con giochi di luce e riflessi scintillanti.…",
-        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-pura-visione-a-canzonissima-con-questo-meraviglioso-abito-a-sirena-con-giochi-di-luce-e-riflessi-scintillanti/249618/",
-        "pubDate": "2026-03-30T12:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La città dove esistono decine di banane diverse (e nessuna è davvero uguale)",
-        "description": "A Lumajang, ai piedi del vulcano Monte Semeru, la banana è una cultura: decine di varietà, usi diversi e una filiera che sostiene intere comunità…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/citta-decine-banane-vulcano-indonesia/",
-        "pubDate": "2026-03-30T11:13:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Come scegliere il Tappeto ideale per il tuo living: forma, materiali e stile",
+        "description": "Il tappeto diventa il protagonista del soggiorno moderno, basta scegliere le giuste proporzioni, i materiali e i colori più adatti.…",
+        "link": "https://www.stylosophy.it/articolo/tappeto-living-contemporaneo-come-scegliere-forma-stile-e-proporzioni/241390/",
+        "pubDate": "2026-03-31T14:35:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Calzedonia presenta il collant che si crede un “correttore” make up (ed è diventato virale!)",
+        "description": "Arriva la primavera a con lei la voglia di scoprire finalmente le gambe! Ma spesso, dopo in lunghi mesi invernali, non sono ancora al loro &#8220;top&#8221;, le…",
+        "link": "https://www.grazia.it/moda/news-moda/calzedonia-collant-virale-invisible-make-up-effect-gambe-perfette-963100",
+        "pubDate": "2026-03-31T13:30:17+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/calzedonia-leg-perfector.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Belen Rodriguez lancia una nuova capsule collection Me Fui x Rebeya",
+        "description": "Belen Rodriguez lancia una capsule collection con i suoi due brand Me Fui e Rebeya: ecco di cosa si tratta.…",
+        "link": "https://www.stylosophy.it/articolo/belen-rodriguez-lancia-una-nuova-capsule-collection-me-fui-x-rebeya/249641/",
+        "pubDate": "2026-03-31T12:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“Il Diavolo veste Prada 2”: i look di Anne Hathaway e Meryl Streep durante la promozione del film in Messico",
+        "description": "Il tour promozionale de “Il Diavolo veste Prada 2” è ufficialmente iniziato è questo significa solo una cosa: l’attesa è praticamente finita e ormai manca pochi…",
+        "link": "https://www.grazia.it/moda/celebrity-style/il-diavolo-veste-prada-2-tour-promozionale-anne-hathaway-meryl-streep-sequel-uscita-red-carpet-look-miranda-priestley-andy-sachs-962971",
+        "pubDate": "2026-03-31T10:13:52+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/EVI_Diavolo_Veste_Prada_2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Capelli: qui i sieri anticaduta per una chioma folta e sana!",
+        "description": "I migliori sieri anticaduta per capelli visibilmente più forti e sani. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/capelli-qui-i-sieri-anticaduta-per-una-chioma-folta-e-sana/249645/",
+        "pubDate": "2026-03-31T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Occhiali da sole: i modelli perfetti per la primavera/estate 2026",
         "description": "Gli occhiali da sole da sfoggiare questa Primavera? Ecco qui i modelli più IN...…",
@@ -192,6 +237,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Fuori le gambe! Ecco i vestiti corti da indossare per tutta la bella stagione",
+        "description": "Con l’arrivo della primavera, cresce la voglia di alleggerire il guardaroba e riscoprire capi versatili, facili da stratificare e perfetti da indossare già ades…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/vestiti-corti-eleganti-maniche-lunghe-zara-mini-dress-primavera-2026-modelli-962604",
+        "pubDate": "2026-03-31T08:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOp_minidress.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Quali scarpe indossare con la gonna? 5 combo da provare questa primavera",
@@ -302,24 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Un borgo del Molise con vista mozzafiato sul Lago del Liscione",
-        "description": "Questo borgo del Molise è una gemma tutta da scoprire, il perfetto mix tra tradizioni, arte e natura. Scopriamolo insieme...…",
-        "link": "https://www.stylosophy.it/articolo/un-borgo-del-molise-con-vista-mozzafiato-sul-lago-del-liscione/249604/",
-        "pubDate": "2026-03-29T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Zara e Willy Chavarria insieme per una collaborazione che vi lascerà a bocca aperta!",
-        "description": "Qui i pezzi più interessanti della nuova e potente capsule di Zara in collaborazione con Willy Chavarria…",
-        "link": "https://www.stylosophy.it/articolo/zara-e-willy-chavarria-insieme-per-una-collaborazione-che-vi-lascera-a-bocca-aperta/249498/",
-        "pubDate": "2026-03-29T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "T-shirt + pantaloni eleganti: 5 idee dallo street style su come indossare la combo più furba di stagione",
         "description": "Da un lato uno dei grandi must-have del guardaroba daily, dall’altro un pezzo indispensabile per creare look formali e raffinati adatti persino alle occasioni s…",
         "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-tshirt-e-pantaloni-eleganti-idee-street-style-abbinamenti-neri-bianca-cotone-sera-tacchi-primavera-962412",
@@ -327,45 +363,108 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/COVER_T-shirt_pantaloni_Eleganti.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Set tavolo e sedie IKEA in stile industriale: la soluzione per cucine moderne e piccoli spazi",
-        "description": "Un equilibrio studiato tra legno massiccio, metallo e comfort quotidiano. Una proposta d’arredo pensata per chi cerca stile contemporaneo senza complicazioni.…",
-        "link": "https://www.stylosophy.it/articolo/tavolo-e-sedie-ikea-in-stile-industriale-la-soluzione-per-piccoli-spazi/249594/",
-        "pubDate": "2026-03-28T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Zendaya e i tre look, ispirati alla tradizione portafortuna delle spose, sfoggiati durante la promozione del film “The Drama”",
-        "description": "&#8220;Qualcosa di vecchio, qualcosa di nuovo, qualcosa di prestato, qualcosa di blu&#8220;: è l’antica tradizione seguita dalle spose il giorno del matrimonio …",
-        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-film-the-drama-robert-pattinson-premiere-look-red-carpet-sposa-matrimonio-tom-holland-los-angeles-parigi-roma-962595",
-        "pubDate": "2026-03-28T07:40:47+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/Cover_Zendaya_The_Bride.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Tornano i jeans a zampa: i modelli in stile seventies sui cui puntare per la primavera 2026",
-        "description": "I jeans sono il passe-partout capace di salvare i nostri look in ogni stagione. In autunno-inverno sono l&#8217;alternativa a pantaloni sartoriali e in velluto,…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-a-zampa-d-elefante-modelli-flare-denim-stile-anni-70-modelli-primavera-2026-962180",
-        "pubDate": "2026-03-28T07:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_jeans_zampa.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Itinera”: la prima borsa iconica di Peserico che unisce funzionalità ed eleganza senza tempo",
-        "description": "La vita quotidiana è scandita da appuntamenti, scadenze e ritmi sempre più serrati e riuscire a mantenere il passo tra un impegno e l’altro senza rinunciare all…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/itinera-peserico-borsa-iconica-due-dimensioni-pelle-961275",
-        "pubDate": "2026-03-27T15:25:33+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_peserico.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "A Roma apre un ristorante con bottega dedicato a gamberi rossi, scampi e caviale",
+        "description": "Un menu minimale in cui si sceglie tra gamberi rossi di Mazara del Vallo o scampi che arrivano dai pescherecci di proprietà: un nuovo format valorizza al massim…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-ristorante-bottega-gamberi-rossi-scampi-caviale/",
+        "pubDate": "2026-03-31T15:30:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ferran Adrià firma la cucina del Mirazur di Mauro Colagreco fino al 17 maggio",
+        "description": "Per i vent'anni del suo ristorante, uno degli chef più famosi del mondo ha lasciato le redini a un collega: il nuovo menu che Mauro Colagreco e Ferran Adrià han…",
+        "link": "https://www.dissapore.com/notizie/ferran-adria-firma-la-cucina-del-mirazur-di-mauro-colagreco-fino-al-17-maggio/",
+        "pubDate": "2026-03-31T13:57:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/26-02-MIRAZUR-20-ANS-MCxFA-Table-travail-%C2%A9-Matteo-Carassale-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Orcia Wine Festival 2026: tre giorni tra vino, cultura e territorio in Val d’Orcia",
+        "description": "Dal 24 al 26 aprile torna l’Orcia Wine Festival, giunto alla quindicesima edizione. L’evento si svolgerà a San Quirico d’Orcia, nel cuore della Val d’Orcia, con…",
+        "link": "https://www.winemag.it/orcia-wine-festival-2026-tre-giorni-tra-vino-cultura-e-territorio-in-val-dorcia/",
+        "pubDate": "2026-03-31T13:36:02+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La vedova torinese e la fabbrica di cioccolato che hanno inventato l’uovo di Pasqua",
+        "description": "Dalle prime uova riempite a mano in una bottega torinese ai gusci modellati nelle fabbriche: la storia del simbolo della Pasqua tra tradizione e innovazione…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chi-inventa-uova-cioccolato-pasqua-casa-sartorio-giambone/",
+        "pubDate": "2026-03-31T13:30:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Coratella con carciofi, la ricetta romana di Pasqua: come prepararla passo dopo passo",
+        "description": "Un classico della tradizione romana protagonista della Pasqua: ingredienti, passaggi e consigli per preparare la coratella con i carciofi…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/ricetta-coratella-con-carciofi-piatto-romano-pasqua/",
+        "pubDate": "2026-03-31T12:56:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Nessun furto, bollette sempre pagate”. La pasticceria Cavalletti si difende dopo il blitz dei carabinieri",
+        "description": "Contestati furto di energia per 360mila euro, carenze igieniche e irregolarità sul lavoro. La proprietà affida ai legali la verifica dei consumi per poter conte…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cavalletti-blitz-parioli-difesa-furto-energia/",
+        "pubDate": "2026-03-31T12:42:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma c’è un forno dove tutti fanno la fila per le lingue di pizza rossa",
+        "description": "Nel quartiere Montagnola, tra Eur e Ardeatina, un piccolo panificio di quartiere tiene insieme persone, attese e abitudini: tutto per una lingua di pizza rossa …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/roma-panificio-nebbia-lingua-pizza-rossa/",
+        "pubDate": "2026-03-31T11:12:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La famiglia Marzotto acquisisce i vigneti di Domaine Lumineux, tenuta fondata da Francis Ford Coppola",
+        "description": "Si tratta del quarto investimento nella Willamette Valley attraverso la società americana Roco Winery : in dote arrivano 24 ettari di terreno di cui 16,6 vitati…",
+        "link": "https://www.gamberorosso.it/notizie/vino/oregon-herita-marzotto-acquisizione-vigneti-domaine-lumineux-tenuta-fondata-da-francis-ford-coppola/",
+        "pubDate": "2026-03-31T11:08:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Colomba Balocco classica: Prova d’assaggio",
+        "description": "La nostra recensione della colomba classica Balocco: prova d'assaggio, prezzo, lista ingredienti e degustazione.\nL'articolo Colomba Balocco classica: Prova d&#8…",
+        "link": "https://www.dissapore.com/spesa/colomba-balocco-classica-recensione-2026/",
+        "pubDate": "2026-03-31T10:58:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/colomba-balocco-ricetta-classica-2026-6.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Viale dei Cipressi di Bolgheri minacciato da un progetto eolico. L’allarme dei produttori di vino",
+        "description": "Si teme per l'impatto paesaggistico del parco offshore flottante nel Mar Ligure. Lettera della presidente del Consorzio Merli al ministro dell'Ambiente Pichetto…",
+        "link": "https://www.gamberorosso.it/notizie/vino/viale-cipressi-bolgheri-progetto-eolico-allarme-consorzio/",
+        "pubDate": "2026-03-31T10:38:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Il Prosecco va difeso: paradossale accettare l’accordo con l’Australia”. L’appello di Sandro Bottega",
+        "description": "Il produttore veneto di bollicine critica duramente l'accordo di libero scambio che permetterebbe agli australiani di continuare a produrre Prosecco aussie: \"Pr…",
+        "link": "https://www.gamberorosso.it/notizie/vino/prosecco-sandro-bottega-contro-accordo-europa-australia/",
+        "pubDate": "2026-03-31T10:15:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Cosa non piace all’Australia del nuovo accordo con l’UE",
         "description": "Il 98% dei dazi è stato eliminato, ma per alcuni settori dell'agroalimentare australiano, l'accordo commerciale con l'UE potrebbe essere un problema.\nL'articolo…",
@@ -403,33 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Poche verifiche, minacce ai dipendenti e troppi silenzi”: cosa non è stato detto sul caso Noma",
-        "description": "Tra l’analisi della londinese Haut de Gamme e le testimonianze raccolte da Cook_inc, emergono nuove sfumature sul caso Noma e sul ruolo di chi ha denunciato i m…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/poche-verifiche-minacce-cosa-non-e-stato-detto-caso-noma/",
-        "pubDate": "2026-03-30T17:02:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cosa sono mugnoli e chezzerièje, la pasta contadina abruzzese che si mangia fino a Pasqua",
-        "description": "Un broccolo antichissimo e una pasta povera raccontano una storia di transumanza: dai tratturi pugliesi fino a Pettorano sul Gizio, tra orti, neve e ricette di …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mugnoli-chezzerieje-pasta-contadina-abruzzese-pasqua/",
-        "pubDate": "2026-03-30T14:48:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un cammino tra miniere, vino e tonno nel sud-ovest della Sardegna: cosa vedere (e mangiare) nel Sulcis",
-        "description": "Dal Cammino Minerario di Santa Barbara alle tonnare di Carloforte, passando per il Carignano del Sulcis: un viaggio tra paesaggi segnati dal lavoro e una nuova …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/cammino-miniere-vino-tonno-sardegna-cosa-vedere-mangiare-sulcis/",
-        "pubDate": "2026-03-30T14:46:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Una serie Netflix coreana sta facendo triplicare le prenotazioni nei ristoranti dei concorrenti",
         "description": "Il successo di Culinary Class Wars si riflette anche sulla ristorazione, ma il turismo gastronomico è in crescita in tutta l'Asia.\nL'articolo Una serie Netflix …",
         "link": "https://www.dissapore.com/notizie/una-serie-netflix-coreana-sta-facendo-triplicare-le-prenotazioni-nei-ristoranti-dei-concorrenti/",
@@ -437,24 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/AAAABdvW4aVTtmvNBShuW5iB2VlJwXLm-353yfiuB3I9RkbUTo86Uh9evV7i-1hieFjFCeieqvwPoKr5YiZlyjB5m-_PX8jc_OEScbkK.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Vai a Vinitaly? Ecco cos’è il risino veronese e dove mangiarlo a Verona",
-        "description": "Durante Vinitaly, tra degustazioni e stand, vale la pena fermarsi per un risino: il dolce tipico veronese con frolla e crema di riso, da provare nelle migliori …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-risini-verona-dolce-tipico/",
-        "pubDate": "2026-03-30T13:48:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“A 50 anni ho cambiato vita: ho lasciato la pittura per i dolci”",
-        "description": "Dal lockdown nella cucina di casa a una community da oltre 200mila persone: la storia di Althea, tra dolci, social e una seconda vita costruita da zero…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/50-anni-cambio-vita-pittrice-dolci-social/",
-        "pubDate": "2026-03-30T12:57:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Derthona Due.Zero: da “anteprima” a manifesto dei Colli Tortonesi",
@@ -466,24 +520,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "La città dove esistono decine di banane diverse (e nessuna è davvero uguale)",
-        "description": "A Lumajang, ai piedi del vulcano Monte Semeru, la banana è una cultura: decine di varietà, usi diversi e una filiera che sostiene intere comunità…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/citta-decine-banane-vulcano-indonesia/",
-        "pubDate": "2026-03-30T11:13:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“La zuppa di cozze è sacra”: così Napoli celebra il Giovedì Santo a tavola",
-        "description": "Dai vicoli dei Quartieri Spagnoli a piazza Carità, tra memorie di famiglia e cucina di mare: così a Napoli si prepara e si tramanda la zuppa di cozze del Gioved…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/zuppa-cozze-sacra-napoli-giovedi-santo/",
-        "pubDate": "2026-03-30T11:09:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "I grandi manager del food se ne vanno, e la colpa è della IA",
         "description": "L'avvento dei modelli generativi nell'industria alimentare sta cambiando il settore in modi sempre più imprevedibili, e i manager devono prenderne atto.\nL'artic…",
         "link": "https://www.dissapore.com/notizie/i-grandi-manager-del-food-se-ne-vanno-e-la-colpa-e-della-ia/",
@@ -491,15 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/211206114718-risk-takers-series-02-james-quincey-coca-cola-file.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "“10 milioni di sfogliatelle vendute”: riapre a Napoli la storica pasticceria di riccia e frolla",
-        "description": "Dopo lo stop riapre Pintauro, simbolo di Via Toledo: restaurati gli interni storici e di nuovo al banco il banconista di sempre…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/bar-pasticceria-pintauro-napoli-sfogliatelle/",
-        "pubDate": "2026-03-30T10:58:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Cari produttori, non fate complimenti ai giovani giornalisti di vino",
@@ -516,33 +543,6 @@
         "link": "https://www.dissapore.com/notizie/bar-giorgio-ora-rivergaro-ha-un-bar-di-paese-con-un-senso-gastronomico/",
         "pubDate": "2026-03-30T09:01:45+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/IMG_7205-scaled-e1774859831897.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Hanno rubato un camion di KitKat e Nestlé ci ride su",
-        "description": "L'edizione speciale per la Formula1 rischia di non essere disponibile in molti supermercati europei, e l'azienda prova a salvare il salvabile.\nL'articolo Hanno …",
-        "link": "https://www.dissapore.com/notizie/hanno-rubato-un-camion-di-kitkat-e-nestle-ci-ride-su/",
-        "pubDate": "2026-03-30T06:52:20+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le colombe e lievitati artigianali (non tradizionali) da acquistare a Pasqua 2026",
-        "description": "Redigere una classifica dedicata alle colombe, a tre mesi dal Natale, non sarebbe solo uno sforzo immane, ma anche poco utile ai fini del racconto sui grandi li…",
-        "link": "https://www.dissapore.com/spesa/le-colombe-e-lievitati-artigianali-non-tradizionali-da-acquistare-a-pasqua-2026/",
-        "pubDate": "2026-03-29T16:07:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/colomba-andreoletti.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il pesto è una delle salse italiane più vendute al mondo, ma non ha ancora un disciplinare",
-        "description": "Nel 2025 l'Italia è diventata il secondo produttore mondiale di basilico, seconda solo all'India, e il mercato globale del pesto vale sempre di più.\nL'articolo …",
-        "link": "https://www.dissapore.com/notizie/il-pesto-e-una-delle-salse-italiane-piu-vendute-al-mondo-ma-non-ha-ancora-un-disciplinare/",
-        "pubDate": "2026-03-29T10:05:15+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/campo-di-basilico-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
