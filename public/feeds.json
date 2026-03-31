@@ -1,7 +1,16 @@
 {
-  "generated": "2026-03-31T15:53:47.421231+00:00",
+  "generated": "2026-03-31T20:03:56.559072+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Ecco i borghi abruzzesi sul Lago di Penne da scoprire questa primavera",
+        "description": "Viaggio alla scoperta dei bellissimi borghi abruzzesi che si affacciano sul Lago di Penne, delle vere meraviglie che vale la pena di vivere adesso…",
+        "link": "https://www.stylosophy.it/articolo/ecco-i-borghi-abruzzesi-sul-lago-di-penne-da-scoprire-questa-primavera/249587/",
+        "pubDate": "2026-03-31T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "A Roma apre un ristorante con bottega dedicato a gamberi rossi, scampi e caviale",
         "description": "Un menu minimale in cui si sceglie tra gamberi rossi di Mazara del Vallo o scampi che arrivano dai pescherecci di proprietà: un nuovo format valorizza al massim…",
@@ -172,18 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOp_minidress.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Quali scarpe indossare con la gonna? 5 combo da provare questa primavera",
-        "description": "Spring is in the air! E se c’è un capo che più di tutti riesce a incarnare lo spirito della primavera, quello è senza dubbio la gonna. Lunga, midi o corta, plis…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/quali-scarpe-indossare-con-la-gonna-lunga-midi-corta-outfit-con-gonne-primavera-962646",
-        "pubDate": "2026-03-31T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_mix_match_scarpe_gonne.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Ecco i borghi abruzzesi sul Lago di Penne da scoprire questa primavera",
+        "description": "Viaggio alla scoperta dei bellissimi borghi abruzzesi che si affacciano sul Lago di Penne, delle vere meraviglie che vale la pena di vivere adesso…",
+        "link": "https://www.stylosophy.it/articolo/ecco-i-borghi-abruzzesi-sul-lago-di-penne-da-scoprire-questa-primavera/249587/",
+        "pubDate": "2026-03-31T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Come scegliere il Tappeto ideale per il tuo living: forma, materiali e stile",
         "description": "Il tappeto diventa il protagonista del soggiorno moderno, basta scegliere le giuste proporzioni, i materiali e i colori più adatti.…",
@@ -342,15 +351,6 @@
         "description": "Compatto, pratico e dal design contemporaneo, è pensato per trasformare gli spazi ridotti con semplicità. Una soluzione versatile che unisce estetica e funziona…",
         "link": "https://www.stylosophy.it/articolo/un-divano-letto-compatto-e-di-stile-firmato-maisons-du-monde-un-nuovo-must-per-il-tuo-soggiorno-mini/249613/",
         "pubDate": "2026-03-29T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Elodie cambia (di nuovo) hair look: ecco il nuovo hair style!",
-        "description": "Elodie ha deciso di dare una rinfrescata al suo nuovo hair look con un'acconciatura diversa: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/elodie-cambia-di-nuovo-hair-look-ecco-il-nuovo-hair-style/249606/",
-        "pubDate": "2026-03-29T12:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
