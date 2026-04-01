@@ -1,7 +1,88 @@
 {
-  "generated": "2026-03-31T20:03:56.559072+00:00",
+  "generated": "2026-04-01T09:53:14.243062+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La più famosa cacio e pepe di Roma diventa street food: Felice apre a Piazza di Spagna",
+        "description": "Cremosa e amata anche dai vip, la cacio e pepe di Felice a Testaccio arriva al centro di Roma con un nuovo format take-away. Presenti anche le polpette di bolli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/cacio-pepe-roma-street-food-felice-testaccio-piazza-spagna/",
+        "pubDate": "2026-04-01T09:41:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel mercato più sorprendente di Roma spunta un mollusco rarissimo da centinaia di euro",
+        "description": "Al Mercato Esquilino, tra spezie, verdure globali e banchi multietnici, compare l’abalone: il prezioso “orecchio di mare” simbolo di lusso in Asia e oggi a port…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-esquilino-roma-abalone-orecchio-mare/",
+        "pubDate": "2026-04-01T09:38:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I profumi alla rosa, freschi ma persistenti, per una Primavera indimenticabile",
+        "description": "Freschi, femminili e super chic, questi profumi alla rosa sono il must have della Primavera 2026. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/i-profumi-alla-rosa-freschi-ma-persistenti-per-una-primavera-indimenticabile/249674/",
+        "pubDate": "2026-04-01T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Alla scoperta dei benefici e delle sfumature dell’alimentazione biologica",
+        "description": "Il panorama gastronomico contemporaneo offre una varietà di opzioni senza precedenti, permettendo a ogni consumatore di personalizzare la propria dispensa in ba…",
+        "link": "https://www.gustoblog.it/2026/04/01/scoperta-benefici-sfumature-alimentazione-biologica/",
+        "pubDate": "2026-04-01T08:48:49+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il riscaldamento degli oceani sta uccidendo tutte le ostriche giapponesi",
+        "description": "Un'estate calda senza precedenti e l'assenza di piogge sono alla base di una moria del 90% degli esemplari nella prefettura di Hiroshima, che produce le ostrich…",
+        "link": "https://www.dissapore.com/notizie/il-riscaldamento-degli-oceani-sta-uccidendo-tutte-le-ostriche-giapponesi/",
+        "pubDate": "2026-04-01T08:45:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/coltura-di-ostriche-a-hiroshima-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Weekend bags: le borse da viaggio per una fuga dalla città perfetta",
+        "description": "La voglia di evasione cresce con le giornate più lunghe e le temperature più miti, non è vero? Basta poco infatti per organizzare un fine settimana fuori porta,…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/borse-da-viaggio-babaglio-a-mano-weekend-bags-in-pelle-borsoni-fine-settimana-962663",
+        "pubDate": "2026-04-01T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_weekend_bags.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Non esistevano ai tempi di Shakespeare: cosa sono i baci di Giulietta",
+        "description": "A Verona, anche durante Vinitaly, spuntano ovunque questi dolci ispirati a Romeo e Giulietta: gusci meringati uniti da cioccolato…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/verona-baci-giulietta-biscotti/",
+        "pubDate": "2026-04-01T05:07:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’Italietta del Prosecco: forte con la Croazia, debole con l’Australia",
+        "description": "Dopo anni di tensioni diplomatiche e commerciali su temi identitari come il nome Prosecco, l’Unione Europea mostra una linea più morbida nei confronti dell’Aust…",
+        "link": "https://www.winemag.it/l-italietta-del-prosecco-forte-con-croazia-prosek-debole-con-australia/",
+        "pubDate": "2026-04-01T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Langhe: patto con Yoichi, nuova frontiera del vino giapponese",
+        "description": "Nelle Langhe nasce un asse internazionale del vino che guarda al Giappone. A Neviglie, nel cuore della Langa del Barbaresco, è stato siglato un memorandum d’int…",
+        "link": "https://www.winemag.it/langhe-patto-con-yoichi-nuova-frontiera-del-vino-giapponese-langhe-yoichi-alliance/",
+        "pubDate": "2026-03-31T22:02:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Langhe-patto-con-Yoichi-nuova-frontiera-del-vino-giapponese-Bera-Adriano-Marco-e-Vittorio-Cantina-del-Pino-Diego-Morra-e-Luigi-Giordano-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Ecco i borghi abruzzesi sul Lago di Penne da scoprire questa primavera",
         "description": "Viaggio alla scoperta dei bellissimi borghi abruzzesi che si affacciano sul Lago di Penne, delle vere meraviglie che vale la pena di vivere adesso…",
@@ -100,90 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "La famiglia Marzotto acquisisce i vigneti di Domaine Lumineux, tenuta fondata da Francis Ford Coppola",
-        "description": "Si tratta del quarto investimento nella Willamette Valley attraverso la società americana Roco Winery : in dote arrivano 24 ettari di terreno di cui 16,6 vitati…",
-        "link": "https://www.gamberorosso.it/notizie/vino/oregon-herita-marzotto-acquisizione-vigneti-domaine-lumineux-tenuta-fondata-da-francis-ford-coppola/",
-        "pubDate": "2026-03-31T11:08:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Colomba Balocco classica: Prova d’assaggio",
-        "description": "La nostra recensione della colomba classica Balocco: prova d'assaggio, prezzo, lista ingredienti e degustazione.\nL'articolo Colomba Balocco classica: Prova d&#8…",
-        "link": "https://www.dissapore.com/spesa/colomba-balocco-classica-recensione-2026/",
-        "pubDate": "2026-03-31T10:58:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/colomba-balocco-ricetta-classica-2026-6.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il Viale dei Cipressi di Bolgheri minacciato da un progetto eolico. L’allarme dei produttori di vino",
-        "description": "Si teme per l'impatto paesaggistico del parco offshore flottante nel Mar Ligure. Lettera della presidente del Consorzio Merli al ministro dell'Ambiente Pichetto…",
-        "link": "https://www.gamberorosso.it/notizie/vino/viale-cipressi-bolgheri-progetto-eolico-allarme-consorzio/",
-        "pubDate": "2026-03-31T10:38:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Il Prosecco va difeso: paradossale accettare l’accordo con l’Australia”. L’appello di Sandro Bottega",
-        "description": "Il produttore veneto di bollicine critica duramente l'accordo di libero scambio che permetterebbe agli australiani di continuare a produrre Prosecco aussie: \"Pr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/prosecco-sandro-bottega-contro-accordo-europa-australia/",
-        "pubDate": "2026-03-31T10:15:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Il Diavolo veste Prada 2”: i look di Anne Hathaway e Meryl Streep durante la promozione del film in Messico",
-        "description": "Il tour promozionale de “Il Diavolo veste Prada 2” è ufficialmente iniziato è questo significa solo una cosa: l’attesa è praticamente finita e ormai manca pochi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/il-diavolo-veste-prada-2-tour-promozionale-anne-hathaway-meryl-streep-sequel-uscita-red-carpet-look-miranda-priestley-andy-sachs-962971",
-        "pubDate": "2026-03-31T10:13:52+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/EVI_Diavolo_Veste_Prada_2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Capelli: qui i sieri anticaduta per una chioma folta e sana!",
-        "description": "I migliori sieri anticaduta per capelli visibilmente più forti e sani. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/capelli-qui-i-sieri-anticaduta-per-una-chioma-folta-e-sana/249645/",
-        "pubDate": "2026-03-31T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Cosa non piace all’Australia del nuovo accordo con l’UE",
-        "description": "Il 98% dei dazi è stato eliminato, ma per alcuni settori dell'agroalimentare australiano, l'accordo commerciale con l'UE potrebbe essere un problema.\nL'articolo…",
-        "link": "https://www.dissapore.com/notizie/cosa-non-piace-allaustralia-del-nuovo-accordo-con-lue/",
-        "pubDate": "2026-03-31T09:27:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/australia-vigna-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Occhiali da sole: i modelli perfetti per la primavera/estate 2026",
-        "description": "Gli occhiali da sole da sfoggiare questa Primavera? Ecco qui i modelli più IN...…",
-        "link": "https://www.stylosophy.it/articolo/occhiali-da-sole-i-modelli-perfetti-per-la-primavera-estate-2026/249567/",
-        "pubDate": "2026-03-31T09:21:49+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Fuori le gambe! Ecco i vestiti corti da indossare per tutta la bella stagione",
-        "description": "Con l’arrivo della primavera, cresce la voglia di alleggerire il guardaroba e riscoprire capi versatili, facili da stratificare e perfetti da indossare già ades…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/vestiti-corti-eleganti-maniche-lunghe-zara-mini-dress-primavera-2026-modelli-962604",
-        "pubDate": "2026-03-31T08:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOp_minidress.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "I profumi alla rosa, freschi ma persistenti, per una Primavera indimenticabile",
+        "description": "Freschi, femminili e super chic, questi profumi alla rosa sono il must have della Primavera 2026. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/i-profumi-alla-rosa-freschi-ma-persistenti-per-una-primavera-indimenticabile/249674/",
+        "pubDate": "2026-04-01T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Weekend bags: le borse da viaggio per una fuga dalla città perfetta",
+        "description": "La voglia di evasione cresce con le giornate più lunghe e le temperature più miti, non è vero? Basta poco infatti per organizzare un fine settimana fuori porta,…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/borse-da-viaggio-babaglio-a-mano-weekend-bags-in-pelle-borsoni-fine-settimana-962663",
+        "pubDate": "2026-04-01T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_weekend_bags.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Ecco i borghi abruzzesi sul Lago di Penne da scoprire questa primavera",
         "description": "Viaggio alla scoperta dei bellissimi borghi abruzzesi che si affacciano sul Lago di Penne, delle vere meraviglie che vale la pena di vivere adesso…",
@@ -345,27 +363,72 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_5_color_trend.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Un Divano Letto compatto e di stile firmato Maisons du Monde: un nuovo must per il tuo soggiorno mini",
-        "description": "Compatto, pratico e dal design contemporaneo, è pensato per trasformare gli spazi ridotti con semplicità. Una soluzione versatile che unisce estetica e funziona…",
-        "link": "https://www.stylosophy.it/articolo/un-divano-letto-compatto-e-di-stile-firmato-maisons-du-monde-un-nuovo-must-per-il-tuo-soggiorno-mini/249613/",
-        "pubDate": "2026-03-29T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "T-shirt + pantaloni eleganti: 5 idee dallo street style su come indossare la combo più furba di stagione",
-        "description": "Da un lato uno dei grandi must-have del guardaroba daily, dall’altro un pezzo indispensabile per creare look formali e raffinati adatti persino alle occasioni s…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-tshirt-e-pantaloni-eleganti-idee-street-style-abbinamenti-neri-bianca-cotone-sera-tacchi-primavera-962412",
-        "pubDate": "2026-03-29T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/COVER_T-shirt_pantaloni_Eleganti.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La più famosa cacio e pepe di Roma diventa street food: Felice apre a Piazza di Spagna",
+        "description": "Cremosa e amata anche dai vip, la cacio e pepe di Felice a Testaccio arriva al centro di Roma con un nuovo format take-away. Presenti anche le polpette di bolli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/cacio-pepe-roma-street-food-felice-testaccio-piazza-spagna/",
+        "pubDate": "2026-04-01T09:41:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel mercato più sorprendente di Roma spunta un mollusco rarissimo da centinaia di euro",
+        "description": "Al Mercato Esquilino, tra spezie, verdure globali e banchi multietnici, compare l’abalone: il prezioso “orecchio di mare” simbolo di lusso in Asia e oggi a port…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-esquilino-roma-abalone-orecchio-mare/",
+        "pubDate": "2026-04-01T09:38:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alla scoperta dei benefici e delle sfumature dell’alimentazione biologica",
+        "description": "Il panorama gastronomico contemporaneo offre una varietà di opzioni senza precedenti, permettendo a ogni consumatore di personalizzare la propria dispensa in ba…",
+        "link": "https://www.gustoblog.it/2026/04/01/scoperta-benefici-sfumature-alimentazione-biologica/",
+        "pubDate": "2026-04-01T08:48:49+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il riscaldamento degli oceani sta uccidendo tutte le ostriche giapponesi",
+        "description": "Un'estate calda senza precedenti e l'assenza di piogge sono alla base di una moria del 90% degli esemplari nella prefettura di Hiroshima, che produce le ostrich…",
+        "link": "https://www.dissapore.com/notizie/il-riscaldamento-degli-oceani-sta-uccidendo-tutte-le-ostriche-giapponesi/",
+        "pubDate": "2026-04-01T08:45:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/coltura-di-ostriche-a-hiroshima-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Non esistevano ai tempi di Shakespeare: cosa sono i baci di Giulietta",
+        "description": "A Verona, anche durante Vinitaly, spuntano ovunque questi dolci ispirati a Romeo e Giulietta: gusci meringati uniti da cioccolato…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/verona-baci-giulietta-biscotti/",
+        "pubDate": "2026-04-01T05:07:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’Italietta del Prosecco: forte con la Croazia, debole con l’Australia",
+        "description": "Dopo anni di tensioni diplomatiche e commerciali su temi identitari come il nome Prosecco, l’Unione Europea mostra una linea più morbida nei confronti dell’Aust…",
+        "link": "https://www.winemag.it/l-italietta-del-prosecco-forte-con-croazia-prosek-debole-con-australia/",
+        "pubDate": "2026-04-01T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Langhe: patto con Yoichi, nuova frontiera del vino giapponese",
+        "description": "Nelle Langhe nasce un asse internazionale del vino che guarda al Giappone. A Neviglie, nel cuore della Langa del Barbaresco, è stato siglato un memorandum d’int…",
+        "link": "https://www.winemag.it/langhe-patto-con-yoichi-nuova-frontiera-del-vino-giapponese-langhe-yoichi-alliance/",
+        "pubDate": "2026-03-31T22:02:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/Langhe-patto-con-Yoichi-nuova-frontiera-del-vino-giapponese-Bera-Adriano-Marco-e-Vittorio-Cantina-del-Pino-Diego-Morra-e-Luigi-Giordano-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "A Roma apre un ristorante con bottega dedicato a gamberi rossi, scampi e caviale",
         "description": "Un menu minimale in cui si sceglie tra gamberi rossi di Mazara del Vallo o scampi che arrivano dai pescherecci di proprietà: un nuovo format valorizza al massim…",
@@ -457,15 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Il Prosecco va difeso: paradossale accettare l’accordo con l’Australia”. L’appello di Sandro Bottega",
-        "description": "Il produttore veneto di bollicine critica duramente l'accordo di libero scambio che permetterebbe agli australiani di continuare a produrre Prosecco aussie: \"Pr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/prosecco-sandro-bottega-contro-accordo-europa-australia/",
-        "pubDate": "2026-03-31T10:15:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cosa non piace all’Australia del nuovo accordo con l’UE",
         "description": "Il 98% dei dazi è stato eliminato, ma per alcuni settori dell'agroalimentare australiano, l'accordo commerciale con l'UE potrebbe essere un problema.\nL'articolo…",
         "link": "https://www.dissapore.com/notizie/cosa-non-piace-allaustralia-del-nuovo-accordo-con-lue/",
@@ -484,65 +538,11 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Dall’Abruzzo al Rodano: Chiara Pepe firmerà le prossime annate del leggendario Domaine de La Chapelle",
-        "description": "Chiara Pepe è la nuova responsabile della viticoltura e della vinificazione dell'iconica cantina boutique del Rodano, che produce alcuni dei vini più ricercati …",
-        "link": "https://www.gamberorosso.it/notizie/vino/chiara-pepe-domaine-de-la-chapelle/",
-        "pubDate": "2026-03-30T18:04:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vinitaly a Verona: dove mangiare la pastisada de caval, il piatto simbolo della città",
-        "description": "Dalle trattorie storiche alle versioni contemporanee, la pastisada de caval resta un classico veronese anche in primavera: ecco dove provarla durante il Vinital…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pastisada-de-caval-verona-vinitaly-2026/",
-        "pubDate": "2026-03-30T17:06:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Una serie Netflix coreana sta facendo triplicare le prenotazioni nei ristoranti dei concorrenti",
         "description": "Il successo di Culinary Class Wars si riflette anche sulla ristorazione, ma il turismo gastronomico è in crescita in tutta l'Asia.\nL'articolo Una serie Netflix …",
         "link": "https://www.dissapore.com/notizie/una-serie-netflix-coreana-sta-facendo-triplicare-le-prenotazioni-nei-ristoranti-dei-concorrenti/",
         "pubDate": "2026-03-30T14:23:39+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/AAAABdvW4aVTtmvNBShuW5iB2VlJwXLm-353yfiuB3I9RkbUTo86Uh9evV7i-1hieFjFCeieqvwPoKr5YiZlyjB5m-_PX8jc_OEScbkK.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Derthona Due.Zero: da “anteprima” a manifesto dei Colli Tortonesi",
-        "description": "Quando il punto fermo è l&#8217;identità, le interpretazioni stilistiche sono dettagli dello stesso quadro. E il lavoro di squadra emerge su tutto, in maniera n…",
-        "link": "https://www.winemag.it/derthona-due-zero-da-anteprima-timorasso-a-manifesto-dei-colli-tortonesi/",
-        "pubDate": "2026-03-30T12:07:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I grandi manager del food se ne vanno, e la colpa è della IA",
-        "description": "L'avvento dei modelli generativi nell'industria alimentare sta cambiando il settore in modi sempre più imprevedibili, e i manager devono prenderne atto.\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/i-grandi-manager-del-food-se-ne-vanno-e-la-colpa-e-della-ia/",
-        "pubDate": "2026-03-30T11:00:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/211206114718-risk-takers-series-02-james-quincey-coca-cola-file.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cari produttori, non fate complimenti ai giovani giornalisti di vino",
-        "description": "C’è un momento, in certi ambienti professionali, in cui il tempo smette di essere solo un&#8217;unità di misura e diventa un problema. Non per chi avanza, ma pe…",
-        "link": "https://www.winemag.it/cari-produttori-non-fate-complimenti-ai-giovani-giornalisti-di-vino/",
-        "pubDate": "2026-03-30T09:51:36+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bar Giorgio: ora Rivergaro ha un “bar di paese” con un senso gastronomico",
-        "description": "Il nuovo Bar Giorgio di Rivergaro ha tutte le carte per dimostrare che un bar di paese può essere laboratorio gastronomico e far convivere vecchio e nuovo. Ecco…",
-        "link": "https://www.dissapore.com/notizie/bar-giorgio-ora-rivergaro-ha-un-bar-di-paese-con-un-senso-gastronomico/",
-        "pubDate": "2026-03-30T09:01:45+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/IMG_7205-scaled-e1774859831897.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
