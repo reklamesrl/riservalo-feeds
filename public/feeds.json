@@ -1,7 +1,16 @@
 {
-  "generated": "2026-04-01T15:58:05.977625+00:00",
+  "generated": "2026-04-01T20:08:05.744743+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Questo minuscolo borgo di 100 abitanti nasconde una delle fortezze più spettacolari d’Italia",
+        "description": "Un villaggio incastonato tra le montagne e dominato da una fortezza imponente.\nBard sorprende per storia, paesaggi e tradizioni ancora vive.…",
+        "link": "https://www.stylosophy.it/articolo/borgo-di-100-abitanti-nasconde-una-delle-fortezze-piu-spettacolari-ditalia/249694/",
+        "pubDate": "2026-04-01T16:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Gran Colomba Maina classica: prova d’assaggio",
         "description": "La nostra recensione de La Gran Colomba Maina: prova d'assaggio, prezzo, lista ingredienti e giudizio finale.\nL'articolo Gran Colomba Maina classica: prova d&#8…",
@@ -172,18 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel mercato più sorprendente di Roma spunta un mollusco rarissimo da centinaia di euro",
-        "description": "Al Mercato Esquilino, tra spezie, verdure globali e banchi multietnici, compare l’abalone: il prezioso “orecchio di mare” simbolo di lusso in Asia e oggi a port…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-esquilino-roma-abalone-orecchio-mare/",
-        "pubDate": "2026-04-01T09:38:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Questo minuscolo borgo di 100 abitanti nasconde una delle fortezze più spettacolari d’Italia",
+        "description": "Un villaggio incastonato tra le montagne e dominato da una fortezza imponente.\nBard sorprende per storia, paesaggi e tradizioni ancora vive.…",
+        "link": "https://www.stylosophy.it/articolo/borgo-di-100-abitanti-nasconde-una-delle-fortezze-piu-spettacolari-ditalia/249694/",
+        "pubDate": "2026-04-01T16:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Stella McCartney rilancia l’iconica Falabella con Renée Rapp, nuova voce della Gen Z",
         "description": "C’è qualcosa di profondamente attuale nelle icone che sanno reinventarsi senza perdere la propria identità, non credete? È il caso della Falabella di Stella McC…",
@@ -351,15 +360,6 @@
         "description": "Dolci, delicate e super profumate, queste 5 creme corpo alla vaniglia sono un must have della Primavera 2026. Da non perdere!…",
         "link": "https://www.stylosophy.it/articolo/le-creme-corpo-alla-vaniglia-per-una-primavera-super-dolce/249630/",
         "pubDate": "2026-03-30T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Poltrone IKEA: design, comfort e colori di tendenza per la Primavera 2026",
-        "description": "Linee morbide, tessuti pratici e nuance sorprendenti: le poltrone diventano protagoniste della stagione. Scopri perché stanno conquistando ogni ambiente.…",
-        "link": "https://www.stylosophy.it/articolo/poltrone-ikea-design-comfort-e-colori-di-tendenza-per-la-primavera-2026/249624/",
-        "pubDate": "2026-03-30T14:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
