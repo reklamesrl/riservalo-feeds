@@ -1,7 +1,160 @@
 {
-  "generated": "2026-04-02T09:41:21.574266+00:00",
+  "generated": "2026-04-02T15:37:53.470293+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Vinitaly 2026: ecco tutti gli eventi del Gambero Rosso tra degustazioni, masterclass e presentazioni",
+        "description": "Quest'anno il Gambero Rosso festeggia i suoi primi 40 anni partendo proprio dalla fiera del vino di Verona con una masterclass dedicata a otto icone assolute de…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-2026-degustazioni-masterclass-gambero-rosso/",
+        "pubDate": "2026-04-02T15:28:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non sono ammesse briciole”: ecco cosa mangiano gli astronauti diretti sulla Luna",
+        "description": "Dalla missione Artemis II ai pasti studiati per la microgravità: tortillas, mac and cheese e cibi speciali dove anche una briciola può diventare un rischio…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/astronauti-cosa-mangiano-luna/",
+        "pubDate": "2026-04-02T15:28:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’aperitivo italiano è ufficialmente in crisi",
+        "description": "Secondo i dati emersi in un recente rapporto sui consumi degli italiani ci sono grandi cambiamenti in atto: a farne le spese è un simbolo della socialità italia…",
+        "link": "https://www.dissapore.com/notizie/laperitivo-italiano-e-ufficialmente-in-crisi/",
+        "pubDate": "2026-04-02T14:26:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2020/10/ristorante-3.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Calabria c’è un vino da meditazione molto raro, ottenuto ancora oggi con una tecnica millenaria",
+        "description": "Il Moscato di Saracena è un unicum, che deriva dalla fermentazione contemporanea di mosto cotto e uve appassite. Oggi è prodotto solo da una decina di famiglie…",
+        "link": "https://www.gamberorosso.it/notizie/vino/calabria-moscato-saracena-tecnica-produzione-millenaria/",
+        "pubDate": "2026-04-02T14:05:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Roma piange: è morto Remo, fondatore della storica pizzeria romana di Testaccio",
+        "description": "A 90 anni scompare Remo Stecconi, fondatore della storica Pizzeria Remo: mezzo secolo di pizza bassa e croccante e un pezzo di romanità autentica che resiste al…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/morto-a-remo-storica-pizzeria-roma-testaccio/",
+        "pubDate": "2026-04-02T13:10:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cecilia Rodriguez si prepara all’estate con stile: ecco il suo nuovo bikini firmato Me Fui",
+        "description": "Cecilia Rodriguez mostra sui social il suo nuovo bikini firmato Me Fui: ecco tutti i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/cecilia-rodriguez-si-prepara-allestate-con-stile-ecco-il-suo-nuovo-bikini-firmato-me-fui/249728/",
+        "pubDate": "2026-04-02T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il Lazio porta a Vinitaly la Dolce Vita: “Sarà il padiglione più bello della fiera”",
+        "description": "Blind tasting, podcast, degustazioni all'enoteca regionale e omaggio al grande cinema: la viticoltura regionale si presenta compatta a Verona…",
+        "link": "https://www.gamberorosso.it/notizie/vino/lazio-arsial-padiglione-vinitaly-2026-dolce-vita/",
+        "pubDate": "2026-04-02T12:06:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dove comprare il casatiello a Napoli",
+        "description": "Quella del casatiello è la mappa di cui avete bisogno per affrontare la Pasqua napoletana. Gli indirizzi testati da noi e approvati dai locals. \nL'articolo Dove…",
+        "link": "https://www.dissapore.com/spesa/dove-comprare-il-casatiello-a-napoli/",
+        "pubDate": "2026-04-02T11:55:39+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Casatiello-napoletano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I due fratelli che hanno trasformato i panini fuori dallo stadio di San Siro in un fenomeno social",
+        "description": "I fratelli Lentini hanno trasformato le salamelle dello stadio in un brand virale: da Stadio San Siro al primo locale in città, tra smash salamella, file infini…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panini-stadio-san-siro-lentini-salamellaz/",
+        "pubDate": "2026-04-02T10:50:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Brunello di Montalcino, Guglielmo Ascheri nuovo direttore del Consorzio",
+        "description": "Cambio alla direzione del Consorzio del vino Brunello di Montalcino. Guglielmo Ascheri è il nuovo direttore dell’ente consortile. La nomina arriva dal consiglio…",
+        "link": "https://www.winemag.it/brunello-montalcino-guglielmo-ascheri-nuovo-direttore-consorzio/",
+        "pubDate": "2026-04-02T10:42:35+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Abiti da cerimonia: i modelli sotto i 150€ da puntare questa primavera",
+        "description": "Arriva la primavera, comincia ufficialmente la stagione delle cerimonie e automaticamente scatta subito anche la caccia al look. Ogni anno, in questo periodo, l…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-da-cerimonia-cosa-indossare-sotto-150-euro-matrimonio-primavera-donna-abiti-semplici-eleganti-low-cost-963467",
+        "pubDate": "2026-04-02T10:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_abiti_cerimonia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Consorzio Vini di Romagna, Roberto Monti confermato presidente",
+        "description": "L’Assemblea dei Soci del Consorzio Vini di Romagna ha eletto il nuovo Consiglio di Amministrazione, che nella prima riunione ha confermato Roberto Monti alla gu…",
+        "link": "https://www.winemag.it/consorzio-vini-romagna-roberto-monti-confermato-presidente/",
+        "pubDate": "2026-04-02T10:26:07+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“L’Argentina taglia i fondi alla guida Michelin”: salta la cerimonia delle stelle, solo online",
+        "description": "Il governo Milei ritira il finanziamento alla Guida Michelin, evento trasformato in formato virtuale e sostegno lasciato alle città di Buenos Aires e Mendoza…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/argentina-taglia-fondi-michelin-salta-cerimonia-guida/",
+        "pubDate": "2026-04-02T10:18:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa ha di tanto speciale la nuova bottiglia più cara del mondo",
+        "description": "Battuta all'asta a New York, la nuova bottiglia più cara del mondo ha superato di centinaia di migliaia di dollari il record precedente, sempre della stessa can…",
+        "link": "https://www.dissapore.com/notizie/cosa-ha-di-tanto-speciale-la-nuova-bottiglia-piu-cara-del-mondo/",
+        "pubDate": "2026-04-02T10:03:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/DRC-muro-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Onitsuka Tiger x Versace: quando lo streetwear incontra la Medusa",
+        "description": "Le nuove sneakers nate dalla collaborazione tra Onitsuka Tiger e Versace sono finalmente pronte a diventare oggetto del desiderio. Al centro del progetto c’è un…",
+        "link": "https://www.grazia.it/moda/news-moda/onitsuka-tiger-versace-sneakers-collaborazione-campagna-primavera-estate-2026-963555",
+        "pubDate": "2026-04-02T10:03:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/ok-Versace_SS26_SM_Logo_1080x1350_1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "“Serve un piano straordinario per la promozione di vino negli Stati Uniti”. Coldiretti riunisce tutta la filiera a Roma",
+        "description": "Il sindacato chiama buyer esteri, istituzioni ed esperti in un incontro che è la prima tappa di una serie di iniziative a sostegno delle cantine nazionali. E la…",
+        "link": "https://www.gamberorosso.it/notizie/vino/piano-straordinario-promozione-vino-stati-uniti-coldiretti/",
+        "pubDate": "2026-04-02T09:43:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Una primavera ricca di sorprese con The Mall Simon Luxury Outlets",
+        "description": "Con l’arrivo della primavera, cresce la voglia di vivere momenti all’aria aperta, sperimentare nuove passioni e concedersi piccoli piaceri. È in questo scenario…",
+        "link": "https://www.grazia.it/moda/news-moda/una-primavera-ricca-di-sorprese-con-the-mall-simon-luxury-outlets-963375",
+        "pubDate": "2026-04-02T09:27:40+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_the_mall_outlet.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "6 prodotti beauty al cioccolato per una Pasqua super golosa",
         "description": "Questi 6 prodotti beauty al cioccolato sono pronti a rendere la Pasqua ancora più speciale e profumata! Scopriamoli insieme...…",
@@ -12,172 +165,19 @@
         "source": "Stylosophy"
       },
       {
-        "title": "E alla fine arrivò anche “qualcosa di blu”! Ecco il quarto look di Zendaya ispirato al rito portafortuna delle spose",
-        "description": "Era solo questione di tempo, lo sapevamo che prima o poi Zendaya avrebbe sfoggiato un look total blu durante il tour promozionale di “The Drama”.&#160; Ieri l’a…",
-        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-the-drama-look-blu-sposa-matrimonio-robert-pattinson-film-963504",
-        "pubDate": "2026-04-02T07:32:17+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Zendaya.jpg",
+        "title": "Pronte a rispolverare i sandali? Ecco i modelli di tendenza da puntare in questa stagione",
+        "description": "Perché aspettare l’arrivo dell’estate! Non è mai troppo presto per cominciare a far spazio ai nuovi sandali che vogliamo al nostro fianco durante la bella stagi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-di-tendenza-2026-primavera-estate-donna-alti-con-tacco-con-zeppa-bassi-flat-rasoterra-zara-lacci-963126",
+        "pubDate": "2026-04-02T08:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_sandali.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Nel Kent hanno nascosto delle mucche per proteggerle dagli influencer",
-        "description": "I bovini delle Highlands, celebri per la loro carne, sono troppo \"carini\" e hanno sfondato sui social, per questo una riserva naturale ha dovuto allontanarli.\nL…",
-        "link": "https://www.dissapore.com/notizie/nel-kent-hanno-nascosto-delle-mucche-per-proteggerle-dagli-influencer/",
-        "pubDate": "2026-04-02T07:31:29+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vinitaly 2026: dove mangiare fuori Verona (tra Garda, Valpolicella e dintorni)",
-        "description": "Durante Vinitaly 2026 la città si riempie, ma basta spostarsi di pochi chilometri per trovare trattorie, pizzerie e ristoranti da segnare: ecco gli indirizzi mi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/vinitaly-dove-mangiare-verona-dintorni/",
-        "pubDate": "2026-04-02T07:21:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cosa comprare da Zara nel mese di Aprile? 10 capi e accessori da mettere subito in wishlist",
-        "description": "Aprile&#8230;dolce far shopping! Non era così il proverbio? E allora noi lo prendiamo alla lettera, condividendo con voi una selezione di capi e accessori perfe…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-zara-aprile-capi-accessori-must-have-shopping-primavera-962729",
-        "pubDate": "2026-04-02T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_comprare_zara_aprile.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Blocco impianti, meno rese e più promozione. Dalla masseria di Vespa il vino ridisegna il suo futuro",
-        "description": "Tra le proposte di Federvini spunta l'idea di dare le deleghe del Turismo al ministro Lollobrigida. Uiv guarda ai giovani: \"Serve adeguare gli stipendi: altro c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/forum-cucina-italiana-manduria-proposte-futuro-vino/",
-        "pubDate": "2026-04-02T06:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Riesling sotto 10 euro Alsazia-Mosella: chi vince al supermercato?",
-        "description": "Il Riesling si conferma uno dei vitigni bianchi più riconoscibili a livello globale. La sua capacità di riflettere il terroir lo rende ideale per confronti dire…",
-        "link": "https://www.winemag.it/riesling-sotto-10-euro-alsazia-mosella-chi-vince-al-supermercato/",
-        "pubDate": "2026-04-02T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cosa racconta davvero il tuo frigorifero (e perché dovresti guardarlo meglio)",
-        "description": "Tra avanzi, ossessioni salutiste e piccoli vizi nascosti, il frigo diventa uno specchio sincero delle nostre abitudini: la redazione del Gambero Rosso lo apre s…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cosa-dicono-di-noi-frigoriferi-redazione-gambero-rosso/",
-        "pubDate": "2026-04-02T05:06:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vinitaly c’è o ci spam?",
-        "description": "A pochi giorni da Vinitaly 2026 , in programma a Verona fiera dal 12 al 16 aprile, emergono perplessità diffuse tra operatori del settore vino. Buyer, export ma…",
-        "link": "https://www.winemag.it/vinitaly-c-e-o-ci-spam/",
-        "pubDate": "2026-04-02T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/04/Vinitaly-c-e-o-ci-spam-perplessita-tra-operatori-del-vino-per-sistema-matchmaking-e-gestione-contatti-veronafiere-2026.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Questo minuscolo borgo di 100 abitanti nasconde una delle fortezze più spettacolari d’Italia",
-        "description": "Un villaggio incastonato tra le montagne e dominato da una fortezza imponente.\nBard sorprende per storia, paesaggi e tradizioni ancora vive.…",
-        "link": "https://www.stylosophy.it/articolo/borgo-di-100-abitanti-nasconde-una-delle-fortezze-piu-spettacolari-ditalia/249694/",
-        "pubDate": "2026-04-01T16:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Gran Colomba Maina classica: prova d’assaggio",
-        "description": "La nostra recensione de La Gran Colomba Maina: prova d'assaggio, prezzo, lista ingredienti e giudizio finale.\nL'articolo Gran Colomba Maina classica: prova d&#8…",
-        "link": "https://www.dissapore.com/spesa/colomba-maina-classica-recensione-2026/",
-        "pubDate": "2026-04-01T15:37:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Gran-Colomba-Maina-classica-2026-4-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Stella McCartney rilancia l’iconica Falabella con Renée Rapp, nuova voce della Gen Z",
-        "description": "C’è qualcosa di profondamente attuale nelle icone che sanno reinventarsi senza perdere la propria identità, non credete? È il caso della Falabella di Stella McC…",
-        "link": "https://www.grazia.it/moda/news-moda/falabella-stella-mccartney-nuova-campagna-renee-rapp-963267",
-        "pubDate": "2026-04-01T14:51:54+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/ok-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Al TIC Festival 2026 Dissapore presenta le migliori pasticcerie dell’Umbria",
-        "description": "Terni si prepara a tornare al centro del dibattito sulla comunicazione digitale e l'influencer marketing col TIC Festival 2026, e ci saremo anche noi.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/al-tic-festival-2026-dissapore-presenta-le-migliori-pasticcerie-dellumbria/",
-        "pubDate": "2026-04-01T14:14:32+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/LANCIO_Locandina_PANDA.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’abito di Sadie Sink si ispira a un film cult di fine anni 90… L’avete riconosciuto?",
-        "description": "Abbiamo imparato a conoscerla (e adorarla) nei panni della coraggiosa Max Mayfield nella serie tv  “Stringer Things” ma sembrerebbe che Sadie Sink, a differenza…",
-        "link": "https://www.grazia.it/moda/celebrity-style/sadie-sink-abito-prada-romeo-juliet-film-1996-963351",
-        "pubDate": "2026-04-01T13:56:18+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/Sadie-Sink_Prada_apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Vinitaly 2026, Assovini Sicilia punta sull’enoturismo come leva strategica",
-        "description": "L&#8217;enoturismo diventa asse centrale della strategia di Assovini Sicilia in occasione della 58ª edizione di Vinitaly 2026. L’associazione, che riunisce oggi…",
-        "link": "https://www.winemag.it/vinitaly-2026-assovini-sicilia-punta-enoturismo-come-leva-strategica/",
-        "pubDate": "2026-04-01T13:28:18+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Diletta Leotta, anche in gravidanza non rinuncia allo stile più trendy e glamour: ecco il suo Look per la montagna!",
-        "description": "Diletta Leotta, in montagna con la famiglia, sfoggia un look casual-chic non rinunciando allo stile più trendy e glamour neppure in gravidanza.…",
-        "link": "https://www.stylosophy.it/articolo/diletta-leotta-anche-in-gravidanza-non-rinuncia-allo-stile-piu-trendy-e-glamour-ecco-il-suo-look-per-la-montagna/249688/",
-        "pubDate": "2026-04-01T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "L’ultimo laboratorio dove si producono ancora le antiche tovaglie perugine",
-        "description": "All’Atelier Giuditta Brozzetti, tra telai Jacquard e saperi tramandati da quattro generazioni di donne, sopravvive la tradizione delle tovaglie perugine: un pat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ultimo-laboratorio-antiche-tovaglie-perugine-brozetti/",
-        "pubDate": "2026-04-01T12:38:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Giacche per la mezza stagione: 7 modelli perfetti per dare un twist ai look primaverili",
-        "description": "È vero, le temperature ballerine di queste ultime settimane non ci hanno ancora permesso di lasciare definitivamente in panchina cappotti e piumini, ma ormai è …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/giacche-per-la-mezza-stagione-trench-bomber-blazer-pelle-frange-barn-jacket-tendenze-primavera-donna-963277",
-        "pubDate": "2026-04-01T12:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Giacche_mezza_stagione.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Angelini acquisisce Arnaldo Caprai e investe sul Sagrantino di Montefalco",
-        "description": "Angelini Wines &#38; Estates acquisisce la maggioranza di Arnaldo Caprai, storica cantina umbra simbolo del Sagrantino di Montefalco. L’operazione segna un pass…",
-        "link": "https://www.winemag.it/angelini-wines-estates-acquisisce-arnaldo-caprai-e-investe-sul-sagrantino-di-montefalco/",
-        "pubDate": "2026-04-01T12:01:06+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La trattoria cremonese nata tra le crepe della guerra che oggi è un’istituzione",
-        "description": "A Caffè La Crepa, in un palazzo del Quattrocento segnato dalla storia, la cucina di provincia continua a vivere tra marubini, bolliti e una cantina che attraver…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/caffe-la-crepa-trattoria-cremona-bollito-vino/",
-        "pubDate": "2026-04-01T11:58:06+00:00",
+        "title": "Terre d’Oltrepò, salvataggio a rischio. Collis Veneto Wine Group non è più interessato alla cooperativa lombarda",
+        "description": "Il limite minimo dei quintali di uve chiesto dal gruppo veneto per la campagna 2026 non è stato raggiunto. Situazione in stallo. L'appello di Confcooperative Lo…",
+        "link": "https://www.gamberorosso.it/notizie/vino/terre-oltrepo-niente-salvataggio-collis-veneto-wine-group/",
+        "pubDate": "2026-04-02T08:04:09+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -185,6 +185,42 @@
     ],
     "moda": [
       {
+        "title": "Cecilia Rodriguez si prepara all’estate con stile: ecco il suo nuovo bikini firmato Me Fui",
+        "description": "Cecilia Rodriguez mostra sui social il suo nuovo bikini firmato Me Fui: ecco tutti i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/cecilia-rodriguez-si-prepara-allestate-con-stile-ecco-il-suo-nuovo-bikini-firmato-me-fui/249728/",
+        "pubDate": "2026-04-02T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Abiti da cerimonia: i modelli sotto i 150€ da puntare questa primavera",
+        "description": "Arriva la primavera, comincia ufficialmente la stagione delle cerimonie e automaticamente scatta subito anche la caccia al look. Ogni anno, in questo periodo, l…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-da-cerimonia-cosa-indossare-sotto-150-euro-matrimonio-primavera-donna-abiti-semplici-eleganti-low-cost-963467",
+        "pubDate": "2026-04-02T10:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_abiti_cerimonia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Onitsuka Tiger x Versace: quando lo streetwear incontra la Medusa",
+        "description": "Le nuove sneakers nate dalla collaborazione tra Onitsuka Tiger e Versace sono finalmente pronte a diventare oggetto del desiderio. Al centro del progetto c’è un…",
+        "link": "https://www.grazia.it/moda/news-moda/onitsuka-tiger-versace-sneakers-collaborazione-campagna-primavera-estate-2026-963555",
+        "pubDate": "2026-04-02T10:03:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/ok-Versace_SS26_SM_Logo_1080x1350_1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Una primavera ricca di sorprese con The Mall Simon Luxury Outlets",
+        "description": "Con l’arrivo della primavera, cresce la voglia di vivere momenti all’aria aperta, sperimentare nuove passioni e concedersi piccoli piaceri. È in questo scenario…",
+        "link": "https://www.grazia.it/moda/news-moda/una-primavera-ricca-di-sorprese-con-the-mall-simon-luxury-outlets-963375",
+        "pubDate": "2026-04-02T09:27:40+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_the_mall_outlet.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "6 prodotti beauty al cioccolato per una Pasqua super golosa",
         "description": "Questi 6 prodotti beauty al cioccolato sono pronti a rendere la Pasqua ancora più speciale e profumata! Scopriamoli insieme...…",
         "link": "https://www.stylosophy.it/articolo/6-prodotti-beauty-al-cioccolato-per-una-pasqua-super-golosa/249700/",
@@ -192,6 +228,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Pronte a rispolverare i sandali? Ecco i modelli di tendenza da puntare in questa stagione",
+        "description": "Perché aspettare l’arrivo dell’estate! Non è mai troppo presto per cominciare a far spazio ai nuovi sandali che vogliamo al nostro fianco durante la bella stagi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-di-tendenza-2026-primavera-estate-donna-alti-con-tacco-con-zeppa-bassi-flat-rasoterra-zara-lacci-963126",
+        "pubDate": "2026-04-02T08:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_sandali.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "E alla fine arrivò anche “qualcosa di blu”! Ecco il quarto look di Zendaya ispirato al rito portafortuna delle spose",
@@ -275,24 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Fashion crush del mese: cosa mettere in wishlist ad Aprile",
-        "description": "L’abbiamo aspettata così a lungo che adesso non ci sembra quasi vero: la primavera è ufficialmente arrivata e noi abbiamo almeno un paio di buone ragioni per es…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-acquistare-ad-aprile-fashion-crush-giacche-gonna-pantaloni-eleganti-accessori-primavera-donna-962878",
-        "pubDate": "2026-04-01T08:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/01_EVIDENZA_fashion_crush__APRILE2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Weekend bags: le borse da viaggio per una fuga dalla città perfetta",
-        "description": "La voglia di evasione cresce con le giornate più lunghe e le temperature più miti, non è vero? Basta poco infatti per organizzare un fine settimana fuori porta,…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/borse-da-viaggio-babaglio-a-mano-weekend-bags-in-pelle-borsoni-fine-settimana-962663",
-        "pubDate": "2026-04-01T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_weekend_bags.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Ecco i borghi abruzzesi sul Lago di Penne da scoprire questa primavera",
         "description": "Viaggio alla scoperta dei bellissimi borghi abruzzesi che si affacciano sul Lago di Penne, delle vere meraviglie che vale la pena di vivere adesso…",
         "link": "https://www.stylosophy.it/articolo/ecco-i-borghi-abruzzesi-sul-lago-di-penne-da-scoprire-questa-primavera/249587/",
@@ -311,15 +338,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Calzedonia presenta il collant che si crede un “correttore” make up (ed è diventato virale!)",
-        "description": "Arriva la primavera a con lei la voglia di scoprire finalmente le gambe! Ma spesso, dopo in lunghi mesi invernali, non sono ancora al loro &#8220;top&#8221;, le…",
-        "link": "https://www.grazia.it/moda/news-moda/calzedonia-collant-virale-invisible-make-up-effect-gambe-perfette-963100",
-        "pubDate": "2026-03-31T13:30:17+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/calzedonia-leg-perfector.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Belen Rodriguez lancia una nuova capsule collection Me Fui x Rebeya",
         "description": "Belen Rodriguez lancia una capsule collection con i suoi due brand Me Fui e Rebeya: ecco di cosa si tratta.…",
         "link": "https://www.stylosophy.it/articolo/belen-rodriguez-lancia-una-nuova-capsule-collection-me-fui-x-rebeya/249641/",
@@ -327,15 +345,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "“Il Diavolo veste Prada 2”: i look di Anne Hathaway e Meryl Streep durante la promozione del film in Messico",
-        "description": "Il tour promozionale de “Il Diavolo veste Prada 2” è ufficialmente iniziato è questo significa solo una cosa: l’attesa è praticamente finita e ormai manca pochi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/il-diavolo-veste-prada-2-tour-promozionale-anne-hathaway-meryl-streep-sequel-uscita-red-carpet-look-miranda-priestley-andy-sachs-962971",
-        "pubDate": "2026-03-31T10:13:52+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/EVI_Diavolo_Veste_Prada_2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Capelli: qui i sieri anticaduta per una chioma folta e sana!",
@@ -354,18 +363,135 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Questi borghi immersi nella natura sono la meta ideale per un weekend di primavera",
-        "description": "Ecco cinque borghi immersi nella natura che vale la pena scoprire durante questa primavera…",
-        "link": "https://www.stylosophy.it/articolo/questi-borghi-immersi-nella-natura-sono-la-meta-ideale-per-un-weekend-di-primavera/249574/",
-        "pubDate": "2026-03-30T17:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Vinitaly 2026: ecco tutti gli eventi del Gambero Rosso tra degustazioni, masterclass e presentazioni",
+        "description": "Quest'anno il Gambero Rosso festeggia i suoi primi 40 anni partendo proprio dalla fiera del vino di Verona con una masterclass dedicata a otto icone assolute de…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-2026-degustazioni-masterclass-gambero-rosso/",
+        "pubDate": "2026-04-02T15:28:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non sono ammesse briciole”: ecco cosa mangiano gli astronauti diretti sulla Luna",
+        "description": "Dalla missione Artemis II ai pasti studiati per la microgravità: tortillas, mac and cheese e cibi speciali dove anche una briciola può diventare un rischio…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/astronauti-cosa-mangiano-luna/",
+        "pubDate": "2026-04-02T15:28:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’aperitivo italiano è ufficialmente in crisi",
+        "description": "Secondo i dati emersi in un recente rapporto sui consumi degli italiani ci sono grandi cambiamenti in atto: a farne le spese è un simbolo della socialità italia…",
+        "link": "https://www.dissapore.com/notizie/laperitivo-italiano-e-ufficialmente-in-crisi/",
+        "pubDate": "2026-04-02T14:26:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2020/10/ristorante-3.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Calabria c’è un vino da meditazione molto raro, ottenuto ancora oggi con una tecnica millenaria",
+        "description": "Il Moscato di Saracena è un unicum, che deriva dalla fermentazione contemporanea di mosto cotto e uve appassite. Oggi è prodotto solo da una decina di famiglie…",
+        "link": "https://www.gamberorosso.it/notizie/vino/calabria-moscato-saracena-tecnica-produzione-millenaria/",
+        "pubDate": "2026-04-02T14:05:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Roma piange: è morto Remo, fondatore della storica pizzeria romana di Testaccio",
+        "description": "A 90 anni scompare Remo Stecconi, fondatore della storica Pizzeria Remo: mezzo secolo di pizza bassa e croccante e un pezzo di romanità autentica che resiste al…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/morto-a-remo-storica-pizzeria-roma-testaccio/",
+        "pubDate": "2026-04-02T13:10:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Lazio porta a Vinitaly la Dolce Vita: “Sarà il padiglione più bello della fiera”",
+        "description": "Blind tasting, podcast, degustazioni all'enoteca regionale e omaggio al grande cinema: la viticoltura regionale si presenta compatta a Verona…",
+        "link": "https://www.gamberorosso.it/notizie/vino/lazio-arsial-padiglione-vinitaly-2026-dolce-vita/",
+        "pubDate": "2026-04-02T12:06:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dove comprare il casatiello a Napoli",
+        "description": "Quella del casatiello è la mappa di cui avete bisogno per affrontare la Pasqua napoletana. Gli indirizzi testati da noi e approvati dai locals. \nL'articolo Dove…",
+        "link": "https://www.dissapore.com/spesa/dove-comprare-il-casatiello-a-napoli/",
+        "pubDate": "2026-04-02T11:55:39+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Casatiello-napoletano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I due fratelli che hanno trasformato i panini fuori dallo stadio di San Siro in un fenomeno social",
+        "description": "I fratelli Lentini hanno trasformato le salamelle dello stadio in un brand virale: da Stadio San Siro al primo locale in città, tra smash salamella, file infini…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panini-stadio-san-siro-lentini-salamellaz/",
+        "pubDate": "2026-04-02T10:50:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Brunello di Montalcino, Guglielmo Ascheri nuovo direttore del Consorzio",
+        "description": "Cambio alla direzione del Consorzio del vino Brunello di Montalcino. Guglielmo Ascheri è il nuovo direttore dell’ente consortile. La nomina arriva dal consiglio…",
+        "link": "https://www.winemag.it/brunello-montalcino-guglielmo-ascheri-nuovo-direttore-consorzio/",
+        "pubDate": "2026-04-02T10:42:35+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Consorzio Vini di Romagna, Roberto Monti confermato presidente",
+        "description": "L’Assemblea dei Soci del Consorzio Vini di Romagna ha eletto il nuovo Consiglio di Amministrazione, che nella prima riunione ha confermato Roberto Monti alla gu…",
+        "link": "https://www.winemag.it/consorzio-vini-romagna-roberto-monti-confermato-presidente/",
+        "pubDate": "2026-04-02T10:26:07+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“L’Argentina taglia i fondi alla guida Michelin”: salta la cerimonia delle stelle, solo online",
+        "description": "Il governo Milei ritira il finanziamento alla Guida Michelin, evento trasformato in formato virtuale e sostegno lasciato alle città di Buenos Aires e Mendoza…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/argentina-taglia-fondi-michelin-salta-cerimonia-guida/",
+        "pubDate": "2026-04-02T10:18:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa ha di tanto speciale la nuova bottiglia più cara del mondo",
+        "description": "Battuta all'asta a New York, la nuova bottiglia più cara del mondo ha superato di centinaia di migliaia di dollari il record precedente, sempre della stessa can…",
+        "link": "https://www.dissapore.com/notizie/cosa-ha-di-tanto-speciale-la-nuova-bottiglia-piu-cara-del-mondo/",
+        "pubDate": "2026-04-02T10:03:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/DRC-muro-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Serve un piano straordinario per la promozione di vino negli Stati Uniti”. Coldiretti riunisce tutta la filiera a Roma",
+        "description": "Il sindacato chiama buyer esteri, istituzioni ed esperti in un incontro che è la prima tappa di una serie di iniziative a sostegno delle cantine nazionali. E la…",
+        "link": "https://www.gamberorosso.it/notizie/vino/piano-straordinario-promozione-vino-stati-uniti-coldiretti/",
+        "pubDate": "2026-04-02T09:43:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Terre d’Oltrepò, salvataggio a rischio. Collis Veneto Wine Group non è più interessato alla cooperativa lombarda",
+        "description": "Il limite minimo dei quintali di uve chiesto dal gruppo veneto per la campagna 2026 non è stato raggiunto. Situazione in stallo. L'appello di Confcooperative Lo…",
+        "link": "https://www.gamberorosso.it/notizie/vino/terre-oltrepo-niente-salvataggio-collis-veneto-wine-group/",
+        "pubDate": "2026-04-02T08:04:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Nel Kent hanno nascosto delle mucche per proteggerle dagli influencer",
         "description": "I bovini delle Highlands, celebri per la loro carne, sono troppo \"carini\" e hanno sfondato sui social, per questo una riserva naturale ha dovuto allontanarli.\nL…",
@@ -376,19 +502,10 @@
         "source": "Dissapore"
       },
       {
-        "title": "Vinitaly 2026: dove mangiare fuori Verona (tra Garda, Valpolicella e dintorni)",
-        "description": "Durante Vinitaly 2026 la città si riempie, ma basta spostarsi di pochi chilometri per trovare trattorie, pizzerie e ristoranti da segnare: ecco gli indirizzi mi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/vinitaly-dove-mangiare-verona-dintorni/",
-        "pubDate": "2026-04-02T07:21:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Blocco impianti, meno rese e più promozione. Dalla masseria di Vespa il vino ridisegna il suo futuro",
-        "description": "Tra le proposte di Federvini spunta l'idea di dare le deleghe del Turismo al ministro Lollobrigida. Uiv guarda ai giovani: \"Serve adeguare gli stipendi: altro c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/forum-cucina-italiana-manduria-proposte-futuro-vino/",
-        "pubDate": "2026-04-02T06:02:25+00:00",
+        "title": "A Roma un festival celebra sua maestà il carciofo",
+        "description": "A Roma, dal 12 al 16 aprile, una cinque giorni dedicata al carciofo romanesco con iniziative e menu speciali nei ristoranti aderenti…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/roma-festival-carciofo-romanesco/",
+        "pubDate": "2026-04-02T07:27:49+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -401,15 +518,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Cosa racconta davvero il tuo frigorifero (e perché dovresti guardarlo meglio)",
-        "description": "Tra avanzi, ossessioni salutiste e piccoli vizi nascosti, il frigo diventa uno specchio sincero delle nostre abitudini: la redazione del Gambero Rosso lo apre s…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cosa-dicono-di-noi-frigoriferi-redazione-gambero-rosso/",
-        "pubDate": "2026-04-02T05:06:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Vinitaly c’è o ci spam?",
@@ -435,114 +543,6 @@
         "link": "https://www.dissapore.com/notizie/al-tic-festival-2026-dissapore-presenta-le-migliori-pasticcerie-dellumbria/",
         "pubDate": "2026-04-01T14:14:32+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/LANCIO_Locandina_PANDA.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vinitaly 2026, Assovini Sicilia punta sull’enoturismo come leva strategica",
-        "description": "L&#8217;enoturismo diventa asse centrale della strategia di Assovini Sicilia in occasione della 58ª edizione di Vinitaly 2026. L’associazione, che riunisce oggi…",
-        "link": "https://www.winemag.it/vinitaly-2026-assovini-sicilia-punta-enoturismo-come-leva-strategica/",
-        "pubDate": "2026-04-01T13:28:18+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "L’ultimo laboratorio dove si producono ancora le antiche tovaglie perugine",
-        "description": "All’Atelier Giuditta Brozzetti, tra telai Jacquard e saperi tramandati da quattro generazioni di donne, sopravvive la tradizione delle tovaglie perugine: un pat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ultimo-laboratorio-antiche-tovaglie-perugine-brozetti/",
-        "pubDate": "2026-04-01T12:38:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Angelini acquisisce Arnaldo Caprai e investe sul Sagrantino di Montefalco",
-        "description": "Angelini Wines &#38; Estates acquisisce la maggioranza di Arnaldo Caprai, storica cantina umbra simbolo del Sagrantino di Montefalco. L’operazione segna un pass…",
-        "link": "https://www.winemag.it/angelini-wines-estates-acquisisce-arnaldo-caprai-e-investe-sul-sagrantino-di-montefalco/",
-        "pubDate": "2026-04-01T12:01:06+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La trattoria cremonese nata tra le crepe della guerra che oggi è un’istituzione",
-        "description": "A Caffè La Crepa, in un palazzo del Quattrocento segnato dalla storia, la cucina di provincia continua a vivere tra marubini, bolliti e una cantina che attraver…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/caffe-la-crepa-trattoria-cremona-bollito-vino/",
-        "pubDate": "2026-04-01T11:58:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Angelini Wine & Estates acquisisce la maggioranza della cantina umbra Arnaldo Caprai",
-        "description": "Investimento stimato: 20 milioni di euro. Marco Caprai rimarrà alla guida dell'azienda fondata dal padre. L'obiettivo è creare un polo del vino italiano d’alta …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/arnaldo-caprai-acquisizione-angelini-wine-estates/",
-        "pubDate": "2026-04-01T11:26:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Roma c’è un piccolo locale dove scoprire uno dei piatti più amati del Centro America",
-        "description": "Da Pulgarcito si mangiano le pupusas, simbolo della cucina salvadoregna: focaccine di mais ripiene, servite con curtido e sapori autentici ancora poco conosciut…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/roma-pulgarcito-garbatella-cucina-sud-america-el-salvador-pupusas/",
-        "pubDate": "2026-04-01T10:37:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Carolyn Smith: “Da giovane ballerina mi hanno chiesto di dimagrire, è stato pesante”",
-        "description": "Grande ospite al Gambero Rosso Roof Garden di Casa Sanremo durante il Festival, Carolyn Smith, ballerina, insegnante e giudice di \"Ballando con le Stelle\", ha r…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/carolyn-smith-intervista/",
-        "pubDate": "2026-04-01T10:14:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Per il Prosecco massimo risultato dall’intesa con l’Australia”. Consorzio e Coldiretti rispondono alle critiche",
-        "description": "Soddisfatto il presidente Guidolin che parla di un buon compromesso. Dubbi di Federvini e Assodistil sulla tutela delle Ig (grappa compresa), mentre il Ceev inc…",
-        "link": "https://www.gamberorosso.it/notizie/vino/accordo-australia-prosecco-risposta-consorzio/",
-        "pubDate": "2026-04-01T10:06:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“A casa mia il Venerdì Santo si mangia una focaccia antica”: ecco la pizza con l’erba dell’Irpinia",
-        "description": "Tra digiuno, riti pasquali e tradizioni contadine, in Irpinia la Settimana Santa profuma di erbe spontanee e focacce antiche: una ricetta che unisce religione, …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/venerdi-santo-pizza-erba-irpinia/",
-        "pubDate": "2026-04-01T10:05:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Stanno cercando di taroccare il Margherino, krapfen fritto “alla veneziana”",
-        "description": "Qualcuno ha provato a registrare un prodotto decisamente troppo simile al celebre Margherino della pasticceria Milady, e il suo creatore passa al contrattacco.\n…",
-        "link": "https://www.dissapore.com/notizie/stanno-cercando-di-taroccare-il-margherino-krapfen-fritto-alla-veneziana/",
-        "pubDate": "2026-04-01T09:56:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/04/0082-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Alla scoperta dei benefici e delle sfumature dell’alimentazione biologica",
-        "description": "Il panorama gastronomico contemporaneo offre una varietà di opzioni senza precedenti, permettendo a ogni consumatore di personalizzare la propria dispensa in ba…",
-        "link": "https://www.gustoblog.it/2026/04/01/scoperta-benefici-sfumature-alimentazione-biologica/",
-        "pubDate": "2026-04-01T08:48:49+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il riscaldamento degli oceani sta uccidendo tutte le ostriche giapponesi",
-        "description": "Un'estate calda senza precedenti e l'assenza di piogge sono alla base di una moria del 90% degli esemplari nella prefettura di Hiroshima, che produce le ostrich…",
-        "link": "https://www.dissapore.com/notizie/il-riscaldamento-degli-oceani-sta-uccidendo-tutte-le-ostriche-giapponesi/",
-        "pubDate": "2026-04-01T08:45:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/coltura-di-ostriche-a-hiroshima-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
