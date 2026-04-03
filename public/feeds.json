@@ -1,7 +1,52 @@
 {
-  "generated": "2026-04-02T20:01:16.544289+00:00",
+  "generated": "2026-04-03T08:35:57.299708+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Un dottorando ha dimostrato che il pane con il lievito madre è più buono",
+        "description": "Una tesi di ricerca mostra come l'ambiente acido del lievito madre trasformi le fibre del pane, rendendolo più digeribile e più profumato.\nL'articolo Un dottora…",
+        "link": "https://www.dissapore.com/notizie/un-dottorando-ha-dimostrato-che-il-pane-con-il-lievito-madre-e-piu-buono/",
+        "pubDate": "2026-04-03T08:21:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lievito-madre-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Aprile dolce dormire? Con questi completi in stile pigiama il sonno può aspettare!",
+        "description": "Curiosando nel guardaroba quotidiano ci sono tantissimi elementi specifici per alcuni momenti della giornata che, pensandoci bene, si rivelano perfetti anche pe…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/completo-pigiama-per-uscire-pigiami-eleganti-in-seta-pajamas-trend-963195",
+        "pubDate": "2026-04-03T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/DESK-pigiama-look-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "I migliori casatielli di Napoli: dove comprarli (tra tradizione e nuove versioni)",
+        "description": "Nomi noti o indirizzi fuori dalle rotte conosciute, ecco dove acquistare casatielli (e tortani) nel capoluogo partenopeo, con qualche chicca in provincia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/i-migliori-casatielli-di-napoli-dove-comprarli-tra-tradizione-e-nuove-versioni/",
+        "pubDate": "2026-04-03T05:56:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vinitaly a Verona, cosa fare la sera: il fuori salone tra wine bar e dj set",
+        "description": "Dal centro storico alle Gallerie Mercatali, Verona si trasforma durante il Vinitaly in un circuito diffuso tra calici, cocktail e musica fino a notte fonda…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-sera-dove-andare-bere-ballare-verona/",
+        "pubDate": "2026-04-03T05:15:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Prima del Valtènesi: il rosé come cultura",
+        "description": "La Valtènesi consolida il proprio posizionamento nel panorama vitivinicolo italiano puntando su identità, semplificazione e riconoscibilità. Una visione ribadit…",
+        "link": "https://www.winemag.it/la-prima-del-valtenesi-il-rose-come-cultura/",
+        "pubDate": "2026-04-03T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/La-Prima-del-Valtenesi-il-rose-come-cultura-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Chi investe sui vini no alcol? Ecco una prima mappa della dealcolazione made in Italy",
         "description": "Col mercato interno ancora in fase embrionale le iniziative si concentrano soprattutto a Nord, ma c’è anche chi punta sulla Puglia. Parlano i brand che stanno p…",
@@ -102,15 +147,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Roma piange: è morto Remo, fondatore della storica pizzeria romana di Testaccio",
-        "description": "A 90 anni scompare Remo Stecconi, fondatore della storica Pizzeria Remo: mezzo secolo di pizza bassa e croccante e un pezzo di romanità autentica che resiste al…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-a-remo-storica-pizzeria-roma-testaccio/",
-        "pubDate": "2026-04-02T13:10:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cecilia Rodriguez si prepara all’estate con stile: ecco il suo nuovo bikini firmato Me Fui",
         "description": "Cecilia Rodriguez mostra sui social il suo nuovo bikini firmato Me Fui: ecco tutti i dettagli.…",
         "link": "https://www.stylosophy.it/articolo/cecilia-rodriguez-si-prepara-allestate-con-stile-ecco-il-suo-nuovo-bikini-firmato-me-fui/249728/",
@@ -129,15 +165,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Il Lazio porta a Vinitaly la Dolce Vita: “Sarà il padiglione più bello della fiera”",
-        "description": "Blind tasting, podcast, degustazioni all'enoteca regionale e omaggio al grande cinema: la viticoltura regionale si presenta compatta a Verona…",
-        "link": "https://www.gamberorosso.it/notizie/vino/lazio-arsial-padiglione-vinitaly-2026-dolce-vita/",
-        "pubDate": "2026-04-02T12:06:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dove comprare il casatiello a Napoli",
         "description": "Quella del casatiello è la mappa di cui avete bisogno per affrontare la Pasqua napoletana. Gli indirizzi testati da noi e approvati dai locals. \nL'articolo Dove…",
         "link": "https://www.dissapore.com/spesa/dove-comprare-il-casatiello-a-napoli/",
@@ -154,36 +181,18 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Abiti da cerimonia: i modelli sotto i 150€ da puntare questa primavera",
-        "description": "Arriva la primavera, comincia ufficialmente la stagione delle cerimonie e automaticamente scatta subito anche la caccia al look. Ogni anno, in questo periodo, l…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-da-cerimonia-cosa-indossare-sotto-150-euro-matrimonio-primavera-donna-abiti-semplici-eleganti-low-cost-963467",
-        "pubDate": "2026-04-02T10:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_abiti_cerimonia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Consorzio Vini di Romagna, Roberto Monti confermato presidente",
-        "description": "L’Assemblea dei Soci del Consorzio Vini di Romagna ha eletto il nuovo Consiglio di Amministrazione, che nella prima riunione ha confermato Roberto Monti alla gu…",
-        "link": "https://www.winemag.it/consorzio-vini-romagna-roberto-monti-confermato-presidente/",
-        "pubDate": "2026-04-02T10:26:07+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cosa ha di tanto speciale la nuova bottiglia più cara del mondo",
-        "description": "Battuta all'asta a New York, la nuova bottiglia più cara del mondo ha superato di centinaia di migliaia di dollari il record precedente, sempre della stessa can…",
-        "link": "https://www.dissapore.com/notizie/cosa-ha-di-tanto-speciale-la-nuova-bottiglia-piu-cara-del-mondo/",
-        "pubDate": "2026-04-02T10:03:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/DRC-muro-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Aprile dolce dormire? Con questi completi in stile pigiama il sonno può aspettare!",
+        "description": "Curiosando nel guardaroba quotidiano ci sono tantissimi elementi specifici per alcuni momenti della giornata che, pensandoci bene, si rivelano perfetti anche pe…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/completo-pigiama-per-uscire-pigiami-eleganti-in-seta-pajamas-trend-963195",
+        "pubDate": "2026-04-03T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/03/DESK-pigiama-look-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Pasquetta a Roma: parchi, borghi ed esperienze da vivere nei dintorni della Capitale",
         "description": "Tra natura, gite fuori porta e scorci storici, ecco le mete perfette per una giornata speciale…",
@@ -266,11 +275,11 @@
         "source": "Grazia"
       },
       {
-        "title": "E alla fine arrivò anche “qualcosa di blu”! Ecco il quarto look di Zendaya ispirato al rito portafortuna delle spose",
-        "description": "Era solo questione di tempo, lo sapevamo che prima o poi Zendaya avrebbe sfoggiato un look total blu durante il tour promozionale di “The Drama”.&#160; Ieri l’a…",
+        "title": "E alla fine arrivò anche “qualcosa di blu”! Ecco il quarto look di Zendaya (con scherzetto)",
+        "description": "Ci aveva ingannato lasciandoci pensare che il quarto outfit ispirato al rito portafortuna delle spose fosse quello indossato durante il “Tonight Show” di Jimmy …",
         "link": "https://www.grazia.it/moda/celebrity-style/zendaya-the-drama-look-blu-sposa-matrimonio-robert-pattinson-film-963504",
         "pubDate": "2026-04-02T07:32:17+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Zendaya.jpg",
+        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Zendaya-2.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
@@ -298,15 +307,6 @@
         "link": "https://www.grazia.it/moda/news-moda/falabella-stella-mccartney-nuova-campagna-renee-rapp-963267",
         "pubDate": "2026-04-01T14:51:54+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/04/ok-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’abito di Sadie Sink si ispira a un film cult di fine anni 90… L’avete riconosciuto?",
-        "description": "Abbiamo imparato a conoscerla (e adorarla) nei panni della coraggiosa Max Mayfield nella serie tv  “Stringer Things” ma sembrerebbe che Sadie Sink, a differenza…",
-        "link": "https://www.grazia.it/moda/celebrity-style/sadie-sink-abito-prada-romeo-juliet-film-1996-963351",
-        "pubDate": "2026-04-01T13:56:18+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/Sadie-Sink_Prada_apertura.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
@@ -366,6 +366,42 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Un dottorando ha dimostrato che il pane con il lievito madre è più buono",
+        "description": "Una tesi di ricerca mostra come l'ambiente acido del lievito madre trasformi le fibre del pane, rendendolo più digeribile e più profumato.\nL'articolo Un dottora…",
+        "link": "https://www.dissapore.com/notizie/un-dottorando-ha-dimostrato-che-il-pane-con-il-lievito-madre-e-piu-buono/",
+        "pubDate": "2026-04-03T08:21:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lievito-madre-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I migliori casatielli di Napoli: dove comprarli (tra tradizione e nuove versioni)",
+        "description": "Nomi noti o indirizzi fuori dalle rotte conosciute, ecco dove acquistare casatielli (e tortani) nel capoluogo partenopeo, con qualche chicca in provincia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/i-migliori-casatielli-di-napoli-dove-comprarli-tra-tradizione-e-nuove-versioni/",
+        "pubDate": "2026-04-03T05:56:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vinitaly a Verona, cosa fare la sera: il fuori salone tra wine bar e dj set",
+        "description": "Dal centro storico alle Gallerie Mercatali, Verona si trasforma durante il Vinitaly in un circuito diffuso tra calici, cocktail e musica fino a notte fonda…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-sera-dove-andare-bere-ballare-verona/",
+        "pubDate": "2026-04-03T05:15:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Prima del Valtènesi: il rosé come cultura",
+        "description": "La Valtènesi consolida il proprio posizionamento nel panorama vitivinicolo italiano puntando su identità, semplificazione e riconoscibilità. Una visione ribadit…",
+        "link": "https://www.winemag.it/la-prima-del-valtenesi-il-rose-come-cultura/",
+        "pubDate": "2026-04-03T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/03/La-Prima-del-Valtenesi-il-rose-come-cultura-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Chi investe sui vini no alcol? Ecco una prima mappa della dealcolazione made in Italy",
         "description": "Col mercato interno ancora in fase embrionale le iniziative si concentrano soprattutto a Nord, ma c’è anche chi punta sulla Puglia. Parlano i brand che stanno p…",
@@ -448,24 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Roma piange: è morto Remo, fondatore della storica pizzeria romana di Testaccio",
-        "description": "A 90 anni scompare Remo Stecconi, fondatore della storica Pizzeria Remo: mezzo secolo di pizza bassa e croccante e un pezzo di romanità autentica che resiste al…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-a-remo-storica-pizzeria-roma-testaccio/",
-        "pubDate": "2026-04-02T13:10:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Lazio porta a Vinitaly la Dolce Vita: “Sarà il padiglione più bello della fiera”",
-        "description": "Blind tasting, podcast, degustazioni all'enoteca regionale e omaggio al grande cinema: la viticoltura regionale si presenta compatta a Verona…",
-        "link": "https://www.gamberorosso.it/notizie/vino/lazio-arsial-padiglione-vinitaly-2026-dolce-vita/",
-        "pubDate": "2026-04-02T12:06:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dove comprare il casatiello a Napoli",
         "description": "Quella del casatiello è la mappa di cui avete bisogno per affrontare la Pasqua napoletana. Gli indirizzi testati da noi e approvati dai locals. \nL'articolo Dove…",
         "link": "https://www.dissapore.com/spesa/dove-comprare-il-casatiello-a-napoli/",
@@ -527,24 +545,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/04/Vinitaly-c-e-o-ci-spam-perplessita-tra-operatori-del-vino-per-sistema-matchmaking-e-gestione-contatti-veronafiere-2026.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Gran Colomba Maina classica: prova d’assaggio",
-        "description": "La nostra recensione de La Gran Colomba Maina: prova d'assaggio, prezzo, lista ingredienti e giudizio finale.\nL'articolo Gran Colomba Maina classica: prova d&#8…",
-        "link": "https://www.dissapore.com/spesa/colomba-maina-classica-recensione-2026/",
-        "pubDate": "2026-04-01T15:37:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/Gran-Colomba-Maina-classica-2026-4-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Al TIC Festival 2026 Dissapore presenta le migliori pasticcerie dell’Umbria",
-        "description": "Terni si prepara a tornare al centro del dibattito sulla comunicazione digitale e l'influencer marketing col TIC Festival 2026, e ci saremo anche noi.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/al-tic-festival-2026-dissapore-presenta-le-migliori-pasticcerie-dellumbria/",
-        "pubDate": "2026-04-01T14:14:32+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/LANCIO_Locandina_PANDA.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
