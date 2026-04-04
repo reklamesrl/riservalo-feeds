@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-03T19:54:30.082152+00:00",
+  "generated": "2026-04-04T08:00:34.870814+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Voleva fare la stilista, oggi è una super pasticciera: Loretta Fanella apre a Livorno",
+        "description": "Dalle esperienze con Carlo Cracco e Ferran Adrià al nuovo locale nel centro di Livorno: colazioni, dessert iconici, piatti di mare e cocktail ispirati al mondo …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/super-pasticciera-loretta-fanella-apre-pasticceria-livorno/",
+        "pubDate": "2026-04-04T07:38:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La famiglia di musicisti che sulle colline veronesi produce uno dei migliori Soave",
+        "description": "Ai piedi dei Monti Lessini si trova la cantina dei Franchetto, che nell'ultima edizione della guida Vini d'Italia abbiamo premiato per la prima volta con i Tre …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/soave-la-capelina-franchetto/",
+        "pubDate": "2026-04-04T07:13:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La merenda a Vinitaly: i baci di Giulietta sono i dolci da provare in queste 5 pasticcerie di Verona",
+        "description": "Friabili e in grado di conservarsi a lungo, i baci di Giulietta sono i biscotti simbolo di Verona: durante Vinitaly, un assaggio è d'obbligo in queste cinque pa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/vinitaly-baci-giulietta-dolci-pasticcerie-verona/",
+        "pubDate": "2026-04-04T05:29:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Quale colomba comprare al supermercato: la nostra classifica del 2026",
         "description": "La prova d'assaggio delle colombe del supermercato. Da Balocco a Tre Marie, passando per Motta, Bauli e Maina, ecco la classifica per non farsi fregare dalle et…",
@@ -138,24 +165,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Ora comanda il cliente?”: la rivoluzione silenziosa dei ristoranti fine dining",
-        "description": "Dal caso di Enigma al dibattito di Madrid Fusión: menu più flessibili, tempi ridotti e nuove regole stanno ridisegnando il rapporto tra chef e cliente…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cliente-comanda-ristoranti-stellati/",
-        "pubDate": "2026-04-03T10:43:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’uovo di Pasqua da discount che sta sfidando i più famosi e costa solo 7 euro",
-        "description": "Dall’Irpinia agli scaffali di Eurospin: l’uovo bigusto prodotto da Oliviero Dolciaria conquista i social con qualità sorprendente e prezzo accessibile…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/uovo-pasqua-cioccolato-discount-7-euro/",
-        "pubDate": "2026-04-03T09:26:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Le migliori creme solari per proteggere il viso dai primi raggi UV",
         "description": "Sono queste le 5 creme solari viso più buone della Primavera 2026, per un'ottima protezione dai raggi UVA e UVB. Da non perdere!…",
         "link": "https://www.stylosophy.it/articolo/le-migliori-creme-solari-per-proteggere-il-viso-dai-primi-raggi-uv/249714/",
@@ -172,15 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_cosa_comprare_HM.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Un dottorando ha dimostrato che il pane con il lievito madre è più buono",
-        "description": "Una tesi di ricerca mostra come l'ambiente acido del lievito madre trasformi le fibre del pane, rendendolo più digeribile e più profumato.\nL'articolo Un dottora…",
-        "link": "https://www.dissapore.com/notizie/un-dottorando-ha-dimostrato-che-il-pane-con-il-lievito-madre-e-piu-buono/",
-        "pubDate": "2026-04-03T08:21:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lievito-madre-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Voleva fare la stilista, oggi è una super pasticciera: Loretta Fanella apre a Livorno",
+        "description": "Dalle esperienze con Carlo Cracco e Ferran Adrià al nuovo locale nel centro di Livorno: colazioni, dessert iconici, piatti di mare e cocktail ispirati al mondo …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/super-pasticciera-loretta-fanella-apre-pasticceria-livorno/",
+        "pubDate": "2026-04-04T07:38:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La famiglia di musicisti che sulle colline veronesi produce uno dei migliori Soave",
+        "description": "Ai piedi dei Monti Lessini si trova la cantina dei Franchetto, che nell'ultima edizione della guida Vini d'Italia abbiamo premiato per la prima volta con i Tre …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/soave-la-capelina-franchetto/",
+        "pubDate": "2026-04-04T07:13:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La merenda a Vinitaly: i baci di Giulietta sono i dolci da provare in queste 5 pasticcerie di Verona",
+        "description": "Friabili e in grado di conservarsi a lungo, i baci di Giulietta sono i biscotti simbolo di Verona: durante Vinitaly, un assaggio è d'obbligo in queste cinque pa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/vinitaly-baci-giulietta-dolci-pasticcerie-verona/",
+        "pubDate": "2026-04-04T05:29:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Quale colomba comprare al supermercato: la nostra classifica del 2026",
         "description": "La prova d'assaggio delle colombe del supermercato. Da Balocco a Tre Marie, passando per Motta, Bauli e Maina, ecco la classifica per non farsi fregare dalle et…",
         "link": "https://www.dissapore.com/spesa/classifica-colombe-supermercato-2026/",
@@ -457,24 +484,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Ora comanda il cliente?”: la rivoluzione silenziosa dei ristoranti fine dining",
-        "description": "Dal caso di Enigma al dibattito di Madrid Fusión: menu più flessibili, tempi ridotti e nuove regole stanno ridisegnando il rapporto tra chef e cliente…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cliente-comanda-ristoranti-stellati/",
-        "pubDate": "2026-04-03T10:43:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’uovo di Pasqua da discount che sta sfidando i più famosi e costa solo 7 euro",
-        "description": "Dall’Irpinia agli scaffali di Eurospin: l’uovo bigusto prodotto da Oliviero Dolciaria conquista i social con qualità sorprendente e prezzo accessibile…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/uovo-pasqua-cioccolato-discount-7-euro/",
-        "pubDate": "2026-04-03T09:26:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Un dottorando ha dimostrato che il pane con il lievito madre è più buono",
         "description": "Una tesi di ricerca mostra come l'ambiente acido del lievito madre trasformi le fibre del pane, rendendolo più digeribile e più profumato.\nL'articolo Un dottora…",
         "link": "https://www.dissapore.com/notizie/un-dottorando-ha-dimostrato-che-il-pane-con-il-lievito-madre-e-piu-buono/",
@@ -482,15 +491,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lievito-madre-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "I migliori casatielli di Napoli: dove comprarli (tra tradizione e nuove versioni)",
-        "description": "Nomi noti o indirizzi fuori dalle rotte conosciute, ecco dove acquistare casatielli (e tortani) nel capoluogo partenopeo, con qualche chicca in provincia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/i-migliori-casatielli-di-napoli-dove-comprarli-tra-tradizione-e-nuove-versioni/",
-        "pubDate": "2026-04-03T05:56:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "La Prima del Valtènesi: il rosé come cultura",
