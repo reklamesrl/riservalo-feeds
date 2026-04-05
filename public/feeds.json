@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-05T14:04:50.550988+00:00",
+  "generated": "2026-04-05T19:50:10.063570+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Così delicato e così cool: il nuovo colore must-have per l’arredo primaverile",
+        "description": "Ha la freschezza della primavera ma il carattere deciso dei look più contemporanei. Questo nuovo colore sta conquistando interni e designer, diventando il prota…",
+        "link": "https://www.stylosophy.it/articolo/il-nuovo-colore-must-have-per-larredo-primaverile/226036/",
+        "pubDate": "2026-04-05T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "L’ex discografico italo-americano che produce una delle migliori Barbera d’Asti sotto i 15 euro",
+        "description": "Nel Monferrato c'è una cantina, nata meno di dieci anni fa dal felice incontro tra Curt Frasca e Matteo Gerbi, che ha puntato (quasi) tutto sulla barbera. Ecco …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/barbera-dasti-frasca-la-guaragna-sotto-15-euro/",
+        "pubDate": "2026-04-05T15:30:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sul promontorio di Piombino c’è una piccola azienda che propone un ottimo Vermentino",
+        "description": "Su un paesaggio dominato dal mare che modella anche le vigne e il microclima, si affaccia Sant'Agnese, l'azienda della famiglia Gigli. Solo sei ettari dedicati …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vermentino-kalendamaia-santagnese-sotto-20-euro/",
+        "pubDate": "2026-04-05T15:29:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Elettra Lamborghini brilla a Canzonissima con questa meravigliosa tuta scintillante!",
         "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha sfoggiato una tuta scintillante.…",
@@ -154,36 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/colomba-balocco-ricetta-classica-2026.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "E’ una new entry tra i Borghi più belli d’Italia, una meraviglia sulla  collina Biellese",
-        "description": "Un quartiere sospeso tra storia e bellezza che conquista un nuovo riconoscimento entrando tra i borghi più belli d'Italia.…",
-        "link": "https://www.stylosophy.it/articolo/una-new-entry-tra-i-borghi-piu-belli-ditalia-sulla-collina-biellese/249743/",
-        "pubDate": "2026-04-03T16:00:00+00:00",
+        "title": "Così delicato e così cool: il nuovo colore must-have per l’arredo primaverile",
+        "description": "Ha la freschezza della primavera ma il carattere deciso dei look più contemporanei. Questo nuovo colore sta conquistando interni e designer, diventando il prota…",
+        "link": "https://www.stylosophy.it/articolo/il-nuovo-colore-must-have-per-larredo-primaverile/226036/",
+        "pubDate": "2026-04-05T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Cos’è il Granone Lodigiano, il formaggio dimenticato da cui nascono tutti i grana",
-        "description": "Dal Medioevo dei monaci all’oblio fino alla rinascita con la famiglia Pozzali: il Granone Lodigiano, capostipite storico dei formaggi grana italiani…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/granone-lodigiano-formaggi-dimenticato-grana/",
-        "pubDate": "2026-04-03T14:40:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Le Fashion Pills di Pasqua raccontano un dialogo continuo tra passato e futuro, dove ogni brand riscrive il proprio DNA con leggerezza, tra heritage e visioni c…",
-        "link": "https://www.grazia.it/moda/news-moda/atelier-vm-fatima-chantelle-150-anni-amazon-allsaints-fila-pop-up-rinascente-david-beckham-boss-collanine-colorate-eme-sneakers-valsport-1920-963779",
-        "pubDate": "2026-04-03T14:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/Senza-titolo-54.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Elettra Lamborghini brilla a Canzonissima con questa meravigliosa tuta scintillante!",
         "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha sfoggiato una tuta scintillante.…",
@@ -329,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Cecilia Rodriguez si prepara all’estate con stile: ecco il suo nuovo bikini firmato Me Fui",
-        "description": "Cecilia Rodriguez mostra sui social il suo nuovo bikini firmato Me Fui: ecco tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/cecilia-rodriguez-si-prepara-allestate-con-stile-ecco-il-suo-nuovo-bikini-firmato-me-fui/249728/",
-        "pubDate": "2026-04-02T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Mercedes-Benz Bucharest Fashion Week: un viaggio tra identità, design e nuove prospettive",
         "description": "Ci sono viaggi che iniziano con una destinazione precisa, e altri che si trasformano lungo il percorso. La Bucharest Fashion Week è stata entrambe le cose: un p…",
         "link": "https://www.grazia.it/moda/tendenze-moda/bucharest-fashion-week-viaggio-moda-wizz-air-963533",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "L’ex discografico italo-americano che produce una delle migliori Barbera d’Asti sotto i 15 euro",
+        "description": "Nel Monferrato c'è una cantina, nata meno di dieci anni fa dal felice incontro tra Curt Frasca e Matteo Gerbi, che ha puntato (quasi) tutto sulla barbera. Ecco …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/barbera-dasti-frasca-la-guaragna-sotto-15-euro/",
+        "pubDate": "2026-04-05T15:30:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sul promontorio di Piombino c’è una piccola azienda che propone un ottimo Vermentino",
+        "description": "Su un paesaggio dominato dal mare che modella anche le vigne e il microclima, si affaccia Sant'Agnese, l'azienda della famiglia Gigli. Solo sei ettari dedicati …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vermentino-kalendamaia-santagnese-sotto-20-euro/",
+        "pubDate": "2026-04-05T15:29:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "In Missouri c’è stata una catastrofe di tofu",
         "description": "Venti tonnellate di tofu si sono riversate in un burrone. A distanza di settimane, l'odore è insopportabile. \nL'articolo In Missouri c&#8217;è stata una catastr…",
@@ -506,24 +524,6 @@
         "description": "La Commissione Europea abbandona l’iniziativa per un sistema alimentare sostenibile: stop a etichette green, regole comuni e strategia integrata per clima e agr…",
         "link": "https://www.gamberorosso.it/notizie/attualita/europa-abbandona-sistema-alimentare-sostenibile/",
         "pubDate": "2026-04-03T12:52:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è la pasta alla Cardinale, il primo dimenticato della Roma papalina con panna e pomodoro",
-        "description": "Dalle cucine del Ristorante del Colonnato alla Roma papalina: storia, ingredienti e curiosità di una ricetta dimenticata tra pomodoro, panna e diplomazia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasta-alla-cardinale-primo-dimenticato-roma-vaticano/",
-        "pubDate": "2026-04-03T12:49:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quest’anno il pranzo di Pasqua al ristorante costerà di più. E scendono le prenotazioni",
-        "description": "I ristoratori puntano sulla formula degustazione con un prezzo medio di 72 euro a persona, ma secondo le stime Fipe-Confcommercio ci sarà un calo delle presenze…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/prezzi-menu-pasqua-ristoranti-stime-fipe-confcommercio/",
-        "pubDate": "2026-04-03T11:20:16+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
