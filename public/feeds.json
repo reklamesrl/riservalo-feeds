@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-04T19:45:49.686414+00:00",
+  "generated": "2026-04-05T08:04:58.462149+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Caombas di Pasqua: la spettacolare pasta sarda a forma di colomba",
+        "description": "A Masullas, la pasta della domenica di Pasqua ha la forma di una colomba. Un capolavoro di semola che nessuna macchina può copiare.\nL'articolo Caombas di Pasqua…",
+        "link": "https://www.dissapore.com/cucina/caombas-pasta-sarda/",
+        "pubDate": "2026-04-05T07:49:27+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/pasta-fresca-sarda-caombas-gravellus.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La coppia che per amore ha fatto rinascere la viticoltura sull’isola di Capraia",
+        "description": "Il vino come racconto dell’isola. A Capraia, tra vento e roccia vulcanica, c’è chi ha riportato in vita antichi terrazzamenti abbandonati e oggi firma microprod…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/la-mursa-isola-di-capraia-ansonica-grenache/",
+        "pubDate": "2026-04-05T06:44:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Winzer Krems Grüner Veltliner 2025: qualità territoriale, prezzo contenuto",
+        "description": "Nel panorama vitivinicolo austriaco, Winzer Krems resta una delle realtà cooperative più solide e riconoscibili. La cantina, con sede a Sandgrube 13 a Krems, ri…",
+        "link": "https://www.winemag.it/winzer-krems-gruner-veltliner-2025-qualita-territoriale-prezzo-contenuto/",
+        "pubDate": "2026-04-04T21:01:13+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "La FAO dice che nel 2027 avremo molti meno cereali perché i fertilizzanti costano troppo",
         "description": "I prezzi dei concimi azotati stanno salendo a causa della guerra del Golfo, per cui gli agricoltori sostituiranno le colture di mais e grano con la soia.\nL'arti…",
@@ -154,33 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Il giovane vignaiolo sardo che ha salvato un’uva quasi scomparsa",
-        "description": "Dalle vigne abbandonate di Luras al recupero del retagliado: la storia di Luca Depperu Sassu, tra burocrazia, vecchi vitigni e vini naturali ai piedi del Limbar…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/giovane-vignaiolo-gallurese-luca-depperu-sassu/",
-        "pubDate": "2026-04-03T12:58:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’Europa rinuncia al cibo sostenibile: cancellata la riforma che doveva cambiare tutto",
-        "description": "La Commissione Europea abbandona l’iniziativa per un sistema alimentare sostenibile: stop a etichette green, regole comuni e strategia integrata per clima e agr…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/europa-abbandona-sistema-alimentare-sostenibile/",
-        "pubDate": "2026-04-03T12:52:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è la pasta alla Cardinale, il primo dimenticato della Roma papalina con panna e pomodoro",
-        "description": "Dalle cucine del Ristorante del Colonnato alla Roma papalina: storia, ingredienti e curiosità di una ricetta dimenticata tra pomodoro, panna e diplomazia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasta-alla-cardinale-primo-dimenticato-roma-vaticano/",
-        "pubDate": "2026-04-03T12:49:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Caombas di Pasqua: la spettacolare pasta sarda a forma di colomba",
+        "description": "A Masullas, la pasta della domenica di Pasqua ha la forma di una colomba. Un capolavoro di semola che nessuna macchina può copiare.\nL'articolo Caombas di Pasqua…",
+        "link": "https://www.dissapore.com/cucina/caombas-pasta-sarda/",
+        "pubDate": "2026-04-05T07:49:27+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/pasta-fresca-sarda-caombas-gravellus.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La coppia che per amore ha fatto rinascere la viticoltura sull’isola di Capraia",
+        "description": "Il vino come racconto dell’isola. A Capraia, tra vento e roccia vulcanica, c’è chi ha riportato in vita antichi terrazzamenti abbandonati e oggi firma microprod…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/la-mursa-isola-di-capraia-ansonica-grenache/",
+        "pubDate": "2026-04-05T06:44:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Winzer Krems Grüner Veltliner 2025: qualità territoriale, prezzo contenuto",
+        "description": "Nel panorama vitivinicolo austriaco, Winzer Krems resta una delle realtà cooperative più solide e riconoscibili. La cantina, con sede a Sandgrube 13 a Krems, ri…",
+        "link": "https://www.winemag.it/winzer-krems-gruner-veltliner-2025-qualita-territoriale-prezzo-contenuto/",
+        "pubDate": "2026-04-04T21:01:13+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "La FAO dice che nel 2027 avremo molti meno cereali perché i fertilizzanti costano troppo",
         "description": "I prezzi dei concimi azotati stanno salendo a causa della guerra del Golfo, per cui gli agricoltori sostituiranno le colture di mais e grano con la soia.\nL'arti…",
         "link": "https://www.dissapore.com/notizie/la-fao-dice-che-nel-2027-avremo-molti-meno-cereali-perche-i-fertilizzanti-costano-troppo/",
@@ -493,15 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Il Covid ha troncato una generazione: è saltato un passaggio, socializzare bevendo insieme”: parla Agostino Arioli",
-        "description": "Il fondatore di Birrificio Italiano racconta 30 anni di birra artigianale, tra crisi dei consumi, giovani che bevono meno e il paradosso dell’esterofilia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/italia-birre-schifose-perche-tedeschebelghe-agostino-arioli/",
-        "pubDate": "2026-04-03T11:07:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Si chiama Healtion, ed è il nuovo e inaspettato polo del food italiano",
         "description": "Dall'espansione di Probios nasce Healtion, il polo del food \"senza\" e salutista tutto italiano.\nL'articolo Si chiama Healtion, ed è il nuovo e inaspettato polo …",
         "link": "https://www.dissapore.com/notizie/si-chiama-healtion-ed-e-il-nuovo-e-inaspettato-polo-del-food-italiano/",
@@ -527,24 +545,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/03/La-Prima-del-Valtenesi-il-rose-come-cultura-2.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "L’aperitivo italiano è ufficialmente in crisi",
-        "description": "Secondo i dati emersi in un recente rapporto sui consumi degli italiani ci sono grandi cambiamenti in atto: a farne le spese è un simbolo della socialità italia…",
-        "link": "https://www.dissapore.com/notizie/laperitivo-italiano-e-ufficialmente-in-crisi/",
-        "pubDate": "2026-04-02T14:26:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2020/10/ristorante-3.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dove comprare il casatiello a Napoli",
-        "description": "Quella del casatiello è la mappa di cui avete bisogno per affrontare la Pasqua napoletana. Gli indirizzi testati da noi e approvati dai locals. \nL'articolo Dove…",
-        "link": "https://www.dissapore.com/spesa/dove-comprare-il-casatiello-a-napoli/",
-        "pubDate": "2026-04-02T11:55:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Casatiello-napoletano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
