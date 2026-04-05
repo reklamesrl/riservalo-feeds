@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-05T08:04:58.462149+00:00",
+  "generated": "2026-04-05T14:04:50.550988+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Elettra Lamborghini brilla a Canzonissima con questa meravigliosa tuta scintillante!",
+        "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha sfoggiato una tuta scintillante.…",
+        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-brilla-a-canzonissima-con-questa-meravigliosa-tuta-scintillante/249780/",
+        "pubDate": "2026-04-05T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "In Missouri c’è stata una catastrofe di tofu",
+        "description": "Venti tonnellate di tofu si sono riversate in un burrone. A distanza di settimane, l'odore è insopportabile. \nL'articolo In Missouri c&#8217;è stata una catastr…",
+        "link": "https://www.dissapore.com/notizie/in-missouri-ce-stata-una-catastrofe-di-tofu/",
+        "pubDate": "2026-04-05T10:02:48+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/06/tofu.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Questo borgo dell’Abruzzo è una gemma da visitare almeno una volta nella vita",
+        "description": "In provincia di Chieti, circondato da bellezze naturali, si nasconde un meraviglioso borgo dal fascino indiscusso. Ecco qual è...…",
+        "link": "https://www.stylosophy.it/articolo/questo-borgo-dellabruzzo-e-una-gemma-da-visitare-almeno-una-volta-nella-vita/249774/",
+        "pubDate": "2026-04-05T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Caombas di Pasqua: la spettacolare pasta sarda a forma di colomba",
         "description": "A Masullas, la pasta della domenica di Pasqua ha la forma di una colomba. Un capolavoro di semola che nessuna macchina può copiare.\nL'articolo Caombas di Pasqua…",
@@ -154,36 +181,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/Senza-titolo-54.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "“Make America Healthy Again” è un problema per l’industria degli snack",
-        "description": "Le nuove linee guida alimentari e le nuove legislazioni preoccupano non poco l'industria americana di snack e merendine.\nL'articolo &#8220;Make America Healthy …",
-        "link": "https://www.dissapore.com/notizie/make-america-healthy-again-e-un-problema-per-lindustria-degli-snack/",
-        "pubDate": "2026-04-03T14:11:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/snack-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Guglielmo Ascheri è il nuovo direttore del Consorzio del Brunello Montalcino",
-        "description": "Senese Doc, ha oltre 15 anni di esperienza nello sport business e competenze in partnership strategiche. Subentra ad Andrea Machetti…",
-        "link": "https://www.gamberorosso.it/notizie/vino/guglielmo-ascheri-nuovo-direttore-consorzio-brunello-montalcino/",
-        "pubDate": "2026-04-03T14:05:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come vestirsi a Pasqua? Giulia De Lellis sfoggia il perfetto Look casual-chic: da copiare subito!",
-        "description": "Giulia De Lellis può fare al caso tuo per il look casual-chic perfetto da indossare a Pasqua.…",
-        "link": "https://www.stylosophy.it/articolo/come-vestirsi-a-pasqua-giulia-de-lellis-sfoggia-il-perfetto-look-casual-chic-da-copiare-subito/249747/",
-        "pubDate": "2026-04-03T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Elettra Lamborghini brilla a Canzonissima con questa meravigliosa tuta scintillante!",
+        "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha sfoggiato una tuta scintillante.…",
+        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-brilla-a-canzonissima-con-questa-meravigliosa-tuta-scintillante/249780/",
+        "pubDate": "2026-04-05T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Questo borgo dell’Abruzzo è una gemma da visitare almeno una volta nella vita",
+        "description": "In provincia di Chieti, circondato da bellezze naturali, si nasconde un meraviglioso borgo dal fascino indiscusso. Ecco qual è...…",
+        "link": "https://www.stylosophy.it/articolo/questo-borgo-dellabruzzo-e-una-gemma-da-visitare-almeno-una-volta-nella-vita/249774/",
+        "pubDate": "2026-04-05T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Una tavola piena di colore con le novità Maisons du Monde",
         "description": "Una selezione di accessori stagionali che unisce praticità e design, pensata per rinnovare la tavola con stile nei momenti quotidiani e conviviali.…",
@@ -345,27 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/ok-Versace_SS26_SM_Logo_1080x1350_1.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "6 prodotti beauty al cioccolato per una Pasqua super golosa",
-        "description": "Questi 6 prodotti beauty al cioccolato sono pronti a rendere la Pasqua ancora più speciale e profumata! Scopriamoli insieme...…",
-        "link": "https://www.stylosophy.it/articolo/6-prodotti-beauty-al-cioccolato-per-una-pasqua-super-golosa/249700/",
-        "pubDate": "2026-04-02T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Questo minuscolo borgo di 100 abitanti nasconde una delle fortezze più spettacolari d’Italia",
-        "description": "Un villaggio incastonato tra le montagne e dominato da una fortezza imponente.\nBard sorprende per storia, paesaggi e tradizioni ancora vive.…",
-        "link": "https://www.stylosophy.it/articolo/borgo-di-100-abitanti-nasconde-una-delle-fortezze-piu-spettacolari-ditalia/249694/",
-        "pubDate": "2026-04-01T16:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "In Missouri c’è stata una catastrofe di tofu",
+        "description": "Venti tonnellate di tofu si sono riversate in un burrone. A distanza di settimane, l'odore è insopportabile. \nL'articolo In Missouri c&#8217;è stata una catastr…",
+        "link": "https://www.dissapore.com/notizie/in-missouri-ce-stata-una-catastrofe-di-tofu/",
+        "pubDate": "2026-04-05T10:02:48+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/06/tofu.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Caombas di Pasqua: la spettacolare pasta sarda a forma di colomba",
         "description": "A Masullas, la pasta della domenica di Pasqua ha la forma di una colomba. Un capolavoro di semola che nessuna macchina può copiare.\nL'articolo Caombas di Pasqua…",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lievito-madre-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "La Prima del Valtènesi: il rosé come cultura",
-        "description": "La Valtènesi consolida il proprio posizionamento nel panorama vitivinicolo italiano puntando su identità, semplificazione e riconoscibilità. Una visione ribadit…",
-        "link": "https://www.winemag.it/la-prima-del-valtenesi-il-rose-come-cultura/",
-        "pubDate": "2026-04-03T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/03/La-Prima-del-Valtenesi-il-rose-come-cultura-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
