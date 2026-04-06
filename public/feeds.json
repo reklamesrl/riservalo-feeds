@@ -1,7 +1,25 @@
 {
-  "generated": "2026-04-06T09:55:20.980357+00:00",
+  "generated": "2026-04-06T14:38:05.275774+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Elodie lancia la sua prima denim capsule con Liu Jo",
+        "description": "Elodie lancia la sua prima capsule collection in denim con Liu Jo: qui i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/elodie-lancia-la-sua-prima-denim-capsule-con-liu-jo/249789/",
+        "pubDate": "2026-04-06T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Riesling italico, lo studio (brasiliano) sui 3 cloni da bianchi e spumanti",
+        "description": "Il Riesling Italico conferma il suo ruolo strategico nella produzione di vini bianchi e spumanti in Brasile. È quanto emerge da un recente studio condotto dal C…",
+        "link": "https://www.winemag.it/riesling-italico-lo-studio-brasiliano-sui-3-cloni-da-bianchi-e-spumanti/",
+        "pubDate": "2026-04-06T12:22:38+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Il ristorante dove si cucina con una stufa a legna accesa dal 1952",
         "description": "Ai Cacciatori, tra Piemonte e Liguria, la cucina segue ancora il ritmo della legna: una storia iniziata nel 1818 che continua, senza nostalgia, nel presente…",
@@ -163,27 +181,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Caombas di Pasqua: la spettacolare pasta sarda a forma di colomba",
-        "description": "A Masullas, la pasta della domenica di Pasqua ha la forma di una colomba. Un capolavoro di semola che nessuna macchina può copiare.\nL'articolo Caombas di Pasqua…",
-        "link": "https://www.dissapore.com/cucina/caombas-pasta-sarda/",
-        "pubDate": "2026-04-05T07:49:27+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/pasta-fresca-sarda-caombas-gravellus.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Winzer Krems Grüner Veltliner 2025: qualità territoriale, prezzo contenuto",
-        "description": "Nel panorama vitivinicolo austriaco, Winzer Krems resta una delle realtà cooperative più solide e riconoscibili. La cantina, con sede a Sandgrube 13 a Krems, ri…",
-        "link": "https://www.winemag.it/winzer-krems-gruner-veltliner-2025-qualita-territoriale-prezzo-contenuto/",
-        "pubDate": "2026-04-04T21:01:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Elodie lancia la sua prima denim capsule con Liu Jo",
+        "description": "Elodie lancia la sua prima capsule collection in denim con Liu Jo: qui i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/elodie-lancia-la-sua-prima-denim-capsule-con-liu-jo/249789/",
+        "pubDate": "2026-04-06T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "5 Ombretti pastello per dare ufficialmente il benvenuto alla Primavera",
         "description": "Date una scossa ai make up primaverili optando per questi ombretti pastello, emblema di eleganza e femminilità. Da non perdere!…",
@@ -302,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Le migliori creme solari per proteggere il viso dai primi raggi UV",
-        "description": "Sono queste le 5 creme solari viso più buone della Primavera 2026, per un'ottima protezione dai raggi UVA e UVB. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/le-migliori-creme-solari-per-proteggere-il-viso-dai-primi-raggi-uv/249714/",
-        "pubDate": "2026-04-03T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Shopping di Aprile: 10 capi e accessori di H&M da comprare adesso",
         "description": "E chi l&#8217;ha detto che rinnovare il guardaroba e dare un tocco nuovo al dress code quotidiano, bisogna per forza &#8220;svenarsi&#8221;? A volte basta una n…",
         "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-hm-ad-aprile-capi-accessori-scarpe-borse-must-have-primavera-2026-963707",
@@ -366,6 +366,15 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Riesling italico, lo studio (brasiliano) sui 3 cloni da bianchi e spumanti",
+        "description": "Il Riesling Italico conferma il suo ruolo strategico nella produzione di vini bianchi e spumanti in Brasile. È quanto emerge da un recente studio condotto dal C…",
+        "link": "https://www.winemag.it/riesling-italico-lo-studio-brasiliano-sui-3-cloni-da-bianchi-e-spumanti/",
+        "pubDate": "2026-04-06T12:22:38+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Il ristorante dove si cucina con una stufa a legna accesa dal 1952",
         "description": "Ai Cacciatori, tra Piemonte e Liguria, la cucina segue ancora il ritmo della legna: una storia iniziata nel 1818 che continua, senza nostalgia, nel presente…",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/bere/tipopils-come-una-birra-italiana-fece-la-storia-della-birra-30-anni-fa/",
         "pubDate": "2026-04-04T09:58:32+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/agostino-arioli.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Quale colomba comprare al supermercato: la nostra classifica del 2026",
-        "description": "La prova d'assaggio delle colombe del supermercato. Da Balocco a Tre Marie, passando per Motta, Bauli e Maina, ecco la classifica per non farsi fregare dalle et…",
-        "link": "https://www.dissapore.com/spesa/classifica-colombe-supermercato-2026/",
-        "pubDate": "2026-04-03T16:11:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/colomba-balocco-ricetta-classica-2026.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
