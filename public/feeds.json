@@ -1,7 +1,79 @@
 {
-  "generated": "2026-04-06T20:03:35.855445+00:00",
+  "generated": "2026-04-07T09:52:08.143509+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "I migliori biscotti di Verona si trovano in questa storica pasticceria (da non perdere durante il Vinitaly)",
+        "description": "Biscotti fragranti, perfetti da regalare come dolce souvenir: sono i baci di Giulietta di Flego, i migliori pasticcini di Verona da provare durante Vinitaly…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-biscotti-verona-flego-pasticceria-vinitaly/",
+        "pubDate": "2026-04-07T09:43:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Trentodoc, fatturato stabile a 180 milioni nel 2025. Crescono le aziende associate",
+        "description": "Il comparto Trentodoc conferma la propria stabilità. Nel 2025 il fatturato si attesta a 180 milioni di euro, in linea con l’anno precedente. Le bottiglie vendut…",
+        "link": "https://www.winemag.it/trentodoc-fatturato-stabile-180-milioni-nel-2025-crescono-aziende-associate/",
+        "pubDate": "2026-04-07T09:43:20+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Gli alleati hair care by Sephora Collection per una chioma perfetta",
+        "description": "Per capelli sani, luminosi e rimpolpati, ecco 5 prodotti hair care firmati Sephora Collection da non lasciarsi sfuggire. Imperdibili!…",
+        "link": "https://www.stylosophy.it/articolo/gli-alleati-hair-care-by-sephora-collection-per-una-chioma-perfetta/249813/",
+        "pubDate": "2026-04-07T09:41:55+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Dove mangiare i migliori tramezzini a Torino: 10 indirizzi (nel tempio dove sono nati)",
+        "description": "Dal leggendario Caffè Mulassano, dove nel 1926 nasce il tramezzino, ai caffè storici e contemporanei: la guida ai locali imperdibili…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-tramezzini-torino-10-indirizzi/",
+        "pubDate": "2026-04-07T09:26:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A quanto arriverà l’inflazione alimentare causata dalla guerra in Iran",
+        "description": "Rincari e crisi energetica preoccupano i consumatori nel Regno Unito, mentre il governo cerca soluzioni per placare gli aumenti.\nL'articolo A quanto arriverà l&…",
+        "link": "https://www.dissapore.com/notizie/a-quanto-arrivera-linflazione-alimentare-causata-dalla-guerra-in-iran/",
+        "pubDate": "2026-04-07T08:09:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1457237357-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Occhiali da sole: 10 modelli top per la primavera",
+        "description": "Primavera fa rima con nuovi occhiali da sole! Per dare il benvenuto alla stagione fatta di giornate più lunghe e cieli assolati, ci vuole ovviamente l&#8217;acc…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-da-sole-donna-firmati-miu-miu-celine-aviator-rettangolari-ovali-modelli-primavera-2026-963622",
+        "pubDate": "2026-04-07T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/DESK-occhiali-da-sole-primavera-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Il piano di Nestlé per migliorare le condizioni dei coltivatori di caffè",
+        "description": "Nestlé mette in campo un'iniziativa per contrastare lo sfruttamento nelle piantagioni di caffè: basterà a cancellare un passato recente di controversie?\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/il-piano-di-nestle-per-migliorare-le-condizioni-dei-coltivatori-di-caffe/",
+        "pubDate": "2026-04-07T05:45:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/caffe-raccolto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Riesling italico, Oltrepò pavese credici! Tempo di riscatto a Grow du Monde",
+        "description": "Un’opportunità concreta per le cantine dell&#8217;Oltrepò pavese. Torna Grow du Monde, il concorso internazionale interamente dedicato al Riesling italico, unic…",
+        "link": "https://www.winemag.it/riesling-italico-oltrepo-pavese-credici-tempo-di-riscatto-a-grow-du-monde/",
+        "pubDate": "2026-04-07T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/04/Riesling-italico-lo-studio-brasiliano-sui-3-cloni-da-bianchi-e-spumanti.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Ponti di Primavera 2026 al mare: Borghi, Città e Riviere d’Italia dove trascorrere le giornate di festa",
         "description": "Tra scorci nascosti e mete iconiche, ecco dove trascorrere giorni di festa e Ponti al mare in Italia.…",
@@ -109,81 +181,27 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/nuovo-big-arch-mcdonalds.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Rivoluzione Vinitaly: i distillati arrivano in fiera per restarci. Ecco come sarà il padiglione Xcellent Spirits",
-        "description": "Sessanta espositori, un bar centrale e ogni sera l'ora dell'aperitivo. Veronafiere insieme a Gang of Spirits apre alla mixology: \"Non è un esperimento, ma un ca…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-2026-padiglione-xcellent-spirits-intervista-gang-spirits/",
-        "pubDate": "2026-04-06T07:09:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Per la prima volta il Canada è scosso da uno sciroppo d’acero-gate",
-        "description": "L'inchiesta di una radio locale ha scoperchiato uno scandalo legato all'adulterazione del prodotto di punta nazionale. \nL'articolo Per la prima volta il Canada …",
-        "link": "https://www.dissapore.com/notizie/per-la-prima-volta-il-canada-e-scosso-da-uno-sciroppo-dacero-gate/",
-        "pubDate": "2026-04-06T06:54:07+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/acero-produzione-scaled-e1775418362453.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La pasta “mare e monti” nata a Roma nel dopoguerra (e che pochi conoscono davvero)",
-        "description": "Dal Pantheon ai Castelli Romani, nell’ultima puntata di Passione Romana su Gambero Rosso TV Stefania Porcelli di Checco er Carettiere racconta la storia della c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pasta-mare-monti-trattoria-checco-er-carrettiere-roma/",
-        "pubDate": "2026-04-06T05:13:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Così delicato e così cool: il nuovo colore must-have per l’arredo primaverile",
-        "description": "Ha la freschezza della primavera ma il carattere deciso dei look più contemporanei. Questo nuovo colore sta conquistando interni e designer, diventando il prota…",
-        "link": "https://www.stylosophy.it/articolo/il-nuovo-colore-must-have-per-larredo-primaverile/226036/",
-        "pubDate": "2026-04-05T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "L’ex discografico italo-americano che produce una delle migliori Barbera d’Asti sotto i 15 euro",
-        "description": "Nel Monferrato c'è una cantina, nata meno di dieci anni fa dal felice incontro tra Curt Frasca e Matteo Gerbi, che ha puntato (quasi) tutto sulla barbera. Ecco …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/barbera-dasti-frasca-la-guaragna-sotto-15-euro/",
-        "pubDate": "2026-04-05T15:30:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sul promontorio di Piombino c’è una piccola azienda che propone un ottimo Vermentino",
-        "description": "Su un paesaggio dominato dal mare che modella anche le vigne e il microclima, si affaccia Sant'Agnese, l'azienda della famiglia Gigli. Solo sei ettari dedicati …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vermentino-kalendamaia-santagnese-sotto-20-euro/",
-        "pubDate": "2026-04-05T15:29:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Elettra Lamborghini brilla a Canzonissima con questa meravigliosa tuta scintillante!",
-        "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha sfoggiato una tuta scintillante.…",
-        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-brilla-a-canzonissima-con-questa-meravigliosa-tuta-scintillante/249780/",
-        "pubDate": "2026-04-05T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "In Missouri c’è stata una catastrofe di tofu",
-        "description": "Venti tonnellate di tofu si sono riversate in un burrone. A distanza di settimane, l'odore è insopportabile. \nL'articolo In Missouri c&#8217;è stata una catastr…",
-        "link": "https://www.dissapore.com/notizie/in-missouri-ce-stata-una-catastrofe-di-tofu/",
-        "pubDate": "2026-04-05T10:02:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/06/tofu.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Gli alleati hair care by Sephora Collection per una chioma perfetta",
+        "description": "Per capelli sani, luminosi e rimpolpati, ecco 5 prodotti hair care firmati Sephora Collection da non lasciarsi sfuggire. Imperdibili!…",
+        "link": "https://www.stylosophy.it/articolo/gli-alleati-hair-care-by-sephora-collection-per-una-chioma-perfetta/249813/",
+        "pubDate": "2026-04-07T09:41:55+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Occhiali da sole: 10 modelli top per la primavera",
+        "description": "Primavera fa rima con nuovi occhiali da sole! Per dare il benvenuto alla stagione fatta di giornate più lunghe e cieli assolati, ci vuole ovviamente l&#8217;acc…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-da-sole-donna-firmati-miu-miu-celine-aviator-rettangolari-ovali-modelli-primavera-2026-963622",
+        "pubDate": "2026-04-07T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/DESK-occhiali-da-sole-primavera-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Ponti di Primavera 2026 al mare: Borghi, Città e Riviere d’Italia dove trascorrere le giornate di festa",
         "description": "Tra scorci nascosti e mete iconiche, ecco dove trascorrere giorni di festa e Ponti al mare in Italia.…",
@@ -275,15 +293,6 @@
         "source": "Grazia"
       },
       {
-        "title": "E’ una new entry tra i Borghi più belli d’Italia, una meraviglia sulla  collina Biellese",
-        "description": "Un quartiere sospeso tra storia e bellezza che conquista un nuovo riconoscimento entrando tra i borghi più belli d'Italia.…",
-        "link": "https://www.stylosophy.it/articolo/una-new-entry-tra-i-borghi-piu-belli-ditalia-sulla-collina-biellese/249743/",
-        "pubDate": "2026-04-03T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Le Fashion Pills di Pasqua raccontano un dialogo continuo tra passato e futuro, dove ogni brand riscrive il proprio DNA con leggerezza, tra heritage e visioni c…",
         "link": "https://www.grazia.it/moda/news-moda/atelier-vm-fatima-chantelle-150-anni-amazon-allsaints-fila-pop-up-rinascente-david-beckham-boss-collanine-colorate-eme-sneakers-valsport-1920-963779",
@@ -354,18 +363,63 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_abiti_cerimonia.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Onitsuka Tiger x Versace: quando lo streetwear incontra la Medusa",
-        "description": "Le nuove sneakers nate dalla collaborazione tra Onitsuka Tiger e Versace sono finalmente pronte a diventare oggetto del desiderio. Al centro del progetto c’è un…",
-        "link": "https://www.grazia.it/moda/news-moda/onitsuka-tiger-versace-sneakers-collaborazione-campagna-primavera-estate-2026-963555",
-        "pubDate": "2026-04-02T10:03:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/ok-Versace_SS26_SM_Logo_1080x1350_1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "I migliori biscotti di Verona si trovano in questa storica pasticceria (da non perdere durante il Vinitaly)",
+        "description": "Biscotti fragranti, perfetti da regalare come dolce souvenir: sono i baci di Giulietta di Flego, i migliori pasticcini di Verona da provare durante Vinitaly…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-biscotti-verona-flego-pasticceria-vinitaly/",
+        "pubDate": "2026-04-07T09:43:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Trentodoc, fatturato stabile a 180 milioni nel 2025. Crescono le aziende associate",
+        "description": "Il comparto Trentodoc conferma la propria stabilità. Nel 2025 il fatturato si attesta a 180 milioni di euro, in linea con l’anno precedente. Le bottiglie vendut…",
+        "link": "https://www.winemag.it/trentodoc-fatturato-stabile-180-milioni-nel-2025-crescono-aziende-associate/",
+        "pubDate": "2026-04-07T09:43:20+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dove mangiare i migliori tramezzini a Torino: 10 indirizzi (nel tempio dove sono nati)",
+        "description": "Dal leggendario Caffè Mulassano, dove nel 1926 nasce il tramezzino, ai caffè storici e contemporanei: la guida ai locali imperdibili…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-tramezzini-torino-10-indirizzi/",
+        "pubDate": "2026-04-07T09:26:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A quanto arriverà l’inflazione alimentare causata dalla guerra in Iran",
+        "description": "Rincari e crisi energetica preoccupano i consumatori nel Regno Unito, mentre il governo cerca soluzioni per placare gli aumenti.\nL'articolo A quanto arriverà l&…",
+        "link": "https://www.dissapore.com/notizie/a-quanto-arrivera-linflazione-alimentare-causata-dalla-guerra-in-iran/",
+        "pubDate": "2026-04-07T08:09:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1457237357-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il piano di Nestlé per migliorare le condizioni dei coltivatori di caffè",
+        "description": "Nestlé mette in campo un'iniziativa per contrastare lo sfruttamento nelle piantagioni di caffè: basterà a cancellare un passato recente di controversie?\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/il-piano-di-nestle-per-migliorare-le-condizioni-dei-coltivatori-di-caffe/",
+        "pubDate": "2026-04-07T05:45:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/caffe-raccolto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Riesling italico, Oltrepò pavese credici! Tempo di riscatto a Grow du Monde",
+        "description": "Un’opportunità concreta per le cantine dell&#8217;Oltrepò pavese. Torna Grow du Monde, il concorso internazionale interamente dedicato al Riesling italico, unic…",
+        "link": "https://www.winemag.it/riesling-italico-oltrepo-pavese-credici-tempo-di-riscatto-a-grow-du-monde/",
+        "pubDate": "2026-04-07T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/04/Riesling-italico-lo-studio-brasiliano-sui-3-cloni-da-bianchi-e-spumanti.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Riesling italico, lo studio (brasiliano) sui 3 cloni da bianchi e spumanti",
         "description": "Il Riesling Italico conferma il suo ruolo strategico nella produzione di vini bianchi e spumanti in Brasile. È quanto emerge da un recente studio condotto dal C…",
@@ -475,24 +529,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "L’ex discografico italo-americano che produce una delle migliori Barbera d’Asti sotto i 15 euro",
-        "description": "Nel Monferrato c'è una cantina, nata meno di dieci anni fa dal felice incontro tra Curt Frasca e Matteo Gerbi, che ha puntato (quasi) tutto sulla barbera. Ecco …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/barbera-dasti-frasca-la-guaragna-sotto-15-euro/",
-        "pubDate": "2026-04-05T15:30:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sul promontorio di Piombino c’è una piccola azienda che propone un ottimo Vermentino",
-        "description": "Su un paesaggio dominato dal mare che modella anche le vigne e il microclima, si affaccia Sant'Agnese, l'azienda della famiglia Gigli. Solo sei ettari dedicati …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vermentino-kalendamaia-santagnese-sotto-20-euro/",
-        "pubDate": "2026-04-05T15:29:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "In Missouri c’è stata una catastrofe di tofu",
         "description": "Venti tonnellate di tofu si sono riversate in un burrone. A distanza di settimane, l'odore è insopportabile. \nL'articolo In Missouri c&#8217;è stata una catastr…",
         "link": "https://www.dissapore.com/notizie/in-missouri-ce-stata-una-catastrofe-di-tofu/",
@@ -507,42 +543,6 @@
         "link": "https://www.dissapore.com/cucina/caombas-pasta-sarda/",
         "pubDate": "2026-04-05T07:49:27+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/pasta-fresca-sarda-caombas-gravellus.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Winzer Krems Grüner Veltliner 2025: qualità territoriale, prezzo contenuto",
-        "description": "Nel panorama vitivinicolo austriaco, Winzer Krems resta una delle realtà cooperative più solide e riconoscibili. La cantina, con sede a Sandgrube 13 a Krems, ri…",
-        "link": "https://www.winemag.it/winzer-krems-gruner-veltliner-2025-qualita-territoriale-prezzo-contenuto/",
-        "pubDate": "2026-04-04T21:01:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La FAO dice che nel 2027 avremo molti meno cereali perché i fertilizzanti costano troppo",
-        "description": "I prezzi dei concimi azotati stanno salendo a causa della guerra del Golfo, per cui gli agricoltori sostituiranno le colture di mais e grano con la soia.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/la-fao-dice-che-nel-2027-avremo-molti-meno-cereali-perche-i-fertilizzanti-costano-troppo/",
-        "pubDate": "2026-04-04T17:37:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/urea-granulare-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Se vi indignate per l’utilizzo a sproposito della parola Carbonara, questo panino vi farà imbestialire",
-        "description": "KFC Singapore lancia una limited edition alla Carbonara del suo \"non panino\" e no, quella che sentite in bocca non è acquolina. \nL'articolo Se vi indignate per …",
-        "link": "https://www.dissapore.com/notizie/se-vi-indignate-per-lutilizzo-a-sproposito-della-parola-carbonara-questo-panino-vi-fara-imbestialire/",
-        "pubDate": "2026-04-04T11:14:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/04/carbonara-vegana-rifugio-romano-scaled-e1713269203700.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Tipopils: come una birra italiana fece la storia della birra 30 anni fa",
-        "description": "Tipo una pils, ma artigianale, italiana e con un tocco tecnicamente rivoluzionario nel suo stile. Perché, a trent'anni dalla nascita, la Tipopils del Birrificio…",
-        "link": "https://www.dissapore.com/bere/tipopils-come-una-birra-italiana-fece-la-storia-della-birra-30-anni-fa/",
-        "pubDate": "2026-04-04T09:58:32+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/agostino-arioli.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
