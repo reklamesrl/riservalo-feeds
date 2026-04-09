@@ -1,7 +1,61 @@
 {
-  "generated": "2026-04-08T19:18:19.160616+00:00",
+  "generated": "2026-04-09T07:24:28.817703+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Apre solo la domenica, tra le vigne: il pranzo segreto del re del Timorasso",
+        "description": "Sui Colli Tortonesi, Daniele Ricci trasforma la sua cascina tra le vigne in un agriturismo aperto solo una volta a settimana: un’esperienza autentica tra cucina…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/apre-solo-la-domenica-tra-le-vigne-il-pranzo-segreto-del-re-del-timorasso/",
+        "pubDate": "2026-04-09T07:10:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’annata 2023 di Ornellaia secondo l’artista Marina Abramovic",
+        "description": "La performer serba ha ideato delle etichette in trasformazione: si inizia con l'autoritratto delle bottiglie da 750 cl e si arriva ad una Salmanazar con la musi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/marina-abramovic-etichette-annata-2023-ornellaia/",
+        "pubDate": "2026-04-09T07:03:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Pinot Nero che beviamo oggi è identico a quello del Medioevo",
+        "description": "Un seme d’uva del XV secolo ritrovato nel Nord della Francia rivela la continuità genetica del vitigno e ricostruisce quattromila anni di storia della viticoltu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/scoperta-varieta-pinot-nero-medioevo/",
+        "pubDate": "2026-04-09T06:11:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tinazzi presenta il Bilancio di Sostenibilità 2025: investimenti in vigneto, riduzione dei consumi e impegno sociale",
+        "description": "Tinazzi prosegue nel percorso di rendicontazione non finanziaria con la pubblicazione del Bilancio di Sostenibilità 2025. Il documento analizza risultati e azio…",
+        "link": "https://www.winemag.it/tinazzi-presenta-bilancio-sostenibilita-2025-investimenti-vigneto-riduzione-consumi-impegno-sociale/",
+        "pubDate": "2026-04-09T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Addio caffeina: ecco le bevande alternative al caffè per cominciare la giornata",
+        "description": "Stanchi dei soliti espressi o cappuccini? Ecco qualche proposta per sostituirli: bevande gustose per un pieno di energia, che permettono di partire col piede gi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bevande-alternative-caffe-senza-caffeina/",
+        "pubDate": "2026-04-09T05:08:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vini dealcolati, il decaffeinato (amaro) di Hofstätter: «In Italia troppi Don Chisciotte»",
+        "description": "C’è qualcosa di profondamente ironico nel modo in cui certi dibattiti si ripresentano ciclicamente nel mondo del vino. A innescare la riflessione è il boom del …",
+        "link": "https://www.winemag.it/vini-dealcolati-il-decaffeinato-di-martin-foradori-hofstatter-in-italia-troppi-don-chisciotte/",
+        "pubDate": "2026-04-09T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Butcher Show e BBQ Expo: Parma diventa il centro della filiera della carne",
         "description": "Tutto quello che c'è da sapere per chi vuole visitare il Butcher Show e BBQ Expo alle fiere di Parma, dall'11 al 14 aprile: biglietti, eventi e orari del più im…",
@@ -125,60 +179,6 @@
         "link": "https://www.grazia.it/moda/celebrity-style/euphoria-3-serie-hbo-zendaya-jacob-elordi-sydney-sweeney-red-carpet-los-angeles-964276",
         "pubDate": "2026-04-08T08:57:20+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/04/COVER_premiere_Euphoria-1200x900.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Gioielli floreali per la primavera? Sì, grazie! Ecco i bijoux a forma di fiore su cui puntare",
-        "description": "“Florals for spring? Groundbreaking!”Se riconoscete questa citazione &#8211; ovviamente tratta da Il diavolo veste Prada e più in tema che mai, visto che mancan…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gioielli-floreali-bijoux-orecchini-a-forma-di-fiore-anelli-collane-con-fiori-bracciali-primavera-2026-963995",
-        "pubDate": "2026-04-08T08:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_gioielli_fiori.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Altro che pasta, la Nutella si conferma il successo italiano numero uno nell’universo",
-        "description": "Non c'è dubbio che la Nutella sia il prodotto italiano più famoso nel mondo, e da ieri pure nell'universo. \nL'articolo Altro che pasta, la Nutella si conferma i…",
-        "link": "https://www.dissapore.com/notizie/altro-che-pasta-la-nutella-si-conferma-il-successo-italiano-numero-uno-nelluniverso/",
-        "pubDate": "2026-04-08T08:20:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/tiramisu-alla-nutella-risultato.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Mentre il mondo del vino viaggia, noi restiamo qui”: l’appello del produttore bloccato dalla guerra",
-        "description": "La testimonianza di Sept Winery racconta cosa significa produrre vino in guerra e restare fuori dalle grandi fiere: un invito concreto al settore per non sparir…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/appello-produttore-libanese-vino-fiere/",
-        "pubDate": "2026-04-08T08:14:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Arrivato senza niente su una barca, oggi serve una delle pause pranzo migliori di Torino",
-        "description": "Dal viaggio dall’Albania al lavoro come lavapiatti fino al successo di Insieme dal Clandestino: la storia dello chef Ded Gaci tra sacrifici e cucina creativa…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/chef-albanese-torino-clandestino-ded-graci/",
-        "pubDate": "2026-04-08T07:10:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Hanno modificato il grano per fare il pane tostato meno cancerogeno",
-        "description": "Una ricerca ha selezionato i geni del grano perché, una volta cotto, sviluppi meno acrilammide, quella sostanza tossica che si trova nelle bruciature.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/hanno-modificato-il-grano-per-fare-il-pane-tostato-meno-cancerogeno/",
-        "pubDate": "2026-04-08T06:46:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/pizza-bruciacchiata-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pantaloni ampi istruzioni per l’uso: 5 idee su come abbinarli questa primavera",
-        "description": "Sono uno dei capi più comodi che abbiamo nell’armadio. Riusciamo a sfruttarli 365 giorni l’anno. E grazie alla loro incredibile versatilità possiamo abbinarli f…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-i-pantaloni-ampi-eleganti-neri-idee-outfit-look-abbinamenti-primavera-donna-963966",
-        "pubDate": "2026-04-08T06:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_pantaloni_ampi.jpg",
         "cat": "Moda",
         "source": "Grazia"
       }
@@ -367,6 +367,60 @@
     ],
     "lifestyle": [
       {
+        "title": "Apre solo la domenica, tra le vigne: il pranzo segreto del re del Timorasso",
+        "description": "Sui Colli Tortonesi, Daniele Ricci trasforma la sua cascina tra le vigne in un agriturismo aperto solo una volta a settimana: un’esperienza autentica tra cucina…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/apre-solo-la-domenica-tra-le-vigne-il-pranzo-segreto-del-re-del-timorasso/",
+        "pubDate": "2026-04-09T07:10:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’annata 2023 di Ornellaia secondo l’artista Marina Abramovic",
+        "description": "La performer serba ha ideato delle etichette in trasformazione: si inizia con l'autoritratto delle bottiglie da 750 cl e si arriva ad una Salmanazar con la musi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/marina-abramovic-etichette-annata-2023-ornellaia/",
+        "pubDate": "2026-04-09T07:03:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Pinot Nero che beviamo oggi è identico a quello del Medioevo",
+        "description": "Un seme d’uva del XV secolo ritrovato nel Nord della Francia rivela la continuità genetica del vitigno e ricostruisce quattromila anni di storia della viticoltu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/scoperta-varieta-pinot-nero-medioevo/",
+        "pubDate": "2026-04-09T06:11:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tinazzi presenta il Bilancio di Sostenibilità 2025: investimenti in vigneto, riduzione dei consumi e impegno sociale",
+        "description": "Tinazzi prosegue nel percorso di rendicontazione non finanziaria con la pubblicazione del Bilancio di Sostenibilità 2025. Il documento analizza risultati e azio…",
+        "link": "https://www.winemag.it/tinazzi-presenta-bilancio-sostenibilita-2025-investimenti-vigneto-riduzione-consumi-impegno-sociale/",
+        "pubDate": "2026-04-09T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Addio caffeina: ecco le bevande alternative al caffè per cominciare la giornata",
+        "description": "Stanchi dei soliti espressi o cappuccini? Ecco qualche proposta per sostituirli: bevande gustose per un pieno di energia, che permettono di partire col piede gi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bevande-alternative-caffe-senza-caffeina/",
+        "pubDate": "2026-04-09T05:08:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vini dealcolati, il decaffeinato (amaro) di Hofstätter: «In Italia troppi Don Chisciotte»",
+        "description": "C’è qualcosa di profondamente ironico nel modo in cui certi dibattiti si ripresentano ciclicamente nel mondo del vino. A innescare la riflessione è il boom del …",
+        "link": "https://www.winemag.it/vini-dealcolati-il-decaffeinato-di-martin-foradori-hofstatter-in-italia-troppi-don-chisciotte/",
+        "pubDate": "2026-04-09T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Butcher Show e BBQ Expo: Parma diventa il centro della filiera della carne",
         "description": "Tutto quello che c'è da sapere per chi vuole visitare il Butcher Show e BBQ Expo alle fiere di Parma, dall'11 al 14 aprile: biglietti, eventi e orari del più im…",
         "link": "https://www.dissapore.com/notizie/butcher-show-e-bbq-expo-parma-diventa-il-centro-della-filiera-della-carne/",
@@ -457,15 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Arrivato senza niente su una barca, oggi serve una delle pause pranzo migliori di Torino",
-        "description": "Dal viaggio dall’Albania al lavoro come lavapiatti fino al successo di Insieme dal Clandestino: la storia dello chef Ded Gaci tra sacrifici e cucina creativa…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/chef-albanese-torino-clandestino-ded-graci/",
-        "pubDate": "2026-04-08T07:10:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Hanno modificato il grano per fare il pane tostato meno cancerogeno",
         "description": "Una ricerca ha selezionato i geni del grano perché, una volta cotto, sviluppi meno acrilammide, quella sostanza tossica che si trova nelle bruciature.\nL'articol…",
         "link": "https://www.dissapore.com/notizie/hanno-modificato-il-grano-per-fare-il-pane-tostato-meno-cancerogeno/",
@@ -475,15 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Vinitaly chiama, Verona risponde: le trattorie imperdibili dove fermarsi a mangiare tipico",
-        "description": "Tra Amarone, bigoli e pastissada: una miniguida alle migliori trattorie di Verona selezionate dal Gambero Rosso, perfette per una pausa autentica durante Vinita…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-trattorie-verona-vinitaly-2026/",
-        "pubDate": "2026-04-08T05:57:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Fuoricasa, ma non troppo: il Pelaverga di Cordero di Montezemolo",
         "description": "Un vitigno antico, con oltre 300 anni di storia, oggi estremamente attuale nel panorama enologico. L’ultima creazione di Cordero di Montezemolo è un Pelaverga c…",
         "link": "https://www.winemag.it/fuoricasa-ma-non-troppo-il-pelaverga-di-cordero-di-montezemolo/",
@@ -491,24 +527,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "L’eterna solitudine del diplomatico: storia della pastarella che non piace a nessuno",
-        "description": "Spesso scartato ma sempre presente, il diplomatico è un dolce “d’altri tempi”, che piace alle generazioni più anziane, ma continua a essere acquistato da tutti…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/diplomatico-storia-pastarella-dolce-bar/",
-        "pubDate": "2026-04-08T04:37:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Non è più solo un vino estivo”: il rosato cresce nel Regno Unito e sfida il calo di rossi e bianchi",
-        "description": "Nel 2025 i vini rosati registrano un incremento di volumi e valore nel mercato britannico, diventando una categoria sempre più destagionalizzata mentre il setto…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vini-rosati-mercato-uk-inglese-2025-consumi-aumento/",
-        "pubDate": "2026-04-07T17:02:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Acqui Docg: rebranding e nuove tipologie Brachetto secco e rosé",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/notizie/masterchef-cambia-format-negli-usa-e-diventa-un-campionato-del-mondo-di-cucina/",
         "pubDate": "2026-04-07T13:32:05+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/02/Matteo-Lee-e1771003707314.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Inghilterra il foie gras diventa un caso, e da noi?",
-        "description": "Il governo inglese si rimangia la parola sul divieto di importazione di foie gras promesso in campagna elettorale: il benessere animale però non c'entra.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/in-inghilterra-il-foie-gras-diventa-un-caso-e-da-noi/",
-        "pubDate": "2026-04-07T11:57:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2331011635-scaled-e1774087040233.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La nuova piramide alimentare MAHA continua a non convincere",
-        "description": "L'associazione USA per la prevenzione delle malattie cardiovascolari ha pubblicato un rapporto in cui contraddice quasi totalmente le nuove linee guide del \"Mak…",
-        "link": "https://www.dissapore.com/notizie/la-nuova-piramide-alimentare-maha-continua-a-non-convincere/",
-        "pubDate": "2026-04-07T10:30:03+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/piramide-alimentare-kennedy-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
