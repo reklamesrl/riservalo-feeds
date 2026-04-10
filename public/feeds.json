@@ -1,7 +1,52 @@
 {
-  "generated": "2026-04-09T19:08:15.510336+00:00",
+  "generated": "2026-04-10T07:43:33.848246+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Dopo Vinitaly, questi sono i posti dove bere davvero bene a Verona",
+        "description": "Per brindisi, chiacchiere, commenti e relax post fiera: ecco i migliori wine bar selezionati dal Gambero Rosso da provare assolutamente durante il Vinitaly…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-bere-verona-wine-bar/",
+        "pubDate": "2026-04-10T07:37:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In un borgo di 30 abitanti producono un Parmigiano che attira visitatori da tutto il mondo",
+        "description": "A Rosola, sull’Appennino modenese, una piccola cooperativa ha rilanciato la Vacca Bianca Modenese creando un Parmigiano Reggiano di nicchia oggi richiesto anche…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/parmigiano-vacca-bianca-modenese-rosola/",
+        "pubDate": "2026-04-10T07:21:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Si chiama pric o prac e nasce dal suono delle forbici: la conserva pugliese che sta tornando",
+        "description": "A Molfetta, tra peperoni coltivati vicino al mare e gesti tramandati, il pric o prac racconta una cucina di necessità diventata oggi riscoperta gastronomica…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pric-o-prac-conserva-pugliese/",
+        "pubDate": "2026-04-10T07:12:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Arrivato dalla Svizzera, ha cambiato per sempre il modo in cui facciamo il gelato",
+        "description": "La storia di Luca Caviezel, erede di una dinastia di pasticceri e autore della “bibbia” del gelato artigianale: il metodo che ha cambiato per sempre il settore…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/luca-caviezel-chi-era-gelato-artigianale/",
+        "pubDate": "2026-04-10T05:16:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Birrificio Italiano compie 30 anni: storia e futuro della birra artigianale",
+        "description": "Nella Sala Consiliare del Comune di Lurago Marinone si è svolto il convegno «Storia, evoluzione e futuro della birra artigianale italiana. 30 anni di Birrificio…",
+        "link": "https://www.winemag.it/birrificio-italiano-compie-30-anni-storia-e-futuro-della-birra-artigianale/",
+        "pubDate": "2026-04-10T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/04/Birrificio-Italiano-compie-30-anni-storia-e-futuro-della-birra-artigianale-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Ci salveranno i vini premium: dieci rotte inaspettate (ma promettenti) per l’export vitivinicolo",
         "description": "Avviso ai naviganti: abbandonare la pigrizia (non tutti i vini vanno bene per tutte le tappe) e i luoghi comuni (la Cina non beve solo rossi). L'opportunity ind…",
@@ -93,15 +138,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“I no e low alcol non sono una moda passeggera”. Fipe traccia il futuro delle carte dei vini al ristorante",
-        "description": "Il calo dei consumi impatta anche sulla ristorazione, per questo il presidente Stoppani chiede di ampliare le proposte puntando su autoctoni, qualità e benesser…",
-        "link": "https://www.gamberorosso.it/notizie/vino/rapporto-ristorazione-fipe-2026-consumi-vino-intervista-stoppani/",
-        "pubDate": "2026-04-09T13:19:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Ilary Blasi sceglie il blu notte come colore must del suo Look per la nuova puntata del Grande Fratello Vip",
         "description": "Per la puntata di martedì sera del Grande Fratello Vip, Ilary Blasi ha optato per un altro look in tinta unita e molto chic: qui per i dettagli.…",
         "link": "https://www.stylosophy.it/articolo/ilary-blasi-sceglie-il-blu-notte-come-colore-must-del-suo-look-per-la-nuova-puntata-del-grande-fratello-vip/249877/",
@@ -111,15 +147,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Che cos’è lo shabu shabu, il piatto giapponese dove cucini tu e il sapore si trasforma",
-        "description": "Dalla Mongolia al Giappone, lo shabu shabu è un rituale conviviale fatto di brodo, carne e precisione: una cucina interattiva in cui ogni ingrediente trasforma …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/shabu-shabu-cose-come-funziona-cucina-giapponese/",
-        "pubDate": "2026-04-09T12:13:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Se perfino Luca Zaia porta la cucina stellata nel suo podcast",
         "description": "I grandi chef protagonisti dei podcast pop: chissà che non sia l'occasione per riavvicinare l'alta cucina al grande pubblico. \nL'articolo Se perfino Luca Zaia p…",
         "link": "https://www.dissapore.com/ristoranti/se-perfino-luca-zaia-porta-la-cucina-stellata-nel-suo-podcast/",
@@ -127,24 +154,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/victoria-cabello-alessandro-borghese.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Curiosi e disposti a spendere di più: così i giovani consumatori si stanno riprendendo il mercato del vino",
-        "description": "Negli Stati Uniti, nel Regno Unito e in Italia un'ampia percentuale è considerata ad \"alto coinvolgimento\". Moderazione, sostenibilità, no-low alcol, spumanti e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/giovani-consumi-trend-vino-analisi-iwsr-2026/",
-        "pubDate": "2026-04-09T11:10:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Procedere con gli alert sulle etichette di vino”. La Commissione Salute del Parlamento Ue ci riprova",
-        "description": "Associazioni vitivinicole in allarme. Unione italiana vini invita gli europarlamentari a correggere la posizione: “Un approccio ideologico e punitivo. Così si i…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/alert-etichette-vino-richiesta-2026-commissione-salute/",
-        "pubDate": "2026-04-09T10:45:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Giacche a vento: sono loro il capospalla più cool della primavera",
@@ -172,15 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/barilla-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Le acque micellari più fresche e leggere della Primavera a prova di viso pulito e deterso",
-        "description": "Leggere, fresche e perfette per detergere la pelle del viso, queste acque micellari sono un vero must have di Primavera. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/le-acque-micellari-piu-fresche-e-leggere-della-primavera-a-prova-di-viso-pulito-e-deterso/249857/",
-        "pubDate": "2026-04-09T09:07:16+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
@@ -367,6 +367,51 @@
     ],
     "lifestyle": [
       {
+        "title": "Dopo Vinitaly, questi sono i posti dove bere davvero bene a Verona",
+        "description": "Per brindisi, chiacchiere, commenti e relax post fiera: ecco i migliori wine bar selezionati dal Gambero Rosso da provare assolutamente durante il Vinitaly…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-bere-verona-wine-bar/",
+        "pubDate": "2026-04-10T07:37:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In un borgo di 30 abitanti producono un Parmigiano che attira visitatori da tutto il mondo",
+        "description": "A Rosola, sull’Appennino modenese, una piccola cooperativa ha rilanciato la Vacca Bianca Modenese creando un Parmigiano Reggiano di nicchia oggi richiesto anche…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/parmigiano-vacca-bianca-modenese-rosola/",
+        "pubDate": "2026-04-10T07:21:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Si chiama pric o prac e nasce dal suono delle forbici: la conserva pugliese che sta tornando",
+        "description": "A Molfetta, tra peperoni coltivati vicino al mare e gesti tramandati, il pric o prac racconta una cucina di necessità diventata oggi riscoperta gastronomica…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pric-o-prac-conserva-pugliese/",
+        "pubDate": "2026-04-10T07:12:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Arrivato dalla Svizzera, ha cambiato per sempre il modo in cui facciamo il gelato",
+        "description": "La storia di Luca Caviezel, erede di una dinastia di pasticceri e autore della “bibbia” del gelato artigianale: il metodo che ha cambiato per sempre il settore…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/luca-caviezel-chi-era-gelato-artigianale/",
+        "pubDate": "2026-04-10T05:16:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Birrificio Italiano compie 30 anni: storia e futuro della birra artigianale",
+        "description": "Nella Sala Consiliare del Comune di Lurago Marinone si è svolto il convegno «Storia, evoluzione e futuro della birra artigianale italiana. 30 anni di Birrificio…",
+        "link": "https://www.winemag.it/birrificio-italiano-compie-30-anni-storia-e-futuro-della-birra-artigianale/",
+        "pubDate": "2026-04-10T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/04/Birrificio-Italiano-compie-30-anni-storia-e-futuro-della-birra-artigianale-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Ci salveranno i vini premium: dieci rotte inaspettate (ma promettenti) per l’export vitivinicolo",
         "description": "Avviso ai naviganti: abbandonare la pigrizia (non tutti i vini vanno bene per tutte le tappe) e i luoghi comuni (la Cina non beve solo rossi). L'opportunity ind…",
         "link": "https://www.gamberorosso.it/notizie/vino/dieci-nuove-rotte-vino-italiano-analisi-uiv-vinitaly/",
@@ -430,24 +475,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“I no e low alcol non sono una moda passeggera”. Fipe traccia il futuro delle carte dei vini al ristorante",
-        "description": "Il calo dei consumi impatta anche sulla ristorazione, per questo il presidente Stoppani chiede di ampliare le proposte puntando su autoctoni, qualità e benesser…",
-        "link": "https://www.gamberorosso.it/notizie/vino/rapporto-ristorazione-fipe-2026-consumi-vino-intervista-stoppani/",
-        "pubDate": "2026-04-09T13:19:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è lo shabu shabu, il piatto giapponese dove cucini tu e il sapore si trasforma",
-        "description": "Dalla Mongolia al Giappone, lo shabu shabu è un rituale conviviale fatto di brodo, carne e precisione: una cucina interattiva in cui ogni ingrediente trasforma …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/shabu-shabu-cose-come-funziona-cucina-giapponese/",
-        "pubDate": "2026-04-09T12:13:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Se perfino Luca Zaia porta la cucina stellata nel suo podcast",
         "description": "I grandi chef protagonisti dei podcast pop: chissà che non sia l'occasione per riavvicinare l'alta cucina al grande pubblico. \nL'articolo Se perfino Luca Zaia p…",
         "link": "https://www.dissapore.com/ristoranti/se-perfino-luca-zaia-porta-la-cucina-stellata-nel-suo-podcast/",
@@ -455,24 +482,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/victoria-cabello-alessandro-borghese.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Curiosi e disposti a spendere di più: così i giovani consumatori si stanno riprendendo il mercato del vino",
-        "description": "Negli Stati Uniti, nel Regno Unito e in Italia un'ampia percentuale è considerata ad \"alto coinvolgimento\". Moderazione, sostenibilità, no-low alcol, spumanti e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/giovani-consumi-trend-vino-analisi-iwsr-2026/",
-        "pubDate": "2026-04-09T11:10:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Procedere con gli alert sulle etichette di vino”. La Commissione Salute del Parlamento Ue ci riprova",
-        "description": "Associazioni vitivinicole in allarme. Unione italiana vini invita gli europarlamentari a correggere la posizione: “Un approccio ideologico e punitivo. Così si i…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/alert-etichette-vino-richiesta-2026-commissione-salute/",
-        "pubDate": "2026-04-09T10:45:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "SUBER 2026, Suvereto punta sulla Docg per ridisegnare il futuro della Val di Cornia",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/limpatto-del-conflitto-in-medio-oriente-visto-dal-ceo-di-danone/",
         "pubDate": "2026-04-08T13:53:27+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2021/09/prodotti-alimentari.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pepsi che abbandona il festival con Kanye West e diventa un caso",
-        "description": "Pepsi, Diageo e molti altri mollano il Wireless Festival con Kanye West, e la questione arriva anche in parlamento. \nL'articolo Pepsi che abbandona il festival …",
-        "link": "https://www.dissapore.com/notizie/pepsi-che-abbandona-il-festival-con-kanye-west-e-diventa-un-caso/",
-        "pubDate": "2026-04-08T08:57:37+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/kanye-west-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
