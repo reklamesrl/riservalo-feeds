@@ -1,7 +1,97 @@
 {
-  "generated": "2026-04-10T07:43:33.848246+00:00",
+  "generated": "2026-04-10T13:13:19.567395+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Diletta Leotta sfoggia il Look casual-chic perfetto per questa stagione: da copiare subito!",
+        "description": "Diletta Leotta, con l'arrivo della bella stagione, sfoggia il look casual-chic da avere sempre nell'armadio a portata di mano.…",
+        "link": "https://www.stylosophy.it/articolo/diletta-leotta-sfoggia-il-look-casual-chic-perfetto-per-questa-stagione-da-copiare-subito/249890/",
+        "pubDate": "2026-04-10T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Nuova stagione, nuovi inizi: tra collaboration, cerimonie alle porte, denim sostenibile, lino leggero e nuove aperture, la primavera riscrive il guardaroba con …",
+        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-parfois-the-table-after-lovable-beautiful-lace-ecoalf-denim-for-the-planet-arket-store-roma-pangaia-lino-tosca-blu-elodie-bag-lozza-the-sartorialist-964792",
+        "pubDate": "2026-04-10T12:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/Senza-titolo-68.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "C’è un vitigno marchigiano che sta tornando (e ora ha anche i Tre Bicchieri)",
+        "description": "Il Ribona, storico bianco delle Colline Maceratesi, torna protagonista grazie al lavoro di produttori come la famiglia Saputi, premiata con i Tre Bicchieri del …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/ribona-marche-vitigno-tre-bicchieri/",
+        "pubDate": "2026-04-10T09:50:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pestìth e brovada: cosa sono e come si preparano i fermentati del Friuli",
+        "description": "La storia e la preparazione di brovada, craut garp, brovadìn e pestìth, rape e verze fermentate che rappresentano un' identità gastronomica del Friuli. \nL'artic…",
+        "link": "https://www.dissapore.com/cucina/pestith-e-brovada-fermentati-del-friuli/",
+        "pubDate": "2026-04-10T09:29:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/brovade-e-muset-2.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "5 prodotti beauty al riso per una pelle del viso impeccabile",
+        "description": "Questi 5 prodotti beauty al riso sono un ottimo alleato skincare per una pelle del viso idratata, morbida e luminosa. Da provare!…",
+        "link": "https://www.stylosophy.it/articolo/5-prodotti-beauty-al-riso-per-una-pelle-del-viso-impeccabile/249867/",
+        "pubDate": "2026-04-10T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Selena Gomez, Camila Morrone e le altre star meglio vestite della settimana",
+        "description": "Questa settimana la moda parla linguaggi diversi ma tutti ugualmente interessanti, incarnati specialmente da Selena Gomez e Camila Morrone. Due celeb sempre più…",
+        "link": "https://www.grazia.it/moda/celebrity-style/selena-gomez-camila-morrone-look-red-carpet-abiti-star-meglio-vestite-964500",
+        "pubDate": "2026-04-10T08:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_best_dressed_9_aprile.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Stefano Gabbana lascia la carica di presidente di Dolce&Gabbana",
+        "description": "La notizia è arrivata come un fulmine a ciel sereno: Stefano Gabbana si è dimesso dalla carica di presidente di Dolce&#38;Gabbana, il marchio, simbolo del Made …",
+        "link": "https://www.grazia.it/moda/news-moda/stefano-gabbana-si-dimette-lascia-carica-presidente-dolce-gabbana-domenico-dolce-futuro-brand-964768",
+        "pubDate": "2026-04-10T08:29:45+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/Cover_Stefano_Gabbana.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "A Roma è nato un negozio di fiori con caffetteria che sembra uscito da un libro di fiabe",
+        "description": "A Monteverde Vecchio ha aperto Angelica Fiori e Caffè, una piccola boutique ispirata ai flower bar giapponesi dove colazione e composizioni floreali si incontra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/angelica-fiori-caffe-roma-monteverde/",
+        "pubDate": "2026-04-10T07:58:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma ha aperto una katsusanderia: qui il panino giapponese si mangia come street food",
+        "description": "Nel quartiere Prati debutta Sando Ie Koji, il nuovo indirizzo dello chef giapponese Koji Nakai dedicato al katsu sando: pochi posti, menu essenziale e gusto aut…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/sando-ie-koji-roma-katsusanderia/",
+        "pubDate": "2026-04-10T07:54:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Vinitaly c’è una piccola cantina che fa un Sangiovese poco noto (e lo affina per 10 anni)",
+        "description": "A pochi chilometri da Chiusi, Colle Santa Mustiola porta avanti un progetto radicale: solo Sangiovese, produzioni limitate e lunghissimi affinamenti che hanno r…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-sangiovese-colle-santa-mustiola/",
+        "pubDate": "2026-04-10T07:48:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Dopo Vinitaly, questi sono i posti dove bere davvero bene a Verona",
         "description": "Per brindisi, chiacchiere, commenti e relax post fiera: ecco i migliori wine bar selezionati dal Gambero Rosso da provare assolutamente durante il Vinitaly…",
@@ -28,6 +118,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "Che cosa c&#8217;è di meglio di un bel weekend di relax e shopping? No, tranquille: niente file infinite in qualche centro commerciale super affollato. Potete s…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/consigli-per-gli-acquisti-della-settimana-shopping-online-vestiti-borse-scarpe-must-have-964180",
+        "pubDate": "2026-04-10T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_love_first_sight_09_04.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Arrivato dalla Svizzera, ha cambiato per sempre il modo in cui facciamo il gelato",
@@ -66,15 +165,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Anno turbolento in Borsa per i titoli del vino: Treasury wine estates perde oltre 50%",
-        "description": "Alessio Candi (gruppo Pambianco) mette in evidenza i trend globali e le difficoltà delle imprese vitivinicole quotate in diversi mercati. Investitori prudenti a…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/titoli-vino-borsa-analisi-pambianco/",
-        "pubDate": "2026-04-09T16:04:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Viaggi di Primavera in treno: 5 Borghi del Centro Italia da scoprire ora con un biglietto ferroviario",
         "description": "Dalla rete ferroviaria regionale ai centri storici più suggestivi. Un itinerario accessibile per esplorare borghi autentici senza usare l’auto.…",
         "link": "https://www.stylosophy.it/articolo/borghi-del-centro-italia-da-scoprire-ora-con-un-biglietto-ferroviario/249876/",
@@ -84,24 +174,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "In Italia ci sono sempre meno ristoranti (anche se il settore cresce)",
-        "description": "Il Rapporto FIPE 2026 racconta un settore che cresce nei valori ma perde imprese e personale, tra passaggi generazionali difficili e nuove sfide economiche…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ristoranti-bar-in-calo-italia/",
-        "pubDate": "2026-04-09T15:54:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Basta guerre del prezzo: al vino umbro adesso serve una visione di squadra”. L’appello di Chiara Lungarotti",
-        "description": "La produttrice della storica azienda di Torgiano investe a Montefalco sul trebbiano spoletino. E commenta l'arrivo di Angelini: \"Positivo l’arrivo di un player …",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-umbria-chiara-lungarotti-brancalupo-montefalco/",
-        "pubDate": "2026-04-09T15:41:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Creatività e cultura artigianale: incontro con Galib Gassanov, founder di Institution",
         "description": "Quello di Galib Gassanov è uno dei nomi più interessanti del panorama moda internazionale. Divenuto negli ultimi anni simbolo di una nuova generazione di design…",
         "link": "https://www.grazia.it/moda/news-moda/galib-gassanov-institution-zalando-visionary-award-2026-964159",
@@ -109,81 +181,63 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/DESK-galib-gassanov.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Questo è il jolly da indossare questa primavera (prima che arrivi il grand caldo)!",
-        "description": "È il capo perfetto per giocare con il layering, ovvero costruire, strato dopo strato, un look funzionale agli sbalzi di temperatura del periodo ma al tempo stes…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gilet-come-indossare-abbinare-primavera-look-abbinamenti-964135",
-        "pubDate": "2026-04-09T14:24:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/gilet_DESK.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Addio degustazione analitica. Allo Iulm si studia la “formula” dell’emozione che si prova bevendo",
-        "description": "I ricercatori sono al lavoro sul progetto di \"Sensory neuro-guided profiling\" per misurare la reazione gustativa e olfattiva. Ovvero ciò che il vino fa al siste…",
-        "link": "https://www.gamberorosso.it/notizie/vino/neuromarketing-studio-degustazione-iulm/",
-        "pubDate": "2026-04-09T13:35:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quanto vale il plant-based in Europa?",
-        "description": "I dati sul consumo di alimenti a base vegetale in Europa sono incoraggianti, ma qualche tendenza a sorpresa dovrà essere colta dai produttori.\nL'articolo Quanto…",
-        "link": "https://www.dissapore.com/notizie/quanto-vale-il-plant-based-in-europa/",
-        "pubDate": "2026-04-09T13:29:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2624961633-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ilary Blasi sceglie il blu notte come colore must del suo Look per la nuova puntata del Grande Fratello Vip",
-        "description": "Per la puntata di martedì sera del Grande Fratello Vip, Ilary Blasi ha optato per un altro look in tinta unita e molto chic: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-sceglie-il-blu-notte-come-colore-must-del-suo-look-per-la-nuova-puntata-del-grande-fratello-vip/249877/",
-        "pubDate": "2026-04-09T13:00:00+00:00",
+        "title": "Diletta Leotta sfoggia il Look casual-chic perfetto per questa stagione: da copiare subito!",
+        "description": "Diletta Leotta, con l'arrivo della bella stagione, sfoggia il look casual-chic da avere sempre nell'armadio a portata di mano.…",
+        "link": "https://www.stylosophy.it/articolo/diletta-leotta-sfoggia-il-look-casual-chic-perfetto-per-questa-stagione-da-copiare-subito/249890/",
+        "pubDate": "2026-04-10T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Se perfino Luca Zaia porta la cucina stellata nel suo podcast",
-        "description": "I grandi chef protagonisti dei podcast pop: chissà che non sia l'occasione per riavvicinare l'alta cucina al grande pubblico. \nL'articolo Se perfino Luca Zaia p…",
-        "link": "https://www.dissapore.com/ristoranti/se-perfino-luca-zaia-porta-la-cucina-stellata-nel-suo-podcast/",
-        "pubDate": "2026-04-09T11:27:45+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/victoria-cabello-alessandro-borghese.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Giacche a vento: sono loro il capospalla più cool della primavera",
-        "description": "Sono le giacche sportive per eccellenza, si rivelano delle ottime alleate per sopravvivere ai capricci del meteo e, complici gli ultimi trend, ora si possono sf…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/giacche-a-vento-giacca-donna-elegante-mezza-stagione-firmate-leggere-di-tendenza-964543",
-        "pubDate": "2026-04-09T10:36:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Giacche_a_Vento.jpg",
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Nuova stagione, nuovi inizi: tra collaboration, cerimonie alle porte, denim sostenibile, lino leggero e nuove aperture, la primavera riscrive il guardaroba con …",
+        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-parfois-the-table-after-lovable-beautiful-lace-ecoalf-denim-for-the-planet-arket-store-roma-pangaia-lino-tosca-blu-elodie-bag-lozza-the-sartorialist-964792",
+        "pubDate": "2026-04-10T12:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/Senza-titolo-68.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "SUBER 2026, Suvereto punta sulla Docg per ridisegnare il futuro della Val di Cornia",
-        "description": "Dal 1° al 3 maggio 2026 torna a Suvereto la terza edizione di SUBER &#8211; Suvereto Wine Festival. Al centro, una fase di cambiamento che interessa l’intero te…",
-        "link": "https://www.winemag.it/suber-2026-suvereto-punta-sulla-docg-per-ridisegnare-il-futuro-della-val-di-cornia/",
-        "pubDate": "2026-04-09T10:31:16+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "5 prodotti beauty al riso per una pelle del viso impeccabile",
+        "description": "Questi 5 prodotti beauty al riso sono un ottimo alleato skincare per una pelle del viso idratata, morbida e luminosa. Da provare!…",
+        "link": "https://www.stylosophy.it/articolo/5-prodotti-beauty-al-riso-per-una-pelle-del-viso-impeccabile/249867/",
+        "pubDate": "2026-04-10T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "Barilla è tra le 10 aziende di cui ci si fida di più al mondo. Ma cosa vuol dire?",
-        "description": "La classifica statunitense sulla reputazione aziendale premia Barilla, e l'azienda fa di tutto per stare al passo con i criteri di valutazione globali.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/barilla-e-tra-le-10-aziende-di-cui-ci-si-fida-di-piu-al-mondo-ma-cosa-vuol-dire/",
-        "pubDate": "2026-04-09T10:28:09+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/barilla-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
+        "title": "Selena Gomez, Camila Morrone e le altre star meglio vestite della settimana",
+        "description": "Questa settimana la moda parla linguaggi diversi ma tutti ugualmente interessanti, incarnati specialmente da Selena Gomez e Camila Morrone. Due celeb sempre più…",
+        "link": "https://www.grazia.it/moda/celebrity-style/selena-gomez-camila-morrone-look-red-carpet-abiti-star-meglio-vestite-964500",
+        "pubDate": "2026-04-10T08:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_best_dressed_9_aprile.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Stefano Gabbana lascia la carica di presidente di Dolce&Gabbana",
+        "description": "La notizia è arrivata come un fulmine a ciel sereno: Stefano Gabbana si è dimesso dalla carica di presidente di Dolce&#38;Gabbana, il marchio, simbolo del Made …",
+        "link": "https://www.grazia.it/moda/news-moda/stefano-gabbana-si-dimette-lascia-carica-presidente-dolce-gabbana-domenico-dolce-futuro-brand-964768",
+        "pubDate": "2026-04-10T08:29:45+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/Cover_Stefano_Gabbana.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "Che cosa c&#8217;è di meglio di un bel weekend di relax e shopping? No, tranquille: niente file infinite in qualche centro commerciale super affollato. Potete s…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/consigli-per-gli-acquisti-della-settimana-shopping-online-vestiti-borse-scarpe-must-have-964180",
+        "pubDate": "2026-04-10T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_love_first_sight_09_04.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Viaggi di Primavera in treno: 5 Borghi del Centro Italia da scoprire ora con un biglietto ferroviario",
         "description": "Dalla rete ferroviaria regionale ai centri storici più suggestivi. Un itinerario accessibile per esplorare borghi autentici senza usare l’auto.…",
@@ -284,15 +338,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "È arrivato il momento di scegliere un paio di sandali con tacco nuovi per la bella stagione: fatevi sotto!",
-        "description": "Presto, prenotate subito la pedicure! Sì, perché è giunto il momento che tanto aspettavamo: dopo i lunghissimi mesi invernali, è arrivata finalmente la bella st…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-con-tacco-eleganti-largo-medio-tacchi-alti-scarpe-aperte-primavera-estate-964092",
-        "pubDate": "2026-04-08T10:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_sandali_tacco.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "5 creme idratanti ed economiche per una pelle del viso al top",
         "description": "Sono queste le 5 creme viso economiche, efficaci e nutrienti che idratano, rimpolpano e proteggono la pelle. Perfette per la Primavera!…",
         "link": "https://www.stylosophy.it/articolo/5-creme-idratanti-ed-economiche-per-una-pelle-del-viso-al-top/249834/",
@@ -300,33 +345,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "È ufficialmente iniziato il press tour di “Euphoria 3”: i look delle protagoniste alla premiére di Los Angeles",
-        "description": "Sono passati quattro anni dalla messa in onda dell’ultima puntata della serie e i fan quasi non ci speravano più e invece “Euphoria” sta per tornare. Eh sì, fin…",
-        "link": "https://www.grazia.it/moda/celebrity-style/euphoria-3-serie-hbo-zendaya-jacob-elordi-sydney-sweeney-red-carpet-los-angeles-964276",
-        "pubDate": "2026-04-08T08:57:20+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_premiere_Euphoria-1200x900.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Gioielli floreali per la primavera? Sì, grazie! Ecco i bijoux a forma di fiore su cui puntare",
-        "description": "“Florals for spring? Groundbreaking!”Se riconoscete questa citazione &#8211; ovviamente tratta da Il diavolo veste Prada e più in tema che mai, visto che mancan…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gioielli-floreali-bijoux-orecchini-a-forma-di-fiore-anelli-collane-con-fiori-bracciali-primavera-2026-963995",
-        "pubDate": "2026-04-08T08:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_gioielli_fiori.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Pantaloni ampi istruzioni per l’uso: 5 idee su come abbinarli questa primavera",
-        "description": "Sono uno dei capi più comodi che abbiamo nell’armadio. Riusciamo a sfruttarli 365 giorni l’anno. E grazie alla loro incredibile versatilità possiamo abbinarli f…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-i-pantaloni-ampi-eleganti-neri-idee-outfit-look-abbinamenti-primavera-donna-963966",
-        "pubDate": "2026-04-08T06:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_pantaloni_ampi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "5 Borghi Umbri immersi nella natura perfetti per un weekend di Primavera",
@@ -345,27 +363,54 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Gli alleati hair care by Sephora Collection per una chioma perfetta",
-        "description": "Per capelli sani, luminosi e rimpolpati, ecco 5 prodotti hair care firmati Sephora Collection da non lasciarsi sfuggire. Imperdibili!…",
-        "link": "https://www.stylosophy.it/articolo/gli-alleati-hair-care-by-sephora-collection-per-una-chioma-perfetta/249813/",
-        "pubDate": "2026-04-07T09:41:55+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ponti di Primavera 2026 al mare: Borghi, Città e Riviere d’Italia dove trascorrere le giornate di festa",
-        "description": "Tra scorci nascosti e mete iconiche, ecco dove trascorrere giorni di festa e Ponti al mare in Italia.…",
-        "link": "https://www.stylosophy.it/articolo/ponti-di-primavera-2026-al-mare-borghi-citta-e-riviere-ditalia/249805/",
-        "pubDate": "2026-04-06T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "C’è un vitigno marchigiano che sta tornando (e ora ha anche i Tre Bicchieri)",
+        "description": "Il Ribona, storico bianco delle Colline Maceratesi, torna protagonista grazie al lavoro di produttori come la famiglia Saputi, premiata con i Tre Bicchieri del …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/ribona-marche-vitigno-tre-bicchieri/",
+        "pubDate": "2026-04-10T09:50:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pestìth e brovada: cosa sono e come si preparano i fermentati del Friuli",
+        "description": "La storia e la preparazione di brovada, craut garp, brovadìn e pestìth, rape e verze fermentate che rappresentano un' identità gastronomica del Friuli. \nL'artic…",
+        "link": "https://www.dissapore.com/cucina/pestith-e-brovada-fermentati-del-friuli/",
+        "pubDate": "2026-04-10T09:29:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/brovade-e-muset-2.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A Roma è nato un negozio di fiori con caffetteria che sembra uscito da un libro di fiabe",
+        "description": "A Monteverde Vecchio ha aperto Angelica Fiori e Caffè, una piccola boutique ispirata ai flower bar giapponesi dove colazione e composizioni floreali si incontra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/angelica-fiori-caffe-roma-monteverde/",
+        "pubDate": "2026-04-10T07:58:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma ha aperto una katsusanderia: qui il panino giapponese si mangia come street food",
+        "description": "Nel quartiere Prati debutta Sando Ie Koji, il nuovo indirizzo dello chef giapponese Koji Nakai dedicato al katsu sando: pochi posti, menu essenziale e gusto aut…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/sando-ie-koji-roma-katsusanderia/",
+        "pubDate": "2026-04-10T07:54:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Vinitaly c’è una piccola cantina che fa un Sangiovese poco noto (e lo affina per 10 anni)",
+        "description": "A pochi chilometri da Chiusi, Colle Santa Mustiola porta avanti un progetto radicale: solo Sangiovese, produzioni limitate e lunghissimi affinamenti che hanno r…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-sangiovese-colle-santa-mustiola/",
+        "pubDate": "2026-04-10T07:48:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Dopo Vinitaly, questi sono i posti dove bere davvero bene a Verona",
         "description": "Per brindisi, chiacchiere, commenti e relax post fiera: ecco i migliori wine bar selezionati dal Gambero Rosso da provare assolutamente durante il Vinitaly…",
@@ -425,42 +470,6 @@
         "description": "A Verona torna l'evento dedicato ai vini premiati dal Gambero Rosso disponibili per la degustazione insieme a una selezione di Vini Rari della Guida 2026. Ecco …",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazione-tre-bicchieri-vinitaly-2026-10-assaggi/",
         "pubDate": "2026-04-09T16:21:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Anno turbolento in Borsa per i titoli del vino: Treasury wine estates perde oltre 50%",
-        "description": "Alessio Candi (gruppo Pambianco) mette in evidenza i trend globali e le difficoltà delle imprese vitivinicole quotate in diversi mercati. Investitori prudenti a…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/titoli-vino-borsa-analisi-pambianco/",
-        "pubDate": "2026-04-09T16:04:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Italia ci sono sempre meno ristoranti (anche se il settore cresce)",
-        "description": "Il Rapporto FIPE 2026 racconta un settore che cresce nei valori ma perde imprese e personale, tra passaggi generazionali difficili e nuove sfide economiche…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ristoranti-bar-in-calo-italia/",
-        "pubDate": "2026-04-09T15:54:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Basta guerre del prezzo: al vino umbro adesso serve una visione di squadra”. L’appello di Chiara Lungarotti",
-        "description": "La produttrice della storica azienda di Torgiano investe a Montefalco sul trebbiano spoletino. E commenta l'arrivo di Angelini: \"Positivo l’arrivo di un player …",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-umbria-chiara-lungarotti-brancalupo-montefalco/",
-        "pubDate": "2026-04-09T15:41:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Addio degustazione analitica. Allo Iulm si studia la “formula” dell’emozione che si prova bevendo",
-        "description": "I ricercatori sono al lavoro sul progetto di \"Sensory neuro-guided profiling\" per misurare la reazione gustativa e olfattiva. Ovvero ciò che il vino fa al siste…",
-        "link": "https://www.gamberorosso.it/notizie/vino/neuromarketing-studio-degustazione-iulm/",
-        "pubDate": "2026-04-09T13:35:56+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/butcher-show-e-bbq-expo-parma-diventa-il-centro-della-filiera-della-carne/",
         "pubDate": "2026-04-08T17:15:25+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/fiera-parma.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’impatto del conflitto in Medio Oriente visto dal CEO di Danone",
-        "description": "Secondo il numero uno di Danone, nelle prossime due - tre settimane si deciderà l'impatto macroeconomico del conflitto in Medio Oriente.\nL'articolo L&#8217;impa…",
-        "link": "https://www.dissapore.com/notizie/limpatto-del-conflitto-in-medio-oriente-visto-dal-ceo-di-danone/",
-        "pubDate": "2026-04-08T13:53:27+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2021/09/prodotti-alimentari.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
