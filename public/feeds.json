@@ -1,7 +1,25 @@
 {
-  "generated": "2026-04-11T13:00:43.203561+00:00",
+  "generated": "2026-04-11T18:47:15.525532+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Sedie da cucina moderne e colorate: idee di design per rinnovare la zona pranzo",
+        "description": "Colori, materiali e linee contemporanee definiscono una nuova estetica della zona pranzo.…",
+        "link": "https://www.stylosophy.it/articolo/sedie-da-cucina-moderne-e-colorate-idee-di-design-per-rinnovare-la-zona-pranzo/249926/",
+        "pubDate": "2026-04-11T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Relazioni, fiducia e futuro condiviso: così Banca di Asti sostiene le imprese",
+        "description": "Banca di Asti rafforza il suo ruolo di partner delle imprese con consulenza, soluzioni su misura e accordi strategici: dalla protezione dei crediti alla gestion…",
+        "link": "https://www.gamberorosso.it/notizie/vino/banca-di-asti-sostiene-le-imprese/",
+        "pubDate": "2026-04-11T14:10:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Belen Rodriguez lancia un nuovo trend per la Spring 2026: non riuscirete più a farne a meno!",
         "description": "Belen Rodriguez lancia una nuova tendenza moda per questa primavera: qui di seguito per tutti i dettagli.…",
@@ -102,15 +120,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Jacuzzi celebra 70 anni col lancio di Omnia, la nuova spa Made in Italy",
-        "description": "Nel 2026 Jacuzzi celebra 70 anni di attività. Un traguardo che segna l’evoluzione di un marchio simbolo dell’idroterapia. Per l’occasione presenta Omnia, una nu…",
-        "link": "https://www.winemag.it/jacuzzi-celebra-70-anni-con-omnia/",
-        "pubDate": "2026-04-11T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Vinitaly: 10 vini da non perdere tra i padiglioni di Verona",
         "description": "Dai grandi nomi alle etichette meno scontate, una selezione della redazione per orientarsi tra gli stand e scoprire assaggi che meritano una deviazione…",
         "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-10-vini-da-non-perdere/",
@@ -147,15 +156,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Bastianich, ostriche e dj set: tutti gli appuntamenti di Signorvino",
-        "description": "Signorvino anima Verona tra serate e incontri diffusi, mentre dentro Vinitaly prende forma un discorso diverso sul vino…",
-        "link": "https://www.gamberorosso.it/notizie/vino/verona-eventi-signorvino-vinitaly/",
-        "pubDate": "2026-04-10T16:06:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Festa della mamma 2026: idee viaggio in Europa per sorprenderla con un’esperienza indimenticabile",
         "description": "Dimentica i regali tradizionali e scegli un’esperienza da vivere insieme: ecco come organizzare un viaggio perfetto e la meta che ho scelto per celebrare mia ma…",
         "link": "https://www.stylosophy.it/articolo/festa-della-mamma-2026-idee-viaggio-in-europa-per-sorprenderla-con-unesperienza-indimenticabile/249898/",
@@ -184,6 +184,15 @@
       }
     ],
     "moda": [
+      {
+        "title": "Sedie da cucina moderne e colorate: idee di design per rinnovare la zona pranzo",
+        "description": "Colori, materiali e linee contemporanee definiscono una nuova estetica della zona pranzo.…",
+        "link": "https://www.stylosophy.it/articolo/sedie-da-cucina-moderne-e-colorate-idee-di-design-per-rinnovare-la-zona-pranzo/249926/",
+        "pubDate": "2026-04-11T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Belen Rodriguez lancia un nuovo trend per la Spring 2026: non riuscirete più a farne a meno!",
         "description": "Belen Rodriguez lancia una nuova tendenza moda per questa primavera: qui di seguito per tutti i dettagli.…",
@@ -354,18 +363,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Il Diavolo veste Prada 2, lancia la Collezione Ceruleo: dove acquistare i capi blu ispirati al film",
-        "description": "La palette iconica del film torna protagonista con una capsule collection acquistabile durante il press tour internazionale del sequel.…",
-        "link": "https://www.stylosophy.it/articolo/il-diavolo-veste-prada-2-lancia-la-collezione-ceruleo/249847/",
-        "pubDate": "2026-04-08T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Relazioni, fiducia e futuro condiviso: così Banca di Asti sostiene le imprese",
+        "description": "Banca di Asti rafforza il suo ruolo di partner delle imprese con consulenza, soluzioni su misura e accordi strategici: dalla protezione dei crediti alla gestion…",
+        "link": "https://www.gamberorosso.it/notizie/vino/banca-di-asti-sostiene-le-imprese/",
+        "pubDate": "2026-04-11T14:10:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il video imbarazzante del CEO di McDonald’s: colpa della madre",
         "description": "Il tentativo di Chris Kempczinski di riacquisire credibilità come consumatore dei suoi stessi prodotti è anche peggio, e gli sfottò si sprecano.\nL'articolo Il v…",
@@ -439,15 +448,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Jacuzzi celebra 70 anni col lancio di Omnia, la nuova spa Made in Italy",
-        "description": "Nel 2026 Jacuzzi celebra 70 anni di attività. Un traguardo che segna l’evoluzione di un marchio simbolo dell’idroterapia. Per l’occasione presenta Omnia, una nu…",
-        "link": "https://www.winemag.it/jacuzzi-celebra-70-anni-con-omnia/",
-        "pubDate": "2026-04-11T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Vinitaly: 10 vini da non perdere tra i padiglioni di Verona",
         "description": "Dai grandi nomi alle etichette meno scontate, una selezione della redazione per orientarsi tra gli stand e scoprire assaggi che meritano una deviazione…",
         "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-10-vini-da-non-perdere/",
@@ -484,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Bastianich, ostriche e dj set: tutti gli appuntamenti di Signorvino",
-        "description": "Signorvino anima Verona tra serate e incontri diffusi, mentre dentro Vinitaly prende forma un discorso diverso sul vino…",
-        "link": "https://www.gamberorosso.it/notizie/vino/verona-eventi-signorvino-vinitaly/",
-        "pubDate": "2026-04-10T16:06:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Come i nuovi accordi internazionali cambieranno il vino indiano",
         "description": "L'Europa vuole aggredire il mercato del vino indiano, mentre i produttori locali si preparano ai grandi cambiamenti imposti dai nuovi accordi commerciali.\nL'art…",
         "link": "https://www.dissapore.com/notizie/come-i-nuovi-accordi-internazionali-cambieranno-il-vino-indiano/",
@@ -520,15 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Birrificio Italiano compie 30 anni: storia e futuro della birra artigianale",
-        "description": "Nella Sala Consiliare del Comune di Lurago Marinone si è svolto il convegno «Storia, evoluzione e futuro della birra artigianale italiana. 30 anni di Birrificio…",
-        "link": "https://www.winemag.it/birrificio-italiano-compie-30-anni-storia-e-futuro-della-birra-artigianale/",
-        "pubDate": "2026-04-10T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/04/Birrificio-Italiano-compie-30-anni-storia-e-futuro-della-birra-artigianale-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Quanto vale il plant-based in Europa?",
         "description": "I dati sul consumo di alimenti a base vegetale in Europa sono incoraggianti, ma qualche tendenza a sorpresa dovrà essere colta dai produttori.\nL'articolo Quanto…",
         "link": "https://www.dissapore.com/notizie/quanto-vale-il-plant-based-in-europa/",
@@ -543,6 +525,24 @@
         "link": "https://www.dissapore.com/ristoranti/se-perfino-luca-zaia-porta-la-cucina-stellata-nel-suo-podcast/",
         "pubDate": "2026-04-09T11:27:45+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/victoria-cabello-alessandro-borghese.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Barilla è tra le 10 aziende di cui ci si fida di più al mondo. Ma cosa vuol dire?",
+        "description": "La classifica statunitense sulla reputazione aziendale premia Barilla, e l'azienda fa di tutto per stare al passo con i criteri di valutazione globali.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/barilla-e-tra-le-10-aziende-di-cui-ci-si-fida-di-piu-al-mondo-ma-cosa-vuol-dire/",
+        "pubDate": "2026-04-09T10:28:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/barilla-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Krispy Kebab di KFC, recensione: com’è Kentucky Fried Chicken in versione mediorientale",
+        "description": "Abbiamo provato il nuovo krispy kebab di KFC, il panino che imita il kebab ma che è ripieno dell'impeccabile pollo fritto tipico della catena.\nL'articolo Krispy…",
+        "link": "https://www.dissapore.com/ristoranti/krispy-kebab-di-kfc-recensione/",
+        "pubDate": "2026-04-09T08:23:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/krispy-kebab-kfc-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
