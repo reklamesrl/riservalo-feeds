@@ -1,7 +1,106 @@
 {
-  "generated": "2026-04-12T07:16:09.290953+00:00",
+  "generated": "2026-04-12T13:03:36.883788+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con il dress in pelle rosso acceso",
+        "description": "Ecco che cosa ha indossato Ilary Blasi per la puntata di venerdì sera del Grande Fratello Vip.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-lascia-tutti-senza-fiato-al-grande-fratello-vip-con-il-dress-in-pelle-rosso-acceso/249945/",
+        "pubDate": "2026-04-12T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Arriva il mini-dealcolatore per fare vini no alcol. A Vinitaly la novità pensata per le piccole aziende",
+        "description": "In un mercato italiano ancora all'anno zero per quanto riguarda la produzione di Nolo, l'industria guarda anche alle piccole e medie imprese che non possono per…",
+        "link": "https://www.gamberorosso.it/notizie/vino/mini-dealcolatore-vini-no-alcol-vason-vinitaly-2026/",
+        "pubDate": "2026-04-12T12:03:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È morto Pino Mondello, maestro della mixology: il barman che ha fatto scuola a Roma",
+        "description": "Si è spento prematuramente Pino Mondello, che in quarant’anni e più di carriera ha segnato il successo di infiniti locali romani e non solo. Tra cui il bar de L…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/morto-pino-mondello-barman-mixology-roma/",
+        "pubDate": "2026-04-12T11:21:36+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Arianna Occhipinti: “La Sicilia del vino non è solo l’Etna. Vittoria e Marsala sono le grandi scommesse”",
+        "description": "La vignaiola simbolo del Frappato: \"I vini no alcol mi fanno paura, i Piwi? Poco interessanti\". E sui vini naturali \"abbiamo esagerato con tecniche e macerazion…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/arianna-occhipinti-sicilia-vino-vittoria-marsala-no-alcol-piwi-vinitaly/",
+        "pubDate": "2026-04-12T10:37:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’è qualcosa che non torna con le tasse che paga Starbucks nel Regno Unito",
+        "description": "Anche quest'anno Starbucks UK ottiene un importante sconto fiscale anche se il fatturato cresce e hanno aperto oltre 90 nuovi punti vendita.\nL'articolo C&#8217;…",
+        "link": "https://www.dissapore.com/notizie/qualcosa-non-torna-con-le-tasse-che-paga-starbucks-nel-regno-unito/",
+        "pubDate": "2026-04-12T10:25:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/starbuck-milano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Bisol1542 a Vinitaly con due nuove etichette per il mondo della ristorazione",
+        "description": "Dal territorio di Valdobbiadene arrivano le \"Cuvée Eroiche\". Un Brut e un Extra Dry pensati esclusivamente per il servizio al calice…",
+        "link": "https://www.gamberorosso.it/notizie/vino/bisol1542-a-vinitaly-2026-nuove-etichette/",
+        "pubDate": "2026-04-12T10:10:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Qui le borse in rafia più belle della Primavera 2026, approvate dalle fashion addicted!",
+        "description": "Un must have della Primavera 2026? Le borse in rafia, emblema di eleganza, raffinatezza e glamour. Ecco i modelli più belli da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/borse-in-rafia-piu-belle-della-primavera-2026/249940/",
+        "pubDate": "2026-04-12T09:55:21+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Vendite di vino in flessione. Anche il supermercato deve cambiare strategia: puntare sulle quantità non premia",
+        "description": "A Vinitaly 2026 l'analisi di Circana per trovare nuove modalità di adattamento. Anche perché l'opzione dei dealcolati non riuscirà a compensare la diminuzione d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vendite-vino-supermercato-analisi-circana-vinitaly-2026/",
+        "pubDate": "2026-04-12T09:30:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Adesso il figlio minore di Trump fa i soldi anche con lo yerba mate",
+        "description": "Dopo la real estate, le criptovalute e il dettaglio di essere figlio di un miliardario, Barron Trump si butta nel mondo del beverage.\nL'articolo Adesso il figli…",
+        "link": "https://www.dissapore.com/notizie/adesso-il-figlio-minore-di-trump-fa-i-soldi-anche-con-lo-yerba-mate/",
+        "pubDate": "2026-04-12T09:07:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Famiglia-trump.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Quando il Pinot Nero parla di eleganza: i cru di Ottavia Vistarino",
+        "description": "Un percorso tra cru e annate che mette a fuoco stile, identità e potenziale evolutivo dell’azienda, tra vini premiati e nuove espressioni…",
+        "link": "https://www.gamberorosso.it/notizie/vino/pinot-nero-vinitaly-conte-vistarino/",
+        "pubDate": "2026-04-12T08:05:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nelle Marche c’è un Verdicchio da 10 euro che sta facendo parlare di sé",
+        "description": "Dalla Vallesina ai Castelli di Jesi, il Verdicchio continua a evolversi grazie a nuovi produttori: tra questi Podere L’Infinito, realtà giovane che firma un bia…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/verdicchio-marche-podere-infinito/",
+        "pubDate": "2026-04-12T07:21:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Iginio Massari ha lanciato una linea beauty al profumo di panettone",
         "description": "Al Cosmoprof di Bologna Iginio Massari ha lanciato una nuova linea beauty in 5 profumazioni, tra cui quella al panettone. Saranno disponibili da settembre.\nL'ar…",
@@ -12,7 +111,7 @@
         "source": "Dissapore"
       },
       {
-        "title": "Abbiamo assaggiato 19 pesti del supermercato: questi sono i migliori",
+        "title": "Quale pesto comprare al supermercato? Ne abbiamo testati 19: ecco quelli che meritano davvero",
         "description": "Una degustazione alla cieca tra i pesti freschi da banco frigo della grande distribuzione: ecco gli 8 prodotti che si distinguono per equilibrio, freschezza e g…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-pesti-supermercato-classifica/",
         "pubDate": "2026-04-12T05:33:25+00:00",
@@ -75,115 +174,34 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Non è volatile, è vivo”: cosa sta succedendo al vino naturale",
-        "description": "Da rivoluzione agricola a fenomeno culturale, il vino naturale ha cambiato il modo di pensare il vino. Ma oggi, tra identità, difetti e divisioni, il movimento …",
+        "title": "Il vino naturale ha un problema (e riguarda i difetti)",
+        "description": "Da rivoluzione agricola a fenomeno culturale, il vino naturale ha cambiato il settore. Ma oggi, tra difetti giustificati e divisioni interne, qualcosa non torna…",
         "link": "https://www.gamberorosso.it/notizie/attualita/vino-naturale-cosa-sta-succedendo/",
         "pubDate": "2026-04-11T12:04:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vicino all’autostrada in Abruzzo c’è una trattoria dove fermarsi a mangiare",
-        "description": "A Manoppello Scalo, Tritapepe è una sosta sorprendente tra cucina abruzzese solida e una carta vini ricca di piccoli produttori fuori dai circuiti più noti.…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/trattoria-trita-pepe-abruzzo-vini-naturali/",
-        "pubDate": "2026-04-11T10:39:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nelle Rive di Colfosco una cantina storica firma un Prosecco Superiore Extra Brut di carattere",
-        "description": "Ponte Rosso Rive di Colfosco Extra Brut: la nuova voce del Valdobbiadene firmato Collalto…",
-        "link": "https://www.gamberorosso.it/notizie/vino/conte-collalto-prosecco-superiore-extra-brut-valdobbiadene/",
-        "pubDate": "2026-04-11T10:10:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Zara Nuova Collezione: capi e accessori per una Primavera all’ultima moda",
-        "description": "Sono questi i capi e gli accessori must have dalla nuova collezione Zara. Dei veri must have di Primavera!…",
-        "link": "https://www.stylosophy.it/articolo/zara-nuova-collezione-capi-e-accessori-per-una-primavera-allultima-moda/249914/",
-        "pubDate": "2026-04-11T09:57:39+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La mozzarella di bufala sta diventando troppo cara?",
-        "description": "Il Consorzio di tutela della Mozzarella di Bufala Campana Dop è molto preoccupato per la situazione internazionale, che pesa molto di più su un prodotto che va …",
-        "link": "https://www.dissapore.com/notizie/la-mozzarella-di-bufala-sta-diventando-troppo-cara/",
-        "pubDate": "2026-04-11T08:26:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/produzione-mozzarella-di-bufala-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Tra i terrazzamenti della Valtellina c’è una famiglia che da cento anni fa vino senza scorciatoie",
-        "description": "Casa Vinicola Rainoldi festeggia il suo centenario e sceglie Vinitaly per segnare un nuovo capitolo…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-2026-vino-valtellina-casa-vinicola-rainoldi/",
-        "pubDate": "2026-04-11T08:10:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Si chiamano spaghetti alla Corte d’Assise e nascono in tribunale: la storia del piatto più piccante della Calabria",
-        "description": "Inventati negli anni '50 durante un processo in Calabria, questi spaghetti al pomodoro e peperoncino devono il loro nome a un giudice e a un condimento \"senza s…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spaghetti-corte-assise-storia-ricetta/",
-        "pubDate": "2026-04-11T07:06:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Colorate, versatili e chic: ecco le bluse più carine in circolazione",
-        "description": "Si abbinano con gonne, pantaloni, bermuda, jeans. Sanno regalare un tocco chic senza sforzo anche al look più semplice. Creano dipendenza ed è molto difficile f…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/bluse-eleganti-particolari-top-camicette-chic-maniche-corte-primavera-estate-2026-964908",
-        "pubDate": "2026-04-11T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_top_carini.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In Italia il latte fresco rischia di sparire",
-        "description": "C'è più di un motivo per cui preferiamo il latte a lunga conservazione: prezzo, abitudini, sostenibilità economica e di filiera. \nL'articolo In Italia il latte …",
-        "link": "https://www.dissapore.com/notizie/in-italia-il-latte-fresco-rischia-di-sparire/",
-        "pubDate": "2026-04-11T06:16:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/latte-sfondo-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Jacuzzi celebra 70 anni col lancio di Omnia, la nuova spa Made in Italy",
-        "description": "Nel 2026 Jacuzzi celebra 70 anni di attività. Un traguardo che segna l’evoluzione di un marchio simbolo dell’idroterapia. Per l’occasione presenta Omnia, una nu…",
-        "link": "https://www.winemag.it/jacuzzi-celebra-70-anni-con-omnia/",
-        "pubDate": "2026-04-11T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vinitaly: 10 vini da non perdere tra i padiglioni di Verona",
-        "description": "Dai grandi nomi alle etichette meno scontate, una selezione della redazione per orientarsi tra gli stand e scoprire assaggi che meritano una deviazione…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-10-vini-da-non-perdere/",
-        "pubDate": "2026-04-11T05:46:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Verona c’è un dolce da non perdere dopo Vinitaly: dove mangiare la torta russa",
-        "description": "Dalla Pasticceria Perlini a Flego, gli indirizzi migliori per assaggiare la torta russa, simbolo della tradizione veronese…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/torta-russa-verona-dove-mangiarla/",
-        "pubDate": "2026-04-11T05:07:21+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con il dress in pelle rosso acceso",
+        "description": "Ecco che cosa ha indossato Ilary Blasi per la puntata di venerdì sera del Grande Fratello Vip.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-lascia-tutti-senza-fiato-al-grande-fratello-vip-con-il-dress-in-pelle-rosso-acceso/249945/",
+        "pubDate": "2026-04-12T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Qui le borse in rafia più belle della Primavera 2026, approvate dalle fashion addicted!",
+        "description": "Un must have della Primavera 2026? Le borse in rafia, emblema di eleganza, raffinatezza e glamour. Ecco i modelli più belli da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/borse-in-rafia-piu-belle-della-primavera-2026/249940/",
+        "pubDate": "2026-04-12T09:55:21+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Sedie da cucina moderne e colorate: idee di design per rinnovare la zona pranzo",
         "description": "Colori, materiali e linee contemporanee definiscono una nuova estetica della zona pranzo.…",
@@ -338,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Le acque micellari più fresche e leggere della Primavera a prova di viso pulito e deterso",
-        "description": "Leggere, fresche e perfette per detergere la pelle del viso, queste acque micellari sono un vero must have di Primavera. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/le-acque-micellari-piu-fresche-e-leggere-della-primavera-a-prova-di-viso-pulito-e-deterso/249857/",
-        "pubDate": "2026-04-09T09:07:16+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Vichy mania: la stampa a quadretti che torna (ancora) a farci innamorare",
         "description": "La stampa più iconica della bella stagione? Spoiler: sì, è (di nuovo) lei. Il Vichy torna a conquistare il guardaroba della primavera 2026 con un mix irresistib…",
         "link": "https://www.grazia.it/moda/tendenze-moda/stampa-quadretti-vichy-vestiti-gonne-pantaloni-gingham-print-primavera-estate-2026-964210",
@@ -354,18 +363,90 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_vichy.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Interrail 2026: come ottenere i 40mila pass DiscoverEU per viaggiare in Europa a 18 anni",
-        "description": "Quarantamila pass gratuiti per esplorare l’Europa in treno: requisiti, tempi e come giocarsi al meglio questa occasione.…",
-        "link": "https://www.stylosophy.it/articolo/interrail-gratis-2026-come-ottenere-i-40mila-pass-discovereu/249852/",
-        "pubDate": "2026-04-08T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Arriva il mini-dealcolatore per fare vini no alcol. A Vinitaly la novità pensata per le piccole aziende",
+        "description": "In un mercato italiano ancora all'anno zero per quanto riguarda la produzione di Nolo, l'industria guarda anche alle piccole e medie imprese che non possono per…",
+        "link": "https://www.gamberorosso.it/notizie/vino/mini-dealcolatore-vini-no-alcol-vason-vinitaly-2026/",
+        "pubDate": "2026-04-12T12:03:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È morto Pino Mondello, maestro della mixology: il barman che ha fatto scuola a Roma",
+        "description": "Si è spento prematuramente Pino Mondello, che in quarant’anni e più di carriera ha segnato il successo di infiniti locali romani e non solo. Tra cui il bar de L…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/morto-pino-mondello-barman-mixology-roma/",
+        "pubDate": "2026-04-12T11:21:36+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Arianna Occhipinti: “La Sicilia del vino non è solo l’Etna. Vittoria e Marsala sono le grandi scommesse”",
+        "description": "La vignaiola simbolo del Frappato: \"I vini no alcol mi fanno paura, i Piwi? Poco interessanti\". E sui vini naturali \"abbiamo esagerato con tecniche e macerazion…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/arianna-occhipinti-sicilia-vino-vittoria-marsala-no-alcol-piwi-vinitaly/",
+        "pubDate": "2026-04-12T10:37:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’è qualcosa che non torna con le tasse che paga Starbucks nel Regno Unito",
+        "description": "Anche quest'anno Starbucks UK ottiene un importante sconto fiscale anche se il fatturato cresce e hanno aperto oltre 90 nuovi punti vendita.\nL'articolo C&#8217;…",
+        "link": "https://www.dissapore.com/notizie/qualcosa-non-torna-con-le-tasse-che-paga-starbucks-nel-regno-unito/",
+        "pubDate": "2026-04-12T10:25:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/starbuck-milano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Bisol1542 a Vinitaly con due nuove etichette per il mondo della ristorazione",
+        "description": "Dal territorio di Valdobbiadene arrivano le \"Cuvée Eroiche\". Un Brut e un Extra Dry pensati esclusivamente per il servizio al calice…",
+        "link": "https://www.gamberorosso.it/notizie/vino/bisol1542-a-vinitaly-2026-nuove-etichette/",
+        "pubDate": "2026-04-12T10:10:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vendite di vino in flessione. Anche il supermercato deve cambiare strategia: puntare sulle quantità non premia",
+        "description": "A Vinitaly 2026 l'analisi di Circana per trovare nuove modalità di adattamento. Anche perché l'opzione dei dealcolati non riuscirà a compensare la diminuzione d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vendite-vino-supermercato-analisi-circana-vinitaly-2026/",
+        "pubDate": "2026-04-12T09:30:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Adesso il figlio minore di Trump fa i soldi anche con lo yerba mate",
+        "description": "Dopo la real estate, le criptovalute e il dettaglio di essere figlio di un miliardario, Barron Trump si butta nel mondo del beverage.\nL'articolo Adesso il figli…",
+        "link": "https://www.dissapore.com/notizie/adesso-il-figlio-minore-di-trump-fa-i-soldi-anche-con-lo-yerba-mate/",
+        "pubDate": "2026-04-12T09:07:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Famiglia-trump.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Quando il Pinot Nero parla di eleganza: i cru di Ottavia Vistarino",
+        "description": "Un percorso tra cru e annate che mette a fuoco stile, identità e potenziale evolutivo dell’azienda, tra vini premiati e nuove espressioni…",
+        "link": "https://www.gamberorosso.it/notizie/vino/pinot-nero-vinitaly-conte-vistarino/",
+        "pubDate": "2026-04-12T08:05:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nelle Marche c’è un Verdicchio da 10 euro che sta facendo parlare di sé",
+        "description": "Dalla Vallesina ai Castelli di Jesi, il Verdicchio continua a evolversi grazie a nuovi produttori: tra questi Podere L’Infinito, realtà giovane che firma un bia…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/verdicchio-marche-podere-infinito/",
+        "pubDate": "2026-04-12T07:21:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Iginio Massari ha lanciato una linea beauty al profumo di panettone",
         "description": "Al Cosmoprof di Bologna Iginio Massari ha lanciato una nuova linea beauty in 5 profumazioni, tra cui quella al panettone. Saranno disponibili da settembre.\nL'ar…",
@@ -376,7 +457,7 @@
         "source": "Dissapore"
       },
       {
-        "title": "Abbiamo assaggiato 19 pesti del supermercato: questi sono i migliori",
+        "title": "Quale pesto comprare al supermercato? Ne abbiamo testati 19: ecco quelli che meritano davvero",
         "description": "Una degustazione alla cieca tra i pesti freschi da banco frigo della grande distribuzione: ecco gli 8 prodotti che si distinguono per equilibrio, freschezza e g…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-pesti-supermercato-classifica/",
         "pubDate": "2026-04-12T05:33:25+00:00",
@@ -421,28 +502,10 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Non è volatile, è vivo”: cosa sta succedendo al vino naturale",
-        "description": "Da rivoluzione agricola a fenomeno culturale, il vino naturale ha cambiato il modo di pensare il vino. Ma oggi, tra identità, difetti e divisioni, il movimento …",
+        "title": "Il vino naturale ha un problema (e riguarda i difetti)",
+        "description": "Da rivoluzione agricola a fenomeno culturale, il vino naturale ha cambiato il settore. Ma oggi, tra difetti giustificati e divisioni interne, qualcosa non torna…",
         "link": "https://www.gamberorosso.it/notizie/attualita/vino-naturale-cosa-sta-succedendo/",
         "pubDate": "2026-04-11T12:04:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vicino all’autostrada in Abruzzo c’è una trattoria dove fermarsi a mangiare",
-        "description": "A Manoppello Scalo, Tritapepe è una sosta sorprendente tra cucina abruzzese solida e una carta vini ricca di piccoli produttori fuori dai circuiti più noti.…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/trattoria-trita-pepe-abruzzo-vini-naturali/",
-        "pubDate": "2026-04-11T10:39:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nelle Rive di Colfosco una cantina storica firma un Prosecco Superiore Extra Brut di carattere",
-        "description": "Ponte Rosso Rive di Colfosco Extra Brut: la nuova voce del Valdobbiadene firmato Collalto…",
-        "link": "https://www.gamberorosso.it/notizie/vino/conte-collalto-prosecco-superiore-extra-brut-valdobbiadene/",
-        "pubDate": "2026-04-11T10:10:21+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -455,24 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/produzione-mozzarella-di-bufala-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Tra i terrazzamenti della Valtellina c’è una famiglia che da cento anni fa vino senza scorciatoie",
-        "description": "Casa Vinicola Rainoldi festeggia il suo centenario e sceglie Vinitaly per segnare un nuovo capitolo…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-2026-vino-valtellina-casa-vinicola-rainoldi/",
-        "pubDate": "2026-04-11T08:10:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Si chiamano spaghetti alla Corte d’Assise e nascono in tribunale: la storia del piatto più piccante della Calabria",
-        "description": "Inventati negli anni '50 durante un processo in Calabria, questi spaghetti al pomodoro e peperoncino devono il loro nome a un giudice e a un condimento \"senza s…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spaghetti-corte-assise-storia-ricetta/",
-        "pubDate": "2026-04-11T07:06:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "In Italia il latte fresco rischia di sparire",
@@ -493,56 +538,11 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Vinitaly: 10 vini da non perdere tra i padiglioni di Verona",
-        "description": "Dai grandi nomi alle etichette meno scontate, una selezione della redazione per orientarsi tra gli stand e scoprire assaggi che meritano una deviazione…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-10-vini-da-non-perdere/",
-        "pubDate": "2026-04-11T05:46:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Verona c’è un dolce da non perdere dopo Vinitaly: dove mangiare la torta russa",
-        "description": "Dalla Pasticceria Perlini a Flego, gli indirizzi migliori per assaggiare la torta russa, simbolo della tradizione veronese…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/torta-russa-verona-dove-mangiarla/",
-        "pubDate": "2026-04-11T05:07:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Roma uno chef lascia l’alta cucina e apre un posto dove si mangia (e si condivide)",
-        "description": "Si chiama Scambio ed è il nuovo locale di Fabrizio Cervellieri: cucina regionale, formula conviviale e menu dinamico nel cuore di Roma…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/scambio-roma-prati-cervellieri/",
-        "pubDate": "2026-04-10T16:55:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Come i nuovi accordi internazionali cambieranno il vino indiano",
         "description": "L'Europa vuole aggredire il mercato del vino indiano, mentre i produttori locali si preparano ai grandi cambiamenti imposti dai nuovi accordi commerciali.\nL'art…",
         "link": "https://www.dissapore.com/notizie/come-i-nuovi-accordi-internazionali-cambieranno-il-vino-indiano/",
         "pubDate": "2026-04-10T15:46:39+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/vino-india-sula-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Butcher Show e BBQ Expo: le opportunità per i professionisti della carne",
-        "description": "Dai produttori ai ristoratori, passando per fornitori di aromi e packaging, Butcher Show e BBQ Expo rappresentano tutta la filiera professionale della carne, co…",
-        "link": "https://www.dissapore.com/notizie/butcher-show-e-bbq-expo-le-opportunita-per-i-professionisti-della-carne/",
-        "pubDate": "2026-04-10T14:23:35+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/05/manzo-macelleria.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pestìth e brovada: cosa sono e come si preparano i fermentati del Friuli",
-        "description": "La storia e la preparazione di brovada, craut garp, brovadìn e pestìth, rape e verze fermentate che rappresentano un' identità gastronomica del Friuli. \nL'artic…",
-        "link": "https://www.dissapore.com/cucina/pestith-e-brovada-fermentati-del-friuli/",
-        "pubDate": "2026-04-10T09:29:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/brovade-e-muset-2.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
