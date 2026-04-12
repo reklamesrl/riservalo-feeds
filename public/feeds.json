@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-12T13:03:36.883788+00:00",
+  "generated": "2026-04-12T18:52:19.579213+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Come arredare casa: guida completa stanza per stanza",
+        "description": "Dalla scelta dei mobili all’organizzazione degli spazi, tutti i consigli per arredare ogni ambiente in modo funzionale e armonioso.…",
+        "link": "https://www.stylosophy.it/articolo/come-arredare-casa-guida-completa-stanza-per-stanza/249935/",
+        "pubDate": "2026-04-12T16:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "I negoziati falliti in Medioriente scuotono Vinitaly: voli dei buyer cancellati. Lollobrigida: “Non abbiate paura”",
+        "description": "La prima giornata della fiera è stata come sempre quella della politica. Debutta il ministro del Turismo Mazzi, preoccupati Tajani e Urso per il blocco di Hormu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-2026-inaugurazione-politici/",
+        "pubDate": "2026-04-12T15:30:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Puglia arriva Ego Food Fest, un festival che vale la pena di tenere d’occhio",
+        "description": "Dal 17 al 20 aprile, a Taranto, c'è l'Ego Food Fest, un festival enogastronomico che mette la Puglia e i suoi prodotti al centro delle interpretazioni degli che…",
+        "link": "https://www.dissapore.com/notizie/in-puglia-arriva-ego-food-fest-un-festival-che-vale-la-pena-di-tenere-docchio/",
+        "pubDate": "2026-04-12T15:29:23+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Giorno_21_Villa_Peripato_Nic-309.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con il dress in pelle rosso acceso",
         "description": "Ecco che cosa ha indossato Ilary Blasi per la puntata di venerdì sera del Grande Fratello Vip.…",
@@ -154,36 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Belen Rodriguez lancia un nuovo trend per la Spring 2026: non riuscirete più a farne a meno!",
-        "description": "Belen Rodriguez lancia una nuova tendenza moda per questa primavera: qui di seguito per tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/belen-rodriguez-lancia-un-nuovo-trend-per-la-spring-2026-non-riuscirete-piu-a-farne-a-meno/249909/",
-        "pubDate": "2026-04-11T13:00:00+00:00",
+        "title": "Come arredare casa: guida completa stanza per stanza",
+        "description": "Dalla scelta dei mobili all’organizzazione degli spazi, tutti i consigli per arredare ogni ambiente in modo funzionale e armonioso.…",
+        "link": "https://www.stylosophy.it/articolo/come-arredare-casa-guida-completa-stanza-per-stanza/249935/",
+        "pubDate": "2026-04-12T16:30:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Il video imbarazzante del CEO di McDonald’s: colpa della madre",
-        "description": "Il tentativo di Chris Kempczinski di riacquisire credibilità come consumatore dei suoi stessi prodotti è anche peggio, e gli sfottò si sprecano.\nL'articolo Il v…",
-        "link": "https://www.dissapore.com/notizie/il-video-imbarazzante-del-ceo-di-mcdonalds-colpa-della-madre/",
-        "pubDate": "2026-04-11T12:31:37+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/03/Chris-Kempczinski-headshot.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il vino naturale ha un problema (e riguarda i difetti)",
-        "description": "Da rivoluzione agricola a fenomeno culturale, il vino naturale ha cambiato il settore. Ma oggi, tra difetti giustificati e divisioni interne, qualcosa non torna…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-naturale-cosa-sta-succedendo/",
-        "pubDate": "2026-04-11T12:04:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con il dress in pelle rosso acceso",
         "description": "Ecco che cosa ha indossato Ilary Blasi per la puntata di venerdì sera del Grande Fratello Vip.…",
@@ -338,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Ilary Blasi sceglie il blu notte come colore must del suo Look per la nuova puntata del Grande Fratello Vip",
-        "description": "Per la puntata di martedì sera del Grande Fratello Vip, Ilary Blasi ha optato per un altro look in tinta unita e molto chic: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-sceglie-il-blu-notte-come-colore-must-del-suo-look-per-la-nuova-puntata-del-grande-fratello-vip/249877/",
-        "pubDate": "2026-04-09T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Giacche a vento: sono loro il capospalla più cool della primavera",
         "description": "Sono le giacche sportive per eccellenza, si rivelano delle ottime alleate per sopravvivere ai capricci del meteo e, complici gli ultimi trend, ora si possono sf…",
         "link": "https://www.grazia.it/moda/tendenze-moda/giacche-a-vento-giacca-donna-elegante-mezza-stagione-firmate-leggere-di-tendenza-964543",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "I negoziati falliti in Medioriente scuotono Vinitaly: voli dei buyer cancellati. Lollobrigida: “Non abbiate paura”",
+        "description": "La prima giornata della fiera è stata come sempre quella della politica. Debutta il ministro del Turismo Mazzi, preoccupati Tajani e Urso per il blocco di Hormu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-2026-inaugurazione-politici/",
+        "pubDate": "2026-04-12T15:30:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Puglia arriva Ego Food Fest, un festival che vale la pena di tenere d’occhio",
+        "description": "Dal 17 al 20 aprile, a Taranto, c'è l'Ego Food Fest, un festival enogastronomico che mette la Puglia e i suoi prodotti al centro delle interpretazioni degli che…",
+        "link": "https://www.dissapore.com/notizie/in-puglia-arriva-ego-food-fest-un-festival-che-vale-la-pena-di-tenere-docchio/",
+        "pubDate": "2026-04-12T15:29:23+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Giorno_21_Villa_Peripato_Nic-309.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Arriva il mini-dealcolatore per fare vini no alcol. A Vinitaly la novità pensata per le piccole aziende",
         "description": "In un mercato italiano ancora all'anno zero per quanto riguarda la produzione di Nolo, l'industria guarda anche alle piccole e medie imprese che non possono per…",
@@ -502,15 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Il vino naturale ha un problema (e riguarda i difetti)",
-        "description": "Da rivoluzione agricola a fenomeno culturale, il vino naturale ha cambiato il settore. Ma oggi, tra difetti giustificati e divisioni interne, qualcosa non torna…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-naturale-cosa-sta-succedendo/",
-        "pubDate": "2026-04-11T12:04:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La mozzarella di bufala sta diventando troppo cara?",
         "description": "Il Consorzio di tutela della Mozzarella di Bufala Campana Dop è molto preoccupato per la situazione internazionale, che pesa molto di più su un prodotto che va …",
         "link": "https://www.dissapore.com/notizie/la-mozzarella-di-bufala-sta-diventando-troppo-cara/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Come i nuovi accordi internazionali cambieranno il vino indiano",
-        "description": "L'Europa vuole aggredire il mercato del vino indiano, mentre i produttori locali si preparano ai grandi cambiamenti imposti dai nuovi accordi commerciali.\nL'art…",
-        "link": "https://www.dissapore.com/notizie/come-i-nuovi-accordi-internazionali-cambieranno-il-vino-indiano/",
-        "pubDate": "2026-04-10T15:46:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/vino-india-sula-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
