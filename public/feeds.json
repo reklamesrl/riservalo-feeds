@@ -1,7 +1,25 @@
 {
-  "generated": "2026-04-11T18:47:15.525532+00:00",
+  "generated": "2026-04-12T07:16:09.290953+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Iginio Massari ha lanciato una linea beauty al profumo di panettone",
+        "description": "Al Cosmoprof di Bologna Iginio Massari ha lanciato una nuova linea beauty in 5 profumazioni, tra cui quella al panettone. Saranno disponibili da settembre.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/massari-ha-lanciano-una-linea-beauty-al-profumo-di-panettone/",
+        "pubDate": "2026-04-12T06:51:26+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Abbiamo assaggiato 19 pesti del supermercato: questi sono i migliori",
+        "description": "Una degustazione alla cieca tra i pesti freschi da banco frigo della grande distribuzione: ecco gli 8 prodotti che si distinguono per equilibrio, freschezza e g…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-pesti-supermercato-classifica/",
+        "pubDate": "2026-04-12T05:33:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Sedie da cucina moderne e colorate: idee di design per rinnovare la zona pranzo",
         "description": "Colori, materiali e linee contemporanee definiscono una nuova estetica della zona pranzo.…",
@@ -10,6 +28,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Alessio Planeta nuovo presidente del Consorzio DOC Sicilia",
+        "description": "Il Consorzio di Tutela Vini DOC Sicilia ha un nuovo presidente. Il Consiglio di amministrazione ha eletto Alessio Planeta alla guida dell’ente durante la prima …",
+        "link": "https://www.winemag.it/alessio-planeta-nuovo-presidente-consorzio-doc-sicilia/",
+        "pubDate": "2026-04-11T15:13:25+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "ISWA, Antonio Capaldo nuovo presidente",
+        "description": "Italian Signature Wines Academy (ISWA) rinnova il Consiglio di Amministrazione e apre una nuova fase di sviluppo. L’alleanza, nata per promuovere l’eccellenza d…",
+        "link": "https://www.winemag.it/iswa-antonio-capaldo-nuovo-presidente/",
+        "pubDate": "2026-04-11T14:29:05+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Relazioni, fiducia e futuro condiviso: così Banca di Asti sostiene le imprese",
@@ -120,6 +156,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Jacuzzi celebra 70 anni col lancio di Omnia, la nuova spa Made in Italy",
+        "description": "Nel 2026 Jacuzzi celebra 70 anni di attività. Un traguardo che segna l’evoluzione di un marchio simbolo dell’idroterapia. Per l’occasione presenta Omnia, una nu…",
+        "link": "https://www.winemag.it/jacuzzi-celebra-70-anni-con-omnia/",
+        "pubDate": "2026-04-11T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Vinitaly: 10 vini da non perdere tra i padiglioni di Verona",
         "description": "Dai grandi nomi alle etichette meno scontate, una selezione della redazione per orientarsi tra gli stand e scoprire assaggi che meritano una deviazione…",
         "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-10-vini-da-non-perdere/",
@@ -136,51 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Roma uno chef lascia l’alta cucina e apre un posto dove si mangia (e si condivide)",
-        "description": "Si chiama Scambio ed è il nuovo locale di Fabrizio Cervellieri: cucina regionale, formula conviviale e menu dinamico nel cuore di Roma…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/scambio-roma-prati-cervellieri/",
-        "pubDate": "2026-04-10T16:55:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Si chiama torta russa ma non viene dalla Russia: la storia del dolce simbolo di Verona",
-        "description": "Tra leggende romantiche e tradizione, ecco perché la torta russa è uno dei dolci più rappresentativi di Verona (da provare anche durante Vinitaly)…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torta-russa-verona-storia-origini/",
-        "pubDate": "2026-04-10T16:32:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Festa della mamma 2026: idee viaggio in Europa per sorprenderla con un’esperienza indimenticabile",
-        "description": "Dimentica i regali tradizionali e scegli un’esperienza da vivere insieme: ecco come organizzare un viaggio perfetto e la meta che ho scelto per celebrare mia ma…",
-        "link": "https://www.stylosophy.it/articolo/festa-della-mamma-2026-idee-viaggio-in-europa-per-sorprenderla-con-unesperienza-indimenticabile/249898/",
-        "pubDate": "2026-04-10T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Come i nuovi accordi internazionali cambieranno il vino indiano",
-        "description": "L'Europa vuole aggredire il mercato del vino indiano, mentre i produttori locali si preparano ai grandi cambiamenti imposti dai nuovi accordi commerciali.\nL'art…",
-        "link": "https://www.dissapore.com/notizie/come-i-nuovi-accordi-internazionali-cambieranno-il-vino-indiano/",
-        "pubDate": "2026-04-10T15:46:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/vino-india-sula-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Unsane Vintage Kilo arriva a Milano",
-        "description": "A Milano arriva un nuovo modo di vivere il vintage, lontano dalla logica dell’accumulo e più vicino a un’esperienza consapevole. Dal 10 al 12 aprile, il Moscova…",
-        "link": "https://www.grazia.it/moda/news-moda/unsane-vintage-kilo-vintage-peso-milano-10-12-aprile-964826",
-        "pubDate": "2026-04-10T14:24:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/unsane-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Iginio Massari ha lanciato una linea beauty al profumo di panettone",
+        "description": "Al Cosmoprof di Bologna Iginio Massari ha lanciato una nuova linea beauty in 5 profumazioni, tra cui quella al panettone. Saranno disponibili da settembre.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/massari-ha-lanciano-una-linea-beauty-al-profumo-di-panettone/",
+        "pubDate": "2026-04-12T06:51:26+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Abbiamo assaggiato 19 pesti del supermercato: questi sono i migliori",
+        "description": "Una degustazione alla cieca tra i pesti freschi da banco frigo della grande distribuzione: ecco gli 8 prodotti che si distinguono per equilibrio, freschezza e g…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-pesti-supermercato-classifica/",
+        "pubDate": "2026-04-12T05:33:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alessio Planeta nuovo presidente del Consorzio DOC Sicilia",
+        "description": "Il Consorzio di Tutela Vini DOC Sicilia ha un nuovo presidente. Il Consiglio di amministrazione ha eletto Alessio Planeta alla guida dell’ente durante la prima …",
+        "link": "https://www.winemag.it/alessio-planeta-nuovo-presidente-consorzio-doc-sicilia/",
+        "pubDate": "2026-04-11T15:13:25+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "ISWA, Antonio Capaldo nuovo presidente",
+        "description": "Italian Signature Wines Academy (ISWA) rinnova il Consiglio di Amministrazione e apre una nuova fase di sviluppo. L’alleanza, nata per promuovere l’eccellenza d…",
+        "link": "https://www.winemag.it/iswa-antonio-capaldo-nuovo-presidente/",
+        "pubDate": "2026-04-11T14:29:05+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Relazioni, fiducia e futuro condiviso: così Banca di Asti sostiene le imprese",
         "description": "Banca di Asti rafforza il suo ruolo di partner delle imprese con consulenza, soluzioni su misura e accordi strategici: dalla protezione dei crediti alla gestion…",
         "link": "https://www.gamberorosso.it/notizie/vino/banca-di-asti-sostiene-le-imprese/",
@@ -448,6 +484,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Jacuzzi celebra 70 anni col lancio di Omnia, la nuova spa Made in Italy",
+        "description": "Nel 2026 Jacuzzi celebra 70 anni di attività. Un traguardo che segna l’evoluzione di un marchio simbolo dell’idroterapia. Per l’occasione presenta Omnia, una nu…",
+        "link": "https://www.winemag.it/jacuzzi-celebra-70-anni-con-omnia/",
+        "pubDate": "2026-04-11T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Vinitaly: 10 vini da non perdere tra i padiglioni di Verona",
         "description": "Dai grandi nomi alle etichette meno scontate, una selezione della redazione per orientarsi tra gli stand e scoprire assaggi che meritano una deviazione…",
         "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-10-vini-da-non-perdere/",
@@ -470,15 +515,6 @@
         "description": "Si chiama Scambio ed è il nuovo locale di Fabrizio Cervellieri: cucina regionale, formula conviviale e menu dinamico nel cuore di Roma…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/scambio-roma-prati-cervellieri/",
         "pubDate": "2026-04-10T16:55:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Si chiama torta russa ma non viene dalla Russia: la storia del dolce simbolo di Verona",
-        "description": "Tra leggende romantiche e tradizione, ecco perché la torta russa è uno dei dolci più rappresentativi di Verona (da provare anche durante Vinitaly)…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torta-russa-verona-storia-origini/",
-        "pubDate": "2026-04-10T16:32:47+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -507,42 +543,6 @@
         "link": "https://www.dissapore.com/cucina/pestith-e-brovada-fermentati-del-friuli/",
         "pubDate": "2026-04-10T09:29:38+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/02/brovade-e-muset-2.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Quanto vale il plant-based in Europa?",
-        "description": "I dati sul consumo di alimenti a base vegetale in Europa sono incoraggianti, ma qualche tendenza a sorpresa dovrà essere colta dai produttori.\nL'articolo Quanto…",
-        "link": "https://www.dissapore.com/notizie/quanto-vale-il-plant-based-in-europa/",
-        "pubDate": "2026-04-09T13:29:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_2624961633-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Se perfino Luca Zaia porta la cucina stellata nel suo podcast",
-        "description": "I grandi chef protagonisti dei podcast pop: chissà che non sia l'occasione per riavvicinare l'alta cucina al grande pubblico. \nL'articolo Se perfino Luca Zaia p…",
-        "link": "https://www.dissapore.com/ristoranti/se-perfino-luca-zaia-porta-la-cucina-stellata-nel-suo-podcast/",
-        "pubDate": "2026-04-09T11:27:45+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/victoria-cabello-alessandro-borghese.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Barilla è tra le 10 aziende di cui ci si fida di più al mondo. Ma cosa vuol dire?",
-        "description": "La classifica statunitense sulla reputazione aziendale premia Barilla, e l'azienda fa di tutto per stare al passo con i criteri di valutazione globali.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/barilla-e-tra-le-10-aziende-di-cui-ci-si-fida-di-piu-al-mondo-ma-cosa-vuol-dire/",
-        "pubDate": "2026-04-09T10:28:09+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/barilla-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Krispy Kebab di KFC, recensione: com’è Kentucky Fried Chicken in versione mediorientale",
-        "description": "Abbiamo provato il nuovo krispy kebab di KFC, il panino che imita il kebab ma che è ripieno dell'impeccabile pollo fritto tipico della catena.\nL'articolo Krispy…",
-        "link": "https://www.dissapore.com/ristoranti/krispy-kebab-di-kfc-recensione/",
-        "pubDate": "2026-04-09T08:23:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/krispy-kebab-kfc-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
