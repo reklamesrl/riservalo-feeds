@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-12T18:52:19.579213+00:00",
+  "generated": "2026-04-13T08:05:22.898761+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "“La moda naturale, lo snob della sala, il vino femminile (che fastidio!)”. Cristina Mercuri mette il dito nella piaga",
+        "description": "La Master of Wine ha un’idea molto chiara di viticoltura contemporanea che farà storcere il naso ai puristi. E lancia una provocazione: “Tra un uomo e una donna…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cristina-mercuri-contro-pregiudizi-vino-gender-gap/",
+        "pubDate": "2026-04-13T06:01:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vinitaly 2026: sono cambiamenti solo se spaventano",
+        "description": "Il vino trasforma l’incertezza in cambiamento: nuovi mercati, nuovi consumi, stessa missione: creare legami, guardando avanti…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-2026-sono-cambiamenti-solo-se-spaventano/",
+        "pubDate": "2026-04-12T21:05:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come indossare il trend boho in primavera? Ecco 7 look da cui prendere ispirazione, direttamente da Instagram",
+        "description": "Se una cosa è ormai certa a tutti noi, è che lo stile boho non ha alcuna intenzione di ritirarsi dalle scene, confermandosi a oggi una delle tendenze più amate …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/stile-boho-come-indossare-look-ispirazione-instagram-964743",
+        "pubDate": "2026-04-12T18:34:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_IG_boho.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Come arredare casa: guida completa stanza per stanza",
         "description": "Dalla scelta dei mobili all’organizzazione degli spazi, tutti i consigli per arredare ogni ambiente in modo funzionale e armonioso.…",
@@ -138,15 +165,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Quale pesto comprare al supermercato? Ne abbiamo testati 19: ecco quelli che meritano davvero",
-        "description": "Una degustazione alla cieca tra i pesti freschi da banco frigo della grande distribuzione: ecco gli 8 prodotti che si distinguono per equilibrio, freschezza e g…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-pesti-supermercato-classifica/",
-        "pubDate": "2026-04-12T05:33:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Sedie da cucina moderne e colorate: idee di design per rinnovare la zona pranzo",
         "description": "Colori, materiali e linee contemporanee definiscono una nuova estetica della zona pranzo.…",
         "link": "https://www.stylosophy.it/articolo/sedie-da-cucina-moderne-e-colorate-idee-di-design-per-rinnovare-la-zona-pranzo/249926/",
@@ -163,27 +181,18 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "ISWA, Antonio Capaldo nuovo presidente",
-        "description": "Italian Signature Wines Academy (ISWA) rinnova il Consiglio di Amministrazione e apre una nuova fase di sviluppo. L’alleanza, nata per promuovere l’eccellenza d…",
-        "link": "https://www.winemag.it/iswa-antonio-capaldo-nuovo-presidente/",
-        "pubDate": "2026-04-11T14:29:05+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Relazioni, fiducia e futuro condiviso: così Banca di Asti sostiene le imprese",
-        "description": "Banca di Asti rafforza il suo ruolo di partner delle imprese con consulenza, soluzioni su misura e accordi strategici: dalla protezione dei crediti alla gestion…",
-        "link": "https://www.gamberorosso.it/notizie/vino/banca-di-asti-sostiene-le-imprese/",
-        "pubDate": "2026-04-11T14:10:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Come indossare il trend boho in primavera? Ecco 7 look da cui prendere ispirazione, direttamente da Instagram",
+        "description": "Se una cosa è ormai certa a tutti noi, è che lo stile boho non ha alcuna intenzione di ritirarsi dalle scene, confermandosi a oggi una delle tendenze più amate …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/stile-boho-come-indossare-look-ispirazione-instagram-964743",
+        "pubDate": "2026-04-12T18:34:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_IG_boho.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Come arredare casa: guida completa stanza per stanza",
         "description": "Dalla scelta dei mobili all’organizzazione degli spazi, tutti i consigli per arredare ogni ambiente in modo funzionale e armonioso.…",
@@ -354,18 +363,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Giacche_a_Vento.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Vichy mania: la stampa a quadretti che torna (ancora) a farci innamorare",
-        "description": "La stampa più iconica della bella stagione? Spoiler: sì, è (di nuovo) lei. Il Vichy torna a conquistare il guardaroba della primavera 2026 con un mix irresistib…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-quadretti-vichy-vestiti-gonne-pantaloni-gingham-print-primavera-estate-2026-964210",
-        "pubDate": "2026-04-09T08:37:58+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_vichy.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "“La moda naturale, lo snob della sala, il vino femminile (che fastidio!)”. Cristina Mercuri mette il dito nella piaga",
+        "description": "La Master of Wine ha un’idea molto chiara di viticoltura contemporanea che farà storcere il naso ai puristi. E lancia una provocazione: “Tra un uomo e una donna…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cristina-mercuri-contro-pregiudizi-vino-gender-gap/",
+        "pubDate": "2026-04-13T06:01:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vinitaly 2026: sono cambiamenti solo se spaventano",
+        "description": "Il vino trasforma l’incertezza in cambiamento: nuovi mercati, nuovi consumi, stessa missione: creare legami, guardando avanti…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-2026-sono-cambiamenti-solo-se-spaventano/",
+        "pubDate": "2026-04-12T21:05:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "I negoziati falliti in Medioriente scuotono Vinitaly: voli dei buyer cancellati. Lollobrigida: “Non abbiate paura”",
         "description": "La prima giornata della fiera è stata come sempre quella della politica. Debutta il ministro del Turismo Mazzi, preoccupati Tajani e Urso per il blocco di Hormu…",
@@ -475,15 +493,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Quale pesto comprare al supermercato? Ne abbiamo testati 19: ecco quelli che meritano davvero",
-        "description": "Una degustazione alla cieca tra i pesti freschi da banco frigo della grande distribuzione: ecco gli 8 prodotti che si distinguono per equilibrio, freschezza e g…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-pesti-supermercato-classifica/",
-        "pubDate": "2026-04-12T05:33:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Alessio Planeta nuovo presidente del Consorzio DOC Sicilia",
         "description": "Il Consorzio di Tutela Vini DOC Sicilia ha un nuovo presidente. Il Consiglio di amministrazione ha eletto Alessio Planeta alla guida dell’ente durante la prima …",
         "link": "https://www.winemag.it/alessio-planeta-nuovo-presidente-consorzio-doc-sicilia/",
@@ -500,15 +509,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Relazioni, fiducia e futuro condiviso: così Banca di Asti sostiene le imprese",
-        "description": "Banca di Asti rafforza il suo ruolo di partner delle imprese con consulenza, soluzioni su misura e accordi strategici: dalla protezione dei crediti alla gestion…",
-        "link": "https://www.gamberorosso.it/notizie/vino/banca-di-asti-sostiene-le-imprese/",
-        "pubDate": "2026-04-11T14:10:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Il video imbarazzante del CEO di McDonald’s: colpa della madre",
