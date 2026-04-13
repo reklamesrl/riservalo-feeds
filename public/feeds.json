@@ -1,189 +1,234 @@
 {
-  "generated": "2026-04-13T08:05:22.898761+00:00",
+  "generated": "2026-04-13T13:28:05.729148+00:00",
   "feeds": {
     "offerte": [
       {
-        "title": "“La moda naturale, lo snob della sala, il vino femminile (che fastidio!)”. Cristina Mercuri mette il dito nella piaga",
-        "description": "La Master of Wine ha un’idea molto chiara di viticoltura contemporanea che farà storcere il naso ai puristi. E lancia una provocazione: “Tra un uomo e una donna…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cristina-mercuri-contro-pregiudizi-vino-gender-gap/",
-        "pubDate": "2026-04-13T06:01:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vinitaly 2026: sono cambiamenti solo se spaventano",
-        "description": "Il vino trasforma l’incertezza in cambiamento: nuovi mercati, nuovi consumi, stessa missione: creare legami, guardando avanti…",
+        "title": "“Il vero problema del vino è come lo raccontiamo”. Riflessioni dentro e fuori Vinitaly",
+        "description": "Tra paura, autocritica e mercati incerti, il mondo del vino si scopre fragile. Ma il vero nodo è il linguaggio con cui prova a raccontarsi e il coraggio di camb…",
         "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-2026-sono-cambiamenti-solo-se-spaventano/",
-        "pubDate": "2026-04-12T21:05:17+00:00",
+        "pubDate": "2026-04-13T13:05:17+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
       },
       {
-        "title": "Come indossare il trend boho in primavera? Ecco 7 look da cui prendere ispirazione, direttamente da Instagram",
-        "description": "Se una cosa è ormai certa a tutti noi, è che lo stile boho non ha alcuna intenzione di ritirarsi dalle scene, confermandosi a oggi una delle tendenze più amate …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stile-boho-come-indossare-look-ispirazione-instagram-964743",
-        "pubDate": "2026-04-12T18:34:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_IG_boho.jpg",
+        "title": "Elettra Lamborghini incanta tutti a Canzonissima con questo Look elegantissimo!",
+        "description": "Per la puntata di sabato sera di Canzonissima, Elettra Lamorghini ha optato per un look elegante e sofisticato, dallo stile più dolce e delicato.…",
+        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-incanta-tutti-a-canzonissima-con-questo-look-elegantissimo/249968/",
+        "pubDate": "2026-04-13T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Timballo teramano: la ricetta tradizionale abruzzese per il pranzo della domenica",
+        "description": "Strati di leggere crespelle (le mitiche scrippelle) all'acqua, sugo con polpettine, verdure e formaggi: è così che si prepara il tipico timballo teramano, perfe…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/timballo-teramano-ricetta-abruzzese-pranzo-domenica/",
+        "pubDate": "2026-04-13T12:15:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Civitavecchia nasce la prima caffetteria specialty, pronta a diventare il bar dei croceristi",
+        "description": "Anche la zona portuale di Roma sta per avere la sua prima caffetteria specialty: a Civitavecchia apre i battenti Jojo, bar con lieviti artigianali, colazione sa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/civitavecchia-caffetteria-specialty-bar/",
+        "pubDate": "2026-04-13T12:14:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Dovremmo demonizzare il gin tonic piuttosto che il vino”. Giovanni Scapagnini smonta i pregiudizi sui rischi per la salute",
+        "description": "Il docente di Nutrizione clinica torna sul tema vino e salute: consumo moderato, dieta mediterranea e il ruolo del vino tra benefici cardiovascolari e falsi mit…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-salute-scapagnini-gin-tonic-consumo-moderato/",
+        "pubDate": "2026-04-13T11:38:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I Krumiri Rossi non sono più un biscotto di famiglia: acquisiti dopo 150 anni",
+        "description": "Gli storici biscotti di Casale Monferrato, con la loro forma ispirata ai baffi di Vittorio Emanuele II, passano di mano dopo quasi due secoli di storia. \nL'arti…",
+        "link": "https://www.dissapore.com/notizie/i-krumiri-rossi-non-sono-piu-un-biscotto-di-famiglia-comprati-dalla-compagnia-del-gusto/",
+        "pubDate": "2026-04-13T11:16:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Kumiri-Comp-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ha lasciato la cucina professionale per i social: oggi insegna a cucinare togliendo tutto il superfluo",
+        "description": "Antonio La Cava, il “cuoco nomade”, racconta il passaggio dalle brigate di cucina al digitale: meno tecnica ostentata, più libertà, semplicità e un nuovo modo d…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/antonio-la-cava-cuoco-nomade-social-cucina-semplice/",
+        "pubDate": "2026-04-13T11:15:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non vogliamo etichette allarmistiche”: a Vinitaly esplode il caso vino-Ue",
+        "description": "Dal Parlamento europeo a Verona torna il tema degli health warning: tra nuove pressioni di Bruxelles e mercati in difficoltà, il vino diventa di nuovo terreno d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/etichette-vino-ue-health-warning-vinitaly-caso-politico/",
+        "pubDate": "2026-04-13T11:07:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Coachella 2026: i look delle star al festival californiano più chiacchierato di stagione",
+        "description": "Lo scorso fine settimana si è alzato il sipario sul Coachella 2026: il festival musicale che anche quest&#8217;anno si svolge a Indio, in California, aprendo uf…",
+        "link": "https://www.grazia.it/moda/celebrity-style/coachella-2026-indio-california-star-look-boho-sabrina-carpenter-justin-bieber-hailey-kendall-jenner-964984",
+        "pubDate": "2026-04-13T10:52:21+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/coachella.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Come arredare casa: guida completa stanza per stanza",
-        "description": "Dalla scelta dei mobili all’organizzazione degli spazi, tutti i consigli per arredare ogni ambiente in modo funzionale e armonioso.…",
-        "link": "https://www.stylosophy.it/articolo/come-arredare-casa-guida-completa-stanza-per-stanza/249935/",
-        "pubDate": "2026-04-12T16:30:00+00:00",
+        "title": "Negli Usa dopo quasi 150 cambiano idea: ora si può distillare a casa",
+        "description": "Un giudice di New Orleans ha sostanzialmente detto che, se ci paghi le tasse, puoi distillare il whisky in casa senza problemi. In Italia è ancora vietato.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/negli-usa-dopo-quasi-150-cambiano-idea-ora-si-puo-distillare-a-casa/",
+        "pubDate": "2026-04-13T10:50:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/limoncello-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Marsala Doc debutta a Vinitaly: prima uscita ufficiale per il Consorzio",
+        "description": "Il Marsala torna a confrontarsi con i mercati internazionali: degustazioni e incontri mirati per chiarirne stile, identità e potenziale…",
+        "link": "https://www.gamberorosso.it/notizie/vino/marsala-doc-debutta-a-vinitaly-2026/",
+        "pubDate": "2026-04-13T10:10:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La “cartografia parlante” del vino italiano. A Vinitaly presentata la nuova app che racconta i territori",
+        "description": "Il nuovo strumento di Agea mette assieme contributi audio e video sulle storie delle cantine, i vini prodotti e le tipologie di terreni. A breve si replicherà c…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cartografia-parlante-vino-italiano-app-agea/",
+        "pubDate": "2026-04-13T09:57:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Caso Noma? La violenza ha spezzato l’incantesimo, fallimento per la ristorazione”",
+        "description": "Sara Nicolosi di Altatto parla dei rapporti all’interno della cucina, di violenza e fatica. La cucina vegetariana e la settimana corta possono aiutare a ridefin…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/altatto-milano-noma-intervista-sara-nicolosi/",
+        "pubDate": "2026-04-13T09:33:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“La filiera vino non può basarsi sulle distillazioni di crisi”. L’esordio di Alessio Planeta alla guida della Doc Sicilia",
+        "description": "Succede ad Antonio Rallo, rimasto in caria per un decennio. Nella sua elezione ha pesato il ruolo delle cantine sociali: \"Lavoreremo al massimo per evitare le e…",
+        "link": "https://www.gamberorosso.it/notizie/vino/alessio-planeta-presidente-doc-sicilia-distillazione-crisi/",
+        "pubDate": "2026-04-13T09:06:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Noma ha inaugurato un negozio pop up, e forse è uscito dalla bufera",
+        "description": "Le proteste contro René Redzepi non hanno fermato i progetti internazionali del Noma, che va avanti con i suoi negozi pop up in giro per il mondo.\nL'articolo Il…",
+        "link": "https://www.dissapore.com/notizie/il-noma-ha-inaugurato-un-negozio-pop-up-e-forse-e-uscito-dalla-bufera/",
+        "pubDate": "2026-04-13T09:00:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/01/rene-redzepi-noma.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Bye bye spuntatine: ecco 5 sieri Capelli per dire addio alle doppie punte",
+        "description": "Questi 5 sieri per capelli sono un vero alleato haircare per dire addio alle doppie punte. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/bye-bye-spuntatine-ecco-5-sieri-capelli-per-dire-addio-alle-doppie-punte/249957/",
+        "pubDate": "2026-04-13T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "I negoziati falliti in Medioriente scuotono Vinitaly: voli dei buyer cancellati. Lollobrigida: “Non abbiate paura”",
-        "description": "La prima giornata della fiera è stata come sempre quella della politica. Debutta il ministro del Turismo Mazzi, preoccupati Tajani e Urso per il blocco di Hormu…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-2026-inaugurazione-politici/",
-        "pubDate": "2026-04-12T15:30:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Puglia arriva Ego Food Fest, un festival che vale la pena di tenere d’occhio",
-        "description": "Dal 17 al 20 aprile, a Taranto, c'è l'Ego Food Fest, un festival enogastronomico che mette la Puglia e i suoi prodotti al centro delle interpretazioni degli che…",
-        "link": "https://www.dissapore.com/notizie/in-puglia-arriva-ego-food-fest-un-festival-che-vale-la-pena-di-tenere-docchio/",
-        "pubDate": "2026-04-12T15:29:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Giorno_21_Villa_Peripato_Nic-309.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con il dress in pelle rosso acceso",
-        "description": "Ecco che cosa ha indossato Ilary Blasi per la puntata di venerdì sera del Grande Fratello Vip.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-lascia-tutti-senza-fiato-al-grande-fratello-vip-con-il-dress-in-pelle-rosso-acceso/249945/",
-        "pubDate": "2026-04-12T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Arriva il mini-dealcolatore per fare vini no alcol. A Vinitaly la novità pensata per le piccole aziende",
-        "description": "In un mercato italiano ancora all'anno zero per quanto riguarda la produzione di Nolo, l'industria guarda anche alle piccole e medie imprese che non possono per…",
-        "link": "https://www.gamberorosso.it/notizie/vino/mini-dealcolatore-vini-no-alcol-vason-vinitaly-2026/",
-        "pubDate": "2026-04-12T12:03:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "È morto Pino Mondello, maestro della mixology: il barman che ha fatto scuola a Roma",
-        "description": "Si è spento prematuramente Pino Mondello, che in quarant’anni e più di carriera ha segnato il successo di infiniti locali romani e non solo. Tra cui il bar de L…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-pino-mondello-barman-mixology-roma/",
-        "pubDate": "2026-04-12T11:21:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Arianna Occhipinti: “La Sicilia del vino non è solo l’Etna. Vittoria e Marsala sono le grandi scommesse”",
-        "description": "La vignaiola simbolo del Frappato: \"I vini no alcol mi fanno paura, i Piwi? Poco interessanti\". E sui vini naturali \"abbiamo esagerato con tecniche e macerazion…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/arianna-occhipinti-sicilia-vino-vittoria-marsala-no-alcol-piwi-vinitaly/",
-        "pubDate": "2026-04-12T10:37:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "C’è qualcosa che non torna con le tasse che paga Starbucks nel Regno Unito",
-        "description": "Anche quest'anno Starbucks UK ottiene un importante sconto fiscale anche se il fatturato cresce e hanno aperto oltre 90 nuovi punti vendita.\nL'articolo C&#8217;…",
-        "link": "https://www.dissapore.com/notizie/qualcosa-non-torna-con-le-tasse-che-paga-starbucks-nel-regno-unito/",
-        "pubDate": "2026-04-12T10:25:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/starbuck-milano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Bisol1542 a Vinitaly con due nuove etichette per il mondo della ristorazione",
-        "description": "Dal territorio di Valdobbiadene arrivano le \"Cuvée Eroiche\". Un Brut e un Extra Dry pensati esclusivamente per il servizio al calice…",
-        "link": "https://www.gamberorosso.it/notizie/vino/bisol1542-a-vinitaly-2026-nuove-etichette/",
-        "pubDate": "2026-04-12T10:10:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Qui le borse in rafia più belle della Primavera 2026, approvate dalle fashion addicted!",
-        "description": "Un must have della Primavera 2026? Le borse in rafia, emblema di eleganza, raffinatezza e glamour. Ecco i modelli più belli da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/borse-in-rafia-piu-belle-della-primavera-2026/249940/",
-        "pubDate": "2026-04-12T09:55:21+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Vendite di vino in flessione. Anche il supermercato deve cambiare strategia: puntare sulle quantità non premia",
-        "description": "A Vinitaly 2026 l'analisi di Circana per trovare nuove modalità di adattamento. Anche perché l'opzione dei dealcolati non riuscirà a compensare la diminuzione d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vendite-vino-supermercato-analisi-circana-vinitaly-2026/",
-        "pubDate": "2026-04-12T09:30:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Adesso il figlio minore di Trump fa i soldi anche con lo yerba mate",
-        "description": "Dopo la real estate, le criptovalute e il dettaglio di essere figlio di un miliardario, Barron Trump si butta nel mondo del beverage.\nL'articolo Adesso il figli…",
-        "link": "https://www.dissapore.com/notizie/adesso-il-figlio-minore-di-trump-fa-i-soldi-anche-con-lo-yerba-mate/",
-        "pubDate": "2026-04-12T09:07:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Famiglia-trump.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Quando il Pinot Nero parla di eleganza: i cru di Ottavia Vistarino",
-        "description": "Un percorso tra cru e annate che mette a fuoco stile, identità e potenziale evolutivo dell’azienda, tra vini premiati e nuove espressioni…",
-        "link": "https://www.gamberorosso.it/notizie/vino/pinot-nero-vinitaly-conte-vistarino/",
-        "pubDate": "2026-04-12T08:05:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nelle Marche c’è un Verdicchio da 10 euro che sta facendo parlare di sé",
-        "description": "Dalla Vallesina ai Castelli di Jesi, il Verdicchio continua a evolversi grazie a nuovi produttori: tra questi Podere L’Infinito, realtà giovane che firma un bia…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/verdicchio-marche-podere-infinito/",
-        "pubDate": "2026-04-12T07:21:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Iginio Massari ha lanciato una linea beauty al profumo di panettone",
-        "description": "Al Cosmoprof di Bologna Iginio Massari ha lanciato una nuova linea beauty in 5 profumazioni, tra cui quella al panettone. Saranno disponibili da settembre.\nL'ar…",
-        "link": "https://www.dissapore.com/notizie/massari-ha-lanciano-una-linea-beauty-al-profumo-di-panettone/",
-        "pubDate": "2026-04-12T06:51:26+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Sedie da cucina moderne e colorate: idee di design per rinnovare la zona pranzo",
-        "description": "Colori, materiali e linee contemporanee definiscono una nuova estetica della zona pranzo.…",
-        "link": "https://www.stylosophy.it/articolo/sedie-da-cucina-moderne-e-colorate-idee-di-design-per-rinnovare-la-zona-pranzo/249926/",
-        "pubDate": "2026-04-11T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Alessio Planeta nuovo presidente del Consorzio DOC Sicilia",
-        "description": "Il Consorzio di Tutela Vini DOC Sicilia ha un nuovo presidente. Il Consiglio di amministrazione ha eletto Alessio Planeta alla guida dell’ente durante la prima …",
-        "link": "https://www.winemag.it/alessio-planeta-nuovo-presidente-consorzio-doc-sicilia/",
-        "pubDate": "2026-04-11T15:13:25+00:00",
+        "title": "Sangiovese resistente a siccità e malattie: dalla Toscana la prima pianta ottenuta con le Tea",
+        "description": "Una nuova risposta alle emergenze climatiche e fitosanitarie arriva dalla Toscana. È stata realizzata la prima pianta di Sangiovese ottenuta con le Tecnologie d…",
+        "link": "https://www.winemag.it/sangiovese-resistente-siccita-malattie-toscana-prima-pianta-ottenuta-con-tea/",
+        "pubDate": "2026-04-13T08:53:10+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Jumpsuit: le tute eleganti sono il jolly perfetto anche per le cerimonie più chic",
+        "description": "Nata nel 1920 dal genio italiano Ernesto Henry Michahelles, in arte Thayahti, come capo anticonformista e libero capace di racchiudere in sé pantalone, camicia …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/tute-eleganti-jumpsuit-primavera-estate-2026-modelli-da-cerimonia-firmate-con-manica-lunga-zara-963427",
+        "pubDate": "2026-04-13T08:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_tute_eleganti.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Allarme fish and chips: in UK non c’è più merluzzo",
+        "description": "Il merluzzo sta scomparendo dal mare del Nord per overfishing e cambiamento climatico. È stop alla pesca, e al più autentico fish and chips. \nL'articolo Allarme…",
+        "link": "https://www.dissapore.com/notizie/allarme-fish-and-chips-in-uk-non-ce-piu-merluzzo/",
+        "pubDate": "2026-04-13T08:05:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/dover-mare-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Vestito + sandali: la combo di stile che stavamo aspettando",
+        "description": "Ebbene sì, finalmente possiamo dirlo. La bella stagione è arrivata, e con lei il momento di rispolverare alcuni dei suoi grandi protagonisti: vestiti e sandali.…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/vestito-e-sandali-come-abbinare-outfit-primavera-estate-abbinamenti-964257",
+        "pubDate": "2026-04-13T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_mix_match_vestito_sandali.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Elettra Lamborghini incanta tutti a Canzonissima con questo Look elegantissimo!",
+        "description": "Per la puntata di sabato sera di Canzonissima, Elettra Lamorghini ha optato per un look elegante e sofisticato, dallo stile più dolce e delicato.…",
+        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-incanta-tutti-a-canzonissima-con-questo-look-elegantissimo/249968/",
+        "pubDate": "2026-04-13T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Coachella 2026: i look delle star al festival californiano più chiacchierato di stagione",
+        "description": "Lo scorso fine settimana si è alzato il sipario sul Coachella 2026: il festival musicale che anche quest&#8217;anno si svolge a Indio, in California, aprendo uf…",
+        "link": "https://www.grazia.it/moda/celebrity-style/coachella-2026-indio-california-star-look-boho-sabrina-carpenter-justin-bieber-hailey-kendall-jenner-964984",
+        "pubDate": "2026-04-13T10:52:21+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/coachella.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Bye bye spuntatine: ecco 5 sieri Capelli per dire addio alle doppie punte",
+        "description": "Questi 5 sieri per capelli sono un vero alleato haircare per dire addio alle doppie punte. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/bye-bye-spuntatine-ecco-5-sieri-capelli-per-dire-addio-alle-doppie-punte/249957/",
+        "pubDate": "2026-04-13T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Jumpsuit: le tute eleganti sono il jolly perfetto anche per le cerimonie più chic",
+        "description": "Nata nel 1920 dal genio italiano Ernesto Henry Michahelles, in arte Thayahti, come capo anticonformista e libero capace di racchiudere in sé pantalone, camicia …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/tute-eleganti-jumpsuit-primavera-estate-2026-modelli-da-cerimonia-firmate-con-manica-lunga-zara-963427",
+        "pubDate": "2026-04-13T08:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_tute_eleganti.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Vestito + sandali: la combo di stile che stavamo aspettando",
+        "description": "Ebbene sì, finalmente possiamo dirlo. La bella stagione è arrivata, e con lei il momento di rispolverare alcuni dei suoi grandi protagonisti: vestiti e sandali.…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/vestito-e-sandali-come-abbinare-outfit-primavera-estate-abbinamenti-964257",
+        "pubDate": "2026-04-13T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_mix_match_vestito_sandali.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Come indossare il trend boho in primavera? Ecco 7 look da cui prendere ispirazione, direttamente da Instagram",
         "description": "Se una cosa è ormai certa a tutti noi, è che lo stile boho non ha alcuna intenzione di ritirarsi dalle scene, confermandosi a oggi una delle tendenze più amate …",
@@ -293,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "5 prodotti beauty al riso per una pelle del viso impeccabile",
-        "description": "Questi 5 prodotti beauty al riso sono un ottimo alleato skincare per una pelle del viso idratata, morbida e luminosa. Da provare!…",
-        "link": "https://www.stylosophy.it/articolo/5-prodotti-beauty-al-riso-per-una-pelle-del-viso-impeccabile/249867/",
-        "pubDate": "2026-04-10T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Selena Gomez, Camila Morrone e le altre star meglio vestite della settimana",
         "description": "Questa settimana la moda parla linguaggi diversi ma tutti ugualmente interessanti, incarnati specialmente da Selena Gomez e Camila Morrone. Due celeb sempre più…",
         "link": "https://www.grazia.it/moda/celebrity-style/selena-gomez-camila-morrone-look-red-carpet-abiti-star-meglio-vestite-964500",
@@ -327,71 +363,143 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_love_first_sight_09_04.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Viaggi di Primavera in treno: 5 Borghi del Centro Italia da scoprire ora con un biglietto ferroviario",
-        "description": "Dalla rete ferroviaria regionale ai centri storici più suggestivi. Un itinerario accessibile per esplorare borghi autentici senza usare l’auto.…",
-        "link": "https://www.stylosophy.it/articolo/borghi-del-centro-italia-da-scoprire-ora-con-un-biglietto-ferroviario/249876/",
-        "pubDate": "2026-04-09T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Creatività e cultura artigianale: incontro con Galib Gassanov, founder di Institution",
-        "description": "Quello di Galib Gassanov è uno dei nomi più interessanti del panorama moda internazionale. Divenuto negli ultimi anni simbolo di una nuova generazione di design…",
-        "link": "https://www.grazia.it/moda/news-moda/galib-gassanov-institution-zalando-visionary-award-2026-964159",
-        "pubDate": "2026-04-09T15:39:55+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/DESK-galib-gassanov.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Questo è il jolly da indossare questa primavera (prima che arrivi il grand caldo)!",
-        "description": "È il capo perfetto per giocare con il layering, ovvero costruire, strato dopo strato, un look funzionale agli sbalzi di temperatura del periodo ma al tempo stes…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gilet-come-indossare-abbinare-primavera-look-abbinamenti-964135",
-        "pubDate": "2026-04-09T14:24:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/gilet_DESK.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Giacche a vento: sono loro il capospalla più cool della primavera",
-        "description": "Sono le giacche sportive per eccellenza, si rivelano delle ottime alleate per sopravvivere ai capricci del meteo e, complici gli ultimi trend, ora si possono sf…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/giacche-a-vento-giacca-donna-elegante-mezza-stagione-firmate-leggere-di-tendenza-964543",
-        "pubDate": "2026-04-09T10:36:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Giacche_a_Vento.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
       {
-        "title": "“La moda naturale, lo snob della sala, il vino femminile (che fastidio!)”. Cristina Mercuri mette il dito nella piaga",
-        "description": "La Master of Wine ha un’idea molto chiara di viticoltura contemporanea che farà storcere il naso ai puristi. E lancia una provocazione: “Tra un uomo e una donna…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cristina-mercuri-contro-pregiudizi-vino-gender-gap/",
-        "pubDate": "2026-04-13T06:01:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vinitaly 2026: sono cambiamenti solo se spaventano",
-        "description": "Il vino trasforma l’incertezza in cambiamento: nuovi mercati, nuovi consumi, stessa missione: creare legami, guardando avanti…",
+        "title": "“Il vero problema del vino è come lo raccontiamo”. Riflessioni dentro e fuori Vinitaly",
+        "description": "Tra paura, autocritica e mercati incerti, il mondo del vino si scopre fragile. Ma il vero nodo è il linguaggio con cui prova a raccontarsi e il coraggio di camb…",
         "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-2026-sono-cambiamenti-solo-se-spaventano/",
-        "pubDate": "2026-04-12T21:05:17+00:00",
+        "pubDate": "2026-04-13T13:05:17+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
       },
       {
-        "title": "I negoziati falliti in Medioriente scuotono Vinitaly: voli dei buyer cancellati. Lollobrigida: “Non abbiate paura”",
-        "description": "La prima giornata della fiera è stata come sempre quella della politica. Debutta il ministro del Turismo Mazzi, preoccupati Tajani e Urso per il blocco di Hormu…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vinitaly-2026-inaugurazione-politici/",
-        "pubDate": "2026-04-12T15:30:14+00:00",
+        "title": "Timballo teramano: la ricetta tradizionale abruzzese per il pranzo della domenica",
+        "description": "Strati di leggere crespelle (le mitiche scrippelle) all'acqua, sugo con polpettine, verdure e formaggi: è così che si prepara il tipico timballo teramano, perfe…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/timballo-teramano-ricetta-abruzzese-pranzo-domenica/",
+        "pubDate": "2026-04-13T12:15:22+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Civitavecchia nasce la prima caffetteria specialty, pronta a diventare il bar dei croceristi",
+        "description": "Anche la zona portuale di Roma sta per avere la sua prima caffetteria specialty: a Civitavecchia apre i battenti Jojo, bar con lieviti artigianali, colazione sa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/civitavecchia-caffetteria-specialty-bar/",
+        "pubDate": "2026-04-13T12:14:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Dovremmo demonizzare il gin tonic piuttosto che il vino”. Giovanni Scapagnini smonta i pregiudizi sui rischi per la salute",
+        "description": "Il docente di Nutrizione clinica torna sul tema vino e salute: consumo moderato, dieta mediterranea e il ruolo del vino tra benefici cardiovascolari e falsi mit…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-salute-scapagnini-gin-tonic-consumo-moderato/",
+        "pubDate": "2026-04-13T11:38:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I Krumiri Rossi non sono più un biscotto di famiglia: acquisiti dopo 150 anni",
+        "description": "Gli storici biscotti di Casale Monferrato, con la loro forma ispirata ai baffi di Vittorio Emanuele II, passano di mano dopo quasi due secoli di storia. \nL'arti…",
+        "link": "https://www.dissapore.com/notizie/i-krumiri-rossi-non-sono-piu-un-biscotto-di-famiglia-comprati-dalla-compagnia-del-gusto/",
+        "pubDate": "2026-04-13T11:16:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Kumiri-Comp-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ha lasciato la cucina professionale per i social: oggi insegna a cucinare togliendo tutto il superfluo",
+        "description": "Antonio La Cava, il “cuoco nomade”, racconta il passaggio dalle brigate di cucina al digitale: meno tecnica ostentata, più libertà, semplicità e un nuovo modo d…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/antonio-la-cava-cuoco-nomade-social-cucina-semplice/",
+        "pubDate": "2026-04-13T11:15:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non vogliamo etichette allarmistiche”: a Vinitaly esplode il caso vino-Ue",
+        "description": "Dal Parlamento europeo a Verona torna il tema degli health warning: tra nuove pressioni di Bruxelles e mercati in difficoltà, il vino diventa di nuovo terreno d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/etichette-vino-ue-health-warning-vinitaly-caso-politico/",
+        "pubDate": "2026-04-13T11:07:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Negli Usa dopo quasi 150 cambiano idea: ora si può distillare a casa",
+        "description": "Un giudice di New Orleans ha sostanzialmente detto che, se ci paghi le tasse, puoi distillare il whisky in casa senza problemi. In Italia è ancora vietato.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/negli-usa-dopo-quasi-150-cambiano-idea-ora-si-puo-distillare-a-casa/",
+        "pubDate": "2026-04-13T10:50:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/limoncello-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Marsala Doc debutta a Vinitaly: prima uscita ufficiale per il Consorzio",
+        "description": "Il Marsala torna a confrontarsi con i mercati internazionali: degustazioni e incontri mirati per chiarirne stile, identità e potenziale…",
+        "link": "https://www.gamberorosso.it/notizie/vino/marsala-doc-debutta-a-vinitaly-2026/",
+        "pubDate": "2026-04-13T10:10:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La “cartografia parlante” del vino italiano. A Vinitaly presentata la nuova app che racconta i territori",
+        "description": "Il nuovo strumento di Agea mette assieme contributi audio e video sulle storie delle cantine, i vini prodotti e le tipologie di terreni. A breve si replicherà c…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cartografia-parlante-vino-italiano-app-agea/",
+        "pubDate": "2026-04-13T09:57:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Caso Noma? La violenza ha spezzato l’incantesimo, fallimento per la ristorazione”",
+        "description": "Sara Nicolosi di Altatto parla dei rapporti all’interno della cucina, di violenza e fatica. La cucina vegetariana e la settimana corta possono aiutare a ridefin…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/altatto-milano-noma-intervista-sara-nicolosi/",
+        "pubDate": "2026-04-13T09:33:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“La filiera vino non può basarsi sulle distillazioni di crisi”. L’esordio di Alessio Planeta alla guida della Doc Sicilia",
+        "description": "Succede ad Antonio Rallo, rimasto in caria per un decennio. Nella sua elezione ha pesato il ruolo delle cantine sociali: \"Lavoreremo al massimo per evitare le e…",
+        "link": "https://www.gamberorosso.it/notizie/vino/alessio-planeta-presidente-doc-sicilia-distillazione-crisi/",
+        "pubDate": "2026-04-13T09:06:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Noma ha inaugurato un negozio pop up, e forse è uscito dalla bufera",
+        "description": "Le proteste contro René Redzepi non hanno fermato i progetti internazionali del Noma, che va avanti con i suoi negozi pop up in giro per il mondo.\nL'articolo Il…",
+        "link": "https://www.dissapore.com/notizie/il-noma-ha-inaugurato-un-negozio-pop-up-e-forse-e-uscito-dalla-bufera/",
+        "pubDate": "2026-04-13T09:00:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/01/rene-redzepi-noma.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sangiovese resistente a siccità e malattie: dalla Toscana la prima pianta ottenuta con le Tea",
+        "description": "Una nuova risposta alle emergenze climatiche e fitosanitarie arriva dalla Toscana. È stata realizzata la prima pianta di Sangiovese ottenuta con le Tecnologie d…",
+        "link": "https://www.winemag.it/sangiovese-resistente-siccita-malattie-toscana-prima-pianta-ottenuta-con-tea/",
+        "pubDate": "2026-04-13T08:53:10+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Allarme fish and chips: in UK non c’è più merluzzo",
+        "description": "Il merluzzo sta scomparendo dal mare del Nord per overfishing e cambiamento climatico. È stop alla pesca, e al più autentico fish and chips. \nL'articolo Allarme…",
+        "link": "https://www.dissapore.com/notizie/allarme-fish-and-chips-in-uk-non-ce-piu-merluzzo/",
+        "pubDate": "2026-04-13T08:05:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/dover-mare-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       },
       {
         "title": "In Puglia arriva Ego Food Fest, un festival che vale la pena di tenere d’occhio",
@@ -403,33 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Arriva il mini-dealcolatore per fare vini no alcol. A Vinitaly la novità pensata per le piccole aziende",
-        "description": "In un mercato italiano ancora all'anno zero per quanto riguarda la produzione di Nolo, l'industria guarda anche alle piccole e medie imprese che non possono per…",
-        "link": "https://www.gamberorosso.it/notizie/vino/mini-dealcolatore-vini-no-alcol-vason-vinitaly-2026/",
-        "pubDate": "2026-04-12T12:03:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "È morto Pino Mondello, maestro della mixology: il barman che ha fatto scuola a Roma",
-        "description": "Si è spento prematuramente Pino Mondello, che in quarant’anni e più di carriera ha segnato il successo di infiniti locali romani e non solo. Tra cui il bar de L…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-pino-mondello-barman-mixology-roma/",
-        "pubDate": "2026-04-12T11:21:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Arianna Occhipinti: “La Sicilia del vino non è solo l’Etna. Vittoria e Marsala sono le grandi scommesse”",
-        "description": "La vignaiola simbolo del Frappato: \"I vini no alcol mi fanno paura, i Piwi? Poco interessanti\". E sui vini naturali \"abbiamo esagerato con tecniche e macerazion…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/arianna-occhipinti-sicilia-vino-vittoria-marsala-no-alcol-piwi-vinitaly/",
-        "pubDate": "2026-04-12T10:37:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "C’è qualcosa che non torna con le tasse che paga Starbucks nel Regno Unito",
         "description": "Anche quest'anno Starbucks UK ottiene un importante sconto fiscale anche se il fatturato cresce e hanno aperto oltre 90 nuovi punti vendita.\nL'articolo C&#8217;…",
         "link": "https://www.dissapore.com/notizie/qualcosa-non-torna-con-le-tasse-che-paga-starbucks-nel-regno-unito/",
@@ -439,24 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Bisol1542 a Vinitaly con due nuove etichette per il mondo della ristorazione",
-        "description": "Dal territorio di Valdobbiadene arrivano le \"Cuvée Eroiche\". Un Brut e un Extra Dry pensati esclusivamente per il servizio al calice…",
-        "link": "https://www.gamberorosso.it/notizie/vino/bisol1542-a-vinitaly-2026-nuove-etichette/",
-        "pubDate": "2026-04-12T10:10:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vendite di vino in flessione. Anche il supermercato deve cambiare strategia: puntare sulle quantità non premia",
-        "description": "A Vinitaly 2026 l'analisi di Circana per trovare nuove modalità di adattamento. Anche perché l'opzione dei dealcolati non riuscirà a compensare la diminuzione d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vendite-vino-supermercato-analisi-circana-vinitaly-2026/",
-        "pubDate": "2026-04-12T09:30:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Adesso il figlio minore di Trump fa i soldi anche con lo yerba mate",
         "description": "Dopo la real estate, le criptovalute e il dettaglio di essere figlio di un miliardario, Barron Trump si butta nel mondo del beverage.\nL'articolo Adesso il figli…",
         "link": "https://www.dissapore.com/notizie/adesso-il-figlio-minore-di-trump-fa-i-soldi-anche-con-lo-yerba-mate/",
@@ -464,24 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Famiglia-trump.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Quando il Pinot Nero parla di eleganza: i cru di Ottavia Vistarino",
-        "description": "Un percorso tra cru e annate che mette a fuoco stile, identità e potenziale evolutivo dell’azienda, tra vini premiati e nuove espressioni…",
-        "link": "https://www.gamberorosso.it/notizie/vino/pinot-nero-vinitaly-conte-vistarino/",
-        "pubDate": "2026-04-12T08:05:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nelle Marche c’è un Verdicchio da 10 euro che sta facendo parlare di sé",
-        "description": "Dalla Vallesina ai Castelli di Jesi, il Verdicchio continua a evolversi grazie a nuovi produttori: tra questi Podere L’Infinito, realtà giovane che firma un bia…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/verdicchio-marche-podere-infinito/",
-        "pubDate": "2026-04-12T07:21:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Iginio Massari ha lanciato una linea beauty al profumo di panettone",
@@ -497,51 +542,6 @@
         "description": "Il Consorzio di Tutela Vini DOC Sicilia ha un nuovo presidente. Il Consiglio di amministrazione ha eletto Alessio Planeta alla guida dell’ente durante la prima …",
         "link": "https://www.winemag.it/alessio-planeta-nuovo-presidente-consorzio-doc-sicilia/",
         "pubDate": "2026-04-11T15:13:25+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "ISWA, Antonio Capaldo nuovo presidente",
-        "description": "Italian Signature Wines Academy (ISWA) rinnova il Consiglio di Amministrazione e apre una nuova fase di sviluppo. L’alleanza, nata per promuovere l’eccellenza d…",
-        "link": "https://www.winemag.it/iswa-antonio-capaldo-nuovo-presidente/",
-        "pubDate": "2026-04-11T14:29:05+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il video imbarazzante del CEO di McDonald’s: colpa della madre",
-        "description": "Il tentativo di Chris Kempczinski di riacquisire credibilità come consumatore dei suoi stessi prodotti è anche peggio, e gli sfottò si sprecano.\nL'articolo Il v…",
-        "link": "https://www.dissapore.com/notizie/il-video-imbarazzante-del-ceo-di-mcdonalds-colpa-della-madre/",
-        "pubDate": "2026-04-11T12:31:37+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/03/Chris-Kempczinski-headshot.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La mozzarella di bufala sta diventando troppo cara?",
-        "description": "Il Consorzio di tutela della Mozzarella di Bufala Campana Dop è molto preoccupato per la situazione internazionale, che pesa molto di più su un prodotto che va …",
-        "link": "https://www.dissapore.com/notizie/la-mozzarella-di-bufala-sta-diventando-troppo-cara/",
-        "pubDate": "2026-04-11T08:26:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/produzione-mozzarella-di-bufala-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Italia il latte fresco rischia di sparire",
-        "description": "C'è più di un motivo per cui preferiamo il latte a lunga conservazione: prezzo, abitudini, sostenibilità economica e di filiera. \nL'articolo In Italia il latte …",
-        "link": "https://www.dissapore.com/notizie/in-italia-il-latte-fresco-rischia-di-sparire/",
-        "pubDate": "2026-04-11T06:16:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/latte-sfondo-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Jacuzzi celebra 70 anni col lancio di Omnia, la nuova spa Made in Italy",
-        "description": "Nel 2026 Jacuzzi celebra 70 anni di attività. Un traguardo che segna l’evoluzione di un marchio simbolo dell’idroterapia. Per l’occasione presenta Omnia, una nu…",
-        "link": "https://www.winemag.it/jacuzzi-celebra-70-anni-con-omnia/",
-        "pubDate": "2026-04-11T06:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
