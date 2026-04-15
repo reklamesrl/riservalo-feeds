@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-14T19:17:25.375636+00:00",
+  "generated": "2026-04-15T07:48:15.925137+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il Passito di Pantelleria di Carole Bouquet: cosa abbiamo scoperto degustandolo a Vinitaly",
+        "description": "\"Io l’ho sempre servito come un aperitivo e abbinato a pietanze salate”. L'attrice francese parla del suo Passito di Pantelleria, protagonista con altre quattro…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/passito-pantelleria-sangue-doro-pasqua/",
+        "pubDate": "2026-04-15T05:41:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Storia dell’antica pasticceria di Padova dove provare la famosa crostata con le fragoline",
+        "description": "Brioche burrosissime, frittelle ma soprattutto una crostata alle fragoline memorabile: durante una gita a Padova, una tappa da Tadiotto è irrinunciabile…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pasticceria-padova-crostata-fragoline-tadiotto/",
+        "pubDate": "2026-04-15T05:03:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pizzo, mon amour: come indossare la texture protagonista della primavera secondo lo street style",
+        "description": "Oltre alle solite stampe come pois, fiori e vichy, c’è un altro “pattern” &#8211; che in realtà non è una vera e propria stampa, bensì quella che si può definir…",
+        "link": "https://www.grazia.it/moda/streetstyle/pizzo-primavera-come-indossare-idee-abbinamenti-outfit-look-street-style-combo-965410",
+        "pubDate": "2026-04-15T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_pizzo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "La produzione dei vini dealcolati italiani crescerà del 90%. Ma la ristorazione è ancora troppo diffidente",
         "description": "Nonostante le attese di incremento, resta l'ostracismo dei ristoratori verso la nuova tipologia, più aperte le pizzerie. Osservatorio Uiv-Vinitaly: \"A fare da a…",
@@ -154,36 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Pasticceria-Settevalli-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "La nuova pasticceria vegana in Versilia che sembra uscita da Copenaghen",
-        "description": "Da un ristorante cruelty free a una bakery ispirata al Nord Europa: a Pietrasanta nasce un nuovo indirizzo tra croissant vegani, specialty coffee e filosofia so…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pasticceria-vegana-pietrasanta-sementis-bakery/",
-        "pubDate": "2026-04-14T09:12:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Amiamo il vino italiano”: perché l’India è il mercato su cui puntare adesso",
-        "description": "Consumi in crescita, giovani curiosi e una percezione premium del Made in Italy: il mercato indiano del vino sta cambiando rapidamente e offre opportunità concr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/vino-india-mercato-su-cui-puntare/",
-        "pubDate": "2026-04-14T09:05:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sogni un make up super glow? Ecco 5 illuminanti liquidi da provare assolutamente",
-        "description": "Questi 5 illuminanti liquidi sono un vero alleato beauty per un make up luminoso ma naturale. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-illuminanti-liquidi-da-provare-assolutamente/249982/",
-        "pubDate": "2026-04-14T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Pizzo, mon amour: come indossare la texture protagonista della primavera secondo lo street style",
+        "description": "Oltre alle solite stampe come pois, fiori e vichy, c’è un altro “pattern” &#8211; che in realtà non è una vera e propria stampa, bensì quella che si può definir…",
+        "link": "https://www.grazia.it/moda/streetstyle/pizzo-primavera-come-indossare-idee-abbinamenti-outfit-look-street-style-combo-965410",
+        "pubDate": "2026-04-15T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_pizzo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "5 outfit per essere eleganti con vestiti e sandali",
         "description": "Sono due pezzi chiave del guardaroba della bella stagione e adesso che la primavera è arrivata possiamo finalmente tornare a sfoggiarli insieme: in questo perio…",
@@ -320,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Come indossare il trend boho in primavera? Ecco 7 look da cui prendere ispirazione, direttamente da Instagram",
-        "description": "Se una cosa è ormai certa a tutti noi, è che lo stile boho non ha alcuna intenzione di ritirarsi dalle scene, confermandosi a oggi una delle tendenze più amate …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stile-boho-come-indossare-look-ispirazione-instagram-964743",
-        "pubDate": "2026-04-12T18:34:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_IG_boho.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Come arredare casa: guida completa stanza per stanza",
         "description": "Dalla scelta dei mobili all’organizzazione degli spazi, tutti i consigli per arredare ogni ambiente in modo funzionale e armonioso.…",
         "link": "https://www.stylosophy.it/articolo/come-arredare-casa-guida-completa-stanza-per-stanza/249935/",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il Passito di Pantelleria di Carole Bouquet: cosa abbiamo scoperto degustandolo a Vinitaly",
+        "description": "\"Io l’ho sempre servito come un aperitivo e abbinato a pietanze salate”. L'attrice francese parla del suo Passito di Pantelleria, protagonista con altre quattro…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/passito-pantelleria-sangue-doro-pasqua/",
+        "pubDate": "2026-04-15T05:41:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Storia dell’antica pasticceria di Padova dove provare la famosa crostata con le fragoline",
+        "description": "Brioche burrosissime, frittelle ma soprattutto una crostata alle fragoline memorabile: durante una gita a Padova, una tappa da Tadiotto è irrinunciabile…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pasticceria-padova-crostata-fragoline-tadiotto/",
+        "pubDate": "2026-04-15T05:03:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La produzione dei vini dealcolati italiani crescerà del 90%. Ma la ristorazione è ancora troppo diffidente",
         "description": "Nonostante le attese di incremento, resta l'ostracismo dei ristoratori verso la nuova tipologia, più aperte le pizzerie. Osservatorio Uiv-Vinitaly: \"A fare da a…",
@@ -473,24 +491,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Pasticceria-Settevalli-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "La nuova pasticceria vegana in Versilia che sembra uscita da Copenaghen",
-        "description": "Da un ristorante cruelty free a una bakery ispirata al Nord Europa: a Pietrasanta nasce un nuovo indirizzo tra croissant vegani, specialty coffee e filosofia so…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pasticceria-vegana-pietrasanta-sementis-bakery/",
-        "pubDate": "2026-04-14T09:12:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Amiamo il vino italiano”: perché l’India è il mercato su cui puntare adesso",
-        "description": "Consumi in crescita, giovani curiosi e una percezione premium del Made in Italy: il mercato indiano del vino sta cambiando rapidamente e offre opportunità concr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/vino-india-mercato-su-cui-puntare/",
-        "pubDate": "2026-04-14T09:05:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Quell’amore spassionato di Donald Trump per McDonald’s, che non capiamo ma che è così americano",
