@@ -1,7 +1,43 @@
 {
-  "generated": "2026-04-17T19:02:06.785570+00:00",
+  "generated": "2026-04-18T07:09:37.906321+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Cos’è lo yakiniku, la griglia giapponese dove cucini tu (ma al ristorante)",
+        "description": "Dalla Corea al Giappone, lo yakiniku è una tecnica conviviale in cui si cuociono carne, pesce e verdure direttamente al tavolo: un’esperienza diffusa nei ristor…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yakiniku-cos-e-come-funziona-griglia-giapponese/",
+        "pubDate": "2026-04-18T06:50:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come può cambiare l’agricoltura approfittando della guerra in Iran",
+        "description": "Abbiamo quindi scoperto quanto sia cruciale lo stretto di Hormuz per la nostra agricoltura. E potrebbe essere un assist, per passare ad altre coltivazioni, migl…",
+        "link": "https://www.dissapore.com/spesa/come-puo-cambiare-lagricoltura-approfittando-della-guerra-in-iran/",
+        "pubDate": "2026-04-18T06:21:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1140569927-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Mediterraneo nel bicchiere: 11 vini assaggiati a Vinitaly che raccontano mare, vento e luce",
+        "description": "Più che un percorso geografico è un racconto culturale quello che vi proponiamo: i protagonisti sono vini artigianali e autentici, espressione diretta dei luogh…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-mediterraneo-vinitaly-degustazione-11-etichette/",
+        "pubDate": "2026-04-18T05:46:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Look da cerimonia cercasi? Basta con i soliti abiti: 9 outfit diversi dal solito a cui ispirarsi",
+        "description": "In primavera, fra ritrovate giornate di sole e alberi in fiore, puntuali, ricompaiono anche gli inviti a matrimoni e cerimonie. Un po’ come un rito stagionale, …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/look-da-cerimonia-outfit-invitata-particolari-diversi-inspo-instagram-966072",
+        "pubDate": "2026-04-18T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_cerimonie_matrimonio.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Weekend del Primo Maggio a due passi da Roma: i Borghi più belli per una gita fuori porta",
         "description": "Dal Lazio più autentico ai borghi panoramici tra laghi e colline: ecco dove andare vicino Roma per il ponte del Primo Maggio.…",
@@ -145,45 +181,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Un sistema con intelligenza artificiale per scoprire frodi alimentari: cosa cambia in Europa",
-        "description": "La Commissione europea lancia TraceMap, una piattaforma basata su IA per monitorare la filiera e individuare più rapidamente frodi, contaminazioni e rischi alim…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tracemap-ue-sicurezza-alimentare-intelligenza-artificiale/",
-        "pubDate": "2026-04-17T08:32:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ca’ Barambon: nell’Appennino reggiano c’è una nuova mecca gastronomica",
-        "description": "Il nuovo home restaurant di Alessandro \"Alle\" Belli ed Elisa Migliari (ex Arrogant Pub) sta portando nuove energie sull'Appennino reggiano: tutto quello che c'è…",
-        "link": "https://www.dissapore.com/notizie/ca-barambon-nellappennino-reggiano-ce-una-nuova-mecca-gastronomica/",
-        "pubDate": "2026-04-17T08:30:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/03222-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nestlé spinge per il caffè filtro: è finalmente venuto il suo momento?",
-        "description": "Se una multinazionale investe in un prodotto, c'è da scommettere che si diffonderà ad un pubblico ampio: finalmente avremo più caffè filtro al bar?\nL'articolo N…",
-        "link": "https://www.dissapore.com/notizie/nestle-spinge-per-il-caffe-filtro-e-finalmente-venuto-il-suo-momento/",
-        "pubDate": "2026-04-17T07:37:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/caffe-filtro-giovane-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Jeans + cardigan rosso + mocassini”: la formula magica salva-primavera da indossare ora (parola di Gigi Hadid!)",
-        "description": "Se anche voi, capita quasi ogni mattina di fissare il guardaroba e dire &#8220;Ma oggi cosa mi metto?&#8221;, tranquille, siete in ottima compagnia! Complice il…",
-        "link": "https://www.grazia.it/moda/get-the-look/jeans-cardigan-rosso-mocassini-gigi-hadid-versione-low-cost-zara-mango-ovs-966196",
-        "pubDate": "2026-04-17T07:30:23+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/gigi-hadid-maglione-rosso.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Look da cerimonia cercasi? Basta con i soliti abiti: 9 outfit diversi dal solito a cui ispirarsi",
+        "description": "In primavera, fra ritrovate giornate di sole e alberi in fiore, puntuali, ricompaiono anche gli inviti a matrimoni e cerimonie. Un po’ come un rito stagionale, …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/look-da-cerimonia-outfit-invitata-particolari-diversi-inspo-instagram-966072",
+        "pubDate": "2026-04-18T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_cerimonie_matrimonio.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Weekend del Primo Maggio a due passi da Roma: i Borghi più belli per una gita fuori porta",
         "description": "Dal Lazio più autentico ai borghi panoramici tra laghi e colline: ecco dove andare vicino Roma per il ponte del Primo Maggio.…",
@@ -320,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "COLOURS: la capsule di Gioseppo che mette la primavera ai piedi (e la rende irresistibile)",
-        "description": "La primavera si accende di sfumature vibranti e dettagli artigianali con Colours, la nuova capsule di Gioseppo: un’ondata di energia visiva che profuma di prima…",
-        "link": "https://www.grazia.it/moda/news-moda/colours-capsule-gioseppo-primavera-964285",
-        "pubDate": "2026-04-16T08:18:04+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/Hero-Grazia-13.png",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Le spiagge più belle della Toscana in cui trascorrere una vacanza al mare davvero unica",
         "description": "Dalle calette selvagge dell’Argentario alle distese sabbiose della Maremma, una guida pratica alle spiagge più belle da scoprire in primavera prima dell’alta st…",
         "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-della-toscana-in-cui-trascorrere-una-vacanza-al-mare-davvero-unica/250025/",
@@ -366,6 +366,33 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Cos’è lo yakiniku, la griglia giapponese dove cucini tu (ma al ristorante)",
+        "description": "Dalla Corea al Giappone, lo yakiniku è una tecnica conviviale in cui si cuociono carne, pesce e verdure direttamente al tavolo: un’esperienza diffusa nei ristor…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yakiniku-cos-e-come-funziona-griglia-giapponese/",
+        "pubDate": "2026-04-18T06:50:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come può cambiare l’agricoltura approfittando della guerra in Iran",
+        "description": "Abbiamo quindi scoperto quanto sia cruciale lo stretto di Hormuz per la nostra agricoltura. E potrebbe essere un assist, per passare ad altre coltivazioni, migl…",
+        "link": "https://www.dissapore.com/spesa/come-puo-cambiare-lagricoltura-approfittando-della-guerra-in-iran/",
+        "pubDate": "2026-04-18T06:21:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1140569927-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Mediterraneo nel bicchiere: 11 vini assaggiati a Vinitaly che raccontano mare, vento e luce",
+        "description": "Più che un percorso geografico è un racconto culturale quello che vi proponiamo: i protagonisti sono vini artigianali e autentici, espressione diretta dei luogh…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-mediterraneo-vinitaly-degustazione-11-etichette/",
+        "pubDate": "2026-04-18T05:46:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Zohran Mamdani, sindaco di New York, sta davvero creando i supermercati pubblici",
         "description": "Supermercati pubblici che forniscono ai cittadini cibo sano a prezzi calmierati: l'idea rivoluzionaria, ma mica poi tanto, del sindaco di New York Zohran Mamdan…",
@@ -484,24 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "I 9 migliori vini rosati della Puglia secondo il Gambero Rosso (a un Susumaniello i Tre Bicchieri per la prima volta)",
-        "description": "Durante le degustazioni continuiamo a scoprire grandi etichette anche nella produzione in rosa della regione. Il rapporto qualità prezzo spesso ottimo rende que…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-vini-rosati-puglia-2026/",
-        "pubDate": "2026-04-17T06:16:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I 10 vini imperdibili che abbiamo assaggiato a Vinitaly 2026",
-        "description": "Dal Vinitaly 2026, una selezione di 10 etichette tra grandi nomi e scoperte: dai Barolo alle bollicine, fino a un Marsala storico che racconta il tempo nel bicc…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-2026-migliori-vini-degustati-10-etichette/",
-        "pubDate": "2026-04-17T05:05:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cracco, mezzo calice di vino è una mezza idea. A quando il mezzo piatto?",
         "description": "In un&#8217;intervista rilasciata al Corriere della Sera in occasione di Vinitaly 2026, il noto chef italiano Carlo Cracco mette il dito nella piaga di un probl…",
         "link": "https://www.winemag.it/cracco-mezzo-calice-vino-mezza-idea-a-quando-mezzo-piatto-editoriale-davide-bortone/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Il nuovo trend di Tik Tok sono i cibi generati dall’intelligenza artificiale",
-        "description": "Cos'è il trend di TikTok sui cibi generati dall'intelligenza artificiale. L'algoritmo sostituisce i creator umani a costo zero generando milioni di views con ri…",
-        "link": "https://www.dissapore.com/notizie/il-nuovo-trend-di-tik-tok-sono-i-cibi-generati-dallintelligenza-artificiale/",
-        "pubDate": "2026-04-16T13:45:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/cibo-ai-food-slop-tik-tok.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
