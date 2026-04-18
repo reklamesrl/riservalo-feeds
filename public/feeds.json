@@ -1,7 +1,70 @@
 {
-  "generated": "2026-04-18T07:09:37.906321+00:00",
+  "generated": "2026-04-18T13:04:40.938344+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il broccolo raro dell’Irpinia che esiste solo ad aprile",
+        "description": "A Paternopoli nasce il broccolo aprilatico, un ortaggio raro raccolto solo per poche settimane tra marzo e maggio, oggi Slow Food Presidio e simbolo della biodi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/broccolo-aprilatico-paternopoli-cos-e-irpinia/",
+        "pubDate": "2026-04-18T13:02:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con questo Look insolito!",
+        "description": "Ilary Blasi ancora una volta ha lasciato tutti senza parole con il suo look un po' diverso dal solito per la puntata di ieri sera del Grande Fratello.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-lascia-tutti-senza-fiato-al-grande-fratello-vip-con-questo-look-insolito/250090/",
+        "pubDate": "2026-04-18T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "DryMilano rinnova il menù di primavera tra pizza d’autore e mixology internazionale",
+        "description": "Con l’arrivo della primavera, DryMilano aggiorna la propria proposta gastronomica puntando su ingredienti stagionali e nuove suggestioni botaniche. Il risultato…",
+        "link": "https://www.winemag.it/drymilano-rinnova-menu-primavera-pizza-autore-ixology-internazionale/",
+        "pubDate": "2026-04-18T10:38:25+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/04/DryMilano-rinnova-il-menu-di-primavera-tra-pizza-dautore-e-mixology-internazionale-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il “pesce finto” anni ’80: il piatto più strano (e brutto) che tutti mangiavano",
+        "description": "Tra ricette vintage e storie surreali, il “pesce finto” è stato uno dei piatti simbolo degli anni ’70 e ’80: un mix di tonno, patate e maionese modellato a form…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pesce-finto-cos-e-ricetta-storia-anni-80/",
+        "pubDate": "2026-04-18T10:01:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sono le collane con ciondoli il must have della Primavera 2026, per dei look al top!",
+        "description": "L'accessorio chiave della Primavera 2026? Le collane con ciondoli, un gioiello audace, trendy e ricercato da sfruttare a più non posso. Ecco i modelli da non pe…",
+        "link": "https://www.stylosophy.it/articolo/sono-le-collane-con-ciondoli-il-must-have-della-primavera-2026-per-dei-look-al-top/250096/",
+        "pubDate": "2026-04-18T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“A 14 anni già lavoravo sette giorni su sette”: oggi è uno dei pizzaioli più noti di Tokyo",
+        "description": "La storia di Peppe Errichiello: da Afragola a Tokyo, tra sacrifici, lavoro e un’identità costruita attorno alla pizza…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/peppe-errichiello-pizzaiolo-tokyo-storia-napoli/",
+        "pubDate": "2026-04-18T07:59:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Italia abbiamo troppo pochi allevamenti di pesce?",
+        "description": "L'italia importa l'86% del pesce che consuma, eppure potremmo produrre molto più pesce di allevamento, anche per contrastare la crisi della pesca.\nL'articolo In…",
+        "link": "https://www.dissapore.com/notizie/in-italia-abbiamo-troppo-pochi-allevamenti-di-pesce/",
+        "pubDate": "2026-04-18T07:57:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/acquacoltura-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Cos’è lo yakiniku, la griglia giapponese dove cucini tu (ma al ristorante)",
         "description": "Dalla Corea al Giappone, lo yakiniku è una tecnica conviviale in cui si cuociono carne, pesce e verdure direttamente al tavolo: un’esperienza diffusa nei ristor…",
@@ -118,72 +181,27 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/07/callebaut-cacao-crollo-borsa.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "L’ape car dei croissant fatti in casa conquista la Brianza: storia della coppia che non si è arresa alla routine",
-        "description": "Croissant francesi, cappuccini aromatizzati e dolcetti fatti in casa: Beekery è l'ape car che sta portando in giro la colazione per mercati e fiere di Monza e B…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ape-car-croissant-brianza/",
-        "pubDate": "2026-04-17T10:44:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Roma c’è una terrazza panoramica dove mangiare la cucina di un grande chef",
-        "description": "Nel cuore di Roma, Allianz Italia ed Enrico Bartolini presentano Quid - Unique Italian Dining: un ristorante su una terrazza panoramica con la cucina di Juan Ca…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/quid-roma-ristorante-terrazza-panoramica-bartolini/",
-        "pubDate": "2026-04-17T10:43:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "BTS, nel video “Hooligan” la moda è il vero statement",
-        "description": "“Hooligan”, il nuovo videoclip dei BTS &#8211; rilasciato l’8 aprile 2026 &#8211; irrompe sui social come una detonazione visiva: un immaginario dark, industria…",
-        "link": "https://www.grazia.it/moda/celebrity-style/bts-look-k-pop-video-hooligan-966179",
-        "pubDate": "2026-04-17T10:22:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/bts-desk.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "I dolci liguri nati per i turisti diventati un’icona: la storia dei baci di Alassio",
-        "description": "Nati ad Alassio agli inizi del ’900 grazie al pasticcere Rinaldo Balzola, i baci di Alassio sono una variante dei baci di dama arricchita da cacao e cioccolato,…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baci-di-alassio-cosa-sono-storia-ricetta/",
-        "pubDate": "2026-04-17T09:56:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre amici, gli ulivi di famiglia e un’idea: così nasce uno degli oli più interessanti di Sicilia",
-        "description": "Dai Monti Iblei nasce Viragì: il progetto di tre amici che hanno unito gli ulivi di famiglia per valorizzare la Tonda Iblea e raccontare un territorio unico…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/viragi-olio-sicilia-tonda-iblea-tre-amici/",
-        "pubDate": "2026-04-17T09:50:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Barilla lancia la pasta dedicata alla Formula 1 (con il formato peggiore di sempre)",
-        "description": "Un nuovo formato che ripristina le ruote degli anni Novanta ma le rende un po' più performanti, un'idea per rinvigorire la partnership con la Formula 1.\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/barilla-lancia-la-pasta-dedicata-alla-formula-1-con-il-formato-peggiore-di-sempre/",
-        "pubDate": "2026-04-17T09:33:04+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "5 consigli infallibili per dire addio ai capelli secchi in menopausa",
-        "description": "Come dire addio ai capelli secchi durante la menopausa? Ecco 5 consigli infallibili da seguire alla lettera...…",
-        "link": "https://www.stylosophy.it/articolo/5-consigli-infallibili-per-dire-addio-ai-capelli-secchi-in-menopausa/250046/",
-        "pubDate": "2026-04-17T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Ilary Blasi lascia tutti senza fiato al Grande Fratello Vip con questo Look insolito!",
+        "description": "Ilary Blasi ancora una volta ha lasciato tutti senza parole con il suo look un po' diverso dal solito per la puntata di ieri sera del Grande Fratello.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-lascia-tutti-senza-fiato-al-grande-fratello-vip-con-questo-look-insolito/250090/",
+        "pubDate": "2026-04-18T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Sono le collane con ciondoli il must have della Primavera 2026, per dei look al top!",
+        "description": "L'accessorio chiave della Primavera 2026? Le collane con ciondoli, un gioiello audace, trendy e ricercato da sfruttare a più non posso. Ecco i modelli da non pe…",
+        "link": "https://www.stylosophy.it/articolo/sono-le-collane-con-ciondoli-il-must-have-della-primavera-2026-per-dei-look-al-top/250096/",
+        "pubDate": "2026-04-18T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Look da cerimonia cercasi? Basta con i soliti abiti: 9 outfit diversi dal solito a cui ispirarsi",
         "description": "In primavera, fra ritrovate giornate di sole e alberi in fiore, puntuali, ricompaiono anche gli inviti a matrimoni e cerimonie. Un po’ come un rito stagionale, …",
@@ -345,27 +363,54 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "I mascara waterproof da provare ora per un make up occhi perfetto!",
-        "description": "Sono questi i mascara waterproof più buoni della Primavera 2026, per uno sguardo sensuale e femminile. Irresistibili!…",
-        "link": "https://www.stylosophy.it/articolo/i-mascara-waterproof-da-provare-ora-per-un-make-up-occhi-perfetto/250003/",
-        "pubDate": "2026-04-15T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Weekend del 25 Aprile: 5 consigli di viaggio tra città d’arte e borghi nascosti",
-        "description": "Idee di viaggio per il ponte del 25 Aprile tra grandi classici e mete meno conosciute. Dalle città d’arte ai borghi autentici, ecco dove andare e come organizza…",
-        "link": "https://www.stylosophy.it/articolo/weekend-del-25-aprile-5-consigli-di-viaggio-tra-citta-darte-e-borghi-nascosti/250002/",
-        "pubDate": "2026-04-14T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il broccolo raro dell’Irpinia che esiste solo ad aprile",
+        "description": "A Paternopoli nasce il broccolo aprilatico, un ortaggio raro raccolto solo per poche settimane tra marzo e maggio, oggi Slow Food Presidio e simbolo della biodi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/broccolo-aprilatico-paternopoli-cos-e-irpinia/",
+        "pubDate": "2026-04-18T13:02:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "DryMilano rinnova il menù di primavera tra pizza d’autore e mixology internazionale",
+        "description": "Con l’arrivo della primavera, DryMilano aggiorna la propria proposta gastronomica puntando su ingredienti stagionali e nuove suggestioni botaniche. Il risultato…",
+        "link": "https://www.winemag.it/drymilano-rinnova-menu-primavera-pizza-autore-ixology-internazionale/",
+        "pubDate": "2026-04-18T10:38:25+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/04/DryMilano-rinnova-il-menu-di-primavera-tra-pizza-dautore-e-mixology-internazionale-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il “pesce finto” anni ’80: il piatto più strano (e brutto) che tutti mangiavano",
+        "description": "Tra ricette vintage e storie surreali, il “pesce finto” è stato uno dei piatti simbolo degli anni ’70 e ’80: un mix di tonno, patate e maionese modellato a form…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pesce-finto-cos-e-ricetta-storia-anni-80/",
+        "pubDate": "2026-04-18T10:01:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“A 14 anni già lavoravo sette giorni su sette”: oggi è uno dei pizzaioli più noti di Tokyo",
+        "description": "La storia di Peppe Errichiello: da Afragola a Tokyo, tra sacrifici, lavoro e un’identità costruita attorno alla pizza…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/peppe-errichiello-pizzaiolo-tokyo-storia-napoli/",
+        "pubDate": "2026-04-18T07:59:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Italia abbiamo troppo pochi allevamenti di pesce?",
+        "description": "L'italia importa l'86% del pesce che consuma, eppure potremmo produrre molto più pesce di allevamento, anche per contrastare la crisi della pesca.\nL'articolo In…",
+        "link": "https://www.dissapore.com/notizie/in-italia-abbiamo-troppo-pochi-allevamenti-di-pesce/",
+        "pubDate": "2026-04-18T07:57:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/acquacoltura-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Cos’è lo yakiniku, la griglia giapponese dove cucini tu (ma al ristorante)",
         "description": "Dalla Corea al Giappone, lo yakiniku è una tecnica conviviale in cui si cuociono carne, pesce e verdure direttamente al tavolo: un’esperienza diffusa nei ristor…",
@@ -457,24 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "I dolci liguri nati per i turisti diventati un’icona: la storia dei baci di Alassio",
-        "description": "Nati ad Alassio agli inizi del ’900 grazie al pasticcere Rinaldo Balzola, i baci di Alassio sono una variante dei baci di dama arricchita da cacao e cioccolato,…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baci-di-alassio-cosa-sono-storia-ricetta/",
-        "pubDate": "2026-04-17T09:56:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre amici, gli ulivi di famiglia e un’idea: così nasce uno degli oli più interessanti di Sicilia",
-        "description": "Dai Monti Iblei nasce Viragì: il progetto di tre amici che hanno unito gli ulivi di famiglia per valorizzare la Tonda Iblea e raccontare un territorio unico…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/viragi-olio-sicilia-tonda-iblea-tre-amici/",
-        "pubDate": "2026-04-17T09:50:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Barilla lancia la pasta dedicata alla Formula 1 (con il formato peggiore di sempre)",
         "description": "Un nuovo formato che ripristina le ruote degli anni Novanta ma le rende un po' più performanti, un'idea per rinvigorire la partnership con la Formula 1.\nL'artic…",
         "link": "https://www.dissapore.com/notizie/barilla-lancia-la-pasta-dedicata-alla-formula-1-con-il-formato-peggiore-di-sempre/",
@@ -482,15 +509,6 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Un sistema con intelligenza artificiale per scoprire frodi alimentari: cosa cambia in Europa",
-        "description": "La Commissione europea lancia TraceMap, una piattaforma basata su IA per monitorare la filiera e individuare più rapidamente frodi, contaminazioni e rischi alim…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tracemap-ue-sicurezza-alimentare-intelligenza-artificiale/",
-        "pubDate": "2026-04-17T08:32:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Ca’ Barambon: nell’Appennino reggiano c’è una nuova mecca gastronomica",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/torino-ristorante-fiammetta.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "VINALTUM 2026 cresce: nuovo partner istituzionale e programma in espansione",
-        "description": "Si rafforza il legame tra VINALTUM e il territorio altoatesino. L’edizione 2026 del festival dedicato alle eccellenze vitivinicole italiane e internazionali, in…",
-        "link": "https://www.winemag.it/vinaltum-2026-cresce-nuovo-partner-istituzionale-e-programma-in-espansione/",
-        "pubDate": "2026-04-16T16:40:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Pandolfini: asta “La Joie du Vin” supera 1,1 milioni di euro, aggiudicazioni al 170% delle stime",
-        "description": "Un totale di € 1.140.475 e il 170% delle stime iniziali. Sono i numeri dell’asta “La Joie du Vin” organizzata dal dipartimento Vini Pregiati e da Collezione di …",
-        "link": "https://www.winemag.it/pandolfini-asta-la-joie-du-vin-supera-11-milioni-di-euro-aggiudicazioni-al-170-delle-stime/",
-        "pubDate": "2026-04-16T16:30:27+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
