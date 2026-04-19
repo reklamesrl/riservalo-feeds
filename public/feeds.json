@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-18T18:53:12.414567+00:00",
+  "generated": "2026-04-19T07:21:31.135897+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Elisa D’Ospina: “Sono la regina degli sgarri. Il cibo spazzatura? Non bisogna demonizzarlo”",
+        "description": "Elisa D’Ospina racconta il suo rapporto con il cibo tra dieta, libertà e body positivity: dagli sgarri all’Ozempic, fino all’educazione alimentare…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/elisa-dospina-modella-curvy-intervista/",
+        "pubDate": "2026-04-19T07:10:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Porto esiste il caffè “di seconda mano”: costa meno ma è fatto con gli stessi fondi",
+        "description": "A Porto si beve il “carioca”, un espresso ottenuto riutilizzando i fondi di caffè: una tradizione nata per necessità che oggi racconta un’altra epoca…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caffe-carioca-porto-cos-e-fondi-usati/",
+        "pubDate": "2026-04-19T06:01:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sui Colli Tortonesi il nipote di Fausto Coppi fa uno dei migliori Timorasso sotto i 20 euro",
+        "description": "Vigne Marina Coppi, azienda guidata dal nipote dello storico campione di ciclismo, è una delle realtà più interessanti del territorio famoso per il \"rosso trave…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/timorasso-francesca-vigne-marina-coppi-sotto-20-euro/",
+        "pubDate": "2026-04-19T05:02:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il regalo perfetto per la Festa della Mamma lo trovi da Maisons du Monde. Sorprendila!",
         "description": "Non serve impazzire per trovare il pensiero giusto: da Maisons du Monde ci sono idee regalo belle, accessibili e cariche di affetto, perfette per sorprendere la…",
@@ -46,6 +73,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "DryMilano rinnova il menù di primavera tra pizza d’autore e mixology internazionale",
+        "description": "Con l’arrivo della primavera, DryMilano aggiorna la propria proposta gastronomica puntando su ingredienti stagionali e nuove suggestioni botaniche. Il risultato…",
+        "link": "https://www.winemag.it/drymilano-rinnova-menu-primavera-pizza-autore-ixology-internazionale/",
+        "pubDate": "2026-04-18T10:38:25+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/04/DryMilano-rinnova-il-menu-di-primavera-tra-pizza-dautore-e-mixology-internazionale-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Il “pesce finto” anni ’80: il piatto più strano (e brutto) che tutti mangiavano",
@@ -145,42 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Venezia tutti ordinano questo dolce da un secolo: gianduiotto con doppia panna montata",
-        "description": "Alle Zattere, la storica Gelateria Da Nico è un’istituzione dal 1937: terrazza sull’acqua, atmosfera rétro e il celebre Gianduiotto, tra i dolci simbolo della c…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-da-nico-venezia-gianduiotto-storia/",
-        "pubDate": "2026-04-17T14:28:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I pantaloni Capri sono tornati per restare (e questi sono i modelli più chic da avere nell’armadio questa primavera)!",
-        "description": "Sono uno dei grandi tormentoni estivi ma hanno già iniziato a fare capolino sugli scaffali dei negozi e da qualche settimana li vediamo spesso addosso a trend s…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-capri-neri-eleganti-stradivarius-zara-pinocchietto-significato-donna-966282",
-        "pubDate": "2026-04-17T14:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Pantaloni_capri.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Quant’è bello visitare le cantine, ma come ci si arriva? L’enoturismo fa i conti con il gap dei trasporti",
-        "description": "L' indagine Mtv-Ceseo evidenzia le difficoltà nel raggiungere le wine destination, con costi fino a 200 euro per spostamenti privati. Nel 2025 solo il 10% degli…",
-        "link": "https://www.gamberorosso.it/notizie/vino/enoturismo-gap-trasporti-indagine-2026-movimento-turismo-vino-ceseo/",
-        "pubDate": "2026-04-17T13:11:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Belen Rodriguez, con il trend di stagione perfetto per tutte e per ogni occasione: scopri qui il Look!",
-        "description": "Per la puntata di ieri sera di Stanno tutti invitati di Pio e Amedeo, Belen Rodriguez ha sfoggiato un trend di stagione.…",
-        "link": "https://www.stylosophy.it/articolo/belen-rodriguez-con-il-trend-di-stagione-perfetto-per-tutte-e-per-ogni-occasione-scopri-qui-il-look/250072/",
-        "pubDate": "2026-04-17T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Elisa D’Ospina: “Sono la regina degli sgarri. Il cibo spazzatura? Non bisogna demonizzarlo”",
+        "description": "Elisa D’Ospina racconta il suo rapporto con il cibo tra dieta, libertà e body positivity: dagli sgarri all’Ozempic, fino all’educazione alimentare…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/elisa-dospina-modella-curvy-intervista/",
+        "pubDate": "2026-04-19T07:10:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Porto esiste il caffè “di seconda mano”: costa meno ma è fatto con gli stessi fondi",
+        "description": "A Porto si beve il “carioca”, un espresso ottenuto riutilizzando i fondi di caffè: una tradizione nata per necessità che oggi racconta un’altra epoca…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caffe-carioca-porto-cos-e-fondi-usati/",
+        "pubDate": "2026-04-19T06:01:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sui Colli Tortonesi il nipote di Fausto Coppi fa uno dei migliori Timorasso sotto i 20 euro",
+        "description": "Vigne Marina Coppi, azienda guidata dal nipote dello storico campione di ciclismo, è una delle realtà più interessanti del territorio famoso per il \"rosso trave…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/timorasso-francesca-vigne-marina-coppi-sotto-20-euro/",
+        "pubDate": "2026-04-19T05:02:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "La Nutella di arachidi è realtà, ed è la più grande novità di Ferrero dopo 60 anni",
         "description": "L'annuncio era stato fatto l'estate scorsa, e la promessa è stata mantenuta: Nutella Peanut parte negli USA, ma qualche barattolo è già stato avvistato in Itali…",
         "link": "https://www.dissapore.com/notizie/la-nutella-di-arachidi-e-realta-ed-e-la-piu-grande-novita-di-ferrero-dopo-60-anni/",
@@ -392,6 +419,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "DryMilano rinnova il menù di primavera tra pizza d’autore e mixology internazionale",
+        "description": "Con l’arrivo della primavera, DryMilano aggiorna la propria proposta gastronomica puntando su ingredienti stagionali e nuove suggestioni botaniche. Il risultato…",
+        "link": "https://www.winemag.it/drymilano-rinnova-menu-primavera-pizza-autore-ixology-internazionale/",
+        "pubDate": "2026-04-18T10:38:25+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/04/DryMilano-rinnova-il-menu-di-primavera-tra-pizza-dautore-e-mixology-internazionale-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Il “pesce finto” anni ’80: il piatto più strano (e brutto) che tutti mangiavano",
@@ -466,24 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Venezia tutti ordinano questo dolce da un secolo: gianduiotto con doppia panna montata",
-        "description": "Alle Zattere, la storica Gelateria Da Nico è un’istituzione dal 1937: terrazza sull’acqua, atmosfera rétro e il celebre Gianduiotto, tra i dolci simbolo della c…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-da-nico-venezia-gianduiotto-storia/",
-        "pubDate": "2026-04-17T14:28:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quant’è bello visitare le cantine, ma come ci si arriva? L’enoturismo fa i conti con il gap dei trasporti",
-        "description": "L' indagine Mtv-Ceseo evidenzia le difficoltà nel raggiungere le wine destination, con costi fino a 200 euro per spostamenti privati. Nel 2025 solo il 10% degli…",
-        "link": "https://www.gamberorosso.it/notizie/vino/enoturismo-gap-trasporti-indagine-2026-movimento-turismo-vino-ceseo/",
-        "pubDate": "2026-04-17T13:11:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il prezzo del cacao crolla, il valore del più grande produttore di cioccolato anche",
         "description": "I prezzi del cacao stanno finalmente scendendo, ma potrebbe non bastare a far uscire il mercato del cioccolato dalla crisi: nemmeno il più grande produttore del…",
         "link": "https://www.dissapore.com/notizie/il-prezzo-del-cacao-crolla-il-valore-del-piu-grande-produttore-di-cioccolato-anche/",
@@ -491,15 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/07/callebaut-cacao-crollo-borsa.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "L’ape car dei croissant fatti in casa conquista la Brianza: storia della coppia che non si è arresa alla routine",
-        "description": "Croissant francesi, cappuccini aromatizzati e dolcetti fatti in casa: Beekery è l'ape car che sta portando in giro la colazione per mercati e fiere di Monza e B…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ape-car-croissant-brianza/",
-        "pubDate": "2026-04-17T10:44:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Barilla lancia la pasta dedicata alla Formula 1 (con il formato peggiore di sempre)",
@@ -529,22 +538,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "Fiammetta a Torino: cosa dobbiamo aspettarci dal nuovo “brace bar” sotto la Mole",
-        "description": "Nuova apertura torinese, Fiammetta è un ristorante improntato sulla brace, lo spiedo e sull'affumicatura. \nL'articolo Fiammetta a Torino: cosa dobbiamo aspettar…",
-        "link": "https://www.dissapore.com/notizie/fiammetta-a-torino-menu-prezzi/",
-        "pubDate": "2026-04-16T18:00:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/torino-ristorante-fiammetta.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il nuovo trend di Tik Tok sono i cibi generati dall’intelligenza artificiale",
-        "description": "Cos'è il trend di TikTok sui cibi generati dall'intelligenza artificiale. L'algoritmo sostituisce i creator umani a costo zero generando milioni di views con ri…",
-        "link": "https://www.dissapore.com/notizie/il-nuovo-trend-di-tik-tok-sono-i-cibi-generati-dallintelligenza-artificiale/",
-        "pubDate": "2026-04-16T13:45:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/cibo-ai-food-slop-tik-tok.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
+        "title": "Cracco, mezzo calice di vino è una mezza idea. A quando il mezzo piatto?",
+        "description": "In un&#8217;intervista rilasciata al Corriere della Sera in occasione di Vinitaly 2026, il noto chef italiano Carlo Cracco mette il dito nella piaga di un probl…",
+        "link": "https://www.winemag.it/cracco-mezzo-calice-vino-mezza-idea-a-quando-mezzo-piatto-editoriale-davide-bortone/",
+        "pubDate": "2026-04-16T22:39:16+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       }
     ]
   }
