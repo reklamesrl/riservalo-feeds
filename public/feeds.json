@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-19T07:21:31.135897+00:00",
+  "generated": "2026-04-19T13:03:55.199360+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Elodie lascia tutti senza parole al concerto di Marracash: ma occhi puntati sul Look!",
+        "description": "Elodie ieri sera è stata l'ospite a sorpresa del concerto di Marracash dove ha sfoggiato un look davvero trendy e cool: qui di seguito per tutti i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/elodie-lascia-tutti-senza-parole-al-concerto-di-marracash-ma-occhi-puntati-sul-look/250109/",
+        "pubDate": "2026-04-19T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Le scarpe più gettonate della mezza stagione sono di questo colore",
+        "description": "Le scarpe più gettonate della Primavera 2026? Sono di questo colore e sono pronte ad aggiungere un tocco in più a tutti i look! Scopriamole insieme...…",
+        "link": "https://www.stylosophy.it/articolo/le-scarpe-piu-gettonate-della-mezza-stagione-sono-di-questo-colore/250115/",
+        "pubDate": "2026-04-19T09:39:36+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Prima di rimanere senza zafferano, proviamo a riscoprire il nostro?",
+        "description": "La guerra in Iran non dà tregua neanche allo zafferano. Eppure non è tutto perduto: basta ricordare che lo produciamo anche noi. \nL'articolo Prima di rimanere s…",
+        "link": "https://www.dissapore.com/notizie/prima-di-rimanere-senza-zafferano-proviamo-a-riscoprire-il-nostro/",
+        "pubDate": "2026-04-19T09:09:13+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/zafferano.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Elisa D’Ospina: “Sono la regina degli sgarri. Il cibo spazzatura? Non bisogna demonizzarlo”",
         "description": "Elisa D’Ospina racconta il suo rapporto con il cibo tra dieta, libertà e body positivity: dagli sgarri all’Ozempic, fino all’educazione alimentare…",
@@ -28,6 +55,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Né flat né vertiginosi: i sandali midi conquistano la primavera",
+        "description": "Dimenticate l’idea che eleganza significhi necessariamente sacrificio: i sandali con tacco medio dimostrano esattamente il contrario. Non è troppo alto, non è t…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-con-tacco-medio-eleganti-primavera-2026-966010",
+        "pubDate": "2026-04-19T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_sandali_tacco_medio.png",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Il regalo perfetto per la Festa della Mamma lo trovi da Maisons du Monde. Sorprendila!",
@@ -145,45 +181,36 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Look da cerimonia cercasi? Basta con i soliti abiti: 9 outfit diversi dal solito a cui ispirarsi",
-        "description": "In primavera, fra ritrovate giornate di sole e alberi in fiore, puntuali, ricompaiono anche gli inviti a matrimoni e cerimonie. Un po’ come un rito stagionale, …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/look-da-cerimonia-outfit-invitata-particolari-diversi-inspo-instagram-966072",
-        "pubDate": "2026-04-18T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_cerimonie_matrimonio.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Weekend del Primo Maggio a due passi da Roma: i Borghi più belli per una gita fuori porta",
-        "description": "Dal Lazio più autentico ai borghi panoramici tra laghi e colline: ecco dove andare vicino Roma per il ponte del Primo Maggio.…",
-        "link": "https://www.stylosophy.it/articolo/weekend-del-primo-maggio-a-due-passi-da-roma-i-borghi-piu-belli/250078/",
-        "pubDate": "2026-04-17T16:00:00+00:00",
+        "title": "Elodie lascia tutti senza parole al concerto di Marracash: ma occhi puntati sul Look!",
+        "description": "Elodie ieri sera è stata l'ospite a sorpresa del concerto di Marracash dove ha sfoggiato un look davvero trendy e cool: qui di seguito per tutti i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/elodie-lascia-tutti-senza-parole-al-concerto-di-marracash-ma-occhi-puntati-sul-look/250109/",
+        "pubDate": "2026-04-19T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Zohran Mamdani, sindaco di New York, sta davvero creando i supermercati pubblici",
-        "description": "Supermercati pubblici che forniscono ai cittadini cibo sano a prezzi calmierati: l'idea rivoluzionaria, ma mica poi tanto, del sindaco di New York Zohran Mamdan…",
-        "link": "https://www.dissapore.com/notizie/zohran-mamdani-sindaco-di-new-york-sta-davvero-creando-i-supermercati-pubblici/",
-        "pubDate": "2026-04-17T14:51:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Zohran-Mamdani-e.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "Le scarpe più gettonate della mezza stagione sono di questo colore",
+        "description": "Le scarpe più gettonate della Primavera 2026? Sono di questo colore e sono pronte ad aggiungere un tocco in più a tutti i look! Scopriamole insieme...…",
+        "link": "https://www.stylosophy.it/articolo/le-scarpe-piu-gettonate-della-mezza-stagione-sono-di-questo-colore/250115/",
+        "pubDate": "2026-04-19T09:39:36+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "Sembrano frutti, ma sono dolci: il trend che sta invadendo pasticcerie e social",
-        "description": "Dal successo di Cédric Grolet ai social, i dessert trompe l’œil a forma di frutta sono diventati un trend globale: estetica perfetta fuori, mousse e creme sorpr…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/dolci-forma-frutta-trend-trompe-loeil-grolet/",
-        "pubDate": "2026-04-17T14:30:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
+        "title": "Né flat né vertiginosi: i sandali midi conquistano la primavera",
+        "description": "Dimenticate l’idea che eleganza significhi necessariamente sacrificio: i sandali con tacco medio dimostrano esattamente il contrario. Non è troppo alto, non è t…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-con-tacco-medio-eleganti-primavera-2026-966010",
+        "pubDate": "2026-04-19T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_sandali_tacco_medio.png",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Il regalo perfetto per la Festa della Mamma lo trovi da Maisons du Monde. Sorprendila!",
         "description": "Non serve impazzire per trovare il pensiero giusto: da Maisons du Monde ci sono idee regalo belle, accessibili e cariche di affetto, perfette per sorprendere la…",
@@ -336,36 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Jeans_bianchi.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "I profumi solidi più validi della Primavera, un piccolo lusso quotidiano",
-        "description": "Se amate lasciare la scia ad ogni passo, ecco 5 profumi solidi da non perdere, un inno alla Primavera!…",
-        "link": "https://www.stylosophy.it/articolo/i-profumi-solidi-piu-validi-della-primavera-un-piccolo-lusso-quotidiano/250030/",
-        "pubDate": "2026-04-16T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Con la primavera torna il piacere di indossare i pantaloni di lino: ecco i modelli più freschi e chic",
-        "description": "I pantaloni di lino sono un chiaro e potente manifesto di un “quiet luxury” volto al comfort. Le varianti declinate su tagli fluidi e comfy  e in texture natura…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-lino-donna-zara-eleganti-bianchi-hm-neri-primavera-estate-2026-965424",
-        "pubDate": "2026-04-16T08:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_pantaloni_lino.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Le spiagge più belle della Toscana in cui trascorrere una vacanza al mare davvero unica",
-        "description": "Dalle calette selvagge dell’Argentario alle distese sabbiose della Maremma, una guida pratica alle spiagge più belle da scoprire in primavera prima dell’alta st…",
-        "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-della-toscana-in-cui-trascorrere-una-vacanza-al-mare-davvero-unica/250025/",
-        "pubDate": "2026-04-15T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Prima di rimanere senza zafferano, proviamo a riscoprire il nostro?",
+        "description": "La guerra in Iran non dà tregua neanche allo zafferano. Eppure non è tutto perduto: basta ricordare che lo produciamo anche noi. \nL'articolo Prima di rimanere s…",
+        "link": "https://www.dissapore.com/notizie/prima-di-rimanere-senza-zafferano-proviamo-a-riscoprire-il-nostro/",
+        "pubDate": "2026-04-19T09:09:13+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/zafferano.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Elisa D’Ospina: “Sono la regina degli sgarri. Il cibo spazzatura? Non bisogna demonizzarlo”",
         "description": "Elisa D’Ospina racconta il suo rapporto con il cibo tra dieta, libertà e body positivity: dagli sgarri all’Ozempic, fino all’educazione alimentare…",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/07/caffe-filtro-giovane-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Cracco, mezzo calice di vino è una mezza idea. A quando il mezzo piatto?",
-        "description": "In un&#8217;intervista rilasciata al Corriere della Sera in occasione di Vinitaly 2026, il noto chef italiano Carlo Cracco mette il dito nella piaga di un probl…",
-        "link": "https://www.winemag.it/cracco-mezzo-calice-vino-mezza-idea-a-quando-mezzo-piatto-editoriale-davide-bortone/",
-        "pubDate": "2026-04-16T22:39:16+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
