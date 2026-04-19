@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-19T13:03:55.199360+00:00",
+  "generated": "2026-04-19T18:53:10.566183+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Maisons du Monde al Fuorisalone 2026: “Moments of Joy” tra design e viaggio",
+        "description": "A Milano, per il Fuorisalone, il brand celebra 30 anni con un percorso immersivo che trasforma la casa in un viaggio tra culture e atmosfere.…",
+        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-al-fuorisalone-2026-moments-of-joy-tra-design-e-viaggio/250130/",
+        "pubDate": "2026-04-19T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "È morto Alessio Di Majo Norante, l’uomo che ha cambiato il destino del vino molisano",
+        "description": "Presente fino all’ultimo al Vinitaly, ha portato il Molise del vino nel mondo, dando nuova identità a tutto il territorio. Ci lascia a 63 anni…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/e-morto-alessio-di-majo-norante/",
+        "pubDate": "2026-04-19T15:25:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Turista vince causa per essersi ubriacata troppo con la tequila",
+        "description": "Quindici shot di alcol sono costati cari alla compagnia di crociera Carnival dopo che una passeggera ha detto che nessuno la ha fermata. \nL'articolo Turista vin…",
+        "link": "https://www.dissapore.com/notizie/turista-vince-causa-per-essersi-ubriacata-troppo-con-la-tequila/",
+        "pubDate": "2026-04-19T15:20:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/tequila-margarita-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Elodie lascia tutti senza parole al concerto di Marracash: ma occhi puntati sul Look!",
         "description": "Elodie ieri sera è stata l'ospite a sorpresa del concerto di Marracash dove ha sfoggiato un look davvero trendy e cool: qui di seguito per tutti i dettagli.…",
@@ -154,36 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/acquacoltura-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Cos’è lo yakiniku, la griglia giapponese dove cucini tu (ma al ristorante)",
-        "description": "Dalla Corea al Giappone, lo yakiniku è una tecnica conviviale in cui si cuociono carne, pesce e verdure direttamente al tavolo: un’esperienza diffusa nei ristor…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yakiniku-cos-e-come-funziona-griglia-giapponese/",
-        "pubDate": "2026-04-18T06:50:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come può cambiare l’agricoltura approfittando della guerra in Iran",
-        "description": "Abbiamo quindi scoperto quanto sia cruciale lo stretto di Hormuz per la nostra agricoltura. E potrebbe essere un assist, per passare ad altre coltivazioni, migl…",
-        "link": "https://www.dissapore.com/spesa/come-puo-cambiare-lagricoltura-approfittando-della-guerra-in-iran/",
-        "pubDate": "2026-04-18T06:21:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1140569927-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il Mediterraneo nel bicchiere: 11 vini assaggiati a Vinitaly che raccontano mare, vento e luce",
-        "description": "Più che un percorso geografico è un racconto culturale quello che vi proponiamo: i protagonisti sono vini artigianali e autentici, espressione diretta dei luogh…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-mediterraneo-vinitaly-degustazione-11-etichette/",
-        "pubDate": "2026-04-18T05:46:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Maisons du Monde al Fuorisalone 2026: “Moments of Joy” tra design e viaggio",
+        "description": "A Milano, per il Fuorisalone, il brand celebra 30 anni con un percorso immersivo che trasforma la casa in un viaggio tra culture e atmosfere.…",
+        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-al-fuorisalone-2026-moments-of-joy-tra-design-e-viaggio/250130/",
+        "pubDate": "2026-04-19T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Elodie lascia tutti senza parole al concerto di Marracash: ma occhi puntati sul Look!",
         "description": "Elodie ieri sera è stata l'ospite a sorpresa del concerto di Marracash dove ha sfoggiato un look davvero trendy e cool: qui di seguito per tutti i dettagli.…",
@@ -338,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Cecilia Rodriguez sfoggia la giacca in denim perfetta per la primavera: pronta ad essere il nuovo must di stagione!",
-        "description": "Cecilia Rodriguez ha mostrato ai fan sui social la sua nuova giacca in denim perfetta per la primavera: qui di seguito per tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/cecilia-rodriguez-sfoggia-la-giacca-in-denim-perfetta-per-la-primavera-pronta-ad-essere-il-nuovo-must-di-stagione/250052/",
-        "pubDate": "2026-04-16T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Confessions of a bouquet: la nuova campagna di YOOX dedicata alla stagione dei matrimoni",
         "description": "Quante ne avrebbe da raccontare un bouquet se solo potesse parlare? Dal romanticismo ai piccoli drama che ogni grande evento porta con sé fino a loro, i look de…",
         "link": "https://www.grazia.it/moda/sposa/yoox-campagna-cerimonie-matrimonio-look-invitata-965974",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "È morto Alessio Di Majo Norante, l’uomo che ha cambiato il destino del vino molisano",
+        "description": "Presente fino all’ultimo al Vinitaly, ha portato il Molise del vino nel mondo, dando nuova identità a tutto il territorio. Ci lascia a 63 anni…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/e-morto-alessio-di-majo-norante/",
+        "pubDate": "2026-04-19T15:25:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Turista vince causa per essersi ubriacata troppo con la tequila",
+        "description": "Quindici shot di alcol sono costati cari alla compagnia di crociera Carnival dopo che una passeggera ha detto che nessuno la ha fermata. \nL'articolo Turista vin…",
+        "link": "https://www.dissapore.com/notizie/turista-vince-causa-per-essersi-ubriacata-troppo-con-la-tequila/",
+        "pubDate": "2026-04-19T15:20:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/tequila-margarita-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Prima di rimanere senza zafferano, proviamo a riscoprire il nostro?",
         "description": "La guerra in Iran non dà tregua neanche allo zafferano. Eppure non è tutto perduto: basta ricordare che lo produciamo anche noi. \nL'articolo Prima di rimanere s…",
@@ -502,15 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Sembrano frutti, ma sono dolci: il trend che sta invadendo pasticcerie e social",
-        "description": "Dal successo di Cédric Grolet ai social, i dessert trompe l’œil a forma di frutta sono diventati un trend globale: estetica perfetta fuori, mousse e creme sorpr…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/dolci-forma-frutta-trend-trompe-loeil-grolet/",
-        "pubDate": "2026-04-17T14:30:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il prezzo del cacao crolla, il valore del più grande produttore di cioccolato anche",
         "description": "I prezzi del cacao stanno finalmente scendendo, ma potrebbe non bastare a far uscire il mercato del cioccolato dalla crisi: nemmeno il più grande produttore del…",
         "link": "https://www.dissapore.com/notizie/il-prezzo-del-cacao-crolla-il-valore-del-piu-grande-produttore-di-cioccolato-anche/",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/ca-barambon-nellappennino-reggiano-ce-una-nuova-mecca-gastronomica/",
         "pubDate": "2026-04-17T08:30:01+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/03222-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nestlé spinge per il caffè filtro: è finalmente venuto il suo momento?",
-        "description": "Se una multinazionale investe in un prodotto, c'è da scommettere che si diffonderà ad un pubblico ampio: finalmente avremo più caffè filtro al bar?\nL'articolo N…",
-        "link": "https://www.dissapore.com/notizie/nestle-spinge-per-il-caffe-filtro-e-finalmente-venuto-il-suo-momento/",
-        "pubDate": "2026-04-17T07:37:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/caffe-filtro-giovane-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
