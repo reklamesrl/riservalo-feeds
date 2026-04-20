@@ -1,7 +1,52 @@
 {
-  "generated": "2026-04-19T18:53:10.566183+00:00",
+  "generated": "2026-04-20T08:09:27.716966+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Troppe creme, troppi ingredienti: cosa non funziona nella pizza di oggi (vista dal mondiale di Parma)",
+        "description": "Dal Campionato Mondiale della Pizza arrivano segnali chiari: impasti sempre migliori ma topping sempre più complessi, tra creme, mousse e combinazioni che spess…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-troppi-ingredienti-trend-mondiale-parma/",
+        "pubDate": "2026-04-20T07:57:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Albania c’è una laguna dove si mangia il pesce appena pescato (e quasi nessuno la conosce)",
+        "description": "A pochi chilometri da Valona, la laguna di Narta Lagoon è un ecosistema selvaggio dove il tempo si è fermato: taverne semplici, pescato del giorno e una cucina …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/laguna-narta-albania-dove-mangiare-pesce/",
+        "pubDate": "2026-04-20T07:54:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha insegnato agli americani cos’è il pane vero: oggi è tra le 100 persone più influenti",
+        "description": "Da Los Angeles al riconoscimento della rivista Time: Nancy Silverton entra nella lista delle 100 persone più influenti del 2026 dopo aver cambiato per sempre il…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/nancy-silverton-time-100-pane-america/",
+        "pubDate": "2026-04-20T07:49:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I gioielli da indossare ora? I bottoni!",
+        "description": "Si parla spesso di come un gioiello riesca ad elevare anche il più semplice dei look, ma c&#8217;è un altro piccolo elemento presente in ogni guardaroba che può…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/bottoni-gioiello-per-giacca-vintage-chanel-grandi-con-strass-maglie-abiti-965790",
+        "pubDate": "2026-04-20T05:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/DESK-bottoni-gioiello-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Primitivo di Manduria Rosato, la “nuova Doc” ruba mercato. O lo crea?",
+        "description": "Primitivo di Manduria Rosato. Non una nuova Doc, ma una nuova tipologia che il Consorzio tutela vini pugliese ha chiesto al ministero di introdurre. Una mezza r…",
+        "link": "https://www.winemag.it/primitivo-di-manduria-rosato-nuova-doc-ruba-mercato-o-lo-crea/",
+        "pubDate": "2026-04-19T22:26:38+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Maisons du Monde al Fuorisalone 2026: “Moments of Joy” tra design e viaggio",
         "description": "A Milano, per il Fuorisalone, il brand celebra 30 anni con un percorso immersivo che trasforma la casa in un viaggio tra culture e atmosfere.…",
@@ -136,54 +181,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "DryMilano rinnova il menù di primavera tra pizza d’autore e mixology internazionale",
-        "description": "Con l’arrivo della primavera, DryMilano aggiorna la propria proposta gastronomica puntando su ingredienti stagionali e nuove suggestioni botaniche. Il risultato…",
-        "link": "https://www.winemag.it/drymilano-rinnova-menu-primavera-pizza-autore-ixology-internazionale/",
-        "pubDate": "2026-04-18T10:38:25+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/04/DryMilano-rinnova-il-menu-di-primavera-tra-pizza-dautore-e-mixology-internazionale-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il “pesce finto” anni ’80: il piatto più strano (e brutto) che tutti mangiavano",
-        "description": "Tra ricette vintage e storie surreali, il “pesce finto” è stato uno dei piatti simbolo degli anni ’70 e ’80: un mix di tonno, patate e maionese modellato a form…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pesce-finto-cos-e-ricetta-storia-anni-80/",
-        "pubDate": "2026-04-18T10:01:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sono le collane con ciondoli il must have della Primavera 2026, per dei look al top!",
-        "description": "L'accessorio chiave della Primavera 2026? Le collane con ciondoli, un gioiello audace, trendy e ricercato da sfruttare a più non posso. Ecco i modelli da non pe…",
-        "link": "https://www.stylosophy.it/articolo/sono-le-collane-con-ciondoli-il-must-have-della-primavera-2026-per-dei-look-al-top/250096/",
-        "pubDate": "2026-04-18T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“A 14 anni già lavoravo sette giorni su sette”: oggi è uno dei pizzaioli più noti di Tokyo",
-        "description": "La storia di Peppe Errichiello: da Afragola a Tokyo, tra sacrifici, lavoro e un’identità costruita attorno alla pizza…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/peppe-errichiello-pizzaiolo-tokyo-storia-napoli/",
-        "pubDate": "2026-04-18T07:59:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Italia abbiamo troppo pochi allevamenti di pesce?",
-        "description": "L'italia importa l'86% del pesce che consuma, eppure potremmo produrre molto più pesce di allevamento, anche per contrastare la crisi della pesca.\nL'articolo In…",
-        "link": "https://www.dissapore.com/notizie/in-italia-abbiamo-troppo-pochi-allevamenti-di-pesce/",
-        "pubDate": "2026-04-18T07:57:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/acquacoltura-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "I gioielli da indossare ora? I bottoni!",
+        "description": "Si parla spesso di come un gioiello riesca ad elevare anche il più semplice dei look, ma c&#8217;è un altro piccolo elemento presente in ogni guardaroba che può…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/bottoni-gioiello-per-giacca-vintage-chanel-grandi-con-strass-maglie-abiti-965790",
+        "pubDate": "2026-04-20T05:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/DESK-bottoni-gioiello-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Maisons du Monde al Fuorisalone 2026: “Moments of Joy” tra design e viaggio",
         "description": "A Milano, per il Fuorisalone, il brand celebra 30 anni con un percorso immersivo che trasforma la casa in un viaggio tra culture e atmosfere.…",
@@ -354,18 +363,45 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/DESK-yoox-wedding-.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "10 jeans bianchi su cui mettere subito gli occhi questa primavera",
-        "description": "Li indossiamo spesso anche in pieno inverno, anche solo quando siamo stanche dei soliti blue jeans e cerchiano un’alternativa altrettanto versatile, ma è certam…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-bianchi-donna-zara-larghi-strappati-must-have-primavera-966038",
-        "pubDate": "2026-04-16T10:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Jeans_bianchi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Troppe creme, troppi ingredienti: cosa non funziona nella pizza di oggi (vista dal mondiale di Parma)",
+        "description": "Dal Campionato Mondiale della Pizza arrivano segnali chiari: impasti sempre migliori ma topping sempre più complessi, tra creme, mousse e combinazioni che spess…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-troppi-ingredienti-trend-mondiale-parma/",
+        "pubDate": "2026-04-20T07:57:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Albania c’è una laguna dove si mangia il pesce appena pescato (e quasi nessuno la conosce)",
+        "description": "A pochi chilometri da Valona, la laguna di Narta Lagoon è un ecosistema selvaggio dove il tempo si è fermato: taverne semplici, pescato del giorno e una cucina …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/laguna-narta-albania-dove-mangiare-pesce/",
+        "pubDate": "2026-04-20T07:54:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha insegnato agli americani cos’è il pane vero: oggi è tra le 100 persone più influenti",
+        "description": "Da Los Angeles al riconoscimento della rivista Time: Nancy Silverton entra nella lista delle 100 persone più influenti del 2026 dopo aver cambiato per sempre il…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/nancy-silverton-time-100-pane-america/",
+        "pubDate": "2026-04-20T07:49:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Primitivo di Manduria Rosato, la “nuova Doc” ruba mercato. O lo crea?",
+        "description": "Primitivo di Manduria Rosato. Non una nuova Doc, ma una nuova tipologia che il Consorzio tutela vini pugliese ha chiesto al ministero di introdurre. Una mezza r…",
+        "link": "https://www.winemag.it/primitivo-di-manduria-rosato-nuova-doc-ruba-mercato-o-lo-crea/",
+        "pubDate": "2026-04-19T22:26:38+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "È morto Alessio Di Majo Norante, l’uomo che ha cambiato il destino del vino molisano",
         "description": "Presente fino all’ultimo al Vinitaly, ha portato il Molise del vino nel mondo, dando nuova identità a tutto il territorio. Ci lascia a 63 anni…",
@@ -466,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“A 14 anni già lavoravo sette giorni su sette”: oggi è uno dei pizzaioli più noti di Tokyo",
-        "description": "La storia di Peppe Errichiello: da Afragola a Tokyo, tra sacrifici, lavoro e un’identità costruita attorno alla pizza…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/peppe-errichiello-pizzaiolo-tokyo-storia-napoli/",
-        "pubDate": "2026-04-18T07:59:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "In Italia abbiamo troppo pochi allevamenti di pesce?",
         "description": "L'italia importa l'86% del pesce che consuma, eppure potremmo produrre molto più pesce di allevamento, anche per contrastare la crisi della pesca.\nL'articolo In…",
         "link": "https://www.dissapore.com/notizie/in-italia-abbiamo-troppo-pochi-allevamenti-di-pesce/",
@@ -484,15 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Cos’è lo yakiniku, la griglia giapponese dove cucini tu (ma al ristorante)",
-        "description": "Dalla Corea al Giappone, lo yakiniku è una tecnica conviviale in cui si cuociono carne, pesce e verdure direttamente al tavolo: un’esperienza diffusa nei ristor…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yakiniku-cos-e-come-funziona-griglia-giapponese/",
-        "pubDate": "2026-04-18T06:50:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Come può cambiare l’agricoltura approfittando della guerra in Iran",
         "description": "Abbiamo quindi scoperto quanto sia cruciale lo stretto di Hormuz per la nostra agricoltura. E potrebbe essere un assist, per passare ad altre coltivazioni, migl…",
         "link": "https://www.dissapore.com/spesa/come-puo-cambiare-lagricoltura-approfittando-della-guerra-in-iran/",
@@ -500,15 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1140569927-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il Mediterraneo nel bicchiere: 11 vini assaggiati a Vinitaly che raccontano mare, vento e luce",
-        "description": "Più che un percorso geografico è un racconto culturale quello che vi proponiamo: i protagonisti sono vini artigianali e autentici, espressione diretta dei luogh…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-mediterraneo-vinitaly-degustazione-11-etichette/",
-        "pubDate": "2026-04-18T05:46:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Zohran Mamdani, sindaco di New York, sta davvero creando i supermercati pubblici",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/barilla-lancia-la-pasta-dedicata-alla-formula-1-con-il-formato-peggiore-di-sempre/",
         "pubDate": "2026-04-17T09:33:04+00:00",
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ca’ Barambon: nell’Appennino reggiano c’è una nuova mecca gastronomica",
-        "description": "Il nuovo home restaurant di Alessandro \"Alle\" Belli ed Elisa Migliari (ex Arrogant Pub) sta portando nuove energie sull'Appennino reggiano: tutto quello che c'è…",
-        "link": "https://www.dissapore.com/notizie/ca-barambon-nellappennino-reggiano-ce-una-nuova-mecca-gastronomica/",
-        "pubDate": "2026-04-17T08:30:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/03222-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
