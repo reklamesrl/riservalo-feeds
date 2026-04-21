@@ -1,7 +1,61 @@
 {
-  "generated": "2026-04-20T19:07:07.590384+00:00",
+  "generated": "2026-04-21T07:52:37.230329+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Che fine ha fatto il cigno, la pastarella che tutti volevano dopo il pranzo della domenica",
+        "description": "Tra panna, crema e pasta choux, il bignè a forma di cigno era il simbolo delle pasticcerie italiane: scenografico, delicato e impossibile da condividere, oggi è…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cigno-pasticcino-domenica-bigne-storia/",
+        "pubDate": "2026-04-21T07:46:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non è un formaggio (o meglio: non solo). Cos’è davvero la raclette",
+        "description": "Dalle Alpi svizzere al boom nei ristoranti europei: la raclette nasce come tecnica di sopravvivenza tra i pastori e diventa uno dei piatti più conviviali della …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/raclette-cos-e-origini-tecnica-formaggio/",
+        "pubDate": "2026-04-21T07:43:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questa birra nasce a Roma ma arriva dal Belgio (con un’uva spesso sottovalutata)",
+        "description": "Dal bancone del Ma Che Siete Venuti a Fà al birrificio Cantillon: la storia di una lambic speciale che unisce Roma e il Cesanese per celebrare 25 anni di rivolu…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/birra-cantillon-cesanese-roma-macche-colonna/",
+        "pubDate": "2026-04-21T07:34:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fashion oroscopo: i must-have dedicati al segno del Toro",
+        "description": "L&#8217;ultima settimana di aprile ci fa dare il benvenuto a un nuovo segno dello zodiaco. Parliamo del Toro, uno dei suoi membri più tenaci e concreti, come ve…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/fashion-oroscopo-must-have-dedicati-al-segno-del-toro-come-vestirsi-look-abbigliamento-accessori-966238",
+        "pubDate": "2026-04-21T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_TORO.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Vinitaly in formato magnum: 10 assaggi strepitosi della gloriosa annata 2016",
+        "description": "La 2016 è sinonimo di straordinaria freschezza gustativa e grande potenziale evolutivo. Ecco 10 assaggi da magnum che hanno lasciato il segno…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-in-formato-magnum-10-assaggi-strepitosi-della-gloriosa-annata-2016/",
+        "pubDate": "2026-04-20T23:14:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gianvito Rossi e Mytheresa hanno celebrato la loro partnership con un evento esclusivo nel cuore di Firenze",
+        "description": "Gianvito Rossi e Mytheresa hanno festeggiato la loro consolidata collaborazione con un evento speciale a Firenze, al quale noi di Grazia.it abbiamo avuto il pia…",
+        "link": "https://www.grazia.it/moda/news-moda/gianvito-rossi-e-mytheresa-hanno-celebrato-la-loro-partnership-con-un-evento-esclusivo-nel-cuore-di-firenze-966776",
+        "pubDate": "2026-04-20T18:48:04+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/gianvito-rossi-mytheresa.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "The Great Pizza Tour fa tappa a Caserta: come partecipare alla serata",
         "description": "Il The Great Pizza Tour fa tappa a Caserta, in un evento in cui appassionati e addetti ai lavori possono incontrarsi e confrontarsi, scoprendo e assaggiando le …",
@@ -55,15 +109,6 @@
         "image": "https://www.grazia.it/content/uploads/2024/10/sandwich-rules.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Turismo in distilleria, il settore si interroga su accoglienza e sviluppo",
-        "description": "Il turismo esperienziale legato alla distillazione sarà al centro del convegno «Turismo in distilleria e nei liquorifici: sfide e opportunità dell&#8217;accogli…",
-        "link": "https://www.winemag.it/turismo-distilleria-settore-si-interroga-su-accoglienza-sviluppo/",
-        "pubDate": "2026-04-20T12:08:56+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Piccole aziende vitivinicole sempre più fragili: la metà è esposta a pressioni finanziarie che ne ostacolano la crescita",
@@ -136,54 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "In Albania c’è una laguna dove si mangia il pesce appena pescato (e quasi nessuno la conosce)",
-        "description": "A pochi chilometri da Valona, la laguna di Narta Lagoon è un ecosistema selvaggio dove il tempo si è fermato: taverne semplici, pescato del giorno e una cucina …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/laguna-narta-albania-dove-mangiare-pesce/",
-        "pubDate": "2026-04-20T07:54:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha insegnato agli americani cos’è il pane vero: oggi è tra le 100 persone più influenti",
-        "description": "Da Los Angeles al riconoscimento della rivista Time: Nancy Silverton entra nella lista delle 100 persone più influenti del 2026 dopo aver cambiato per sempre il…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/nancy-silverton-time-100-pane-america/",
-        "pubDate": "2026-04-20T07:49:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I gioielli da indossare ora? I bottoni!",
-        "description": "Si parla spesso di come un gioiello riesca ad elevare anche il più semplice dei look, ma c&#8217;è un altro piccolo elemento presente in ogni guardaroba che può…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/bottoni-gioiello-per-giacca-vintage-chanel-grandi-con-strass-maglie-abiti-965790",
-        "pubDate": "2026-04-20T05:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/DESK-bottoni-gioiello-2.jpg",
+        "title": "Fashion oroscopo: i must-have dedicati al segno del Toro",
+        "description": "L&#8217;ultima settimana di aprile ci fa dare il benvenuto a un nuovo segno dello zodiaco. Parliamo del Toro, uno dei suoi membri più tenaci e concreti, come ve…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/fashion-oroscopo-must-have-dedicati-al-segno-del-toro-come-vestirsi-look-abbigliamento-accessori-966238",
+        "pubDate": "2026-04-21T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_TORO.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Primitivo di Manduria Rosato, la “nuova Doc” ruba mercato. O lo crea?",
-        "description": "Primitivo di Manduria Rosato. Non una nuova Doc, ma una nuova tipologia che il Consorzio tutela vini pugliese ha chiesto al ministero di introdurre. Una mezza r…",
-        "link": "https://www.winemag.it/primitivo-di-manduria-rosato-nuova-doc-ruba-mercato-o-lo-crea/",
-        "pubDate": "2026-04-19T22:26:38+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Maisons du Monde al Fuorisalone 2026: “Moments of Joy” tra design e viaggio",
-        "description": "A Milano, per il Fuorisalone, il brand celebra 30 anni con un percorso immersivo che trasforma la casa in un viaggio tra culture e atmosfere.…",
-        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-al-fuorisalone-2026-moments-of-joy-tra-design-e-viaggio/250130/",
-        "pubDate": "2026-04-19T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "title": "Gianvito Rossi e Mytheresa hanno celebrato la loro partnership con un evento esclusivo nel cuore di Firenze",
+        "description": "Gianvito Rossi e Mytheresa hanno festeggiato la loro consolidata collaborazione con un evento speciale a Firenze, al quale noi di Grazia.it abbiamo avuto il pia…",
+        "link": "https://www.grazia.it/moda/news-moda/gianvito-rossi-e-mytheresa-hanno-celebrato-la-loro-partnership-con-un-evento-esclusivo-nel-cuore-di-firenze-966776",
+        "pubDate": "2026-04-20T18:48:04+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/gianvito-rossi-mytheresa.jpg",
         "cat": "Moda",
-        "source": "Stylosophy"
-      }
-    ],
-    "moda": [
+        "source": "Grazia"
+      },
       {
         "title": "Il borgo segreto d’Abruzzo che conquista tutti: premiato per natura e benessere",
         "description": "Premiato tra i Borghi più Belli d’Italia, Anversa degli Abruzzi si distingue per turismo sostenibile, inclusione e percorsi di benessere immersi nella natura.…",
@@ -345,27 +363,45 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/Senza-titolo-73.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "BTS, nel video “Hooligan” la moda è il vero statement",
-        "description": "“Hooligan”, il nuovo videoclip dei BTS &#8211; rilasciato l’8 aprile 2026 &#8211; irrompe sui social come una detonazione visiva: un immaginario dark, industria…",
-        "link": "https://www.grazia.it/moda/celebrity-style/bts-look-k-pop-video-hooligan-966179",
-        "pubDate": "2026-04-17T10:22:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/bts-desk.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Jeans + cardigan rosso + mocassini”: la formula magica salva-primavera da indossare ora (parola di Gigi Hadid!)",
-        "description": "Se anche voi, capita quasi ogni mattina di fissare il guardaroba e dire &#8220;Ma oggi cosa mi metto?&#8221;, tranquille, siete in ottima compagnia! Complice il…",
-        "link": "https://www.grazia.it/moda/get-the-look/jeans-cardigan-rosso-mocassini-gigi-hadid-versione-low-cost-zara-mango-ovs-966196",
-        "pubDate": "2026-04-17T07:30:23+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/gigi-hadid-maglione-rosso.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Che fine ha fatto il cigno, la pastarella che tutti volevano dopo il pranzo della domenica",
+        "description": "Tra panna, crema e pasta choux, il bignè a forma di cigno era il simbolo delle pasticcerie italiane: scenografico, delicato e impossibile da condividere, oggi è…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cigno-pasticcino-domenica-bigne-storia/",
+        "pubDate": "2026-04-21T07:46:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non è un formaggio (o meglio: non solo). Cos’è davvero la raclette",
+        "description": "Dalle Alpi svizzere al boom nei ristoranti europei: la raclette nasce come tecnica di sopravvivenza tra i pastori e diventa uno dei piatti più conviviali della …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/raclette-cos-e-origini-tecnica-formaggio/",
+        "pubDate": "2026-04-21T07:43:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questa birra nasce a Roma ma arriva dal Belgio (con un’uva spesso sottovalutata)",
+        "description": "Dal bancone del Ma Che Siete Venuti a Fà al birrificio Cantillon: la storia di una lambic speciale che unisce Roma e il Cesanese per celebrare 25 anni di rivolu…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/birra-cantillon-cesanese-roma-macche-colonna/",
+        "pubDate": "2026-04-21T07:34:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vinitaly in formato magnum: 10 assaggi strepitosi della gloriosa annata 2016",
+        "description": "La 2016 è sinonimo di straordinaria freschezza gustativa e grande potenziale evolutivo. Ecco 10 assaggi da magnum che hanno lasciato il segno…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-in-formato-magnum-10-assaggi-strepitosi-della-gloriosa-annata-2016/",
+        "pubDate": "2026-04-20T23:14:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "The Great Pizza Tour fa tappa a Caserta: come partecipare alla serata",
         "description": "Il The Great Pizza Tour fa tappa a Caserta, in un evento in cui appassionati e addetti ai lavori possono incontrarsi e confrontarsi, scoprendo e assaggiando le …",
@@ -392,15 +428,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Drone_01-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Turismo in distilleria, il settore si interroga su accoglienza e sviluppo",
-        "description": "Il turismo esperienziale legato alla distillazione sarà al centro del convegno «Turismo in distilleria e nei liquorifici: sfide e opportunità dell&#8217;accogli…",
-        "link": "https://www.winemag.it/turismo-distilleria-settore-si-interroga-su-accoglienza-sviluppo/",
-        "pubDate": "2026-04-20T12:08:56+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Piccole aziende vitivinicole sempre più fragili: la metà è esposta a pressioni finanziarie che ne ostacolano la crescita",
@@ -466,24 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Primitivo di Manduria Rosato, la “nuova Doc” ruba mercato. O lo crea?",
-        "description": "Primitivo di Manduria Rosato. Non una nuova Doc, ma una nuova tipologia che il Consorzio tutela vini pugliese ha chiesto al ministero di introdurre. Una mezza r…",
-        "link": "https://www.winemag.it/primitivo-di-manduria-rosato-nuova-doc-ruba-mercato-o-lo-crea/",
-        "pubDate": "2026-04-19T22:26:38+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "È morto Alessio Di Majo Norante, l’uomo che ha cambiato il destino del vino molisano",
-        "description": "Presente fino all’ultimo al Vinitaly, ha portato il Molise del vino nel mondo, dando nuova identità a tutto il territorio. Ci lascia a 63 anni…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/e-morto-alessio-di-majo-norante/",
-        "pubDate": "2026-04-19T15:25:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Turista vince causa per essersi ubriacata troppo con la tequila",
         "description": "Quindici shot di alcol sono costati cari alla compagnia di crociera Carnival dopo che una passeggera ha detto che nessuno la ha fermata. \nL'articolo Turista vin…",
         "link": "https://www.dissapore.com/notizie/turista-vince-causa-per-essersi-ubriacata-troppo-con-la-tequila/",
@@ -502,33 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Elisa D’Ospina: “Sono la regina degli sgarri. Il cibo spazzatura? Non bisogna demonizzarlo”",
-        "description": "Elisa D’Ospina racconta il suo rapporto con il cibo tra dieta, libertà e body positivity: dagli sgarri all’Ozempic, fino all’educazione alimentare…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/elisa-dospina-modella-curvy-intervista/",
-        "pubDate": "2026-04-19T07:10:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Porto esiste il caffè “di seconda mano”: costa meno ma è fatto con gli stessi fondi",
-        "description": "A Porto si beve il “carioca”, un espresso ottenuto riutilizzando i fondi di caffè: una tradizione nata per necessità che oggi racconta un’altra epoca…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caffe-carioca-porto-cos-e-fondi-usati/",
-        "pubDate": "2026-04-19T06:01:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sui Colli Tortonesi il nipote di Fausto Coppi fa uno dei migliori Timorasso sotto i 20 euro",
-        "description": "Vigne Marina Coppi, azienda guidata dal nipote dello storico campione di ciclismo, è una delle realtà più interessanti del territorio famoso per il \"rosso trave…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/timorasso-francesca-vigne-marina-coppi-sotto-20-euro/",
-        "pubDate": "2026-04-19T05:02:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La Nutella di arachidi è realtà, ed è la più grande novità di Ferrero dopo 60 anni",
         "description": "L'annuncio era stato fatto l'estate scorsa, e la promessa è stata mantenuta: Nutella Peanut parte negli USA, ma qualche barattolo è già stato avvistato in Itali…",
         "link": "https://www.dissapore.com/notizie/la-nutella-di-arachidi-e-realta-ed-e-la-piu-grande-novita-di-ferrero-dopo-60-anni/",
@@ -538,13 +520,31 @@
         "source": "Dissapore"
       },
       {
-        "title": "DryMilano rinnova il menù di primavera tra pizza d’autore e mixology internazionale",
-        "description": "Con l’arrivo della primavera, DryMilano aggiorna la propria proposta gastronomica puntando su ingredienti stagionali e nuove suggestioni botaniche. Il risultato…",
-        "link": "https://www.winemag.it/drymilano-rinnova-menu-primavera-pizza-autore-ixology-internazionale/",
-        "pubDate": "2026-04-18T10:38:25+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/04/DryMilano-rinnova-il-menu-di-primavera-tra-pizza-dautore-e-mixology-internazionale-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "In Italia abbiamo troppo pochi allevamenti di pesce?",
+        "description": "L'italia importa l'86% del pesce che consuma, eppure potremmo produrre molto più pesce di allevamento, anche per contrastare la crisi della pesca.\nL'articolo In…",
+        "link": "https://www.dissapore.com/notizie/in-italia-abbiamo-troppo-pochi-allevamenti-di-pesce/",
+        "pubDate": "2026-04-18T07:57:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/acquacoltura-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Come può cambiare l’agricoltura approfittando della guerra in Iran",
+        "description": "Abbiamo quindi scoperto quanto sia cruciale lo stretto di Hormuz per la nostra agricoltura. E potrebbe essere un assist, per passare ad altre coltivazioni, migl…",
+        "link": "https://www.dissapore.com/spesa/come-puo-cambiare-lagricoltura-approfittando-della-guerra-in-iran/",
+        "pubDate": "2026-04-18T06:21:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/shutterstock_1140569927-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Zohran Mamdani, sindaco di New York, sta davvero creando i supermercati pubblici",
+        "description": "Supermercati pubblici che forniscono ai cittadini cibo sano a prezzi calmierati: l'idea rivoluzionaria, ma mica poi tanto, del sindaco di New York Zohran Mamdan…",
+        "link": "https://www.dissapore.com/notizie/zohran-mamdani-sindaco-di-new-york-sta-davvero-creando-i-supermercati-pubblici/",
+        "pubDate": "2026-04-17T14:51:33+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Zohran-Mamdani-e.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
