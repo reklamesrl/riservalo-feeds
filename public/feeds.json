@@ -1,7 +1,124 @@
 {
-  "generated": "2026-04-23T07:55:28.273211+00:00",
+  "generated": "2026-04-23T13:44:51.704417+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Frutta realistica: cos’è, quanto costa e perché spesso delude",
+        "description": "Il trompe-l'œil in pasticceria è ovunque: gusci di cioccolato bianco a forma di mango, pistacchio, limone, con dentro mousse e gelée di frutta che costano un ca…",
+        "link": "https://www.dissapore.com/locali/frutta-realistica-come-si-fa-quanto-costa/",
+        "pubDate": "2026-04-23T13:18:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/frutta-realistica-Cedric-Grolet-libro-fruits.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Francia nel 2026 sono già fallite 83 aziende vitivinicole. Il Governo dà il via alla distillazione di crisi",
+        "description": "Il dipartimento della Gironda è tra i più colpiti dalle chiusure. Il piano di rilancio prevede 33 euro a ettolitro per chi distilla e una nuova campagna di esti…",
+        "link": "https://www.gamberorosso.it/notizie/vino/francia-crisi-vino-fallimenti-cantine-piano-distillazione-2026/",
+        "pubDate": "2026-04-23T11:01:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Crisi Terre d’Oltrepò? Un errore non ascoltare i produttori: serve un tavolo di confronto”. L’appello di Centinaio",
+        "description": "Il vicepresidente del Senato e produttore del Pavese interviene sulla situazione della coop lombarda e si dice pronto ad entrare nel Consorzio. Per il territori…",
+        "link": "https://www.gamberorosso.it/notizie/vino/salvataggio-terre-oltrepo-appello-centinaio/",
+        "pubDate": "2026-04-23T10:59:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mangiare pesce con i piedi nella sabbia: il ristorante che tutti cercano d’estate",
+        "description": "Tra cucina di mare solida, atmosfera senza tempo e tavoli sempre pieni, questo ristorante vicino a Roma è diventato negli anni un punto di riferimento per chi c…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dove-mangiare-pesce-sul-mare-piedi-nella-sabbia/",
+        "pubDate": "2026-04-23T10:39:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Se i supermercati italiani ci incentivano a comprare fragole spagnole",
+        "description": "Con il mercato delle fragole a basso costo stiamo inquinando troppo. Se quelle da serra spagnole costano un terzo rispetto alle italiane, le compriamo anche se …",
+        "link": "https://www.dissapore.com/spesa/se-i-supermercati-italiani-ci-incentivano-a-comprare-fragole-spagnole/",
+        "pubDate": "2026-04-23T10:32:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/fragole-spagnole-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Non è una salsiccia né un hamburger: il pastin, la carne delle Dolomiti che pochi conoscono",
+        "description": "Dalle origini contadine alla griglia delle sagre: il pastin è una preparazione di carne tipica del Bellunese, tramandata da secoli e ancora poco conosciuta fuor…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastin-bellunese-cos-e-carne-dolomiti/",
+        "pubDate": "2026-04-23T09:50:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Debiti finanziari per 80 milioni di euro: Zonin1821 cambia Ad e tenta la carta della composizione negoziata della crisi",
+        "description": "Ad occuparsi del piano di rilancio sarà Maurizio Rossetti, che punta sulla \"razionalizzazione delle strutture produttive\". Non si possono escludere nuove cessio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/debiti-finanziari-crisi-zonin1821-piano-risanamento/",
+        "pubDate": "2026-04-23T09:49:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nessuno può chiamarsi MC: McDonald’s vince contro una piccola azienda pugliese",
+        "description": "McDonald's fa causa a una piccola panineria pugliese, e non è la prima volta. \nL'articolo Nessuno può chiamarsi MC: McDonald&#8217;s vince contro una piccola az…",
+        "link": "https://www.dissapore.com/notizie/nessuno-puo-chiamarsi-mc-mcdonalds-vince-contro-una-piccola-azienda-pugliese/",
+        "pubDate": "2026-04-23T09:41:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/McDonalds.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I balsami labbra colorati per un booster di idratazione e colore",
+        "description": "Perfetti per idratare le labbra definendole in un pochissimi secondi, questi balsami colorati sono un must da avere nel beauty case. Ecco i più belli da non per…",
+        "link": "https://www.stylosophy.it/articolo/i-balsami-labbra-colorati-per-un-booster-di-idratazione-e-colore/250212/",
+        "pubDate": "2026-04-23T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Gonne lunghe? Il trend senza sforzo più amato in primavera",
+        "description": "Ancora non vi siete stancate delle gonne lunghe? Bene, perché queste continuano a essere una presenza imprescindibile nel guardaroba moderno. Versatili, elegant…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-lunghe-moda-donna-primavera-2026-967091",
+        "pubDate": "2026-04-23T09:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/ok-apertura-gonne2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Il sindaco di Varallo è stato pure troppo buono con la trattoria fascista che sbeffeggiava il 25 aprile",
+        "description": "La vicenda della trattoria di Varallo Sesia, la cui inaugurazione il 25 aprile è stata impedita dal sindaco, ci insegna che la madre dei gestori fascisti è semp…",
+        "link": "https://www.dissapore.com/notizie/il-sindaco-di-varallo-e-stato-pure-troppo-buono-con-la-trattoria-fascista-che-sbeffeggiava-il-25-aprile/",
+        "pubDate": "2026-04-23T08:09:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/09/Hosteria-Di-padre-in-figlio-e1726472791815.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Al bar mi sento giudicato”: perché le caffetterie specialty stanno allontanando i clienti",
+        "description": "Non è la qualità del caffè il problema, ma l’esperienza: tra rigidità, linguaggi complicati e poca accoglienza, sempre più clienti si allontanano dai bar specia…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caffetterie-specialty-clienti-allontanano-bar/",
+        "pubDate": "2026-04-23T08:02:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le 6 migliori Falanghina del Sannio sotto i 15 euro",
+        "description": "Prodotte da cantine ormai punto di riferimento della denominazione o da realtà più recenti, le Falanghina del Sannio che abbiamo selezionato uniscono a un ottim…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/lmigliori-falanghina-sannio-sotto-15-euro/",
+        "pubDate": "2026-04-23T08:01:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Chebakia: il dolce del Ramadan che ricorda le cartellate pugliesi",
         "description": "Un dolce intrecciato, fritto e immerso nel miele rivela una grammatica comune tra Marocco, Italia e Grecia…",
@@ -64,126 +181,27 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/maddalena-ai-vernagli.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Millefoglie e cornetti: a Parigi tutti fanno la fila per questo pasticcere",
-        "description": "Non è Cédric Grolet, ma il suo ex braccio destro al ristorante di Alain Ducasse: Maxime Frédéric, che è oggi uno dei nomi più richiesti dell’alta pasticceria fr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/maxime-frederic-pasticcere-parigi-millefoglie-cornetti/",
-        "pubDate": "2026-04-22T15:12:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come indossare lo slip dress anche in pieno giorno? Come Dakota Johnson, con ballerine e maglione sulle spalle",
-        "description": "È uno dei grandi must del guardaroba estivo e in questo periodo dell’anno diventa il perfetto alleato in vista di matrimoni, cerimonie e altre occasioni special…",
-        "link": "https://www.grazia.it/moda/get-the-look/come-indossare-lo-slip-dress-abito-sottoveste-satin-seta-dakota-johnson-get-the-look-celebrity-style-967244",
-        "pubDate": "2026-04-22T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Dakota_Johnson.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La liquid revolution sta conquistando la ristorazione: ecco come cambia la proposta beverage",
-        "description": "Cresce la richiesta delle cosiddette bevande moderne con benefici funzionali e con basso o nullo contenuto alcolico. Secondo Circana, in Italia già il 15% delle…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/liquid-revolution-bevande-ristorazione-analisi-circana-2026/",
-        "pubDate": "2026-04-22T14:41:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Salviamo Ronco della Chiesa”. L’appello dei viticoltori per tutelare il vigneto del Collio colpito dall’alluvione",
-        "description": "Da Vinitaly un gruppo di produttori da tutta Italia scrive al presidente Fedriga per chiedere di mettere in sicurezza le colline friulane senza compromettere il…",
-        "link": "https://www.gamberorosso.it/notizie/vino/ronco-della-chiesa-appello-viticoltori-collio/",
-        "pubDate": "2026-04-22T13:49:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è la salsa bolzanina e perché in Alto Adige la mettono su tutto",
-        "description": "Uova sode, senape ed erba cipollina: la salsa bolzanina è il condimento simbolo della primavera in Alto Adige, perfetto con gli asparagi bianchi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/salsa-bolzanina-cos-e-ricetta-asparagi-alto-adige/",
-        "pubDate": "2026-04-22T13:41:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Più soldi al marketing che ai sentieri”: polemica alle Eolie sul progetto turismo",
-        "description": "Fondi per app, campagne digitali e promozione, mentre molti sentieri restano in condizioni critiche: la protesta degli abitanti delle Eolie…",
-        "link": "https://www.gamberorosso.it/attualita/piu-soldi-al-marketing-che-ai-sentieri-polemica-alle-eolie-sul-progetto-turismo/",
-        "pubDate": "2026-04-22T13:32:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Code infinite per una gelateria di 90 anni: a Milano tutti vogliono questo affogato",
-        "description": "Tra video virali su TikTok e code fuori dalla porta, l’affogato di Umberto 1934 è diventato un piccolo caso a Milano. Ma la storia parte da lontano…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/affogato-milano-code-gelateria-umberto-1934/",
-        "pubDate": "2026-04-22T13:16:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Giulia De Lellis, con il completo must di super tendenza per questa stagione FOTO",
-        "description": "Per questa stagione, Giulia De Lellis ha scelto un completo giacca pantaloni elegante, pratico e versatile che non rinuncia a quel tocco glamour che non può mai…",
-        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-con-il-completo-must-di-super-tendenza-per-questa-stagione-foto/250193/",
-        "pubDate": "2026-04-22T13:00:00+00:00",
+        "title": "I balsami labbra colorati per un booster di idratazione e colore",
+        "description": "Perfetti per idratare le labbra definendole in un pochissimi secondi, questi balsami colorati sono un must da avere nel beauty case. Ecco i più belli da non per…",
+        "link": "https://www.stylosophy.it/articolo/i-balsami-labbra-colorati-per-un-booster-di-idratazione-e-colore/250212/",
+        "pubDate": "2026-04-23T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Enoturismo, leva strategica per il vino italiano: Sicilia protagonista tra crescita e sfide globali",
-        "description": "L’enoturismo si consolida come asset strategico per le imprese vinicole italiane. In uno scenario internazionale complesso, il comparto trova in questa leva nuo…",
-        "link": "https://www.winemag.it/enoturismo-leva-strategica-per-il-vino-italiano-sicilia-protagonista-tra-crescita-e-sfide-globali/",
-        "pubDate": "2026-04-22T12:04:39+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Gonne lunghe? Il trend senza sforzo più amato in primavera",
+        "description": "Ancora non vi siete stancate delle gonne lunghe? Bene, perché queste continuano a essere una presenza imprescindibile nel guardaroba moderno. Versatili, elegant…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-lunghe-moda-donna-primavera-2026-967091",
+        "pubDate": "2026-04-23T09:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/ok-apertura-gonne2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "I migliori tonni artigianali in scatola: la classifica",
-        "description": "Dalla specie all’olio, fino alla lavorazione: cosa distingue davvero un grande tonno in scatola e quali sono i migliori secondo la nostra degustazione…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-tonni-artigianali-scatola-classifica/",
-        "pubDate": "2026-04-22T11:47:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Sabato del Vignaiolo 2026 diventa diffuso: eventi in tutti i sabati di maggio",
-        "description": "Torna Il Sabato del Vignaiolo, l’appuntamento annuale promosso dalla FIVI – Federazione Italiana Vignaioli Indipendenti, con il sostegno di Crédit Agricole. L’e…",
-        "link": "https://www.winemag.it/il-sabato-del-vignaiolo-2026-diventa-diffuso-eventi-tutti-sabati-maggio/",
-        "pubDate": "2026-04-22T11:31:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Uno studio dimostra che il kimchi difende il corpo dalle nanoplastiche",
-        "description": "Un batterio lattico presente nel kimchi (e forse non in altri fermentati) si lega alla plastica nel corpo e ce la fa espellere andando in bagno.\nL'articolo Uno …",
-        "link": "https://www.dissapore.com/notizie/uno-studio-dimostra-che-il-kimchi-difende-il-corpo-dalle-nanoplastiche/",
-        "pubDate": "2026-04-22T10:06:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/preparazione-kimchi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Quando a Roma si assaltavano i forni per il pane: la rivolta delle donne nel 1944",
-        "description": "Nella primavera del 1944, durante l’occupazione nazista, la fame spinse le donne romane a protestare e assaltare i forni: una pagina poco raccontata della Resis…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/roma-1944-pane-rivolta-donne-forni-resistenza/",
-        "pubDate": "2026-04-22T09:03:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Denim attitude: la camicia di jeans è il passe-partout per la primavera",
         "description": "A tutto denim! E le camicie in particolare sono uno di quei capi che non hanno bisogno di presentazioni: entrano in punta di piedi nel guardaroba e finiscono pe…",
@@ -320,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "“Il Diavolo veste Prada 2”: i look delle protagoniste alla première mondiale di New York",
-        "description": "Il conto alla rovescia è ufficialmente iniziato: tra poco più di una settimana “Il Diavolo veste Prada 2” arriverà nelle sale e per l’occasione ieri sera il cas…",
-        "link": "https://www.grazia.it/moda/celebrity-style/il-diavolo-veste-prada-2-red-carpet-prima-mondiale-new-york-miranda-andy-emily-nigel-look-966822",
-        "pubDate": "2026-04-21T07:18:22+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Diavolo_Veste_prada_2_new_york.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Il borgo segreto d’Abruzzo che conquista tutti: premiato per natura e benessere",
         "description": "Premiato tra i Borghi più Belli d’Italia, Anversa degli Abruzzi si distingue per turismo sostenibile, inclusione e percorsi di benessere immersi nella natura.…",
         "link": "https://www.stylosophy.it/articolo/il-borgo-segreto-dabruzzo-che-conquista-tutti-premiato-per-natura-e-benessere/250167/",
@@ -354,18 +363,108 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Maisons du Monde al Fuorisalone 2026: “Moments of Joy” tra design e viaggio",
-        "description": "A Milano, per il Fuorisalone, il brand celebra 30 anni con un percorso immersivo che trasforma la casa in un viaggio tra culture e atmosfere.…",
-        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-al-fuorisalone-2026-moments-of-joy-tra-design-e-viaggio/250130/",
-        "pubDate": "2026-04-19T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Frutta realistica: cos’è, quanto costa e perché spesso delude",
+        "description": "Il trompe-l'œil in pasticceria è ovunque: gusci di cioccolato bianco a forma di mango, pistacchio, limone, con dentro mousse e gelée di frutta che costano un ca…",
+        "link": "https://www.dissapore.com/locali/frutta-realistica-come-si-fa-quanto-costa/",
+        "pubDate": "2026-04-23T13:18:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/frutta-realistica-Cedric-Grolet-libro-fruits.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Francia nel 2026 sono già fallite 83 aziende vitivinicole. Il Governo dà il via alla distillazione di crisi",
+        "description": "Il dipartimento della Gironda è tra i più colpiti dalle chiusure. Il piano di rilancio prevede 33 euro a ettolitro per chi distilla e una nuova campagna di esti…",
+        "link": "https://www.gamberorosso.it/notizie/vino/francia-crisi-vino-fallimenti-cantine-piano-distillazione-2026/",
+        "pubDate": "2026-04-23T11:01:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Crisi Terre d’Oltrepò? Un errore non ascoltare i produttori: serve un tavolo di confronto”. L’appello di Centinaio",
+        "description": "Il vicepresidente del Senato e produttore del Pavese interviene sulla situazione della coop lombarda e si dice pronto ad entrare nel Consorzio. Per il territori…",
+        "link": "https://www.gamberorosso.it/notizie/vino/salvataggio-terre-oltrepo-appello-centinaio/",
+        "pubDate": "2026-04-23T10:59:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mangiare pesce con i piedi nella sabbia: il ristorante che tutti cercano d’estate",
+        "description": "Tra cucina di mare solida, atmosfera senza tempo e tavoli sempre pieni, questo ristorante vicino a Roma è diventato negli anni un punto di riferimento per chi c…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dove-mangiare-pesce-sul-mare-piedi-nella-sabbia/",
+        "pubDate": "2026-04-23T10:39:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Se i supermercati italiani ci incentivano a comprare fragole spagnole",
+        "description": "Con il mercato delle fragole a basso costo stiamo inquinando troppo. Se quelle da serra spagnole costano un terzo rispetto alle italiane, le compriamo anche se …",
+        "link": "https://www.dissapore.com/spesa/se-i-supermercati-italiani-ci-incentivano-a-comprare-fragole-spagnole/",
+        "pubDate": "2026-04-23T10:32:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/fragole-spagnole-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Non è una salsiccia né un hamburger: il pastin, la carne delle Dolomiti che pochi conoscono",
+        "description": "Dalle origini contadine alla griglia delle sagre: il pastin è una preparazione di carne tipica del Bellunese, tramandata da secoli e ancora poco conosciuta fuor…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastin-bellunese-cos-e-carne-dolomiti/",
+        "pubDate": "2026-04-23T09:50:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Debiti finanziari per 80 milioni di euro: Zonin1821 cambia Ad e tenta la carta della composizione negoziata della crisi",
+        "description": "Ad occuparsi del piano di rilancio sarà Maurizio Rossetti, che punta sulla \"razionalizzazione delle strutture produttive\". Non si possono escludere nuove cessio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/debiti-finanziari-crisi-zonin1821-piano-risanamento/",
+        "pubDate": "2026-04-23T09:49:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nessuno può chiamarsi MC: McDonald’s vince contro una piccola azienda pugliese",
+        "description": "McDonald's fa causa a una piccola panineria pugliese, e non è la prima volta. \nL'articolo Nessuno può chiamarsi MC: McDonald&#8217;s vince contro una piccola az…",
+        "link": "https://www.dissapore.com/notizie/nessuno-puo-chiamarsi-mc-mcdonalds-vince-contro-una-piccola-azienda-pugliese/",
+        "pubDate": "2026-04-23T09:41:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/McDonalds.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il sindaco di Varallo è stato pure troppo buono con la trattoria fascista che sbeffeggiava il 25 aprile",
+        "description": "La vicenda della trattoria di Varallo Sesia, la cui inaugurazione il 25 aprile è stata impedita dal sindaco, ci insegna che la madre dei gestori fascisti è semp…",
+        "link": "https://www.dissapore.com/notizie/il-sindaco-di-varallo-e-stato-pure-troppo-buono-con-la-trattoria-fascista-che-sbeffeggiava-il-25-aprile/",
+        "pubDate": "2026-04-23T08:09:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/09/Hosteria-Di-padre-in-figlio-e1726472791815.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Al bar mi sento giudicato”: perché le caffetterie specialty stanno allontanando i clienti",
+        "description": "Non è la qualità del caffè il problema, ma l’esperienza: tra rigidità, linguaggi complicati e poca accoglienza, sempre più clienti si allontanano dai bar specia…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caffetterie-specialty-clienti-allontanano-bar/",
+        "pubDate": "2026-04-23T08:02:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le 6 migliori Falanghina del Sannio sotto i 15 euro",
+        "description": "Prodotte da cantine ormai punto di riferimento della denominazione o da realtà più recenti, le Falanghina del Sannio che abbiamo selezionato uniscono a un ottim…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/lmigliori-falanghina-sannio-sotto-15-euro/",
+        "pubDate": "2026-04-23T08:01:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Chebakia: il dolce del Ramadan che ricorda le cartellate pugliesi",
         "description": "Un dolce intrecciato, fritto e immerso nel miele rivela una grammatica comune tra Marocco, Italia e Grecia…",
@@ -412,51 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "La liquid revolution sta conquistando la ristorazione: ecco come cambia la proposta beverage",
-        "description": "Cresce la richiesta delle cosiddette bevande moderne con benefici funzionali e con basso o nullo contenuto alcolico. Secondo Circana, in Italia già il 15% delle…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/liquid-revolution-bevande-ristorazione-analisi-circana-2026/",
-        "pubDate": "2026-04-22T14:41:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Salviamo Ronco della Chiesa”. L’appello dei viticoltori per tutelare il vigneto del Collio colpito dall’alluvione",
-        "description": "Da Vinitaly un gruppo di produttori da tutta Italia scrive al presidente Fedriga per chiedere di mettere in sicurezza le colline friulane senza compromettere il…",
-        "link": "https://www.gamberorosso.it/notizie/vino/ronco-della-chiesa-appello-viticoltori-collio/",
-        "pubDate": "2026-04-22T13:49:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è la salsa bolzanina e perché in Alto Adige la mettono su tutto",
-        "description": "Uova sode, senape ed erba cipollina: la salsa bolzanina è il condimento simbolo della primavera in Alto Adige, perfetto con gli asparagi bianchi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/salsa-bolzanina-cos-e-ricetta-asparagi-alto-adige/",
-        "pubDate": "2026-04-22T13:41:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Più soldi al marketing che ai sentieri”: polemica alle Eolie sul progetto turismo",
-        "description": "Fondi per app, campagne digitali e promozione, mentre molti sentieri restano in condizioni critiche: la protesta degli abitanti delle Eolie…",
-        "link": "https://www.gamberorosso.it/attualita/piu-soldi-al-marketing-che-ai-sentieri-polemica-alle-eolie-sul-progetto-turismo/",
-        "pubDate": "2026-04-22T13:32:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Code infinite per una gelateria di 90 anni: a Milano tutti vogliono questo affogato",
-        "description": "Tra video virali su TikTok e code fuori dalla porta, l’affogato di Umberto 1934 è diventato un piccolo caso a Milano. Ma la storia parte da lontano…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/affogato-milano-code-gelateria-umberto-1934/",
-        "pubDate": "2026-04-22T13:16:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Enoturismo, leva strategica per il vino italiano: Sicilia protagonista tra crescita e sfide globali",
         "description": "L’enoturismo si consolida come asset strategico per le imprese vinicole italiane. In uno scenario internazionale complesso, il comparto trova in questa leva nuo…",
         "link": "https://www.winemag.it/enoturismo-leva-strategica-per-il-vino-italiano-sicilia-protagonista-tra-crescita-e-sfide-globali/",
@@ -464,15 +518,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "I migliori tonni artigianali in scatola: la classifica",
-        "description": "Dalla specie all’olio, fino alla lavorazione: cosa distingue davvero un grande tonno in scatola e quali sono i migliori secondo la nostra degustazione…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-tonni-artigianali-scatola-classifica/",
-        "pubDate": "2026-04-22T11:47:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Il Sabato del Vignaiolo 2026 diventa diffuso: eventi in tutti i sabati di maggio",
@@ -493,56 +538,11 @@
         "source": "Dissapore"
       },
       {
-        "title": "Quando a Roma si assaltavano i forni per il pane: la rivolta delle donne nel 1944",
-        "description": "Nella primavera del 1944, durante l’occupazione nazista, la fame spinse le donne romane a protestare e assaltare i forni: una pagina poco raccontata della Resis…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/roma-1944-pane-rivolta-donne-forni-resistenza/",
-        "pubDate": "2026-04-22T09:03:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Ristoratori: invece di fare reel stupidi, fateci vedere un po’ di cibo",
         "description": "Instagram e Tik Tok si riempiono di contenuti dove i ristoratori mettono in ridicolo loro stessi e la loro attività: è davvero il caso? \nL'articolo Ristoratori:…",
         "link": "https://www.dissapore.com/ristoranti/ristoratori-invece-di-fare-reel-stupidi-fateci-vedere-un-po-di-cibo/",
         "pubDate": "2026-04-22T08:13:54+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/ChatGPT-Image-22-apr-2026-09_35_12.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Non è vero che abbiamo meno soldi per il cibo, abbiamo solo cambiato le priorità",
-        "description": "Quale porzione del budget familiare destiniamo oggi alle spese alimentari? La risposta è una cifra diametralmente opposta rispetto a quella di trent'anni fa. \nL…",
-        "link": "https://www.dissapore.com/notizie/non-e-vero-che-abbiamo-meno-soldi-per-il-cibo-abbiamo-solo-cambiato-le-priorita/",
-        "pubDate": "2026-04-21T14:45:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/carrello-spesa-cover.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Tavuk Göğsü: com’è il dolce turco a base di petto di pollo",
-        "description": "Abbiamo provato il Tavuk Göğsü, tipico dolce turco dalla storia antichissima e dagli ingredienti peculiari.\nL'articolo Tavuk Göğsü: com’è il dolce turco a base …",
-        "link": "https://www.dissapore.com/cucina/tavuk-gogsu-come-il-dolce-turco-a-base-di-petto-di-pollo/",
-        "pubDate": "2026-04-21T13:51:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/tavuk-vari-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Scegliamo il cibo per il packaging, anche se non arriviamo alla fine del mese",
-        "description": "Una recente ricerca segnala come l'attenzione al packaging sostenibile interessi una grande fetta di italiani, ma c'è ancora tanta strada da fare.\nL'articolo Sc…",
-        "link": "https://www.dissapore.com/spesa/scegliamo-il-cibo-per-il-packaging-anche-se-non-arriviamo-alla-fine-del-mese/",
-        "pubDate": "2026-04-21T12:13:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/packaging-verdura-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Siamo disposti a pagare di più per un cibo biologico o per uno funzionale?",
-        "description": "Il mercato del cibo salutistico sale a ritmi vertiginosi, e spesso lascia indietro la certificazione biologica, per motivi economici ma non solo.\nL'articolo Sia…",
-        "link": "https://www.dissapore.com/spesa/siamo-disposti-a-pagare-di-piu-per-un-cibo-biologico-o-per-uno-funzionale/",
-        "pubDate": "2026-04-21T09:37:35+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/supermercato-biologico-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
