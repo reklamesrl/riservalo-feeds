@@ -1,7 +1,88 @@
 {
-  "generated": "2026-04-23T13:44:51.704417+00:00",
+  "generated": "2026-04-23T19:10:45.007734+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "IKEA rivoluziona il Fuorisalone 2026: l’esperienza immersiva che tutti vorranno vivere questo weekend",
+        "description": "A Milano, nello Spazio Maiocchi, IKEA firma un percorso immersivo che unisce cucina e progetto. Una guida utile oggi, 23 aprile, in vista del grande afflusso de…",
+        "link": "https://www.stylosophy.it/articolo/ikea-rivoluziona-il-fuorisalone-2026-lesperienza-immersiva-che-tutti-vorranno-vivere-questo-weekend/250237/",
+        "pubDate": "2026-04-23T17:00:32+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La cara vecchia Europa è il porto sicuro del vino italiano: frena lo sfuso, volano le bollicine",
+        "description": "Dal 2019 si registra una crescita doppia dell'export rispetto all'extra Ue e un incremento del prezzo medio. A ridare vigore al prodotto italiano concorre il mi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/export-2025-vino-italiano-europa-porto-sicuro/",
+        "pubDate": "2026-04-23T16:33:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’era una volta il vino Vesuvium. Ecco quello che sappiamo sulla viticoltura dell’antica Pompei",
+        "description": "La grande città distrutta dall'eruzione del vulcano ha passato varie fasi storiche, da quella etrusca al periodo romano, ma si è sempre dedicata alla coltivazio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-vesuvium-viticoltura-pompei-antica/",
+        "pubDate": "2026-04-23T16:05:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“L’Etna sta cambiando: ecco perché ho deciso di investire”. Frescobaldi acquista i vigneti di Moretti Cuseri",
+        "description": "Si tratta di sette ettari limitrofi a Tenuta delle Terre Nere, comprata lo scorso anno: non sarà un brand autonomo, ma ne nascerà un cru aziendale. Intanto la M…",
+        "link": "https://www.gamberorosso.it/notizie/vino/etna-frescobaldi-acquisizioni-vigneti-santo-spirito-moretti-cuseri/",
+        "pubDate": "2026-04-23T15:42:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sherbeth 2026: i 59 gelatieri selezionati dall’Italia e dal mondo",
+        "description": "Appena svelati, ecco i nomi dei 59 gelatieri artigiani (provenienti da 6 continenti) che faranno assaggiare le loro creazioni durante il prossimo Sherbeth 2026.…",
+        "link": "https://www.dissapore.com/locali/sherbeth-2026-i-59-gelatieri-selezionati-dallitalia-e-dal-mondo/",
+        "pubDate": "2026-04-23T15:23:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/sherbeth-2026.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Chiara Ferragni alla première de Il Diavolo veste Prada 2: look audace firmato Francesco Murano",
+        "description": "Sul red carpet londinese del sequel cult, l’imprenditrice sfoggia un abito sensuale e contemporaneo. Una scelta stilistica che segna un nuovo capitolo pubblico.…",
+        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-alla-premiere-de-il-diavolo-veste-prada-2-look-audace-firmato-francesco-murano/250232/",
+        "pubDate": "2026-04-23T14:59:37+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La Russia pronta a imporre nuovi dazi sugli alcolici provenienti dai “Paesi ostili” (Italia inclusa)",
+        "description": "Da maggio sono previsti incrementi da 3 a 5 euro per litro di alcol puro. Analisti e importatori in allarme: si rischia aumento dei prezzi e forte diminuzione d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/russia-dazi-alcol-paesi-ostili/",
+        "pubDate": "2026-04-23T14:23:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I vigneti (nonostante tutto) restano tra gli asset alternativi più solidi su cui investire",
+        "description": "Secondo il Wealth Report 2026 di Knight Frank, la domanda resta vivace soprattutto nelle aree dove l’offerta è limitata e il valore è sostenuto da provenienza e…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vigneti-investimenti-report-2026-knight-frank/",
+        "pubDate": "2026-04-23T14:16:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Ordini di vino bloccati e aumento dei costi: le cantine stanno già pagando i danni della guerra”. L’allarme Uiv",
+        "description": "L'associazione guidata da Lamberto Frescobaldi chiede al Governo risposte urgenti. Secondo i calcoli dell'Osservatorio, il solo aumento del costo di vetro, cart…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/guerra-iran-danni-cantine-italiane-ordini-vini/",
+        "pubDate": "2026-04-23T13:49:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Frutta realistica: cos’è, quanto costa e perché spesso delude",
         "description": "Il trompe-l'œil in pasticceria è ovunque: gusci di cioccolato bianco a forma di mango, pistacchio, limone, con dentro mousse e gelée di frutta che costano un ca…",
@@ -10,6 +91,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/frutta-realistica-Cedric-Grolet-libro-fruits.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Giallo burro? No, grazie! Questa primavera noi puntiamo tutto sul “Chartreuse”",
+        "description": "Ricordate il giallo burro, quella sfumatura di giallo tenue e delicata che fino alla scorsa stagione svettava in cima alla lista dei colori di tendenza della pr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/chartreuse-giallo-colore-tendenza-primavera-prada-valentino-donna-967529",
+        "pubDate": "2026-04-23T13:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Chartreuse.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "In Francia nel 2026 sono già fallite 83 aziende vitivinicole. Il Governo dà il via alla distillazione di crisi",
@@ -57,15 +147,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Debiti finanziari per 80 milioni di euro: Zonin1821 cambia Ad e tenta la carta della composizione negoziata della crisi",
-        "description": "Ad occuparsi del piano di rilancio sarà Maurizio Rossetti, che punta sulla \"razionalizzazione delle strutture produttive\". Non si possono escludere nuove cessio…",
-        "link": "https://www.gamberorosso.it/notizie/vino/debiti-finanziari-crisi-zonin1821-piano-risanamento/",
-        "pubDate": "2026-04-23T09:49:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Nessuno può chiamarsi MC: McDonald’s vince contro una piccola azienda pugliese",
         "description": "McDonald's fa causa a una piccola panineria pugliese, e non è la prima volta. \nL'articolo Nessuno può chiamarsi MC: McDonald&#8217;s vince contro una piccola az…",
         "link": "https://www.dissapore.com/notizie/nessuno-puo-chiamarsi-mc-mcdonalds-vince-contro-una-piccola-azienda-pugliese/",
@@ -100,90 +181,36 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/09/Hosteria-Di-padre-in-figlio-e1726472791815.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "“Al bar mi sento giudicato”: perché le caffetterie specialty stanno allontanando i clienti",
-        "description": "Non è la qualità del caffè il problema, ma l’esperienza: tra rigidità, linguaggi complicati e poca accoglienza, sempre più clienti si allontanano dai bar specia…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caffetterie-specialty-clienti-allontanano-bar/",
-        "pubDate": "2026-04-23T08:02:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le 6 migliori Falanghina del Sannio sotto i 15 euro",
-        "description": "Prodotte da cantine ormai punto di riferimento della denominazione o da realtà più recenti, le Falanghina del Sannio che abbiamo selezionato uniscono a un ottim…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/lmigliori-falanghina-sannio-sotto-15-euro/",
-        "pubDate": "2026-04-23T08:01:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chebakia: il dolce del Ramadan che ricorda le cartellate pugliesi",
-        "description": "Un dolce intrecciato, fritto e immerso nel miele rivela una grammatica comune tra Marocco, Italia e Grecia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dolce-marocchino-chebakia-cartellate-mediterraneo/",
-        "pubDate": "2026-04-23T07:52:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Moscato di Canelli punta sui cru. Ecco la nuova mappa vitivinicola con 186 unità geografiche",
-        "description": "Un racconto dettagliato collina per collina, curato da Enogea, che servirà a sommelier, ristoratori e comunicatori del vino per scoprire e spiegare differenze e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/moscato-canelli-cru-nuova-mappa-vitivinicola-unita-geografiche/",
-        "pubDate": "2026-04-23T06:05:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Denim attitude: la camicia di jeans è il passe-partout per la primavera",
-        "description": "A tutto denim! E le camicie in particolare sono uno di quei capi che non hanno bisogno di presentazioni: entrano in punta di piedi nel guardaroba e finiscono pe…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/camicie-di-jeans-modelli-e-come-indossarle-967015",
-        "pubDate": "2026-04-23T06:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/ok-aperura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Weekend al mare: gli essenziali da mettere in valigia",
-        "description": "È vero, l’estate è ancora lontana e dobbiamo ancora pazientare un pochino prima di poterci finalmente godere le nostre meritate ferie.&#160; Ma ora che la prima…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/valigia-weekend-al-mare-cosa-portare-lista-due-giorni-in-spiaggia-cosa-indossare-966947",
-        "pubDate": "2026-04-23T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_weekendalmare.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "25 Aprile nei Borghi di Mare più belli d’Italia: mete da nord a sud per un weekend perfetto",
-        "description": "Dal nord al sud, un itinerario tra i borghi di mare più affascinanti d’Italia per il ponte del 25 aprile, tra paesaggi, tradizioni e consigli utili di viaggio.…",
-        "link": "https://www.stylosophy.it/articolo/25-aprile-nei-borghi-di-mare-piu-belli-ditalia-mete-da-nord-a-sud/250201/",
-        "pubDate": "2026-04-22T17:08:32+00:00",
+        "title": "IKEA rivoluziona il Fuorisalone 2026: l’esperienza immersiva che tutti vorranno vivere questo weekend",
+        "description": "A Milano, nello Spazio Maiocchi, IKEA firma un percorso immersivo che unisce cucina e progetto. Una guida utile oggi, 23 aprile, in vista del grande afflusso de…",
+        "link": "https://www.stylosophy.it/articolo/ikea-rivoluziona-il-fuorisalone-2026-lesperienza-immersiva-che-tutti-vorranno-vivere-questo-weekend/250237/",
+        "pubDate": "2026-04-23T17:00:32+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "L’UE dice stop al greenwashing nel vino",
-        "description": "L'Unione europea si è accorta che beviamo quasi solo vino sostenibile senza sapere cosa sia, e che il termine \"naturale\" ha preso il sopravvento pur non avendo …",
-        "link": "https://www.dissapore.com/bere/lue-dice-stop-al-greenwashing-nel-vino/",
-        "pubDate": "2026-04-22T16:23:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/08/Bottiglie-plastica-acqua-minerale-e1756290917576.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "Chiara Ferragni alla première de Il Diavolo veste Prada 2: look audace firmato Francesco Murano",
+        "description": "Sul red carpet londinese del sequel cult, l’imprenditrice sfoggia un abito sensuale e contemporaneo. Una scelta stilistica che segna un nuovo capitolo pubblico.…",
+        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-alla-premiere-de-il-diavolo-veste-prada-2-look-audace-firmato-francesco-murano/250232/",
+        "pubDate": "2026-04-23T14:59:37+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "Tra Piemonte e Liguria è nato il cammino della Maddalena, dove provare il piacere della complessità (gastronomica e non)",
-        "description": "Un viaggio interessante tra monumenti religiosi, percorsi di trekking naturalistico e l'inevitabile gastronomia, in zone che ne sono molto ricche.\nL'articolo Tr…",
-        "link": "https://www.dissapore.com/notizie/tra-piemonte-e-liguria-e-nato-il-cammino-della-maddalena-dove-provare-il-piacere-della-complessita-gastronomica-e-non/",
-        "pubDate": "2026-04-22T15:17:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/maddalena-ai-vernagli.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
+        "title": "Giallo burro? No, grazie! Questa primavera noi puntiamo tutto sul “Chartreuse”",
+        "description": "Ricordate il giallo burro, quella sfumatura di giallo tenue e delicata che fino alla scorsa stagione svettava in cima alla lista dei colori di tendenza della pr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/chartreuse-giallo-colore-tendenza-primavera-prada-valentino-donna-967529",
+        "pubDate": "2026-04-23T13:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Chartreuse.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "I balsami labbra colorati per un booster di idratazione e colore",
         "description": "Perfetti per idratare le labbra definendole in un pochissimi secondi, questi balsami colorati sono un must da avere nel beauty case. Ecco i più belli da non per…",
@@ -329,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Laila Gohar e ARKET: una giostra di verdure per lanciare la nuova capsule collection",
-        "description": "Stupore, ironia e un pizzico di magia che si può trovare nella vita di tutti i giorni. Le opere dell&#8217;artista Laila Gohar, meglio conosciuta su Instagram c…",
-        "link": "https://www.grazia.it/moda/news-moda/laila-gohar-arket-collezione-giostra-966833",
-        "pubDate": "2026-04-21T07:55:38+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/Hero-Laila.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Il borgo segreto d’Abruzzo che conquista tutti: premiato per natura e benessere",
         "description": "Premiato tra i Borghi più Belli d’Italia, Anversa degli Abruzzi si distingue per turismo sostenibile, inclusione e percorsi di benessere immersi nella natura.…",
         "link": "https://www.stylosophy.it/articolo/il-borgo-segreto-dabruzzo-che-conquista-tutti-premiato-per-natura-e-benessere/250167/",
@@ -345,27 +363,72 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Diletta Leotta, gli scatti in bianco e nero con il pancino in bella vista: FOTO",
-        "description": "Diletta Leotta nelle ultime ore ha condiviso con i fan sui social degli scatti speciali in bianco e nero di lei e dei suoi figli.…",
-        "link": "https://www.stylosophy.it/articolo/diletta-leotta-gli-scatti-in-bianco-e-nero-con-il-pancino-in-bella-vista-foto/250159/",
-        "pubDate": "2026-04-20T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Sono i mascara colorati l’alleato make up occhi della primavera",
-        "description": "Date una scossa ai make up di Primavera optando per un favoloso mascara colorato, un alleato trucco per chi ama osare! Ecco i più belli da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/sono-i-mascara-colorati-lalleato-make-up-occhi-della-primavera/250139/",
-        "pubDate": "2026-04-20T08:59:24+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La cara vecchia Europa è il porto sicuro del vino italiano: frena lo sfuso, volano le bollicine",
+        "description": "Dal 2019 si registra una crescita doppia dell'export rispetto all'extra Ue e un incremento del prezzo medio. A ridare vigore al prodotto italiano concorre il mi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/export-2025-vino-italiano-europa-porto-sicuro/",
+        "pubDate": "2026-04-23T16:33:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’era una volta il vino Vesuvium. Ecco quello che sappiamo sulla viticoltura dell’antica Pompei",
+        "description": "La grande città distrutta dall'eruzione del vulcano ha passato varie fasi storiche, da quella etrusca al periodo romano, ma si è sempre dedicata alla coltivazio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-vesuvium-viticoltura-pompei-antica/",
+        "pubDate": "2026-04-23T16:05:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“L’Etna sta cambiando: ecco perché ho deciso di investire”. Frescobaldi acquista i vigneti di Moretti Cuseri",
+        "description": "Si tratta di sette ettari limitrofi a Tenuta delle Terre Nere, comprata lo scorso anno: non sarà un brand autonomo, ma ne nascerà un cru aziendale. Intanto la M…",
+        "link": "https://www.gamberorosso.it/notizie/vino/etna-frescobaldi-acquisizioni-vigneti-santo-spirito-moretti-cuseri/",
+        "pubDate": "2026-04-23T15:42:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sherbeth 2026: i 59 gelatieri selezionati dall’Italia e dal mondo",
+        "description": "Appena svelati, ecco i nomi dei 59 gelatieri artigiani (provenienti da 6 continenti) che faranno assaggiare le loro creazioni durante il prossimo Sherbeth 2026.…",
+        "link": "https://www.dissapore.com/locali/sherbeth-2026-i-59-gelatieri-selezionati-dallitalia-e-dal-mondo/",
+        "pubDate": "2026-04-23T15:23:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/sherbeth-2026.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La Russia pronta a imporre nuovi dazi sugli alcolici provenienti dai “Paesi ostili” (Italia inclusa)",
+        "description": "Da maggio sono previsti incrementi da 3 a 5 euro per litro di alcol puro. Analisti e importatori in allarme: si rischia aumento dei prezzi e forte diminuzione d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/russia-dazi-alcol-paesi-ostili/",
+        "pubDate": "2026-04-23T14:23:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I vigneti (nonostante tutto) restano tra gli asset alternativi più solidi su cui investire",
+        "description": "Secondo il Wealth Report 2026 di Knight Frank, la domanda resta vivace soprattutto nelle aree dove l’offerta è limitata e il valore è sostenuto da provenienza e…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vigneti-investimenti-report-2026-knight-frank/",
+        "pubDate": "2026-04-23T14:16:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Ordini di vino bloccati e aumento dei costi: le cantine stanno già pagando i danni della guerra”. L’allarme Uiv",
+        "description": "L'associazione guidata da Lamberto Frescobaldi chiede al Governo risposte urgenti. Secondo i calcoli dell'Osservatorio, il solo aumento del costo di vetro, cart…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/guerra-iran-danni-cantine-italiane-ordini-vini/",
+        "pubDate": "2026-04-23T13:49:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Frutta realistica: cos’è, quanto costa e perché spesso delude",
         "description": "Il trompe-l'œil in pasticceria è ovunque: gusci di cioccolato bianco a forma di mango, pistacchio, limone, con dentro mousse e gelée di frutta che costano un ca…",
@@ -421,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Debiti finanziari per 80 milioni di euro: Zonin1821 cambia Ad e tenta la carta della composizione negoziata della crisi",
-        "description": "Ad occuparsi del piano di rilancio sarà Maurizio Rossetti, che punta sulla \"razionalizzazione delle strutture produttive\". Non si possono escludere nuove cessio…",
-        "link": "https://www.gamberorosso.it/notizie/vino/debiti-finanziari-crisi-zonin1821-piano-risanamento/",
-        "pubDate": "2026-04-23T09:49:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Nessuno può chiamarsi MC: McDonald’s vince contro una piccola azienda pugliese",
         "description": "McDonald's fa causa a una piccola panineria pugliese, e non è la prima volta. \nL'articolo Nessuno può chiamarsi MC: McDonald&#8217;s vince contro una piccola az…",
         "link": "https://www.dissapore.com/notizie/nessuno-puo-chiamarsi-mc-mcdonalds-vince-contro-una-piccola-azienda-pugliese/",
@@ -448,42 +502,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Al bar mi sento giudicato”: perché le caffetterie specialty stanno allontanando i clienti",
-        "description": "Non è la qualità del caffè il problema, ma l’esperienza: tra rigidità, linguaggi complicati e poca accoglienza, sempre più clienti si allontanano dai bar specia…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caffetterie-specialty-clienti-allontanano-bar/",
-        "pubDate": "2026-04-23T08:02:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le 6 migliori Falanghina del Sannio sotto i 15 euro",
-        "description": "Prodotte da cantine ormai punto di riferimento della denominazione o da realtà più recenti, le Falanghina del Sannio che abbiamo selezionato uniscono a un ottim…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/lmigliori-falanghina-sannio-sotto-15-euro/",
-        "pubDate": "2026-04-23T08:01:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chebakia: il dolce del Ramadan che ricorda le cartellate pugliesi",
-        "description": "Un dolce intrecciato, fritto e immerso nel miele rivela una grammatica comune tra Marocco, Italia e Grecia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dolce-marocchino-chebakia-cartellate-mediterraneo/",
-        "pubDate": "2026-04-23T07:52:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Moscato di Canelli punta sui cru. Ecco la nuova mappa vitivinicola con 186 unità geografiche",
-        "description": "Un racconto dettagliato collina per collina, curato da Enogea, che servirà a sommelier, ristoratori e comunicatori del vino per scoprire e spiegare differenze e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/moscato-canelli-cru-nuova-mappa-vitivinicola-unita-geografiche/",
-        "pubDate": "2026-04-23T06:05:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "L’UE dice stop al greenwashing nel vino",
         "description": "L'Unione europea si è accorta che beviamo quasi solo vino sostenibile senza sapere cosa sia, e che il termine \"naturale\" ha preso il sopravvento pur non avendo …",
         "link": "https://www.dissapore.com/bere/lue-dice-stop-al-greenwashing-nel-vino/",
@@ -500,15 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/maddalena-ai-vernagli.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Millefoglie e cornetti: a Parigi tutti fanno la fila per questo pasticcere",
-        "description": "Non è Cédric Grolet, ma il suo ex braccio destro al ristorante di Alain Ducasse: Maxime Frédéric, che è oggi uno dei nomi più richiesti dell’alta pasticceria fr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/maxime-frederic-pasticcere-parigi-millefoglie-cornetti/",
-        "pubDate": "2026-04-22T15:12:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Enoturismo, leva strategica per il vino italiano: Sicilia protagonista tra crescita e sfide globali",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/uno-studio-dimostra-che-il-kimchi-difende-il-corpo-dalle-nanoplastiche/",
         "pubDate": "2026-04-22T10:06:19+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/preparazione-kimchi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ristoratori: invece di fare reel stupidi, fateci vedere un po’ di cibo",
-        "description": "Instagram e Tik Tok si riempiono di contenuti dove i ristoratori mettono in ridicolo loro stessi e la loro attività: è davvero il caso? \nL'articolo Ristoratori:…",
-        "link": "https://www.dissapore.com/ristoranti/ristoratori-invece-di-fare-reel-stupidi-fateci-vedere-un-po-di-cibo/",
-        "pubDate": "2026-04-22T08:13:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/ChatGPT-Image-22-apr-2026-09_35_12.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
