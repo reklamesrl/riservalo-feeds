@@ -1,7 +1,97 @@
 {
-  "generated": "2026-04-24T08:05:07.577534+00:00",
+  "generated": "2026-04-24T13:25:46.689936+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Dove mangiare pesce sul mare in Puglia: 6 ristoranti perfetti per la primavera",
+        "description": "Dal porto di Trani a Bari, passando per Bisceglie e Giovinazzo: indirizzi vista mare per pranzi di pesce tra crudi, primi e cucina contemporanea…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-pesce-puglia-mare-ristoranti/",
+        "pubDate": "2026-04-24T13:02:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ilary Blasi, al Grande Fratello Vip con il colore must di stagione: scopri qui il Look!",
+        "description": "Per la puntata di mercoledì sera del Grande Fratello Vip, Ilary Blasi ha optato per un look nella tonalità must di stagione.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-al-grande-fratello-vip-con-il-colore-must-di-stagione-scopri-qui-il-look/250241/",
+        "pubDate": "2026-04-24T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La prima agrisalumeria che ha tenuto i maiali rosa allo stato brado è nel Monferrato",
+        "description": "A Ferrere c'è un salumificio che ha deciso di allevare all'aperto i propri maiali, investendo sul loro benessere ma anche sulla qualità delle carni.\nL'articolo …",
+        "link": "https://www.dissapore.com/spesa/la-prima-agrisalumeria-che-ha-tenuto-i-maiali-rosa-allo-stato-brado-e-nel-monferrato/",
+        "pubDate": "2026-04-24T12:43:07+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/mauro.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Se le piacevi, finivi in cucina con lei”: la storia di Rachele Padovan, la cuoca che incantava Cortina",
+        "description": "La nipote racconta la donna che trasformò la sua casa in un cenacolo spontaneo: tra orto, fornelli e ospiti come Hemingway, Buzzati e Mastroianni…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rachele-padovan-cortina-cucina-storia/",
+        "pubDate": "2026-04-24T11:21:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le ciambelle fritte più amate di Roma si trovano al mare (e creano dipendenza)",
+        "description": "Sul lungomare romano c’è una pasticceria storica dove le ciambelle fritte sono diventate un rito: leggere, irregolari e impossibili da dimenticare…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ciambelle-fritte-roma-lungomare/",
+        "pubDate": "2026-04-24T11:07:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Se oggi si fa olio da Itrana è anche grazie a me”: storia di una rivoluzione silenziosa",
+        "description": "Dalle olive di Gaeta all’extravergine premiato: il percorso di Alfredo Cetrone e la nascita dell’olio da Itrana nelle Colline Pontine…",
+        "link": "https://www.gamberorosso.it/attualita/se-oggi-si-fa-olio-da-itrana-e-anche-grazie-a-me-storia-di-una-rivoluzione-silenziosa/",
+        "pubDate": "2026-04-24T11:00:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "Esiste qualcosa di più rigenerante di un weekend dedicato al relax e allo shopping? Dimenticate lo stress delle folle e le attese interminabili nei negozi. Ques…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/consigli-per-gli-acquisti-della-settimana-must-have-shopping-cosa-comprare-vestiti-borse-scarpe-primavera-967848",
+        "pubDate": "2026-04-24T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_love_first_sight_22_04.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Tra le montagne dell’Appennino c’è un bar sperduto che fa uno gnocco fritto incredibile",
+        "description": "Una cucina rimasta uguale da decenni, pochi tavoli e uno gnocco fritto dorato e leggerissimo: ecco il posto per cui vale la pena deviare…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/bar-appennino-reggiano-gnocco-fritto/",
+        "pubDate": "2026-04-24T10:53:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa ci vuole dire l’estate 2026 dei gelati da bar",
+        "description": "Badilate di pistacchio e operazioni nostalgia q.b, al punto da puntare su un marchio che non esiste più. Cosa ci dicono dell'estate che ci si prospetta i gelati…",
+        "link": "https://www.dissapore.com/locali/gelati-da-bar-2026-novita/",
+        "pubDate": "2026-04-24T09:10:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Remix-Cookie-algida.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Tutti i gel viso detergenti e purificanti a prova di pelle grassa",
+        "description": "SOS Pelle grassa? Ecco 5 detergenti viso purificanti dall'indiscussa efficacia, per un incarnato uniforme e a prova di impurità.…",
+        "link": "https://www.stylosophy.it/articolo/tutti-i-gel-viso-detergenti-e-purificanti-a-prova-di-pelle-grassa/250223/",
+        "pubDate": "2026-04-24T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "La città di Confucio dove il tofu si mangia da duemila anni",
         "description": "Dallo street food alle tavole della famiglia di Confucio, lo Xun Doufu è un tofu affumicato unico, simbolo di una tradizione culinaria che attraversa secoli e c…",
@@ -57,8 +147,8 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“L’Etna sta cambiando: ecco perché ho deciso di investire”. Frescobaldi acquista i vigneti di Moretti Cuseri",
-        "description": "Si tratta di sette ettari limitrofi a Tenuta delle Terre Nere, comprata lo scorso anno: non sarà un brand autonomo, ma ne nascerà un cru aziendale. Intanto la M…",
+        "title": "Frescobaldi compra ancora sull’Etna: il vulcano è diventato il nuovo risiko del vino",
+        "description": "Dopo l’ingresso in Tenuta delle Terre Nere, Frescobaldi acquista 7 ettari in contrada Santo Spirito. Un'operazione che racconta quanto l'Etna sia diventato stra…",
         "link": "https://www.gamberorosso.it/notizie/vino/etna-frescobaldi-acquisizioni-vigneti-santo-spirito-moretti-cuseri/",
         "pubDate": "2026-04-23T15:42:16+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -84,33 +174,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "La Russia pronta a imporre nuovi dazi sugli alcolici provenienti dai “Paesi ostili” (Italia inclusa)",
-        "description": "Da maggio sono previsti incrementi da 3 a 5 euro per litro di alcol puro. Analisti e importatori in allarme: si rischia aumento dei prezzi e forte diminuzione d…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/russia-dazi-alcol-paesi-ostili/",
-        "pubDate": "2026-04-23T14:23:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I vigneti (nonostante tutto) restano tra gli asset alternativi più solidi su cui investire",
-        "description": "Secondo il Wealth Report 2026 di Knight Frank, la domanda resta vivace soprattutto nelle aree dove l’offerta è limitata e il valore è sostenuto da provenienza e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vigneti-investimenti-report-2026-knight-frank/",
-        "pubDate": "2026-04-23T14:16:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Ordini di vino bloccati e aumento dei costi: le cantine stanno già pagando i danni della guerra”. L’allarme Uiv",
-        "description": "L'associazione guidata da Lamberto Frescobaldi chiede al Governo risposte urgenti. Secondo i calcoli dell'Osservatorio, il solo aumento del costo di vetro, cart…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/guerra-iran-danni-cantine-italiane-ordini-vini/",
-        "pubDate": "2026-04-23T13:49:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Frutta realistica: cos’è, quanto costa e perché spesso delude",
         "description": "Il trompe-l'œil in pasticceria è ovunque: gusci di cioccolato bianco a forma di mango, pistacchio, limone, con dentro mousse e gelée di frutta che costano un ca…",
         "link": "https://www.dissapore.com/locali/frutta-realistica-come-si-fa-quanto-costa/",
@@ -118,72 +181,36 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/frutta-realistica-Cedric-Grolet-libro-fruits.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Giallo burro? No, grazie! Questa primavera noi puntiamo tutto sul “Chartreuse”",
-        "description": "Ricordate il giallo burro, quella sfumatura di giallo tenue e delicata che fino alla scorsa stagione svettava in cima alla lista dei colori di tendenza della pr…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/chartreuse-giallo-colore-tendenza-primavera-prada-valentino-donna-967529",
-        "pubDate": "2026-04-23T13:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Chartreuse.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In Francia nel 2026 sono già fallite 83 aziende vitivinicole. Il Governo dà il via alla distillazione di crisi",
-        "description": "Il dipartimento della Gironda è tra i più colpiti dalle chiusure. Il piano di rilancio prevede 33 euro a ettolitro per chi distilla e una nuova campagna di esti…",
-        "link": "https://www.gamberorosso.it/notizie/vino/francia-crisi-vino-fallimenti-cantine-piano-distillazione-2026/",
-        "pubDate": "2026-04-23T11:01:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Crisi Terre d’Oltrepò? Un errore non ascoltare i produttori: serve un tavolo di confronto”. L’appello di Centinaio",
-        "description": "Il vicepresidente del Senato e produttore del Pavese interviene sulla situazione della coop lombarda e si dice pronto ad entrare nel Consorzio. Per il territori…",
-        "link": "https://www.gamberorosso.it/notizie/vino/salvataggio-terre-oltrepo-appello-centinaio/",
-        "pubDate": "2026-04-23T10:59:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Se i supermercati italiani ci incentivano a comprare fragole spagnole",
-        "description": "Con il mercato delle fragole a basso costo stiamo inquinando troppo. Se quelle da serra spagnole costano un terzo rispetto alle italiane, le compriamo anche se …",
-        "link": "https://www.dissapore.com/spesa/se-i-supermercati-italiani-ci-incentivano-a-comprare-fragole-spagnole/",
-        "pubDate": "2026-04-23T10:32:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/fragole-spagnole-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nessuno può chiamarsi MC: McDonald’s vince contro una piccola azienda pugliese",
-        "description": "McDonald's fa causa a una piccola panineria pugliese, e non è la prima volta. \nL'articolo Nessuno può chiamarsi MC: McDonald&#8217;s vince contro una piccola az…",
-        "link": "https://www.dissapore.com/notizie/nessuno-puo-chiamarsi-mc-mcdonalds-vince-contro-una-piccola-azienda-pugliese/",
-        "pubDate": "2026-04-23T09:41:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/McDonalds.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I balsami labbra colorati per un booster di idratazione e colore",
-        "description": "Perfetti per idratare le labbra definendole in un pochissimi secondi, questi balsami colorati sono un must da avere nel beauty case. Ecco i più belli da non per…",
-        "link": "https://www.stylosophy.it/articolo/i-balsami-labbra-colorati-per-un-booster-di-idratazione-e-colore/250212/",
-        "pubDate": "2026-04-23T09:00:00+00:00",
+        "title": "Ilary Blasi, al Grande Fratello Vip con il colore must di stagione: scopri qui il Look!",
+        "description": "Per la puntata di mercoledì sera del Grande Fratello Vip, Ilary Blasi ha optato per un look nella tonalità must di stagione.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-al-grande-fratello-vip-con-il-colore-must-di-stagione-scopri-qui-il-look/250241/",
+        "pubDate": "2026-04-24T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Gonne lunghe? Il trend senza sforzo più amato in primavera",
-        "description": "Ancora non vi siete stancate delle gonne lunghe? Bene, perché queste continuano a essere una presenza imprescindibile nel guardaroba moderno. Versatili, elegant…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-lunghe-moda-donna-primavera-2026-967091",
-        "pubDate": "2026-04-23T09:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/ok-apertura-gonne2.jpg",
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "Esiste qualcosa di più rigenerante di un weekend dedicato al relax e allo shopping? Dimenticate lo stress delle folle e le attese interminabili nei negozi. Ques…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/consigli-per-gli-acquisti-della-settimana-must-have-shopping-cosa-comprare-vestiti-borse-scarpe-primavera-967848",
+        "pubDate": "2026-04-24T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_love_first_sight_22_04.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      }
-    ],
-    "moda": [
+      },
+      {
+        "title": "Tutti i gel viso detergenti e purificanti a prova di pelle grassa",
+        "description": "SOS Pelle grassa? Ecco 5 detergenti viso purificanti dall'indiscussa efficacia, per un incarnato uniforme e a prova di impurità.…",
+        "link": "https://www.stylosophy.it/articolo/tutti-i-gel-viso-detergenti-e-purificanti-a-prova-di-pelle-grassa/250223/",
+        "pubDate": "2026-04-24T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "A proposito di costumi… Questi 5 modelli saranno i “must wanted” dell’estate 2026 (e ve lo spoileriamo in anteprima)",
         "description": "L&#8217;estate è alle porte e con lei la voglia di lunghe giornate stese al sole con il rumore delle onde in sottofondo. Ma in questo meraviglioso sogno ad occh…",
@@ -248,7 +275,7 @@
         "source": "Grazia"
       },
       {
-        "title": "Weekend al mare: gli essenziali da mettere in valigia",
+        "title": "Porto sempre troppe cose con me ma questi 16 pezzi sono davvero gli essenziali da mettere in valigia per un weekend al mare",
         "description": "È vero, l’estate è ancora lontana e dobbiamo ancora pazientare un pochino prima di poterci finalmente godere le nostre meritate ferie.&#160; Ma ora che la prima…",
         "link": "https://www.grazia.it/moda/tendenze-moda/valigia-weekend-al-mare-cosa-portare-lista-due-giorni-in-spiaggia-cosa-indossare-966947",
         "pubDate": "2026-04-23T04:00:00+00:00",
@@ -320,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Come abbinare i bermuda: 5 outfit super chic per la primavera",
-        "description": "È una sorta di equazione non scritta del guardaroba: quando le temperature iniziano a salire, gli orli inevitabilmente si accorciano. E puntuali, insieme ai pri…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/bermuda-look-abbinamenti-come-indossare-primavera-estate-966718",
-        "pubDate": "2026-04-22T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_bermuda_mix_match.png",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Gite di Primavera a due passi da Milano: tra Borghi, location e Giardini unici",
         "description": "Dalla Design Week ai paesaggi più tranquilli della Lombardia: itinerari tra borghi, dimore storiche e giardini per una fuga primaverile perfetta.…",
         "link": "https://www.stylosophy.it/articolo/gite-di-primavera-a-due-passi-da-milano-tra-borghi-location-e-giardini-unici/250172/",
@@ -345,27 +363,72 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Qui i migliori patch occhi per dire addio ad occhiaie e borse",
-        "description": "Per dire addio ad occhiaie e borse, ecco i patch occhi più validi del momento. Da provare!…",
-        "link": "https://www.stylosophy.it/articolo/qui-i-migliori-patch-occhi-per-dire-addio-ad-occhiaie-e-borse/250149/",
-        "pubDate": "2026-04-21T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il borgo segreto d’Abruzzo che conquista tutti: premiato per natura e benessere",
-        "description": "Premiato tra i Borghi più Belli d’Italia, Anversa degli Abruzzi si distingue per turismo sostenibile, inclusione e percorsi di benessere immersi nella natura.…",
-        "link": "https://www.stylosophy.it/articolo/il-borgo-segreto-dabruzzo-che-conquista-tutti-premiato-per-natura-e-benessere/250167/",
-        "pubDate": "2026-04-20T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Dove mangiare pesce sul mare in Puglia: 6 ristoranti perfetti per la primavera",
+        "description": "Dal porto di Trani a Bari, passando per Bisceglie e Giovinazzo: indirizzi vista mare per pranzi di pesce tra crudi, primi e cucina contemporanea…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-pesce-puglia-mare-ristoranti/",
+        "pubDate": "2026-04-24T13:02:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La prima agrisalumeria che ha tenuto i maiali rosa allo stato brado è nel Monferrato",
+        "description": "A Ferrere c'è un salumificio che ha deciso di allevare all'aperto i propri maiali, investendo sul loro benessere ma anche sulla qualità delle carni.\nL'articolo …",
+        "link": "https://www.dissapore.com/spesa/la-prima-agrisalumeria-che-ha-tenuto-i-maiali-rosa-allo-stato-brado-e-nel-monferrato/",
+        "pubDate": "2026-04-24T12:43:07+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/mauro.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Se le piacevi, finivi in cucina con lei”: la storia di Rachele Padovan, la cuoca che incantava Cortina",
+        "description": "La nipote racconta la donna che trasformò la sua casa in un cenacolo spontaneo: tra orto, fornelli e ospiti come Hemingway, Buzzati e Mastroianni…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rachele-padovan-cortina-cucina-storia/",
+        "pubDate": "2026-04-24T11:21:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le ciambelle fritte più amate di Roma si trovano al mare (e creano dipendenza)",
+        "description": "Sul lungomare romano c’è una pasticceria storica dove le ciambelle fritte sono diventate un rito: leggere, irregolari e impossibili da dimenticare…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ciambelle-fritte-roma-lungomare/",
+        "pubDate": "2026-04-24T11:07:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Se oggi si fa olio da Itrana è anche grazie a me”: storia di una rivoluzione silenziosa",
+        "description": "Dalle olive di Gaeta all’extravergine premiato: il percorso di Alfredo Cetrone e la nascita dell’olio da Itrana nelle Colline Pontine…",
+        "link": "https://www.gamberorosso.it/attualita/se-oggi-si-fa-olio-da-itrana-e-anche-grazie-a-me-storia-di-una-rivoluzione-silenziosa/",
+        "pubDate": "2026-04-24T11:00:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tra le montagne dell’Appennino c’è un bar sperduto che fa uno gnocco fritto incredibile",
+        "description": "Una cucina rimasta uguale da decenni, pochi tavoli e uno gnocco fritto dorato e leggerissimo: ecco il posto per cui vale la pena deviare…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/bar-appennino-reggiano-gnocco-fritto/",
+        "pubDate": "2026-04-24T10:53:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa ci vuole dire l’estate 2026 dei gelati da bar",
+        "description": "Badilate di pistacchio e operazioni nostalgia q.b, al punto da puntare su un marchio che non esiste più. Cosa ci dicono dell'estate che ci si prospetta i gelati…",
+        "link": "https://www.dissapore.com/locali/gelati-da-bar-2026-novita/",
+        "pubDate": "2026-04-24T09:10:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Remix-Cookie-algida.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "La città di Confucio dove il tofu si mangia da duemila anni",
         "description": "Dallo street food alle tavole della famiglia di Confucio, lo Xun Doufu è un tofu affumicato unico, simbolo di una tradizione culinaria che attraversa secoli e c…",
@@ -403,8 +466,8 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“L’Etna sta cambiando: ecco perché ho deciso di investire”. Frescobaldi acquista i vigneti di Moretti Cuseri",
-        "description": "Si tratta di sette ettari limitrofi a Tenuta delle Terre Nere, comprata lo scorso anno: non sarà un brand autonomo, ma ne nascerà un cru aziendale. Intanto la M…",
+        "title": "Frescobaldi compra ancora sull’Etna: il vulcano è diventato il nuovo risiko del vino",
+        "description": "Dopo l’ingresso in Tenuta delle Terre Nere, Frescobaldi acquista 7 ettari in contrada Santo Spirito. Un'operazione che racconta quanto l'Etna sia diventato stra…",
         "link": "https://www.gamberorosso.it/notizie/vino/etna-frescobaldi-acquisizioni-vigneti-santo-spirito-moretti-cuseri/",
         "pubDate": "2026-04-23T15:42:16+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -421,33 +484,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "La Russia pronta a imporre nuovi dazi sugli alcolici provenienti dai “Paesi ostili” (Italia inclusa)",
-        "description": "Da maggio sono previsti incrementi da 3 a 5 euro per litro di alcol puro. Analisti e importatori in allarme: si rischia aumento dei prezzi e forte diminuzione d…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/russia-dazi-alcol-paesi-ostili/",
-        "pubDate": "2026-04-23T14:23:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I vigneti (nonostante tutto) restano tra gli asset alternativi più solidi su cui investire",
-        "description": "Secondo il Wealth Report 2026 di Knight Frank, la domanda resta vivace soprattutto nelle aree dove l’offerta è limitata e il valore è sostenuto da provenienza e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vigneti-investimenti-report-2026-knight-frank/",
-        "pubDate": "2026-04-23T14:16:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Ordini di vino bloccati e aumento dei costi: le cantine stanno già pagando i danni della guerra”. L’allarme Uiv",
-        "description": "L'associazione guidata da Lamberto Frescobaldi chiede al Governo risposte urgenti. Secondo i calcoli dell'Osservatorio, il solo aumento del costo di vetro, cart…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/guerra-iran-danni-cantine-italiane-ordini-vini/",
-        "pubDate": "2026-04-23T13:49:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Frutta realistica: cos’è, quanto costa e perché spesso delude",
         "description": "Il trompe-l'œil in pasticceria è ovunque: gusci di cioccolato bianco a forma di mango, pistacchio, limone, con dentro mousse e gelée di frutta che costano un ca…",
         "link": "https://www.dissapore.com/locali/frutta-realistica-come-si-fa-quanto-costa/",
@@ -455,24 +491,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/frutta-realistica-Cedric-Grolet-libro-fruits.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "In Francia nel 2026 sono già fallite 83 aziende vitivinicole. Il Governo dà il via alla distillazione di crisi",
-        "description": "Il dipartimento della Gironda è tra i più colpiti dalle chiusure. Il piano di rilancio prevede 33 euro a ettolitro per chi distilla e una nuova campagna di esti…",
-        "link": "https://www.gamberorosso.it/notizie/vino/francia-crisi-vino-fallimenti-cantine-piano-distillazione-2026/",
-        "pubDate": "2026-04-23T11:01:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Crisi Terre d’Oltrepò? Un errore non ascoltare i produttori: serve un tavolo di confronto”. L’appello di Centinaio",
-        "description": "Il vicepresidente del Senato e produttore del Pavese interviene sulla situazione della coop lombarda e si dice pronto ad entrare nel Consorzio. Per il territori…",
-        "link": "https://www.gamberorosso.it/notizie/vino/salvataggio-terre-oltrepo-appello-centinaio/",
-        "pubDate": "2026-04-23T10:59:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Se i supermercati italiani ci incentivano a comprare fragole spagnole",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Il Sabato del Vignaiolo 2026 diventa diffuso: eventi in tutti i sabati di maggio",
-        "description": "Torna Il Sabato del Vignaiolo, l’appuntamento annuale promosso dalla FIVI – Federazione Italiana Vignaioli Indipendenti, con il sostegno di Crédit Agricole. L’e…",
-        "link": "https://www.winemag.it/il-sabato-del-vignaiolo-2026-diventa-diffuso-eventi-tutti-sabati-maggio/",
-        "pubDate": "2026-04-22T11:31:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Uno studio dimostra che il kimchi difende il corpo dalle nanoplastiche",
-        "description": "Un batterio lattico presente nel kimchi (e forse non in altri fermentati) si lega alla plastica nel corpo e ce la fa espellere andando in bagno.\nL'articolo Uno …",
-        "link": "https://www.dissapore.com/notizie/uno-studio-dimostra-che-il-kimchi-difende-il-corpo-dalle-nanoplastiche/",
-        "pubDate": "2026-04-22T10:06:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/preparazione-kimchi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
