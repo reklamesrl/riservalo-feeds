@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-25T13:06:26.699426+00:00",
+  "generated": "2026-04-25T18:55:08.864241+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Quali sono i formaggi del Friuli Venezia Giulia, oltre al Montasio",
+        "description": "Dall'antichissimo Asìno al Formadi frant presidiato da Slow Food, fino all'affumicato Scuete Fumade, ecco i formaggi del Friuli Venezia Giulia. \nL'articolo Qual…",
+        "link": "https://www.dissapore.com/spesa/formaggi-del-friuli-venezia-giulia/",
+        "pubDate": "2026-04-25T17:30:26+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/cuincir-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La pizza quadrata che arriva da Torre del Greco (e cambia la tradizione napoletana)",
+        "description": "Dalla tradizione familiare alla tecnica moderna: da Quadrato Pizzeria Torrese la pizza in teglia diventa un racconto di quartieri, memoria e innovazione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-quadrata-torre-del-greco-teglia-deleo/",
+        "pubDate": "2026-04-25T16:23:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Milano Design Week 2026 RIPA reinterpreta sedia e tavolo di origine popolare e apre al Multi-materia",
+        "description": "Alcuni oggetti attraversano il tempo perché rispondono a gesti che non cambiano. Non ambiscono a essere icone, ma si depositano con naturalezza nell’immaginario…",
+        "link": "https://www.stylosophy.it/articolo/milano-design-week-2026-ripa-reinterpreta-sedia-e-tavolo-di-origine-popolare-e-apre-al-multi-materia/250288/",
+        "pubDate": "2026-04-25T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Ilary Blasi, cosa ha indossato per la nuova puntata del Grande Fratello Vip FOTO",
         "description": "Ecco che cosa ha indossato Ilary Blasi per la nuova puntata del Grande Fratello Vip: qui per tutti i dettagli.…",
@@ -154,36 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Dove mangiare pesce sul mare in Puglia: 6 ristoranti perfetti per la primavera",
-        "description": "Dal porto di Trani a Bari, passando per Bisceglie e Giovinazzo: indirizzi vista mare per pranzi di pesce tra crudi, primi e cucina contemporanea…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-pesce-puglia-mare-ristoranti/",
-        "pubDate": "2026-04-24T13:02:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ilary Blasi, al Grande Fratello Vip con il colore must di stagione: scopri qui il Look!",
-        "description": "Per la puntata di mercoledì sera del Grande Fratello Vip, Ilary Blasi ha optato per un look nella tonalità must di stagione.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-al-grande-fratello-vip-con-il-colore-must-di-stagione-scopri-qui-il-look/250241/",
-        "pubDate": "2026-04-24T13:00:00+00:00",
+        "title": "Milano Design Week 2026 RIPA reinterpreta sedia e tavolo di origine popolare e apre al Multi-materia",
+        "description": "Alcuni oggetti attraversano il tempo perché rispondono a gesti che non cambiano. Non ambiscono a essere icone, ma si depositano con naturalezza nell’immaginario…",
+        "link": "https://www.stylosophy.it/articolo/milano-design-week-2026-ripa-reinterpreta-sedia-e-tavolo-di-origine-popolare-e-apre-al-multi-materia/250288/",
+        "pubDate": "2026-04-25T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "La prima agrisalumeria che ha tenuto i maiali rosa allo stato brado è nel Monferrato",
-        "description": "A Ferrere c'è un salumificio che ha deciso di allevare all'aperto i propri maiali, investendo sul loro benessere ma anche sulla qualità delle carni.\nL'articolo …",
-        "link": "https://www.dissapore.com/spesa/la-prima-agrisalumeria-che-ha-tenuto-i-maiali-rosa-allo-stato-brado-e-nel-monferrato/",
-        "pubDate": "2026-04-24T12:43:07+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/mauro.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "Ilary Blasi, cosa ha indossato per la nuova puntata del Grande Fratello Vip FOTO",
         "description": "Ecco che cosa ha indossato Ilary Blasi per la nuova puntata del Grande Fratello Vip: qui per tutti i dettagli.…",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Giulia De Lellis, con il completo must di super tendenza per questa stagione FOTO",
-        "description": "Per questa stagione, Giulia De Lellis ha scelto un completo giacca pantaloni elegante, pratico e versatile che non rinuncia a quel tocco glamour che non può mai…",
-        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-con-il-completo-must-di-super-tendenza-per-questa-stagione-foto/250193/",
-        "pubDate": "2026-04-22T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Quali sono i formaggi del Friuli Venezia Giulia, oltre al Montasio",
+        "description": "Dall'antichissimo Asìno al Formadi frant presidiato da Slow Food, fino all'affumicato Scuete Fumade, ecco i formaggi del Friuli Venezia Giulia. \nL'articolo Qual…",
+        "link": "https://www.dissapore.com/spesa/formaggi-del-friuli-venezia-giulia/",
+        "pubDate": "2026-04-25T17:30:26+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/cuincir-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La pizza quadrata che arriva da Torre del Greco (e cambia la tradizione napoletana)",
+        "description": "Dalla tradizione familiare alla tecnica moderna: da Quadrato Pizzeria Torrese la pizza in teglia diventa un racconto di quartieri, memoria e innovazione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-quadrata-torre-del-greco-teglia-deleo/",
+        "pubDate": "2026-04-25T16:23:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Com’è la Nutella Peanut: recensione della nuova crema alle arachidi Ferrero",
         "description": "Abbiamo testato Nutella Peanut, novità assoluta di Ferrero a base di arachidi, con cuore di cacao e nocciole tostate. La nostra recensione, completa di ingredie…",
@@ -466,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dove mangiare pesce sul mare in Puglia: 6 ristoranti perfetti per la primavera",
-        "description": "Dal porto di Trani a Bari, passando per Bisceglie e Giovinazzo: indirizzi vista mare per pranzi di pesce tra crudi, primi e cucina contemporanea…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-pesce-puglia-mare-ristoranti/",
-        "pubDate": "2026-04-24T13:02:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La prima agrisalumeria che ha tenuto i maiali rosa allo stato brado è nel Monferrato",
         "description": "A Ferrere c'è un salumificio che ha deciso di allevare all'aperto i propri maiali, investendo sul loro benessere ma anche sulla qualità delle carni.\nL'articolo …",
         "link": "https://www.dissapore.com/spesa/la-prima-agrisalumeria-che-ha-tenuto-i-maiali-rosa-allo-stato-brado-e-nel-monferrato/",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/il-sindaco-di-varallo-e-stato-pure-troppo-buono-con-la-trattoria-fascista-che-sbeffeggiava-il-25-aprile/",
         "pubDate": "2026-04-23T08:09:52+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2024/09/Hosteria-Di-padre-in-figlio-e1726472791815.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’UE dice stop al greenwashing nel vino",
-        "description": "L'Unione europea si è accorta che beviamo quasi solo vino sostenibile senza sapere cosa sia, e che il termine \"naturale\" ha preso il sopravvento pur non avendo …",
-        "link": "https://www.dissapore.com/bere/lue-dice-stop-al-greenwashing-nel-vino/",
-        "pubDate": "2026-04-22T16:23:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/08/Bottiglie-plastica-acqua-minerale-e1756290917576.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
