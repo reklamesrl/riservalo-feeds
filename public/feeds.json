@@ -1,7 +1,25 @@
 {
-  "generated": "2026-04-26T13:08:44.141722+00:00",
+  "generated": "2026-04-26T18:56:36.299601+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Salone del Mobile 2026, Qeeboo presenta le nuove collezioni tra arredo e illuminazione",
+        "description": "Tra installazioni e nuovi prodotti, Qeeboo svela al Salone del Mobile 2026 una serie di collezioni firmate da designer internazionali che ridefiniscono il confi…",
+        "link": "https://www.stylosophy.it/articolo/salone-del-mobile-2026-qeeboo-presenta-le-nuove-collezioni/250309/",
+        "pubDate": "2026-04-26T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Cos’è il kaymak, re della colazione turca",
+        "description": "Il \"kahvalti\", la colazione turca, è tra le più apprezzate del mondo, e il kaymak non può mancare: cos'è e com'è fatta la clotted cream di Istanbul. \nL'articolo…",
+        "link": "https://www.dissapore.com/cucina/cose-il-kaymak-re-della-colazione-turca/",
+        "pubDate": "2026-04-26T15:15:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/shutterstock_2608455553-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Elettra Lamborghini ruba la scena a Canzonissima con il suo Look da vera diva glamour!",
         "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha incantato tutti con il suo look elegante e femminile: qui per i dettagli.…",
@@ -163,27 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_giacca_jeans.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "“Quando smetto io finisce tutto”: la bocciofila di Torino dove si mangia come a casa",
-        "description": "Da 40 anni in cucina senza menu e senza turni: Egle guida la bocciofila Tesoriera di Torino tra acciughe al bagnetto rosso, piatti piemontesi e una dedizione ch…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/bocciofila-tesoriera-torino-egle-18-ore-cucina/",
-        "pubDate": "2026-04-25T05:58:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“L’alta cucina deve far stare bene, non mettere soggezione”: così il Sissi funziona da 30 anni",
-        "description": "A Merano Andrea Fenoglio porta avanti da oltre trent’anni un’idea di ristorazione semplice e accogliente: meno rigidità, più attenzione alle persone. Una vision…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/sissi-merano-alta-cucina-senza-soggezione/",
-        "pubDate": "2026-04-25T05:32:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Salone del Mobile 2026, Qeeboo presenta le nuove collezioni tra arredo e illuminazione",
+        "description": "Tra installazioni e nuovi prodotti, Qeeboo svela al Salone del Mobile 2026 una serie di collezioni firmate da designer internazionali che ridefiniscono il confi…",
+        "link": "https://www.stylosophy.it/articolo/salone-del-mobile-2026-qeeboo-presenta-le-nuove-collezioni/250309/",
+        "pubDate": "2026-04-26T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Elettra Lamborghini ruba la scena a Canzonissima con il suo Look da vera diva glamour!",
         "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha incantato tutti con il suo look elegante e femminile: qui per i dettagli.…",
@@ -329,15 +338,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Chiara Ferragni alla première de Il Diavolo veste Prada 2: look audace firmato Francesco Murano",
-        "description": "Sul red carpet londinese del sequel cult, l’imprenditrice sfoggia un abito sensuale e contemporaneo. Una scelta stilistica che segna un nuovo capitolo pubblico.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-alla-premiere-de-il-diavolo-veste-prada-2-look-audace-firmato-francesco-murano/250232/",
-        "pubDate": "2026-04-23T14:59:37+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Giallo burro? No, grazie! Questa primavera noi puntiamo tutto sul “Chartreuse”",
         "description": "Ricordate il giallo burro, quella sfumatura di giallo tenue e delicata che fino alla scorsa stagione svettava in cima alla lista dei colori di tendenza della pr…",
         "link": "https://www.grazia.it/moda/tendenze-moda/chartreuse-giallo-colore-tendenza-primavera-prada-valentino-donna-967529",
@@ -366,6 +366,15 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Cos’è il kaymak, re della colazione turca",
+        "description": "Il \"kahvalti\", la colazione turca, è tra le più apprezzate del mondo, e il kaymak non può mancare: cos'è e com'è fatta la clotted cream di Istanbul. \nL'articolo…",
+        "link": "https://www.dissapore.com/cucina/cose-il-kaymak-re-della-colazione-turca/",
+        "pubDate": "2026-04-26T15:15:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/shutterstock_2608455553-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "In Bolivia i produttori di cacao stanno vincendo contro l’industria dell’oro",
         "description": "Il 2024 e il 2025 hanno segnato un momento di svolta nella lotta tra le comunità di agricoltori biologici e lo Stato che promuove l'attività mineraria.\nL'artico…",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/spesa/se-i-supermercati-italiani-ci-incentivano-a-comprare-fragole-spagnole/",
         "pubDate": "2026-04-23T10:32:01+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/fragole-spagnole-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nessuno può chiamarsi MC: McDonald’s vince contro una piccola azienda pugliese",
-        "description": "McDonald's fa causa a una piccola panineria pugliese, e non è la prima volta. \nL'articolo Nessuno può chiamarsi MC: McDonald&#8217;s vince contro una piccola az…",
-        "link": "https://www.dissapore.com/notizie/nessuno-puo-chiamarsi-mc-mcdonalds-vince-contro-una-piccola-azienda-pugliese/",
-        "pubDate": "2026-04-23T09:41:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/McDonalds.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
