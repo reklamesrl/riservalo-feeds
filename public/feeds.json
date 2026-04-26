@@ -1,7 +1,43 @@
 {
-  "generated": "2026-04-25T18:55:08.864241+00:00",
+  "generated": "2026-04-26T07:41:27.968494+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Che cos’è la ricotta forte, il formaggio pugliese che divide: o la ami o la odi",
+        "description": "Cremosa, fermentata e dal sapore intenso, la ricotta forte nasce da un errore e dopo mesi di maturazione diventa uno dei prodotti più identitari della cucina pu…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricotta-forte-asquant-cos-e-puglia/",
+        "pubDate": "2026-04-26T07:38:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Milano c’è una cotoletta a 12 euro dentro una trattoria fuori dal tempo",
+        "description": "Nel quartiere meno patinato dei Navigli, il Brutto Anatroccolo è una delle poche trattorie rimaste davvero economiche: piatti semplici, porzioni abbondanti e pr…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/cotoletta-12-euro-milano-brutto-anatroccolo/",
+        "pubDate": "2026-04-26T07:34:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Terni c’è un posto dove si mangiano focacce e panini fatti come si deve",
+        "description": "Da oltre 10 anni è uno dei locali più amati della città, tra focacce storiche e panini della tradizione. Panzerotto racconta la cucina popolare ternana…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/panzerotto-terni-fast-food-focacce-panini-tradizione/",
+        "pubDate": "2026-04-26T07:20:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La giovane vignaiola del Cilento che produce un grande bianco dai vigneti del nonno",
+        "description": "Nell'azienda di Francesca Fiasco si intrecciano eredità familiare e sensibilità contemporanea. Tra vini caratteriali e identitari, ecco il nuovo bianco che racc…",
+        "link": "https://www.gamberorosso.it/https/wwwgamberorossoit/notizie/vino/degustazioni/francesca-fiasco-vini-bianchi-cilento/",
+        "pubDate": "2026-04-26T04:20:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Quali sono i formaggi del Friuli Venezia Giulia, oltre al Montasio",
         "description": "Dall'antichissimo Asìno al Formadi frant presidiato da Slow Food, fino all'affumicato Scuete Fumade, ecco i formaggi del Friuli Venezia Giulia. \nL'articolo Qual…",
@@ -138,24 +174,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Dazi Usa: per il vino arrivano i primi rimborsi. Chi può richiederli e in che modo",
-        "description": "Dal 20 aprile le Dogane hanno attivato un portale per le imprese che possono fare domanda e avere i soldi indietro. Il costo per la Casa Bianca sarà di 166 mili…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/dazi-usa-rimborsi-come-richiederli/",
-        "pubDate": "2026-04-24T14:46:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Riapre l’alimentari della nonna e lo trasforma in un’enoteca di 9 posti",
-        "description": "Dall’edilizia finita male a una nuova vita tra vino e accoglienza. Così un piccolo locale di montagna è diventato un rifugio per chi cerca qualcosa di diverso…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/enoteca-9-posti-abruzzo-sofietta-rocca-di-mezzo/",
-        "pubDate": "2026-04-24T14:29:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "“Ho una passione per le gonne lunghe ma non so mai con cosa metterle”: queste 6 inspo look dallo street style stanno bene davvero a tutte!",
         "description": "D’estate basta abbinarla a una canotta e a un paio di sandali flat per ottenere a occhi chiusi un look pratico, leggero e ad alto tasso di glamour. Ma come indo…",
         "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-gonna-lunga-come-abbinare-idee-outfit-donna-street-style-elegante-camicia-968009",
@@ -163,24 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Come_indossare_la_gonna_lunga.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "“Un migliaio di missili sopra le nostre teste”: gli chef scappano dagli Emirati",
-        "description": "Tra ristoranti chiusi, clienti spariti e brigate che si svuotano, lo chef Nicolas Isnard racconta cosa significa lavorare negli Emirati durante il conflitto in …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/emirati-missili-ristoranti-crisi-golfo-chef/",
-        "pubDate": "2026-04-24T13:42:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Costano fino a 500 euro al chilo e durano due settimane: i funghi più rari della primavera",
-        "description": "Prezzi altissimi, stagione brevissima e un sapore che conquista gli chef, le morchelle sono tra i funghi più ricercati al mondo. Ma attenzione, da crude sono ve…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spugnole-funghi-primavera-costo-dove-trovarle/",
-        "pubDate": "2026-04-24T13:29:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Che cos’è la ricotta forte, il formaggio pugliese che divide: o la ami o la odi",
+        "description": "Cremosa, fermentata e dal sapore intenso, la ricotta forte nasce da un errore e dopo mesi di maturazione diventa uno dei prodotti più identitari della cucina pu…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricotta-forte-asquant-cos-e-puglia/",
+        "pubDate": "2026-04-26T07:38:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Milano c’è una cotoletta a 12 euro dentro una trattoria fuori dal tempo",
+        "description": "Nel quartiere meno patinato dei Navigli, il Brutto Anatroccolo è una delle poche trattorie rimaste davvero economiche: piatti semplici, porzioni abbondanti e pr…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/cotoletta-12-euro-milano-brutto-anatroccolo/",
+        "pubDate": "2026-04-26T07:34:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Terni c’è un posto dove si mangiano focacce e panini fatti come si deve",
+        "description": "Da oltre 10 anni è uno dei locali più amati della città, tra focacce storiche e panini della tradizione. Panzerotto racconta la cucina popolare ternana…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/panzerotto-terni-fast-food-focacce-panini-tradizione/",
+        "pubDate": "2026-04-26T07:20:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La giovane vignaiola del Cilento che produce un grande bianco dai vigneti del nonno",
+        "description": "Nell'azienda di Francesca Fiasco si intrecciano eredità familiare e sensibilità contemporanea. Tra vini caratteriali e identitari, ecco il nuovo bianco che racc…",
+        "link": "https://www.gamberorosso.it/https/wwwgamberorossoit/notizie/vino/degustazioni/francesca-fiasco-vini-bianchi-cilento/",
+        "pubDate": "2026-04-26T04:20:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Quali sono i formaggi del Friuli Venezia Giulia, oltre al Montasio",
         "description": "Dall'antichissimo Asìno al Formadi frant presidiato da Slow Food, fino all'affumicato Scuete Fumade, ecco i formaggi del Friuli Venezia Giulia. \nL'articolo Qual…",
         "link": "https://www.dissapore.com/spesa/formaggi-del-friuli-venezia-giulia/",
@@ -446,42 +482,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/06/image00008-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Dazi Usa: per il vino arrivano i primi rimborsi. Chi può richiederli e in che modo",
-        "description": "Dal 20 aprile le Dogane hanno attivato un portale per le imprese che possono fare domanda e avere i soldi indietro. Il costo per la Casa Bianca sarà di 166 mili…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/dazi-usa-rimborsi-come-richiederli/",
-        "pubDate": "2026-04-24T14:46:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Riapre l’alimentari della nonna e lo trasforma in un’enoteca di 9 posti",
-        "description": "Dall’edilizia finita male a una nuova vita tra vino e accoglienza. Così un piccolo locale di montagna è diventato un rifugio per chi cerca qualcosa di diverso…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/enoteca-9-posti-abruzzo-sofietta-rocca-di-mezzo/",
-        "pubDate": "2026-04-24T14:29:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Un migliaio di missili sopra le nostre teste”: gli chef scappano dagli Emirati",
-        "description": "Tra ristoranti chiusi, clienti spariti e brigate che si svuotano, lo chef Nicolas Isnard racconta cosa significa lavorare negli Emirati durante il conflitto in …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/emirati-missili-ristoranti-crisi-golfo-chef/",
-        "pubDate": "2026-04-24T13:42:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Costano fino a 500 euro al chilo e durano due settimane: i funghi più rari della primavera",
-        "description": "Prezzi altissimi, stagione brevissima e un sapore che conquista gli chef, le morchelle sono tra i funghi più ricercati al mondo. Ma attenzione, da crude sono ve…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spugnole-funghi-primavera-costo-dove-trovarle/",
-        "pubDate": "2026-04-24T13:29:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "La prima agrisalumeria che ha tenuto i maiali rosa allo stato brado è nel Monferrato",
