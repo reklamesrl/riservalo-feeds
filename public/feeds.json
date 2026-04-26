@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-26T07:41:27.968494+00:00",
+  "generated": "2026-04-26T13:08:44.141722+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Elettra Lamborghini ruba la scena a Canzonissima con il suo Look da vera diva glamour!",
+        "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha incantato tutti con il suo look elegante e femminile: qui per i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-ruba-la-scena-a-canzonissima-con-il-suo-look-da-vera-diva-glamour/250300/",
+        "pubDate": "2026-04-26T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "5 borse con perline per dei look di Primavera trendy chic",
+        "description": "Ricercate, originali e super glam, le borse con perline sono il must have della Primavera. Ecco i modelli più esclusivi da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/5-borse-con-perline-per-dei-look-di-primavera-trendy-chic/250277/",
+        "pubDate": "2026-04-26T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "In Bolivia i produttori di cacao stanno vincendo contro l’industria dell’oro",
+        "description": "Il 2024 e il 2025 hanno segnato un momento di svolta nella lotta tra le comunità di agricoltori biologici e lo Stato che promuove l'attività mineraria.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/in-bolivia-i-produttori-di-cacao-stanno-vincendo-contro-lindustria-delloro/",
+        "pubDate": "2026-04-26T08:31:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lavoratori-del-cacao-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Che cos’è la ricotta forte, il formaggio pugliese che divide: o la ami o la odi",
         "description": "Cremosa, fermentata e dal sapore intenso, la ricotta forte nasce da un errore e dopo mesi di maturazione diventa uno dei prodotti più identitari della cucina pu…",
@@ -28,6 +55,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non comprerò altri abiti da cerimonia oltre a questo, promesso!”. Il satin dress è IL vestito perfetto da indossare ora e per tutta la wedding season!",
+        "description": "Tessuti che scivolano sulla pelle con un sensuale quanto delicato fruscio, lasciando libere le forme e valorizzando ogni silhouette. È questa la magia degli abi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-satin-vestiti-eleganti-cerimonia-primavera-2026-zara-mango-966514",
+        "pubDate": "2026-04-26T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_abiti_satin.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "La giovane vignaiola del Cilento che produce un grande bianco dai vigneti del nonno",
@@ -145,45 +181,36 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Una giornata con Bob, Cameriere Robot",
-        "description": "Come funziona Bob: una giornata di lavoro con un cameriere robot da quando lascia la stazione di ricarica a quando vi torna, dopo servizi e cambi di ruolo. \nL'a…",
-        "link": "https://www.dissapore.com/ristoranti/una-giornata-con-bob-cameriere-robot/",
-        "pubDate": "2026-04-24T16:16:14+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/06/image00008-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Specchia, il Borgo segreto del Salento che sembra uscito da una cartolina",
-        "description": "Nel cuore del basso Salento, Specchia è uno dei borghi più belli d’Italia. Tra vicoli in pietra e palazzi nobiliari, conserva un’identità autentica e poco turis…",
-        "link": "https://www.stylosophy.it/articolo/specchia-il-borgo-segreto-del-salento/250248/",
-        "pubDate": "2026-04-24T16:00:00+00:00",
+        "title": "Elettra Lamborghini ruba la scena a Canzonissima con il suo Look da vera diva glamour!",
+        "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha incantato tutti con il suo look elegante e femminile: qui per i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-ruba-la-scena-a-canzonissima-con-il-suo-look-da-vera-diva-glamour/250300/",
+        "pubDate": "2026-04-26T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "In occasione della Design Week milanese, le Fashion Pills di questa settimana seguono il filo delle celebrazioni e delle nuove collaborazioni. Unioni che nascon…",
-        "link": "https://www.grazia.it/moda/guess-x-yamamay-armani-archivio-dr-martens-1461-lgr-ermanno-scervino-polo-club-genny-montecarlo-anaii-silk-denim-967961",
-        "pubDate": "2026-04-24T15:03:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/Senza-titolo-90.jpg",
+        "title": "5 borse con perline per dei look di Primavera trendy chic",
+        "description": "Ricercate, originali e super glam, le borse con perline sono il must have della Primavera. Ecco i modelli più esclusivi da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/5-borse-con-perline-per-dei-look-di-primavera-trendy-chic/250277/",
+        "pubDate": "2026-04-26T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“Non comprerò altri abiti da cerimonia oltre a questo, promesso!”. Il satin dress è IL vestito perfetto da indossare ora e per tutta la wedding season!",
+        "description": "Tessuti che scivolano sulla pelle con un sensuale quanto delicato fruscio, lasciando libere le forme e valorizzando ogni silhouette. È questa la magia degli abi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-satin-vestiti-eleganti-cerimonia-primavera-2026-zara-mango-966514",
+        "pubDate": "2026-04-26T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_abiti_satin.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
-      {
-        "title": "“Ho una passione per le gonne lunghe ma non so mai con cosa metterle”: queste 6 inspo look dallo street style stanno bene davvero a tutte!",
-        "description": "D’estate basta abbinarla a una canotta e a un paio di sandali flat per ottenere a occhi chiusi un look pratico, leggero e ad alto tasso di glamour. Ma come indo…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-gonna-lunga-come-abbinare-idee-outfit-donna-street-style-elegante-camicia-968009",
-        "pubDate": "2026-04-24T14:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Come_indossare_la_gonna_lunga.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Milano Design Week 2026 RIPA reinterpreta sedia e tavolo di origine popolare e apre al Multi-materia",
         "description": "Alcuni oggetti attraversano il tempo perché rispondono a gesti che non cambiano. Non ambiscono a essere icone, ma si depositano con naturalezza nell’immaginario…",
@@ -320,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "I balsami labbra colorati per un booster di idratazione e colore",
-        "description": "Perfetti per idratare le labbra definendole in un pochissimi secondi, questi balsami colorati sono un must da avere nel beauty case. Ecco i più belli da non per…",
-        "link": "https://www.stylosophy.it/articolo/i-balsami-labbra-colorati-per-un-booster-di-idratazione-e-colore/250212/",
-        "pubDate": "2026-04-23T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Gonne lunghe? Il trend senza sforzo più amato in primavera",
         "description": "Ancora non vi siete stancate delle gonne lunghe? Bene, perché queste continuano a essere una presenza imprescindibile nel guardaroba moderno. Versatili, elegant…",
         "link": "https://www.grazia.it/moda/tendenze-moda/gonne-lunghe-moda-donna-primavera-2026-967091",
@@ -345,27 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/ok-aperura.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Porto sempre troppe cose con me ma questi 16 pezzi sono davvero gli essenziali da mettere in valigia per un weekend al mare",
-        "description": "È vero, l’estate è ancora lontana e dobbiamo ancora pazientare un pochino prima di poterci finalmente godere le nostre meritate ferie.&#160; Ma ora che la prima…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/valigia-weekend-al-mare-cosa-portare-lista-due-giorni-in-spiaggia-cosa-indossare-966947",
-        "pubDate": "2026-04-23T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_weekendalmare.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "25 Aprile nei Borghi di Mare più belli d’Italia: mete da nord a sud per un weekend perfetto",
-        "description": "Dal nord al sud, un itinerario tra i borghi di mare più affascinanti d’Italia per il ponte del 25 aprile, tra paesaggi, tradizioni e consigli utili di viaggio.…",
-        "link": "https://www.stylosophy.it/articolo/25-aprile-nei-borghi-di-mare-piu-belli-ditalia-mete-da-nord-a-sud/250201/",
-        "pubDate": "2026-04-22T17:08:32+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "In Bolivia i produttori di cacao stanno vincendo contro l’industria dell’oro",
+        "description": "Il 2024 e il 2025 hanno segnato un momento di svolta nella lotta tra le comunità di agricoltori biologici e lo Stato che promuove l'attività mineraria.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/in-bolivia-i-produttori-di-cacao-stanno-vincendo-contro-lindustria-delloro/",
+        "pubDate": "2026-04-26T08:31:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lavoratori-del-cacao-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Che cos’è la ricotta forte, il formaggio pugliese che divide: o la ami o la odi",
         "description": "Cremosa, fermentata e dal sapore intenso, la ricotta forte nasce da un errore e dopo mesi di maturazione diventa uno dei prodotti più identitari della cucina pu…",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/nessuno-puo-chiamarsi-mc-mcdonalds-vince-contro-una-piccola-azienda-pugliese/",
         "pubDate": "2026-04-23T09:41:20+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2025/02/McDonalds.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il sindaco di Varallo è stato pure troppo buono con la trattoria fascista che sbeffeggiava il 25 aprile",
-        "description": "La vicenda della trattoria di Varallo Sesia, la cui inaugurazione il 25 aprile è stata impedita dal sindaco, ci insegna che la madre dei gestori fascisti è semp…",
-        "link": "https://www.dissapore.com/notizie/il-sindaco-di-varallo-e-stato-pure-troppo-buono-con-la-trattoria-fascista-che-sbeffeggiava-il-25-aprile/",
-        "pubDate": "2026-04-23T08:09:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/09/Hosteria-Di-padre-in-figlio-e1726472791815.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
