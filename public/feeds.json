@@ -1,7 +1,34 @@
 {
-  "generated": "2026-04-27T13:56:10.987159+00:00",
+  "generated": "2026-04-27T19:23:58.195878+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Spiagge più belle del Mediterraneo: 10 destinazioni imperdibili",
+        "description": "Dal mare turchese della Sardegna alle coste rosa di Creta, un viaggio tra le spiagge più spettacolari del Mediterraneo. Luoghi iconici, accessi, periodi miglior…",
+        "link": "https://www.stylosophy.it/articolo/spiagge-piu-belle-del-mediterraneo-10-destinazioni/250352/",
+        "pubDate": "2026-04-27T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il trench di Giulia De Lellis per il battesimo della piccola Priscilla, emblema di eleganza primaverile",
+        "description": "Giulia De Lellis e Tony Effe hanno celebrato lo scorso fine settimana il battesimo della loro piccola Priscilla. Nonostante i due vivano entrambi a Milano, hann…",
+        "link": "https://www.grazia.it/moda/celebrity-style/giulia-de-lellis-trench-battesimo-priscilla-trench-beige-primavera-968289",
+        "pubDate": "2026-04-27T15:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/giulia-de-lellis-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Antonella Clerici ci ricorda che è lei la regina della cucina italiana",
+        "description": "Ospite al BSMT di Gianluca Gazzoli, Antonella Clerici dimostra di essere conscia di tutto quello che la cucina televisiva italiana le deve, e ne ha ben donde.\nL…",
+        "link": "https://www.dissapore.com/tv/antonella-clerici-ci-ricorda-che-e-lei-la-regina-della-cucina-italiana/",
+        "pubDate": "2026-04-27T14:43:50+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/antonella-clerici.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Giulia De Lellis, cosa ha indossato per il battesimo di sua figlia Priscilla FOTO",
         "description": "Vediamo qui di seguito che cosa ha indossato Giulia De Lellis per il battesimo di sua figlia Priscilla.…",
@@ -154,36 +181,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "In Bolivia i produttori di cacao stanno vincendo contro l’industria dell’oro",
-        "description": "Il 2024 e il 2025 hanno segnato un momento di svolta nella lotta tra le comunità di agricoltori biologici e lo Stato che promuove l'attività mineraria.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/in-bolivia-i-produttori-di-cacao-stanno-vincendo-contro-lindustria-delloro/",
-        "pubDate": "2026-04-26T08:31:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lavoratori-del-cacao-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Che cos’è la ricotta forte, il formaggio pugliese che divide: o la ami o la odi",
-        "description": "Cremosa, fermentata e dal sapore intenso, la ricotta forte nasce da un errore e dopo mesi di maturazione diventa uno dei prodotti più identitari della cucina pu…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricotta-forte-asquant-cos-e-puglia/",
-        "pubDate": "2026-04-26T07:38:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Milano c’è una cotoletta a 12 euro dentro una trattoria fuori dal tempo",
-        "description": "Nel quartiere meno patinato dei Navigli, il Brutto Anatroccolo è una delle poche trattorie rimaste davvero economiche: piatti semplici, porzioni abbondanti e pr…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/cotoletta-12-euro-milano-brutto-anatroccolo/",
-        "pubDate": "2026-04-26T07:34:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Spiagge più belle del Mediterraneo: 10 destinazioni imperdibili",
+        "description": "Dal mare turchese della Sardegna alle coste rosa di Creta, un viaggio tra le spiagge più spettacolari del Mediterraneo. Luoghi iconici, accessi, periodi miglior…",
+        "link": "https://www.stylosophy.it/articolo/spiagge-piu-belle-del-mediterraneo-10-destinazioni/250352/",
+        "pubDate": "2026-04-27T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il trench di Giulia De Lellis per il battesimo della piccola Priscilla, emblema di eleganza primaverile",
+        "description": "Giulia De Lellis e Tony Effe hanno celebrato lo scorso fine settimana il battesimo della loro piccola Priscilla. Nonostante i due vivano entrambi a Milano, hann…",
+        "link": "https://www.grazia.it/moda/celebrity-style/giulia-de-lellis-trench-battesimo-priscilla-trench-beige-primavera-968289",
+        "pubDate": "2026-04-27T15:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/giulia-de-lellis-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Giulia De Lellis, cosa ha indossato per il battesimo di sua figlia Priscilla FOTO",
         "description": "Vediamo qui di seguito che cosa ha indossato Giulia De Lellis per il battesimo di sua figlia Priscilla.…",
@@ -338,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Ilary Blasi, al Grande Fratello Vip con il colore must di stagione: scopri qui il Look!",
-        "description": "Per la puntata di mercoledì sera del Grande Fratello Vip, Ilary Blasi ha optato per un look nella tonalità must di stagione.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-al-grande-fratello-vip-con-il-colore-must-di-stagione-scopri-qui-il-look/250241/",
-        "pubDate": "2026-04-24T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Gigi Hadid, Matilda De Angelis e le altre star meglio vestite della settimana",
         "description": "Tra red carpet californiani e serate esclusive a New York, questa settimana ha offerto una panoramica ricca e variegata di stile e di look che abbiamo trovato d…",
         "link": "https://www.grazia.it/moda/celebrity-style/gigi-hadid-matilda-de-angelis-look-abiti-meglio-vestite-settimana-967416",
@@ -354,18 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_best_dressed_22_04.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
-        "description": "Esiste qualcosa di più rigenerante di un weekend dedicato al relax e allo shopping? Dimenticate lo stress delle folle e le attese interminabili nei negozi. Ques…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/consigli-per-gli-acquisti-della-settimana-must-have-shopping-cosa-comprare-vestiti-borse-scarpe-primavera-967848",
-        "pubDate": "2026-04-24T11:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_love_first_sight_22_04.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Antonella Clerici ci ricorda che è lei la regina della cucina italiana",
+        "description": "Ospite al BSMT di Gianluca Gazzoli, Antonella Clerici dimostra di essere conscia di tutto quello che la cucina televisiva italiana le deve, e ne ha ben donde.\nL…",
+        "link": "https://www.dissapore.com/tv/antonella-clerici-ci-ricorda-che-e-lei-la-regina-della-cucina-italiana/",
+        "pubDate": "2026-04-27T14:43:50+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/antonella-clerici.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Ora c’è la prova scientifica che i fermentati favoriscono la longevità",
         "description": "Uno studio ha scoperto, dopo 50 anni di mistero, come un microelemento sintetizzato dai batteri entri nelle nostre cellule e le mantenga in salute.\nL'articolo O…",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/spesa/la-prima-agrisalumeria-che-ha-tenuto-i-maiali-rosa-allo-stato-brado-e-nel-monferrato/",
         "pubDate": "2026-04-24T12:43:07+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/mauro.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa ci vuole dire l’estate 2026 dei gelati da bar",
-        "description": "Badilate di pistacchio e operazioni nostalgia q.b, al punto da puntare su un marchio che non esiste più. Cosa ci dicono dell'estate che ci si prospetta i gelati…",
-        "link": "https://www.dissapore.com/locali/gelati-da-bar-2026-novita/",
-        "pubDate": "2026-04-24T09:10:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/Remix-Cookie-algida.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
