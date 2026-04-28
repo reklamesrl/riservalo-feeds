@@ -1,11 +1,47 @@
 {
-  "generated": "2026-04-28T14:27:02.313201+00:00",
+  "generated": "2026-04-28T19:42:28.519677+00:00",
   "feeds": {
     "offerte": [
       {
+        "title": "La prima sfilata Chanel Cruise di Matthieu Blazy va in scena a Biarritz",
+        "description": "Matthieu Blazy sceglie un luogo caro a Gabrielle Chanel per portare in passerella la sua prima sfilata Cruise da quando ha assunto il ruolo di direttore artisti…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/la-prima-sfilata-chanel-cruise-di-matthieu-blazy-va-in-scena-a-biarritz-968768",
+        "pubDate": "2026-04-28T17:07:34+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/DESK-chanel-cruise-biarritz.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "L’ex chef di Fäviken, Mecca stellata, ora serve pranzi a 14 euro",
+        "description": "La nuova vita di Magnus Nilsson, creatore del Fäviken, è molto diversa da come ve la immaginate.\nL'articolo L&#8217;ex chef di Fäviken, Mecca stellata, ora serv…",
+        "link": "https://www.dissapore.com/notizie/lex-chef-di-faviken-mecca-stellata-ora-serve-pranzi-a-14-euro/",
+        "pubDate": "2026-04-28T16:30:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/magnus-nilsson.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Weekend di Primavera in Calabria: un itinerario di 2 giorni tra borghi, città e location uniche",
+        "description": "Un itinerario di due giorni lungo la Costa degli Dei e la Costa Viola, tra borghi storici, panorami sul mare e tappe bellissime in primavera.…",
+        "link": "https://www.stylosophy.it/articolo/weekend-di-primavera-in-calabria-itinerario-borghi-citta-e-location/250370/",
+        "pubDate": "2026-04-28T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Lo chef che non voleva i gay e i comunisti alla fine è stato condannato a pagare",
+        "description": "La vicenda del post discriminatorio dello chef Paolo Cappuccio finisce in modo esemplare, ed era ora.\nL'articolo Lo chef che non voleva i gay e i comunisti alla…",
+        "link": "https://www.dissapore.com/notizie/lo-chef-che-non-voleva-i-gay-e-i-comunisti-alla-fine-e-stato-condannato-a-pagare/",
+        "pubDate": "2026-04-28T14:50:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/tatuaggio-fascista-varallo.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
         "title": "C’è un vino calabrese poco conosciuto che costa meno di 10 euro (e sta sorprendendo tutti)",
         "description": "Dalla Valle del Savuto, un rosato da vitigni autoctoni che racconta un territorio poco noto, già amato da Mario Soldati…",
-        "link": "https://www.gamberorosso.it/https/wwwgamberorossoit/notizie/vino/vini-rosati-calabria-savuto-colacino-wines/",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-rosati-calabria-savuto-colacino-wines/",
         "pubDate": "2026-04-28T13:49:51+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
@@ -58,7 +94,7 @@
       },
       {
         "title": "È morta Pia Donata Berlucchi: la donna che ha fatto grande il Franciacorta",
-        "description": "Per oltre quarant’anni alla guida della Berlucchi, è stata una delle figure più influenti del Franciacorta e del vino italiano…",
+        "description": "Per oltre quarant’anni alla guida della Fratelli Berlucchi, è stata una delle figure più influenti del Franciacorta e del vino italiano…",
         "link": "https://www.gamberorosso.it/notizie/vino/pia-donata-berlucchi-morta-franciacorta/",
         "pubDate": "2026-04-28T11:03:03+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -145,45 +181,27 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Dopo 50 anni apre un nuovo mercato rionale a Roma (ed è già il cuore del quartiere)",
-        "description": "A Bravetta, nella zona Ovest di Roma, ha finalmente aperto il mercato coperto di via dei Capasso: pochi banchi selezionati, prodotti locali e un nuovo punto di …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/nuovo-mercato-bravetta-roma-cosa-comprare/",
-        "pubDate": "2026-04-28T08:01:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come la frutta tropicale calabrese diventa una linea di liquori",
-        "description": "I cambiamenti climatici impongono la coltivazione di frutta tropicale nel Mediterraneo, e due imprenditrici calabresi colgono l'opportunità per dei prodotti inn…",
-        "link": "https://www.dissapore.com/notizie/come-la-frutta-tropicale-calabrese-diventa-una-linea-di-liquori/",
-        "pubDate": "2026-04-28T06:37:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/esotika-.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Tendenza “tutti frutti”: la moda protagonista dell’estate 2026 ci fa fare il pieno di vitamine",
-        "description": "Bye bye, minimalismo rigoroso: l’estate 2026 ha deciso di trasformare il vostro armadio in un rigoglioso frutteto baciato dal sole. La tendenza &#8220;Tutti Fru…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/tutti-frutti-trend-stampa-ciliegia-limone-banana-fragole-estate-2026-vestiti-borse-scarpe-accessori-968253",
-        "pubDate": "2026-04-28T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_tutti_frutti.jpg",
+        "title": "La prima sfilata Chanel Cruise di Matthieu Blazy va in scena a Biarritz",
+        "description": "Matthieu Blazy sceglie un luogo caro a Gabrielle Chanel per portare in passerella la sua prima sfilata Cruise da quando ha assunto il ruolo di direttore artisti…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/la-prima-sfilata-chanel-cruise-di-matthieu-blazy-va-in-scena-a-biarritz-968768",
+        "pubDate": "2026-04-28T17:07:34+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/DESK-chanel-cruise-biarritz.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Spiagge più belle del Mediterraneo: 10 destinazioni imperdibili",
-        "description": "Dal mare turchese della Sardegna alle coste rosa di Creta, un viaggio tra le spiagge più spettacolari del Mediterraneo. Luoghi iconici, accessi, periodi miglior…",
-        "link": "https://www.stylosophy.it/articolo/spiagge-piu-belle-del-mediterraneo-10-destinazioni/250352/",
-        "pubDate": "2026-04-27T16:00:00+00:00",
+        "title": "Weekend di Primavera in Calabria: un itinerario di 2 giorni tra borghi, città e location uniche",
+        "description": "Un itinerario di due giorni lungo la Costa degli Dei e la Costa Viola, tra borghi storici, panorami sul mare e tappe bellissime in primavera.…",
+        "link": "https://www.stylosophy.it/articolo/weekend-di-primavera-in-calabria-itinerario-borghi-citta-e-location/250370/",
+        "pubDate": "2026-04-28T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      }
-    ],
-    "moda": [
+      },
       {
         "title": "Kylie Jenner lancia la sua nuova collezione ‘Born in LA’ con il suo brand Khy",
         "description": "Kylie Jenner rilancia il suo brand di abbigliamento Khy con una nuova collezione 'Born in LA': qui per i dettagi.…",
@@ -338,15 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "“Non comprerò altri abiti da cerimonia oltre a questo, promesso!”. Il satin dress è IL vestito perfetto da indossare ora e per tutta la wedding season!",
-        "description": "Tessuti che scivolano sulla pelle con un sensuale quanto delicato fruscio, lasciando libere le forme e valorizzando ogni silhouette. È questa la magia degli abi…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-satin-vestiti-eleganti-cerimonia-primavera-2026-zara-mango-966514",
-        "pubDate": "2026-04-26T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_abiti_satin.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Milano Design Week 2026 RIPA reinterpreta sedia e tavolo di origine popolare e apre al Multi-materia",
         "description": "Alcuni oggetti attraversano il tempo perché rispondono a gesti che non cambiano. Non ambiscono a essere icone, ma si depositano con naturalezza nell’immaginario…",
         "link": "https://www.stylosophy.it/articolo/milano-design-week-2026-ripa-reinterpreta-sedia-e-tavolo-di-origine-popolare-e-apre-al-multi-materia/250288/",
@@ -354,22 +363,31 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Ilary Blasi, cosa ha indossato per la nuova puntata del Grande Fratello Vip FOTO",
-        "description": "Ecco che cosa ha indossato Ilary Blasi per la nuova puntata del Grande Fratello Vip: qui per tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-cosa-ha-indossato-per-la-nuova-puntata-del-grande-fratello-vip-foto/250257/",
-        "pubDate": "2026-04-25T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
       {
+        "title": "L’ex chef di Fäviken, Mecca stellata, ora serve pranzi a 14 euro",
+        "description": "La nuova vita di Magnus Nilsson, creatore del Fäviken, è molto diversa da come ve la immaginate.\nL'articolo L&#8217;ex chef di Fäviken, Mecca stellata, ora serv…",
+        "link": "https://www.dissapore.com/notizie/lex-chef-di-faviken-mecca-stellata-ora-serve-pranzi-a-14-euro/",
+        "pubDate": "2026-04-28T16:30:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/magnus-nilsson.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Lo chef che non voleva i gay e i comunisti alla fine è stato condannato a pagare",
+        "description": "La vicenda del post discriminatorio dello chef Paolo Cappuccio finisce in modo esemplare, ed era ora.\nL'articolo Lo chef che non voleva i gay e i comunisti alla…",
+        "link": "https://www.dissapore.com/notizie/lo-chef-che-non-voleva-i-gay-e-i-comunisti-alla-fine-e-stato-condannato-a-pagare/",
+        "pubDate": "2026-04-28T14:50:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/tatuaggio-fascista-varallo.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "C’è un vino calabrese poco conosciuto che costa meno di 10 euro (e sta sorprendendo tutti)",
         "description": "Dalla Valle del Savuto, un rosato da vitigni autoctoni che racconta un territorio poco noto, già amato da Mario Soldati…",
-        "link": "https://www.gamberorosso.it/https/wwwgamberorossoit/notizie/vino/vini-rosati-calabria-savuto-colacino-wines/",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-rosati-calabria-savuto-colacino-wines/",
         "pubDate": "2026-04-28T13:49:51+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
@@ -413,7 +431,7 @@
       },
       {
         "title": "È morta Pia Donata Berlucchi: la donna che ha fatto grande il Franciacorta",
-        "description": "Per oltre quarant’anni alla guida della Berlucchi, è stata una delle figure più influenti del Franciacorta e del vino italiano…",
+        "description": "Per oltre quarant’anni alla guida della Fratelli Berlucchi, è stata una delle figure più influenti del Franciacorta e del vino italiano…",
         "link": "https://www.gamberorosso.it/notizie/vino/pia-donata-berlucchi-morta-franciacorta/",
         "pubDate": "2026-04-28T11:03:03+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/cucina/cose-il-kaymak-re-della-colazione-turca/",
         "pubDate": "2026-04-26T15:15:54+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/shutterstock_2608455553-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Bolivia i produttori di cacao stanno vincendo contro l’industria dell’oro",
-        "description": "Il 2024 e il 2025 hanno segnato un momento di svolta nella lotta tra le comunità di agricoltori biologici e lo Stato che promuove l'attività mineraria.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/in-bolivia-i-produttori-di-cacao-stanno-vincendo-contro-lindustria-delloro/",
-        "pubDate": "2026-04-26T08:31:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/lavoratori-del-cacao-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Quali sono i formaggi del Friuli Venezia Giulia, oltre al Montasio",
-        "description": "Dall'antichissimo Asìno al Formadi frant presidiato da Slow Food, fino all'affumicato Scuete Fumade, ecco i formaggi del Friuli Venezia Giulia. \nL'articolo Qual…",
-        "link": "https://www.dissapore.com/spesa/formaggi-del-friuli-venezia-giulia/",
-        "pubDate": "2026-04-25T17:30:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/cuincir-1.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
