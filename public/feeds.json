@@ -1,7 +1,52 @@
 {
-  "generated": "2026-04-29T13:59:17.655238+00:00",
+  "generated": "2026-04-29T19:27:07.592724+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Hana-bi è il bagno più gourmet della Romagna, e ci vorrebbero più ristoranti sul mare così",
+        "description": "A Marina di Ravenna c'è un giovanissimo chef che propone una cucina golosa, moderna e sgargiante in uno stabilimento balneare: perché non ci sono più posti come…",
+        "link": "https://www.dissapore.com/ristoranti/hana-bi-a-marina-di-ravenna-recensione/",
+        "pubDate": "2026-04-29T16:37:35+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/hana-bi-emilia.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Borgo più elegante del Lago di Garda che pochi conoscono davvero",
+        "description": "Affacciato sulla sponda bresciana del Lago di Garda, Gardone Riviera è un borgo raffinato tra ville storiche, giardini e panorami unici. Una meta perfetta per u…",
+        "link": "https://www.stylosophy.it/articolo/il-borgo-piu-elegante-del-lago-di-garda-che-pochi-conoscono-davvero/250386/",
+        "pubDate": "2026-04-29T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“Niente gay o comunisti in cucina”: chef condannato per discriminazione",
+        "description": "La sentenza del Tribunale di Trento chiude il caso nato dall’annuncio su Facebook e accoglie il ricorso presentato dalla Cgil del Trentino. Il cuoco dovrà risar…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/chef-condannato-discriminazione-post-lavoro-facebook/",
+        "pubDate": "2026-04-29T15:04:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I tedeschi scelgono l’Italia come meta enoturistica. Guida strategica all’accoglienza, evitando l’effetto Disneyland",
+        "description": "L'87% dei winelover provenienti da Germania, Svizzera e Austria acquista vino in cantina: la spesa media giornaliera è di 180 euro. Wine2Stay spiega come attira…",
+        "link": "https://www.gamberorosso.it/notizie/vino/enoturismo-tedeschi-cantine-italiane-analisi-wine2stay/",
+        "pubDate": "2026-04-29T14:24:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Chanel e Zara dominano la Lyst Index dei primi mesi del 2026",
+        "description": "Nel Lyst Index primo trimestre 2026 Chanel balza al primo posto mentre Zara emerge come rivelazione inattesa. La nuova formula Desire, Demand, Discovery ridiseg…",
+        "link": "https://www.grazia.it/moda/chanel-zara-lyst-index-2026-primo-trimestre-968999",
+        "pubDate": "2026-04-29T14:20:06+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/01/EVI-Chanel-Haute-Couture-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Chaumet celebra la natura con un gala da sogno alle porte di Parigi",
         "description": "Immersa nella campagna alle porte di Parigi, l’abbazia di Abbaye des Vaux-de-Cernay si è trasformata per una notte in un teatro incantato dove la natura ha inco…",
@@ -66,7 +111,7 @@
         "source": "Dissapore"
       },
       {
-        "title": "Le cantine italiane consumano ancora troppa elettricità. Arriva la guida per evitare gli sprechi",
+        "title": "Le cantine italiane consumano ancora troppa elettricità. Arriva il vademecum per evitare gli sprechi",
         "description": "Il 90% dell’energia utilizzata dalle aziende vitivinicole è elettrica con un fabbisogno che supera i 500 milioni di kilowattora l'anno. Ma secondo Enea ci sono …",
         "link": "https://www.gamberorosso.it/notizie/vino/cantine-italiane-consumi-energia-elettrica-guida-enea/",
         "pubDate": "2026-04-29T11:24:06+00:00",
@@ -136,54 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "I sieri viso antirughe sotto i 30 euro per una pelle al top",
-        "description": "Questi 5 sieri viso antirughe sono il perfetto compromesso tra qualità e convenienza, un must da accaparrarsi ASAP!…",
-        "link": "https://www.stylosophy.it/articolo/i-sieri-viso-antirughe-sotto-i-30-euro-per-una-pelle-al-top/250391/",
-        "pubDate": "2026-04-29T09:00:00+00:00",
+        "title": "Il Borgo più elegante del Lago di Garda che pochi conoscono davvero",
+        "description": "Affacciato sulla sponda bresciana del Lago di Garda, Gardone Riviera è un borgo raffinato tra ville storiche, giardini e panorami unici. Una meta perfetta per u…",
+        "link": "https://www.stylosophy.it/articolo/il-borgo-piu-elegante-del-lago-di-garda-che-pochi-conoscono-davvero/250386/",
+        "pubDate": "2026-04-29T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Guida alle scarpe da cerimonia 2026 perfette per muovere i giusti passi nei look da invitata",
-        "description": "Oggetti del desiderio che parlano allo stile di ogni invitata perché nell&#8217;universo delle scarpe da cerimonia 2026 c&#8217;è spazio anche per modelli donna…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-da-cerimonia-primavera-estate-2026-look-da-invitata-matrimoni-cresime-comunioni-967863",
-        "pubDate": "2026-04-29T09:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_scarpe_eleganti.jpg",
+        "title": "Chanel e Zara dominano la Lyst Index dei primi mesi del 2026",
+        "description": "Nel Lyst Index primo trimestre 2026 Chanel balza al primo posto mentre Zara emerge come rivelazione inattesa. La nuova formula Desire, Demand, Discovery ridiseg…",
+        "link": "https://www.grazia.it/moda/chanel-zara-lyst-index-2026-primo-trimestre-968999",
+        "pubDate": "2026-04-29T14:20:06+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/01/EVI-Chanel-Haute-Couture-.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
-      {
-        "title": "The Great Pizza Tour parte da Caserta, raccontando le migliori pizzerie del territorio",
-        "description": "Ha preso il via da Caserta il The Great Pizza Tour 2026, premiando le migliori pizzerie di un territorio dalla forte identità. \nL'articolo The Great Pizza Tour …",
-        "link": "https://www.dissapore.com/notizie/the-great-pizza-tour-parte-da-caserta-raccontando-le-migliori-pizzerie-del-territorio/",
-        "pubDate": "2026-04-29T08:11:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/IMG_0166-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Roma apre un’osteria di carne con brace a vista e prezzi umani",
-        "description": "Ai Parioli apre Terracotta, un’osteria dove la brace è protagonista e la carne si sceglie al banco prima di finire direttamente sul fuoco…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/terracotta-osteria-brace-roma-parioli/",
-        "pubDate": "2026-04-29T08:02:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lo chef degli hamburger ora ha un locale fisso senza carne",
-        "description": "Da cucina nomade su un triciclo a locale stabile: il progetto vegetariano di Eugenio Roncoroni cambia forma ma non perde il suo spirito ribelle. Ecco la nuova a…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pas-roncoroni-milano-locale-vegetariano/",
-        "pubDate": "2026-04-29T07:48:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Chaumet celebra la natura con un gala da sogno alle porte di Parigi",
         "description": "Immersa nella campagna alle porte di Parigi, l’abbazia di Abbaye des Vaux-de-Cernay si è trasformata per una notte in un teatro incantato dove la natura ha inco…",
@@ -302,15 +320,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Print mania! Come abbinare tra loro le stampe più cool del momento",
-        "description": "Prints on prints. In gergo fashion è così che si definisce l’arte di mixare stampe diverse all’interno dello stesso outfit. Una tendenza moda consolidata che, o…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-abbinare-le-stampe-tra-loro-righe-pois-quadretti-animalier-snake-print-fiori-abbinamenti-cool-primavera-968343",
-        "pubDate": "2026-04-28T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_abbianre_stampe.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "SOS Capelli sporchi? Ecco 5 consigli da non perdere assolutamente",
         "description": "5 consigli infallibili per saper gestire i capelli sporchi e ridurre i lavaggi settimanali. Da non perdere!…",
         "link": "https://www.stylosophy.it/articolo/sos-capelli-sporchi-ecco-5-consigli-da-non-perdere-assolutamente/250335/",
@@ -354,18 +363,36 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Elettra Lamborghini ruba la scena a Canzonissima con il suo Look da vera diva glamour!",
-        "description": "Per la puntata di ieri sera di Canzonissima, Elettra Lamborghini ha incantato tutti con il suo look elegante e femminile: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-ruba-la-scena-a-canzonissima-con-il-suo-look-da-vera-diva-glamour/250300/",
-        "pubDate": "2026-04-26T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Hana-bi è il bagno più gourmet della Romagna, e ci vorrebbero più ristoranti sul mare così",
+        "description": "A Marina di Ravenna c'è un giovanissimo chef che propone una cucina golosa, moderna e sgargiante in uno stabilimento balneare: perché non ci sono più posti come…",
+        "link": "https://www.dissapore.com/ristoranti/hana-bi-a-marina-di-ravenna-recensione/",
+        "pubDate": "2026-04-29T16:37:35+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/hana-bi-emilia.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Niente gay o comunisti in cucina”: chef condannato per discriminazione",
+        "description": "La sentenza del Tribunale di Trento chiude il caso nato dall’annuncio su Facebook e accoglie il ricorso presentato dalla Cgil del Trentino. Il cuoco dovrà risar…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/chef-condannato-discriminazione-post-lavoro-facebook/",
+        "pubDate": "2026-04-29T15:04:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I tedeschi scelgono l’Italia come meta enoturistica. Guida strategica all’accoglienza, evitando l’effetto Disneyland",
+        "description": "L'87% dei winelover provenienti da Germania, Svizzera e Austria acquista vino in cantina: la spesa media giornaliera è di 180 euro. Wine2Stay spiega come attira…",
+        "link": "https://www.gamberorosso.it/notizie/vino/enoturismo-tedeschi-cantine-italiane-analisi-wine2stay/",
+        "pubDate": "2026-04-29T14:24:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Sempre più persone pagano per cenare a casa di qualcuno (e non è un ristorante)",
         "description": "Tra socialità, risparmio e nuove esperienze, gli home restaurant stanno vivendo una seconda vita in Italia, ma restano dubbi su regole e concorrenza…",
@@ -385,7 +412,7 @@
         "source": "Dissapore"
       },
       {
-        "title": "Le cantine italiane consumano ancora troppa elettricità. Arriva la guida per evitare gli sprechi",
+        "title": "Le cantine italiane consumano ancora troppa elettricità. Arriva il vademecum per evitare gli sprechi",
         "description": "Il 90% dell’energia utilizzata dalle aziende vitivinicole è elettrica con un fabbisogno che supera i 500 milioni di kilowattora l'anno. Ma secondo Enea ci sono …",
         "link": "https://www.gamberorosso.it/notizie/vino/cantine-italiane-consumi-energia-elettrica-guida-enea/",
         "pubDate": "2026-04-29T11:24:06+00:00",
@@ -466,24 +493,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "A Roma apre un’osteria di carne con brace a vista e prezzi umani",
-        "description": "Ai Parioli apre Terracotta, un’osteria dove la brace è protagonista e la carne si sceglie al banco prima di finire direttamente sul fuoco…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/terracotta-osteria-brace-roma-parioli/",
-        "pubDate": "2026-04-29T08:02:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lo chef degli hamburger ora ha un locale fisso senza carne",
-        "description": "Da cucina nomade su un triciclo a locale stabile: il progetto vegetariano di Eugenio Roncoroni cambia forma ma non perde il suo spirito ribelle. Ecco la nuova a…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pas-roncoroni-milano-locale-vegetariano/",
-        "pubDate": "2026-04-29T07:48:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "L’ex chef di Fäviken, Mecca stellata, ora serve pranzi a 14 euro",
         "description": "La nuova vita di Magnus Nilsson, creatore del Fäviken, è molto diversa da come ve la immaginate.\nL'articolo L&#8217;ex chef di Fäviken, Mecca stellata, ora serv…",
         "link": "https://www.dissapore.com/notizie/lex-chef-di-faviken-mecca-stellata-ora-serve-pranzi-a-14-euro/",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/tv/antonella-clerici-ci-ricorda-che-e-lei-la-regina-della-cucina-italiana/",
         "pubDate": "2026-04-27T14:43:50+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2024/08/antonella-clerici.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ora c’è la prova scientifica che i fermentati favoriscono la longevità",
-        "description": "Uno studio ha scoperto, dopo 50 anni di mistero, come un microelemento sintetizzato dai batteri entri nelle nostre cellule e le mantenga in salute.\nL'articolo O…",
-        "link": "https://www.dissapore.com/notizie/ora-ce-la-prova-scientifica-che-i-fermentati-favoriscono-la-longevita/",
-        "pubDate": "2026-04-27T10:42:14+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/kefir-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
