@@ -1,7 +1,34 @@
 {
-  "generated": "2026-05-01T13:20:28.087243+00:00",
+  "generated": "2026-05-01T19:13:29.559620+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Weekend del Primo Maggio in Tuscia, tra borghi e natura",
+        "description": "Un itinerario tra borghi medievali, laghi vulcanici e parchi della Tuscia per un Primo Maggio tra cultura e natura a pochi chilometri da Roma.…",
+        "link": "https://www.stylosophy.it/articolo/weekend-del-primo-maggio-in-tuscia-tra-borghi-e-natura/250417/",
+        "pubDate": "2026-05-01T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Grappa del Trentino, Alessandro Marzadro confermato presidente fino al 2029",
+        "description": "Alessandro Marzadro è stato confermato all’unanimità alla presidenza dell’Istituto di Tutela Grappa del Trentino per il triennio 2026-2029. La decisione è stata…",
+        "link": "https://www.winemag.it/grappa-del-trentino-alessandro-marzadro-confermato-presidente-fino-al-2029/",
+        "pubDate": "2026-05-01T14:33:51+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Il vino non si spiega, si vive”: la strategia (unica) di Ca’ del Bosco per far innamorare le persone",
+        "description": "Niente fiere né pubblicità: la cantina di Franciacorta punta tutto sull’esperienza tra arte, tecnologia e degustazioni immersive…",
+        "link": "https://www.gamberorosso.it/notizie/vino/ca-del-bosco-vino-non-si-spiega-si-vive/",
+        "pubDate": "2026-05-01T13:46:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Diletta Leotta, anche in gravidanza non rinuncia allo stile più trendy e glamour: scopri qui il Look sporty-chic!",
         "description": "Diletta Leotta è da sempre una grande amante della moda e anche in gravidanza, non rinuncia ad essere sempre al top e stilosa.…",
@@ -10,6 +37,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Il costume minimal-chic che valorizza ogni fisicità? Esiste e l’ha lanciato Calzedonia (e accontenta davvero tutte)!",
+        "description": "Un costume minimal nelle linee che abbraccia con morbidezza il corpo senza costrizioni: Calzedonia presenta la nuova linea Premium Fit In fatto di costumi da ba…",
+        "link": "https://www.grazia.it/moda/news-moda/costumi-calzedonia-semplici-eleganti-stanno-bene-a-tutte-premium-fit-estate-2026-969244",
+        "pubDate": "2026-05-01T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/calzedonia-3.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "La pizza Tokyo style è il nuovo trend nel mondo, quanto ci metterà ad arrivare in Italia?",
@@ -145,45 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cresce perché non può crescere: ecco il paradosso che tiene alte le quotazioni dei vini della Borgogna",
-        "description": "Mentre Bordeaux aumentava la produzione, qui si differenziavano i mercati. Oggi i risultati si vedono: tengono i prezzi dei grand cru, esplode la richiesta di d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/borgogna-quotazioni-vini-les-grands-jours-2026/",
-        "pubDate": "2026-04-30T15:04:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dove mangiare ottimi spaghetti alle vongole a Pescara vista mare",
-        "description": "Con la bella stagione torna il piatto simbolo della costa: ecco i ristoranti di Pescara dove mangiare spaghetti alle vongole senza sbagliare…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-ristoranti-pescara-spaghetti-vongole/",
-        "pubDate": "2026-04-30T14:15:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dai sandali a metà, alla modella incinta in passerella: i dettagli “insoliti” dell’ultima sfilata di Chanel",
-        "description": "A Biarritz, alla Chanel Cruise 2027, non sono stati i tailleur a rubare la scena ma sandali quasi senza suola e un pancione in tweed bianco. Dietro queste due i…",
-        "link": "https://www.grazia.it/moda/news-moda/chanel-sandali-a-meta-tallone-modella-incinta-sfilata-cruise-969374",
-        "pubDate": "2026-04-30T13:24:05+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/chanel-cruise-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Camicia bianca + pantaloni neri: la combo più chic (e furba) da indossare questa primavera, parola di Charlotte Casiraghi",
-        "description": "Bastano una camicia bianca e un paio di pantaloni neri a costruire un look da indossare tutti i giorni? A guardare Charlotte Casiraghi possiamo affermare con un…",
-        "link": "https://www.grazia.it/moda/celebrity-style/camicia-bianca-pantaloni-neri-look-come-abbinare-charlotte-casiraghi-chanel-968936",
-        "pubDate": "2026-04-30T13:05:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/casirgahi-camcia-bianca-evi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Weekend del Primo Maggio in Tuscia, tra borghi e natura",
+        "description": "Un itinerario tra borghi medievali, laghi vulcanici e parchi della Tuscia per un Primo Maggio tra cultura e natura a pochi chilometri da Roma.…",
+        "link": "https://www.stylosophy.it/articolo/weekend-del-primo-maggio-in-tuscia-tra-borghi-e-natura/250417/",
+        "pubDate": "2026-05-01T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Diletta Leotta, anche in gravidanza non rinuncia allo stile più trendy e glamour: scopri qui il Look sporty-chic!",
         "description": "Diletta Leotta è da sempre una grande amante della moda e anche in gravidanza, non rinuncia ad essere sempre al top e stilosa.…",
@@ -192,6 +201,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Il costume minimal-chic che valorizza ogni fisicità? Esiste e l’ha lanciato Calzedonia (e accontenta davvero tutte)!",
+        "description": "Un costume minimal nelle linee che abbraccia con morbidezza il corpo senza costrizioni: Calzedonia presenta la nuova linea Premium Fit In fatto di costumi da ba…",
+        "link": "https://www.grazia.it/moda/news-moda/costumi-calzedonia-semplici-eleganti-stanno-bene-a-tutte-premium-fit-estate-2026-969244",
+        "pubDate": "2026-05-01T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/calzedonia-3.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Sarah Pidgeon, Anne Hathaway e Hilary Duff e tutte le Best Dressed della settimana",
@@ -320,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Chaumet celebra la natura con un gala da sogno alle porte di Parigi",
-        "description": "Immersa nella campagna alle porte di Parigi, l’abbazia di Abbaye des Vaux-de-Cernay si è trasformata per una notte in un teatro incantato dove la natura ha inco…",
-        "link": "https://www.grazia.it/moda/news-moda/chaumet-a-journey-through-nature-gala-alta-gioielleria-968501",
-        "pubDate": "2026-04-29T13:48:54+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/ok-apertura-1-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Chiara Ferragni, con il Look di super tendenza per questa stagione: ma occhio agli accessori, che fanno la differenza!",
         "description": "Ecco un look casual-chic perfetto per questa stagione sfoggiato da Chiara Ferragni: qui per tutti i dettagli.…",
         "link": "https://www.stylosophy.it/articolo/chiara-ferragni-con-il-look-di-super-tendenza-per-questa-stagione-ma-occhio-agli-accessori-che-fanno-la-differenza/250403/",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Kylie Jenner lancia la sua nuova collezione ‘Born in LA’ con il suo brand Khy",
-        "description": "Kylie Jenner rilancia il suo brand di abbigliamento Khy con una nuova collezione 'Born in LA': qui per i dettagi.…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-la-sua-nuova-collezione-born-in-la-con-il-suo-brand-khy/250377/",
-        "pubDate": "2026-04-28T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Grappa del Trentino, Alessandro Marzadro confermato presidente fino al 2029",
+        "description": "Alessandro Marzadro è stato confermato all’unanimità alla presidenza dell’Istituto di Tutela Grappa del Trentino per il triennio 2026-2029. La decisione è stata…",
+        "link": "https://www.winemag.it/grappa-del-trentino-alessandro-marzadro-confermato-presidente-fino-al-2029/",
+        "pubDate": "2026-05-01T14:33:51+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Il vino non si spiega, si vive”: la strategia (unica) di Ca’ del Bosco per far innamorare le persone",
+        "description": "Niente fiere né pubblicità: la cantina di Franciacorta punta tutto sull’esperienza tra arte, tecnologia e degustazioni immersive…",
+        "link": "https://www.gamberorosso.it/notizie/vino/ca-del-bosco-vino-non-si-spiega-si-vive/",
+        "pubDate": "2026-05-01T13:46:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La pizza Tokyo style è il nuovo trend nel mondo, quanto ci metterà ad arrivare in Italia?",
         "description": "C'è un nuovo stile nel mondo della pizza internazionale, si chiama Tokyo Style, in Asia lo amano e ora arriva a New York City. E da noi?\nL'articolo La pizza Tok…",
@@ -475,15 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dove mangiare ottimi spaghetti alle vongole a Pescara vista mare",
-        "description": "Con la bella stagione torna il piatto simbolo della costa: ecco i ristoranti di Pescara dove mangiare spaghetti alle vongole senza sbagliare…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-ristoranti-pescara-spaghetti-vongole/",
-        "pubDate": "2026-04-30T14:15:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cosa resta del pesto nel pesto del supermercato?",
         "description": "Esce la classifica di Altroconsumo dedicata ai sughi pronti, e il pesto GDO se la cava malissimo: su 79 prodotti analizzati nessuno arriva alla sufficienza. E g…",
         "link": "https://www.dissapore.com/spesa/cosa-resta-del-pesto-nel-pesto-del-supermercato/",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/spesa/perche-dovremmo-mangiare-i-biscotti-senza-zucchero/",
         "pubDate": "2026-04-29T10:45:18+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/maltitolo-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "The Great Pizza Tour parte da Caserta, raccontando le migliori pizzerie del territorio",
-        "description": "Ha preso il via da Caserta il The Great Pizza Tour 2026, premiando le migliori pizzerie di un territorio dalla forte identità. \nL'articolo The Great Pizza Tour …",
-        "link": "https://www.dissapore.com/notizie/the-great-pizza-tour-parte-da-caserta-raccontando-le-migliori-pizzerie-del-territorio/",
-        "pubDate": "2026-04-29T08:11:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/IMG_0166-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
