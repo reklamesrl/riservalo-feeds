@@ -1,7 +1,70 @@
 {
-  "generated": "2026-05-01T08:12:17.896979+00:00",
+  "generated": "2026-05-01T13:20:28.087243+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Diletta Leotta, anche in gravidanza non rinuncia allo stile più trendy e glamour: scopri qui il Look sporty-chic!",
+        "description": "Diletta Leotta è da sempre una grande amante della moda e anche in gravidanza, non rinuncia ad essere sempre al top e stilosa.…",
+        "link": "https://www.stylosophy.it/articolo/diletta-leotta-anche-in-gravidanza-non-rinuncia-allo-stile-piu-trendy-e-glamour-scopri-qui-il-look-sporty-chic/250451/",
+        "pubDate": "2026-05-01T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La pizza Tokyo style è il nuovo trend nel mondo, quanto ci metterà ad arrivare in Italia?",
+        "description": "C'è un nuovo stile nel mondo della pizza internazionale, si chiama Tokyo Style, in Asia lo amano e ora arriva a New York City. E da noi?\nL'articolo La pizza Tok…",
+        "link": "https://www.dissapore.com/notizie/la-pizza-tokyo-style-e-il-nuovo-trend-nel-mondo-quanto-ci-mettera-ad-arrivare-in-italia/",
+        "pubDate": "2026-05-01T10:30:37+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pizza-tokyo-stile.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Da Lipsia a Francoforte: il viaggio che racconta due Germanie (anche a tavola)",
+        "description": "Tra taverne storiche, mercati popolari, cucina vegana e sidro di mele, viaggio tra due città simbolo di una Germania ancora divisa tra Est e Ovest…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/lipsia-francoforte-germania-cosa-mangiare-est-ovest/",
+        "pubDate": "2026-05-01T09:58:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sarah Pidgeon, Anne Hathaway e Hilary Duff e tutte le Best Dressed della settimana",
+        "description": "Dai red carpet più esclusivi agli appuntamenti televisivi, le star continuano a farci sognare con look che raccontano molto più di un semplice outfit. Questa se…",
+        "link": "https://www.grazia.it/moda/celebrity-style/anne-hathaway-hilary-duff-sarah-pidgeon-star-meglio-vestite-best-dressed-settimana-968832",
+        "pubDate": "2026-05-01T09:10:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_Best_dressed_29_04.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Qui le acque profumate più dolci e gourmand della Primavera 2026",
+        "description": "Dolci e gourmand, queste 5 acque profumate sono il must have della Primavera 2026. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/qui-le-acque-profumate-piu-dolci-e-gourmand-della-primavera-2026/250439/",
+        "pubDate": "2026-05-01T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Trump cancella i dazi sullo scotch “in omaggio al Re e alla Regina”",
+        "description": "Donald Trump è rimasto molto colpito dalla visita dei reali inglesi, tanto da fare un enorme regalo all'industria delle distillerie scozzesi.\nL'articolo Trump c…",
+        "link": "https://www.dissapore.com/notizie/ttrump-cancella-i-dazi-sullo-scotch-in-omaggio-al-re-e-alla-regina/",
+        "pubDate": "2026-05-01T08:21:04+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/Donald-Trump-1-scaled-e1758527140224.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Mortadella e prosciutto di pesce: a Polignano la macelleria di mare che sorprende",
+        "description": "Da Dorsale il pesce si lavora come la carne: niente ghiaccio, maturazione controllata e una salumeria di mare che cambia le abitudini…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/dorsale-polignano-mortadella-prosciutto-pesce-macelleria-mare/",
+        "pubDate": "2026-05-01T08:18:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il ristorante sul mare dove il pesce si cuoce alla griglia come 500 anni fa",
         "description": "A Getaria, sulla costa basca, Elkano è diventato un’istituzione: qui il pesce arriva dai pescatori e si cucina intero sulla griglia, seguendo una tradizione lun…",
@@ -10,6 +73,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Piccoli dettagli, grandi storie. Le fashion news della settimana si intrecciano come il crochet, simbolo leggero e sofisticato della nostra estate. #FashionPill…",
+        "link": "https://www.grazia.it/moda/news-moda/birkenstock-ugg-pinkpantheress-new-balance-grey-days-net-a-porter-sarah-pigeon-zimmermann-como-sandro-paris-crochet-paciotti-cintura-969163",
+        "pubDate": "2026-05-01T07:03:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/Senza-titolo-94.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Sempre più persone scelgono formaggi vegetariani: cosa cambia",
@@ -93,15 +165,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Vecchia Cantina di Montepulciano entra tra i soci di Caviro. Partnership nel nome del sangiovese",
-        "description": "L'operazione non solo amplia il panorama dei prodotti a disposizione del gruppo romagnolo, ma ridà speranza ai soci toscani delle ex Cantine Leonardo, alla luce…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vecchia-cantina-montepulciano-socia-caviro/",
-        "pubDate": "2026-04-30T14:14:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dai sandali a metà, alla modella incinta in passerella: i dettagli “insoliti” dell’ultima sfilata di Chanel",
         "description": "A Biarritz, alla Chanel Cruise 2027, non sono stati i tailleur a rubare la scena ma sandali quasi senza suola e un pancione in tweed bianco. Dietro queste due i…",
         "link": "https://www.grazia.it/moda/news-moda/chanel-sandali-a-meta-tallone-modella-incinta-sfilata-cruise-969374",
@@ -118,72 +181,45 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/casirgahi-camcia-bianca-evi.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Michelle Hunziker, cosa ha indossato per la prima puntata di Tim Battiti Live Spring FOTO",
-        "description": "Ecco qui di seguito che cosa ha indossato Michelle Hunziker per la prima puntata di Tim Battiti Live Spring.…",
-        "link": "https://www.stylosophy.it/articolo/michelle-hunziker-cosa-ha-indossato-per-la-prima-puntata-di-tim-battiti-live-spring-foto/250433/",
-        "pubDate": "2026-04-30T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I numeri del vino francese sono peggio del previsto: produzione sotto i 35 milioni di ettolitri ed export a picco",
-        "description": "La congiuntura negativa non risparmia neppure i consumi interni. Tra dazi, domanda globale in rallentamento e cambiamento di abitudini soffrono anche Champagne …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-francese-export-consumi-produzione-2026/",
-        "pubDate": "2026-04-30T12:57:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "MET Gala: i look più memorabili visti negli ultimi 20 anni",
-        "description": "L&#8217;appuntamento con l&#8217;edizione 2026 del MET Gala sta per arrivare. Lunedì 4 Maggio, infatti, nella consueta cornice del Metropolitan Museum di New Yo…",
-        "link": "https://www.grazia.it/moda/celebrity-style/met-gala-storia-abiti-look-piu-belli",
-        "pubDate": "2026-04-30T12:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2023/04/COVER-met-gala-best-look-DESK.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Cosa resta del pesto nel pesto del supermercato?",
-        "description": "Esce la classifica di Altroconsumo dedicata ai sughi pronti, e il pesto GDO se la cava malissimo: su 79 prodotti analizzati nessuno arriva alla sufficienza. E g…",
-        "link": "https://www.dissapore.com/spesa/cosa-resta-del-pesto-nel-pesto-del-supermercato/",
-        "pubDate": "2026-04-30T11:57:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/pesto-barilla-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I pantaloni beige di Uniqlo sono il pezzo jolly del guardaroba che dona a tutte e risolve al volo ogni dilemma di look",
-        "description": "Arriva la bella stagione e non vediamo l’ora di tornare a scoprire le gambe e di rispolverare abiti leggeri e gonne corte. Ma in questo periodo dell’anno avere …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-beige-uniqlo-come-abbinare-idee-outfit-primavera-969250",
-        "pubDate": "2026-04-30T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Pantaloni_Uniqlo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Accademia della Vite e del Vino, al via 77° Anno Accademico",
-        "description": "Riparte il 5 maggio a Roma l’attività 2026 dell’Accademia Italiana della Vite e del Vino con l’inaugurazione del settantasettesimo Anno Accademico. L’appuntamen…",
-        "link": "https://www.winemag.it/accademia-della-vite-e-del-vino-al-via-77-anno-accademico/",
-        "pubDate": "2026-04-30T09:40:15+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Capelli perfettamente tirati? Ecco 5 gel e cere a prova di slickback",
-        "description": "SOS Capelli tirati senza imperfezioni? Con questi 5 gel e cere è possibile ottenere acconciature veloci e impeccabili dall'effetto \"slick\".…",
-        "link": "https://www.stylosophy.it/articolo/capelli-perfettamente-tirati-ecco-5-gel-e-cere-a-prova-di-slickback/250422/",
-        "pubDate": "2026-04-30T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Diletta Leotta, anche in gravidanza non rinuncia allo stile più trendy e glamour: scopri qui il Look sporty-chic!",
+        "description": "Diletta Leotta è da sempre una grande amante della moda e anche in gravidanza, non rinuncia ad essere sempre al top e stilosa.…",
+        "link": "https://www.stylosophy.it/articolo/diletta-leotta-anche-in-gravidanza-non-rinuncia-allo-stile-piu-trendy-e-glamour-scopri-qui-il-look-sporty-chic/250451/",
+        "pubDate": "2026-05-01T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Sarah Pidgeon, Anne Hathaway e Hilary Duff e tutte le Best Dressed della settimana",
+        "description": "Dai red carpet più esclusivi agli appuntamenti televisivi, le star continuano a farci sognare con look che raccontano molto più di un semplice outfit. Questa se…",
+        "link": "https://www.grazia.it/moda/celebrity-style/anne-hathaway-hilary-duff-sarah-pidgeon-star-meglio-vestite-best-dressed-settimana-968832",
+        "pubDate": "2026-05-01T09:10:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_Best_dressed_29_04.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Qui le acque profumate più dolci e gourmand della Primavera 2026",
+        "description": "Dolci e gourmand, queste 5 acque profumate sono il must have della Primavera 2026. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/qui-le-acque-profumate-piu-dolci-e-gourmand-della-primavera-2026/250439/",
+        "pubDate": "2026-05-01T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Piccoli dettagli, grandi storie. Le fashion news della settimana si intrecciano come il crochet, simbolo leggero e sofisticato della nostra estate. #FashionPill…",
+        "link": "https://www.grazia.it/moda/news-moda/birkenstock-ugg-pinkpantheress-new-balance-grey-days-net-a-porter-sarah-pigeon-zimmermann-como-sandro-paris-crochet-paciotti-cintura-969163",
+        "pubDate": "2026-05-01T07:03:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/Senza-titolo-94.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Primo Maggio in Puglia 2026: il concerto-evento a Taranto, borghi e gite tra mare e natura",
         "description": "Dal grande concerto di Taranto alle città bianche della Valle d’Itria, fino ai parchi naturali tra mare e Murgia: il Primo Maggio in Puglia diventa un itinerari…",
@@ -302,24 +338,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Non ci sono dubbi: il bianco è il colore della primavera. 7 look visti su Instagram a cui ispirarsi",
-        "description": "Quando la bella stagione bussa alle porte, a cambiare &#8211; in primis &#8211; sono sempre le palette cromatiche che la accompagnano. Ancor prima di silhouette…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-il-bianco-in-primavera-estate-inspo-look-outfit-total-white-idee-abbinamenti-968798",
-        "pubDate": "2026-04-29T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_inspo_bianco_IG.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Gucci Storia: a Firenze riapre Palazzo Gucci con una nuova mostra",
-        "description": "A Firenze c’è un nuovo (vecchio) indirizzo da segnare subito: Palazzo Gucci riapre le sue porte in Piazza della Signoria con un progetto completamente ripensato…",
-        "link": "https://www.grazia.it/moda/news-moda/gucci-storia-firenze-palazzo-gucci-riapertura-968762",
-        "pubDate": "2026-04-29T12:11:03+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/ok-apertura-1-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "I sieri viso antirughe sotto i 30 euro per una pelle al top",
         "description": "Questi 5 sieri viso antirughe sono il perfetto compromesso tra qualità e convenienza, un must da accaparrarsi ASAP!…",
         "link": "https://www.stylosophy.it/articolo/i-sieri-viso-antirughe-sotto-i-30-euro-per-una-pelle-al-top/250391/",
@@ -345,27 +363,45 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "SOS Capelli sporchi? Ecco 5 consigli da non perdere assolutamente",
-        "description": "5 consigli infallibili per saper gestire i capelli sporchi e ridurre i lavaggi settimanali. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/sos-capelli-sporchi-ecco-5-consigli-da-non-perdere-assolutamente/250335/",
-        "pubDate": "2026-04-28T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Spiagge più belle del Mediterraneo: 10 destinazioni imperdibili",
-        "description": "Dal mare turchese della Sardegna alle coste rosa di Creta, un viaggio tra le spiagge più spettacolari del Mediterraneo. Luoghi iconici, accessi, periodi miglior…",
-        "link": "https://www.stylosophy.it/articolo/spiagge-piu-belle-del-mediterraneo-10-destinazioni/250352/",
-        "pubDate": "2026-04-27T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La pizza Tokyo style è il nuovo trend nel mondo, quanto ci metterà ad arrivare in Italia?",
+        "description": "C'è un nuovo stile nel mondo della pizza internazionale, si chiama Tokyo Style, in Asia lo amano e ora arriva a New York City. E da noi?\nL'articolo La pizza Tok…",
+        "link": "https://www.dissapore.com/notizie/la-pizza-tokyo-style-e-il-nuovo-trend-nel-mondo-quanto-ci-mettera-ad-arrivare-in-italia/",
+        "pubDate": "2026-05-01T10:30:37+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pizza-tokyo-stile.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Da Lipsia a Francoforte: il viaggio che racconta due Germanie (anche a tavola)",
+        "description": "Tra taverne storiche, mercati popolari, cucina vegana e sidro di mele, viaggio tra due città simbolo di una Germania ancora divisa tra Est e Ovest…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/lipsia-francoforte-germania-cosa-mangiare-est-ovest/",
+        "pubDate": "2026-05-01T09:58:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Trump cancella i dazi sullo scotch “in omaggio al Re e alla Regina”",
+        "description": "Donald Trump è rimasto molto colpito dalla visita dei reali inglesi, tanto da fare un enorme regalo all'industria delle distillerie scozzesi.\nL'articolo Trump c…",
+        "link": "https://www.dissapore.com/notizie/ttrump-cancella-i-dazi-sullo-scotch-in-omaggio-al-re-e-alla-regina/",
+        "pubDate": "2026-05-01T08:21:04+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/Donald-Trump-1-scaled-e1758527140224.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Mortadella e prosciutto di pesce: a Polignano la macelleria di mare che sorprende",
+        "description": "Da Dorsale il pesce si lavora come la carne: niente ghiaccio, maturazione controllata e una salumeria di mare che cambia le abitudini…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/dorsale-polignano-mortadella-prosciutto-pesce-macelleria-mare/",
+        "pubDate": "2026-05-01T08:18:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il ristorante sul mare dove il pesce si cuoce alla griglia come 500 anni fa",
         "description": "A Getaria, sulla costa basca, Elkano è diventato un’istituzione: qui il pesce arriva dai pescatori e si cucina intero sulla griglia, seguendo una tradizione lun…",
@@ -448,24 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Vecchia Cantina di Montepulciano entra tra i soci di Caviro. Partnership nel nome del sangiovese",
-        "description": "L'operazione non solo amplia il panorama dei prodotti a disposizione del gruppo romagnolo, ma ridà speranza ai soci toscani delle ex Cantine Leonardo, alla luce…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vecchia-cantina-montepulciano-socia-caviro/",
-        "pubDate": "2026-04-30T14:14:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I numeri del vino francese sono peggio del previsto: produzione sotto i 35 milioni di ettolitri ed export a picco",
-        "description": "La congiuntura negativa non risparmia neppure i consumi interni. Tra dazi, domanda globale in rallentamento e cambiamento di abitudini soffrono anche Champagne …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-francese-export-consumi-produzione-2026/",
-        "pubDate": "2026-04-30T12:57:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cosa resta del pesto nel pesto del supermercato?",
         "description": "Esce la classifica di Altroconsumo dedicata ai sughi pronti, e il pesto GDO se la cava malissimo: su 79 prodotti analizzati nessuno arriva alla sufficienza. E g…",
         "link": "https://www.dissapore.com/spesa/cosa-resta-del-pesto-nel-pesto-del-supermercato/",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/notizie/the-great-pizza-tour-parte-da-caserta-raccontando-le-migliori-pizzerie-del-territorio/",
         "pubDate": "2026-04-29T08:11:56+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/IMG_0166-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’ex chef di Fäviken, Mecca stellata, ora serve pranzi a 14 euro",
-        "description": "La nuova vita di Magnus Nilsson, creatore del Fäviken, è molto diversa da come ve la immaginate.\nL'articolo L&#8217;ex chef di Fäviken, Mecca stellata, ora serv…",
-        "link": "https://www.dissapore.com/notizie/lex-chef-di-faviken-mecca-stellata-ora-serve-pranzi-a-14-euro/",
-        "pubDate": "2026-04-28T16:30:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/magnus-nilsson.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Lo chef che non voleva i gay e i comunisti alla fine è stato condannato a pagare",
-        "description": "La vicenda del post discriminatorio dello chef Paolo Cappuccio finisce in modo esemplare, ed era ora.\nL'articolo Lo chef che non voleva i gay e i comunisti alla…",
-        "link": "https://www.dissapore.com/notizie/lo-chef-che-non-voleva-i-gay-e-i-comunisti-alla-fine-e-stato-condannato-a-pagare/",
-        "pubDate": "2026-04-28T14:50:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/tatuaggio-fascista-varallo.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
