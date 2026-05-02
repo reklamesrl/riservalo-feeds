@@ -1,7 +1,52 @@
 {
-  "generated": "2026-05-02T13:13:56.798360+00:00",
+  "generated": "2026-05-02T19:00:38.864992+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Vuoi una casa chic? Queste lampade dorate Maisons du Monde fanno la differenza",
+        "description": "Design dorato, materiali raffinati e luce calda per trasformare ogni ambiente. Una selezione di lampade Maisons du Monde tra estetica e funzionalità.…",
+        "link": "https://www.stylosophy.it/articolo/queste-lampade-dorate-maisons-du-monde-fanno-la-differenza/250458/",
+        "pubDate": "2026-05-02T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Si chiama cervellata ma il cervello non c’entra: cos’è davvero",
+        "description": "Dalla tradizione di Toritto alla ricetta con carne ovicaprina e pecorino: storia e caratteristiche di uno dei prodotti più curiosi della Puglia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cervellata-cos-e-salsiccia-pugliese-toritto/",
+        "pubDate": "2026-05-02T14:12:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In attesa del Met Gala 2026, facciamo un piccolo “ripasso” degli abiti più belli e iconici degli ultimi anni",
+        "description": "Manca poco all&#8217;edizione 2026 del Met Gala: la sera del 4 maggio, infatti, avrà luogo a New York l&#8217;appuntamento più atteso dal fashion system, dedica…",
+        "link": "https://www.grazia.it/moda/celebrity-style/met-gala-ball-abiti-memorabili-iconici",
+        "pubDate": "2026-05-02T14:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2017/04/met-ball-amarcord-DESKTOP.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "“Una pizza e una bibita” costano sempre di più, soprattutto a Palermo e Napoli",
+        "description": "Secondo i dati di una recenti indagine, i prezzi per il pasto fuori più semplice non sono solo aumentati, ma hanno grandemente allargato la forbice.\nL'articolo …",
+        "link": "https://www.dissapore.com/notizie/una-pizza-e-una-bibita-costano-sempre-di-piu-soprattutto-a-palermo-e-napoli/",
+        "pubDate": "2026-05-02T13:25:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/pizza-birra-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Alain Ducasse cambia la cucina francese: meno carne e più vegetali",
+        "description": "Nel libro DNA lo chef francese ridefinisce l’alta cucina: più spazio a verdure, legumi e cereali, meno proteine animali e una nuova idea di equilibrio…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/alain-ducasse-cucina-francese-meno-carne-piu-vegetali/",
+        "pubDate": "2026-05-02T13:13:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Kendall Jenner sfoggia il must di stagione per la primavera-estate 2026: scoprilo qui!",
         "description": "Kendall Jenner, sempre al passo con i tempi e con le tendenze del momento, sfoggia il must di stagione per la primavera-estate 2026: ecco qui di seguito di che …",
@@ -102,6 +147,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Grappa del Trentino, Alessandro Marzadro confermato presidente fino al 2029",
+        "description": "Alessandro Marzadro è stato confermato all’unanimità alla presidenza dell’Istituto di Tutela Grappa del Trentino per il triennio 2026-2029. La decisione è stata…",
+        "link": "https://www.winemag.it/grappa-del-trentino-alessandro-marzadro-confermato-presidente-fino-al-2029/",
+        "pubDate": "2026-05-01T14:33:51+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "“Il vino non si spiega, si vive”: la strategia (unica) di Ca’ del Bosco per far innamorare le persone",
         "description": "Niente fiere né pubblicità: la cantina di Franciacorta punta tutto sull’esperienza tra arte, tecnologia e degustazioni immersive…",
         "link": "https://www.gamberorosso.it/notizie/vino/ca-del-bosco-vino-non-si-spiega-si-vive/",
@@ -127,63 +181,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/calzedonia-3.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "La pizza Tokyo style è il nuovo trend nel mondo, quanto ci metterà ad arrivare in Italia?",
-        "description": "C'è un nuovo stile nel mondo della pizza internazionale, si chiama Tokyo Style, in Asia lo amano e ora arriva a New York City. E da noi?\nL'articolo La pizza Tok…",
-        "link": "https://www.dissapore.com/notizie/la-pizza-tokyo-style-e-il-nuovo-trend-nel-mondo-quanto-ci-mettera-ad-arrivare-in-italia/",
-        "pubDate": "2026-05-01T10:30:37+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pizza-tokyo-stile.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Da Lipsia a Francoforte: il viaggio che racconta due Germanie (anche a tavola)",
-        "description": "Tra taverne storiche, mercati popolari, cucina vegana e sidro di mele, viaggio tra due città simbolo di una Germania ancora divisa tra Est e Ovest…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/lipsia-francoforte-germania-cosa-mangiare-est-ovest/",
-        "pubDate": "2026-05-01T09:58:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sarah Pidgeon, Anne Hathaway e Hilary Duff e tutte le Best Dressed della settimana",
-        "description": "Dai red carpet più esclusivi agli appuntamenti televisivi, le star continuano a farci sognare con look che raccontano molto più di un semplice outfit. Questa se…",
-        "link": "https://www.grazia.it/moda/celebrity-style/anne-hathaway-hilary-duff-sarah-pidgeon-star-meglio-vestite-best-dressed-settimana-968832",
-        "pubDate": "2026-05-01T09:10:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_Best_dressed_29_04.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Qui le acque profumate più dolci e gourmand della Primavera 2026",
-        "description": "Dolci e gourmand, queste 5 acque profumate sono il must have della Primavera 2026. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/qui-le-acque-profumate-piu-dolci-e-gourmand-della-primavera-2026/250439/",
-        "pubDate": "2026-05-01T09:00:00+00:00",
+        "title": "Vuoi una casa chic? Queste lampade dorate Maisons du Monde fanno la differenza",
+        "description": "Design dorato, materiali raffinati e luce calda per trasformare ogni ambiente. Una selezione di lampade Maisons du Monde tra estetica e funzionalità.…",
+        "link": "https://www.stylosophy.it/articolo/queste-lampade-dorate-maisons-du-monde-fanno-la-differenza/250458/",
+        "pubDate": "2026-05-02T16:15:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Trump cancella i dazi sullo scotch “in omaggio al Re e alla Regina”",
-        "description": "Donald Trump è rimasto molto colpito dalla visita dei reali inglesi, tanto da fare un enorme regalo all'industria delle distillerie scozzesi.\nL'articolo Trump c…",
-        "link": "https://www.dissapore.com/notizie/ttrump-cancella-i-dazi-sullo-scotch-in-omaggio-al-re-e-alla-regina/",
-        "pubDate": "2026-05-01T08:21:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/Donald-Trump-1-scaled-e1758527140224.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "In attesa del Met Gala 2026, facciamo un piccolo “ripasso” degli abiti più belli e iconici degli ultimi anni",
+        "description": "Manca poco all&#8217;edizione 2026 del Met Gala: la sera del 4 maggio, infatti, avrà luogo a New York l&#8217;appuntamento più atteso dal fashion system, dedica…",
+        "link": "https://www.grazia.it/moda/celebrity-style/met-gala-ball-abiti-memorabili-iconici",
+        "pubDate": "2026-05-02T14:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2017/04/met-ball-amarcord-DESKTOP.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Mortadella e prosciutto di pesce: a Polignano la macelleria di mare che sorprende",
-        "description": "Da Dorsale il pesce si lavora come la carne: niente ghiaccio, maturazione controllata e una salumeria di mare che cambia le abitudini…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/dorsale-polignano-mortadella-prosciutto-pesce-macelleria-mare/",
-        "pubDate": "2026-05-01T08:18:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Kendall Jenner sfoggia il must di stagione per la primavera-estate 2026: scoprilo qui!",
         "description": "Kendall Jenner, sempre al passo con i tempi e con le tendenze del momento, sfoggia il must di stagione per la primavera-estate 2026: ecco qui di seguito di che …",
@@ -345,27 +363,36 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Chanel e Zara dominano la Lyst Index dei primi mesi del 2026",
-        "description": "Nel Lyst Index primo trimestre 2026 Chanel balza al primo posto mentre Zara emerge come rivelazione inattesa. La nuova formula Desire, Demand, Discovery ridiseg…",
-        "link": "https://www.grazia.it/moda/chanel-zara-lyst-index-2026-primo-trimestre-968999",
-        "pubDate": "2026-04-29T14:20:06+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/01/EVI-Chanel-Haute-Couture-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Chiara Ferragni, con il Look di super tendenza per questa stagione: ma occhio agli accessori, che fanno la differenza!",
-        "description": "Ecco un look casual-chic perfetto per questa stagione sfoggiato da Chiara Ferragni: qui per tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-con-il-look-di-super-tendenza-per-questa-stagione-ma-occhio-agli-accessori-che-fanno-la-differenza/250403/",
-        "pubDate": "2026-04-29T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Si chiama cervellata ma il cervello non c’entra: cos’è davvero",
+        "description": "Dalla tradizione di Toritto alla ricetta con carne ovicaprina e pecorino: storia e caratteristiche di uno dei prodotti più curiosi della Puglia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cervellata-cos-e-salsiccia-pugliese-toritto/",
+        "pubDate": "2026-05-02T14:12:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Una pizza e una bibita” costano sempre di più, soprattutto a Palermo e Napoli",
+        "description": "Secondo i dati di una recenti indagine, i prezzi per il pasto fuori più semplice non sono solo aumentati, ma hanno grandemente allargato la forbice.\nL'articolo …",
+        "link": "https://www.dissapore.com/notizie/una-pizza-e-una-bibita-costano-sempre-di-piu-soprattutto-a-palermo-e-napoli/",
+        "pubDate": "2026-05-02T13:25:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/pizza-birra-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Alain Ducasse cambia la cucina francese: meno carne e più vegetali",
+        "description": "Nel libro DNA lo chef francese ridefinisce l’alta cucina: più spazio a verdure, legumi e cereali, meno proteine animali e una nuova idea di equilibrio…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/alain-ducasse-cucina-francese-meno-carne-piu-vegetali/",
+        "pubDate": "2026-05-02T13:13:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Per i Mondiali di calcio Lay’s crea la patatina ispirata all’Italia assente",
         "description": "Il gigante delle patatine è sponsor ufficiale della Coppa del Mondo, ma forse non gli è arrivata la notizia della nostra assenza. \nL'articolo Per i Mondiali di …",
@@ -439,6 +466,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Grappa del Trentino, Alessandro Marzadro confermato presidente fino al 2029",
+        "description": "Alessandro Marzadro è stato confermato all’unanimità alla presidenza dell’Istituto di Tutela Grappa del Trentino per il triennio 2026-2029. La decisione è stata…",
+        "link": "https://www.winemag.it/grappa-del-trentino-alessandro-marzadro-confermato-presidente-fino-al-2029/",
+        "pubDate": "2026-05-01T14:33:51+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "“Il vino non si spiega, si vive”: la strategia (unica) di Ca’ del Bosco per far innamorare le persone",
         "description": "Niente fiere né pubblicità: la cantina di Franciacorta punta tutto sull’esperienza tra arte, tecnologia e degustazioni immersive…",
         "link": "https://www.gamberorosso.it/notizie/vino/ca-del-bosco-vino-non-si-spiega-si-vive/",
@@ -484,24 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il ristorante sul mare dove il pesce si cuoce alla griglia come 500 anni fa",
-        "description": "A Getaria, sulla costa basca, Elkano è diventato un’istituzione: qui il pesce arriva dai pescatori e si cucina intero sulla griglia, seguendo una tradizione lun…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/elkano-getaria-ristorante-griglia-pesce-paesi-baschi/",
-        "pubDate": "2026-05-01T07:09:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sempre più persone scelgono formaggi vegetariani: cosa cambia",
-        "description": "Dalle alternative al caglio animale alle tecniche tradizionali che tornano: cresce la domanda di formaggi vegetariani e cambia il modo di produrli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sempre-piu-persone-scelgono-formaggi-vegetariani-cosa-cambia/",
-        "pubDate": "2026-05-01T05:03:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il Consorzio del Prosecco ha un nuovo nemico: “Bella Principessa”",
         "description": "Il Consorzio del Prosecco porta le sue battaglie di tutela fino alla High Court londinese.\nL'articolo Il Consorzio del Prosecco ha un nuovo nemico: &#8220;Bella…",
         "link": "https://www.dissapore.com/notizie/il-consorzio-del-prosecco-ha-un-nuovo-nemico-bella-principessa/",
@@ -520,31 +538,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "Il gelato del supermercato, nel 2026, vive tutto il nostro paradosso",
-        "description": "Il gelato nei freezer della GDO, nel 2026, si contraddice. Cosa c'è di nuovo, dal conforto crasso di cioccolatini e merendine su stecco alle vaschette \"zero\" e …",
-        "link": "https://www.dissapore.com/spesa/gelati-del-supermercato-2026-le-novita/",
-        "pubDate": "2026-04-30T06:19:03+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/gelato-vaschetta-Magnum-utopia.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Hana-bi è il bagno più gourmet della Romagna, e ci vorrebbero più ristoranti sul mare così",
-        "description": "A Marina di Ravenna c'è un giovanissimo chef che propone una cucina golosa, moderna e sgargiante in uno stabilimento balneare: perché non ci sono più posti come…",
-        "link": "https://www.dissapore.com/ristoranti/hana-bi-a-marina-di-ravenna-recensione/",
-        "pubDate": "2026-04-29T16:37:35+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/hana-bi-emilia.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Tutti a parlare della Nutella, ma alla fine sono state multate le patatine",
-        "description": "Tre colossi delle patatine sono stati multati dall'AGCM per aver fatto cartello nei confronti dei supermercati. \nL'articolo Tutti a parlare della Nutella, ma al…",
-        "link": "https://www.dissapore.com/notizie/tutti-a-parlare-della-nutella-ma-alla-fine-sono-state-multate-le-patatine/",
-        "pubDate": "2026-04-29T11:39:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/12/shutterstock_2645883707-scaled.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
+        "title": "Accademia della Vite e del Vino, al via 77° Anno Accademico",
+        "description": "Riparte il 5 maggio a Roma l’attività 2026 dell’Accademia Italiana della Vite e del Vino con l’inaugurazione del settantasettesimo Anno Accademico. L’appuntamen…",
+        "link": "https://www.winemag.it/accademia-della-vite-e-del-vino-al-via-77-anno-accademico/",
+        "pubDate": "2026-04-30T09:40:15+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       }
     ]
   }
