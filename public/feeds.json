@@ -1,7 +1,43 @@
 {
-  "generated": "2026-05-01T19:13:29.559620+00:00",
+  "generated": "2026-05-02T07:45:25.140752+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La donna che parlava alle galline (e che tutti credevano pazza)",
+        "description": "Nell’Ottocento fu isolata e derisa, oggi è considerata una pioniera: la storia di Nancy Luce, allevatrice e poetessa che vedeva nelle galline qualcosa di più…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/nancy-luce-signora-galline-storia/",
+        "pubDate": "2026-05-02T06:09:36+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nella foresta della Puglia c’è uno chef che trasforma le verdure in salumi",
+        "description": "Nel cuore del Gargano lo chef Libero Ratti lavora i vegetali come fossero carne: carote, sedano rapa e zucchine diventano prosciutti, bottarga e salumi…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/chef-libero-ratti-verdure-salumi-foresta-umbra-gargano/",
+        "pubDate": "2026-05-02T06:07:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Se i dim sum non sono fatti a mano, una legge cinese obbliga a specificarlo",
+        "description": "Una nuova legge della città di Guangzhou punta a preservare il patrimonio culturale e gastronomico dei dim sum: una targa identifica i locali dove vengono fatti…",
+        "link": "https://www.dissapore.com/notizie/se-i-dim-sum-non-sono-fatti-a-mano-una-legge-cinese-obbliga-a-specificarlo/",
+        "pubDate": "2026-05-02T05:02:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/dim-sum-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Il fine dining è un film già visto”: Piero Pompili smonta i ristoranti d’autore",
+        "description": "Dalla crisi della cucina creativa al ruolo dimenticato della sala: perché oggi non basta più mangiare bene per riempire un ristorante…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/pompili-fine-dining-film-gia-visto-crisi-ristoranti/",
+        "pubDate": "2026-05-02T04:46:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Weekend del Primo Maggio in Tuscia, tra borghi e natura",
         "description": "Un itinerario tra borghi medievali, laghi vulcanici e parchi della Tuscia per un Primo Maggio tra cultura e natura a pochi chilometri da Roma.…",
@@ -142,42 +178,6 @@
         "description": "La correspondents dinner di Washington ha aperto un vero mistero: chi e perché ha rubato le bottiglie presenti in sala? Tra fake news e parodie, ecco cosa è suc…",
         "link": "https://www.gamberorosso.it/notizie/vino/sparatoria-casa-bianca-furto-vino/",
         "pubDate": "2026-04-30T17:07:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Primo Maggio in Puglia 2026: il concerto-evento a Taranto, borghi e gite tra mare e natura",
-        "description": "Dal grande concerto di Taranto alle città bianche della Valle d’Itria, fino ai parchi naturali tra mare e Murgia: il Primo Maggio in Puglia diventa un itinerari…",
-        "link": "https://www.stylosophy.it/articolo/primo-maggio-in-puglia-2026-il-concerto-evento-a-taranto-borghi-e-gite/250412/",
-        "pubDate": "2026-04-30T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Scatta il trattato di libero scambio Ue-Mercosur. Tutti i vantaggi per il vino",
-        "description": "In vigore dal primo maggio l'intesa provvisoria. Marzia Varvaglione (Ceev): \"Mercato dalle grandi potenzialità. Ora si potrà competere ad armi pari\"…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/via-libera-trattato-libero-scambio-provvisorio-ue-mercosur/",
-        "pubDate": "2026-04-30T16:09:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Consorzio del Prosecco ha un nuovo nemico: “Bella Principessa”",
-        "description": "Il Consorzio del Prosecco porta le sue battaglie di tutela fino alla High Court londinese.\nL'articolo Il Consorzio del Prosecco ha un nuovo nemico: &#8220;Bella…",
-        "link": "https://www.dissapore.com/notizie/il-consorzio-del-prosecco-ha-un-nuovo-nemico-bella-principessa/",
-        "pubDate": "2026-04-30T15:48:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/07/prosecco.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il vino adesso teme l’effetto domino della crisi di Hormuz. L’errore più grande? Aumentare i listini",
-        "description": "L'incremento dei costi potrebbe riverberarsi sul consumatore. Le manovre dei grandi brand per evitarlo: Masi punta sul vetro leggero, Caviro su un grande networ…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-effetto-domino-crisi-hormuz-aumento-prezzi/",
-        "pubDate": "2026-04-30T15:35:00+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "La donna che parlava alle galline (e che tutti credevano pazza)",
+        "description": "Nell’Ottocento fu isolata e derisa, oggi è considerata una pioniera: la storia di Nancy Luce, allevatrice e poetessa che vedeva nelle galline qualcosa di più…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/nancy-luce-signora-galline-storia/",
+        "pubDate": "2026-05-02T06:09:36+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nella foresta della Puglia c’è uno chef che trasforma le verdure in salumi",
+        "description": "Nel cuore del Gargano lo chef Libero Ratti lavora i vegetali come fossero carne: carote, sedano rapa e zucchine diventano prosciutti, bottarga e salumi…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/chef-libero-ratti-verdure-salumi-foresta-umbra-gargano/",
+        "pubDate": "2026-05-02T06:07:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Se i dim sum non sono fatti a mano, una legge cinese obbliga a specificarlo",
+        "description": "Una nuova legge della città di Guangzhou punta a preservare il patrimonio culturale e gastronomico dei dim sum: una targa identifica i locali dove vengono fatti…",
+        "link": "https://www.dissapore.com/notizie/se-i-dim-sum-non-sono-fatti-a-mano-una-legge-cinese-obbliga-a-specificarlo/",
+        "pubDate": "2026-05-02T05:02:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/dim-sum-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Il fine dining è un film già visto”: Piero Pompili smonta i ristoranti d’autore",
+        "description": "Dalla crisi della cucina creativa al ruolo dimenticato della sala: perché oggi non basta più mangiare bene per riempire un ristorante…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/pompili-fine-dining-film-gia-visto-crisi-ristoranti/",
+        "pubDate": "2026-05-02T04:46:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Grappa del Trentino, Alessandro Marzadro confermato presidente fino al 2029",
         "description": "Alessandro Marzadro è stato confermato all’unanimità alla presidenza dell’Istituto di Tutela Grappa del Trentino per il triennio 2026-2029. La decisione è stata…",
         "link": "https://www.winemag.it/grappa-del-trentino-alessandro-marzadro-confermato-presidente-fino-al-2029/",
@@ -457,15 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Scatta il trattato di libero scambio Ue-Mercosur. Tutti i vantaggi per il vino",
-        "description": "In vigore dal primo maggio l'intesa provvisoria. Marzia Varvaglione (Ceev): \"Mercato dalle grandi potenzialità. Ora si potrà competere ad armi pari\"…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/via-libera-trattato-libero-scambio-provvisorio-ue-mercosur/",
-        "pubDate": "2026-04-30T16:09:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il Consorzio del Prosecco ha un nuovo nemico: “Bella Principessa”",
         "description": "Il Consorzio del Prosecco porta le sue battaglie di tutela fino alla High Court londinese.\nL'articolo Il Consorzio del Prosecco ha un nuovo nemico: &#8220;Bella…",
         "link": "https://www.dissapore.com/notizie/il-consorzio-del-prosecco-ha-un-nuovo-nemico-bella-principessa/",
@@ -473,24 +500,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2023/07/prosecco.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il vino adesso teme l’effetto domino della crisi di Hormuz. L’errore più grande? Aumentare i listini",
-        "description": "L'incremento dei costi potrebbe riverberarsi sul consumatore. Le manovre dei grandi brand per evitarlo: Masi punta sul vetro leggero, Caviro su un grande networ…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-effetto-domino-crisi-hormuz-aumento-prezzi/",
-        "pubDate": "2026-04-30T15:35:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cresce perché non può crescere: ecco il paradosso che tiene alte le quotazioni dei vini della Borgogna",
-        "description": "Mentre Bordeaux aumentava la produzione, qui si differenziavano i mercati. Oggi i risultati si vedono: tengono i prezzi dei grand cru, esplode la richiesta di d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/borgogna-quotazioni-vini-les-grands-jours-2026/",
-        "pubDate": "2026-04-30T15:04:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Cosa resta del pesto nel pesto del supermercato?",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/tutti-a-parlare-della-nutella-ma-alla-fine-sono-state-multate-le-patatine/",
         "pubDate": "2026-04-29T11:39:04+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2025/12/shutterstock_2645883707-scaled.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Perché dovremmo mangiare i biscotti senza zucchero?",
-        "description": "I sostituti dello zucchero danno la percezione di consumare un prodotto sano, invece spesso si tratta di cibo ultraprocessato, inutile se non dannoso.\nL'articol…",
-        "link": "https://www.dissapore.com/spesa/perche-dovremmo-mangiare-i-biscotti-senza-zucchero/",
-        "pubDate": "2026-04-29T10:45:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/maltitolo-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
