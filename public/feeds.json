@@ -1,7 +1,34 @@
 {
-  "generated": "2026-05-03T19:00:51.114344+00:00",
+  "generated": "2026-05-04T08:30:46.541374+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Yoko Ono ha vinto contro un microbirrificio bretone che usava il nome John Lemon",
+        "description": "I diritti sul nome John Lemon sono stati depositati dal quinto Beatles, che gira il mondo a multare chi prova a fare business sul defunto marito.\nL'articolo Yok…",
+        "link": "https://www.dissapore.com/notizie/yoko-ono-ha-vinto-contro-un-microbirrificio-bretone-che-usava-il-nome-john-lemon/",
+        "pubDate": "2026-05-04T07:23:36+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Fashion crush del mese: cosa mettere in wishlist a Maggio",
+        "description": "Nuovo mese, nuova sessione di shopping! Con l’inizio di maggio, la primavera entra ufficialmente nel vivo e questo significa che è già arrivato quel periodo del…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-a-maggio-shopping-del-mese-capi-accessori-must-have-968697",
+        "pubDate": "2026-05-04T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_FASHION_CRUSH__APRILE2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "A Montefalco o A Spoleto?",
+        "description": "Sempre meno Sagrantino di Montefalco e sempre più Trebbiano Spoletino e Montefalco Rosso. Con il passaggio da &#8220;Anteprima Sagrantino&#8221; ad &#8220;A Mon…",
+        "link": "https://www.winemag.it/a-montefalco-o-a-spoleto/",
+        "pubDate": "2026-05-04T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/A-Montefalco-2026-Paolo-Bartoloni-presidente-Consorzio-Vini-Montefalco-e-Spoleto.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Poltrone in lino Zara Home: i 3 modelli perfetti per la primavera-estate",
         "description": "Il lino torna protagonista negli interni di stagione: tre poltrone Zara Home tra design, comfort e materiali naturali per rinnovare gli spazi.…",
@@ -154,36 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Kendall Jenner sfoggia il must di stagione per la primavera-estate 2026: scoprilo qui!",
-        "description": "Kendall Jenner, sempre al passo con i tempi e con le tendenze del momento, sfoggia il must di stagione per la primavera-estate 2026: ecco qui di seguito di che …",
-        "link": "https://www.stylosophy.it/articolo/kendall-jenner-sfoggia-il-must-di-stagione-per-la-primavera-estate-2026-scoprilo-qui/250469/",
-        "pubDate": "2026-05-02T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Per i Mondiali di calcio Lay’s crea la patatina ispirata all’Italia assente",
-        "description": "Il gigante delle patatine è sponsor ufficiale della Coppa del Mondo, ma forse non gli è arrivata la notizia della nostra assenza. \nL'articolo Per i Mondiali di …",
-        "link": "https://www.dissapore.com/notizie/per-i-mondiali-di-calcio-lays-crea-la-patatina-ispirata-allitalia-assente/",
-        "pubDate": "2026-05-02T10:27:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/lays-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La pizza bianca di Ostia che non arriva mai a casa (finisce prima)",
-        "description": "Da oltre 40 anni il forno F.lli Mastio è un punto fermo sul litorale romano: pizza bianca fragrante, fila costante e un rito che si ripete ogni estate…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/litorale-romano-forno-pizza-bianca/",
-        "pubDate": "2026-05-02T10:26:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Fashion crush del mese: cosa mettere in wishlist a Maggio",
+        "description": "Nuovo mese, nuova sessione di shopping! Con l’inizio di maggio, la primavera entra ufficialmente nel vivo e questo significa che è già arrivato quel periodo del…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-a-maggio-shopping-del-mese-capi-accessori-must-have-968697",
+        "pubDate": "2026-05-04T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_FASHION_CRUSH__APRILE2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Poltrone in lino Zara Home: i 3 modelli perfetti per la primavera-estate",
         "description": "Il lino torna protagonista negli interni di stagione: tre poltrone Zara Home tra design, comfort e materiali naturali per rinnovare gli spazi.…",
@@ -338,7 +347,7 @@
         "source": "Grazia"
       },
       {
-        "title": "MET Gala: i look più memorabili visti negli ultimi 20 anni",
+        "title": "MET Gala: i look più memorabili visti negli ultimi 30 anni",
         "description": "L&#8217;appuntamento con l&#8217;edizione 2026 del MET Gala sta per arrivare. Lunedì 4 Maggio, infatti, nella consueta cornice del Metropolitan Museum di New Yo…",
         "link": "https://www.grazia.it/moda/celebrity-style/met-gala-storia-abiti-look-piu-belli",
         "pubDate": "2026-04-30T12:00:00+00:00",
@@ -354,18 +363,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/04/COVER_Pantaloni_Uniqlo.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Per quel matrimonio a cui siete state invitate vi serve solo questo vestito di Mango",
-        "description": "Siete alla ricerca dell&#8217;abito &#8220;definitivo&#8221; per matrimoni e cerimonie eleganti in planning questa primavera? Fermatevi qui: questo vestito sati…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abito-da-cerimonia-mango-primavera-vestito-satin-lungo-matrimonio-look-invitate-perfetto-anche-in-chiesa-969198",
-        "pubDate": "2026-04-30T08:13:41+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/mango-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Yoko Ono ha vinto contro un microbirrificio bretone che usava il nome John Lemon",
+        "description": "I diritti sul nome John Lemon sono stati depositati dal quinto Beatles, che gira il mondo a multare chi prova a fare business sul defunto marito.\nL'articolo Yok…",
+        "link": "https://www.dissapore.com/notizie/yoko-ono-ha-vinto-contro-un-microbirrificio-bretone-che-usava-il-nome-john-lemon/",
+        "pubDate": "2026-05-04T07:23:36+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A Montefalco o A Spoleto?",
+        "description": "Sempre meno Sagrantino di Montefalco e sempre più Trebbiano Spoletino e Montefalco Rosso. Con il passaggio da &#8220;Anteprima Sagrantino&#8221; ad &#8220;A Mon…",
+        "link": "https://www.winemag.it/a-montefalco-o-a-spoleto/",
+        "pubDate": "2026-05-04T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/A-Montefalco-2026-Paolo-Bartoloni-presidente-Consorzio-Vini-Montefalco-e-Spoleto.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Il rituale giapponese per tagliare il tonno gigante che sembra una cerimonia",
         "description": "Dal Giappone alla cucina contemporanea: il Kaitai è una cerimonia antica in cui il tonno viene lavorato davanti al pubblico, tra tecnica, rispetto e sostenibili…",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "La pizza Tokyo style è il nuovo trend nel mondo, quanto ci metterà ad arrivare in Italia?",
-        "description": "C'è un nuovo stile nel mondo della pizza internazionale, si chiama Tokyo Style, in Asia lo amano e ora arriva a New York City. E da noi?\nL'articolo La pizza Tok…",
-        "link": "https://www.dissapore.com/notizie/la-pizza-tokyo-style-e-il-nuovo-trend-nel-mondo-quanto-ci-mettera-ad-arrivare-in-italia/",
-        "pubDate": "2026-05-01T10:30:37+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pizza-tokyo-stile.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Trump cancella i dazi sullo scotch “in omaggio al Re e alla Regina”",
-        "description": "Donald Trump è rimasto molto colpito dalla visita dei reali inglesi, tanto da fare un enorme regalo all'industria delle distillerie scozzesi.\nL'articolo Trump c…",
-        "link": "https://www.dissapore.com/notizie/ttrump-cancella-i-dazi-sullo-scotch-in-omaggio-al-re-e-alla-regina/",
-        "pubDate": "2026-05-01T08:21:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/Donald-Trump-1-scaled-e1758527140224.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
