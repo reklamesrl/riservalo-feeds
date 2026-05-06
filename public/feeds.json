@@ -1,7 +1,52 @@
 {
-  "generated": "2026-05-05T19:20:41.334013+00:00",
+  "generated": "2026-05-06T08:27:58.163861+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La frittura di paranza che vale l’estate: dove mangiarla sul mare in Abruzzo",
+        "description": "Dal cartoccio sotto l’ombrellone ai ristoranti vista mare: gli indirizzi del litorale teramano dove mangiare una grande frittura di paranza…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/frittura-paranza-abruzzo-dove-mangiare/",
+        "pubDate": "2026-05-06T08:01:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Carnissage apre a Poltu Quatu: secondo ristorante tra carne, mare e intrattenimento",
+        "description": "Dopo l’esordio a Milano, Carnissage annuncia una seconda apertura in Sardegna. Dai primi di giugno il format debutta nel porto di Poltu Quatu, a breve distanza …",
+        "link": "https://www.winemag.it/carnissage-apre-a-poltu-quatu-secondo-ristorante/",
+        "pubDate": "2026-05-06T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cosa comprare da Zara nel mese di Maggio: 10 pezzi cool e “accessibili” da non farsi scappare",
+        "description": "Il segreto per un guardaroba estivo perfetto? No, non serve spendere una fortuna, ma saper scovare i pezzi giusti al momento giusto. La selezione di capi e acce…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/zara-cosa-comprare-a-maggio-vestiti-scarpe-borse-must-have-shopping-online-acquisti-look-969860",
+        "pubDate": "2026-05-06T05:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_zara_maggio.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Vernaccia di San Gimignano: i migliori vini sotto i 20 euro della Doc che ha compiuto 60 anni",
+        "description": "È la prima denominazione riconosciuta in Italia e tra le piu interessanti a bacca bianca della Toscana. Ecco una selezione delle etichette dal miglior rapporto …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-vernaccia-san-gimignano-sotto-20-euro-2026/",
+        "pubDate": "2026-05-06T05:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Terenzuola di Ivan Giuliani: manifesto futurista tra Liguria e Toscana",
+        "description": "E se, idealmente, il «promontorio estremo dei secoli» di Filippo Tommaso Marinetti si fosse trovato a breve distanza dai Colli di Luni? Il riferimento al Futuri…",
+        "link": "https://www.winemag.it/terenzuola-di-ivan-giuliani-manifesto-futurista-tra-liguria-e-toscana/",
+        "pubDate": "2026-05-06T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Terenzuola-di-Ivan-Giuliani-manifesto-futurista-tra-Liguria-e-Toscana-3-1-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Consorzio Vini Bardolino: Fabio Dei Micheli confermato presidente",
         "description": "Fabio Dei Micheli è stato confermato presidente del Consorzio Vini Bardolino. La decisione è stata presa all’unanimità dal Consiglio di amministrazione dell’ent…",
@@ -10,6 +55,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Perché tanto scalpore se Zara è al Met Gala?",
+        "description": "Lo scalpore c&#8217;è ma non si capisce perché se ne parli così tanto (almeno in Rete): Zara è approdato al MET GALA (ed era in buona compagnia)!  *** Met Gala …",
+        "link": "https://www.grazia.it/moda/news-moda/zara-met-gala-2026-marchi-low-cost-970413",
+        "pubDate": "2026-05-05T16:51:13+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/zara-met-gala-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Lo Stato africano che adora gli spaghetti ne ha bandito l’importazione per iniziare a farseli da solo",
@@ -127,63 +181,27 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/scarpazzone-redacon-intera-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Perché a Bari tutti vanno pazzi per gli Sporcamuss, le sfogliatine di crema con cui è impossibile non sporcarsi",
-        "description": "Dalle versioni bollenti del ristorante Al Sorso Preferito a quelle con il gelato di Da Gentile fino alle sperimentazioni salate. Storia e varianti di un dolce c…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sporcamuss-sfogliatine-crema-bari/",
-        "pubDate": "2026-05-05T10:38:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Italpepe a TuttoFood 2026: le spezie diventano esperienza sensoriale immersiva",
-        "description": "In occasione di TuttoFood 2026, Italpepe presenta un nuovo progetto espositivo che amplia il racconto delle spezie oltre la dimensione gastronomica. Lo spazio, …",
-        "link": "https://www.winemag.it/italpepe-tuttofood-2026-spezie-diventano-esperienza-sensoriale-immersiva/",
-        "pubDate": "2026-05-05T10:36:42+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cantine Aperte 2026 in Toscana: focus su turismo rigenerativo e nuove esperienze",
-        "description": "Cantine Aperte torna in tutta la Toscana il 30 e 31 maggio 2026. L’evento, promosso dal Movimento Turismo del Vino Toscana, punta su un modello rinnovato di acc…",
-        "link": "https://www.winemag.it/cantine-aperte-2026-toscana-turismo-rigenerativo/",
-        "pubDate": "2026-05-05T10:05:44+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“Ma questo è un capolavoro, letteralmente!” Ecco i look del Met Gala 2026 ispirati a quadri e opere d’arte",
-        "description": "Puntuale come ogni primo lunedì di maggio, ieri sera al Metropolitan Museum di New York è andato in scena il Met Gala 2026 che ha riunito sul red carpet un ricc…",
-        "link": "https://www.grazia.it/moda/celebrity-style/met-gala-2026abiti-star-arte-tema-quadri-opere-madonna-heidi-klum-kendall-jenner-beyonce-970158",
-        "pubDate": "2026-05-05T09:41:12+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/05_Emma_Chamberlain.jpg",
+        "title": "Cosa comprare da Zara nel mese di Maggio: 10 pezzi cool e “accessibili” da non farsi scappare",
+        "description": "Il segreto per un guardaroba estivo perfetto? No, non serve spendere una fortuna, ma saper scovare i pezzi giusti al momento giusto. La selezione di capi e acce…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/zara-cosa-comprare-a-maggio-vestiti-scarpe-borse-must-have-shopping-online-acquisti-look-969860",
+        "pubDate": "2026-05-06T05:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_zara_maggio.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "A un’ora e mezza da Roma, c’è una trattoria dove si mangia bene (e si spende poco)",
-        "description": "Nella Tuscia viterbese c'è un locale perfetto per una gita fuori porta. Cucina casalinga, ingredienti del territorio e conto leggero fanno venir voglia di ritor…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/roma-vitorchiano-trattoria-tuscia/",
-        "pubDate": "2026-05-05T09:37:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Queste fragranze firmate Max&Co. sono il must have della Primavera 2026",
-        "description": "Queste 3 fragranze firmate Max&#038;Co., da poco lanciate nel formato tascabile 15ml, sono dei veri must della mezza stagione. Ecco perché...…",
-        "link": "https://www.stylosophy.it/articolo/queste-fragranze-firmate-maxco-sono-il-must-have-della-primavera-2026/250536/",
-        "pubDate": "2026-05-05T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "title": "Perché tanto scalpore se Zara è al Met Gala?",
+        "description": "Lo scalpore c&#8217;è ma non si capisce perché se ne parli così tanto (almeno in Rete): Zara è approdato al MET GALA (ed era in buona compagnia)!  *** Met Gala …",
+        "link": "https://www.grazia.it/moda/news-moda/zara-met-gala-2026-marchi-low-cost-970413",
+        "pubDate": "2026-05-05T16:51:13+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/zara-met-gala-ape.jpg",
         "cat": "Moda",
-        "source": "Stylosophy"
-      }
-    ],
-    "moda": [
+        "source": "Grazia"
+      },
       {
         "title": "Borghi sullo Ionio più belli d’Italia: guida tra Puglia, Basilicata, Calabria e Sicilia",
         "description": "Un viaggio lungo la costa ionica italiana tra borghi autentici, mare e tradizioni. Dalla Puglia alla Sicilia, le destinazioni da scoprire.…",
@@ -345,27 +363,45 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "In attesa del Met Gala 2026, facciamo un piccolo “ripasso” degli abiti più belli e iconici degli ultimi anni",
-        "description": "Manca poco all&#8217;edizione 2026 del Met Gala: la sera del 4 maggio, infatti, avrà luogo a New York l&#8217;appuntamento più atteso dal fashion system, dedica…",
-        "link": "https://www.grazia.it/moda/celebrity-style/met-gala-ball-abiti-memorabili-iconici",
-        "pubDate": "2026-05-02T14:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2017/04/met-ball-amarcord-DESKTOP.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il costume minimal-chic che valorizza ogni fisicità? Esiste e l’ha lanciato Calzedonia (e accontenta davvero tutte)!",
-        "description": "Un costume minimal nelle linee che abbraccia con morbidezza il corpo senza costrizioni: Calzedonia presenta la nuova linea Premium Fit In fatto di costumi da ba…",
-        "link": "https://www.grazia.it/moda/news-moda/costumi-calzedonia-semplici-eleganti-stanno-bene-a-tutte-premium-fit-estate-2026-969244",
-        "pubDate": "2026-05-01T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/calzedonia-3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La frittura di paranza che vale l’estate: dove mangiarla sul mare in Abruzzo",
+        "description": "Dal cartoccio sotto l’ombrellone ai ristoranti vista mare: gli indirizzi del litorale teramano dove mangiare una grande frittura di paranza…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/frittura-paranza-abruzzo-dove-mangiare/",
+        "pubDate": "2026-05-06T08:01:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Carnissage apre a Poltu Quatu: secondo ristorante tra carne, mare e intrattenimento",
+        "description": "Dopo l’esordio a Milano, Carnissage annuncia una seconda apertura in Sardegna. Dai primi di giugno il format debutta nel porto di Poltu Quatu, a breve distanza …",
+        "link": "https://www.winemag.it/carnissage-apre-a-poltu-quatu-secondo-ristorante/",
+        "pubDate": "2026-05-06T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vernaccia di San Gimignano: i migliori vini sotto i 20 euro della Doc che ha compiuto 60 anni",
+        "description": "È la prima denominazione riconosciuta in Italia e tra le piu interessanti a bacca bianca della Toscana. Ecco una selezione delle etichette dal miglior rapporto …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-vernaccia-san-gimignano-sotto-20-euro-2026/",
+        "pubDate": "2026-05-06T05:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Terenzuola di Ivan Giuliani: manifesto futurista tra Liguria e Toscana",
+        "description": "E se, idealmente, il «promontorio estremo dei secoli» di Filippo Tommaso Marinetti si fosse trovato a breve distanza dai Colli di Luni? Il riferimento al Futuri…",
+        "link": "https://www.winemag.it/terenzuola-di-ivan-giuliani-manifesto-futurista-tra-liguria-e-toscana/",
+        "pubDate": "2026-05-06T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Terenzuola-di-Ivan-Giuliani-manifesto-futurista-tra-Liguria-e-Toscana-3-1-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Consorzio Vini Bardolino: Fabio Dei Micheli confermato presidente",
         "description": "Fabio Dei Micheli è stato confermato presidente del Consorzio Vini Bardolino. La decisione è stata presa all’unanimità dal Consiglio di amministrazione dell’ent…",
@@ -506,42 +542,6 @@
         "description": "Meno giacenze per la Doc veneta che ora cerca di rivolgersi in maniera più diretta ai consumatori. La presidente Bricolo: \"Adesso puntiamo a una promozione inte…",
         "link": "https://www.gamberorosso.it/notizie/vino/doc-custoza-numeri-consorzio/",
         "pubDate": "2026-05-05T07:11:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è il Montébore, il raro formaggio a forma di torta nuziale amato da Leonardo da Vinci",
-        "description": "Con la sua curiosa forma a tre strati, fu servito al matrimonio di Isabella d’Aragona e Gian Galeazzo Sforza. Nel tempo ha rischiato di scomparire, ma è salvo (…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/montebore-formaggio-piemontese-forma-torta-nunziale/",
-        "pubDate": "2026-05-05T05:08:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Montefalco 2026 migliori assaggi: dallo Spoletino 2025 al Sagrantino 2022",
-        "description": "Ad “A Montefalco” 2026 emerge un territorio in piena transizione. Il Sagrantino perde centralità numerica, ma resta il vertice qualitativo dei rossi, mentre il …",
-        "link": "https://www.winemag.it/a-montefalco-2026-migliori-assaggi-dallo-spoletino-2025-al-sagrantino-2022/",
-        "pubDate": "2026-05-05T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I dolci del Diavolo Veste Prada 2 li ha fatti un pasticcere salentino. Ecco come ha conquistato anche Meryl Streep",
-        "description": "Nel sequel del film, spiccano i dessert scenografici di Adolfo Stefanelli. I suoi dolci, creati per resistere alle riprese, uniscono estetica e cinema tra Milan…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dolci-diavolo-veste-prada-2-pasticcere-salentino-adolfo-stefanelli/",
-        "pubDate": "2026-05-04T17:03:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La visita di re Carlo è servita: Trump elimina i dazi Usa su whisky scozzese e irlandese",
-        "description": "Segnale di distensione da parte del presidente americano dopo le difficoltà del segmento spirit che ha perso lo scorso anno circa il 15% del valore delle esport…",
-        "link": "https://www.gamberorosso.it/notizie/vino/trump-re-carlo-dazi-usa-whisky-scozzese/",
-        "pubDate": "2026-05-04T16:36:05+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
