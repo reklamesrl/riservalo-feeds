@@ -1,7 +1,61 @@
 {
-  "generated": "2026-05-07T14:10:51.993558+00:00",
+  "generated": "2026-05-07T19:43:41.505832+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il vino cerca nuove dimensioni. Il calo dei consumi spinge lattine, mini bottiglie, bag in box",
+        "description": "L'attenzione soprattutto dei più giovani a fattori come prezzo, sostenibilità ambientale e moderazione sta guidando il cambiamento. E in Italia c'è chi ha già i…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-packaging-alternativi-lattine-bottiglie-da-50-bag-in-box/",
+        "pubDate": "2026-05-07T16:50:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Se volete sentirvi preparati sul cibo, rispondete al test dell’Istituto Superiore di Sanità",
+        "description": "C'è tempo fino al 3 giugno per rispondere a 5 domande su quante bufale sull'alimentazione sapete riconoscere. Spoiler: potreste sentirvi sottovalutati.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/se-volete-sentirvi-preparati-sul-cibo-rispondete-al-test-dellistituto-superiore-di-sanita/",
+        "pubDate": "2026-05-07T16:39:45+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Non solo Taormina: i borghi di mare più belli della Sicilia orientale",
+        "description": "Dai piccoli porti dei pescatori alle piazze affacciate sul mare, viaggio nei borghi più suggestivi della costa orientale della Sicilia tra tradizioni, spiagge e…",
+        "link": "https://www.stylosophy.it/articolo/non-solo-taormina-i-borghi-di-mare-piu-belli-della-sicilia-orientale/250598/",
+        "pubDate": "2026-05-07T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“Senza l’Iran, lo zafferano italiano non basta”: la crisi invisibile dietro il risotto alla milanese",
+        "description": "L’Iran produce oltre il 90% dello zafferano mondiale e le tensioni internazionali stanno mettendo sotto pressione prezzi, importazioni e forniture anche in Ital…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/guerra-iran-zafferano-prezzi-importazioni/",
+        "pubDate": "2026-05-07T15:10:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il jazz cambia il sapore del vino. Il sorprendente studio che riscrive le regole della degustazione",
+        "description": "Secondo la ricerca dell'Università di Pisa il suono agisce come un “amplificatore emotivo”, aumentando il piacere del bere. Ma non tutte le melodie hanno lo ste…",
+        "link": "https://www.gamberorosso.it/notizie/vino/effetti-musica-jazz-vino-studio-universita-pisa/",
+        "pubDate": "2026-05-07T14:56:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bordeaux ultima chiamata: l’evoluzione necessaria della campagna che decide il futuro dell’en primeur",
+        "description": "Château e négociant si trovano ad un bivio: abbassare troppo i prezzi potrebbe non bastare. Costantino Gabardi: \"Il sistema è fragile perché si basa sul rischio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/bordeaux-evoluzione-campagna-en-primeur-annata-2025/",
+        "pubDate": "2026-05-07T14:40:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Che cosa è la spaghettata gelato, il dolce anni Ottanta che in Abruzzo non è mai scomparso",
         "description": "Nato quasi per caso in Germania alla fine degli anni Sessanta, lo Spaghettieis è arrivato sulle coste abruzzesi diventando uno dei dolci estivi più riconoscibil…",
@@ -19,6 +73,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Primavera a colori: 5 combo cromatiche insolite (ma super chic) da copiare adesso",
+        "description": "Primavera fa rima con colore, si sa. O meglio, colori. Sì, perché la moda per la bella stagione sembra più che intenzionata a lasciarsi alle spalle la monotonia…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colore-abbinamenti-cromatici-insoliti-che-stanno-bene-look-primavera-970157",
+        "pubDate": "2026-05-07T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_combo_colore.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "L’abito nero perfetto per le donne over 60? Quello di Valeria Golino ai David di Donatello (e noi abbiamo già trovato alcune alternative da puntare ASAP)",
@@ -111,15 +174,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Il lievito madre è una società invisibile”: cosa succede davvero dentro un barattolo",
-        "description": "Nel lievito madre convivono lieviti e batteri che competono, collaborano e si adattano continuamente. Un ecosistema fragile e irripetibile che la scienza defini…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lievito-madre-societa-invisibile-barattolo/",
-        "pubDate": "2026-05-07T07:25:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "10 must have di H&M da acquistare a Maggio e sfoggiare per tutta la bella stagione",
         "description": "A Maggio la bella stagione entra ufficialmente nel vivo e, non a caso, la collezione di H&#38;M si trasforma in un vero e proprio invito a giocare con la moda, …",
         "link": "https://www.grazia.it/moda/tendenze-moda/hm-cosa-comprare-a-maggio-shopping-online-must-have-abiti-scarpe-accessori-primavera-estate-969883",
@@ -127,63 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_HM_maggio_2026.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "UFO, nuovo hub ibrido nel sud di Milano tra cultura, cucina e creatività",
-        "description": "A Milano apre UFO – Unconventional Form of Opportunities, nuovo spazio ibrido in via Orobia 26. Oltre 1.500 metri quadrati nel quadrante sud della città, area i…",
-        "link": "https://www.winemag.it/ufo-nuovo-hub-ibrido-sud-di-milano-tra-cultura-cucina-e-creativita/",
-        "pubDate": "2026-05-07T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Campania Stories 2026: l’ascesa del Pallagrello Bianco tra i migliori bianchi",
-        "description": "La degustazione dei vini bianchi campani a Campania Stories 2026 restituisce un quadro selettivo. I vini degustati da Winemag sono 74, con una media complessiva…",
-        "link": "https://www.winemag.it/campania-stories-2026-ascesa-pallagrello-bianco-tra-migliori-vini-bianchi-campani/",
-        "pubDate": "2026-05-07T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "David di Donatello 2026: tutti i look degli ospiti sul red carpet",
-        "description": "La serata più attesa dai protagonisti e dagli amanti del cinema italiano è arrivata: a Roma va in scena la 71esima edizione dei David di Donatello, i premi che …",
-        "link": "https://www.grazia.it/moda/celebrity-style/david-di-donatello-2026-look-abiti-red-carpet-matilda-de-angelis-bianca-balti-970699",
-        "pubDate": "2026-05-06T21:08:46+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-David-Di-Donatello-2026-4.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In Cina il 47° Congresso mondiale della vite e del vino OIV 2026",
-        "description": "La Cina ospiterà il 47° Congresso mondiale della vite e del vino dell&#8217;OIV. L’evento si terrà dal 12 al 16 ottobre 2026 a Yinchuan, nel Ningxia, su invito …",
-        "link": "https://www.winemag.it/in-cina-il-47-congresso-mondiale-della-vite-e-del-vino-oiv-2026/",
-        "pubDate": "2026-05-06T16:36:48+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/05/In-Cina-il-47°-Congresso-mondiale-della-vite-e-del-vino-OIV-2026-24a-Assemblea-generale-Organizzazione-internazionale-della-vigna-e-del-vino-840x640.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Franciacorta, 2025 positivo. Calendario internazionale per il 2026",
-        "description": "Franciacorta chiude il 2025 con risultati positivi e guarda al 2026 con un programma di sviluppo orientato ai mercati esteri. Il quadro è emerso in occasione de…",
-        "link": "https://www.winemag.it/franciacorta-bilancio-2025-positivo-calendario-internazionale-per-il-2026/",
-        "pubDate": "2026-05-06T16:18:40+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Franciacorta-2025-positivo.-Calendario-internazionale-per-il-2026-840x640.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Pizza Margherita, Spritz e tiramisù: così l’Italia conquista l’Europa a tavola",
-        "description": "Uno studio Fipe su quasi 1.500 ristoranti italiani in Europa racconta come pizza, Spritz e aperitivo siano diventati il vero soft power gastronomico del nostro …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pizzerie-soft-power-cucina-italiana-estero/",
-        "pubDate": "2026-05-06T16:09:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Non solo Taormina: i borghi di mare più belli della Sicilia orientale",
+        "description": "Dai piccoli porti dei pescatori alle piazze affacciate sul mare, viaggio nei borghi più suggestivi della costa orientale della Sicilia tra tradizioni, spiagge e…",
+        "link": "https://www.stylosophy.it/articolo/non-solo-taormina-i-borghi-di-mare-piu-belli-della-sicilia-orientale/250598/",
+        "pubDate": "2026-05-07T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Annalisa lascia tutti senza fiato ai David di Donatello 2026 con il suo Look FOTO",
         "description": "Annalisa ai David di Donatello 2026 ha sfoggiato un look davvero sensazionale: qui per i dettagli.…",
@@ -192,6 +201,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Primavera a colori: 5 combo cromatiche insolite (ma super chic) da copiare adesso",
+        "description": "Primavera fa rima con colore, si sa. O meglio, colori. Sì, perché la moda per la bella stagione sembra più che intenzionata a lasciarsi alle spalle la monotonia…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colore-abbinamenti-cromatici-insoliti-che-stanno-bene-look-primavera-970157",
+        "pubDate": "2026-05-07T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_combo_colore.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "L’abito nero perfetto per le donne over 60? Quello di Valeria Golino ai David di Donatello (e noi abbiamo già trovato alcune alternative da puntare ASAP)",
@@ -329,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Come vestirsi in ufficio d’estate? 5 outfit per sopravvivere al caldo (con stile)",
-        "description": "Le giornate si allungano, le temperature salgono e la testa corre già all’estate. Peccato che &#8211; almeno per ora &#8211; la routine resti quella di sempre, …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-in-ufficio-estate-abbinamenti-chic-anche-quando-fa-caldo-969171",
-        "pubDate": "2026-05-05T12:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/04/00_DESKTOP_look_office_mix_match.png",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Queste fragranze firmate Max&Co. sono il must have della Primavera 2026",
         "description": "Queste 3 fragranze firmate Max&#038;Co., da poco lanciate nel formato tascabile 15ml, sono dei veri must della mezza stagione. Ecco perché...…",
         "link": "https://www.stylosophy.it/articolo/queste-fragranze-firmate-maxco-sono-il-must-have-della-primavera-2026/250536/",
@@ -354,18 +363,54 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Diletta Leotta, total red Look per l’ultima puntata di Fuoriclasse: scoprilo qui!",
-        "description": "Diletta Leotta ieri sera ha condotto una nuova puntata di Fuoriclasse su DAZN sfoggiando per l'occasione un meraviglioso abito sui toni del rosso.…",
-        "link": "https://www.stylosophy.it/articolo/diletta-leotta-total-red-look-per-lultima-puntata-di-fuoriclasse-scoprilo-qui/250522/",
-        "pubDate": "2026-05-04T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il vino cerca nuove dimensioni. Il calo dei consumi spinge lattine, mini bottiglie, bag in box",
+        "description": "L'attenzione soprattutto dei più giovani a fattori come prezzo, sostenibilità ambientale e moderazione sta guidando il cambiamento. E in Italia c'è chi ha già i…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-packaging-alternativi-lattine-bottiglie-da-50-bag-in-box/",
+        "pubDate": "2026-05-07T16:50:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Se volete sentirvi preparati sul cibo, rispondete al test dell’Istituto Superiore di Sanità",
+        "description": "C'è tempo fino al 3 giugno per rispondere a 5 domande su quante bufale sull'alimentazione sapete riconoscere. Spoiler: potreste sentirvi sottovalutati.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/se-volete-sentirvi-preparati-sul-cibo-rispondete-al-test-dellistituto-superiore-di-sanita/",
+        "pubDate": "2026-05-07T16:39:45+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Senza l’Iran, lo zafferano italiano non basta”: la crisi invisibile dietro il risotto alla milanese",
+        "description": "L’Iran produce oltre il 90% dello zafferano mondiale e le tensioni internazionali stanno mettendo sotto pressione prezzi, importazioni e forniture anche in Ital…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/guerra-iran-zafferano-prezzi-importazioni/",
+        "pubDate": "2026-05-07T15:10:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il jazz cambia il sapore del vino. Il sorprendente studio che riscrive le regole della degustazione",
+        "description": "Secondo la ricerca dell'Università di Pisa il suono agisce come un “amplificatore emotivo”, aumentando il piacere del bere. Ma non tutte le melodie hanno lo ste…",
+        "link": "https://www.gamberorosso.it/notizie/vino/effetti-musica-jazz-vino-studio-universita-pisa/",
+        "pubDate": "2026-05-07T14:56:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bordeaux ultima chiamata: l’evoluzione necessaria della campagna che decide il futuro dell’en primeur",
+        "description": "Château e négociant si trovano ad un bivio: abbassare troppo i prezzi potrebbe non bastare. Costantino Gabardi: \"Il sistema è fragile perché si basa sul rischio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/bordeaux-evoluzione-campagna-en-primeur-annata-2025/",
+        "pubDate": "2026-05-07T14:40:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Che cosa è la spaghettata gelato, il dolce anni Ottanta che in Abruzzo non è mai scomparso",
         "description": "Nato quasi per caso in Germania alla fine degli anni Sessanta, lo Spaghettieis è arrivato sulle coste abruzzesi diventando uno dei dolci estivi più riconoscibil…",
@@ -448,15 +493,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Il lievito madre è una società invisibile”: cosa succede davvero dentro un barattolo",
-        "description": "Nel lievito madre convivono lieviti e batteri che competono, collaborano e si adattano continuamente. Un ecosistema fragile e irripetibile che la scienza defini…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lievito-madre-societa-invisibile-barattolo/",
-        "pubDate": "2026-05-07T07:25:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "UFO, nuovo hub ibrido nel sud di Milano tra cultura, cucina e creatività",
         "description": "A Milano apre UFO – Unconventional Form of Opportunities, nuovo spazio ibrido in via Orobia 26. Oltre 1.500 metri quadrati nel quadrante sud della città, area i…",
         "link": "https://www.winemag.it/ufo-nuovo-hub-ibrido-sud-di-milano-tra-cultura-cucina-e-creativita/",
@@ -493,33 +529,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Pizza Margherita, Spritz e tiramisù: così l’Italia conquista l’Europa a tavola",
-        "description": "Uno studio Fipe su quasi 1.500 ristoranti italiani in Europa racconta come pizza, Spritz e aperitivo siano diventati il vero soft power gastronomico del nostro …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pizzerie-soft-power-cucina-italiana-estero/",
-        "pubDate": "2026-05-06T16:09:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Calo dei consumi di vino? Il motivo è anche neurologico e ha a che fare con un certo rito oggi scomparso",
-        "description": "Il cervello della Gen Z non può più contare sul ricordo di un'esperienza pregressa, quel \"battesimo del vino\" che un tempo avveniva con i nonni. E questo cambia…",
-        "link": "https://www.gamberorosso.it/notizie/vino/calo-consumi-vino-secondo-neuromarketing/",
-        "pubDate": "2026-05-06T16:08:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è il filindeu, la pasta rarissima che si mangia dopo un pellegrinaggio notturno",
-        "description": "Su filindeu è una delle paste più rare al mondo: per secoli preparata solo da poche famiglie sarde, oggi viene tramandata attraverso corsi, pellegrinaggi e un’a…",
-        "link": "https://www.gamberorosso.it/notizie/ricette/filindeu-pasta-rara-sardegna-pellegrinaggio/",
-        "pubDate": "2026-05-06T14:57:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Aperte le iscrizioni alle selezioni della Guida Winemag 2027",
         "description": "Aperte le iscrizioni alle selezioni della Guida Winemag 2027. Puoi registrare i tuoi vini uno alla volta, compilando il seguente modulo. Scrivici una mail all&#…",
         "link": "https://www.winemag.it/aperte-le-iscrizioni-alle-selezioni-della-guida-winemag-2027/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pun-interno-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "DryMilano, a maggio tre eventi tra eccellenze italiane e mixology internazionale",
-        "description": "DryMilano si prepara a un maggio all’insegna della mixology contemporanea con tre appuntamenti che mettono al centro confronto, ricerca e contaminazione interna…",
-        "link": "https://www.winemag.it/drymilano-a-maggio-tre-eventi-tra-eccellenze-italiane-e-mixology-internazionale/",
-        "pubDate": "2026-05-06T14:18:17+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
