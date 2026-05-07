@@ -1,7 +1,106 @@
 {
-  "generated": "2026-05-07T08:34:34.717452+00:00",
+  "generated": "2026-05-07T14:10:51.993558+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Che cosa è la spaghettata gelato, il dolce anni Ottanta che in Abruzzo non è mai scomparso",
+        "description": "Nato quasi per caso in Germania alla fine degli anni Sessanta, lo Spaghettieis è arrivato sulle coste abruzzesi diventando uno dei dolci estivi più riconoscibil…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spaghettata-gelato-spaghettieis-abruzzo/",
+        "pubDate": "2026-05-07T13:23:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Annalisa lascia tutti senza fiato ai David di Donatello 2026 con il suo Look FOTO",
+        "description": "Annalisa ai David di Donatello 2026 ha sfoggiato un look davvero sensazionale: qui per i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/annalisa-lascia-tutti-senza-fiato-ai-david-di-donatello-2026-con-il-suo-look-foto/250607/",
+        "pubDate": "2026-05-07T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "L’abito nero perfetto per le donne over 60? Quello di Valeria Golino ai David di Donatello (e noi abbiamo già trovato alcune alternative da puntare ASAP)",
+        "description": "È&#160;stata una delle grandi protagoniste della 71° edizione dei David di Donatello e ieri sera sul red carpet ci ha impartito una grande lezione di stile: ave…",
+        "link": "https://www.grazia.it/moda/celebrity-style/donne-over-60-cosa-indossare-abito-nero-look-valeria-golino-david-donatello-eleganti-zara-zalando-cerimonia-970866",
+        "pubDate": "2026-05-07T12:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Valeria_Golino.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "“Con il vino in bag in box abbiamo sfidato la crisi”. Parla l’imprenditrice che ha rilanciato lo sfuso (buono)",
+        "description": "A cinque anni dal lancio dell'e-commerce il bilancio è positivo: 30 cantine in tutta Italia e 30% di vendite nell'Horeca. Alessandra Costa: \"Oggi il vino ha rag…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-bag-in-box-progetto-sfuso-buono-alessandra-costa/",
+        "pubDate": "2026-05-07T11:28:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Pisciotta è rimasto un solo maestro d’ascia: costruisce barche come nel 1800",
+        "description": "Giovanni Cammarano costruì la sua prima barca a 16 anni usando solo un seghetto. Oggi è l’ultimo maestro d’ascia di Pisciotta e continua a lavorare il legno com…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ultimo-maestro-ascia-pisciotta-cilento/",
+        "pubDate": "2026-05-07T11:24:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Ho sempre fatto fatica a trovare il mio posto nel mondo”: poi ha mollato la farmacia per il cacao",
+        "description": "Federico Dutto lavorava in farmacia, ma sentiva di essere fuori posto. Oggi nel suo laboratorio piemontese produce cioccolato artigianale e racconta il lato nas…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/federico-dutto-lim-chocolate-farmacia-cacao/",
+        "pubDate": "2026-05-07T11:16:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha lasciato Tokyo per aprire un’izakaya nelle Langhe: “Così ho portato il vero Giappone ad Alba”",
+        "description": "Erica Napoli ha vissuto in Giappone per oltre un decennio imparandone lingua, rituali e cucina casalinga. Oggi ad Alba ha aperto MUSUBI, una vera izakaya…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/izakaya-giapponese-alba-musubi-erica-napoli/",
+        "pubDate": "2026-05-07T11:09:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un cornetto surgelato non è per forza scadente",
+        "description": "Guardiamo con superficiale sufficienza il cornetto surgelato del bar, e ancor di più, in pasticceria. Ma l'idea che esso sia scadente o \"finto\", industriale per…",
+        "link": "https://www.dissapore.com/locali/un-cornetto-surgelato-non-e-per-forza-scadente/",
+        "pubDate": "2026-05-07T11:06:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/croissant-surgelato-burro.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I Mondiali di calcio stanno già facendo aumentare le vendite degli alcolici",
+        "description": "Dopo il controverso mondiale qatariota, la Coppa del Mondo 2026 vede un aumento importante negli acquisti degli alcolici, a più di un mese dal fischio d'inizio.…",
+        "link": "https://www.dissapore.com/notizie/i-mondiali-di-calcio-stanno-gia-facendo-aumentare-le-vendite-degli-alcolici/",
+        "pubDate": "2026-05-07T10:28:23+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/08/pinta-guinness-scaled-e1756368756554.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Enoturismo e nuovo disciplinare per il Consorzio vini Bardolino: gli obiettivi del presidente Fabio Dei Micheli",
+        "description": "Confermato alla presidenza dell'ente di tutela, Fabio Dei Micheli lavorerà su riconoscibilità, contemporaneità e freschezza della denominazione. E sul riallinea…",
+        "link": "https://www.gamberorosso.it/notizie/vino/consorzio-vini-bardolino-rieletto-presidente-fabio-dei-micheli/",
+        "pubDate": "2026-05-07T09:58:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "5 Consigli utili per evitare la caduta dei capelli nel cambio di stagione",
+        "description": "Ecco 5 consigli infallibili per dire addio alla caduta dei capelli nel cambio di mezza stagione. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/5-consigli-utili-per-evitare-la-caduta-dei-capelli-nel-cambio-di-stagione/250588/",
+        "pubDate": "2026-05-07T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Distinti Salumi 2026 a Cagli: dal 22 al 22 maggio va in scena la norcineria che resiste",
         "description": "Dal 22 al 24 maggio il centro storico di Cagli ospita Distinti Salumi, evento Slow Food dedicato al meglio della norcineria italiana.\nL'articolo Distinti Salumi…",
@@ -19,6 +118,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "10 must have di H&M da acquistare a Maggio e sfoggiare per tutta la bella stagione",
+        "description": "A Maggio la bella stagione entra ufficialmente nel vivo e, non a caso, la collezione di H&#38;M si trasforma in un vero e proprio invito a giocare con la moda, …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/hm-cosa-comprare-a-maggio-shopping-online-must-have-abiti-scarpe-accessori-primavera-estate-969883",
+        "pubDate": "2026-05-07T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_HM_maggio_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "UFO, nuovo hub ibrido nel sud di Milano tra cultura, cucina e creatività",
@@ -73,117 +181,45 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Calo dei consumi di vino? Il motivo è anche neurologico e ha a che fare con un certo rito oggi scomparso",
-        "description": "Il cervello della Gen Z non può più contare sul ricordo di un'esperienza pregressa, quel \"battesimo del vino\" che un tempo avveniva con i nonni. E questo cambia…",
-        "link": "https://www.gamberorosso.it/notizie/vino/calo-consumi-vino-secondo-neuromarketing/",
-        "pubDate": "2026-05-06T16:08:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Divani da esterno IKEA: i migliori modelli per arredare giardino e terrazzo con stile",
-        "description": "Soluzioni versatili e resistenti per creare un angolo relax all’aperto. Dal rattan sintetico al legno naturale, ecco i modelli più interessanti.…",
-        "link": "https://www.stylosophy.it/articolo/divani-da-esterno-ikea-i-migliori-modelli-per-arredare-giardino-e-terrazzo/250579/",
-        "pubDate": "2026-05-06T16:00:00+00:00",
+        "title": "Annalisa lascia tutti senza fiato ai David di Donatello 2026 con il suo Look FOTO",
+        "description": "Annalisa ai David di Donatello 2026 ha sfoggiato un look davvero sensazionale: qui per i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/annalisa-lascia-tutti-senza-fiato-ai-david-di-donatello-2026-con-il-suo-look-foto/250607/",
+        "pubDate": "2026-05-07T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Che cos’è il filindeu, la pasta rarissima che si mangia dopo un pellegrinaggio notturno",
-        "description": "Su filindeu è una delle paste più rare al mondo: per secoli preparata solo da poche famiglie sarde, oggi viene tramandata attraverso corsi, pellegrinaggi e un’a…",
-        "link": "https://www.gamberorosso.it/notizie/ricette/filindeu-pasta-rara-sardegna-pellegrinaggio/",
-        "pubDate": "2026-05-06T14:57:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Aperte le iscrizioni alle selezioni della Guida Winemag 2027",
-        "description": "Aperte le iscrizioni alle selezioni della Guida Winemag 2027. Puoi registrare i tuoi vini uno alla volta, compilando il seguente modulo. Scrivici una mail all&#…",
-        "link": "https://www.winemag.it/aperte-le-iscrizioni-alle-selezioni-della-guida-winemag-2027/",
-        "pubDate": "2026-05-06T14:56:27+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/wpforms/assets/images/submit-spin.svg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "A 20 anni lascia il ciclismo per il camion dello zio: oggi vende salumi a mezzo milione di follower",
-        "description": "Andrea Carelli ha trasformato il camion di famiglia ereditato dal nonno in una bottega ambulante seguita da oltre mezzo milione di persone tra Instagram e TikTo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/salumiere-ambulante-social-carelli/",
-        "pubDate": "2026-05-06T14:45:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il segreto dei biscotti abruzzesi più buoni è una marmellata quasi sconosciuta",
-        "description": "La scrucchiata è una confettura d’uva tipica dell’Abruzzo, preparata schiacciando gli acini a mano e usata da secoli nei dolci tradizionali delle feste…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scrucchiata-marmellata-uva-abruzzo/",
-        "pubDate": "2026-05-06T14:32:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non si placa la crisi dei pub inglesi: ne chiudono due al giorno",
-        "description": "Nonostante gli aiuti governativi, il carico fiscale continua ad essere insostenibile e sempre più pub inglesi chiudono i battenti.\nL'articolo Non si placa la cr…",
-        "link": "https://www.dissapore.com/notizie/non-si-placa-la-crisi-dei-pub-inglesi-ne-chiudono-due-al-giorno/",
-        "pubDate": "2026-05-06T14:31:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pun-interno-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Camicia con ricami in pizzo e jeans bianchi: la combo di Sèzane sfoggiata da Matilde Gioli è perfetta per tutti i giorni",
-        "description": "Se siete alla ricerca d&#8217;ispirazione per i vostri outfit di stagione, non potete assolutamente lasciarvi sfuggire l&#8217;ultimo look sfoggiato da Matilde …",
-        "link": "https://www.grazia.it/moda/get-the-look/matilde-gioli-sezane-look-jeans-bianchi-camicia-pizzo-abbinamento-easy-chic-primavera-970565",
-        "pubDate": "2026-05-06T14:26:48+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/Sézane_Matilde-Gioli_.jpg",
+        "title": "L’abito nero perfetto per le donne over 60? Quello di Valeria Golino ai David di Donatello (e noi abbiamo già trovato alcune alternative da puntare ASAP)",
+        "description": "È&#160;stata una delle grandi protagoniste della 71° edizione dei David di Donatello e ieri sera sul red carpet ci ha impartito una grande lezione di stile: ave…",
+        "link": "https://www.grazia.it/moda/celebrity-style/donne-over-60-cosa-indossare-abito-nero-look-valeria-golino-david-donatello-eleganti-zara-zalando-cerimonia-970866",
+        "pubDate": "2026-05-07T12:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Valeria_Golino.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Il dolce nato da una presa in giro che oggi tutti vanno a mangiare a Gaeta",
-        "description": "La Palleciotta della pasticceria Stenta nasce da una satira degli anni ’80 ed è diventata il dolce simbolo di Gaeta: bignè, gianduia, zabaione e nocciole tostat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/palleciotta-gaeta-dolce-stenta/",
-        "pubDate": "2026-05-06T14:24:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "5 Consigli utili per evitare la caduta dei capelli nel cambio di stagione",
+        "description": "Ecco 5 consigli infallibili per dire addio alla caduta dei capelli nel cambio di mezza stagione. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/5-consigli-utili-per-evitare-la-caduta-dei-capelli-nel-cambio-di-stagione/250588/",
+        "pubDate": "2026-05-07T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "DryMilano, a maggio tre eventi tra eccellenze italiane e mixology internazionale",
-        "description": "DryMilano si prepara a un maggio all’insegna della mixology contemporanea con tre appuntamenti che mettono al centro confronto, ricerca e contaminazione interna…",
-        "link": "https://www.winemag.it/drymilano-a-maggio-tre-eventi-tra-eccellenze-italiane-e-mixology-internazionale/",
-        "pubDate": "2026-05-06T14:18:17+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "10 must have di H&M da acquistare a Maggio e sfoggiare per tutta la bella stagione",
+        "description": "A Maggio la bella stagione entra ufficialmente nel vivo e, non a caso, la collezione di H&#38;M si trasforma in un vero e proprio invito a giocare con la moda, …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/hm-cosa-comprare-a-maggio-shopping-online-must-have-abiti-scarpe-accessori-primavera-estate-969883",
+        "pubDate": "2026-05-07T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_HM_maggio_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Cinema ed esperienza: i cocktail ready-to-drink entrano nelle sale The Space",
-        "description": "Il cinema cambia forma e amplia la propria offerta. Non più solo visione di un film, ma esperienza completa. Comfort, tecnologia e proposta gastronomica diventa…",
-        "link": "https://www.winemag.it/cinema-ed-esperienza-i-cocktail-ready-to-drink-entrano-nelle-sale-the-space/",
-        "pubDate": "2026-05-06T13:58:46+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Era uno studente di biologia, oggi è il vero segreto di uno dei ristoranti più importanti di Roma",
-        "description": "Giovanni Oliveri non arriva dall’alberghiero ma da scienze naturali: oggi è il braccio destro di Roy Caceres da Orma e guida il laboratorio di ricerca del risto…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/giovanni-oliveri-sous-chef-orma-roma/",
-        "pubDate": "2026-05-06T13:34:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "David di Donatello 2026: tutti i look degli ospiti sul red carpet",
         "description": "La serata più attesa dai protagonisti e dagli amanti del cinema italiano è arrivata: a Roma va in scena la 71esima edizione dei David di Donatello, i premi che …",
@@ -302,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "“Ma questo è un capolavoro, letteralmente!” Ecco i look del Met Gala 2026 ispirati a quadri e opere d’arte",
-        "description": "Puntuale come ogni primo lunedì di maggio, ieri sera al Metropolitan Museum di New York è andato in scena il Met Gala 2026 che ha riunito sul red carpet un ricc…",
-        "link": "https://www.grazia.it/moda/celebrity-style/met-gala-2026abiti-star-arte-tema-quadri-opere-madonna-heidi-klum-kendall-jenner-beyonce-970158",
-        "pubDate": "2026-05-05T09:41:12+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/05_Emma_Chamberlain.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Queste fragranze firmate Max&Co. sono il must have della Primavera 2026",
         "description": "Queste 3 fragranze firmate Max&#038;Co., da poco lanciate nel formato tascabile 15ml, sono dei veri must della mezza stagione. Ecco perché...…",
         "link": "https://www.stylosophy.it/articolo/queste-fragranze-firmate-maxco-sono-il-must-have-della-primavera-2026/250536/",
@@ -318,15 +345,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Met Gala 2026: tutti i look e gli abiti dal red carpet",
-        "description": "Con il primo lunedì di maggio arriva, come vuole la tradizione, l&#8217;appuntamento con l&#8217;annuale Met Gala. L&#8217;edizione 2026 ha portato al Metropoli…",
-        "link": "https://www.grazia.it/moda/celebrity-style/met-gala-2026-abiti-look-red-carpet-969903",
-        "pubDate": "2026-05-05T01:03:35+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-met-gala-2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Costa Adriatica: le spiagge più belle da Nord a Sud tra mare cristallino e località imperdibili",
@@ -345,27 +363,81 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "5 protezioni solari spf 50 per proteggersi dai primi raggi di sole",
-        "description": "Perfette per proteggere la pelle dai raggi UVA e UVB, queste 5 creme solari spf 50 sono i must have della stagione calda. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-protezioni-solari-spf-50-per-proteggersi-dai-primi-raggi-di-sole/250501/",
-        "pubDate": "2026-05-04T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Poltrone in lino Zara Home: i 3 modelli perfetti per la primavera-estate",
-        "description": "Il lino torna protagonista negli interni di stagione: tre poltrone Zara Home tra design, comfort e materiali naturali per rinnovare gli spazi.…",
-        "link": "https://www.stylosophy.it/articolo/poltrone-in-lino-zara-home-modelli-perfetti-per-la-primavera-estate/250505/",
-        "pubDate": "2026-05-03T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Che cosa è la spaghettata gelato, il dolce anni Ottanta che in Abruzzo non è mai scomparso",
+        "description": "Nato quasi per caso in Germania alla fine degli anni Sessanta, lo Spaghettieis è arrivato sulle coste abruzzesi diventando uno dei dolci estivi più riconoscibil…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spaghettata-gelato-spaghettieis-abruzzo/",
+        "pubDate": "2026-05-07T13:23:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Con il vino in bag in box abbiamo sfidato la crisi”. Parla l’imprenditrice che ha rilanciato lo sfuso (buono)",
+        "description": "A cinque anni dal lancio dell'e-commerce il bilancio è positivo: 30 cantine in tutta Italia e 30% di vendite nell'Horeca. Alessandra Costa: \"Oggi il vino ha rag…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-bag-in-box-progetto-sfuso-buono-alessandra-costa/",
+        "pubDate": "2026-05-07T11:28:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Pisciotta è rimasto un solo maestro d’ascia: costruisce barche come nel 1800",
+        "description": "Giovanni Cammarano costruì la sua prima barca a 16 anni usando solo un seghetto. Oggi è l’ultimo maestro d’ascia di Pisciotta e continua a lavorare il legno com…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ultimo-maestro-ascia-pisciotta-cilento/",
+        "pubDate": "2026-05-07T11:24:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Ho sempre fatto fatica a trovare il mio posto nel mondo”: poi ha mollato la farmacia per il cacao",
+        "description": "Federico Dutto lavorava in farmacia, ma sentiva di essere fuori posto. Oggi nel suo laboratorio piemontese produce cioccolato artigianale e racconta il lato nas…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/federico-dutto-lim-chocolate-farmacia-cacao/",
+        "pubDate": "2026-05-07T11:16:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha lasciato Tokyo per aprire un’izakaya nelle Langhe: “Così ho portato il vero Giappone ad Alba”",
+        "description": "Erica Napoli ha vissuto in Giappone per oltre un decennio imparandone lingua, rituali e cucina casalinga. Oggi ad Alba ha aperto MUSUBI, una vera izakaya…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/izakaya-giapponese-alba-musubi-erica-napoli/",
+        "pubDate": "2026-05-07T11:09:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un cornetto surgelato non è per forza scadente",
+        "description": "Guardiamo con superficiale sufficienza il cornetto surgelato del bar, e ancor di più, in pasticceria. Ma l'idea che esso sia scadente o \"finto\", industriale per…",
+        "link": "https://www.dissapore.com/locali/un-cornetto-surgelato-non-e-per-forza-scadente/",
+        "pubDate": "2026-05-07T11:06:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/croissant-surgelato-burro.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I Mondiali di calcio stanno già facendo aumentare le vendite degli alcolici",
+        "description": "Dopo il controverso mondiale qatariota, la Coppa del Mondo 2026 vede un aumento importante negli acquisti degli alcolici, a più di un mese dal fischio d'inizio.…",
+        "link": "https://www.dissapore.com/notizie/i-mondiali-di-calcio-stanno-gia-facendo-aumentare-le-vendite-degli-alcolici/",
+        "pubDate": "2026-05-07T10:28:23+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/08/pinta-guinness-scaled-e1756368756554.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Enoturismo e nuovo disciplinare per il Consorzio vini Bardolino: gli obiettivi del presidente Fabio Dei Micheli",
+        "description": "Confermato alla presidenza dell'ente di tutela, Fabio Dei Micheli lavorerà su riconoscibilità, contemporaneità e freschezza della denominazione. E sul riallinea…",
+        "link": "https://www.gamberorosso.it/notizie/vino/consorzio-vini-bardolino-rieletto-presidente-fabio-dei-micheli/",
+        "pubDate": "2026-05-07T09:58:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Distinti Salumi 2026 a Cagli: dal 22 al 22 maggio va in scena la norcineria che resiste",
         "description": "Dal 22 al 24 maggio il centro storico di Cagli ospita Distinti Salumi, evento Slow Food dedicato al meglio della norcineria italiana.\nL'articolo Distinti Salumi…",
@@ -457,24 +529,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "A 20 anni lascia il ciclismo per il camion dello zio: oggi vende salumi a mezzo milione di follower",
-        "description": "Andrea Carelli ha trasformato il camion di famiglia ereditato dal nonno in una bottega ambulante seguita da oltre mezzo milione di persone tra Instagram e TikTo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/salumiere-ambulante-social-carelli/",
-        "pubDate": "2026-05-06T14:45:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il segreto dei biscotti abruzzesi più buoni è una marmellata quasi sconosciuta",
-        "description": "La scrucchiata è una confettura d’uva tipica dell’Abruzzo, preparata schiacciando gli acini a mano e usata da secoli nei dolci tradizionali delle feste…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scrucchiata-marmellata-uva-abruzzo/",
-        "pubDate": "2026-05-06T14:32:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Non si placa la crisi dei pub inglesi: ne chiudono due al giorno",
         "description": "Nonostante gli aiuti governativi, il carico fiscale continua ad essere insostenibile e sempre più pub inglesi chiudono i battenti.\nL'articolo Non si placa la cr…",
         "link": "https://www.dissapore.com/notizie/non-si-placa-la-crisi-dei-pub-inglesi-ne-chiudono-due-al-giorno/",
@@ -484,15 +538,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Il dolce nato da una presa in giro che oggi tutti vanno a mangiare a Gaeta",
-        "description": "La Palleciotta della pasticceria Stenta nasce da una satira degli anni ’80 ed è diventata il dolce simbolo di Gaeta: bignè, gianduia, zabaione e nocciole tostat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/palleciotta-gaeta-dolce-stenta/",
-        "pubDate": "2026-05-06T14:24:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "DryMilano, a maggio tre eventi tra eccellenze italiane e mixology internazionale",
         "description": "DryMilano si prepara a un maggio all’insegna della mixology contemporanea con tre appuntamenti che mettono al centro confronto, ricerca e contaminazione interna…",
         "link": "https://www.winemag.it/drymilano-a-maggio-tre-eventi-tra-eccellenze-italiane-e-mixology-internazionale/",
@@ -500,51 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Cinema ed esperienza: i cocktail ready-to-drink entrano nelle sale The Space",
-        "description": "Il cinema cambia forma e amplia la propria offerta. Non più solo visione di un film, ma esperienza completa. Comfort, tecnologia e proposta gastronomica diventa…",
-        "link": "https://www.winemag.it/cinema-ed-esperienza-i-cocktail-ready-to-drink-entrano-nelle-sale-the-space/",
-        "pubDate": "2026-05-06T13:58:46+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Era uno studente di biologia, oggi è il vero segreto di uno dei ristoranti più importanti di Roma",
-        "description": "Giovanni Oliveri non arriva dall’alberghiero ma da scienze naturali: oggi è il braccio destro di Roy Caceres da Orma e guida il laboratorio di ricerca del risto…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/giovanni-oliveri-sous-chef-orma-roma/",
-        "pubDate": "2026-05-06T13:34:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Per la prima volta in 3 anni i consumi di birra sono in aumento",
-        "description": "I dati arrivano dal report del più grande produttore mondiale di birra, Anheuser-Busch InBev: l'inizio di una contro tendenza? \nL'articolo Per la prima volta in…",
-        "link": "https://www.dissapore.com/notizie/per-la-prima-volta-in-3-anni-i-consumi-di-birra-sono-in-aumento/",
-        "pubDate": "2026-05-06T12:51:58+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/shutterstock_2202840909-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Come Monica Caradonna ha trasformato Taranto in una piccola food valley",
-        "description": "Da una grave allergia al Nichel è nata la passione per il cibo di Monica Caradonna, conduttrice Rai e ideatrice del bellissimo Ego Festival, che ha puntato i ri…",
-        "link": "https://www.dissapore.com/eventi-enogastronomici/come-monica-caradonna-ha-trasformato-taranto-in-una-piccola-food-valley/",
-        "pubDate": "2026-05-06T11:24:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/monica-caradonna-2-scaled-e1777565792318.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nel Molise che si svuota c’è chi vive ancora senza acqua pur di restare",
-        "description": "\"Ritorno al Tratturo\", il documentario narrato da Elio Germano, racconta chi ha scelto di restare nelle aree interne del Molise tra allevamenti, tratturi e picc…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ritorno-tratturo-documentario-molise-aree-interne/",
-        "pubDate": "2026-05-06T10:53:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
