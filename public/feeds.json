@@ -1,7 +1,16 @@
 {
-  "generated": "2026-05-07T19:43:41.505832+00:00",
+  "generated": "2026-05-08T07:43:04.114206+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Mozzarella di Bufala Campana DOP e Pasta di Gragnano IGP: a Tuttofood il racconto dell’Italia tra tradizione e innovazione",
+        "description": "Dal 11 al 14 maggio, a Tuttofood (Pad 1 – Stand R05), il Consorzio Mozzarella di Bufala Campana DOP e il Consorzio Pasta di Gragnano IGP portano in scena un pro…",
+        "link": "https://www.winemag.it/mozzarella-di-bufala-campana-dop-pasta-di-gragnano-igp-a-tuttofood/",
+        "pubDate": "2026-05-08T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Il vino cerca nuove dimensioni. Il calo dei consumi spinge lattine, mini bottiglie, bag in box",
         "description": "L'attenzione soprattutto dei più giovani a fattori come prezzo, sostenibilità ambientale e moderazione sta guidando il cambiamento. E in Italia c'è chi ha già i…",
@@ -172,15 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/distinti-salumi.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "10 must have di H&M da acquistare a Maggio e sfoggiare per tutta la bella stagione",
-        "description": "A Maggio la bella stagione entra ufficialmente nel vivo e, non a caso, la collezione di H&#38;M si trasforma in un vero e proprio invito a giocare con la moda, …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/hm-cosa-comprare-a-maggio-shopping-online-must-have-abiti-scarpe-accessori-primavera-estate-969883",
-        "pubDate": "2026-05-07T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_HM_maggio_2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Mozzarella di Bufala Campana DOP e Pasta di Gragnano IGP: a Tuttofood il racconto dell’Italia tra tradizione e innovazione",
+        "description": "Dal 11 al 14 maggio, a Tuttofood (Pad 1 – Stand R05), il Consorzio Mozzarella di Bufala Campana DOP e il Consorzio Pasta di Gragnano IGP portano in scena un pro…",
+        "link": "https://www.winemag.it/mozzarella-di-bufala-campana-dop-pasta-di-gragnano-igp-a-tuttofood/",
+        "pubDate": "2026-05-08T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Il vino cerca nuove dimensioni. Il calo dei consumi spinge lattine, mini bottiglie, bag in box",
         "description": "L'attenzione soprattutto dei più giovani a fattori come prezzo, sostenibilità ambientale e moderazione sta guidando il cambiamento. E in Italia c'è chi ha già i…",
         "link": "https://www.gamberorosso.it/notizie/vino/vino-packaging-alternativi-lattine-bottiglie-da-50-bag-in-box/",
@@ -536,15 +545,6 @@
         "image": "https://www.winemag.it/wp-content/plugins/wpforms/assets/images/submit-spin.svg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Non si placa la crisi dei pub inglesi: ne chiudono due al giorno",
-        "description": "Nonostante gli aiuti governativi, il carico fiscale continua ad essere insostenibile e sempre più pub inglesi chiudono i battenti.\nL'articolo Non si placa la cr…",
-        "link": "https://www.dissapore.com/notizie/non-si-placa-la-crisi-dei-pub-inglesi-ne-chiudono-due-al-giorno/",
-        "pubDate": "2026-05-06T14:31:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pun-interno-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
