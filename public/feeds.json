@@ -1,7 +1,34 @@
 {
-  "generated": "2026-05-09T13:19:34.976090+00:00",
+  "generated": "2026-05-09T19:02:42.396517+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Camicia azzurra, istruzioni per l’uso! 5 idee per abbinarla in modo stiloso da mattina a sera",
+        "description": "Semplice, sempre elegante, indispensabile per creare look easy-chic adatti a ogni occasione: la camicia azzurra è uno di quei capi a cui, specialmente in questa…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-camicia-azzurra-abbinamento-celeste-con-pantalone-donna-outfit",
+        "pubDate": "2026-05-09T17:03:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2025/05/COVER_Come_indossare_Camicia_azzurra.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Maisons du Monde Primavera-Estate 2026: la nuova collezione Dolce Vita reinterpreta il design italiano",
+        "description": "Maisons du Monde reinterpreta il design italiano con volumi decisi, palette monocromatica e materiali sofisticati pensati per ambienti contemporanei.…",
+        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-primavera-estate-2026-la-nuova-collezione-dolce-vita/250660/",
+        "pubDate": "2026-05-09T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Quanto vale il Fairtrade in italia?",
+        "description": "In occasione della Giornata Mondiale del Commercio Equo e Solidale, diamo un'occhiata a come funziona una filiera che in Italia ha un grande valore, in costante…",
+        "link": "https://www.dissapore.com/notizie/quanto-vale-il-fairtrade-in-italia/",
+        "pubDate": "2026-05-09T15:12:33+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/fairtrade-banana-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Elisabetta Gregoraci sfoggia il completo due pezzi di super tendenza per questa stagione: scoprilo qui!",
         "description": "Elisabetta Gregoraci ha condiviso con i fan sui social il suo completo due pezzi del momento, perfetto per questa stagione: qui di seguito per tutti i dettagli.…",
@@ -10,6 +37,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa non indossare a un matrimonio estivo: i fashion tips per non sbagliare il look",
+        "description": "Puntuale come un invito a nozze arriva, stagionalmente, anche un capitolo dedicato a quello che non si dovrebbe indossare a un matrimonio. In un&#8217;epoca in …",
+        "link": "https://www.grazia.it/moda/sposa/cosa-non-indossare-ad-un-matrimonio-colori-vietati-look-invitata-come-vestirsi",
+        "pubDate": "2026-05-09T12:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2024/07/DESK-cosa-non-indossare-a-un-matrimonio-.png",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "La birra John Lemon sparisce: la causa legale l’ha resa introvabile",
@@ -145,45 +181,27 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/08/ryanair-limite-due-drink-passeggeri-scaled.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Camicia azzurra, istruzioni per l’uso! 5 idee per abbinarla in modo stiloso da mattina a sera",
+        "description": "Semplice, sempre elegante, indispensabile per creare look easy-chic adatti a ogni occasione: la camicia azzurra è uno di quei capi a cui, specialmente in questa…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-camicia-azzurra-abbinamento-celeste-con-pantalone-donna-outfit",
+        "pubDate": "2026-05-09T17:03:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2025/05/COVER_Come_indossare_Camicia_azzurra.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Il panino col pesce spada più famoso della Calabria si mangia a Scilla",
-        "description": "Nel borgo marinaro di Chianalea, tra feluche, reti da pesca e vicoli sul mare, Civico 5 prepara un celebre panino col pesce spada diventato una tappa obbligata …",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/panino-pesce-spada-scilla-civico-5/",
-        "pubDate": "2026-05-08T13:44:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chiara Ferragni, cosa ha indossato per il suo compleanno FOTO",
-        "description": "Chiara Ferragni, nella giornata di ieri, ha compiuto gli anni: ecco cosa ha indossato per il suo giorno speciale.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-cosa-ha-indossato-per-il-suo-compleanno-foto/250636/",
-        "pubDate": "2026-05-08T13:00:00+00:00",
+        "title": "Maisons du Monde Primavera-Estate 2026: la nuova collezione Dolce Vita reinterpreta il design italiano",
+        "description": "Maisons du Monde reinterpreta il design italiano con volumi decisi, palette monocromatica e materiali sofisticati pensati per ambienti contemporanei.…",
+        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-primavera-estate-2026-la-nuova-collezione-dolce-vita/250660/",
+        "pubDate": "2026-05-09T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Il panino più strano di Modena è fatto come un tortellino e si puccia nel brodo",
-        "description": "Nel forno Radici Urbane di Modena il tortellino diventa un panino ripieno da intingere nel brodo. Un’idea nata per raccontare la tradizione emiliana attraverso …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panino-tortellino-modena-radici-urbane/",
-        "pubDate": "2026-05-08T12:31:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il fascino del formaggio in cucina",
-        "description": "Il formaggio è uno degli ingredienti più amati nelle cucine di tutto il mondo. La sua versatilità permette di utilizzarlo in numerose ricette, dai piatti tradiz…",
-        "link": "https://www.gustoblog.it/2026/05/08/il-fascino-del-formaggio-in-cucina/",
-        "pubDate": "2026-05-08T12:13:17+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      }
-    ],
-    "moda": [
       {
         "title": "Elisabetta Gregoraci sfoggia il completo due pezzi di super tendenza per questa stagione: scoprilo qui!",
         "description": "Elisabetta Gregoraci ha condiviso con i fan sui social il suo completo due pezzi del momento, perfetto per questa stagione: qui di seguito per tutti i dettagli.…",
@@ -192,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa non indossare a un matrimonio estivo: i fashion tips per non sbagliare il look",
+        "description": "Puntuale come un invito a nozze arriva, stagionalmente, anche un capitolo dedicato a quello che non si dovrebbe indossare a un matrimonio. In un&#8217;epoca in …",
+        "link": "https://www.grazia.it/moda/sposa/cosa-non-indossare-ad-un-matrimonio-colori-vietati-look-invitata-come-vestirsi",
+        "pubDate": "2026-05-09T12:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2024/07/DESK-cosa-non-indossare-a-un-matrimonio-.png",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "10 capi facili e chic da comprare da Mango nel mese di Maggio",
@@ -320,24 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Primavera a colori: 5 combo cromatiche insolite (ma super chic) da copiare adesso",
-        "description": "Primavera fa rima con colore, si sa. O meglio, colori. Sì, perché la moda per la bella stagione sembra più che intenzionata a lasciarsi alle spalle la monotonia…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colore-abbinamenti-cromatici-insoliti-che-stanno-bene-look-primavera-970157",
-        "pubDate": "2026-05-07T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_combo_colore.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’abito nero perfetto per le donne over 60? Quello di Valeria Golino ai David di Donatello (e noi abbiamo già trovato alcune alternative da puntare ASAP)",
-        "description": "È&#160;stata una delle grandi protagoniste della 71° edizione dei David di Donatello e ieri sera sul red carpet ci ha impartito una grande lezione di stile: ave…",
-        "link": "https://www.grazia.it/moda/celebrity-style/donne-over-60-cosa-indossare-abito-nero-look-valeria-golino-david-donatello-eleganti-zara-zalando-cerimonia-970866",
-        "pubDate": "2026-05-07T12:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Valeria_Golino.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "5 Consigli utili per evitare la caduta dei capelli nel cambio di stagione",
         "description": "Ecco 5 consigli infallibili per dire addio alla caduta dei capelli nel cambio di mezza stagione. Da non perdere!…",
         "link": "https://www.stylosophy.it/articolo/5-consigli-utili-per-evitare-la-caduta-dei-capelli-nel-cambio-di-stagione/250588/",
@@ -354,18 +363,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Ilary Blasi, total black Look per la nuova puntata del GF Vip: ma quanto è sexy!",
-        "description": "Per la nuova puntata del Grande Fratello Vip, Ilary Blasi ha optato per un look total black: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-total-black-look-per-la-nuova-puntata-del-gf-vip-ma-quanto-e-sexy/250572/",
-        "pubDate": "2026-05-06T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Quanto vale il Fairtrade in italia?",
+        "description": "In occasione della Giornata Mondiale del Commercio Equo e Solidale, diamo un'occhiata a come funziona una filiera che in Italia ha un grande valore, in costante…",
+        "link": "https://www.dissapore.com/notizie/quanto-vale-il-fairtrade-in-italia/",
+        "pubDate": "2026-05-09T15:12:33+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/fairtrade-banana-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "La birra John Lemon sparisce: la causa legale l’ha resa introvabile",
         "description": "Una birra allo zenzero e limone, un nome troppo simile a John Lennon e una diffida legale: così un prodotto locale è diventato un piccolo caso mediatico…",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "È morto Roberto Mostini, il critico gastronomico che amava i vini francesi e la Liguria",
-        "description": "Con Roberto Mostini se ne va una delle voci più colte, indipendenti e riconoscibili del racconto enogastronomico italiano. Conoscitore profondo di vino e cucina…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-roberto-mostini-guardiano-del-faro/",
-        "pubDate": "2026-05-08T08:03:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
