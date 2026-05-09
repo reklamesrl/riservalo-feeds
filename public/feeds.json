@@ -1,7 +1,25 @@
 {
-  "generated": "2026-05-08T19:19:15.524889+00:00",
+  "generated": "2026-05-09T07:57:54.029549+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "In attesa della stagione finale di The Bear, esce un episodio a sorpresa",
+        "description": "Gary è il flashback che ci riporta a un The Bear prima di The Bear, e ci fa conoscere a fondo due personaggi chiave della serie. \nL'articolo In attesa della sta…",
+        "link": "https://www.dissapore.com/notizie/in-attesa-della-stagione-finale-di-the-bear-esce-un-episodio-a-sorpresa/",
+        "pubDate": "2026-05-09T07:40:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/the-bear-quarta-stagione-recensione.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "World Cocktail Day 2026: Compagnia dei Caraibi celebra la mixology con quattro signature cocktail",
+        "description": "In occasione del World Cocktail Day 2026 del 13 maggio, Compagnia dei Caraibi propone un percorso nella miscelazione attraverso alcuni dei brand chiave del prop…",
+        "link": "https://www.winemag.it/world-cocktail-day-2026-compagnia-dei-caraibi-celebra-con-quattro-signature-cocktail/",
+        "pubDate": "2026-05-09T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/World-Cocktail-Day-2026-Compagnia-dei-Caraibi-celebra-la-mixology-con-quattro-signature-cocktail-WestbourneMartini.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Nuova immagine e nuove farine per Molino Magri a Tuttofood 2026",
         "description": "Molino Magri presenta un'immagine rinnovata e i nuovi prodotti della line Excellence da grano attivo, in una serie di Masterclass con i protagonisti dell'arte b…",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "È morto Roberto Mostini, il critico gastronomico che amava i vini francesi e la Liguria",
-        "description": "Con Roberto Mostini se ne va una delle voci più colte, indipendenti e riconoscibili del racconto enogastronomico italiano. Conoscitore profondo di vino e cucina…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-roberto-mostini-guardiano-del-faro/",
-        "pubDate": "2026-05-08T08:03:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sulle colline di Ancona due fratelli producono uno dei migliori rosati d’Italia (che costa molto poco)",
-        "description": "Nel territorio del Conero, tra mare e colline, c'è un'azienda che, seguendo i dettami dell’agricoltura biologica, realizza un grande rosato da montepulciano vin…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-rosati-marche-conero-mun-la-calcinara/",
-        "pubDate": "2026-05-08T07:57:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "In attesa della stagione finale di The Bear, esce un episodio a sorpresa",
+        "description": "Gary è il flashback che ci riporta a un The Bear prima di The Bear, e ci fa conoscere a fondo due personaggi chiave della serie. \nL'articolo In attesa della sta…",
+        "link": "https://www.dissapore.com/notizie/in-attesa-della-stagione-finale-di-the-bear-esce-un-episodio-a-sorpresa/",
+        "pubDate": "2026-05-09T07:40:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/the-bear-quarta-stagione-recensione.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "World Cocktail Day 2026: Compagnia dei Caraibi celebra la mixology con quattro signature cocktail",
+        "description": "In occasione del World Cocktail Day 2026 del 13 maggio, Compagnia dei Caraibi propone un percorso nella miscelazione attraverso alcuni dei brand chiave del prop…",
+        "link": "https://www.winemag.it/world-cocktail-day-2026-compagnia-dei-caraibi-celebra-con-quattro-signature-cocktail/",
+        "pubDate": "2026-05-09T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/World-Cocktail-Day-2026-Compagnia-dei-Caraibi-celebra-la-mixology-con-quattro-signature-cocktail-WestbourneMartini.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Nuova immagine e nuove farine per Molino Magri a Tuttofood 2026",
         "description": "Molino Magri presenta un'immagine rinnovata e i nuovi prodotti della line Excellence da grano attivo, in una serie di Masterclass con i protagonisti dell'arte b…",
         "link": "https://www.dissapore.com/notizie/nuova-immagine-e-nuove-farine-per-molino-magri-a-tuttofood-2026/",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un cornetto surgelato non è per forza scadente",
-        "description": "Guardiamo con superficiale sufficienza il cornetto surgelato del bar, e ancor di più, in pasticceria. Ma l'idea che esso sia scadente o \"finto\", industriale per…",
-        "link": "https://www.dissapore.com/locali/un-cornetto-surgelato-non-e-per-forza-scadente/",
-        "pubDate": "2026-05-07T11:06:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/croissant-surgelato-burro.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I Mondiali di calcio stanno già facendo aumentare le vendite degli alcolici",
-        "description": "Dopo il controverso mondiale qatariota, la Coppa del Mondo 2026 vede un aumento importante negli acquisti degli alcolici, a più di un mese dal fischio d'inizio.…",
-        "link": "https://www.dissapore.com/notizie/i-mondiali-di-calcio-stanno-gia-facendo-aumentare-le-vendite-degli-alcolici/",
-        "pubDate": "2026-05-07T10:28:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/08/pinta-guinness-scaled-e1756368756554.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
