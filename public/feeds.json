@@ -1,7 +1,25 @@
 {
-  "generated": "2026-05-09T19:02:42.396517+00:00",
+  "generated": "2026-05-10T08:08:39.004131+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Trentodoc aderisce alla Giornata della Ristorazione: appuntamento il 16 maggio",
+        "description": "Trentodoc partecipa alla Giornata della Ristorazione, promossa da FIPE-Confcommercio e in programma il 16 maggio su tutto il territorio nazionale. L’iniziativa …",
+        "link": "https://www.winemag.it/trentodoc-aderisce-alla-giornata-della-ristorazione-appuntamento-il-16-maggio/",
+        "pubDate": "2026-05-10T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Coltiva vino su un vulcano attivo: nei Campi Flegrei nasce una Falanghina sorprendente",
+        "description": "Tra Pozzuoli e il mare, su terreni vulcanici in continuo movimento, la Tenuta Loffredo produce vini intensi e sapidi, tra viticoltura eroica e identità territor…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-campi-flegrei-falanghina-tenuta-loffredo/",
+        "pubDate": "2026-05-10T05:14:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Camicia azzurra, istruzioni per l’uso! 5 idee per abbinarla in modo stiloso da mattina a sera",
         "description": "Semplice, sempre elegante, indispensabile per creare look easy-chic adatti a ogni occasione: la camicia azzurra è uno di quei capi a cui, specialmente in questa…",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Dian Suci vince il Max Mara Art Prize for Women 2025-2027: sei mesi in Italia tra spiritualità e artigianato",
-        "description": "Con un progetto che mette in dialogo ritualità, artigianato e potere, l’artista indonesiana Dian Suci è la vincitrice della decima edizione del Max Mara Art Pri…",
-        "link": "https://www.grazia.it/moda/news-moda/max-mara-art-prize-dian-suci-2025-2027-971157",
-        "pubDate": "2026-05-08T15:10:01+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/ok-apertura-006_Dian-Suci_L1009339_R.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’alcol al mattino sta diventando un problema per Ryanair",
-        "description": "Dopo due anni di silenzio, O' Leary torna a farsi sentire sul problema dell'ubriachezza molesta a bordo degli aerei: un volo deviato ogni giorno per questo.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/lalcol-al-mattino-sta-diventando-un-problema-per-ryanair/",
-        "pubDate": "2026-05-08T14:21:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/ryanair-limite-due-drink-passeggeri-scaled.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Trentodoc aderisce alla Giornata della Ristorazione: appuntamento il 16 maggio",
+        "description": "Trentodoc partecipa alla Giornata della Ristorazione, promossa da FIPE-Confcommercio e in programma il 16 maggio su tutto il territorio nazionale. L’iniziativa …",
+        "link": "https://www.winemag.it/trentodoc-aderisce-alla-giornata-della-ristorazione-appuntamento-il-16-maggio/",
+        "pubDate": "2026-05-10T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Coltiva vino su un vulcano attivo: nei Campi Flegrei nasce una Falanghina sorprendente",
+        "description": "Tra Pozzuoli e il mare, su terreni vulcanici in continuo movimento, la Tenuta Loffredo produce vini intensi e sapidi, tra viticoltura eroica e identità territor…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-campi-flegrei-falanghina-tenuta-loffredo/",
+        "pubDate": "2026-05-10T05:14:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Quanto vale il Fairtrade in italia?",
         "description": "In occasione della Giornata Mondiale del Commercio Equo e Solidale, diamo un'occhiata a come funziona una filiera che in Italia ha un grande valore, in costante…",
         "link": "https://www.dissapore.com/notizie/quanto-vale-il-fairtrade-in-italia/",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tra i boschi della Sila c’è un’azienda agricola che trasforma il suo latte in gelato incredibile",
-        "description": "A Spezzano della Sila l’azienda agricola Scrivano produce frutti di bosco, alleva bovini e ovini e trasforma il proprio latte in formaggi, yogurt e gelati dal s…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/gelato-sila-calabria-scrivano-terre-altopiano/",
-        "pubDate": "2026-05-08T09:55:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "C’è un Tiktoker che sta cuocendo uno stufato perpetuo da quasi 400 giorni",
-        "description": "Un'antichissima tradizione gastronomica è tornata in voga su Istagram e su Tik tok, ma non siamo sicuri di averne davvero bisogno.\nL'articolo C&#8217;è un Tikto…",
-        "link": "https://www.dissapore.com/notizie/ce-un-tiktoker-che-sta-cuocendo-uno-stufato-perpetuo-da-quasi-400-giorni/",
-        "pubDate": "2026-05-08T08:26:56+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
