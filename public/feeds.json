@@ -1,7 +1,16 @@
 {
-  "generated": "2026-05-10T13:20:10.553950+00:00",
+  "generated": "2026-05-10T19:05:20.553595+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Maiorca in primavera: itinerario di viaggio tra spiagge, borghi e locali glamour",
+        "description": "Tra spiagge ancora tranquille, boutique hotel e tramonti sul mare, Maiorca in primavera è la meta perfetta per una fuga elegante prima dell’estate.…",
+        "link": "https://www.stylosophy.it/articolo/maiorca-in-primavera-itinerario-di-viaggio-tra-spiagge-borghi-e-locali-glamour/250669/",
+        "pubDate": "2026-05-10T16:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Elettra Lamborghini vola a Vienna per l’Eurovision  2026: scopri qui il Look super trendy!",
         "description": "Ecco che cosa ha indossato Elettra Lamborghini per l'evento inaugurale a Vienna dedicato all'Eurovision Song Contest 2026.…",
@@ -10,6 +19,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Questi sono i look che hanno fatto la storia del Festival di Cannes",
+        "description": "Ogni anno, verso la metà di maggio, iniziamo a respirare l&#8217;aria della Croisette, invasa da stelle del cinema con annessi abiti da red carpet. Il perché è …",
+        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-abiti-iconici-grace-kelly-lady-diana",
+        "pubDate": "2026-05-10T12:09:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2023/05/COVER-best-cannes-DESK.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "In questo borgo vivono in 10, ma ogni sera accendono 300 candele per cenare",
@@ -163,27 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2024/07/DESK-cosa-non-indossare-a-un-matrimonio-.png",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "La birra John Lemon sparisce: la causa legale l’ha resa introvabile",
-        "description": "Una birra allo zenzero e limone, un nome troppo simile a John Lennon e una diffida legale: così un prodotto locale è diventato un piccolo caso mediatico…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/birra-john-lemon-causa-legale-introvabile/",
-        "pubDate": "2026-05-09T10:21:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è il Formàdi frant: il formaggio friulano nato dai “difetti”",
-        "description": "Dalle malghe della Carnia a Presidio Slow Food: il Formàdi frant nasce per recuperare i formaggi “difettosi” e oggi è uno dei prodotti più identitari della mont…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/formadi-frant-cos-e-formaggio-carnia/",
-        "pubDate": "2026-05-09T10:17:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Maiorca in primavera: itinerario di viaggio tra spiagge, borghi e locali glamour",
+        "description": "Tra spiagge ancora tranquille, boutique hotel e tramonti sul mare, Maiorca in primavera è la meta perfetta per una fuga elegante prima dell’estate.…",
+        "link": "https://www.stylosophy.it/articolo/maiorca-in-primavera-itinerario-di-viaggio-tra-spiagge-borghi-e-locali-glamour/250669/",
+        "pubDate": "2026-05-10T16:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Elettra Lamborghini vola a Vienna per l’Eurovision  2026: scopri qui il Look super trendy!",
         "description": "Ecco che cosa ha indossato Elettra Lamborghini per l'evento inaugurale a Vienna dedicato all'Eurovision Song Contest 2026.…",
@@ -192,6 +201,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Questi sono i look che hanno fatto la storia del Festival di Cannes",
+        "description": "Ogni anno, verso la metà di maggio, iniziamo a respirare l&#8217;aria della Croisette, invasa da stelle del cinema con annessi abiti da red carpet. Il perché è …",
+        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-abiti-iconici-grace-kelly-lady-diana",
+        "pubDate": "2026-05-10T12:09:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2023/05/COVER-best-cannes-DESK.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Rome Fashion Path 2026, il calendario: date ed eventi da segnare in agenda",
@@ -329,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Charm preziosi, un film da non perdere, capi sport chic e la “IT” collab del momento. E ancora: ritrovare la natura, e la borsa dei sogni che non smette di far …",
-        "link": "https://www.grazia.it/moda/news-moda/frame-leclerc-atelier-vm-supernova-falconeri-club-natura-urban-retreat-scholl-pop-up-vestiaire-collective-diavolo-veste-prada-borsa-dellaluna-venezia-970754",
-        "pubDate": "2026-05-08T09:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/Senza-titolo-103.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Profumi al miele: dolci e avvolgenti, sono il trend di Primavera",
         "description": "I profumi più gettonati della Primavera 2026? Quelli al miele, dolci e avvolgenti, pensati per aggiungere un tocco in più alla quotidianità. Ecco i più validi d…",
         "link": "https://www.stylosophy.it/articolo/profumi-al-miele-dolci-e-avvolgenti-sono-il-trend-di-primavera/250624/",
@@ -351,15 +360,6 @@
         "description": "Dai piccoli porti dei pescatori alle piazze affacciate sul mare, viaggio nei borghi più suggestivi della costa orientale della Sicilia tra tradizioni, spiagge e…",
         "link": "https://www.stylosophy.it/articolo/non-solo-taormina-i-borghi-di-mare-piu-belli-della-sicilia-orientale/250598/",
         "pubDate": "2026-05-07T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Annalisa lascia tutti senza fiato ai David di Donatello 2026 con il suo Look FOTO",
-        "description": "Annalisa ai David di Donatello 2026 ha sfoggiato un look davvero sensazionale: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/annalisa-lascia-tutti-senza-fiato-ai-david-di-donatello-2026-con-il-suo-look-foto/250607/",
-        "pubDate": "2026-05-07T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
