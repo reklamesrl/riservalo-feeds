@@ -1,7 +1,97 @@
 {
-  "generated": "2026-05-11T14:54:03.352526+00:00",
+  "generated": "2026-05-11T19:48:37.299560+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "In Toscana c’è un Borgo sospeso nel tempo che conquista tutti al primo sguardo",
+        "description": "Tra la Val di Cecina e il mare, Montescudaio conserva l’anima autentica della Toscana con castelli, vigneti, panorami e sapori storici.…",
+        "link": "https://www.stylosophy.it/articolo/in-toscana-ce-un-borgo-sospeso-nel-tempo-che-conquista-tutti/250735/",
+        "pubDate": "2026-05-11T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "A Taormina, tra boutique e negozi di lusso, resiste una piccola trattoria dove la Sicilia è ancora vera",
+        "description": "A pochi passi da Corso Umberto, il ristorante Tischi Toschi continua a proporre una cucina profondamente siciliana fatta di ingredienti selezionati, ricette tra…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-siciliano-taormina-autentico/",
+        "pubDate": "2026-05-11T15:59:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non tocco carne da allevamenti intensivi dagli anni Settanta”: Aurora Quattrocchi e il suo rapporto con il cibo",
+        "description": "L’attrice palermitana, vincitrice del David di Donatello 2026, racconta il suo legame con il cibo, la spesa quotidiana e la scelta fatta oltre cinquant’anni fa …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/aurora-quattrocchi-carne-allevamenti-intensivi-cibo/",
+        "pubDate": "2026-05-11T15:34:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nella città piemontese dove fanno il dolce più piccolo del mondo da oltre 200 anni",
+        "description": "Nati all’inizio dell’Ottocento e diventati simbolo di Chivasso, i nocciolini sono ancora prodotti artigianalmente con tre soli ingredienti: nocciole, albume e z…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/nocciolini-chivasso-storia-dolce-piemontese/",
+        "pubDate": "2026-05-11T15:20:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel borgo della Tuscia dove da 100 anni regalano biscotti ai bambini appena entrano nel forno",
+        "description": "Dentro questo panificio della Tuscia, a Montefiascone, i tozzetti sono ovunque: fragranti e appena sfornati sono una tentazione irresistibile…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panificio-mari-montefiascone-tozzetti/",
+        "pubDate": "2026-05-11T15:09:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In queste enoteche si beve benissimo senza spendere una fortuna",
+        "description": "Dal calice da 3 euro alle grandi bottiglie con ricarichi bassi: ecco i locali che stanno reagendo alla crisi del vino attirando nuovi clienti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/enoteche-vino-buoni-prezzi-italia/",
+        "pubDate": "2026-05-11T15:06:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Svolta storica per Guinness: un nuovo birrificio in Irlanda",
+        "description": "Per la prima volta la Guinness in Irlanda non sarà prodotta solo nello storico stabilimento di St. James's Gate, dopo un maxi investimento di Diageo.\nL'articolo…",
+        "link": "https://www.dissapore.com/notizie/svolta-storica-per-guinness-un-nuovo-birrificio-in-irlanda/",
+        "pubDate": "2026-05-11T15:06:14+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/guinness-birrificio-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il nuovo corso del Marsala: la celebre Doc siciliana si fa in quattro con le unità geografiche aggiuntive",
+        "description": "Stagnone, Altopiano dei Bagli, Triglia e San Nicola. Sono le aree individuate attraverso uno studio tecnico-scientifico che prende in considerazione le differen…",
+        "link": "https://www.gamberorosso.it/notizie/vino/marsala-doc-nuovo-disciplinare-unita-geografiche-aggiuntive/",
+        "pubDate": "2026-05-11T15:05:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sarajevo tra cultura, festival e natura: la capitale bosniaca punta sul city break estivo",
+        "description": "A poco più di un’ora e mezza di volo da Milano e Roma, Sarajevo si propone come meta per un city break estivo all’insegna di cultura, eventi e natura. La capita…",
+        "link": "https://www.winemag.it/sarajevo-tra-cultura-festival-e-natura-la-capitale-bosniaca-punta-sul-city-break-estivo/",
+        "pubDate": "2026-05-11T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Questi look “vintage” di Monica Bellucci a Cannes ci ricordano che, per la primavera, quello che ci serve è solo un abito… Questo!",
+        "description": "Tra poche ore avrà inizio la 78esima edizione del Festival di Cannes e non poteva esserci occasione migliore per fare un veloce &#8220;ripasso&#8221; dei look p…",
+        "link": "https://www.grazia.it/moda/celebrity-style/abito-a-fiori-donna-monica-bellucci-look-cannes-971360",
+        "pubDate": "2026-05-11T13:47:20+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/monica-bellucci-abito-a-fiori-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Doppia bocciatura per i dazi di Trump. Ma intanto la ristorazione Usa dimentica i vini europei",
         "description": "Dopo la sentenza della Corte suprema, arriva anche quella del Tribunale americano per il Commercio internazionale. Ma il presidente annuncia nuove tariffe da lu…",
@@ -28,6 +118,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Bye bye, jeans! I pantaloni beige sono l’alternativa perfetta per affrontare con stile le prime giornate di caldo",
+        "description": "Durante il resto dell’anno i jeans diventano un po’ la nostra seconda pelle. Li indossiamo nel tempo libero, per affrontare nel massimo comfort gli impegni di t…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-beige-donna-zara-jeans-eleganti-come-abbinarli-cargo-barrel-larghi-971285",
+        "pubDate": "2026-05-11T12:29:50+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Pantaloni_beige.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Hong Kong risolleverà la ristorazione con i rave di dumpling?",
@@ -82,108 +181,27 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "5 tips imperdibili per trattare al meglio i capelli decolorati",
-        "description": "SOS Capelli decolorati? Ecco 5 consigli per trattarli al meglio. Per una chioma da capogiro!…",
-        "link": "https://www.stylosophy.it/articolo/5-tips-imperdibili-per-trattare-al-meglio-i-capelli-decolorati/250704/",
-        "pubDate": "2026-05-11T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Alberto Marchetti sta per aprire un chiosco di gelati vecchio stile",
-        "description": "Alberto Marchetti apre un nuovo punto vendita dei suoi gelati a Torino: questa volta però non è una gelateria in stile classico.\nL'articolo Alberto Marchetti st…",
-        "link": "https://www.dissapore.com/notizie/alberto-marchetti-sta-per-aprire-un-chiosco-di-gelati-vecchio-stile/",
-        "pubDate": "2026-05-11T07:30:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/lumen-gourmet.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Borse in rafia: i modelli chic da sfoggiare per tutta l’estate (sì, anche in città)",
-        "description": "Per la Primavera Estate 2026 la borsa in rafia smette di essere l&#8217;accessorio che compriamo all&#8217;ultimo momento prima di partire per le vacanze. Una t…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/borse-in-rafia-borsa-di-paglia-anche-in-citta-modelli-shopper-secchielli-pochette-estate-2026-971126",
-        "pubDate": "2026-05-11T05:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_borse_rafia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Maiorca in primavera: itinerario di viaggio tra spiagge, borghi e locali glamour",
-        "description": "Tra spiagge ancora tranquille, boutique hotel e tramonti sul mare, Maiorca in primavera è la meta perfetta per una fuga elegante prima dell’estate.…",
-        "link": "https://www.stylosophy.it/articolo/maiorca-in-primavera-itinerario-di-viaggio-tra-spiagge-borghi-e-locali-glamour/250669/",
-        "pubDate": "2026-05-10T16:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Elettra Lamborghini vola a Vienna per l’Eurovision  2026: scopri qui il Look super trendy!",
-        "description": "Ecco che cosa ha indossato Elettra Lamborghini per l'evento inaugurale a Vienna dedicato all'Eurovision Song Contest 2026.…",
-        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-vola-a-vienna-per-leurovision-2026-scopri-qui-il-look-super-trendy/250678/",
-        "pubDate": "2026-05-10T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Questi sono i look che hanno fatto la storia del Festival di Cannes",
-        "description": "Ogni anno, verso la metà di maggio, iniziamo a respirare l&#8217;aria della Croisette, invasa da stelle del cinema con annessi abiti da red carpet. Il perché è …",
-        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-abiti-iconici-grace-kelly-lady-diana",
-        "pubDate": "2026-05-10T12:09:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2023/05/COVER-best-cannes-DESK.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In questo borgo vivono in 10, ma la sera accendono 300 candele per cenare",
-        "description": "Un ristorante diffuso, due giovani chef e un paese quasi disabitato: così Serpillo ha riportato la vita a Torre del Colle…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/borgo-umbria-ristorante-diffuso-serpillo/",
-        "pubDate": "2026-05-10T10:17:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Non basta cucinare italiano”: come si riconosce un vero ristorante italiano all’estero",
-        "description": "Dalla carta dei vini all’atmosfera, fino alla formazione degli imprenditori: cosa rende autentico un ristorante italiano nel mondo secondo Roberto Costa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/ristoranti-italiani-autentici-estero-come-riconoscerli/",
-        "pubDate": "2026-05-10T10:08:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "150 anni di storia, poi il terremoto: così un ristorante ha dovuto ricominciare da zero",
-        "description": "Un palazzo inagibile, un trasferimento forzato e una nuova cucina tra vigneti e campagna: la ripartenza di Zunica 1880 in Abruzzo…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/zunica-1880-terremoto-ripartenza-abruzzo/",
-        "pubDate": "2026-05-10T09:56:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Rome Fashion Path 2026, il calendario: date ed eventi da segnare in agenda",
-        "description": "Il conto alla rovescia è quasi giunto al termine: mancano solo 2 giorni all'inizio del Rome Fashion Path 2026, l'evento moda più atteso della capitale. Ecco il …",
-        "link": "https://www.stylosophy.it/articolo/rome-fashion-path-2026-il-calendario-date-ed-eventi-da-segnare-in-agenda/250675/",
-        "pubDate": "2026-05-10T09:51:07+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ecco 5 idee (stilosissime) su come indossare jeans e t-shirt bianca questa primavera",
-        "description": "È una combo che regala sempre grandi soddisfazioni e anche in questa stagione si rivelerà fondamentale per risolvere al volo qualsiasi nostro dilemma fashion: a…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-jeans-tshirt-bianca-outfit-maglietta-donna",
-        "pubDate": "2026-05-10T09:45:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2025/05/COVER_Jeanas_t-shirt_bianca.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "In Toscana c’è un Borgo sospeso nel tempo che conquista tutti al primo sguardo",
+        "description": "Tra la Val di Cecina e il mare, Montescudaio conserva l’anima autentica della Toscana con castelli, vigneti, panorami e sapori storici.…",
+        "link": "https://www.stylosophy.it/articolo/in-toscana-ce-un-borgo-sospeso-nel-tempo-che-conquista-tutti/250735/",
+        "pubDate": "2026-05-11T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Questi look “vintage” di Monica Bellucci a Cannes ci ricordano che, per la primavera, quello che ci serve è solo un abito… Questo!",
+        "description": "Tra poche ore avrà inizio la 78esima edizione del Festival di Cannes e non poteva esserci occasione migliore per fare un veloce &#8220;ripasso&#8221; dei look p…",
+        "link": "https://www.grazia.it/moda/celebrity-style/abito-a-fiori-donna-monica-bellucci-look-cannes-971360",
+        "pubDate": "2026-05-11T13:47:20+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/monica-bellucci-abito-a-fiori-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Silvia Toffanin lascia tutti senza fiato a Verissimo con un total red look FOTO",
         "description": "Per la puntata di ieri pomeriggio di Verissimo, Silvia Toffanin ha indossato un abito lungo sui toni del rosso.…",
@@ -192,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Bye bye, jeans! I pantaloni beige sono l’alternativa perfetta per affrontare con stile le prime giornate di caldo",
+        "description": "Durante il resto dell’anno i jeans diventano un po’ la nostra seconda pelle. Li indossiamo nel tempo libero, per affrontare nel massimo comfort gli impegni di t…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-beige-donna-zara-jeans-eleganti-come-abbinarli-cargo-barrel-larghi-971285",
+        "pubDate": "2026-05-11T12:29:50+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Pantaloni_beige.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "5 tips imperdibili per trattare al meglio i capelli decolorati",
@@ -336,36 +363,81 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Dian Suci vince il Max Mara Art Prize for Women 2025-2027: sei mesi in Italia tra spiritualità e artigianato",
-        "description": "Con un progetto che mette in dialogo ritualità, artigianato e potere, l’artista indonesiana Dian Suci è la vincitrice della decima edizione del Max Mara Art Pri…",
-        "link": "https://www.grazia.it/moda/news-moda/max-mara-art-prize-dian-suci-2025-2027-971157",
-        "pubDate": "2026-05-08T15:10:01+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/ok-apertura-006_Dian-Suci_L1009339_R.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Chiara Ferragni, cosa ha indossato per il suo compleanno FOTO",
-        "description": "Chiara Ferragni, nella giornata di ieri, ha compiuto gli anni: ecco cosa ha indossato per il suo giorno speciale.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-cosa-ha-indossato-per-il-suo-compleanno-foto/250636/",
-        "pubDate": "2026-05-08T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Naomi Watts, Zoe Saldana e le altre star meglio vestite della settimana!",
-        "description": "Da red carpet impeccabili a look effortless (secondo noi) dal gusto ultra chic, questa settimana le vere protagoniste sono state Naomi Watts e Zoe Saldana. Tra …",
-        "link": "https://www.grazia.it/moda/celebrity-style/naomi-watts-zoe-saldana-star-meglio-vestite-settimana-970823",
-        "pubDate": "2026-05-08T12:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_best_dressed_7_meggio-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "A Taormina, tra boutique e negozi di lusso, resiste una piccola trattoria dove la Sicilia è ancora vera",
+        "description": "A pochi passi da Corso Umberto, il ristorante Tischi Toschi continua a proporre una cucina profondamente siciliana fatta di ingredienti selezionati, ricette tra…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-siciliano-taormina-autentico/",
+        "pubDate": "2026-05-11T15:59:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non tocco carne da allevamenti intensivi dagli anni Settanta”: Aurora Quattrocchi e il suo rapporto con il cibo",
+        "description": "L’attrice palermitana, vincitrice del David di Donatello 2026, racconta il suo legame con il cibo, la spesa quotidiana e la scelta fatta oltre cinquant’anni fa …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/aurora-quattrocchi-carne-allevamenti-intensivi-cibo/",
+        "pubDate": "2026-05-11T15:34:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nella città piemontese dove fanno il dolce più piccolo del mondo da oltre 200 anni",
+        "description": "Nati all’inizio dell’Ottocento e diventati simbolo di Chivasso, i nocciolini sono ancora prodotti artigianalmente con tre soli ingredienti: nocciole, albume e z…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/nocciolini-chivasso-storia-dolce-piemontese/",
+        "pubDate": "2026-05-11T15:20:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel borgo della Tuscia dove da 100 anni regalano biscotti ai bambini appena entrano nel forno",
+        "description": "Dentro questo panificio della Tuscia, a Montefiascone, i tozzetti sono ovunque: fragranti e appena sfornati sono una tentazione irresistibile…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panificio-mari-montefiascone-tozzetti/",
+        "pubDate": "2026-05-11T15:09:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In queste enoteche si beve benissimo senza spendere una fortuna",
+        "description": "Dal calice da 3 euro alle grandi bottiglie con ricarichi bassi: ecco i locali che stanno reagendo alla crisi del vino attirando nuovi clienti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/enoteche-vino-buoni-prezzi-italia/",
+        "pubDate": "2026-05-11T15:06:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Svolta storica per Guinness: un nuovo birrificio in Irlanda",
+        "description": "Per la prima volta la Guinness in Irlanda non sarà prodotta solo nello storico stabilimento di St. James's Gate, dopo un maxi investimento di Diageo.\nL'articolo…",
+        "link": "https://www.dissapore.com/notizie/svolta-storica-per-guinness-un-nuovo-birrificio-in-irlanda/",
+        "pubDate": "2026-05-11T15:06:14+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/guinness-birrificio-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il nuovo corso del Marsala: la celebre Doc siciliana si fa in quattro con le unità geografiche aggiuntive",
+        "description": "Stagnone, Altopiano dei Bagli, Triglia e San Nicola. Sono le aree individuate attraverso uno studio tecnico-scientifico che prende in considerazione le differen…",
+        "link": "https://www.gamberorosso.it/notizie/vino/marsala-doc-nuovo-disciplinare-unita-geografiche-aggiuntive/",
+        "pubDate": "2026-05-11T15:05:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sarajevo tra cultura, festival e natura: la capitale bosniaca punta sul city break estivo",
+        "description": "A poco più di un’ora e mezza di volo da Milano e Roma, Sarajevo si propone come meta per un city break estivo all’insegna di cultura, eventi e natura. La capita…",
+        "link": "https://www.winemag.it/sarajevo-tra-cultura-festival-e-natura-la-capitale-bosniaca-punta-sul-city-break-estivo/",
+        "pubDate": "2026-05-11T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Doppia bocciatura per i dazi di Trump. Ma intanto la ristorazione Usa dimentica i vini europei",
         "description": "Dopo la sentenza della Corte suprema, arriva anche quella del Tribunale americano per il Commercio internazionale. Ma il presidente annuncia nuove tariffe da lu…",
@@ -448,51 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "In questo borgo vivono in 10, ma la sera accendono 300 candele per cenare",
-        "description": "Un ristorante diffuso, due giovani chef e un paese quasi disabitato: così Serpillo ha riportato la vita a Torre del Colle…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/borgo-umbria-ristorante-diffuso-serpillo/",
-        "pubDate": "2026-05-10T10:17:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Non basta cucinare italiano”: come si riconosce un vero ristorante italiano all’estero",
-        "description": "Dalla carta dei vini all’atmosfera, fino alla formazione degli imprenditori: cosa rende autentico un ristorante italiano nel mondo secondo Roberto Costa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/ristoranti-italiani-autentici-estero-come-riconoscerli/",
-        "pubDate": "2026-05-10T10:08:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "150 anni di storia, poi il terremoto: così un ristorante ha dovuto ricominciare da zero",
-        "description": "Un palazzo inagibile, un trasferimento forzato e una nuova cucina tra vigneti e campagna: la ripartenza di Zunica 1880 in Abruzzo…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/zunica-1880-terremoto-ripartenza-abruzzo/",
-        "pubDate": "2026-05-10T09:56:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La frittura di paranza in Versilia: dove mangiare il fritto più croccante",
-        "description": "Tra stabilimenti chic e trattorie vista mare, la frittura di paranza è ovunque in Versilia: ma questi sono i posti dove vale la pena ordinarla…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/frittura-paranza-versilia-dove-mangiare/",
-        "pubDate": "2026-05-10T09:40:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I vini dell’Alto Casertano stanno cambiando (ma quasi nessuno se n’è accorto)",
-        "description": "Pallagrello, Casavecchia e piccole aziende stanno riscrivendo il futuro delle Terre del Volturno, tra vigneti eroici, prezzi accessibili e una qualità in cresci…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vini-alto-casertano-terre-del-volturno/",
-        "pubDate": "2026-05-10T09:33:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Un nuovo film racconta chi era Tony prima di diventare Anthony Bourdain",
         "description": "La produzione A24 offre una prospettiva diversa sulla figura di Anthony Bourdain, concentrandosi sull'estate che gli cambierà la vita. \nL'articolo Un nuovo film…",
         "link": "https://www.dissapore.com/notizie/un-nuovo-film-racconta-chi-era-tony-prima-di-diventare-anthony-bourdain/",
@@ -500,15 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/tony-a24-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "A Città del Messico c’è un quartiere dove si mangia tra i migliori al mondo: guida a La Roma",
-        "description": "Da zona borghese a epicentro creativo: La Roma è oggi uno dei quartieri più vivaci della capitale messicana, tra taquerie, bistrot, caffè specialty e cocktail b…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/la-roma-citta-del-messico-dove-mangiare/",
-        "pubDate": "2026-05-10T09:13:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Trentodoc aderisce alla Giornata della Ristorazione: appuntamento il 16 maggio",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/notizie/quanto-vale-il-fairtrade-in-italia/",
         "pubDate": "2026-05-09T15:12:33+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/fairtrade-banana-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Michigan hanno creato 5 varietà di patate appositamente per le patatine",
-        "description": "Si parta dalla patata. Le nuove varietà ibridate in USA promettono stabilità su tutta la filiera per patatine leggere, croccanti e appetitose.\nL'articolo In Mic…",
-        "link": "https://www.dissapore.com/notizie/in-michigan-hanno-creato-5-varieta-di-patate-appositamente-per-le-patatine/",
-        "pubDate": "2026-05-09T10:02:53+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/patatine-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gino Sorbillo e l’arte di sfruttare pure il Papa",
-        "description": "Fedele alle sue strategie di marketing, Gino Sorbillo ha sfruttato il più possibile la visita di Papa Leone XIV a Napoli, con grande sprezzo del buon gusto.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/gino-sorbillo-e-larte-di-sfruttare-pure-il-papa/",
-        "pubDate": "2026-05-09T08:02:12+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/sorbillo-papa.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
