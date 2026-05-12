@@ -1,7 +1,61 @@
 {
-  "generated": "2026-05-12T14:26:55.282841+00:00",
+  "generated": "2026-05-12T19:53:36.804125+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Come riconoscere un cornetto artigianale da uno surgelato, al bar",
+        "description": "Tra il cornetto impastato a mano alle quattro del mattino e quello precotto che arriva in un cartone ci sono almeno altre due categorie intermedie.\nL'articolo C…",
+        "link": "https://www.dissapore.com/locali/come-riconoscere-un-cornetto-artigianale-da-uno-surgelato-al-bar/",
+        "pubDate": "2026-05-12T17:50:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/cornetti-da-bar.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Uno dei migliori pizzaioli d’Italia apre una nuova trattoria a Roma (con la pizza)",
+        "description": "Il fondatore di 50 Kalò inaugura Casa Cinquanta nel quartiere Salario: cucina napoletana, pizza, frittatine e grandi classici campani in un format aperto tutto …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ciro-salvo-apre-trattoria-roma-pizza/",
+        "pubDate": "2026-05-12T17:02:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dalle Dolomiti alla Sicilia: le montagne italiane perfette da scoprire in primavera",
+        "description": "Con l’arrivo della bella stagione, le montagne italiane diventano ideali per trekking, weekend nella natura e turismo lento tra laghi, boschi e borghi.…",
+        "link": "https://www.stylosophy.it/articolo/dalle-dolomiti-alla-sicilia-le-montagne-italiane-perfette-da-scoprire-in-primavera/250748/",
+        "pubDate": "2026-05-12T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Che cos’è il kvass: la bevanda che la Russia usò per sfidare la Coca-Cola (e perché sta tornando di moda)",
+        "description": "Molto più di un drink fermentato: la storia della \"birra di pane\" che Chruš?ëv trasformò in un’arma patriottica contro l’avanzata delle bevande americane…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/che-cose-kvass-bevanda-russa-sfida-coca-cola/",
+        "pubDate": "2026-05-12T15:28:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I giovani lievitisti da tenere d’occhio, dal primo campionato dedicato a loro",
+        "description": "Il primo Campionato Italiano Under 30 organizzato dall’Accademia dei Maestri del Lievito Madre e del Panettone Italiano è stato una passerella di talenti molto …",
+        "link": "https://www.dissapore.com/notizie/i-giovani-lievitisti-da-tenere-docchio-dal-primo-campionato-dedicato-a-loro/",
+        "pubDate": "2026-05-12T15:00:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/lievitato-erika-biancucci.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Ero una prostituta gastronomica”: la vita segreta e l’eredità di James Beard, l’uomo che insegnò a mangiare all’America",
+        "description": "Prima dei premi e degli \"Oscar del cibo\", c'era un attore di 140 kg che ha sfidato i cliché e la fame per inventare la cucina americana contemporanea…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/james-beard-storia-vera-padre-cucina-americana/",
+        "pubDate": "2026-05-12T15:00:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Un fondo da 20 milioni di euro per rottamare i vigneti abbandonati di Bordeaux",
         "description": "In Nuova Aquitania alleanza senza precedenti per riqualificare una delle aree viticole più importanti al mondo. Interessati 5.400 imprenditori che potranno così…",
@@ -12,6 +66,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Minimo sforzo, effetto “wow” assicurato: la gonna in satin è la l’unica vera paladina dei look primaverili (e non solo)",
+        "description": "Se dovessimo stilare una lista di quei capi intramontabili, che resistono alle stagioni e alle tendenze, al primo posto si classificherebbe senza alcun dubbio l…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-in-satin-raso-donna-lunga-nera-zara-primavera-971412",
+        "pubDate": "2026-05-12T14:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_gonne_satin.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Tutti cercano la Bologna di una volta, ma è rimasto solo un posto dove trovarla (ed è un atto di resistenza)",
         "description": "Tra le mura della Trattoria \"Da Vito\", dove Guccini e Dalla facevano mattina, il tempo si è fermato al 1948: ecco l'ultima osteria che ignora il 2026…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/bologna-trattoria-da-vito-osteria-resistenza-guccini-dalla/",
@@ -19,6 +82,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ritorno delle Rockstud: Valentino riscrive la sua icona più audace",
+        "description": "Ci sono accessori che attraversano le stagioni, e poi ci sono icone che definiscono un immaginario. Per noi le Valentino Garavani Rockstud appartengono senza du…",
+        "link": "https://www.grazia.it/moda/news-moda/valentino-rockstud-ritorno-decollete-971357",
+        "pubDate": "2026-05-12T13:38:36+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/ok-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Zverev è stato rimbalzato dal ristorante, ma lo scandalo è in come sono andate le cose",
@@ -48,8 +120,8 @@
         "source": "Wine Mag"
       },
       {
-        "title": "In Sardegna c’è una “rivoluzione contadina” che sta cambiando tutto: ecco Arieddas, la trattoria che non ti aspetti",
-        "description": "Nel cuore della Marmilla, il primo esperimento di cucina organica in cantina scardina i cliché: la visione dello chef Francesco Vitale tra vigne, etica e sapori…",
+        "title": "In questa trattoria sarda cucinano solo quello che arriva da contadini e allevatori della zona",
+        "description": "Dentro una cantina della Sardegna interna, Arieddas cucina solo quello che arriva ogni giorno da orti, allevatori e campagna della Marmilla…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/arieddas-sardegna-cucina-organica-rivoluzione-contadina/",
         "pubDate": "2026-05-12T10:58:14+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -109,81 +181,36 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Ora esiste un cucchiaio che silenzia il telefono mentre si mangia",
-        "description": "L'azienda americana leader nel settore dei gelati light e iperproteici, vende un cucchiaino che, appoggiato sul telefono, attiva la modalità non disturbare.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/ora-esiste-un-cucchiaio-che-silenzia-il-telefono-mentre-si-mangia/",
-        "pubDate": "2026-05-12T08:36:13+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Non ci sono dubbi: di queste camicie si può proprio dire che “fanno il look”",
-        "description": "Chi ama indossarla lo sa: la camicia ha un potere molto speciale, quello di elevare ogni look. Che abbia una linea formale e tradizionale o che si apra a dettag…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/camicie-eleganti-donna-sartoriali-modelli-primavera-estate-2026-970958",
-        "pubDate": "2026-05-12T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-camicia-che-fa-il-look-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Sicilia en Primeur 2026, un “Vinitaly mini”: scommessa sull’enoturismo",
-        "description": "Sicilia en Primeur 2026 prova a diventare un “Vinitaly mini” dell’enoturismo. Non per dimensioni, naturalmente. Ma per impostazione, ambizione e lettura del mom…",
-        "link": "https://www.winemag.it/sicilia-en-primeur-2026-vinitaly-mini-scommessa-enoturismo/",
-        "pubDate": "2026-05-12T06:25:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Sicilia-en-Primeur-2026-un-Vinitaly-mini-scommessa-enoturismo-palermo-5.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Casa 50 sbarca a Roma: nuova apertura del gruppo 50 Kalò tra cucina mediterranea e pizza napoletana",
-        "description": "Apre a Roma, in via Velletri 16/22, a pochi passi da via Veneto, Casa 50, il nuovo format firmato dal gruppo Ciro Salvo e Alessandro Guglielmini. Dopo il debutt…",
-        "link": "https://www.winemag.it/casa-50-sbarca-a-roma-nuova-apertura-del-gruppo-50-kalo-tra-cucina-mediterranea-e-pizza-napoletana/",
-        "pubDate": "2026-05-12T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Eurovision: i momenti di stile che hanno fatto la storia",
-        "description": "Manca poco: oggi, 12 maggio partirà la 70esima edizione dell&#8217;Eurovision Song Contest che si svolgerà dal 12 al 16 maggio a Vienna dove si sfideranno le vo…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/eurovision-song-contest-cos-e-storia-moda-stile-look",
-        "pubDate": "2026-05-12T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2022/05/COVER-eurovision-DESK.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In Toscana c’è un Borgo sospeso nel tempo che conquista tutti al primo sguardo",
-        "description": "Tra la Val di Cecina e il mare, Montescudaio conserva l’anima autentica della Toscana con castelli, vigneti, panorami e sapori storici.…",
-        "link": "https://www.stylosophy.it/articolo/in-toscana-ce-un-borgo-sospeso-nel-tempo-che-conquista-tutti/250735/",
-        "pubDate": "2026-05-11T16:00:00+00:00",
+        "title": "Dalle Dolomiti alla Sicilia: le montagne italiane perfette da scoprire in primavera",
+        "description": "Con l’arrivo della bella stagione, le montagne italiane diventano ideali per trekking, weekend nella natura e turismo lento tra laghi, boschi e borghi.…",
+        "link": "https://www.stylosophy.it/articolo/dalle-dolomiti-alla-sicilia-le-montagne-italiane-perfette-da-scoprire-in-primavera/250748/",
+        "pubDate": "2026-05-12T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "A Taormina, tra boutique e negozi di lusso, resiste una piccola trattoria dove la Sicilia è ancora vera",
-        "description": "A pochi passi da Corso Umberto, il ristorante Tischi Toschi continua a proporre una cucina profondamente siciliana fatta di ingredienti selezionati, ricette tra…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-siciliano-taormina-autentico/",
-        "pubDate": "2026-05-11T15:59:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Minimo sforzo, effetto “wow” assicurato: la gonna in satin è la l’unica vera paladina dei look primaverili (e non solo)",
+        "description": "Se dovessimo stilare una lista di quei capi intramontabili, che resistono alle stagioni e alle tendenze, al primo posto si classificherebbe senza alcun dubbio l…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-in-satin-raso-donna-lunga-nera-zara-primavera-971412",
+        "pubDate": "2026-05-12T14:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_gonne_satin.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "“Non tocco carne da allevamenti intensivi dagli anni Settanta”: Aurora Quattrocchi e il suo rapporto con il cibo",
-        "description": "L’attrice palermitana, vincitrice del David di Donatello 2026, racconta il suo legame con il cibo, la spesa quotidiana e la scelta fatta oltre cinquant’anni fa …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/aurora-quattrocchi-carne-allevamenti-intensivi-cibo/",
-        "pubDate": "2026-05-11T15:34:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
+        "title": "Il ritorno delle Rockstud: Valentino riscrive la sua icona più audace",
+        "description": "Ci sono accessori che attraversano le stagioni, e poi ci sono icone che definiscono un immaginario. Per noi le Valentino Garavani Rockstud appartengono senza du…",
+        "link": "https://www.grazia.it/moda/news-moda/valentino-rockstud-ritorno-decollete-971357",
+        "pubDate": "2026-05-12T13:38:36+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/ok-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Giulia De Lellis sfoggia il coordinato in lino e pizzo perfetto per l’estate: scoprilo qui!",
         "description": "Giulia De Lellis si porta avanti con i look per la bella stagione sfoggiando un delizioso coordinato in lino e pizzo: qui i dettagli.…",
@@ -329,24 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Maxi dress obsession: i vestiti lunghi più chic da indossare ora (e per tutta l’estate)",
-        "description": "C’è un motivo se, ogni anno, appena iniziano le giornate più calde, il maxi dress torna immediatamente protagonista del guardaroba. Il vestito lungo infatti è u…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/vestito-lungo-estate-maxi-dress-modelli-abiti-lunghi-primavera-estate-2026-970777",
-        "pubDate": "2026-05-10T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_maxi_dress.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Camicia azzurra, istruzioni per l’uso! 5 idee per abbinarla in modo stiloso da mattina a sera",
-        "description": "Semplice, sempre elegante, indispensabile per creare look easy-chic adatti a ogni occasione: la camicia azzurra è uno di quei capi a cui, specialmente in questa…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-camicia-azzurra-abbinamento-celeste-con-pantalone-donna-outfit",
-        "pubDate": "2026-05-09T17:03:35+00:00",
-        "image": "https://www.grazia.it/content/uploads/2025/05/COVER_Come_indossare_Camicia_azzurra.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Maisons du Monde Primavera-Estate 2026: la nuova collezione Dolce Vita reinterpreta il design italiano",
         "description": "Maisons du Monde reinterpreta il design italiano con volumi decisi, palette monocromatica e materiali sofisticati pensati per ambienti contemporanei.…",
         "link": "https://www.stylosophy.it/articolo/maisons-du-monde-primavera-estate-2026-la-nuova-collezione-dolce-vita/250660/",
@@ -354,18 +363,54 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Elisabetta Gregoraci sfoggia il completo due pezzi di super tendenza per questa stagione: scoprilo qui!",
-        "description": "Elisabetta Gregoraci ha condiviso con i fan sui social il suo completo due pezzi del momento, perfetto per questa stagione: qui di seguito per tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/elisabetta-gregoraci-sfoggia-il-completo-due-pezzi-di-super-tendenza-per-questa-stagione-scoprilo-qui/250642/",
-        "pubDate": "2026-05-09T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Come riconoscere un cornetto artigianale da uno surgelato, al bar",
+        "description": "Tra il cornetto impastato a mano alle quattro del mattino e quello precotto che arriva in un cartone ci sono almeno altre due categorie intermedie.\nL'articolo C…",
+        "link": "https://www.dissapore.com/locali/come-riconoscere-un-cornetto-artigianale-da-uno-surgelato-al-bar/",
+        "pubDate": "2026-05-12T17:50:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/cornetti-da-bar.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Uno dei migliori pizzaioli d’Italia apre una nuova trattoria a Roma (con la pizza)",
+        "description": "Il fondatore di 50 Kalò inaugura Casa Cinquanta nel quartiere Salario: cucina napoletana, pizza, frittatine e grandi classici campani in un format aperto tutto …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ciro-salvo-apre-trattoria-roma-pizza/",
+        "pubDate": "2026-05-12T17:02:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è il kvass: la bevanda che la Russia usò per sfidare la Coca-Cola (e perché sta tornando di moda)",
+        "description": "Molto più di un drink fermentato: la storia della \"birra di pane\" che Chruš?ëv trasformò in un’arma patriottica contro l’avanzata delle bevande americane…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/che-cose-kvass-bevanda-russa-sfida-coca-cola/",
+        "pubDate": "2026-05-12T15:28:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I giovani lievitisti da tenere d’occhio, dal primo campionato dedicato a loro",
+        "description": "Il primo Campionato Italiano Under 30 organizzato dall’Accademia dei Maestri del Lievito Madre e del Panettone Italiano è stato una passerella di talenti molto …",
+        "link": "https://www.dissapore.com/notizie/i-giovani-lievitisti-da-tenere-docchio-dal-primo-campionato-dedicato-a-loro/",
+        "pubDate": "2026-05-12T15:00:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/lievitato-erika-biancucci.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Ero una prostituta gastronomica”: la vita segreta e l’eredità di James Beard, l’uomo che insegnò a mangiare all’America",
+        "description": "Prima dei premi e degli \"Oscar del cibo\", c'era un attore di 140 kg che ha sfidato i cliché e la fame per inventare la cucina americana contemporanea…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/james-beard-storia-vera-padre-cucina-americana/",
+        "pubDate": "2026-05-12T15:00:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Un fondo da 20 milioni di euro per rottamare i vigneti abbandonati di Bordeaux",
         "description": "In Nuova Aquitania alleanza senza precedenti per riqualificare una delle aree viticole più importanti al mondo. Interessati 5.400 imprenditori che potranno così…",
@@ -403,8 +448,8 @@
         "source": "Wine Mag"
       },
       {
-        "title": "In Sardegna c’è una “rivoluzione contadina” che sta cambiando tutto: ecco Arieddas, la trattoria che non ti aspetti",
-        "description": "Nel cuore della Marmilla, il primo esperimento di cucina organica in cantina scardina i cliché: la visione dello chef Francesco Vitale tra vigne, etica e sapori…",
+        "title": "In questa trattoria sarda cucinano solo quello che arriva da contadini e allevatori della zona",
+        "description": "Dentro una cantina della Sardegna interna, Arieddas cucina solo quello che arriva ogni giorno da orti, allevatori e campagna della Marmilla…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/arieddas-sardegna-cucina-organica-rivoluzione-contadina/",
         "pubDate": "2026-05-12T10:58:14+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -475,33 +520,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "A Taormina, tra boutique e negozi di lusso, resiste una piccola trattoria dove la Sicilia è ancora vera",
-        "description": "A pochi passi da Corso Umberto, il ristorante Tischi Toschi continua a proporre una cucina profondamente siciliana fatta di ingredienti selezionati, ricette tra…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-siciliano-taormina-autentico/",
-        "pubDate": "2026-05-11T15:59:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Non tocco carne da allevamenti intensivi dagli anni Settanta”: Aurora Quattrocchi e il suo rapporto con il cibo",
-        "description": "L’attrice palermitana, vincitrice del David di Donatello 2026, racconta il suo legame con il cibo, la spesa quotidiana e la scelta fatta oltre cinquant’anni fa …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/aurora-quattrocchi-carne-allevamenti-intensivi-cibo/",
-        "pubDate": "2026-05-11T15:34:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nella città piemontese dove fanno il dolce più piccolo del mondo da oltre 200 anni",
-        "description": "Nati all’inizio dell’Ottocento e diventati simbolo di Chivasso, i nocciolini sono ancora prodotti artigianalmente con tre soli ingredienti: nocciole, albume e z…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/nocciolini-chivasso-storia-dolce-piemontese/",
-        "pubDate": "2026-05-11T15:20:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Svolta storica per Guinness: un nuovo birrificio in Irlanda",
         "description": "Per la prima volta la Guinness in Irlanda non sarà prodotta solo nello storico stabilimento di St. James's Gate, dopo un maxi investimento di Diageo.\nL'articolo…",
         "link": "https://www.dissapore.com/notizie/svolta-storica-per-guinness-un-nuovo-birrificio-in-irlanda/",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Hong Kong risolleverà la ristorazione con i rave di dumpling?",
-        "description": "Una nuova tendenza della città è provare a resistere alla crisi del settore trasformando le sale da tè tradizionali in discoteche per una sera al mese.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/hong-kong-risollevera-la-ristorazione-con-i-rave-di-dumpling/",
-        "pubDate": "2026-05-11T11:45:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/05/cestini-per-i-dumplings-scaled-e1684419243497.jpeg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La The World’s 50 Best Bar sarà per la prima volta a Milano",
-        "description": "Dopo aver ospitato al The World's 50 Best Restaurants a Torino, l'Italia si presta ancora alla classifica dei migliori locali al mondo: sarà a Milano la cerimon…",
-        "link": "https://www.dissapore.com/notizie/la-the-worlds-50-best-bar-sara-per-la-prima-volta-a-milano/",
-        "pubDate": "2026-05-11T09:59:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/10/handshake-speakeasy.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
