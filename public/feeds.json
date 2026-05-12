@@ -1,7 +1,43 @@
 {
-  "generated": "2026-05-11T19:48:37.299560+00:00",
+  "generated": "2026-05-12T08:41:10.456187+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Non ci sono dubbi: di queste camicie si può proprio dire che “fanno il look”",
+        "description": "Chi ama indossarla lo sa: la camicia ha un potere molto speciale, quello di elevare ogni look. Che abbia una linea formale e tradizionale o che si apra a dettag…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/camicie-eleganti-donna-sartoriali-modelli-primavera-estate-2026-970958",
+        "pubDate": "2026-05-12T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-camicia-che-fa-il-look-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Sicilia en Primeur 2026, un “Vinitaly mini”: scommessa sull’enoturismo",
+        "description": "Sicilia en Primeur 2026 prova a diventare un “Vinitaly mini” dell’enoturismo. Non per dimensioni, naturalmente. Ma per impostazione, ambizione e lettura del mom…",
+        "link": "https://www.winemag.it/sicilia-en-primeur-2026-vinitaly-mini-scommessa-enoturismo/",
+        "pubDate": "2026-05-12T06:25:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Sicilia-en-Primeur-2026-un-Vinitaly-mini-scommessa-enoturismo-palermo-5.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Casa 50 sbarca a Roma: nuova apertura del gruppo 50 Kalò tra cucina mediterranea e pizza napoletana",
+        "description": "Apre a Roma, in via Velletri 16/22, a pochi passi da via Veneto, Casa 50, il nuovo format firmato dal gruppo Ciro Salvo e Alessandro Guglielmini. Dopo il debutt…",
+        "link": "https://www.winemag.it/casa-50-sbarca-a-roma-nuova-apertura-del-gruppo-50-kalo-tra-cucina-mediterranea-e-pizza-napoletana/",
+        "pubDate": "2026-05-12T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Eurovision: i momenti di stile che hanno fatto la storia",
+        "description": "Manca poco: oggi, 12 maggio partirà la 70esima edizione dell&#8217;Eurovision Song Contest che si svolgerà dal 12 al 16 maggio a Vienna dove si sfideranno le vo…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/eurovision-song-contest-cos-e-storia-moda-stile-look",
+        "pubDate": "2026-05-12T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2022/05/COVER-eurovision-DESK.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "In Toscana c’è un Borgo sospeso nel tempo che conquista tutti al primo sguardo",
         "description": "Tra la Val di Cecina e il mare, Montescudaio conserva l’anima autentica della Toscana con castelli, vigneti, panorami e sapori storici.…",
@@ -55,15 +91,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Svolta storica per Guinness: un nuovo birrificio in Irlanda",
-        "description": "Per la prima volta la Guinness in Irlanda non sarà prodotta solo nello storico stabilimento di St. James's Gate, dopo un maxi investimento di Diageo.\nL'articolo…",
-        "link": "https://www.dissapore.com/notizie/svolta-storica-per-guinness-un-nuovo-birrificio-in-irlanda/",
-        "pubDate": "2026-05-11T15:06:14+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/guinness-birrificio-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       },
       {
         "title": "Il nuovo corso del Marsala: la celebre Doc siciliana si fa in quattro con le unità geografiche aggiuntive",
@@ -129,15 +156,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Hong Kong risolleverà la ristorazione con i rave di dumpling?",
-        "description": "Una nuova tendenza della città è provare a resistere alla crisi del settore trasformando le sale da tè tradizionali in discoteche per una sera al mese.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/hong-kong-risollevera-la-ristorazione-con-i-rave-di-dumpling/",
-        "pubDate": "2026-05-11T11:45:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/05/cestini-per-i-dumplings-scaled-e1684419243497.jpeg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
         "title": "“Andiamo a mangiarci una pizza?”: la domanda più semplice che per alcune famiglie diventa complicata",
         "description": "Tra selettività alimentare, sensibilità sensoriale e costi delle terapie, molte famiglie con bambini autistici vivono il momento del pasto fuori casa come una s…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/autismo-alimentazione-pizza-ristoranti-famiglie/",
@@ -145,15 +163,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "La The World’s 50 Best Bar sarà per la prima volta a Milano",
-        "description": "Dopo aver ospitato al The World's 50 Best Restaurants a Torino, l'Italia si presta ancora alla classifica dei migliori locali al mondo: sarà a Milano la cerimon…",
-        "link": "https://www.dissapore.com/notizie/la-the-worlds-50-best-bar-sara-per-la-prima-volta-a-milano/",
-        "pubDate": "2026-05-11T09:59:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/10/handshake-speakeasy.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       },
       {
         "title": "In Piemonte hanno trasformato i plin in uno sfogliato salato irresistibile",
@@ -172,18 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Turismo in distilleria, il settore accelera: «Non è più solo accessorio ma un asset strategico»",
-        "description": "Il turismo in distilleria entra stabilmente tra le priorità del comparto dei distillati italiani. È il messaggio emerso dal convegno ospitato da Astoria Wines e…",
-        "link": "https://www.winemag.it/turismo-in-distilleria-il-settore-accelera-non-e-piu-solo-accessorio-ma-un-asset-strategico/",
-        "pubDate": "2026-05-11T09:14:47+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Non ci sono dubbi: di queste camicie si può proprio dire che “fanno il look”",
+        "description": "Chi ama indossarla lo sa: la camicia ha un potere molto speciale, quello di elevare ogni look. Che abbia una linea formale e tradizionale o che si apra a dettag…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/camicie-eleganti-donna-sartoriali-modelli-primavera-estate-2026-970958",
+        "pubDate": "2026-05-12T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-camicia-che-fa-il-look-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Eurovision: i momenti di stile che hanno fatto la storia",
+        "description": "Manca poco: oggi, 12 maggio partirà la 70esima edizione dell&#8217;Eurovision Song Contest che si svolgerà dal 12 al 16 maggio a Vienna dove si sfideranno le vo…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/eurovision-song-contest-cos-e-storia-moda-stile-look",
+        "pubDate": "2026-05-12T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2022/05/COVER-eurovision-DESK.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "In Toscana c’è un Borgo sospeso nel tempo che conquista tutti al primo sguardo",
         "description": "Tra la Val di Cecina e il mare, Montescudaio conserva l’anima autentica della Toscana con castelli, vigneti, panorami e sapori storici.…",
@@ -329,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "10 capi facili e chic da comprare da Mango nel mese di Maggio",
-        "description": "Maggio è il mese ideale per costruire un guardaroba che guardi già all&#8217;estate, puntando su una selezione di pezzi che sanno essere cool ma anche affordabl…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/mango-cosa-comprare-a-maggio-must-have-vestiti-scarpe-borse-primavera-cosa-indossare-970598",
-        "pubDate": "2026-05-09T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_mango.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Tezenis lancia la nuova linea di costumi per l’Estate 2026. Un inno al glamour!",
         "description": "Tezenis firma i costumi più belli dell'Estate 2026, il perfetto compromesso tra glamour, sensualità ed eleganza. Ecco i modelli più interessanti da non lasciars…",
         "link": "https://www.stylosophy.it/articolo/tezenis-lancia-la-nuova-linea-di-costumi-per-lestate-2026-un-inno-al-glamour/250648/",
@@ -345,15 +354,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Queste scarpe dal fascino minimal (amate da Julia Roberts negli anni ’90) sono ancora oggi un must-have timeless",
-        "description": "Fino a qualche settimana fa, complice una primavera che tardava a esplodere, abbiamo avuto occhi solo per le classiche sneakers in pelle o in satin, che ci hann…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/sneakers-bianche-di-tela-donna-eleganti-firmate-scarpe-julia-roberts-anni-90-minimalismo-969598",
-        "pubDate": "2026-05-09T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Sneakers_tela_bianca.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Primavera in Toscana? Tutti vanno in collina, ma le isole sono il vero spettacolo",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Sicilia en Primeur 2026, un “Vinitaly mini”: scommessa sull’enoturismo",
+        "description": "Sicilia en Primeur 2026 prova a diventare un “Vinitaly mini” dell’enoturismo. Non per dimensioni, naturalmente. Ma per impostazione, ambizione e lettura del mom…",
+        "link": "https://www.winemag.it/sicilia-en-primeur-2026-vinitaly-mini-scommessa-enoturismo/",
+        "pubDate": "2026-05-12T06:25:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Sicilia-en-Primeur-2026-un-Vinitaly-mini-scommessa-enoturismo-palermo-5.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Casa 50 sbarca a Roma: nuova apertura del gruppo 50 Kalò tra cucina mediterranea e pizza napoletana",
+        "description": "Apre a Roma, in via Velletri 16/22, a pochi passi da via Veneto, Casa 50, il nuovo format firmato dal gruppo Ciro Salvo e Alessandro Guglielmini. Dopo il debutt…",
+        "link": "https://www.winemag.it/casa-50-sbarca-a-roma-nuova-apertura-del-gruppo-50-kalo-tra-cucina-mediterranea-e-pizza-napoletana/",
+        "pubDate": "2026-05-12T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "A Taormina, tra boutique e negozi di lusso, resiste una piccola trattoria dove la Sicilia è ancora vera",
         "description": "A pochi passi da Corso Umberto, il ristorante Tischi Toschi continua a proporre una cucina profondamente siciliana fatta di ingredienti selezionati, ricette tra…",
@@ -412,15 +430,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Svolta storica per Guinness: un nuovo birrificio in Irlanda",
-        "description": "Per la prima volta la Guinness in Irlanda non sarà prodotta solo nello storico stabilimento di St. James's Gate, dopo un maxi investimento di Diageo.\nL'articolo…",
-        "link": "https://www.dissapore.com/notizie/svolta-storica-per-guinness-un-nuovo-birrificio-in-irlanda/",
-        "pubDate": "2026-05-11T15:06:14+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/guinness-birrificio-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
         "title": "Il nuovo corso del Marsala: la celebre Doc siciliana si fa in quattro con le unità geografiche aggiuntive",
         "description": "Stagnone, Altopiano dei Bagli, Triglia e San Nicola. Sono le aree individuate attraverso uno studio tecnico-scientifico che prende in considerazione le differen…",
         "link": "https://www.gamberorosso.it/notizie/vino/marsala-doc-nuovo-disciplinare-unita-geografiche-aggiuntive/",
@@ -457,15 +466,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Hong Kong risolleverà la ristorazione con i rave di dumpling?",
-        "description": "Una nuova tendenza della città è provare a resistere alla crisi del settore trasformando le sale da tè tradizionali in discoteche per una sera al mese.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/hong-kong-risollevera-la-ristorazione-con-i-rave-di-dumpling/",
-        "pubDate": "2026-05-11T11:45:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/05/cestini-per-i-dumplings-scaled-e1684419243497.jpeg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
         "title": "“Andiamo a mangiarci una pizza?”: la domanda più semplice che per alcune famiglie diventa complicata",
         "description": "Tra selettività alimentare, sensibilità sensoriale e costi delle terapie, molte famiglie con bambini autistici vivono il momento del pasto fuori casa come una s…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/autismo-alimentazione-pizza-ristoranti-famiglie/",
@@ -473,15 +473,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "La The World’s 50 Best Bar sarà per la prima volta a Milano",
-        "description": "Dopo aver ospitato al The World's 50 Best Restaurants a Torino, l'Italia si presta ancora alla classifica dei migliori locali al mondo: sarà a Milano la cerimon…",
-        "link": "https://www.dissapore.com/notizie/la-the-worlds-50-best-bar-sara-per-la-prima-volta-a-milano/",
-        "pubDate": "2026-05-11T09:59:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/10/handshake-speakeasy.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       },
       {
         "title": "In Piemonte hanno trasformato i plin in uno sfogliato salato irresistibile",
@@ -511,24 +502,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Alberto Marchetti sta per aprire un chiosco di gelati vecchio stile",
-        "description": "Alberto Marchetti apre un nuovo punto vendita dei suoi gelati a Torino: questa volta però non è una gelateria in stile classico.\nL'articolo Alberto Marchetti st…",
-        "link": "https://www.dissapore.com/notizie/alberto-marchetti-sta-per-aprire-un-chiosco-di-gelati-vecchio-stile/",
-        "pubDate": "2026-05-11T07:30:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/lumen-gourmet.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Un nuovo film racconta chi era Tony prima di diventare Anthony Bourdain",
-        "description": "La produzione A24 offre una prospettiva diversa sulla figura di Anthony Bourdain, concentrandosi sull'estate che gli cambierà la vita. \nL'articolo Un nuovo film…",
-        "link": "https://www.dissapore.com/notizie/un-nuovo-film-racconta-chi-era-tony-prima-di-diventare-anthony-bourdain/",
-        "pubDate": "2026-05-10T09:24:44+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/tony-a24-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
         "title": "Trentodoc aderisce alla Giornata della Ristorazione: appuntamento il 16 maggio",
         "description": "Trentodoc partecipa alla Giornata della Ristorazione, promossa da FIPE-Confcommercio e in programma il 16 maggio su tutto il territorio nazionale. L’iniziativa …",
         "link": "https://www.winemag.it/trentodoc-aderisce-alla-giornata-della-ristorazione-appuntamento-il-16-maggio/",
@@ -538,13 +511,40 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Quanto vale il Fairtrade in italia?",
-        "description": "In occasione della Giornata Mondiale del Commercio Equo e Solidale, diamo un'occhiata a come funziona una filiera che in Italia ha un grande valore, in costante…",
-        "link": "https://www.dissapore.com/notizie/quanto-vale-il-fairtrade-in-italia/",
-        "pubDate": "2026-05-09T15:12:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/fairtrade-banana-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
+        "title": "World Cocktail Day 2026: Compagnia dei Caraibi celebra la mixology con quattro signature cocktail",
+        "description": "In occasione del World Cocktail Day 2026 del 13 maggio, Compagnia dei Caraibi propone un percorso nella miscelazione attraverso alcuni dei brand chiave del prop…",
+        "link": "https://www.winemag.it/world-cocktail-day-2026-compagnia-dei-caraibi-celebra-con-quattro-signature-cocktail/",
+        "pubDate": "2026-05-09T06:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/World-Cocktail-Day-2026-Compagnia-dei-Caraibi-celebra-la-mixology-con-quattro-signature-cocktail-WestbourneMartini.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il fascino del formaggio in cucina",
+        "description": "Il formaggio è uno degli ingredienti più amati nelle cucine di tutto il mondo. La sua versatilità permette di utilizzarlo in numerose ricette, dai piatti tradiz…",
+        "link": "https://www.gustoblog.it/2026/05/08/il-fascino-del-formaggio-in-cucina/",
+        "pubDate": "2026-05-08T12:13:17+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Mozzarella di Bufala Campana DOP e Pasta di Gragnano IGP: a Tuttofood il racconto dell’Italia tra tradizione e innovazione",
+        "description": "Dal 11 al 14 maggio, a Tuttofood (Pad 1 – Stand R05), il Consorzio Mozzarella di Bufala Campana DOP e il Consorzio Pasta di Gragnano IGP portano in scena un pro…",
+        "link": "https://www.winemag.it/mozzarella-di-bufala-campana-dop-pasta-di-gragnano-igp-a-tuttofood/",
+        "pubDate": "2026-05-08T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "UFO, nuovo hub ibrido nel sud di Milano tra cultura, cucina e creatività",
+        "description": "A Milano apre UFO – Unconventional Form of Opportunities, nuovo spazio ibrido in via Orobia 26. Oltre 1.500 metri quadrati nel quadrante sud della città, area i…",
+        "link": "https://www.winemag.it/ufo-nuovo-hub-ibrido-sud-di-milano-tra-cultura-cucina-e-creativita/",
+        "pubDate": "2026-05-07T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       }
     ]
   }
