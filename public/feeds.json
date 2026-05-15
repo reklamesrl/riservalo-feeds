@@ -1,7 +1,25 @@
 {
-  "generated": "2026-05-15T14:08:12.814747+00:00",
+  "generated": "2026-05-15T19:39:22.633428+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Le spiagge più belle del Sud Italia: guida ai paradisi di mare tra Puglia, Calabria, Sicilia e Sardegna",
+        "description": "Dal Salento alla Sicilia, passando per Calabria e Sardegna: un viaggio tra le spiagge più spettacolari del Sud Italia, tra acque trasparenti, sabbia chiara e sc…",
+        "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-del-sud-italia-guida-ai-paradisi-di-mare-tra-puglia-calabria-sicilia-e-sardegna/250816/",
+        "pubDate": "2026-05-15T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
+        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
+        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
+        "pubDate": "2026-05-15T14:55:23+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-canne-day-3.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Rome Fashion Path celebra il Giappone: due eventi a Roma tra haori, recycling fashion e cultura orientale",
         "description": "Due eventi distinti, due visioni creative e un’unica ispirazione orientale: durante il Rome Fashion Path la Capitale ospita appuntamenti dedicati alla moda giap…",
@@ -10,6 +28,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Maggio è quel momento dell’anno in cui tutto accelera: dal Met Gala al Festival di Cannes, passando per gli Internazionali di tennis e una raffica di collab da …",
+        "link": "https://www.grazia.it/moda/news-moda/notizie-autry-cannes-ray-ban-house-new-york-parfois-bridal-the-attico-beachwear-voyou-givenchy-the-bridge-milano-galleria-lotto-internazionali-bnl-d-italia-972691",
+        "pubDate": "2026-05-15T14:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/parfois-sposa-desk.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Lavorava dietro le quinte di Masterchef, oggi cucina quello che tutti buttano",
@@ -154,36 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Le spiagge più belle del Sud Italia: guida ai paradisi di mare tra Puglia, Calabria, Sicilia e Sardegna",
+        "description": "Dal Salento alla Sicilia, passando per Calabria e Sardegna: un viaggio tra le spiagge più spettacolari del Sud Italia, tra acque trasparenti, sabbia chiara e sc…",
+        "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-del-sud-italia-guida-ai-paradisi-di-mare-tra-puglia-calabria-sicilia-e-sardegna/250816/",
+        "pubDate": "2026-05-15T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
         "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
         "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
         "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
-        "pubDate": "2026-05-15T06:18:43+00:00",
+        "pubDate": "2026-05-15T14:55:23+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/05/DESK-canne-day-3.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
-      {
-        "title": "Disaronno Group: Illva Saronno Holding cambia nome e punta sulla crescita globale",
-        "description": "Illva Saronno Holding cambia identità e diventa DISARONNO GROUP. Il rebranding segna una nuova fase strategica per il gruppo della famiglia Reina, con l’obietti…",
-        "link": "https://www.winemag.it/disaronno-group-illva-saronno-holding-cambia-nome/",
-        "pubDate": "2026-05-15T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
-        "description": "Programmi per il weekend? Riposarsi, stare in buona compagnia e, perché no, magari anche fare un po&#8217; di shopping, farsi un piccolo regalo, togliersi uno s…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/must-have-shopping-weekend-cosa-comprare-vestiti-borse-scarpe-primavera-estate-acquisti-972342",
-        "pubDate": "2026-05-15T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_love_first_sight_14_maggio.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Rome Fashion Path celebra il Giappone: due eventi a Roma tra haori, recycling fashion e cultura orientale",
         "description": "Due eventi distinti, due visioni creative e un’unica ispirazione orientale: durante il Rome Fashion Path la Capitale ospita appuntamenti dedicati alla moda giap…",
@@ -192,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Maggio è quel momento dell’anno in cui tutto accelera: dal Met Gala al Festival di Cannes, passando per gli Internazionali di tennis e una raffica di collab da …",
+        "link": "https://www.grazia.it/moda/news-moda/notizie-autry-cannes-ray-ban-house-new-york-parfois-bridal-the-attico-beachwear-voyou-givenchy-the-bridge-milano-galleria-lotto-internazionali-bnl-d-italia-972691",
+        "pubDate": "2026-05-15T14:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/parfois-sposa-desk.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Chiara Ferragni mostra la sua borsa perfetta per tutti i giorni: il nuovo must di stagione!",
@@ -228,15 +255,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
-        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
-        "pubDate": "2026-05-15T06:18:43+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-canne-day-3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
@@ -338,28 +356,10 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Costumi pancia piatta? Ecco 7 modelli cool che valorizzano la silhouette",
-        "description": "Chiamiamoli pure costumi “pancia piatta”, ma con una precisazione importante: non esistono corpi da nascondere né silhouette da correggere. I modelli che domina…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/costumi-pancia-piatta-interi-bikini-2026-calzedonia-tezenis-yamamay-971265",
-        "pubDate": "2026-05-13T14:03:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_costumi_pancia_piatta.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Ilary Blasi brilla al Grande Fratello Vip con il Look in lurex total gold FOTO",
         "description": "Ecco qui di seguito che cosa ha indossato Ilary Blasi per la puntata di ieri sera del Grande Fratello Vip.…",
         "link": "https://www.stylosophy.it/articolo/ilary-blasi-brilla-al-grande-fratello-vip-con-il-look-in-lurex-total-gold-foto/250767/",
         "pubDate": "2026-05-13T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Sogni una pelle baciata dal sole? Ecco 5 gocce autoabbronzanti viso per un colorito sano e bello",
-        "description": "Per una pelle del viso dal colorito sano e luminoso, puntate su queste 5 gocce autoabbronzanti, un must della bella stagione! Scopriamole insieme...…",
-        "link": "https://www.stylosophy.it/articolo/sogni-una-pelle-baciata-dal-sole-ecco-5-gocce-autoabbronzanti-viso-per-un-colorito-sano-e-bello/250749/",
-        "pubDate": "2026-05-13T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
