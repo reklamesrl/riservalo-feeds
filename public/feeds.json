@@ -1,7 +1,34 @@
 {
-  "generated": "2026-05-16T13:23:38.917035+00:00",
+  "generated": "2026-05-16T19:05:13.813462+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "IKEA PS 2026, i 5 mobili più pratici e colorati della nuova collezione",
+        "description": "La nuova collezione Ikea PS 2026 punta su colori accesi, arredi multifunzione e design flessibile pensato per le case contemporanee. Dai tavolini pieghevoli all…",
+        "link": "https://www.stylosophy.it/articolo/ikea-ps-2026-i-5-mobili-piu-pratici-e-colorati-della-nuova-collezione/250841/",
+        "pubDate": "2026-05-16T16:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La FAO è preoccupata per le plastiche nelle confezioni alimentari riciclate",
+        "description": "Il riciclo è necessario, ma i rischi per la salute si sono rivelati maggiori delle previsioni: serve un nuovo regolamento.\nL'articolo La FAO è preoccupata per l…",
+        "link": "https://www.dissapore.com/notizie/la-fao-e-preoccupata-per-le-plastiche-nelle-confezioni-alimentari-riciclate/",
+        "pubDate": "2026-05-16T15:53:57+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/plastica-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I ristoranti italiani nel mondo resistono al dilagare dei fast food",
+        "description": "Le anticipazioni del rapporto 2026 di Deloitte segnalano il fatto che i ristoranti italiani tengono, anche se il mercato si sta spostando.\nL'articolo I ristoran…",
+        "link": "https://www.dissapore.com/notizie/i-ristoranti-italiani-nel-mondo-resistono-al-dilagare-dei-fast-food/",
+        "pubDate": "2026-05-16T14:46:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pizzeria-new-york-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Ilary Blasi cambia Look al Grande Fratello Vip: ecco cosa ha indossato ieri sera!",
         "description": "Ecco qui di seguito che cosa ha indossato Ilary Blasi per la semifinale del Grande Fratello Vip.…",
@@ -154,36 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/orro-oia-pistada-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Chiara Ferragni mostra la sua borsa perfetta per tutti i giorni: il nuovo must di stagione!",
-        "description": "Chiara Ferragni mostra ai fan sui social la sua nuova borsa in pelle marrone perfetta per tutti i giorni.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-mostra-la-sua-borsa-perfetta-per-tutti-i-giorni-il-nuovo-must-di-stagione/250801/",
-        "pubDate": "2026-05-15T13:00:00+00:00",
+        "title": "IKEA PS 2026, i 5 mobili più pratici e colorati della nuova collezione",
+        "description": "La nuova collezione Ikea PS 2026 punta su colori accesi, arredi multifunzione e design flessibile pensato per le case contemporanee. Dai tavolini pieghevoli all…",
+        "link": "https://www.stylosophy.it/articolo/ikea-ps-2026-i-5-mobili-piu-pratici-e-colorati-della-nuova-collezione/250841/",
+        "pubDate": "2026-05-16T16:30:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Jennifer Lopez, Amal Clooney, Margot Robbie e tutte le star meglio vestite della settimana",
-        "description": "C’è chi punta sull’archivio couture, chi rispolvera codici anni Duemila e chi trasforma il tailoring in una dichiarazione di stile moderna. Siamo felici di scop…",
-        "link": "https://www.grazia.it/moda/celebrity-style/amal-clooney-jennifer-lopez-margot-robbie-look-settimana-972022",
-        "pubDate": "2026-05-15T12:05:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_Best_dressed.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Per anni ci hanno detto che più alcol significava vino migliore. Oggi non è più così",
-        "description": "Per decenni più gradi alcolici hanno significato vini più importanti. Oggi però il mercato, i consumatori e persino le carte dei ristoranti stanno cambiando dir…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vini-low-alcol-mercato/",
-        "pubDate": "2026-05-15T11:06:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Ilary Blasi cambia Look al Grande Fratello Vip: ecco cosa ha indossato ieri sera!",
         "description": "Ecco qui di seguito che cosa ha indossato Ilary Blasi per la semifinale del Grande Fratello Vip.…",
@@ -354,18 +363,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_jelly_shoes.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Sei a Cannes per il Festival del Cinema? Devi assolutamente concederti una gita alle Isole di Lérins",
-        "description": "Scopri le Isole di Lérins offrono mare cristallino, natura e silenzio lontano dal caos del Festival di Cannes. Una meta perfetta per una pausa esclusiva in Cost…",
-        "link": "https://www.stylosophy.it/articolo/sei-a-cannes-per-il-festival-del-cinema-gita-alle-isole-di-lerins/250780/",
-        "pubDate": "2026-05-13T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La FAO è preoccupata per le plastiche nelle confezioni alimentari riciclate",
+        "description": "Il riciclo è necessario, ma i rischi per la salute si sono rivelati maggiori delle previsioni: serve un nuovo regolamento.\nL'articolo La FAO è preoccupata per l…",
+        "link": "https://www.dissapore.com/notizie/la-fao-e-preoccupata-per-le-plastiche-nelle-confezioni-alimentari-riciclate/",
+        "pubDate": "2026-05-16T15:53:57+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/plastica-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I ristoranti italiani nel mondo resistono al dilagare dei fast food",
+        "description": "Le anticipazioni del rapporto 2026 di Deloitte segnalano il fatto che i ristoranti italiani tengono, anche se il mercato si sta spostando.\nL'articolo I ristoran…",
+        "link": "https://www.dissapore.com/notizie/i-ristoranti-italiani-nel-mondo-resistono-al-dilagare-dei-fast-food/",
+        "pubDate": "2026-05-16T14:46:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pizzeria-new-york-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Ha smesso di fare il pane di Altamura e ha aperto un locale con solo 8 posti",
         "description": "Dopo aver lasciato la produzione del celebre pane di Altamura Dop, Mauro Petronella ha aperto Spazio: otto posti, brunch identitari, specialty coffee e vini nat…",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Ambrogio e Giovanni Folonari Tenute: Davide Profeti nuovo amministratore delegato",
-        "description": "Cambio al vertice per Ambrogio e Giovanni Folonari Tenute. Davide Profeti è il nuovo amministratore delegato della società. Succede a Bruno Alvisini, che conclu…",
-        "link": "https://www.winemag.it/ambrogio-e-giovanni-folonari-tenute-davide-profeti-nuovo-amministratore-delegato/",
-        "pubDate": "2026-05-14T07:22:32+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le tavolette Milka più sottili ingannano i consumatori: Mondelez condannata",
-        "description": "Le classiche tavolette sono passate da 100 a 90 grammi senza che i consumatori venissero adeguatamente informati, e la condanna crea un precedente importante.\nL…",
-        "link": "https://www.dissapore.com/notizie/le-tavolette-milka-piu-sottili-ingannano-i-consumatori-mondelez-condannata/",
-        "pubDate": "2026-05-14T07:07:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/milka-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
