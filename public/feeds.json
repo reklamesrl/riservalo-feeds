@@ -1,7 +1,34 @@
 {
-  "generated": "2026-05-16T19:05:13.813462+00:00",
+  "generated": "2026-05-17T08:22:05.666957+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il latte è il nuovo aroma di punta in profumeria",
+        "description": "Dalla caffetteria al reparto cosmetici, il latte è la nuova tendenza che prima di tutto coccola l'olfatto.\nL'articolo Il latte è il nuovo aroma di punta in prof…",
+        "link": "https://www.dissapore.com/notizie/il-latte-e-il-nuovo-aroma-di-punta-in-profumeria/",
+        "pubDate": "2026-05-17T07:10:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/profumo-milk-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Abbiamo assaggiato 20 alici sott’olio artigianali: queste sono le migliori",
+        "description": "Dal Cantabrico a Cetara, passando per Anzio e la Liguria: ecco le migliori alici sott’olio artigianali selezionate dopo un blind test tra 20 produttori italiani…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/20-alici-sottolio-artigianali-migliori/",
+        "pubDate": "2026-05-17T05:21:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
+        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
+        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
+        "pubDate": "2026-05-16T21:25:41+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-cannes-day5-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "IKEA PS 2026, i 5 mobili più pratici e colorati della nuova collezione",
         "description": "La nuova collezione Ikea PS 2026 punta su colori accesi, arredi multifunzione e design flessibile pensato per le case contemporanee. Dai tavolini pieghevoli all…",
@@ -111,15 +138,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
-        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
-        "pubDate": "2026-05-15T21:33:03+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-cannes-day4.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Le spiagge più belle del Sud Italia: guida ai paradisi di mare tra Puglia, Calabria, Sicilia e Sardegna",
         "description": "Dal Salento alla Sicilia, passando per Calabria e Sardegna: un viaggio tra le spiagge più spettacolari del Sud Italia, tra acque trasparenti, sabbia chiara e sc…",
         "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-del-sud-italia-guida-ai-paradisi-di-mare-tra-puglia-calabria-sicilia-e-sardegna/250816/",
@@ -163,27 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Arrivano i primi rimborsi alle imprese di vino danneggiate dai dazi di Trump: 110mila dollari alla Vos Selections",
-        "description": "In totale la Casa Bianca dovrà risarcire 330mila importatori per una somma di 160 miliardi di euro. A cui potrebbero sommarsi i rimborsi ai consumatori american…",
-        "link": "https://www.gamberorosso.it/notizie/vino/dazi-stati-uniti-rimborsi-importatori-vino-vos-selection/",
-        "pubDate": "2026-05-15T13:34:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cos’è l’Oìa Pistada, necessità che si è fatta liturgia",
-        "description": "Schiacciare l'oliva e farne una merenda, oggi un aperitivo. L'oia pistata (oliva pestata) è un Prodotto Agroalimentare Tradizionale sardo semplicissimo, quanto …",
-        "link": "https://www.dissapore.com/cucina/oia-pistada/",
-        "pubDate": "2026-05-15T13:03:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/orro-oia-pistada-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
+        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
+        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
+        "pubDate": "2026-05-16T21:25:41+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-cannes-day5-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "IKEA PS 2026, i 5 mobili più pratici e colorati della nuova collezione",
         "description": "La nuova collezione Ikea PS 2026 punta su colori accesi, arredi multifunzione e design flessibile pensato per le case contemporanee. Dai tavolini pieghevoli all…",
@@ -217,15 +226,6 @@
         "link": "https://www.grazia.it/moda/tendenze-moda/slippers-donna-mules-sabot-scarpe-basse-eleganti-primavera-estate-2026-972056",
         "pubDate": "2026-05-16T08:00:00+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/05/DESK-slippers-e-mules.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
-        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
-        "pubDate": "2026-05-15T21:33:03+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-cannes-day4.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Il latte è il nuovo aroma di punta in profumeria",
+        "description": "Dalla caffetteria al reparto cosmetici, il latte è la nuova tendenza che prima di tutto coccola l'olfatto.\nL'articolo Il latte è il nuovo aroma di punta in prof…",
+        "link": "https://www.dissapore.com/notizie/il-latte-e-il-nuovo-aroma-di-punta-in-profumeria/",
+        "pubDate": "2026-05-17T07:10:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/profumo-milk-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Abbiamo assaggiato 20 alici sott’olio artigianali: queste sono le migliori",
+        "description": "Dal Cantabrico a Cetara, passando per Anzio e la Liguria: ecco le migliori alici sott’olio artigianali selezionate dopo un blind test tra 20 produttori italiani…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/20-alici-sottolio-artigianali-migliori/",
+        "pubDate": "2026-05-17T05:21:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "La FAO è preoccupata per le plastiche nelle confezioni alimentari riciclate",
         "description": "Il riciclo è necessario, ma i rischi per la salute si sono rivelati maggiori delle previsioni: serve un nuovo regolamento.\nL'articolo La FAO è preoccupata per l…",
         "link": "https://www.dissapore.com/notizie/la-fao-e-preoccupata-per-le-plastiche-nelle-confezioni-alimentari-riciclate/",
@@ -484,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Napoli ha aperto la prima gelateria “scaramantica” d’Italia",
-        "description": "Corno Gelato, aperta alla Pignasecca dalla famiglia Scaturchio, unisce gelato artigianale, simboli della scaramanzia napoletana e gusti ispirati alla cucina tra…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/gelateria-scaramantica-napoli/",
-        "pubDate": "2026-05-15T10:47:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "De Martin a Cordignano: un buon gelato artigianale, in provincia, si può fare",
         "description": "Fare il gelato in provincia è una cosa diversa. Eppure si può essere bravi e brillanti lo stesso, anche senza scomodare il gusto Lotus Biscoff. Lo dimostra la s…",
         "link": "https://www.dissapore.com/locali/gelateria-de-martin-da-gasparetto-a-cordignano-recensione/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/supermercati.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Consorzio Vini Valpolicella, eletto il nuovo Cda: bilancio 2025 chiude con utile record",
-        "description": "L’assemblea dei soci del Consorzio vini Valpolicella ha eletto il nuovo Consiglio di amministrazione che resterà in carica fino al 2028. Il nuovo organo collegi…",
-        "link": "https://www.winemag.it/consorzio-vini-valpolicella-eletto-il-nuovo-cda-bilancio-2025-chiude-con-utile-record/",
-        "pubDate": "2026-05-14T07:40:12+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
