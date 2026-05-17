@@ -1,7 +1,52 @@
 {
-  "generated": "2026-05-17T08:22:05.666957+00:00",
+  "generated": "2026-05-17T13:22:02.262556+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Silvia Toffanin cambia Look a Verissimo: ecco cosa ha indossato firmato Dolce & Gabbana!",
+        "description": "Per la puntata di ieri pomeriggio di Verissimo, Silvia Toffanin ha deciso di cambiare un po' stile e look.…",
+        "link": "https://www.stylosophy.it/articolo/silvia-toffanin-cambia-look-a-verissimo-ecco-cosa-ha-indossato-firmato-dolce-gabbana/250850/",
+        "pubDate": "2026-05-17T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Forno Crosta a Siderno: dalle stelle Michelin al pane della “restanza”",
+        "description": "Siamo stati da Forno Crosta, panificio di Siderno emblematico della gastronomia contemporanea. Ad aprirlo è stato Daniele Triumbari, dopo essere passato dalle c…",
+        "link": "https://www.dissapore.com/locali/forno-crosta-siderno-recensione/",
+        "pubDate": "2026-05-17T09:54:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/forno-crosta-in.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Rome Fashion Path 2026: il meglio della terza edizione e la sfilata di chiusura",
+        "description": "Giunge al termine la terza edizione del Rome Fashion Path, la kermesse moda più amata della Capitale. Ecco gli eventi più HOT a cui abbiamo assistito e tutte le…",
+        "link": "https://www.stylosophy.it/articolo/rome-fashion-path-2026-il-meglio-della-terza-edizione-e-la-sfilata-di-chiusura/250855/",
+        "pubDate": "2026-05-17T09:45:53+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Vicino a Crotone c’è una famiglia che fa uno dei migliori vini bianchi (non solo) della Calabria sotto i 15 euro",
+        "description": "La Calabria del vino continua a riservare grandi sorprese non solo sul fronte dei rossi, ma anche dei bianchi. Come l'ottima etichetta prodotta da Fezzigna, una…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vino-bianco-calabrese-fezzigna-fren/",
+        "pubDate": "2026-05-17T08:32:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I tortellini verdi di Bologna che nascono dagli avanzi delle lasagne",
+        "description": "Elena Spisni li ha scelti come prima ricetta della nuova serie \"Fatta a mano, la mia pasta del cuore\", in onda su Gambero Rosso Tv…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tortellini-verdi-bologna-balanzoni/",
+        "pubDate": "2026-05-17T08:30:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il latte è il nuovo aroma di punta in profumeria",
         "description": "Dalla caffetteria al reparto cosmetici, il latte è la nuova tendenza che prima di tutto coccola l'olfatto.\nL'articolo Il latte è il nuovo aroma di punta in prof…",
@@ -10,6 +55,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/profumo-milk-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Le righe si sono rifatte il look: ecco i capi e gli accessori dalla fantasia “stripes” perfetti per l’estate",
+        "description": "Dimenticate l&#8217;ispirazione navy o almeno provate a fare un piccolo lavoro di fantasia, perché le righe si sono rifatte il look. Tipico pattern estivo molto…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/righe-vestiti-scarpe-borse-stripes-fantasia-stampa-972537",
+        "pubDate": "2026-05-17T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-righe-estate-2026-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Abbiamo assaggiato 20 alici sott’olio artigianali: queste sono le migliori",
@@ -127,63 +181,36 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il bar romano senza social dove si trovano ancora dolci quasi spariti",
-        "description": "Innocenti, storica pasticceria di Roma Ovest, continua a servire budini di riso, bavaresi, gelatine e dolci vintage in un’atmosfera rimasta ferma ai primi anni …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dolci-rari-vintage-innocenti-roma-ovest-pasticceria/",
-        "pubDate": "2026-05-16T05:36:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le spiagge più belle del Sud Italia: guida ai paradisi di mare tra Puglia, Calabria, Sicilia e Sardegna",
-        "description": "Dal Salento alla Sicilia, passando per Calabria e Sardegna: un viaggio tra le spiagge più spettacolari del Sud Italia, tra acque trasparenti, sabbia chiara e sc…",
-        "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-del-sud-italia-guida-ai-paradisi-di-mare-tra-puglia-calabria-sicilia-e-sardegna/250816/",
-        "pubDate": "2026-05-15T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Rome Fashion Path celebra il Giappone: due eventi a Roma tra haori, recycling fashion e cultura orientale",
-        "description": "Due eventi distinti, due visioni creative e un’unica ispirazione orientale: durante il Rome Fashion Path la Capitale ospita appuntamenti dedicati alla moda giap…",
-        "link": "https://www.stylosophy.it/articolo/rome-fashion-path-celebra-il-giappone-due-eventi-a-roma/250807/",
-        "pubDate": "2026-05-15T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Maggio è quel momento dell’anno in cui tutto accelera: dal Met Gala al Festival di Cannes, passando per gli Internazionali di tennis e una raffica di collab da …",
-        "link": "https://www.grazia.it/moda/news-moda/notizie-autry-cannes-ray-ban-house-new-york-parfois-bridal-the-attico-beachwear-voyou-givenchy-the-bridge-milano-galleria-lotto-internazionali-bnl-d-italia-972691",
-        "pubDate": "2026-05-15T14:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/parfois-sposa-desk.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Lavorava dietro le quinte di Masterchef, oggi cucina quello che tutti buttano",
-        "description": "Con oltre 260mila follower, Alessio Cicchini, conosciuto sui social come Rucoolaaa, insegna a trasformare bucce, gambi e avanzi in ricette creative contro lo sp…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/rucoolaaa-masterchef-cucina-antispreco/",
-        "pubDate": "2026-05-15T13:53:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Storti con la panna: il dolce veneto dimenticato che faceva piangere i bambini quando finiva",
-        "description": "Piccoli coni croccanti ripieni di panna montata, venduti per decenni nei mercati del Veneto: gli storti con la panna stanno tornando grazie a gelaterie e artigi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storti-con-panna-dolce-veneto/",
-        "pubDate": "2026-05-15T13:40:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Silvia Toffanin cambia Look a Verissimo: ecco cosa ha indossato firmato Dolce & Gabbana!",
+        "description": "Per la puntata di ieri pomeriggio di Verissimo, Silvia Toffanin ha deciso di cambiare un po' stile e look.…",
+        "link": "https://www.stylosophy.it/articolo/silvia-toffanin-cambia-look-a-verissimo-ecco-cosa-ha-indossato-firmato-dolce-gabbana/250850/",
+        "pubDate": "2026-05-17T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Rome Fashion Path 2026: il meglio della terza edizione e la sfilata di chiusura",
+        "description": "Giunge al termine la terza edizione del Rome Fashion Path, la kermesse moda più amata della Capitale. Ecco gli eventi più HOT a cui abbiamo assistito e tutte le…",
+        "link": "https://www.stylosophy.it/articolo/rome-fashion-path-2026-il-meglio-della-terza-edizione-e-la-sfilata-di-chiusura/250855/",
+        "pubDate": "2026-05-17T09:45:53+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Le righe si sono rifatte il look: ecco i capi e gli accessori dalla fantasia “stripes” perfetti per l’estate",
+        "description": "Dimenticate l&#8217;ispirazione navy o almeno provate a fare un piccolo lavoro di fantasia, perché le righe si sono rifatte il look. Tipico pattern estivo molto…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/righe-vestiti-scarpe-borse-stripes-fantasia-stampa-972537",
+        "pubDate": "2026-05-17T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-righe-estate-2026-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
         "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
@@ -320,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Demi Moore lascia tutti senza fiato a Cannes 2026 con il Look firmato Gucci",
-        "description": "Per la seconda serata del Festival di Cannes 2026, Demi Moore sfoggia un total look lilla firmato Gucci.…",
-        "link": "https://www.stylosophy.it/articolo/demi-moore-lascia-tutti-senza-fiato-a-cannes-2026-con-il-look-firmato-gucci/250786/",
-        "pubDate": "2026-05-14T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Il Diavolo veste Prada… ma Meryl Streep ha scelto la borsa perfetta da portare con eleganza H24!",
         "description": "Meryl Streep e Anne Hathaway sono state avvistate con le borse di un brand inglese che spopola ovunque ed ecco perché dovreste conoscerlo&#8230; Ce la ricordiam…",
         "link": "https://www.grazia.it/moda/news-moda/borsa-de-mellier-elegante-meryl-streep-diavolo-veste-prada-anne-hathaway-972063",
@@ -338,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "I migliori detergenti in mousse per una pelle del viso detersa e pulita",
-        "description": "Delicati e leggeri, i detergenti viso in mousse sono l'alleato beauty per una detersione impeccabile. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/i-migliori-detergenti-in-mousse-per-una-pelle-del-viso-detersa-e-pulita/250689/",
-        "pubDate": "2026-05-14T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Dior e il suo omaggio a Hollywood con la collezione Cruise 2027: 5 highlight dello show",
         "description": "Ieri sera a Los Angeles, Jonathan Anderson ha presentato la collezione Cruise 2027 di Dior, una collezione che esplora il legame tra la Maison fondata da Monsie…",
         "link": "https://www.grazia.it/moda/tendenze-moda/dior-sfilata-cruise-2027-los-angeles-jonathan-anderson-sabrina-carpenter-miley-cirus-972427",
@@ -354,18 +363,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Collezione_Cruise_2027_Dior.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Jelly shoes trend: dalle ballerine ai sandali, le scarpe in gomma sono il modello più “funny” dell’estate",
-        "description": "Per anni sono state considerate solo ed esclusivamente delle scarpe da spiaggia: quelle, per intenderci, che si acquistano insieme ai giornali e ai gonfiabili a…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-di-gomma-mare-jelly-shoes-trasparenti-melissa-sandali-granchietti-ballerine-971936",
-        "pubDate": "2026-05-14T05:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_jelly_shoes.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Forno Crosta a Siderno: dalle stelle Michelin al pane della “restanza”",
+        "description": "Siamo stati da Forno Crosta, panificio di Siderno emblematico della gastronomia contemporanea. Ad aprirlo è stato Daniele Triumbari, dopo essere passato dalle c…",
+        "link": "https://www.dissapore.com/locali/forno-crosta-siderno-recensione/",
+        "pubDate": "2026-05-17T09:54:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/forno-crosta-in.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Vicino a Crotone c’è una famiglia che fa uno dei migliori vini bianchi (non solo) della Calabria sotto i 15 euro",
+        "description": "La Calabria del vino continua a riservare grandi sorprese non solo sul fronte dei rossi, ma anche dei bianchi. Come l'ottima etichetta prodotta da Fezzigna, una…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vino-bianco-calabrese-fezzigna-fren/",
+        "pubDate": "2026-05-17T08:32:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I tortellini verdi di Bologna che nascono dagli avanzi delle lasagne",
+        "description": "Elena Spisni li ha scelti come prima ricetta della nuova serie \"Fatta a mano, la mia pasta del cuore\", in onda su Gambero Rosso Tv…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tortellini-verdi-bologna-balanzoni/",
+        "pubDate": "2026-05-17T08:30:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il latte è il nuovo aroma di punta in profumeria",
         "description": "Dalla caffetteria al reparto cosmetici, il latte è la nuova tendenza che prima di tutto coccola l'olfatto.\nL'articolo Il latte è il nuovo aroma di punta in prof…",
@@ -475,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Arrivano i primi rimborsi alle imprese di vino danneggiate dai dazi di Trump: 110mila dollari alla Vos Selections",
-        "description": "In totale la Casa Bianca dovrà risarcire 330mila importatori per una somma di 160 miliardi di euro. A cui potrebbero sommarsi i rimborsi ai consumatori american…",
-        "link": "https://www.gamberorosso.it/notizie/vino/dazi-stati-uniti-rimborsi-importatori-vino-vos-selection/",
-        "pubDate": "2026-05-15T13:34:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cos’è l’Oìa Pistada, necessità che si è fatta liturgia",
         "description": "Schiacciare l'oliva e farne una merenda, oggi un aperitivo. L'oia pistata (oliva pestata) è un Prodotto Agroalimentare Tradizionale sardo semplicissimo, quanto …",
         "link": "https://www.dissapore.com/cucina/oia-pistada/",
@@ -491,15 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/orro-oia-pistada-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Per anni ci hanno detto che più alcol significava vino migliore. Oggi non è più così",
-        "description": "Per decenni più gradi alcolici hanno significato vini più importanti. Oggi però il mercato, i consumatori e persino le carte dei ristoranti stanno cambiando dir…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vini-low-alcol-mercato/",
-        "pubDate": "2026-05-15T11:06:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "De Martin a Cordignano: un buon gelato artigianale, in provincia, si può fare",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/la-liguria-avra-incredibilmente-una-spiaggia-con-ristorazione-super-stellata/",
         "pubDate": "2026-05-14T12:05:59+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2022/03/mauro-uliassi-e1761814586919.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dobbiamo ringraziare i supermercati perché donano il cibo invenduto?",
-        "description": "Sono usciti i dati di quanta cibo invenduto dai supermercati arriva in beneficenza. Sono buone notizie, ma il problema dello spreco non è risolto.\nL'articolo Do…",
-        "link": "https://www.dissapore.com/notizie/dobbiamo-ringraziare-i-supermercati-perche-donano-il-cibo-invenduto/",
-        "pubDate": "2026-05-14T08:29:09+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/supermercati.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
