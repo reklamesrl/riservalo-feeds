@@ -1,7 +1,115 @@
 {
-  "generated": "2026-05-17T19:10:39.881583+00:00",
+  "generated": "2026-05-18T10:05:28.610188+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Qui i profumi al limone per dare una scossa alle giornate di Primavera",
+        "description": "I profumi più freschi della Primavera sono quelli al limone, un booster di energia e leggerezza. Ecco i più validi da acquistare ora...…",
+        "link": "https://www.stylosophy.it/articolo/qui-i-profumi-al-limone-per-dare-una-scossa-alle-giornate-di-primavera/250871/",
+        "pubDate": "2026-05-18T09:20:16+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La dieta biblica è il nuovo trend dei cristiani estremisti americani",
+        "description": "Fra i vari trend conservatori in campo alimentare spunta anche la dieta biblica, insieme ai suoi predicatori e discepoli.\nL'articolo La dieta biblica è il nuovo…",
+        "link": "https://www.dissapore.com/notizie/la-dieta-biblica-e-il-nuovo-trend-dei-cristiani-estremisti-americani/",
+        "pubDate": "2026-05-18T09:00:23+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/insalata-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "L’animella è diventata il piatto ossessione degli chef italiani",
+        "description": "Da ingrediente povero delle trattorie a protagonista dei menu degustazione: l’animella conquista gli chef italiani tra lusso gastronomico, moda e interrogativi …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/animella-chef-ristoranti-stellati/",
+        "pubDate": "2026-05-18T08:50:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sempre più italiani mangiano da soli. Ma ristoranti e supermercati non sono pronti",
+        "description": "Secondo l’Istat oltre il 37% delle famiglie italiane è composto da una sola persona: cambiano le case, i consumi e anche il modo di mangiare, dentro e fuori cas…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/italiani-mangiano-da-soli/",
+        "pubDate": "2026-05-18T08:45:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La birreria veneta diventata uno dei bistrot più interessanti d’Italia",
+        "description": "Da storica birreria di Montebelluna a indirizzo gastronomico contemporaneo: Nidaba 1982 unisce grandi birre, cucina creativa e piatti dove la birra entra perfin…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/nidaba-1982-bistrot-veneto/",
+        "pubDate": "2026-05-18T08:35:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Torino ha aperto il primo specialty coffee dentro un museo (con giardino segreto)",
+        "description": "Bar Baglio riporta in vita la storica caffetteria della GAM di Torino con specialty coffee, brunch, cocktail e una terrazza nascosta nel cuore del museo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/bar-baglio-gam-torino/",
+        "pubDate": "2026-05-18T08:00:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Abruzzo esiste un itinerario di 38 chilometri che sembra uscito da un’altra epoca",
+        "description": "Dal mulino ritrovato di Poggio Umbricchio alla trattoria Il Porcellino, passando per Montorio, Teramo e Campli: una guida lenta tra borghi, trattorie e indirizz…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/itinerario-teramano-trattorie-borghi/",
+        "pubDate": "2026-05-18T07:48:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questa vecchia osteria si cucina ancora una faraona sigillata nella creta per 6 ore",
+        "description": "All’Antico Pavone, minuscola trattoria nella pianura tra Cremona e il Po, sopravvive una delle ricette più antiche e spettacolari della cucina padana: la faraon…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/trattoria-antico-pavone-faraona-creta/",
+        "pubDate": "2026-05-18T07:30:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Sardegna esiste una pasta che nessuna macchina riesce a fare",
+        "description": "Si chiamano lorighittas e nascono a Morgongiori, piccolo borgo nel cuore della Sardegna: una pasta intrecciata a mano da secoli che richiede ore di lavoro e una…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lorighittas-pasta-sarda-mano/",
+        "pubDate": "2026-05-18T07:17:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tenuta del Paguro: il vino affinato in mare al largo di Ravenna",
+        "description": "A circa trenta metri di profondità, nel mare Adriatico al largo di Ravenna, Tenuta del Paguro affida i suoi vini al mare. Metodo di affinamento subacqueo che po…",
+        "link": "https://www.winemag.it/tenuta-del-paguro-il-vino-affinato-in-mare-al-largo-di-ravenna-romagna-doc-albana-squilla-mantis/",
+        "pubDate": "2026-05-18T07:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Tenuta-del-Paguro-il-vino-affinato-in-mare-al-largo-di-Ravenna-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Rete Enoturismo Sardegna, progetto pilota per vino e turismo dell’isola",
+        "description": "La Rete Enoturismo Sardegna (RES) punta a costruire un modello organizzato di enoturismo regionale. Il progetto pilota è finanziato dall’Assessorato dell’Agrico…",
+        "link": "https://www.winemag.it/rete-enoturismo-sardegna-progetto-pilota-per-vino-e-turismo-dellisola/",
+        "pubDate": "2026-05-18T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ho cenato con due annate di Ben Ryé Donnafugata senza abbinarle al dolce",
+        "description": "L'ultima visita a Pantelleria insegna che Ben Ryé non è (solo) un vino da relegare al finale. È un passito, certo. È uno dei vini dolci italiani più riconosciut…",
+        "link": "https://www.winemag.it/ho-cenato-con-due-annate-di-ben-rye-donnafugata-senza-abbinarle-al-dolce/",
+        "pubDate": "2026-05-18T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Ben-Rye-Il-Vino-Passito-di-Pantelleria-e-i-suoi-nuovi-abbinamenti-due-annate-di-Ben-Rye-Donnafugata-senza-abbinarle-al-dolce-passito-di-pantelleria-2013-2017-sicilia-en-primeur-2026-jose-rallo-5-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Ponte del 2 giugno 2026: i borghi sui laghi più belli d’Italia da visitare",
         "description": "Dal Lago di Como al Lago di Garda, passando per Trasimeno e Bracciano: i borghi più affascinanti d’Italia dove trascorrere il ponte del 2 giugno tra panorami, c…",
@@ -48,15 +156,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "“GucciCore” conquista Times Square: ecco le borse più belle della prima Cruise firmata Demna",
-        "description": "La prima sfilata cruise di Gucci firmata da Demna non poteva che essere un evento totale. Per presentare Gucci Cruise 2027 , la maison ha scelto il cuore più ru…",
-        "link": "https://www.grazia.it/moda/news-moda/gucci-cruise-2027-borse-accessori-guccicore-times-square-973087",
-        "pubDate": "2026-05-17T10:33:40+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/ok-apertura-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Forno Crosta a Siderno: dalle stelle Michelin al pane della “restanza”",
         "description": "Siamo stati da Forno Crosta, panificio di Siderno emblematico della gastronomia contemporanea. Ad aprirlo è stato Daniele Triumbari, dopo essere passato dalle c…",
         "link": "https://www.dissapore.com/locali/forno-crosta-siderno-recensione/",
@@ -82,108 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "I tortellini verdi di Bologna che nascono dagli avanzi delle lasagne",
-        "description": "Elena Spisni li ha scelti come prima ricetta della nuova serie \"Fatta a mano, la mia pasta del cuore\", in onda su Gambero Rosso Tv…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tortellini-verdi-bologna-balanzoni/",
-        "pubDate": "2026-05-17T08:30:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il latte è il nuovo aroma di punta in profumeria",
-        "description": "Dalla caffetteria al reparto cosmetici, il latte è la nuova tendenza che prima di tutto coccola l'olfatto.\nL'articolo Il latte è il nuovo aroma di punta in prof…",
-        "link": "https://www.dissapore.com/notizie/il-latte-e-il-nuovo-aroma-di-punta-in-profumeria/",
-        "pubDate": "2026-05-17T07:10:09+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/profumo-milk-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le righe si sono rifatte il look: ecco i capi e gli accessori dalla fantasia “stripes” perfetti per l’estate",
-        "description": "Dimenticate l&#8217;ispirazione navy o almeno provate a fare un piccolo lavoro di fantasia, perché le righe si sono rifatte il look. Tipico pattern estivo molto…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/righe-vestiti-scarpe-borse-stripes-fantasia-stampa-972537",
-        "pubDate": "2026-05-17T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-righe-estate-2026-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Abbiamo assaggiato 20 alici sott’olio artigianali: queste sono le migliori",
-        "description": "Dal Cantabrico a Cetara, passando per Anzio e la Liguria: ecco le migliori alici sott’olio artigianali selezionate dopo un blind test tra 20 produttori italiani…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/20-alici-sottolio-artigianali-migliori/",
-        "pubDate": "2026-05-17T05:21:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
-        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
-        "pubDate": "2026-05-16T21:25:41+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-cannes-day5-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "IKEA PS 2026, i 5 mobili più pratici e colorati della nuova collezione",
-        "description": "La nuova collezione Ikea PS 2026 punta su colori accesi, arredi multifunzione e design flessibile pensato per le case contemporanee. Dai tavolini pieghevoli all…",
-        "link": "https://www.stylosophy.it/articolo/ikea-ps-2026-i-5-mobili-piu-pratici-e-colorati-della-nuova-collezione/250841/",
-        "pubDate": "2026-05-16T16:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La FAO è preoccupata per le plastiche nelle confezioni alimentari riciclate",
-        "description": "Il riciclo è necessario, ma i rischi per la salute si sono rivelati maggiori delle previsioni: serve un nuovo regolamento.\nL'articolo La FAO è preoccupata per l…",
-        "link": "https://www.dissapore.com/notizie/la-fao-e-preoccupata-per-le-plastiche-nelle-confezioni-alimentari-riciclate/",
-        "pubDate": "2026-05-16T15:53:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/plastica-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I ristoranti italiani nel mondo resistono al dilagare dei fast food",
-        "description": "Le anticipazioni del rapporto 2026 di Deloitte segnalano il fatto che i ristoranti italiani tengono, anche se il mercato si sta spostando.\nL'articolo I ristoran…",
-        "link": "https://www.dissapore.com/notizie/i-ristoranti-italiani-nel-mondo-resistono-al-dilagare-dei-fast-food/",
-        "pubDate": "2026-05-16T14:46:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pizzeria-new-york-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ilary Blasi cambia Look al Grande Fratello Vip: ecco cosa ha indossato ieri sera!",
-        "description": "Ecco qui di seguito che cosa ha indossato Ilary Blasi per la semifinale del Grande Fratello Vip.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-cambia-look-al-grande-fratello-vip-ecco-cosa-ha-indossato-ieri-sera/250822/",
-        "pubDate": "2026-05-16T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ha smesso di fare il pane di Altamura e ha aperto un locale con solo 8 posti",
-        "description": "Dopo aver lasciato la produzione del celebre pane di Altamura Dop, Mauro Petronella ha aperto Spazio: otto posti, brunch identitari, specialty coffee e vini nat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/spazio-altamura-mauro-petronella/",
-        "pubDate": "2026-05-16T12:36:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Scommettiamo che queste gonne midi a pieghe saranno le protagoniste della mezza stagione?",
-        "description": "Le gonne più belle della Primavera 2026? Sono midi e a pieghe, un inno alla femminilità più chic. Ecco i modelli da non lasciarsi assolutamente sfuggire...…",
-        "link": "https://www.stylosophy.it/articolo/scommettiamo-che-queste-gonne-midi-a-pieghe-saranno-le-protagoniste-della-mezza-stagione/250830/",
-        "pubDate": "2026-05-16T10:20:38+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Qui i profumi al limone per dare una scossa alle giornate di Primavera",
+        "description": "I profumi più freschi della Primavera sono quelli al limone, un booster di energia e leggerezza. Ecco i più validi da acquistare ora...…",
+        "link": "https://www.stylosophy.it/articolo/qui-i-profumi-al-limone-per-dare-una-scossa-alle-giornate-di-primavera/250871/",
+        "pubDate": "2026-05-18T09:20:16+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Ponte del 2 giugno 2026: i borghi sui laghi più belli d’Italia da visitare",
         "description": "Dal Lago di Como al Lago di Garda, passando per Trasimeno e Bracciano: i borghi più affascinanti d’Italia dove trascorrere il ponte del 2 giugno tra panorami, c…",
@@ -203,15 +212,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "“GucciCore” conquista Times Square: ecco le borse più belle della prima Cruise firmata Demna",
-        "description": "La prima sfilata cruise di Gucci firmata da Demna non poteva che essere un evento totale. Per presentare Gucci Cruise 2027 , la maison ha scelto il cuore più ru…",
-        "link": "https://www.grazia.it/moda/news-moda/gucci-cruise-2027-borse-accessori-guccicore-times-square-973087",
-        "pubDate": "2026-05-17T10:33:40+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/ok-apertura-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Rome Fashion Path 2026: il meglio della terza edizione e la sfilata di chiusura",
         "description": "Giunge al termine la terza edizione del Rome Fashion Path, la kermesse moda più amata della Capitale. Ecco gli eventi più HOT a cui abbiamo assistito e tutte le…",
         "link": "https://www.stylosophy.it/articolo/rome-fashion-path-2026-il-meglio-della-terza-edizione-e-la-sfilata-di-chiusura/250855/",
@@ -219,24 +219,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Le righe si sono rifatte il look: ecco i capi e gli accessori dalla fantasia “stripes” perfetti per l’estate",
-        "description": "Dimenticate l&#8217;ispirazione navy o almeno provate a fare un piccolo lavoro di fantasia, perché le righe si sono rifatte il look. Tipico pattern estivo molto…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/righe-vestiti-scarpe-borse-stripes-fantasia-stampa-972537",
-        "pubDate": "2026-05-17T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-righe-estate-2026-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
-        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
-        "pubDate": "2026-05-16T21:25:41+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-cannes-day5-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "IKEA PS 2026, i 5 mobili più pratici e colorati della nuova collezione",
@@ -264,15 +246,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Slippers e mules: ecco le varianti più chic da scegliere",
-        "description": "C&#8217;è chi ancora le etichetta come &#8220;ciabatte&#8221; ma ormai, le slippers o mules sono entrate nel quotidiano come calzature perfette per la mezza sta…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/slippers-donna-mules-sabot-scarpe-basse-eleganti-primavera-estate-2026-972056",
-        "pubDate": "2026-05-16T08:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-slippers-e-mules.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Le spiagge più belle del Sud Italia: guida ai paradisi di mare tra Puglia, Calabria, Sicilia e Sardegna",
@@ -293,15 +266,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Maggio è quel momento dell’anno in cui tutto accelera: dal Met Gala al Festival di Cannes, passando per gli Internazionali di tennis e una raffica di collab da …",
-        "link": "https://www.grazia.it/moda/news-moda/notizie-autry-cannes-ray-ban-house-new-york-parfois-bridal-the-attico-beachwear-voyou-givenchy-the-bridge-milano-galleria-lotto-internazionali-bnl-d-italia-972691",
-        "pubDate": "2026-05-15T14:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/parfois-sposa-desk.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Chiara Ferragni mostra la sua borsa perfetta per tutti i giorni: il nuovo must di stagione!",
         "description": "Chiara Ferragni mostra ai fan sui social la sua nuova borsa in pelle marrone perfetta per tutti i giorni.…",
         "link": "https://www.stylosophy.it/articolo/chiara-ferragni-mostra-la-sua-borsa-perfetta-per-tutti-i-giorni-il-nuovo-must-di-stagione/250801/",
@@ -309,63 +273,108 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Jennifer Lopez, Amal Clooney, Margot Robbie e tutte le star meglio vestite della settimana",
-        "description": "C’è chi punta sull’archivio couture, chi rispolvera codici anni Duemila e chi trasforma il tailoring in una dichiarazione di stile moderna. Siamo felici di scop…",
-        "link": "https://www.grazia.it/moda/celebrity-style/amal-clooney-jennifer-lopez-margot-robbie-look-settimana-972022",
-        "pubDate": "2026-05-15T12:05:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_Best_dressed.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il capo su cui scommettere questa primavera? Le trend setter non hanno dubbi: sono questi pantaloni!",
-        "description": "Non solo i pantaloni beige! Per affrontare con stile le prime giornate di caldo in città, c’è un altro capo (che già da un po’ vediamo addosso alle trend setter…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-blu-cobalto-larghi-gamba-ampia-tendenze-donna-primavera-zara-972754",
-        "pubDate": "2026-05-15T10:20:41+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Pantaloni_blu.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Le 5 migliori creme viso rimpolpanti per un aspetto al top!",
-        "description": "Queste 5 creme viso dall'effetto rimpolpante sono dei veri must have per una pelle al top. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/le-5-migliori-creme-viso-rimpolpanti-per-un-aspetto-al-top/250698/",
-        "pubDate": "2026-05-15T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
-        "description": "Programmi per il weekend? Riposarsi, stare in buona compagnia e, perché no, magari anche fare un po&#8217; di shopping, farsi un piccolo regalo, togliersi uno s…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/must-have-shopping-weekend-cosa-comprare-vestiti-borse-scarpe-primavera-estate-acquisti-972342",
-        "pubDate": "2026-05-15T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_love_first_sight_14_maggio.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il blazer gessato di Kate Middleton, emblema della giacca perfetta che “parla italiano”, nasconde  un messaggio segreto e speciale",
-        "description": "Il viaggio italiano di Kate Middleton a Reggio Emilia continua e l&#8217;attenzione ed entusiasmo nei suoi confronti non sembra scemare minimamente. Accolta con…",
-        "link": "https://www.grazia.it/moda/celebrity-style/kate-middleton-blazer-gessato-giacca-marchio-italiano-messaggio-nascosto-972499",
-        "pubDate": "2026-05-14T13:47:35+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/kate-middleton-blazer-gessato-evi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il Diavolo veste Prada… ma Meryl Streep ha scelto la borsa perfetta da portare con eleganza H24!",
-        "description": "Meryl Streep e Anne Hathaway sono state avvistate con le borse di un brand inglese che spopola ovunque ed ecco perché dovreste conoscerlo&#8230; Ce la ricordiam…",
-        "link": "https://www.grazia.it/moda/news-moda/borsa-de-mellier-elegante-meryl-streep-diavolo-veste-prada-anne-hathaway-972063",
-        "pubDate": "2026-05-14T12:07:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/meryl-streep-borsa.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La dieta biblica è il nuovo trend dei cristiani estremisti americani",
+        "description": "Fra i vari trend conservatori in campo alimentare spunta anche la dieta biblica, insieme ai suoi predicatori e discepoli.\nL'articolo La dieta biblica è il nuovo…",
+        "link": "https://www.dissapore.com/notizie/la-dieta-biblica-e-il-nuovo-trend-dei-cristiani-estremisti-americani/",
+        "pubDate": "2026-05-18T09:00:23+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/insalata-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "L’animella è diventata il piatto ossessione degli chef italiani",
+        "description": "Da ingrediente povero delle trattorie a protagonista dei menu degustazione: l’animella conquista gli chef italiani tra lusso gastronomico, moda e interrogativi …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/animella-chef-ristoranti-stellati/",
+        "pubDate": "2026-05-18T08:50:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sempre più italiani mangiano da soli. Ma ristoranti e supermercati non sono pronti",
+        "description": "Secondo l’Istat oltre il 37% delle famiglie italiane è composto da una sola persona: cambiano le case, i consumi e anche il modo di mangiare, dentro e fuori cas…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/italiani-mangiano-da-soli/",
+        "pubDate": "2026-05-18T08:45:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La birreria veneta diventata uno dei bistrot più interessanti d’Italia",
+        "description": "Da storica birreria di Montebelluna a indirizzo gastronomico contemporaneo: Nidaba 1982 unisce grandi birre, cucina creativa e piatti dove la birra entra perfin…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/nidaba-1982-bistrot-veneto/",
+        "pubDate": "2026-05-18T08:35:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Torino ha aperto il primo specialty coffee dentro un museo (con giardino segreto)",
+        "description": "Bar Baglio riporta in vita la storica caffetteria della GAM di Torino con specialty coffee, brunch, cocktail e una terrazza nascosta nel cuore del museo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/bar-baglio-gam-torino/",
+        "pubDate": "2026-05-18T08:00:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Abruzzo esiste un itinerario di 38 chilometri che sembra uscito da un’altra epoca",
+        "description": "Dal mulino ritrovato di Poggio Umbricchio alla trattoria Il Porcellino, passando per Montorio, Teramo e Campli: una guida lenta tra borghi, trattorie e indirizz…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/itinerario-teramano-trattorie-borghi/",
+        "pubDate": "2026-05-18T07:48:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questa vecchia osteria si cucina ancora una faraona sigillata nella creta per 6 ore",
+        "description": "All’Antico Pavone, minuscola trattoria nella pianura tra Cremona e il Po, sopravvive una delle ricette più antiche e spettacolari della cucina padana: la faraon…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/trattoria-antico-pavone-faraona-creta/",
+        "pubDate": "2026-05-18T07:30:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Sardegna esiste una pasta che nessuna macchina riesce a fare",
+        "description": "Si chiamano lorighittas e nascono a Morgongiori, piccolo borgo nel cuore della Sardegna: una pasta intrecciata a mano da secoli che richiede ore di lavoro e una…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lorighittas-pasta-sarda-mano/",
+        "pubDate": "2026-05-18T07:17:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tenuta del Paguro: il vino affinato in mare al largo di Ravenna",
+        "description": "A circa trenta metri di profondità, nel mare Adriatico al largo di Ravenna, Tenuta del Paguro affida i suoi vini al mare. Metodo di affinamento subacqueo che po…",
+        "link": "https://www.winemag.it/tenuta-del-paguro-il-vino-affinato-in-mare-al-largo-di-ravenna-romagna-doc-albana-squilla-mantis/",
+        "pubDate": "2026-05-18T07:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Tenuta-del-Paguro-il-vino-affinato-in-mare-al-largo-di-Ravenna-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Rete Enoturismo Sardegna, progetto pilota per vino e turismo dell’isola",
+        "description": "La Rete Enoturismo Sardegna (RES) punta a costruire un modello organizzato di enoturismo regionale. Il progetto pilota è finanziato dall’Assessorato dell’Agrico…",
+        "link": "https://www.winemag.it/rete-enoturismo-sardegna-progetto-pilota-per-vino-e-turismo-dellisola/",
+        "pubDate": "2026-05-18T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ho cenato con due annate di Ben Ryé Donnafugata senza abbinarle al dolce",
+        "description": "L'ultima visita a Pantelleria insegna che Ben Ryé non è (solo) un vino da relegare al finale. È un passito, certo. È uno dei vini dolci italiani più riconosciut…",
+        "link": "https://www.winemag.it/ho-cenato-con-due-annate-di-ben-rye-donnafugata-senza-abbinarle-al-dolce/",
+        "pubDate": "2026-05-18T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Ben-Rye-Il-Vino-Passito-di-Pantelleria-e-i-suoi-nuovi-abbinamenti-due-annate-di-Ben-Rye-Donnafugata-senza-abbinarle-al-dolce-passito-di-pantelleria-2013-2017-sicilia-en-primeur-2026-jose-rallo-5-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Nuova Cantina del Cabreo, Ambrogio e Giovanni Folonari Tenute inaugurano il tempio dei Supertuscan nel Chianti",
         "description": "A Greve in Chianti è stata inaugurata la nuova Cantina del Cabreo di Ambrogio e Giovanni Folonari Tenute, struttura dedicata alla produzione dei Supertuscan del…",
@@ -444,105 +453,6 @@
         "link": "https://www.dissapore.com/notizie/la-fao-e-preoccupata-per-le-plastiche-nelle-confezioni-alimentari-riciclate/",
         "pubDate": "2026-05-16T15:53:57+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/plastica-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I ristoranti italiani nel mondo resistono al dilagare dei fast food",
-        "description": "Le anticipazioni del rapporto 2026 di Deloitte segnalano il fatto che i ristoranti italiani tengono, anche se il mercato si sta spostando.\nL'articolo I ristoran…",
-        "link": "https://www.dissapore.com/notizie/i-ristoranti-italiani-nel-mondo-resistono-al-dilagare-dei-fast-food/",
-        "pubDate": "2026-05-16T14:46:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pizzeria-new-york-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ha smesso di fare il pane di Altamura e ha aperto un locale con solo 8 posti",
-        "description": "Dopo aver lasciato la produzione del celebre pane di Altamura Dop, Mauro Petronella ha aperto Spazio: otto posti, brunch identitari, specialty coffee e vini nat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/spazio-altamura-mauro-petronella/",
-        "pubDate": "2026-05-16T12:36:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fermi tutti: il cono alla Nutella lo vogliamo anche noi",
-        "description": "Negli USA arriva un'altra novità Nutella, e noi stiamo a guardare. L'occasione persa per un'estate all'insegna del gelato confezionato. \nL'articolo Fermi tutti:…",
-        "link": "https://www.dissapore.com/notizie/fermi-tutti-il-cono-alla-nutella-lo-vogliamo-anche-noi/",
-        "pubDate": "2026-05-16T08:48:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/nutella-peanut-1-scaled-e1777115822769.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Meno muscolari, più freschi: i vini italiani del futuro vengono da due territori fuori dai soliti circuiti",
-        "description": "Ecco come sta cambiando la geografia vitivinicola del valore secondo il report di Knight Frank. Ad avere la meglio sono quelle aree capaci di creare modelli ada…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vini-meno-muscolari-piu-freschi-territori-futuro/",
-        "pubDate": "2026-05-16T08:29:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Non possiamo servirti”: perché molti celiaci vengono ancora rimandati a casa",
-        "description": "Valentina Pagliuso, vicepresidente di Celiakè APS, racconta le difficoltà quotidiane dei celiaci tra locali impreparati, paura della contaminazione e ristoranti…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/celiachia-ristoranti-clienti-gluten-free/",
-        "pubDate": "2026-05-16T07:51:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In questa cantina della Napa Valley i dipendenti portano i figli al lavoro",
-        "description": "Da quasi trent’anni la Honig Vineyard &#038; Winery, nella Napa Valley, permette ai dipendenti di portare i figli piccoli al lavoro: una scelta rara nel mondo d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantina-napa-valley-figli-lavoro/",
-        "pubDate": "2026-05-16T07:39:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il bar romano senza social dove si trovano ancora dolci quasi spariti",
-        "description": "Innocenti, storica pasticceria di Roma Ovest, continua a servire budini di riso, bavaresi, gelatine e dolci vintage in un’atmosfera rimasta ferma ai primi anni …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dolci-rari-vintage-innocenti-roma-ovest-pasticceria/",
-        "pubDate": "2026-05-16T05:36:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lavorava dietro le quinte di Masterchef, oggi cucina quello che tutti buttano",
-        "description": "Con oltre 260mila follower, Alessio Cicchini, conosciuto sui social come Rucoolaaa, insegna a trasformare bucce, gambi e avanzi in ricette creative contro lo sp…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/rucoolaaa-masterchef-cucina-antispreco/",
-        "pubDate": "2026-05-15T13:53:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Storti con la panna: il dolce veneto dimenticato che faceva piangere i bambini quando finiva",
-        "description": "Piccoli coni croccanti ripieni di panna montata, venduti per decenni nei mercati del Veneto: gli storti con la panna stanno tornando grazie a gelaterie e artigi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storti-con-panna-dolce-veneto/",
-        "pubDate": "2026-05-15T13:40:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cos’è l’Oìa Pistada, necessità che si è fatta liturgia",
-        "description": "Schiacciare l'oliva e farne una merenda, oggi un aperitivo. L'oia pistata (oliva pestata) è un Prodotto Agroalimentare Tradizionale sardo semplicissimo, quanto …",
-        "link": "https://www.dissapore.com/cucina/oia-pistada/",
-        "pubDate": "2026-05-15T13:03:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/orro-oia-pistada-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "De Martin a Cordignano: un buon gelato artigianale, in provincia, si può fare",
-        "description": "Fare il gelato in provincia è una cosa diversa. Eppure si può essere bravi e brillanti lo stesso, anche senza scomodare il gusto Lotus Biscoff. Lo dimostra la s…",
-        "link": "https://www.dissapore.com/locali/gelateria-de-martin-da-gasparetto-a-cordignano-recensione/",
-        "pubDate": "2026-05-15T08:15:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelato-de-martin.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
