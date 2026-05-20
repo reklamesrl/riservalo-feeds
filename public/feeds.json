@@ -1,7 +1,52 @@
 {
-  "generated": "2026-05-20T15:22:24.064857+00:00",
+  "generated": "2026-05-20T20:15:54.102757+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "L’esempio del governo inglese, che tratta con i supermercati perché abbassino i prezzi",
+        "description": "In Inghilterra si valuta l'ipotesi di un calmiere volontario dei prezzi di alcuni beni di prima necessità: ancora non ci sono conferme, ma i supermercati reagis…",
+        "link": "https://www.dissapore.com/notizie/lesempio-del-governo-inglese-che-tratta-con-i-supermercati-perche-abbassino-i-prezzi/",
+        "pubDate": "2026-05-20T17:51:56+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/supermercato-cesto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "5 idee last-minute per rinnovare il balcone in vista dell’estate: la 4 è anche economica!",
+        "description": "Arredi salvaspazio, pavimenti modulari e dettagli green: bastano poche mosse mirate per trasformare anche il balcone più piccolo in uno spazio elegante e vivibi…",
+        "link": "https://www.stylosophy.it/articolo/idee-last-minute-per-rinnovare-il-balcone-in-vista-dellestate/250963/",
+        "pubDate": "2026-05-20T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Quanto costa una brioscia con gelato, al gelatiere",
+        "description": "Nella polemica sul supposto \"caro-bioscia\" interviene anche la Fipe, e noi abbiamo chiesto agli artigiani quanto spendono per produrre la brioche col tuppo. O p…",
+        "link": "https://www.dissapore.com/locali/quanto-costa-una-brioscia-con-gelato-al-gelatiere/",
+        "pubDate": "2026-05-20T16:00:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/brioche-gelato-mano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I borghi in pietra più belli d’Europa da visitare almeno una volta",
+        "description": "Dalla Francia alla Grecia, passando per Italia e Spagna: i villaggi in pietra più affascinanti d’Europa conquistano con panorami e atmosfere autentiche.…",
+        "link": "https://www.stylosophy.it/articolo/i-borghi-in-pietra-piu-belli-deuropa-da-visitare-almeno-una-volta/250954/",
+        "pubDate": "2026-05-20T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il sushi di cavallo nato in Puglia durante il Covid ora è diventato anche un ramen",
+        "description": "Domenico Marcone ha unito la tradizione coratina alla cucina asiatica: prima i roll con battuta di cavallo diventati virali durante il Covid, poi un ramen studi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sushi-cavallo-puglia-ramen-corato/",
+        "pubDate": "2026-05-20T15:31:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Melody, le caramelle indiane che volano in borsa grazie all’influenza di Giorgia Meloni",
         "description": "La nostra premier e quello indiano se la intendono sui social dal 2023 con l'hashtag #Melodi, oggi suggellato da una marca di caramelle toffee indiane, il cui v…",
@@ -19,6 +64,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Romantiche e femminili, le bluse in stile bohémien sono la macro-tendenza di stagione: ecco i modelli da mettere in wish list",
+        "description": "Per la SS26 le tendenze boho abbandonano temporaneamente le classiche influenze folk e squisitamente rétro che fino a ora hanno dominato la scena fashion, per r…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/bluse-pizzo-volant-ruches-stile-bohemien-estate-2026-camicie-romantiche-particolari-972966",
+        "pubDate": "2026-05-20T14:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_bluse_romantiche.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Wine-Searcher è stato venduto al miliardario francese Olivier Goudet. Ecco cosa cambierà per il Google del vino",
@@ -127,63 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Mediobanca, vino italiano 2025: vendite in calo, export giù. Mercato più selettivo",
-        "description": "Nel 2025 il settore vinicolo italiano ha registrato un calo delle vendite complessive del 2,8% rispetto al 2024. A pesare sono stati soprattutto l’export, in fl…",
-        "link": "https://www.winemag.it/mediobanca-vino-italiano-2025-vendite-in-calo-export-giu-mercato-piu-selettivo/",
-        "pubDate": "2026-05-20T10:06:58+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Franciacorta-2025-positivo.-Calendario-internazionale-per-il-2026.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Scarpe da jazz: questa primavera sono loro la migliore alternativa a ballerine e mocassini",
-        "description": "Sneakerine, ballerine, mocassini: la lista delle calzature su cui si può contare in questo periodo dell’anno è lunghissima. Ma attenzione: c’è un’altra alternat…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-da-jazz-tendenza-danza-donna-primavera-comode-charlize-theron-973955",
-        "pubDate": "2026-05-20T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Scarpe_allacciate.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’anno nero dei grandi brand del vino: nel 2025 giù margini e ricavi. Chi si salva (e chi no) nel Report Mediobanca",
-        "description": "Nella consueta classifica sui ricavi, su 16 brand solo tre hanno registrato un segno più. Ma l'appesantimento patrimoniale pesa soprattutto sulle piccole impres…",
-        "link": "https://www.gamberorosso.it/notizie/vino/bilanci-imprese-vino-2025-report-mediobanca/",
-        "pubDate": "2026-05-20T09:48:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sono queste le ciprie compatte da provare per un make up perfetto anti-lucido",
-        "description": "Un must del beauty case da avere sempre a portata di mano? La cipria compatta, per dire addio alla pelle lucida. Ecco le migliori del momento da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/sono-queste-le-ciprie-compatte-da-provare-per-un-make-up-perfetto-anti-lucido/250906/",
-        "pubDate": "2026-05-20T09:00:00+00:00",
+        "title": "5 idee last-minute per rinnovare il balcone in vista dell’estate: la 4 è anche economica!",
+        "description": "Arredi salvaspazio, pavimenti modulari e dettagli green: bastano poche mosse mirate per trasformare anche il balcone più piccolo in uno spazio elegante e vivibi…",
+        "link": "https://www.stylosophy.it/articolo/idee-last-minute-per-rinnovare-il-balcone-in-vista-dellestate/250963/",
+        "pubDate": "2026-05-20T17:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Come riconoscere un cornetto al burro da uno fatto con la margarina",
-        "description": "Paghiamo fior di quattrini per finti cornetti artigianali fatti di margarina. Insieme al pasticciere Armando Palmieri vi spieghiamo come riconoscere al palato l…",
-        "link": "https://www.dissapore.com/locali/come-riconoscere-un-cornetto-al-burro-da-uno-fatto-con-la-margarina/",
-        "pubDate": "2026-05-20T08:40:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/cornetto_4.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "I borghi in pietra più belli d’Europa da visitare almeno una volta",
+        "description": "Dalla Francia alla Grecia, passando per Italia e Spagna: i villaggi in pietra più affascinanti d’Europa conquistano con panorami e atmosfere autentiche.…",
+        "link": "https://www.stylosophy.it/articolo/i-borghi-in-pietra-piu-belli-deuropa-da-visitare-almeno-una-volta/250954/",
+        "pubDate": "2026-05-20T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
-      {
-        "title": "È morto Ercolino, il re delle pizzette che ha cresciuto generazioni di pescaresi",
-        "description": "Con le sue pizzette tonde e il celebre calzone davanti al liceo classico di Pescara, Ercole “Ercolino” Calchi è stato per decenni molto più di un pizzaiolo: un …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-ercolino-pescara-pizzette/",
-        "pubDate": "2026-05-20T08:01:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Hailey Bieber è il volto della nuova collezione Summer 2026 di Mango",
         "description": "Hailey Bieber è il volto della nuova campagna estiva di Mango, Craft Your Own Story: qui di seguito per tutti i dettagli.…",
@@ -192,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Romantiche e femminili, le bluse in stile bohémien sono la macro-tendenza di stagione: ecco i modelli da mettere in wish list",
+        "description": "Per la SS26 le tendenze boho abbandonano temporaneamente le classiche influenze folk e squisitamente rétro che fino a ora hanno dominato la scena fashion, per r…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/bluse-pizzo-volant-ruches-stile-bohemien-estate-2026-camicie-romantiche-particolari-972966",
+        "pubDate": "2026-05-20T14:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_bluse_romantiche.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Sharon Stone è la regina indiscussa di Cannes 2026: ma guarda qui cosa nasconde il suo Look!",
@@ -320,15 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Alicia Vikander sfila sul red carpet di Cannes 2026 con un meraviglioso look firmato Louis Vuitton",
-        "description": "Alicia Vikander ha sfilato sul red carpet di Cannes 2026 con un look firmato Louis Vuitton.…",
-        "link": "https://www.stylosophy.it/articolo/alicia-vikander-sfila-sul-red-carpet-di-cannes-2026-con-un-meraviglioso-look-firmato-louis-vuitton/250879/",
-        "pubDate": "2026-05-18T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Le scarpe più chic da indossare a 60 anni? Le slingback bianche basse, eleganti e comodissime (approvate anche da Demi Moore che le ha sfoggiate a Cannes)",
         "description": "È sicuramente una delle celeb più chiacchierate del Festival di Cannes 2026 e fino ad ora non ha sbagliato un colpo: Demi Moore si è assicurata un posto in cima…",
         "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-piu-chic-da-indossare-a-60-anni-slingback-bianche-basse-demi-moore-cannes-eleganti-comode-tacco-largo-973265",
@@ -338,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Qui i profumi al limone per dare una scossa alle giornate di Primavera",
-        "description": "I profumi più freschi della Primavera sono quelli al limone, un booster di energia e leggerezza. Ecco i più validi da acquistare ora...…",
-        "link": "https://www.stylosophy.it/articolo/qui-i-profumi-al-limone-per-dare-una-scossa-alle-giornate-di-primavera/250871/",
-        "pubDate": "2026-05-18T09:20:16+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Rome Fashion Path 2026: sei giorni di moda diffusa nella Capitale",
         "description": "Non una fashion week nel senso tradizionale del termine, ma un ecosistema creativo in evoluzione. Così si potrebbe definire Rome Fashion Path, manifestazione di…",
         "link": "https://www.grazia.it/moda/news-moda/rome-fashion-path-2026-moda-diffusa-nella-capitale-973171",
@@ -354,18 +363,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/rome-fashion-path-2026.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "I sandali infradito con il tacco sono le scarpe più versatili della Primavera Estate 2026",
-        "description": "I sandali infradito con tacco sono tra le scarpe protagoniste della moda primavera estate 2026. Ispirate ai modelli iconici degli anni Novanta, quando questi sa…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-infradito-donna-con-tacco-medio-thong-heels-modelli-primavera-estate-2026-971575",
-        "pubDate": "2026-05-18T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_infradito_tacco.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "L’esempio del governo inglese, che tratta con i supermercati perché abbassino i prezzi",
+        "description": "In Inghilterra si valuta l'ipotesi di un calmiere volontario dei prezzi di alcuni beni di prima necessità: ancora non ci sono conferme, ma i supermercati reagis…",
+        "link": "https://www.dissapore.com/notizie/lesempio-del-governo-inglese-che-tratta-con-i-supermercati-perche-abbassino-i-prezzi/",
+        "pubDate": "2026-05-20T17:51:56+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/supermercato-cesto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Quanto costa una brioscia con gelato, al gelatiere",
+        "description": "Nella polemica sul supposto \"caro-bioscia\" interviene anche la Fipe, e noi abbiamo chiesto agli artigiani quanto spendono per produrre la brioche col tuppo. O p…",
+        "link": "https://www.dissapore.com/locali/quanto-costa-una-brioscia-con-gelato-al-gelatiere/",
+        "pubDate": "2026-05-20T16:00:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/brioche-gelato-mano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il sushi di cavallo nato in Puglia durante il Covid ora è diventato anche un ramen",
+        "description": "Domenico Marcone ha unito la tradizione coratina alla cucina asiatica: prima i roll con battuta di cavallo diventati virali durante il Covid, poi un ramen studi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sushi-cavallo-puglia-ramen-corato/",
+        "pubDate": "2026-05-20T15:31:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Melody, le caramelle indiane che volano in borsa grazie all’influenza di Giorgia Meloni",
         "description": "La nostra premier e quello indiano se la intendono sui social dal 2023 con l'hashtag #Melodi, oggi suggellato da una marca di caramelle toffee indiane, il cui v…",
@@ -502,15 +529,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "È morto Ercolino, il re delle pizzette che ha cresciuto generazioni di pescaresi",
-        "description": "Con le sue pizzette tonde e il celebre calzone davanti al liceo classico di Pescara, Ercole “Ercolino” Calchi è stato per decenni molto più di un pizzaiolo: un …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-ercolino-pescara-pizzette/",
-        "pubDate": "2026-05-20T08:01:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Quando la Doc finisce in questura",
         "description": "C’è un momento, nella vita di ogni denominazione del vino, in cui bisogna scegliere cosa diventare da grandi. Un vino identitario. Un simbolo territoriale. Una …",
         "link": "https://www.winemag.it/quando-la-doc-finisce-in-questura/",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/notizie/modena-si-stringe-intorno-allo-chef-investito-e-bottura-ricorda-di-che-pasta-e-fatta-la-citta/",
         "pubDate": "2026-05-19T16:49:41+00:00",
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Assoenologi, a Conegliano il 79° Congresso nazionale tra mercati, giovani e nuove sfide del vino",
-        "description": "Dal 28 al 30 maggio 2026 Conegliano ospiterà il 79° Congresso nazionale di Assoenologi, appuntamento dedicato al mondo dell’enologia e della vitivinicoltura ita…",
-        "link": "https://www.winemag.it/assoenologi-a-conegliano-il-79-congresso-nazionale-tra-mercati-giovani-e-nuove-sfide-del-vino/",
-        "pubDate": "2026-05-19T14:43:03+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il risotto pronto da cuocere che vi farà cambiare idea sui risotti pronti",
-        "description": "Il risotto (ma anche il ramen e la paella) pronto da cuocere a partire da varietà ricercate. Una soluzione pratica e gastronomica per avere ricette complesse, p…",
-        "link": "https://www.dissapore.com/spesa/il-risotto-pronto-da-cuocere-che-vi-fara-cambiare-idea-sui-risotti-pronti/",
-        "pubDate": "2026-05-19T14:30:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/ricetta-cremosa-origini-vignola-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
