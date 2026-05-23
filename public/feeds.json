@@ -1,7 +1,25 @@
 {
-  "generated": "2026-05-23T13:26:40.579535+00:00",
+  "generated": "2026-05-23T19:11:13.375000+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Allergie di primavera: 5 strategie efficaci per ridurre il polline in casa e respirare un’aria più pulita",
+        "description": "Dalla pulizia delle superfici alla gestione dell’aria interna, ecco come trasformare la casa in un ambiente più sano durante la stagione delle allergie.…",
+        "link": "https://www.stylosophy.it/articolo/allergie-di-primavera-strategie-efficaci-per-ridurre-il-polline-in-casa/251082/",
+        "pubDate": "2026-05-23T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Nestlé e Danone ancora nei guai: microplastiche negli alimenti per bambini",
+        "description": "Dopo lo scandalo delle tossine nel cibo per l'infanzia, Nestlé e Danone sono al centro di un rapporto di Greenpeace che vede numerose microplastiche presenti ne…",
+        "link": "https://www.dissapore.com/notizie/nestle-e-danone-ancora-nei-guai-microplastiche-negli-alimenti-per-bambini/",
+        "pubDate": "2026-05-23T13:52:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/nestle-stabilimento.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Monica Bellucci torna a Cannes dopo sette anni e lo fa in grande stile con un total black Look firmato Fendi",
         "description": "Monica Bellucci sfila sul red carpet di Cannes 2026 con un look total black firmato Fendi.…",
@@ -163,27 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Giulia Salemi brilla a Cannes 2026 con un meraviglioso abito scintillante firmato Roberto Cavalli",
-        "description": "Giulia Salemi sfila a Cannes 2026 sfoggiando un meraviglioso abito scintillante firmato Roberto Cavalli.…",
-        "link": "https://www.stylosophy.it/articolo/giulia-salemi-brilla-a-cannes-2026-con-un-meraviglioso-abito-scintillante-firmato-roberto-cavalli/251061/",
-        "pubDate": "2026-05-22T14:00:00+00:00",
+        "title": "Allergie di primavera: 5 strategie efficaci per ridurre il polline in casa e respirare un’aria più pulita",
+        "description": "Dalla pulizia delle superfici alla gestione dell’aria interna, ecco come trasformare la casa in un ambiente più sano durante la stagione delle allergie.…",
+        "link": "https://www.stylosophy.it/articolo/allergie-di-primavera-strategie-efficaci-per-ridurre-il-polline-in-casa/251082/",
+        "pubDate": "2026-05-23T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Maggio è il mese delle celebrazioni, dei grandi anniversari e dei piccoli gesti pieni di significato. Tra capsule arty, accessori del desiderio e omaggi alla do…",
-        "link": "https://www.grazia.it/moda/giovanni-raspini-gioielli-michael-kors-capsule-imperial-zanellato-borsa-pantofola-d-oro-villa-milano-150-anni-chopard-occhiali-974715",
-        "pubDate": "2026-05-22T13:14:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/Senza-titolo-127.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Monica Bellucci torna a Cannes dopo sette anni e lo fa in grande stile con un total black Look firmato Fendi",
         "description": "Monica Bellucci sfila sul red carpet di Cannes 2026 con un look total black firmato Fendi.…",
@@ -329,15 +338,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Georgina Rodriguez brilla a Cannes 2026 con il suo Look firmato Georges Hobeika e gioielli Chopard",
-        "description": "Georgina Rodriguez incanta tutti al Festival di Cannes 2026 con il suo look firmato Georges Hobeika: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/georgina-rodriguez-brilla-a-cannes-2026-con-il-suo-look-firmato-georges-hobeika-e-gioielli-chopard/251012/",
-        "pubDate": "2026-05-21T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Louis Vuitton Cruise 2027: l’incontro tra arte, rock e storia nel cuore di New York",
         "description": "Louis Vuitton Cruise 2027 approda a New York e trasforma la storica The Frick Collection in un palcoscenico dove arte, storia e moda contemporanea entrano in di…",
         "link": "https://www.grazia.it/moda/news-moda/louis-vuitton-cruise-2027-new-york-sfilata-omaggio-keith-haring-celeb-zendaya-cate-blanchett-974264",
@@ -366,6 +366,15 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Nestlé e Danone ancora nei guai: microplastiche negli alimenti per bambini",
+        "description": "Dopo lo scandalo delle tossine nel cibo per l'infanzia, Nestlé e Danone sono al centro di un rapporto di Greenpeace che vede numerose microplastiche presenti ne…",
+        "link": "https://www.dissapore.com/notizie/nestle-e-danone-ancora-nei-guai-microplastiche-negli-alimenti-per-bambini/",
+        "pubDate": "2026-05-23T13:52:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/nestle-stabilimento.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "L’ex boss di BrewDog ci riprova: Second Best è il suo nuovo marchio di birra",
         "description": "James Watt cerca un rilancio personale e un modo per sistemare i conti con i piccoli investitori che hanno perso le loro quote nella caduta di BrewDog.\nL'artico…",
@@ -512,7 +521,7 @@
       },
       {
         "title": "Record Concorso Vermentino 2026 in Gallura: 382 campioni e 100 vini esteri",
-        "description": "Si apre oggi ad Arzachena il Concorso Enologico Internazionale del Vermentino 2026. L’edizione segna già un record nel numero di campioni mai registrato nella s…",
+        "description": "Si apre oggi ad Arzachena il Concorso Enologico Internazionale del Vermentino 2026, ospitato dal prestigioso IPSAR Costa Smeralda di Arzachena. L’edizione segna…",
         "link": "https://www.winemag.it/record-concorso-vermentino-2026-in-gallura-382-campioni-e-100-vini-esteri/",
         "pubDate": "2026-05-21T22:30:32+00:00",
         "image": "https://www.winemag.it/wp-content/uploads/2026/05/Terenzuola-di-Ivan-Giuliani-manifesto-futurista-tra-Liguria-e-Toscana-1.jpg",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/frutti-blu-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Christian Marchesini confermato presidente del Consorzio tutela vini Valpolicella fino al 2028",
-        "description": "Christian Marchesini guiderà il Consorzio tutela vini Valpolicella fino al 2028. L’elezione all’unanimità è arrivata oggi durante la prima seduta del nuovo Cons…",
-        "link": "https://www.winemag.it/christian-marchesini-confermato-presidente-consorzio-tutela-vini-valpolicella-fino-2028/",
-        "pubDate": "2026-05-21T13:42:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
