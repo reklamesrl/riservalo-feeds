@@ -1,7 +1,61 @@
 {
-  "generated": "2026-05-23T19:11:13.375000+00:00",
+  "generated": "2026-05-24T08:29:55.052325+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La battaglia di Carlo Petrini contro gli allevamenti in gabbia sta cambiando l’Europa",
+        "description": "Dal movimento europeo End the Cage Age alla nuova legge italiana sugli allevamenti cage-free: una delle eredità più importanti di Carlo Petrini passa dalla lott…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/carlo-petrini-gabbie-allevamenti-cage-free/",
+        "pubDate": "2026-05-24T07:39:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante più estremo del mondo è su un’isola sperduta nell’Atlantico: ha già 2 stelle Michelin",
+        "description": "Nel cuore di Tórshavn, alle Isole Faroe, lo chef Poul Andrias Ziska ha aperto Paz, che racconta il Nord Atlantico attraverso fermentazioni ancestrali, mare glac…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/paz-isole-faroe-poul-andrias-ziska-michelin/",
+        "pubDate": "2026-05-24T07:10:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Germania vogliono salvare i supermarket di villaggio contro l’avanzata dell’estrema destra",
+        "description": "Un programma di fondi statali prevede di automatizzare le botteghe delle aree rurali per renderle fruibili anche senza personale, così sopravvivono.\nL'articolo …",
+        "link": "https://www.dissapore.com/notizie/in-germania-vogliono-salvare-i-supermarket-di-villaggio-contro-lavanzata-dellestrema-destra/",
+        "pubDate": "2026-05-24T06:59:59+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/dorfladen-negozio-ibrido.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La trattoria partigiana di Milano dove si mangia bene con 25 euro (e sembra ancora il 1979)",
+        "description": "Alla Cooperativa La Liberazione 1945, tra Ortica e Calvairate, si mangiano cotoletta, trippa e rognone in un universo parallelo fatto di memorabilia partigiane,…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/cooperativa-liberazione-trattoria-partigiana-milano/",
+        "pubDate": "2026-05-24T05:53:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che fine ha fatto la coviglia: dove mangiare a Napoli il semifreddo amato dalla principessa Sissi",
+        "description": "Tra caffè storici, pasticcerie centenarie e gelaterie di provincia, ecco dove assaggiare ancora la coviglia, l’antico semifreddo napoletano nato tra Seicento e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-coviglia-napoli/",
+        "pubDate": "2026-05-24T05:29:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vino, accise Ue e vendite a distanza: verso uno sportello unico europeo entro il 2027",
+        "description": "La Commissione europea apre alla possibilità di uno “sportello unico” per le accise sul vino venduto a distanza all’interno dell’Unione europea. Il tema riguard…",
+        "link": "https://www.winemag.it/vino-accise-ue-e-vendite-a-distanza-verso-uno-sportello-unico-europeo-entro-il-2027/",
+        "pubDate": "2026-05-24T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Allergie di primavera: 5 strategie efficaci per ridurre il polline in casa e respirare un’aria più pulita",
         "description": "Dalla pulizia delle superfici alla gestione dell’aria interna, ecco come trasformare la casa in un ambiente più sano durante la stagione delle allergie.…",
@@ -120,15 +174,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Scanno c’è una trattoria dove mangiare pasta fatta a mano come una volta",
-        "description": "Nel borgo di Scanno c’è una trattoria dove il tempo sembra essersi fermato: tovaglie a quadri e ricette abruzzesi che sanno di casa. Da La Porta si mangia una g…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-porta-scanno-trattoria-abruzzo/",
-        "pubDate": "2026-05-23T05:18:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Letrari: tre nuovi Trentodoc per festeggiare i 50 anni",
         "description": "Cinquant’anni di attività attraverso tre generazioni. Una visone chiara: valorizzare la Vallagarina attraverso vini capaci di evolvere nel tempo. La cantina Let…",
         "link": "https://www.winemag.it/letrari-tre-nuovi-trentodoc-per-festeggiare-i-50-anni/",
@@ -136,51 +181,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/05/Letrari-tre-nuovi-Trentodoc-per-festeggiare-i-50-anni-2.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "The Masie presenta “Golden Hours”: la nuova collezione outdoor",
-        "description": "Con “Golden Hours” The Masie interpreta il nuovo lusso outdoor attraverso colore, materia e design, per terrazze e giardini belli ed eleganti dalla mattina fino…",
-        "link": "https://www.stylosophy.it/articolo/the-masie-presenta-golden-hours-la-nuova-collezione-outdoor/251051/",
-        "pubDate": "2026-05-22T17:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "È più facile immaginare la fine del mondo che il mondo senza Carlo Petrini",
-        "description": "Riuscite a pensare a una timeline in cui non c’è mai stata la rivoluzione gentile di Slow Food?\nL'articolo È più facile immaginare la fine del mondo che il mond…",
-        "link": "https://www.dissapore.com/alimentazione/e-piu-facile-immaginare-la-fine-del-mondo-che-il-mondo-senza-carlo-petrini/",
-        "pubDate": "2026-05-22T16:04:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/Carlo-Petrini_4-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Piccole isole italiane da scoprire in primavera: le mete più autentiche tra mare, natura e relax",
-        "description": "In primavera le piccole isole italiane tornano accessibili e vivibili, lontane dal turismo di massa. Un itinerario tra Mediterraneo e riserve naturali, tra mare…",
-        "link": "https://www.stylosophy.it/articolo/piccole-isole-italiane-da-scoprire-in-primavera/251033/",
-        "pubDate": "2026-05-22T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Abbiamo imparato a sognare grazie a Carlin Petrini”. Il ricordo di Eugenio Signoroni di Slow Food",
-        "description": "Il cibo come strumento collettivo per sognare, capire il mondo e cambiarlo: gli insegnamenti di Petrini nelle parole d'affetto del critico gastronomico Signoron…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/carlin-petrini-ricordo-eugenio-signoroni-slow-food/",
-        "pubDate": "2026-05-22T14:44:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Via libera all’entrata in Europa dei prodotti Usa a dazio zero. Ecco cosa prevede l’accordo",
-        "description": "Intesa tra Parlamento e Consiglio europeo su tariffe industriali e accesso al mercato. Eliminati i dazi su molti alimenti Usa, in linea con la dichiarazione Ue-…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/accordo-ue-usa-dazi-zero-prodotti-agricoli-ittici-statunitensi/",
-        "pubDate": "2026-05-22T14:24:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,60 @@
     ],
     "lifestyle": [
       {
+        "title": "La battaglia di Carlo Petrini contro gli allevamenti in gabbia sta cambiando l’Europa",
+        "description": "Dal movimento europeo End the Cage Age alla nuova legge italiana sugli allevamenti cage-free: una delle eredità più importanti di Carlo Petrini passa dalla lott…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/carlo-petrini-gabbie-allevamenti-cage-free/",
+        "pubDate": "2026-05-24T07:39:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante più estremo del mondo è su un’isola sperduta nell’Atlantico: ha già 2 stelle Michelin",
+        "description": "Nel cuore di Tórshavn, alle Isole Faroe, lo chef Poul Andrias Ziska ha aperto Paz, che racconta il Nord Atlantico attraverso fermentazioni ancestrali, mare glac…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/paz-isole-faroe-poul-andrias-ziska-michelin/",
+        "pubDate": "2026-05-24T07:10:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Germania vogliono salvare i supermarket di villaggio contro l’avanzata dell’estrema destra",
+        "description": "Un programma di fondi statali prevede di automatizzare le botteghe delle aree rurali per renderle fruibili anche senza personale, così sopravvivono.\nL'articolo …",
+        "link": "https://www.dissapore.com/notizie/in-germania-vogliono-salvare-i-supermarket-di-villaggio-contro-lavanzata-dellestrema-destra/",
+        "pubDate": "2026-05-24T06:59:59+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/dorfladen-negozio-ibrido.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La trattoria partigiana di Milano dove si mangia bene con 25 euro (e sembra ancora il 1979)",
+        "description": "Alla Cooperativa La Liberazione 1945, tra Ortica e Calvairate, si mangiano cotoletta, trippa e rognone in un universo parallelo fatto di memorabilia partigiane,…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/cooperativa-liberazione-trattoria-partigiana-milano/",
+        "pubDate": "2026-05-24T05:53:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che fine ha fatto la coviglia: dove mangiare a Napoli il semifreddo amato dalla principessa Sissi",
+        "description": "Tra caffè storici, pasticcerie centenarie e gelaterie di provincia, ecco dove assaggiare ancora la coviglia, l’antico semifreddo napoletano nato tra Seicento e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-coviglia-napoli/",
+        "pubDate": "2026-05-24T05:29:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vino, accise Ue e vendite a distanza: verso uno sportello unico europeo entro il 2027",
+        "description": "La Commissione europea apre alla possibilità di uno “sportello unico” per le accise sul vino venduto a distanza all’interno dell’Unione europea. Il tema riguard…",
+        "link": "https://www.winemag.it/vino-accise-ue-e-vendite-a-distanza-verso-uno-sportello-unico-europeo-entro-il-2027/",
+        "pubDate": "2026-05-24T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Nestlé e Danone ancora nei guai: microplastiche negli alimenti per bambini",
         "description": "Dopo lo scandalo delle tossine nel cibo per l'infanzia, Nestlé e Danone sono al centro di un rapporto di Greenpeace che vede numerose microplastiche presenti ne…",
         "link": "https://www.dissapore.com/notizie/nestle-e-danone-ancora-nei-guai-microplastiche-negli-alimenti-per-bambini/",
@@ -448,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Scanno c’è una trattoria dove mangiare pasta fatta a mano come una volta",
-        "description": "Nel borgo di Scanno c’è una trattoria dove il tempo sembra essersi fermato: tovaglie a quadri e ricette abruzzesi che sanno di casa. Da La Porta si mangia una g…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-porta-scanno-trattoria-abruzzo/",
-        "pubDate": "2026-05-23T05:18:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Letrari: tre nuovi Trentodoc per festeggiare i 50 anni",
         "description": "Cinquant’anni di attività attraverso tre generazioni. Una visone chiara: valorizzare la Vallagarina attraverso vini capaci di evolvere nel tempo. La cantina Let…",
         "link": "https://www.winemag.it/letrari-tre-nuovi-trentodoc-per-festeggiare-i-50-anni/",
@@ -473,33 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/Carlo-Petrini_4-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "“Abbiamo imparato a sognare grazie a Carlin Petrini”. Il ricordo di Eugenio Signoroni di Slow Food",
-        "description": "Il cibo come strumento collettivo per sognare, capire il mondo e cambiarlo: gli insegnamenti di Petrini nelle parole d'affetto del critico gastronomico Signoron…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/carlin-petrini-ricordo-eugenio-signoroni-slow-food/",
-        "pubDate": "2026-05-22T14:44:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Via libera all’entrata in Europa dei prodotti Usa a dazio zero. Ecco cosa prevede l’accordo",
-        "description": "Intesa tra Parlamento e Consiglio europeo su tariffe industriali e accesso al mercato. Eliminati i dazi su molti alimenti Usa, in linea con la dichiarazione Ue-…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/accordo-ue-usa-dazi-zero-prodotti-agricoli-ittici-statunitensi/",
-        "pubDate": "2026-05-22T14:24:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Ostia ha riaperto l’unico chiosco su spiaggia libera del litorale",
-        "description": "Dopo settimane di stop e lavori di adeguamento, riapre Hakuna Matata, l’unico chiosco su spiaggia libera a Ostia. Resta però aperto il caso dei manufatti per di…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ostia-chiosco-spiaggia-libera-roma-hakuna-matata/",
-        "pubDate": "2026-05-22T10:58:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Starbucks rinuncia alla sua intelligenza artificiale per fare l’inventario a mano",
@@ -527,24 +545,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/05/Terenzuola-di-Ivan-Giuliani-manifesto-futurista-tra-Liguria-e-Toscana-1.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Un sugo pronto lancia il tappo che ascolta le conversazioni in famiglia, ed è tutto sbagliato",
-        "description": "Un sugo in barattolo americano lancia un dispositivo da mettere al centro del tavolo per registrare le conversazioni in famiglia: dovrebbe aiutare l'interazione…",
-        "link": "https://www.dissapore.com/notizie/un-sugo-pronto-lancia-il-tappo-che-ascolta-le-conversazioni-in-famiglia-ed-e-tutto-sbagliato/",
-        "pubDate": "2026-05-21T17:34:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/prego-sugo-microfono.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Perché vogliamo il gelato azzurro?",
-        "description": "Controintuitivo e anti-biologico, il gusto puffo resiste al libro ingredienti che evolve. Si sottopone al greenwashing della spirulina pur di restare. Storia e …",
-        "link": "https://www.dissapore.com/locali/perche-vogliamo-il-gelato-azzurro/",
-        "pubDate": "2026-05-21T15:26:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/frutti-blu-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
