@@ -1,7 +1,25 @@
 {
-  "generated": "2026-05-24T13:27:11.755850+00:00",
+  "generated": "2026-05-24T19:18:15.680068+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "I social delle gelaterie sono più standardizzati del gelato che vendono",
+        "description": "Una dritta per distinguere le gelaterie artigianali da quelle che non lo sono? \"Il libro ingredienti\", suggerirebbe il saggio. Ma anche guardare ai social non è…",
+        "link": "https://www.dissapore.com/notizie/i-social-delle-gelaterie-sono-piu-standardizzati-del-gelato-che-vendono/",
+        "pubDate": "2026-05-24T16:57:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelaterie-trend.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Giugno in vacanza: 5 mete nel mondo dove trovare clima perfetto, giornate lunghe e meno folla",
+        "description": "Dalle spiagge della Grecia ai paesaggi dell’Islanda, giugno è il momento ideale per partire: temperature piacevoli, prezzi più accessibili e tantissime ore di l…",
+        "link": "https://www.stylosophy.it/articolo/giugno-mete-nel-mondo-dove-trovare-clima-perfetto-giornate-lunghe-e-meno-folla/251118/",
+        "pubDate": "2026-05-24T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Tilda Swinton ruba (di nuovo) la scena a Cannes 2026 con un total red Look firmato Chanel",
         "description": "Tilda Swinton torna a conquistare il red carpet di Cannes 2026 con un total red look firmato Chanel.…",
@@ -55,6 +73,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/ristorante-new-york-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Vestirsi di nero (anche) d’estate: i capi e gli accessori total black da avere",
+        "description": "Chi l’ha detto che il nero d’estate sia un tabù? Il total black estivo possiede un fascino magnetico, sofisticato e terribilmente cool. Il segreto per non soffr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-di-nero-d-estate-outfit-total-black-vestiti-neri-borse-scarpe-974288",
+        "pubDate": "2026-05-24T09:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "La battaglia di Carlo Petrini contro gli allevamenti in gabbia sta cambiando l’Europa",
@@ -111,6 +138,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
+        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
+        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
+        "pubDate": "2026-05-23T19:53:16+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-paris-jackson-venezia.jpeg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Allergie di primavera: 5 strategie efficaci per ridurre il polline in casa e respirare un’aria più pulita",
         "description": "Dalla pulizia delle superfici alla gestione dell’aria interna, ecco come trasformare la casa in un ambiente più sano durante la stagione delle allergie.…",
         "link": "https://www.stylosophy.it/articolo/allergie-di-primavera-strategie-efficaci-per-ridurre-il-polline-in-casa/251082/",
@@ -145,45 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/second-best-lattine-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Il cocktail di gamberi è tornato: il piatto anni ’80 che piace anche ai giovani",
-        "description": "Un antipasto simbolo degli anni ’80 torna protagonista: veloce, scenografico e sorprendentemente attuale nelle cucine dei più giovani, il cocktail di gamberi ha…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cocktail-gamberi-ritorno-anni-80-giovani/",
-        "pubDate": "2026-05-23T10:08:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nelle Isole Faroe esiste una cucina che sa di vento, fermentazione e oceano",
-        "description": "Tra fermentazioni ancestrali, ristoranti d’avanguardia e villaggi battuti dal vento, le Faroe stanno diventando una delle destinazioni gastronomiche più affasci…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/isole-faroe-cucina-vento-fermentazione-oceano/",
-        "pubDate": "2026-05-23T09:06:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I pantaloni in lino della Primavera: 5 modelli freschi e chic che ti invidieranno tutte!",
-        "description": "Il capo più gettonato della Primavera? I pantaloni in lino, eleganti, freschi e super glam. Ecco i più belli del momento da non lasciarsi sfuggire...…",
-        "link": "https://www.stylosophy.it/articolo/i-pantaloni-in-lino-della-primavera-5-modelli-freschi-e-chic-che-ti-invidieranno-tutte/251066/",
-        "pubDate": "2026-05-23T09:00:00+00:00",
+        "title": "Giugno in vacanza: 5 mete nel mondo dove trovare clima perfetto, giornate lunghe e meno folla",
+        "description": "Dalle spiagge della Grecia ai paesaggi dell’Islanda, giugno è il momento ideale per partire: temperature piacevoli, prezzi più accessibili e tantissime ore di l…",
+        "link": "https://www.stylosophy.it/articolo/giugno-mete-nel-mondo-dove-trovare-clima-perfetto-giornate-lunghe-e-meno-folla/251118/",
+        "pubDate": "2026-05-24T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Airbnb ora ti vuole portare la spesa anche in vacanza",
-        "description": "Novità estive per la piattaforma di prenotazione più discussa al mondo: ora, in 25 città degli States, si potrà fare la spesa a domicilio mentre si viaggia.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/airbnb-ora-ti-vuole-portare-la-spesa-anche-in-vacanza/",
-        "pubDate": "2026-05-23T08:24:43+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "Tilda Swinton ruba (di nuovo) la scena a Cannes 2026 con un total red Look firmato Chanel",
         "description": "Tilda Swinton torna a conquistare il red carpet di Cannes 2026 con un total red look firmato Chanel.…",
@@ -201,6 +210,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Vestirsi di nero (anche) d’estate: i capi e gli accessori total black da avere",
+        "description": "Chi l’ha detto che il nero d’estate sia un tabù? Il total black estivo possiede un fascino magnetico, sofisticato e terribilmente cool. Il segreto per non soffr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-di-nero-d-estate-outfit-total-black-vestiti-neri-borse-scarpe-974288",
+        "pubDate": "2026-05-24T09:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
+        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
+        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
+        "pubDate": "2026-05-23T19:53:16+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-paris-jackson-venezia.jpeg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Allergie di primavera: 5 strategie efficaci per ridurre il polline in casa e respirare un’aria più pulita",
@@ -284,15 +311,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Dimentica le solite catenine: sono le collane con Charms l’accessorio più trendy della bella stagione",
-        "description": "Colorate, simpatiche e divertenti, le collane con charms sono il must have della Primavera-Estate 2026. Ecco le più belle da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/dimentica-le-solite-catenine-sono-le-collane-con-charms-laccessorio-piu-trendy-della-bella-stagione/251002/",
-        "pubDate": "2026-05-22T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "No, la gonna midi nera non ci stanca proprio mai! Ecco 5 idee per abbinarla con stile dall’alba al tramonto",
         "description": "Ci sono trend che vanno e vengono, capi che improvvisamente finiscono sotto i riflettori, ci fanno cadere in tentazione e, una volta nell’armadio, rischiano di …",
         "link": "https://www.grazia.it/moda/tendenze-moda/gonna-midi-nera-come-indossare-idee-outfit-donna-primavera-street-style-elegante-974789",
@@ -329,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
-        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
-        "pubDate": "2026-05-22T05:33:44+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-cannes-day-11.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Louis Vuitton Cruise 2027: l’incontro tra arte, rock e storia nel cuore di New York",
         "description": "Louis Vuitton Cruise 2027 approda a New York e trasforma la storica The Frick Collection in un palcoscenico dove arte, storia e moda contemporanea entrano in di…",
         "link": "https://www.grazia.it/moda/news-moda/louis-vuitton-cruise-2027-new-york-sfilata-omaggio-keith-haring-celeb-zendaya-cate-blanchett-974264",
@@ -354,18 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Philippine-Leroy-Beaulieu.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Erano i sandali preferiti di Gwyneth Paltrow negli anni 90. E quest’estate saranno anche i vostri!",
-        "description": "Il mood nostalgia targato anni 90 e inizi 2000 non sembra perdere smalto, soprattutto se parliamo di moda! Il minimalismo che ha contraddistinto quel periodo è …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-infradito-con-zeppa-anni-90-gwyneth-paltrow-zara-mango-bershka-973883",
-        "pubDate": "2026-05-21T10:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/gwyneth-sandali-zeppa-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "I social delle gelaterie sono più standardizzati del gelato che vendono",
+        "description": "Una dritta per distinguere le gelaterie artigianali da quelle che non lo sono? \"Il libro ingredienti\", suggerirebbe il saggio. Ma anche guardare ai social non è…",
+        "link": "https://www.dissapore.com/notizie/i-social-delle-gelaterie-sono-piu-standardizzati-del-gelato-che-vendono/",
+        "pubDate": "2026-05-24T16:57:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelaterie-trend.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "“Alle Feste dell’Unità si mangia male: così Carlo Petrini ci insegnò che il cibo è politica”. Il ricordo di Massimo D’Alema",
         "description": "L'ex presidente del consiglio ricorda il fondatore di Slow Food come l'uomo che ha trasformato il cibo in una questione di piacere, giustizia, economia e futuro…",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/starbucks-rinuncia-alla-sua-intelligenza-artificiale-per-fare-linventario-a-mano/",
         "pubDate": "2026-05-22T09:53:41+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/starbucks-interno-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Addio a Carlin Petrini, l’uomo che ci ha insegnato come mangiare",
-        "description": "Il fondatore di Slow Food è mancato a 76 anni, lasciando in eredità la visione sul cibo che può salvare il Pianeta. \nL'articolo Addio a Carlin Petrini, l&#8217;…",
-        "link": "https://www.dissapore.com/notizie/addio-a-carlin-petrini-luomo-che-ci-ha-insegnato-come-mangiare/",
-        "pubDate": "2026-05-22T01:18:25+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
       }
