@@ -1,7 +1,25 @@
 {
-  "generated": "2026-05-25T14:54:32.046541+00:00",
+  "generated": "2026-05-25T19:40:41.291662+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Sklum lancia “Cook. Lounge. Repeat.”: la nuova collezione outdoor che trasforma terrazze e giardini",
+        "description": "Con la campagna “Cook. Lounge. Repeat.”, Sklum porta la cucina outdoor al centro della casa contemporanea insieme allo chef Mathis Molinié e a una selezione di …",
+        "link": "https://www.stylosophy.it/articolo/sklum-lancia-cook-lounge-repeat-la-nuova-collezione-outdoor/251151/",
+        "pubDate": "2026-05-25T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Compriamo uova ammuffite e chiudiamo pure Report: basta non vedere, per Coldiretti",
+        "description": "Invece di prendersela con gli allevamenti incriminati, il presidente di Coldiretti Ettore Prandini vorrebbe far chiudere Report, e mandare in onda trasmissioni …",
+        "link": "https://www.dissapore.com/notizie/compriamo-uova-ammuffite-e-chiudiamo-pure-report-basta-non-vedere-per-coldiretti/",
+        "pubDate": "2026-05-25T15:31:37+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/report-galline-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "La rabbia per l’Expo, i discorsi sotto l’olmo, l’attivismo politico. Petrini il visionario nel racconto dei suoi chef",
         "description": "Il ricordo di Carlin nelle parole dei cuochi che lo conoscevano bene ma anche di quelli che, pur non avendolo mai incontrato, lo considerano un modello. Battist…",
@@ -163,27 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/beaux-arts-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Quando l’acqua frizzante si faceva in casa con una bustina: storia dell’idrolitina italiana",
-        "description": "Negli anni ’60 bastava una bustina per trasformare l’acqua del rubinetto in una bevanda effervescente: l’idrolitina era il rito immancabile del dopocena italian…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/acqua-frizzante-bustina-storia-idrolitina/",
-        "pubDate": "2026-05-25T05:00:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I social delle gelaterie sono più standardizzati del gelato che vendono",
-        "description": "Una dritta per distinguere le gelaterie artigianali da quelle che non lo sono? \"Il libro ingredienti\", suggerirebbe il saggio. Ma anche guardare ai social non è…",
-        "link": "https://www.dissapore.com/notizie/i-social-delle-gelaterie-sono-piu-standardizzati-del-gelato-che-vendono/",
-        "pubDate": "2026-05-24T16:57:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelaterie-trend.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Sklum lancia “Cook. Lounge. Repeat.”: la nuova collezione outdoor che trasforma terrazze e giardini",
+        "description": "Con la campagna “Cook. Lounge. Repeat.”, Sklum porta la cucina outdoor al centro della casa contemporanea insieme allo chef Mathis Molinié e a una selezione di …",
+        "link": "https://www.stylosophy.it/articolo/sklum-lancia-cook-lounge-repeat-la-nuova-collezione-outdoor/251151/",
+        "pubDate": "2026-05-25T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Aurora Ramazzotti punta sul bordeaux: il colore elegante che domina (anche) la Primavera 2026",
         "description": "Per la cresima della sorella Celeste, Aurora Ramazzotti sceglie un look minimal ma di tendenza. Protagonista assoluto il bordeaux, abbinato ad accessori coordin…",
@@ -320,15 +329,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Piccole isole italiane da scoprire in primavera: le mete più autentiche tra mare, natura e relax",
-        "description": "In primavera le piccole isole italiane tornano accessibili e vivibili, lontane dal turismo di massa. Un itinerario tra Mediterraneo e riserve naturali, tra mare…",
-        "link": "https://www.stylosophy.it/articolo/piccole-isole-italiane-da-scoprire-in-primavera/251033/",
-        "pubDate": "2026-05-22T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Maggio è il mese delle celebrazioni, dei grandi anniversari e dei piccoli gesti pieni di significato. Tra capsule arty, accessori del desiderio e omaggi alla do…",
         "link": "https://www.grazia.it/moda/giovanni-raspini-gioielli-michael-kors-capsule-imperial-zanellato-borsa-pantofola-d-oro-villa-milano-150-anni-chopard-occhiali-974715",
@@ -366,6 +366,15 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Compriamo uova ammuffite e chiudiamo pure Report: basta non vedere, per Coldiretti",
+        "description": "Invece di prendersela con gli allevamenti incriminati, il presidente di Coldiretti Ettore Prandini vorrebbe far chiudere Report, e mandare in onda trasmissioni …",
+        "link": "https://www.dissapore.com/notizie/compriamo-uova-ammuffite-e-chiudiamo-pure-report-basta-non-vedere-per-coldiretti/",
+        "pubDate": "2026-05-25T15:31:37+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/report-galline-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "La rabbia per l’Expo, i discorsi sotto l’olmo, l’attivismo politico. Petrini il visionario nel racconto dei suoi chef",
         "description": "Il ricordo di Carlin nelle parole dei cuochi che lo conoscevano bene ma anche di quelli che, pur non avendolo mai incontrato, lo considerano un modello. Battist…",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Nestlé e Danone ancora nei guai: microplastiche negli alimenti per bambini",
-        "description": "Dopo lo scandalo delle tossine nel cibo per l'infanzia, Nestlé e Danone sono al centro di un rapporto di Greenpeace che vede numerose microplastiche presenti ne…",
-        "link": "https://www.dissapore.com/notizie/nestle-e-danone-ancora-nei-guai-microplastiche-negli-alimenti-per-bambini/",
-        "pubDate": "2026-05-23T13:52:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/nestle-stabilimento.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
