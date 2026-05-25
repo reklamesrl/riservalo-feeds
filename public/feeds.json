@@ -1,7 +1,79 @@
 {
-  "generated": "2026-05-24T19:18:15.680068+00:00",
+  "generated": "2026-05-25T10:07:56.191094+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "In memoria di Carlin Petrini nasceranno borse di studio per gastronomi e orti in Africa",
+        "description": "Slow Food destinerà le donazioni in ricordo di Carlo Petrini all'Unisg e a Orti in Africa. Un segnale per ribadire le basi del movimento: l'agroecologia e la cu…",
+        "link": "https://www.dissapore.com/notizie/in-memoria-di-carlin-petrini-nasceranno-borse-di-studio-per-gastronomi-e-orti-in-africa/",
+        "pubDate": "2026-05-25T09:43:45+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/funerale-laico-carlin-Petrini-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Make up effetto lifting: come minimizzare le rughe con i prodotti giusti (l’ultimo è un vero asso nella manica)",
+        "description": "5 Consigli e prodotti giusti per un make up impeccabile a prova di rughe. Da seguire alla lettera!…",
+        "link": "https://www.stylosophy.it/articolo/make-up-effetto-lifting-come-minimizzare-le-rughe-con-i-prodotti-giusti-lultimo-e-un-vero-asso-nella-manica/251133/",
+        "pubDate": "2026-05-25T09:01:10+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La dittatura delle recensioni: così le piattaforme ci mandano sempre negli stessi ristoranti",
+        "description": "Google Maps, TripAdvisor e le piattaforme di recensioni promettono di aiutarci a scoprire nuovi posti. Ma secondo uno studio stanno producendo l’effetto opposto…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/dittatura-recensioni-piattaforme-ristoranti-tripadvisor/",
+        "pubDate": "2026-05-25T08:51:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Concorso Internazionale Vermentino 2026, risultati e punteggi: le medaglie",
+        "description": "La Sardegna detta il passo, ma il Vermentino parla ormai una lingua internazionale. È questa la fotografia che emerge dal medagliere ufficiale del Concorso Enol…",
+        "link": "https://www.winemag.it/concorso-internazionale-vermentino-2026-risultati-e-punteggi-le-medaglie/",
+        "pubDate": "2026-05-25T08:39:52+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il primo Salone del Gusto non si scorda mai (ancora grazie Carlo Petrini)",
+        "description": "Quanta gente, quanti prodotti e quante storie si ritrovavano tutti assieme in quella piccola Italia del gusto in miniatura, ma vera. E, poi, c'era lui: quasi un…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricordo-prime-edizioni-salone-del-gusto-carlo-petrini/",
+        "pubDate": "2026-05-25T07:06:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Migliori gin per un gin tonic perfetto: quali scegliere per un equilibrio impeccabile",
+        "description": "Scopri i migliori gin per preparare un gin tonic premium. Una guida completa tra grandi classici, profili mediterranei e nuove eccellenze artigianali.…",
+        "link": "https://www.gustoblog.it/2026/05/25/migliori-gin-per-un-gin-tonic-perfetto-quali-scegliere-per-un-equilibrio-impeccabile/",
+        "pubDate": "2026-05-25T07:00:12+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Guy Savoy è il primo chef a diventare ufficialmente un artista",
+        "description": "L'Académie des Beaux Arts ha conferito la Legion d'Onore allo chef francese, sancendo di fatto che la gastronomia è arte. \nL'articolo Guy Savoy è il primo chef …",
+        "link": "https://www.dissapore.com/notizie/guy-savoy-e-il-primo-chef-a-diventare-ufficialmente-un-artista/",
+        "pubDate": "2026-05-25T05:39:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/beaux-arts-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Quando l’acqua frizzante si faceva in casa con una bustina: storia dell’idrolitina italiana",
+        "description": "Negli anni ’60 bastava una bustina per trasformare l’acqua del rubinetto in una bevanda effervescente: l’idrolitina era il rito immancabile del dopocena italian…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/acqua-frizzante-bustina-storia-idrolitina/",
+        "pubDate": "2026-05-25T05:00:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "I social delle gelaterie sono più standardizzati del gelato che vendono",
         "description": "Una dritta per distinguere le gelaterie artigianali da quelle che non lo sono? \"Il libro ingredienti\", suggerirebbe il saggio. Ma anche guardare ai social non è…",
@@ -109,81 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/dorfladen-negozio-ibrido.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "La trattoria partigiana di Milano dove si mangia bene con 25 euro (e sembra ancora il 1979)",
-        "description": "Alla Cooperativa La Liberazione 1945, tra Ortica e Calvairate, si mangiano cotoletta, trippa e rognone in un universo parallelo fatto di memorabilia partigiane,…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/cooperativa-liberazione-trattoria-partigiana-milano/",
-        "pubDate": "2026-05-24T05:53:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che fine ha fatto la coviglia: dove mangiare a Napoli il semifreddo amato dalla principessa Sissi",
-        "description": "Tra caffè storici, pasticcerie centenarie e gelaterie di provincia, ecco dove assaggiare ancora la coviglia, l’antico semifreddo napoletano nato tra Seicento e …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-coviglia-napoli/",
-        "pubDate": "2026-05-24T05:29:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vino, accise Ue e vendite a distanza: verso uno sportello unico europeo entro il 2027",
-        "description": "La Commissione europea apre alla possibilità di uno “sportello unico” per le accise sul vino venduto a distanza all’interno dell’Unione europea. Il tema riguard…",
-        "link": "https://www.winemag.it/vino-accise-ue-e-vendite-a-distanza-verso-uno-sportello-unico-europeo-entro-il-2027/",
-        "pubDate": "2026-05-24T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Festival di Cannes 2026: tutti i look delle star sul red carpet",
-        "description": "La 79esima edizione del Festival del Cinema di Cannes è ufficialmente iniziata e in Costa Azzurra inizia il via vai di stelle del cinema che, dal 12 al 23 maggi…",
-        "link": "https://www.grazia.it/moda/celebrity-style/festival-di-cannes-2026-tutti-i-look-delle-star-sul-red-carpet-971859",
-        "pubDate": "2026-05-23T19:53:16+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-paris-jackson-venezia.jpeg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Allergie di primavera: 5 strategie efficaci per ridurre il polline in casa e respirare un’aria più pulita",
-        "description": "Dalla pulizia delle superfici alla gestione dell’aria interna, ecco come trasformare la casa in un ambiente più sano durante la stagione delle allergie.…",
-        "link": "https://www.stylosophy.it/articolo/allergie-di-primavera-strategie-efficaci-per-ridurre-il-polline-in-casa/251082/",
-        "pubDate": "2026-05-23T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Nestlé e Danone ancora nei guai: microplastiche negli alimenti per bambini",
-        "description": "Dopo lo scandalo delle tossine nel cibo per l'infanzia, Nestlé e Danone sono al centro di un rapporto di Greenpeace che vede numerose microplastiche presenti ne…",
-        "link": "https://www.dissapore.com/notizie/nestle-e-danone-ancora-nei-guai-microplastiche-negli-alimenti-per-bambini/",
-        "pubDate": "2026-05-23T13:52:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/nestle-stabilimento.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Monica Bellucci torna a Cannes dopo sette anni e lo fa in grande stile con un total black Look firmato Fendi",
-        "description": "Monica Bellucci sfila sul red carpet di Cannes 2026 con un look total black firmato Fendi.…",
-        "link": "https://www.stylosophy.it/articolo/monica-bellucci-torna-a-cannes-dopo-sette-anni-e-lo-fa-in-grande-stile-con-un-total-black-look-firmato-fendi/251076/",
-        "pubDate": "2026-05-23T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "L’ex boss di BrewDog ci riprova: Second Best è il suo nuovo marchio di birra",
-        "description": "James Watt cerca un rilancio personale e un modo per sistemare i conti con i piccoli investitori che hanno perso le loro quote nella caduta di BrewDog.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/lex-boss-di-brewdog-ci-riprova-second-best-e-il-suo-nuovo-marchio-di-birra/",
-        "pubDate": "2026-05-23T11:01:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/second-best-lattine-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Make up effetto lifting: come minimizzare le rughe con i prodotti giusti (l’ultimo è un vero asso nella manica)",
+        "description": "5 Consigli e prodotti giusti per un make up impeccabile a prova di rughe. Da seguire alla lettera!…",
+        "link": "https://www.stylosophy.it/articolo/make-up-effetto-lifting-come-minimizzare-le-rughe-con-i-prodotti-giusti-lultimo-e-un-vero-asso-nella-manica/251133/",
+        "pubDate": "2026-05-25T09:01:10+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Giugno in vacanza: 5 mete nel mondo dove trovare clima perfetto, giornate lunghe e meno folla",
         "description": "Dalle spiagge della Grecia ai paesaggi dell’Islanda, giugno è il momento ideale per partire: temperature piacevoli, prezzi più accessibili e tantissime ore di l…",
@@ -302,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Demi Moore cambia look per la prima de La Bola Negra a Cannes 2026: dal finto bob all’abito iconico firmato Self-Portrait",
-        "description": "Demi Moore sorprende ancora a Cannes 2026 con questo nuovo look per la prima del film La Bola Negra.…",
-        "link": "https://www.stylosophy.it/articolo/demi-moore-cambia-look-per-la-prima-de-la-bola-negra-a-cannes-2026-dal-finto-bob-allabito-iconico-firmato-self-portrait/251035/",
-        "pubDate": "2026-05-22T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "No, la gonna midi nera non ci stanca proprio mai! Ecco 5 idee per abbinarla con stile dall’alba al tramonto",
         "description": "Ci sono trend che vanno e vengono, capi che improvvisamente finiscono sotto i riflettori, ci fanno cadere in tentazione e, una volta nell’armadio, rischiano di …",
         "link": "https://www.grazia.it/moda/tendenze-moda/gonna-midi-nera-come-indossare-idee-outfit-donna-primavera-street-style-elegante-974789",
@@ -366,6 +366,69 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "In memoria di Carlin Petrini nasceranno borse di studio per gastronomi e orti in Africa",
+        "description": "Slow Food destinerà le donazioni in ricordo di Carlo Petrini all'Unisg e a Orti in Africa. Un segnale per ribadire le basi del movimento: l'agroecologia e la cu…",
+        "link": "https://www.dissapore.com/notizie/in-memoria-di-carlin-petrini-nasceranno-borse-di-studio-per-gastronomi-e-orti-in-africa/",
+        "pubDate": "2026-05-25T09:43:45+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/funerale-laico-carlin-Petrini-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La dittatura delle recensioni: così le piattaforme ci mandano sempre negli stessi ristoranti",
+        "description": "Google Maps, TripAdvisor e le piattaforme di recensioni promettono di aiutarci a scoprire nuovi posti. Ma secondo uno studio stanno producendo l’effetto opposto…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/dittatura-recensioni-piattaforme-ristoranti-tripadvisor/",
+        "pubDate": "2026-05-25T08:51:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Concorso Internazionale Vermentino 2026, risultati e punteggi: le medaglie",
+        "description": "La Sardegna detta il passo, ma il Vermentino parla ormai una lingua internazionale. È questa la fotografia che emerge dal medagliere ufficiale del Concorso Enol…",
+        "link": "https://www.winemag.it/concorso-internazionale-vermentino-2026-risultati-e-punteggi-le-medaglie/",
+        "pubDate": "2026-05-25T08:39:52+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il primo Salone del Gusto non si scorda mai (ancora grazie Carlo Petrini)",
+        "description": "Quanta gente, quanti prodotti e quante storie si ritrovavano tutti assieme in quella piccola Italia del gusto in miniatura, ma vera. E, poi, c'era lui: quasi un…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ricordo-prime-edizioni-salone-del-gusto-carlo-petrini/",
+        "pubDate": "2026-05-25T07:06:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Migliori gin per un gin tonic perfetto: quali scegliere per un equilibrio impeccabile",
+        "description": "Scopri i migliori gin per preparare un gin tonic premium. Una guida completa tra grandi classici, profili mediterranei e nuove eccellenze artigianali.…",
+        "link": "https://www.gustoblog.it/2026/05/25/migliori-gin-per-un-gin-tonic-perfetto-quali-scegliere-per-un-equilibrio-impeccabile/",
+        "pubDate": "2026-05-25T07:00:12+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Guy Savoy è il primo chef a diventare ufficialmente un artista",
+        "description": "L'Académie des Beaux Arts ha conferito la Legion d'Onore allo chef francese, sancendo di fatto che la gastronomia è arte. \nL'articolo Guy Savoy è il primo chef …",
+        "link": "https://www.dissapore.com/notizie/guy-savoy-e-il-primo-chef-a-diventare-ufficialmente-un-artista/",
+        "pubDate": "2026-05-25T05:39:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/beaux-arts-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Quando l’acqua frizzante si faceva in casa con una bustina: storia dell’idrolitina italiana",
+        "description": "Negli anni ’60 bastava una bustina per trasformare l’acqua del rubinetto in una bevanda effervescente: l’idrolitina era il rito immancabile del dopocena italian…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/acqua-frizzante-bustina-storia-idrolitina/",
+        "pubDate": "2026-05-25T05:00:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "I social delle gelaterie sono più standardizzati del gelato che vendono",
         "description": "Una dritta per distinguere le gelaterie artigianali da quelle che non lo sono? \"Il libro ingredienti\", suggerirebbe il saggio. Ma anche guardare ai social non è…",
@@ -480,69 +543,6 @@
         "link": "https://www.dissapore.com/notizie/lex-boss-di-brewdog-ci-riprova-second-best-e-il-suo-nuovo-marchio-di-birra/",
         "pubDate": "2026-05-23T11:01:05+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/second-best-lattine-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il cocktail di gamberi è tornato: il piatto anni ’80 che piace anche ai giovani",
-        "description": "Un antipasto simbolo degli anni ’80 torna protagonista: veloce, scenografico e sorprendentemente attuale nelle cucine dei più giovani, il cocktail di gamberi ha…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cocktail-gamberi-ritorno-anni-80-giovani/",
-        "pubDate": "2026-05-23T10:08:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nelle Isole Faroe esiste una cucina che sa di vento, fermentazione e oceano",
-        "description": "Tra fermentazioni ancestrali, ristoranti d’avanguardia e villaggi battuti dal vento, le Faroe stanno diventando una delle destinazioni gastronomiche più affasci…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/isole-faroe-cucina-vento-fermentazione-oceano/",
-        "pubDate": "2026-05-23T09:06:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Airbnb ora ti vuole portare la spesa anche in vacanza",
-        "description": "Novità estive per la piattaforma di prenotazione più discussa al mondo: ora, in 25 città degli States, si potrà fare la spesa a domicilio mentre si viaggia.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/airbnb-ora-ti-vuole-portare-la-spesa-anche-in-vacanza/",
-        "pubDate": "2026-05-23T08:24:43+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il paese campano dove da 500 anni mangiano baccalà arrivato dalla Norvegia",
-        "description": "A Somma Vesuviana la tradizione di baccalà e stoccafisso nasce nel XVI secolo grazie ai monaci della Madonna dell’Arco e ai commerci con la Norvegia. Oggi vive …",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/somma-vesuviana-paese-baccala-stoccafisso/",
-        "pubDate": "2026-05-23T07:11:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Letrari: tre nuovi Trentodoc per festeggiare i 50 anni",
-        "description": "Cinquant’anni di attività attraverso tre generazioni. Una visone chiara: valorizzare la Vallagarina attraverso vini capaci di evolvere nel tempo. La cantina Let…",
-        "link": "https://www.winemag.it/letrari-tre-nuovi-trentodoc-per-festeggiare-i-50-anni/",
-        "pubDate": "2026-05-22T22:36:41+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/05/Letrari-tre-nuovi-Trentodoc-per-festeggiare-i-50-anni-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "È più facile immaginare la fine del mondo che il mondo senza Carlo Petrini",
-        "description": "Riuscite a pensare a una timeline in cui non c’è mai stata la rivoluzione gentile di Slow Food?\nL'articolo È più facile immaginare la fine del mondo che il mond…",
-        "link": "https://www.dissapore.com/alimentazione/e-piu-facile-immaginare-la-fine-del-mondo-che-il-mondo-senza-carlo-petrini/",
-        "pubDate": "2026-05-22T16:04:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/Carlo-Petrini_4-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Starbucks rinuncia alla sua intelligenza artificiale per fare l’inventario a mano",
-        "description": "Dopo il lancio entusiasta di 9 mesi fa, Starbucks annuncia con una mail interna che la sua AI non funziona bene e si torna al \"come una volta\".\nL'articolo Starb…",
-        "link": "https://www.dissapore.com/notizie/starbucks-rinuncia-alla-sua-intelligenza-artificiale-per-fare-linventario-a-mano/",
-        "pubDate": "2026-05-22T09:53:41+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/starbucks-interno-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
