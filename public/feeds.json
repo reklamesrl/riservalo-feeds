@@ -1,7 +1,16 @@
 {
-  "generated": "2026-05-27T15:43:23.296461+00:00",
+  "generated": "2026-05-27T20:19:08.699293+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Perché Castelmola è il borgo siciliano che non dimenticherete mai…",
+        "description": "Il borgo di Castelmola, celebre per il suo patrimonio storico, culturale e paesaggistico, è una chicca tutta da scoprire!…",
+        "link": "https://www.stylosophy.it/articolo/borgo-siciliano-di-castelmola-rubera-il-vostro-cuore/231092/",
+        "pubDate": "2026-05-27T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Non di sola Nutella: Ferrero lancia il gelato Kinder Bueno in vaschetta",
         "description": "Ferrero sta puntando con forza al mercato del gelato, presentando molte novità.\nL'articolo Non di sola Nutella: Ferrero lancia il gelato Kinder Bueno in vaschet…",
@@ -172,18 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Caldo estivo? I pantaloni bianchi sono il jolly da giocarsi per ottenere look freschi e chic",
-        "description": "Caposaldo essenziale del guardaroba della bella stagione, i pantaloni bianchi hanno la straordinaria capacità di non passare mai di moda. A ogni primavera, infa…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-bianchi-donna-zara-eleganti-jeans-lino-estivi-larghi-a-palazzo-modelli-estate-2026-975410",
-        "pubDate": "2026-05-27T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_pantaloni_bianchi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Perché Castelmola è il borgo siciliano che non dimenticherete mai…",
+        "description": "Il borgo di Castelmola, celebre per il suo patrimonio storico, culturale e paesaggistico, è una chicca tutta da scoprire!…",
+        "link": "https://www.stylosophy.it/articolo/borgo-siciliano-di-castelmola-rubera-il-vostro-cuore/231092/",
+        "pubDate": "2026-05-27T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Diletta Leotta, i primi scatti con il nuovo arrivato e la sua famiglia al completo FOTO",
         "description": "Diletta Leotta ha da poche settimane partorito il suo secondogenito ed ora mostra qualche scatto della sua bella famiglia sui social.…",
@@ -354,15 +363,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/abito-bianco-getty.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Giugno in vacanza: 5 mete nel mondo dove trovare clima perfetto, giornate lunghe e meno folla",
-        "description": "Dalle spiagge della Grecia ai paesaggi dell’Islanda, giugno è il momento ideale per partire: temperature piacevoli, prezzi più accessibili e tantissime ore di l…",
-        "link": "https://www.stylosophy.it/articolo/giugno-mete-nel-mondo-dove-trovare-clima-perfetto-giornate-lunghe-e-meno-folla/251118/",
-        "pubDate": "2026-05-24T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
