@@ -1,7 +1,88 @@
 {
-  "generated": "2026-05-27T20:19:08.699293+00:00",
+  "generated": "2026-05-28T10:02:47.076000+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Perché il cous cous è il piatto che racconta meglio il Mediterraneo",
+        "description": "Nato tra le culture del Maghreb e arrivato fino alla Sicilia, il cous cous è diventato uno dei piatti che meglio rappresentano il Mediterraneo: una storia fatta…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cous-cous-storia-mediterraneo/",
+        "pubDate": "2026-05-28T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’Intelligenza artificiale in viticoltura? È già una realtà più di quanto si pensi. Tutte le sue applicazioni",
+        "description": "Gestione sostenibile dei vigneti, miglioramento genetico della vite, lettura dei big data in funzione predittiva. Il periodo storico impone una preparazione sen…",
+        "link": "https://www.gamberorosso.it/notizie/vino/intelligenza-artificiale-viticoltura-tutte-applicazioni-vigneto-cantina/",
+        "pubDate": "2026-05-28T09:47:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Pinot Grigio delle Venezie riduce le rese. Programmare l’offerta per governare il mercato",
+        "description": "Il Consorzio ha fissato le rese a 160 quintali per ettaro, aumentando i quantitativi per lo stoccaggio amministrativo. Rigotti: \"Strumenti fondamentali per raff…",
+        "link": "https://www.gamberorosso.it/notizie/vino/pinot-grigio-venezie-riduzione-rese/",
+        "pubDate": "2026-05-28T09:01:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "SOS Frangia perfetta? 5 Tips per una chioma impeccabile (sì, anche a prova di caldo)",
+        "description": "Sogni una frangia perfetta anche in Estate? Ecco 5 consigli indispensabili da seguire alla lettera...…",
+        "link": "https://www.stylosophy.it/articolo/sos-frangia-perfetta-5-tips-per-una-chioma-impeccabile-si-anche-a-prova-di-caldo/251235/",
+        "pubDate": "2026-05-28T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il Derthona si candida a diventare traino dei vini bianchi piemontesi. Ma il futuro passa anche dalla sottozona",
+        "description": "Ecco cosa c’è dietro l’exploit del bianco piemontese che voleva essere un rosso. Un tempo si contavano appena 3 ettari vitati, oggi sono 500, con una nuova gene…",
+        "link": "https://www.gamberorosso.it/notizie/vino/futuro-derthona-riconoscimento-zottozona-walter-massa/",
+        "pubDate": "2026-05-28T07:11:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I biscotti neri più famosi del mondo si tingono di viola",
+        "description": "A giugno arriva una nuova edizione di Oreo, pensata principalmente per gli 80 milioni di teenagers che amano i BTS.\nL'articolo I biscotti neri più famosi del mo…",
+        "link": "https://www.dissapore.com/notizie/i-biscotti-neri-piu-famosi-del-mondo-si-tingono-di-viola/",
+        "pubDate": "2026-05-28T07:02:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/kinder-bueno-gelato-cover.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Hamburger Day: mo’ ve lo buchiamo, ‘sto smash burger",
+        "description": "La moda degli smash burger è francamente sfuggita di mano, e qualcuno doveva pur dirlo. \nL'articolo Hamburger Day: mo&#8217; ve lo buchiamo, &#8216;sto smash bu…",
+        "link": "https://www.dissapore.com/notizie/hamburger-day-mo-ve-lo-buchiamo-sto-smash-burger/",
+        "pubDate": "2026-05-28T06:01:51+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2022/03/shutterstock_45600130.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La città degli spaghetti stesi al sole: quando Torre Annunziata era la capitale della pasta",
+        "description": "Per anni Torre Annunziata ha esportato pasta in tutto il mondo. Oggi le insegne dei vecchi pastifici hanno lasciato spazio ai palazzi, l'atmosfera non è più la …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/citta-spaghetti-declino-torre-annunziata-pasta/",
+        "pubDate": "2026-05-28T05:00:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Armenia: 1,6 milioni di euro pubblici per CMB Concours Mondial de Bruxelles",
+        "description": "Armenia: 1,6 milioni di euro pubblici per CMB Concours Mondial de Bruxelles. Fondi pubblici per evento società belga Vinopres degli Havaux\nL'articolo Armenia: 1…",
+        "link": "https://www.winemag.it/armenia-1-6-milioni-di-euro-pubblici-per-cmb-concours-mondial-de-bruxelles/",
+        "pubDate": "2026-05-27T21:52:35+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Perché Castelmola è il borgo siciliano che non dimenticherete mai…",
         "description": "Il borgo di Castelmola, celebre per il suo patrimonio storico, culturale e paesaggistico, è una chicca tutta da scoprire!…",
@@ -100,90 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Come far durare il trucco più a lungo? I prodotti must have per un make up da mattino a sera",
-        "description": "Per un trucco duraturo e sempre impeccabile, ecco 5 prodotti must have che fanno la differenza!…",
-        "link": "https://www.stylosophy.it/articolo/come-far-durare-il-trucco-piu-a-lungo-i-prodotti-must-have-per-un-make-up-da-mattino-a-sera/251206/",
-        "pubDate": "2026-05-27T10:52:05+00:00",
+        "title": "SOS Frangia perfetta? 5 Tips per una chioma impeccabile (sì, anche a prova di caldo)",
+        "description": "Sogni una frangia perfetta anche in Estate? Ecco 5 consigli indispensabili da seguire alla lettera...…",
+        "link": "https://www.stylosophy.it/articolo/sos-frangia-perfetta-5-tips-per-una-chioma-impeccabile-si-anche-a-prova-di-caldo/251235/",
+        "pubDate": "2026-05-28T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Cosa vogliamo quando ordiniamo hamburger, indice di tendenze",
-        "description": "Tra nuovi stili, opzioni vegetali e anche menu pet-friendly, l'hamburger è ormai specchio delle abitudini dei consumatori. \nL'articolo Cosa vogliamo quando ordi…",
-        "link": "https://www.dissapore.com/notizie/cosa-vogliamo-quando-ordiniamo-hamburger-indice-di-tendenze/",
-        "pubDate": "2026-05-27T09:38:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/06/Smash-Burger-e1750069095216.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Birra artigianale, nuovo protocollo tra Unionbirrai e ICQRF contro frodi e usi impropri",
-        "description": "Rafforzare la tutela della denominazione “birra artigianale”, contrastare pratiche commerciali scorrette e migliorare i controlli sul mercato. Sono gli obiettiv…",
-        "link": "https://www.winemag.it/birra-artigianale-nuovo-protocollo-tra-unionbirrai-e-icqrf-contro-frodi-e-usi-impropri/",
-        "pubDate": "2026-05-27T08:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Benedetta Bruzziches, la Tuscia e dove nascono le borse che sembrano luce",
-        "description": "C’è una strada che da Roma porta verso la Tuscia e che, a un certo punto, sembra allontanarsi da tutto ciò che normalmente associamo alla moda. Niente distretti…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/benedetta-bruzziches-lusso-tuscia-borse-975800",
-        "pubDate": "2026-05-27T08:28:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/ok-deskBB_SIMONE-BOSSI-®-124.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Luca Montersino interviene sulle uova marce di Report e non fa una bella figura",
-        "description": "Dopo la pubblicazione dell'inchiesta di Report il pasticcere divulgatore scrive un commento su Istagram (difendendo di fatto un'azienda con cui ha collaborato) …",
-        "link": "https://www.dissapore.com/notizie/luca-montersino-interviene-sulle-uova-marce-di-report-e-non-fa-una-bella-figura/",
-        "pubDate": "2026-05-27T08:17:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/storia-giulia-innocenzi.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Uno sportello unico delle accise per la vendita di vino in Ue. La riforma che potrebbe facilitare la vita alle cantine",
-        "description": "Bruxelles è al lavoro per semplificare le vendite b2c di vino nell’Ue. Meno burocrazia, accise gestite con un sistema unico e nuove opportunità per le imprese c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vendita-vino-europa-sportello-unico/",
-        "pubDate": "2026-05-27T08:01:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mare e Vitovska in Morje celebra 20 anni: al Castello di Duino il festival dedicato al bianco del Carso",
-        "description": "La Vitovska torna protagonista sul Carso con la 20ª edizione di Mare e Vitovska in Morje, in programma venerdì 26 e sabato 27 giugno 2026 al Castello di Duino. …",
-        "link": "https://www.winemag.it/mare-e-vitovska-in-morje-celebra-20-anni-al-castello-di-duino-il-festival-dedicato-al-bianco-del-carso/",
-        "pubDate": "2026-05-27T08:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Weekend Max Mara celebra le sue “Italian Roots”: a Firenze il debutto della nuova Pasticcino Bag",
-        "description": "Il 18 e 19 maggio, Weekend Max Mara ha celebrato a Firenze il lancio di “Italian Roots”, il nuovo capitolo del Pasticcino Bag World Tour, progetto che stagione …",
-        "link": "https://www.grazia.it/moda/news-moda/pasticcino-bag-borsa-weekend-maxmara-anniversario-firenze-alessandra-mastronardi-975871",
-        "pubDate": "2026-05-27T07:49:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/ok-apertura-1-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Questo ristorante di Capri rilancia la cucina napoletana della domenica, dalle mafalde a ‘o pere e ’o musso",
-        "description": "Sull'isola di Capri la trattoria A-Ma-Re del Jumeirah Capri Palace rilancia la tradizione campana. Tra ricette popolari, pizza in doppia cottura e cocktail medi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ristorante-capri-cucina-napoletana-mafalde-pere-o-musso/",
-        "pubDate": "2026-05-27T07:00:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Perché Castelmola è il borgo siciliano che non dimenticherete mai…",
         "description": "Il borgo di Castelmola, celebre per il suo patrimonio storico, culturale e paesaggistico, è una chicca tutta da scoprire!…",
@@ -338,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Make up effetto lifting: come minimizzare le rughe con i prodotti giusti (l’ultimo è un vero asso nella manica)",
-        "description": "5 Consigli e prodotti giusti per un make up impeccabile a prova di rughe. Da seguire alla lettera!…",
-        "link": "https://www.stylosophy.it/articolo/make-up-effetto-lifting-come-minimizzare-le-rughe-con-i-prodotti-giusti-lultimo-e-un-vero-asso-nella-manica/251133/",
-        "pubDate": "2026-05-25T09:01:10+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "È arrivato il caldo: ecco i look per affrontare, con stile, l’estate in città",
         "description": "Un giorno il sole, quello dopo l&#8217;ombrello, il top leggero tirato fuori e poi rimesso via, il dubbio amletico se fosse il caso di salutare definitivamente …",
         "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-quando-fa-caldo-look-chic-anti-afa-in-citta-abbinamenti-outfit-freschi-975018",
@@ -366,6 +366,78 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Perché il cous cous è il piatto che racconta meglio il Mediterraneo",
+        "description": "Nato tra le culture del Maghreb e arrivato fino alla Sicilia, il cous cous è diventato uno dei piatti che meglio rappresentano il Mediterraneo: una storia fatta…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cous-cous-storia-mediterraneo/",
+        "pubDate": "2026-05-28T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’Intelligenza artificiale in viticoltura? È già una realtà più di quanto si pensi. Tutte le sue applicazioni",
+        "description": "Gestione sostenibile dei vigneti, miglioramento genetico della vite, lettura dei big data in funzione predittiva. Il periodo storico impone una preparazione sen…",
+        "link": "https://www.gamberorosso.it/notizie/vino/intelligenza-artificiale-viticoltura-tutte-applicazioni-vigneto-cantina/",
+        "pubDate": "2026-05-28T09:47:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Pinot Grigio delle Venezie riduce le rese. Programmare l’offerta per governare il mercato",
+        "description": "Il Consorzio ha fissato le rese a 160 quintali per ettaro, aumentando i quantitativi per lo stoccaggio amministrativo. Rigotti: \"Strumenti fondamentali per raff…",
+        "link": "https://www.gamberorosso.it/notizie/vino/pinot-grigio-venezie-riduzione-rese/",
+        "pubDate": "2026-05-28T09:01:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Derthona si candida a diventare traino dei vini bianchi piemontesi. Ma il futuro passa anche dalla sottozona",
+        "description": "Ecco cosa c’è dietro l’exploit del bianco piemontese che voleva essere un rosso. Un tempo si contavano appena 3 ettari vitati, oggi sono 500, con una nuova gene…",
+        "link": "https://www.gamberorosso.it/notizie/vino/futuro-derthona-riconoscimento-zottozona-walter-massa/",
+        "pubDate": "2026-05-28T07:11:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I biscotti neri più famosi del mondo si tingono di viola",
+        "description": "A giugno arriva una nuova edizione di Oreo, pensata principalmente per gli 80 milioni di teenagers che amano i BTS.\nL'articolo I biscotti neri più famosi del mo…",
+        "link": "https://www.dissapore.com/notizie/i-biscotti-neri-piu-famosi-del-mondo-si-tingono-di-viola/",
+        "pubDate": "2026-05-28T07:02:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/kinder-bueno-gelato-cover.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Hamburger Day: mo’ ve lo buchiamo, ‘sto smash burger",
+        "description": "La moda degli smash burger è francamente sfuggita di mano, e qualcuno doveva pur dirlo. \nL'articolo Hamburger Day: mo&#8217; ve lo buchiamo, &#8216;sto smash bu…",
+        "link": "https://www.dissapore.com/notizie/hamburger-day-mo-ve-lo-buchiamo-sto-smash-burger/",
+        "pubDate": "2026-05-28T06:01:51+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2022/03/shutterstock_45600130.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La città degli spaghetti stesi al sole: quando Torre Annunziata era la capitale della pasta",
+        "description": "Per anni Torre Annunziata ha esportato pasta in tutto il mondo. Oggi le insegne dei vecchi pastifici hanno lasciato spazio ai palazzi, l'atmosfera non è più la …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/citta-spaghetti-declino-torre-annunziata-pasta/",
+        "pubDate": "2026-05-28T05:00:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Armenia: 1,6 milioni di euro pubblici per CMB Concours Mondial de Bruxelles",
+        "description": "Armenia: 1,6 milioni di euro pubblici per CMB Concours Mondial de Bruxelles. Fondi pubblici per evento società belga Vinopres degli Havaux\nL'articolo Armenia: 1…",
+        "link": "https://www.winemag.it/armenia-1-6-milioni-di-euro-pubblici-per-cmb-concours-mondial-de-bruxelles/",
+        "pubDate": "2026-05-27T21:52:35+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Non di sola Nutella: Ferrero lancia il gelato Kinder Bueno in vaschetta",
         "description": "Ferrero sta puntando con forza al mercato del gelato, presentando molte novità.\nL'articolo Non di sola Nutella: Ferrero lancia il gelato Kinder Bueno in vaschet…",
@@ -466,82 +538,10 @@
         "source": "Dissapore"
       },
       {
-        "title": "Uno sportello unico delle accise per la vendita di vino in Ue. La riforma che potrebbe facilitare la vita alle cantine",
-        "description": "Bruxelles è al lavoro per semplificare le vendite b2c di vino nell’Ue. Meno burocrazia, accise gestite con un sistema unico e nuove opportunità per le imprese c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vendita-vino-europa-sportello-unico/",
-        "pubDate": "2026-05-27T08:01:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Mare e Vitovska in Morje celebra 20 anni: al Castello di Duino il festival dedicato al bianco del Carso",
         "description": "La Vitovska torna protagonista sul Carso con la 20ª edizione di Mare e Vitovska in Morje, in programma venerdì 26 e sabato 27 giugno 2026 al Castello di Duino. …",
         "link": "https://www.winemag.it/mare-e-vitovska-in-morje-celebra-20-anni-al-castello-di-duino-il-festival-dedicato-al-bianco-del-carso/",
         "pubDate": "2026-05-27T08:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Questo ristorante di Capri rilancia la cucina napoletana della domenica, dalle mafalde a ‘o pere e ’o musso",
-        "description": "Sull'isola di Capri la trattoria A-Ma-Re del Jumeirah Capri Palace rilancia la tradizione campana. Tra ricette popolari, pizza in doppia cottura e cocktail medi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ristorante-capri-cucina-napoletana-mafalde-pere-o-musso/",
-        "pubDate": "2026-05-27T07:00:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Se il “cibo buono” di Petrini è finito per diventare un privilegio per pochi. Il paradosso di una rivoluzione riuscita",
-        "description": "Slow Food nasceva come movimento popolare, ma oggi per molte famiglie la qualità non è più uno spazio accessibile. Per questo il ricordo di Carlin dovrebbe farc…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/eredita-paradosso-carlo-petrini-cibo-lusso/",
-        "pubDate": "2026-05-27T05:07:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cantine Pellegrino presenta Bianco di Venere, nuovo bianco secco da Pantelleria",
-        "description": "Cantine Pellegrino amplia il progetto enologico sull’isola di Pantelleria con Bianco di Venere, nuova etichetta dedicata alla valorizzazione del terroir pantesc…",
-        "link": "https://www.winemag.it/cantine-pellegrino-presenta-bianco-di-venere-nuovo-bianco-secco-da-pantelleria/",
-        "pubDate": "2026-05-27T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I 5 libri di Carlo Petrini di cui non si può fare a meno",
-        "description": "Prima di Terra Madre, di Unisg e persino di Slow Food, c'è il messaggio del Carlo Petrini pensatore, gastronomo e scrittore. I libri da leggere per comprenderlo…",
-        "link": "https://www.dissapore.com/spesa/migliori-libri-carlo-petrini/",
-        "pubDate": "2026-05-26T16:36:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/petrini-libro-buono-pulito-e-giusto.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Varazze non si è fatta conquistare da Briatore, che chiude il Crazy Pizza sul mare",
-        "description": "Dopo appena due stagioni, Crazy Pizza a Varazze chiude i battenti: troppe le difficoltà e poco il successo di pubblico.\nL'articolo Varazze non si è fatta conqui…",
-        "link": "https://www.dissapore.com/notizie/varazze-non-si-e-fatta-conquistare-da-briatore-che-chiude-il-crazy-pizza-sul-mare/",
-        "pubDate": "2026-05-26T15:23:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/Crazy-Pizza.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Hamburger Day, Carnissage lancia il mini burger di Wagyu e apre in Costa Smeralda",
-        "description": "In occasione dell’Hamburger Day, Carnissage punta su uno dei simboli più riconoscibili della cucina contemporanea: il burger. Il brand fondato da Martino Uzzaut…",
-        "link": "https://www.winemag.it/hamburger-day-carnissage-lancia-il-mini-burger-di-wagyu-e-apre-in-costa-smeralda/",
-        "pubDate": "2026-05-26T15:04:52+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Giornata mondiale dell’hamburger: come preparare lo smash burger secondo lo chef Sergio Ferrarini",
-        "description": "Il 28 maggio si celebra la Giornata mondiale dell’hamburger, uno dei panini più consumati al mondo. In Italia se ne mangiano circa 250 milioni ogni anno. In occ…",
-        "link": "https://www.winemag.it/giornata-mondiale-dellhamburger-come-preparare-lo-smash-burger-secondo-lo-chef-sergio-ferrarini/",
-        "pubDate": "2026-05-26T14:47:04+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
