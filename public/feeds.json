@@ -1,7 +1,124 @@
 {
-  "generated": "2026-05-28T10:02:47.076000+00:00",
+  "generated": "2026-05-28T15:57:43.748491+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Quel tabù del vino al calice nell’alta ristorazione. Perché il fine dining ha ancora paura della mescita",
+        "description": "Partendo dalla proposta di Cracco si servire anche il mezzo bicchiere, abbiamo chiesto ad alcuni chef e sommelier come arginare il calo dei consumi. Tra (pochi)…",
+        "link": "https://www.gamberorosso.it/notizie/vino/calo-consumi-vino-fine-dining-proposta-calice/",
+        "pubDate": "2026-05-28T15:57:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’agrifood primeggia tra i nuovi Cavalieri del Lavoro. Per il vino c’è Marina Cvetic",
+        "description": "Nel decreto firmato dal presidente Mattarella anche Giacomo Ponti e Micaela Pallini. Così come imprenditori del caseario come Ambrogio Invernizzi e della ristor…",
+        "link": "https://www.gamberorosso.it/notizie/vino/nuovi-cavalieri-lavoro-2026-marina-cvetic-giacomo-ponti-micaela-pallini/",
+        "pubDate": "2026-05-28T15:48:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come sbarazzarsi delle Formiche in casa quest’estate: alleati essenziali e rimedi naturali",
+        "description": "Con il caldo aumentano le invasioni di formiche in cucina e vicino a porte e finestre. Alcuni ingredienti naturali possono aiutare a creare una barriera efficac…",
+        "link": "https://www.stylosophy.it/articolo/come-sbarazzarsi-delle-formiche-in-casa-questestate/251224/",
+        "pubDate": "2026-05-28T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Quanto costa mangiare negli stellati di Milano? Si parte da 30 euro, che ci crediate o no",
+        "description": "Quanto costano i ristoranti stellati della carissima Milano? Vi stupirà sapere che ce ne sono addirittura un paio dove pranzare con trenta euro o poco più.\nL'ar…",
+        "link": "https://www.dissapore.com/ristoranti/quanto-costa-mangiare-negli-stellati-di-milano/",
+        "pubDate": "2026-05-28T14:45:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/04/milano-navigli.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La Piadineria entra negli aeroporti: doppia apertura a Malpensa e Orio al Serio con Chef Express",
+        "description": "La Piadineria debutta nel canale travel con due nuove aperture negli aeroporti di Aeroporto di Milano Malpensa e Aeroporto di Bergamo-Orio al Serio, in collabor…",
+        "link": "https://www.winemag.it/la-piadineria-entra-negli-aeroporti-doppia-apertura-a-malpensa-e-orio-al-serio-con-chef-express/",
+        "pubDate": "2026-05-28T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Quell’eredità che ci portiamo dietro. Soldati, Veronelli e Petrini: la trinità laica della comunicazione del gusto",
+        "description": "Il 2026 diventa un anno di coincidenze e anniversari significativi per il mondo enogastronomico, tra nascite e addii. Ecco cosa ci ha lasciato ognuno di questi …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/eredita-comunicazione-enogastronomica-soldati-veronelli-petrini/",
+        "pubDate": "2026-05-28T13:30:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Elisabetta Gregoraci brilla con questo meraviglioso Look scintillante firmato Gucci",
+        "description": "Elisabetta Gregoraci, al Festival di Cannes 2026, ha optato per un meraviglioso abito lungo scintillante firmato Gucci.…",
+        "link": "https://www.stylosophy.it/articolo/elisabetta-gregoraci-brilla-con-questo-meraviglioso-look-scintillante-firmato-gucci/251258/",
+        "pubDate": "2026-05-28T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Lucca Fashion Weekend 2026: il programma completo per un weekend tra moda e creatività",
+        "description": "Moda, artigianato e cultura si danno nuovamente appuntamento a Lucca per la quarta edizione del Lucca Fashion Weekend. In programma dal 29 al 31 maggio, la mani…",
+        "link": "https://www.grazia.it/moda/news-moda/lucca-fashion-weekend-2026-programma-completo-giorgio-armani-mostra-workshop-talk-tommaso-zorzi-jo-squillo-976184",
+        "pubDate": "2026-05-28T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/EVI-Lucca-fashion-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "La Frittata di Report: parla il sindacalista che ha dato il via alla denuncia",
+        "description": "Abbiamo intervistato Fulvio Di Giorgio, il sindacalista che guida i dipendenti che accusano Eurovo di pratiche scorrette in campo lavorativo e di sicurezza alim…",
+        "link": "https://www.dissapore.com/spesa/la-frittata-di-report-parla-il-sindacalista-che-ha-dato-il-via-alla-denuncia/",
+        "pubDate": "2026-05-28T12:11:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/report-eurovo-3.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dolce&Gabbana X Mytheresa: vi raccontiamo The Exclusive Porto Cervo Collection, la capsule più glam dell’estate",
+        "description": "Tra gli appuntamenti imperdibili che a ogni estate chi ama la moda non può certo farsi scappare è entrata di diritto, e da ormai dieci fortunati anni, la collab…",
+        "link": "https://www.grazia.it/moda/in-esclusiva/dolcegabbana-x-mytheresa-collezione-exclusive-porto-cervo-collection-estate-2026-975064",
+        "pubDate": "2026-05-28T11:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-Dolce-e-Gabbana-mytheresa-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "In Italia l’acqua del rubinetto al ristorante non è un diritto. Lo dice la Cassazione",
+        "description": "La sentenza chiude una controversia durata anni e fissa un principio chiaro: il gestore decide liberamente cosa servire a tavola. Eppure, in mezza Europa la leg…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/acqua-rubinetto-ristorante-cassazione/",
+        "pubDate": "2026-05-28T11:17:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Vini fuorilegge per colpa della volatile? Bisogna rivedere i limiti”. La proposta di Elena Pantaleoni",
+        "description": "La battaglia della produttrice, rilanciata da Raisin, porta in tavola un argomento che resta spinoso e si scontra con il tema dei difetti…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-fuorilegge-acidita-volatile-limiti-proposta-elena-pantaleoni/",
+        "pubDate": "2026-05-28T11:09:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un po’ ballerina, un po’ ciabattina: queste scarpe sono il compromesso estivo più easy chic che potrete indossare!",
+        "description": "Tra jolly shoes, sandali con la zeppa e slingback a punta, in questo periodo dell’anno possiamo sempre contare su un’ampissima scelta di calzature per completar…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-sabot-tallone-scoperto-pelle-intrecciate-satin-mango-tendenze-donna-estate-976155",
+        "pubDate": "2026-05-28T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Ballerine_mules.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Perché il cous cous è il piatto che racconta meglio il Mediterraneo",
         "description": "Nato tra le culture del Maghreb e arrivato fino alla Sicilia, il cous cous è diventato uno dei piatti che meglio rappresentano il Mediterraneo: una storia fatta…",
@@ -39,6 +156,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "SOS cerimonie d’estate: 7 outfit eleganti e freschi perfetti per ogni dress code",
+        "description": "Ah… le cerimonie estive! Ore interminabili al caldo, tacchi che ci fanno maledire di averli scelti e un mix di entusiasmo e di “ma chi me l’ha fatto fare?” che …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/look-invitata-cerimonia-estiva-idee-ispirazioni-instagram-975880",
+        "pubDate": "2026-05-28T08:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_abiti_per_cerimonie.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Il Derthona si candida a diventare traino dei vini bianchi piemontesi. Ma il futuro passa anche dalla sottozona",
         "description": "Ecco cosa c’è dietro l’exploit del bianco piemontese che voleva essere un rosso. Un tempo si contavano appena 3 ettari vitati, oggi sono 500, con una nuova gene…",
         "link": "https://www.gamberorosso.it/notizie/vino/futuro-derthona-riconoscimento-zottozona-walter-massa/",
@@ -55,135 +181,54 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/kinder-bueno-gelato-cover.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Hamburger Day: mo’ ve lo buchiamo, ‘sto smash burger",
-        "description": "La moda degli smash burger è francamente sfuggita di mano, e qualcuno doveva pur dirlo. \nL'articolo Hamburger Day: mo&#8217; ve lo buchiamo, &#8216;sto smash bu…",
-        "link": "https://www.dissapore.com/notizie/hamburger-day-mo-ve-lo-buchiamo-sto-smash-burger/",
-        "pubDate": "2026-05-28T06:01:51+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/03/shutterstock_45600130.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La città degli spaghetti stesi al sole: quando Torre Annunziata era la capitale della pasta",
-        "description": "Per anni Torre Annunziata ha esportato pasta in tutto il mondo. Oggi le insegne dei vecchi pastifici hanno lasciato spazio ai palazzi, l'atmosfera non è più la …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/citta-spaghetti-declino-torre-annunziata-pasta/",
-        "pubDate": "2026-05-28T05:00:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Armenia: 1,6 milioni di euro pubblici per CMB Concours Mondial de Bruxelles",
-        "description": "Armenia: 1,6 milioni di euro pubblici per CMB Concours Mondial de Bruxelles. Fondi pubblici per evento società belga Vinopres degli Havaux\nL'articolo Armenia: 1…",
-        "link": "https://www.winemag.it/armenia-1-6-milioni-di-euro-pubblici-per-cmb-concours-mondial-de-bruxelles/",
-        "pubDate": "2026-05-27T21:52:35+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Perché Castelmola è il borgo siciliano che non dimenticherete mai…",
-        "description": "Il borgo di Castelmola, celebre per il suo patrimonio storico, culturale e paesaggistico, è una chicca tutta da scoprire!…",
-        "link": "https://www.stylosophy.it/articolo/borgo-siciliano-di-castelmola-rubera-il-vostro-cuore/231092/",
-        "pubDate": "2026-05-27T17:00:00+00:00",
+        "title": "Come sbarazzarsi delle Formiche in casa quest’estate: alleati essenziali e rimedi naturali",
+        "description": "Con il caldo aumentano le invasioni di formiche in cucina e vicino a porte e finestre. Alcuni ingredienti naturali possono aiutare a creare una barriera efficac…",
+        "link": "https://www.stylosophy.it/articolo/come-sbarazzarsi-delle-formiche-in-casa-questestate/251224/",
+        "pubDate": "2026-05-28T15:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Non di sola Nutella: Ferrero lancia il gelato Kinder Bueno in vaschetta",
-        "description": "Ferrero sta puntando con forza al mercato del gelato, presentando molte novità.\nL'articolo Non di sola Nutella: Ferrero lancia il gelato Kinder Bueno in vaschet…",
-        "link": "https://www.dissapore.com/notizie/non-di-sola-nutella-ferrero-lancia-il-gelato-kinder-bueno-in-vaschetta/",
-        "pubDate": "2026-05-27T15:31:53+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/kinder-bueno-gelato-vaschetta.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’acqua del rubinetto non è un diritto, se si è in un ristorante italiano",
-        "description": "Dopo sette anni, una turista che non voleva vedersi servita bottiglie d'acqua da 7 euro ha perso la causa.\nL'articolo L’acqua del rubinetto non è un diritto, se…",
-        "link": "https://www.dissapore.com/notizie/lacqua-del-rubinetto-non-e-un-diritto-se-si-e-in-un-ristorante-italiano/",
-        "pubDate": "2026-05-27T14:37:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/02/acqua-in-bottiglia-scaled-e1708437509502.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Stop per un anno ai dazi sui fertilizzanti. La mossa dell’Europa per aiutare gli agricoltori",
-        "description": "Bruxelles stoppa le tariffe sui fertilizzanti azotati per ridurre i costi e la dipendenza da Russia e Bielorussia. Atteso un risparmio da 60 milioni di euro per…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/europa-stop-dazi-fertilizzanti/",
-        "pubDate": "2026-05-27T14:10:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "RiminiWellness 2026: 30 padiglioni, 400 brand e focus su innovazione e longevity",
-        "description": "Da domani, giovedì 28 maggio, a domenica 31 maggio torna a Rimini RiminiWellness 2026, la manifestazione internazionale organizzata da Italian Exhibition Group …",
-        "link": "https://www.winemag.it/riminiwellness-2026-30-padiglioni-400-brand-e-focus-su-innovazione-e-longevity/",
-        "pubDate": "2026-05-27T14:02:31+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Mario Pojer e Fiorentino Sandri si separano: ecco cosa ne sarà del loro progetto vitivinicolo",
-        "description": "Accordo legale e commerciale per la cessione delle quote della famiglia Pojer, che ha scelto un percorso in Val di Cembra. In entrambe le società ci sarà più sp…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantine-mario-pojer-fiorentino-sandri-separazione/",
-        "pubDate": "2026-05-27T13:29:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Diletta Leotta, i primi scatti con il nuovo arrivato e la sua famiglia al completo FOTO",
-        "description": "Diletta Leotta ha da poche settimane partorito il suo secondogenito ed ora mostra qualche scatto della sua bella famiglia sui social.…",
-        "link": "https://www.stylosophy.it/articolo/diletta-leotta-i-primi-scatti-con-il-nuovo-arrivato-e-la-sua-famiglia-al-completo-foto/251202/",
-        "pubDate": "2026-05-27T13:00:00+00:00",
+        "title": "Elisabetta Gregoraci brilla con questo meraviglioso Look scintillante firmato Gucci",
+        "description": "Elisabetta Gregoraci, al Festival di Cannes 2026, ha optato per un meraviglioso abito lungo scintillante firmato Gucci.…",
+        "link": "https://www.stylosophy.it/articolo/elisabetta-gregoraci-brilla-con-questo-meraviglioso-look-scintillante-firmato-gucci/251258/",
+        "pubDate": "2026-05-28T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Le ballerine intrecciate sono le scarpe più chic che potete sfoggiare quest’estate (sì, anche nelle giornate più afose)",
-        "description": "La scorsa primavera c’erano le &#8220;woven bag&#8221; nella classifica dei grandi must-have della stagione. A distanza di un anno, c’è un altro accessorio lavo…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-intrecciate-pelle-bottega-veneta-zara-mango-marroni-donna-mary-jane-cinturino-eleganti-976024",
-        "pubDate": "2026-05-27T12:16:38+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Ballerine_intrecciate.jpg",
+        "title": "Lucca Fashion Weekend 2026: il programma completo per un weekend tra moda e creatività",
+        "description": "Moda, artigianato e cultura si danno nuovamente appuntamento a Lucca per la quarta edizione del Lucca Fashion Weekend. In programma dal 29 al 31 maggio, la mani…",
+        "link": "https://www.grazia.it/moda/news-moda/lucca-fashion-weekend-2026-programma-completo-giorgio-armani-mostra-workshop-talk-tommaso-zorzi-jo-squillo-976184",
+        "pubDate": "2026-05-28T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/EVI-Lucca-fashion-2.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "A Civita di Bagnoregio c’è un’osteria che cucina ancora un pollo quasi scomparso",
-        "description": "Il pollo alla civitonica è una ricetta contadina tramandata da generazioni, che oggi sopravvive soltanto all’Osteria Al Forno di Agnese, nel cuore del borgo laz…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/civita-bagnoregio-osteria-pollo-civitonica-ricetta/",
-        "pubDate": "2026-05-27T12:00:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Dolce&Gabbana X Mytheresa: vi raccontiamo The Exclusive Porto Cervo Collection, la capsule più glam dell’estate",
+        "description": "Tra gli appuntamenti imperdibili che a ogni estate chi ama la moda non può certo farsi scappare è entrata di diritto, e da ormai dieci fortunati anni, la collab…",
+        "link": "https://www.grazia.it/moda/in-esclusiva/dolcegabbana-x-mytheresa-collezione-exclusive-porto-cervo-collection-estate-2026-975064",
+        "pubDate": "2026-05-28T11:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/DESK-Dolce-e-Gabbana-mytheresa-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "“Altro che calo dei consumi, da Burde si beve di più. Il segreto? La proposta al calice”. Parla Andrea Gori",
-        "description": "L'oste della trattoria fiorentina, che è anche sommelier e divulgatore, racconta la scelta di servire al bicchiere o anche al quartino le grandi bottiglie e di …",
-        "link": "https://www.gamberorosso.it/notizie/vino/andrea-gori-da-burde-consumi-vino-calice/",
-        "pubDate": "2026-05-27T11:03:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Un po’ ballerina, un po’ ciabattina: queste scarpe sono il compromesso estivo più easy chic che potrete indossare!",
+        "description": "Tra jolly shoes, sandali con la zeppa e slingback a punta, in questo periodo dell’anno possiamo sempre contare su un’ampissima scelta di calzature per completar…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-sabot-tallone-scoperto-pelle-intrecciate-satin-mango-tendenze-donna-estate-976155",
+        "pubDate": "2026-05-28T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Ballerine_mules.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Trimestre nero per il vino italiano negli Usa, ma nella prima parte dell’anno crescono i mercati emergenti",
-        "description": "L'export vitivinicolo extra-Ue nel primo trimestre registra un -11%. Vendite in calo nei mercati consolidati, crescita in Russia, Cina, Messico e Brasile. Uiv: …",
-        "link": "https://www.gamberorosso.it/notizie/vino/export-vino-italiano-trimestre-2026-stati-uniti-mercati-emergenti/",
-        "pubDate": "2026-05-27T11:00:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "SOS Frangia perfetta? 5 Tips per una chioma impeccabile (sì, anche a prova di caldo)",
         "description": "Sogni una frangia perfetta anche in Estate? Ecco 5 consigli indispensabili da seguire alla lettera...…",
@@ -192,6 +237,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "SOS cerimonie d’estate: 7 outfit eleganti e freschi perfetti per ogni dress code",
+        "description": "Ah… le cerimonie estive! Ore interminabili al caldo, tacchi che ci fanno maledire di averli scelti e un mix di entusiasmo e di “ma chi me l’ha fatto fare?” che …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/look-invitata-cerimonia-estiva-idee-ispirazioni-instagram-975880",
+        "pubDate": "2026-05-28T08:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_abiti_per_cerimonie.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Grazia.it talks with: Sara Goldschmied e Cristiano Fini di ISOLE & VULCANI",
+        "description": "Ci sono marchi che già solo a pronunciarne il nome riescono a far viaggiare la mente e a trasportarci lontano e Isole &#38; Vulcani è uno di questi: panorami in…",
+        "link": "https://www.grazia.it/moda/news-moda/isole-e-vulcani-costumi-intervista-sara-goldschmied-cristiano-fini-975322",
+        "pubDate": "2026-05-28T06:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_Isole_Vulcani.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Perché Castelmola è il borgo siciliano che non dimenticherete mai…",
@@ -300,72 +363,81 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Gli abiti chemisier sono gli alleati perfetti del guardaroba femminile per tutta estate",
-        "description": "Sono da sempre capaci di traghettarci verso nuove stagioni, stiamo parlando degli abiti chemisier. Vestiti tra i più rivoluzionari del guardaroba femminile di i…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-chemisier-modelli-freschi-e-chic-estate-2026-vestito-camicia-zara-974673",
-        "pubDate": "2026-05-26T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_chemisier.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Non le solite flat shoes! 9 scarpe basse su cui puntare per trasformare i vostri look estivi",
-        "description": "Dopo mesi di pioggia e temporali, il sole è finalmente tornato fra noi e, con lui, anche una ritrovata voglia di sperimentare e divertirci con la moda. Se fino …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-basse-estive-quali-indossare-sandali-gioiello-infradito-ballerine-mesh-mocassini-friulane-birkenstock-espadrillas-974855",
-        "pubDate": "2026-05-26T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_7_scarpe_estate.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Sklum lancia “Cook. Lounge. Repeat.”: la nuova collezione outdoor che trasforma terrazze e giardini",
-        "description": "Con la campagna “Cook. Lounge. Repeat.”, Sklum porta la cucina outdoor al centro della casa contemporanea insieme allo chef Mathis Molinié e a una selezione di …",
-        "link": "https://www.stylosophy.it/articolo/sklum-lancia-cook-lounge-repeat-la-nuova-collezione-outdoor/251151/",
-        "pubDate": "2026-05-25T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Aurora Ramazzotti punta sul bordeaux: il colore elegante che domina (anche) la Primavera 2026",
-        "description": "Per la cresima della sorella Celeste, Aurora Ramazzotti sceglie un look minimal ma di tendenza. Protagonista assoluto il bordeaux, abbinato ad accessori coordin…",
-        "link": "https://www.stylosophy.it/articolo/aurora-ramazzotti-punta-sul-bordeaux-il-colore-che-domina-anche-primavera/251144/",
-        "pubDate": "2026-05-25T14:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Caldo record? Con questi 7 capi must-have potete creare look freschi, chic (e a prova di afa)",
-        "description": "La stagione calda non è ancora ufficialmente iniziata eppure a guardare le previsioni meteo c’è da credere che quest’anno l’estate abbia deciso di prendersi la …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/caldo-record-capi-abbigliamento-freschi-leggeri-eleganti-come-vestirsi-idee-look-freschi-chic-975185",
-        "pubDate": "2026-05-25T11:09:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Look_ondata_di_calore.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "È arrivato il caldo: ecco i look per affrontare, con stile, l’estate in città",
-        "description": "Un giorno il sole, quello dopo l&#8217;ombrello, il top leggero tirato fuori e poi rimesso via, il dubbio amletico se fosse il caso di salutare definitivamente …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-quando-fa-caldo-look-chic-anti-afa-in-citta-abbinamenti-outfit-freschi-975018",
-        "pubDate": "2026-05-25T09:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_look_citta_mix_match.png",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "I vestiti bianchi sono senza alcun dubbio uno dei nostri “mai senza” preferiti dell’estate",
-        "description": "C’è un momento preciso in cui capiamo che l’estate è davvero arrivata: quando tiriamo fuori dal guardaroba il primo vestito bianco. Più che un trend, l’abito bi…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/vestiti-bianchi-abito-bianco-modelli-lunghi-midi-corti-estate-2026-total-white-974550",
-        "pubDate": "2026-05-25T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/abito-bianco-getty.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Quel tabù del vino al calice nell’alta ristorazione. Perché il fine dining ha ancora paura della mescita",
+        "description": "Partendo dalla proposta di Cracco si servire anche il mezzo bicchiere, abbiamo chiesto ad alcuni chef e sommelier come arginare il calo dei consumi. Tra (pochi)…",
+        "link": "https://www.gamberorosso.it/notizie/vino/calo-consumi-vino-fine-dining-proposta-calice/",
+        "pubDate": "2026-05-28T15:57:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’agrifood primeggia tra i nuovi Cavalieri del Lavoro. Per il vino c’è Marina Cvetic",
+        "description": "Nel decreto firmato dal presidente Mattarella anche Giacomo Ponti e Micaela Pallini. Così come imprenditori del caseario come Ambrogio Invernizzi e della ristor…",
+        "link": "https://www.gamberorosso.it/notizie/vino/nuovi-cavalieri-lavoro-2026-marina-cvetic-giacomo-ponti-micaela-pallini/",
+        "pubDate": "2026-05-28T15:48:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Quanto costa mangiare negli stellati di Milano? Si parte da 30 euro, che ci crediate o no",
+        "description": "Quanto costano i ristoranti stellati della carissima Milano? Vi stupirà sapere che ce ne sono addirittura un paio dove pranzare con trenta euro o poco più.\nL'ar…",
+        "link": "https://www.dissapore.com/ristoranti/quanto-costa-mangiare-negli-stellati-di-milano/",
+        "pubDate": "2026-05-28T14:45:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/04/milano-navigli.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La Piadineria entra negli aeroporti: doppia apertura a Malpensa e Orio al Serio con Chef Express",
+        "description": "La Piadineria debutta nel canale travel con due nuove aperture negli aeroporti di Aeroporto di Milano Malpensa e Aeroporto di Bergamo-Orio al Serio, in collabor…",
+        "link": "https://www.winemag.it/la-piadineria-entra-negli-aeroporti-doppia-apertura-a-malpensa-e-orio-al-serio-con-chef-express/",
+        "pubDate": "2026-05-28T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Quell’eredità che ci portiamo dietro. Soldati, Veronelli e Petrini: la trinità laica della comunicazione del gusto",
+        "description": "Il 2026 diventa un anno di coincidenze e anniversari significativi per il mondo enogastronomico, tra nascite e addii. Ecco cosa ci ha lasciato ognuno di questi …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/eredita-comunicazione-enogastronomica-soldati-veronelli-petrini/",
+        "pubDate": "2026-05-28T13:30:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Frittata di Report: parla il sindacalista che ha dato il via alla denuncia",
+        "description": "Abbiamo intervistato Fulvio Di Giorgio, il sindacalista che guida i dipendenti che accusano Eurovo di pratiche scorrette in campo lavorativo e di sicurezza alim…",
+        "link": "https://www.dissapore.com/spesa/la-frittata-di-report-parla-il-sindacalista-che-ha-dato-il-via-alla-denuncia/",
+        "pubDate": "2026-05-28T12:11:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/report-eurovo-3.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Italia l’acqua del rubinetto al ristorante non è un diritto. Lo dice la Cassazione",
+        "description": "La sentenza chiude una controversia durata anni e fissa un principio chiaro: il gestore decide liberamente cosa servire a tavola. Eppure, in mezza Europa la leg…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/acqua-rubinetto-ristorante-cassazione/",
+        "pubDate": "2026-05-28T11:17:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Vini fuorilegge per colpa della volatile? Bisogna rivedere i limiti”. La proposta di Elena Pantaleoni",
+        "description": "La battaglia della produttrice, rilanciata da Raisin, porta in tavola un argomento che resta spinoso e si scontra con il tema dei difetti…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-fuorilegge-acidita-volatile-limiti-proposta-elena-pantaleoni/",
+        "pubDate": "2026-05-28T11:09:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Perché il cous cous è il piatto che racconta meglio il Mediterraneo",
         "description": "Nato tra le culture del Maghreb e arrivato fino alla Sicilia, il cous cous è diventato uno dei piatti che meglio rappresentano il Mediterraneo: una storia fatta…",
@@ -457,15 +529,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Stop per un anno ai dazi sui fertilizzanti. La mossa dell’Europa per aiutare gli agricoltori",
-        "description": "Bruxelles stoppa le tariffe sui fertilizzanti azotati per ridurre i costi e la dipendenza da Russia e Bielorussia. Atteso un risparmio da 60 milioni di euro per…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/europa-stop-dazi-fertilizzanti/",
-        "pubDate": "2026-05-27T14:10:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "RiminiWellness 2026: 30 padiglioni, 400 brand e focus su innovazione e longevity",
         "description": "Da domani, giovedì 28 maggio, a domenica 31 maggio torna a Rimini RiminiWellness 2026, la manifestazione internazionale organizzata da Italian Exhibition Group …",
         "link": "https://www.winemag.it/riminiwellness-2026-30-padiglioni-400-brand-e-focus-su-innovazione-e-longevity/",
@@ -475,42 +538,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Mario Pojer e Fiorentino Sandri si separano: ecco cosa ne sarà del loro progetto vitivinicolo",
-        "description": "Accordo legale e commerciale per la cessione delle quote della famiglia Pojer, che ha scelto un percorso in Val di Cembra. In entrambe le società ci sarà più sp…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantine-mario-pojer-fiorentino-sandri-separazione/",
-        "pubDate": "2026-05-27T13:29:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Civita di Bagnoregio c’è un’osteria che cucina ancora un pollo quasi scomparso",
-        "description": "Il pollo alla civitonica è una ricetta contadina tramandata da generazioni, che oggi sopravvive soltanto all’Osteria Al Forno di Agnese, nel cuore del borgo laz…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/civita-bagnoregio-osteria-pollo-civitonica-ricetta/",
-        "pubDate": "2026-05-27T12:00:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Altro che calo dei consumi, da Burde si beve di più. Il segreto? La proposta al calice”. Parla Andrea Gori",
-        "description": "L'oste della trattoria fiorentina, che è anche sommelier e divulgatore, racconta la scelta di servire al bicchiere o anche al quartino le grandi bottiglie e di …",
-        "link": "https://www.gamberorosso.it/notizie/vino/andrea-gori-da-burde-consumi-vino-calice/",
-        "pubDate": "2026-05-27T11:03:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Trimestre nero per il vino italiano negli Usa, ma nella prima parte dell’anno crescono i mercati emergenti",
-        "description": "L'export vitivinicolo extra-Ue nel primo trimestre registra un -11%. Vendite in calo nei mercati consolidati, crescita in Russia, Cina, Messico e Brasile. Uiv: …",
-        "link": "https://www.gamberorosso.it/notizie/vino/export-vino-italiano-trimestre-2026-stati-uniti-mercati-emergenti/",
-        "pubDate": "2026-05-27T11:00:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cosa vogliamo quando ordiniamo hamburger, indice di tendenze",
         "description": "Tra nuovi stili, opzioni vegetali e anche menu pet-friendly, l'hamburger è ormai specchio delle abitudini dei consumatori. \nL'articolo Cosa vogliamo quando ordi…",
         "link": "https://www.dissapore.com/notizie/cosa-vogliamo-quando-ordiniamo-hamburger-indice-di-tendenze/",
@@ -518,33 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/06/Smash-Burger-e1750069095216.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Birra artigianale, nuovo protocollo tra Unionbirrai e ICQRF contro frodi e usi impropri",
-        "description": "Rafforzare la tutela della denominazione “birra artigianale”, contrastare pratiche commerciali scorrette e migliorare i controlli sul mercato. Sono gli obiettiv…",
-        "link": "https://www.winemag.it/birra-artigianale-nuovo-protocollo-tra-unionbirrai-e-icqrf-contro-frodi-e-usi-impropri/",
-        "pubDate": "2026-05-27T08:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Luca Montersino interviene sulle uova marce di Report e non fa una bella figura",
-        "description": "Dopo la pubblicazione dell'inchiesta di Report il pasticcere divulgatore scrive un commento su Istagram (difendendo di fatto un'azienda con cui ha collaborato) …",
-        "link": "https://www.dissapore.com/notizie/luca-montersino-interviene-sulle-uova-marce-di-report-e-non-fa-una-bella-figura/",
-        "pubDate": "2026-05-27T08:17:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/storia-giulia-innocenzi.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Mare e Vitovska in Morje celebra 20 anni: al Castello di Duino il festival dedicato al bianco del Carso",
-        "description": "La Vitovska torna protagonista sul Carso con la 20ª edizione di Mare e Vitovska in Morje, in programma venerdì 26 e sabato 27 giugno 2026 al Castello di Duino. …",
-        "link": "https://www.winemag.it/mare-e-vitovska-in-morje-celebra-20-anni-al-castello-di-duino-il-festival-dedicato-al-bianco-del-carso/",
-        "pubDate": "2026-05-27T08:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
