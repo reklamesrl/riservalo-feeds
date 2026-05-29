@@ -1,7 +1,61 @@
 {
-  "generated": "2026-05-28T20:24:14.047027+00:00",
+  "generated": "2026-05-29T09:55:16.114530+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A Roma chiude l’osteria segreta dell’Appio Latino. Ora rinasce come locale «normale»",
+        "description": "Dopo 15 anni l’Osteria Numerosette chiude i battenti, ma la storia di Francesco Mastio e Natascia Papaleo riparte poco distante con Mocambo: pochi coperti e una…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-osteria-mocambo-appiolatino-apertura/",
+        "pubDate": "2026-05-29T09:00:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Proteggono e idratano: i sieri viso con SPF più validi dell’Estate 2026",
+        "description": "L'alleato skincare dell'estate 2026? Il siero viso con SPF, il perfetto compromesso tra idratazione e protezione. Ecco tutti i dettagli...…",
+        "link": "https://www.stylosophy.it/articolo/proteggono-e-idratano-i-sieri-viso-con-spf-piu-validi-dellestate-2026/251245/",
+        "pubDate": "2026-05-29T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "A Napoli il gelato artigianale non esiste",
+        "description": "Nel 1694 Latini scriveva che a Napoli ognuno nasceva col genio di fabbricare sorbetti. Oggi il gusto più richiesto è quello al biscotto Lotus, la coviglia è un …",
+        "link": "https://www.dissapore.com/locali/a-napoli-il-gelato-artigianale-non-esiste/",
+        "pubDate": "2026-05-29T08:19:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/coviglia-2-scaled-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La biblioteca di semi che sopravvive alle bombe del Libano",
+        "description": "Il collettivo agricolo Buzuruna Juzuruna salva e redistribuisce semi antichi del Mediterraneo, intrecciando biodiversità, solidarietà e resistenza tra Libano e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-biblioteca-di-semi-libano/",
+        "pubDate": "2026-05-29T06:01:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Spuma: la bibita dei bar di paese che sapeva d’estate",
+        "description": "Per decenni è stata la bibita immancabile nei bar di paese e nei chioschi sul mare. Dalla Spuma bionda a quella nera, storia della bevanda frizzante che ha acco…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-spuma-bibita-bar-paese-estati-italiane/",
+        "pubDate": "2026-05-29T05:00:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Hey Güey riapre a Roma: torna il rooftop messicano firmato Chapter Hotels Italia",
+        "description": "Riapre a Roma Hey Güey, il rooftop bar di Chapter Hotels Italia situato in via di S. Maria de’ Calderari 47. Il format proprietario del gruppo fondato nel 2019 …",
+        "link": "https://www.winemag.it/hey-guey-riapre-a-roma-torna-il-rooftop-messicano-firmato-chapter-hotels-italia/",
+        "pubDate": "2026-05-29T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Chef Rubio assolto dall’accusa di diffamazione verso i poliziotti che uccisero Aldrovandi",
         "description": "Gabriele Rubini, in arte Chef Rubio, li definì \"4 maiali\", rimediando una denuncia dal Sindacato Autonomo di Polizia, ma per il giudice il fatto non costituisce…",
@@ -127,63 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Un po’ ballerina, un po’ ciabattina: queste scarpe sono il compromesso estivo più easy chic che potrete indossare!",
-        "description": "Tra jolly shoes, sandali con la zeppa e slingback a punta, in questo periodo dell’anno possiamo sempre contare su un’ampissima scelta di calzature per completar…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-sabot-tallone-scoperto-pelle-intrecciate-satin-mango-tendenze-donna-estate-976155",
-        "pubDate": "2026-05-28T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Ballerine_mules.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Perché il cous cous è il piatto che racconta meglio il Mediterraneo",
-        "description": "Nato tra le culture del Maghreb e arrivato fino alla Sicilia, il cous cous è diventato uno dei piatti che meglio rappresentano il Mediterraneo: una storia fatta…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cous-cous-storia-mediterraneo/",
-        "pubDate": "2026-05-28T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’Intelligenza artificiale in viticoltura? È già una realtà più di quanto si pensi. Tutte le sue applicazioni",
-        "description": "Gestione sostenibile dei vigneti, miglioramento genetico della vite, lettura dei big data in funzione predittiva. Il periodo storico impone una preparazione sen…",
-        "link": "https://www.gamberorosso.it/notizie/vino/intelligenza-artificiale-viticoltura-tutte-applicazioni-vigneto-cantina/",
-        "pubDate": "2026-05-28T09:47:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Pinot Grigio delle Venezie riduce le rese. Programmare l’offerta per governare il mercato",
-        "description": "Il Consorzio ha fissato le rese a 160 quintali per ettaro, aumentando i quantitativi per lo stoccaggio amministrativo. Rigotti: \"Strumenti fondamentali per raff…",
-        "link": "https://www.gamberorosso.it/notizie/vino/pinot-grigio-venezie-riduzione-rese/",
-        "pubDate": "2026-05-28T09:01:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "SOS Frangia perfetta? 5 Tips per una chioma impeccabile (sì, anche a prova di caldo)",
-        "description": "Sogni una frangia perfetta anche in Estate? Ecco 5 consigli indispensabili da seguire alla lettera...…",
-        "link": "https://www.stylosophy.it/articolo/sos-frangia-perfetta-5-tips-per-una-chioma-impeccabile-si-anche-a-prova-di-caldo/251235/",
-        "pubDate": "2026-05-28T09:00:00+00:00",
+        "title": "Proteggono e idratano: i sieri viso con SPF più validi dell’Estate 2026",
+        "description": "L'alleato skincare dell'estate 2026? Il siero viso con SPF, il perfetto compromesso tra idratazione e protezione. Ecco tutti i dettagli...…",
+        "link": "https://www.stylosophy.it/articolo/proteggono-e-idratano-i-sieri-viso-con-spf-piu-validi-dellestate-2026/251245/",
+        "pubDate": "2026-05-29T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "SOS cerimonie d’estate: 7 outfit eleganti e freschi perfetti per ogni dress code",
-        "description": "Ah… le cerimonie estive! Ore interminabili al caldo, tacchi che ci fanno maledire di averli scelti e un mix di entusiasmo e di “ma chi me l’ha fatto fare?” che …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/look-invitata-cerimonia-estiva-idee-ispirazioni-instagram-975880",
-        "pubDate": "2026-05-28T08:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_abiti_per_cerimonie.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Ponte del 2 giugno nel Reatino: i borghi più belli da visitare",
         "description": "Dal Lago del Turano ai santuari francescani, passando per montagne, piazze medievali e panorami incontaminati: cinque borghi del Reatino perfetti per un weekend…",
@@ -347,15 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Emma, birthday Look super basic e minimal ma con gli accessori giusti FOTO",
-        "description": "Emma per il suo compleanno ha scelto di indossare un look super basic e minimal impreziosito però dai giusti accessori.…",
-        "link": "https://www.stylosophy.it/articolo/emma-birthday-look-super-basic-e-minimal-ma-con-gli-accessori-giusti-foto/251165/",
-        "pubDate": "2026-05-26T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Quest’abito marrone di Massimo Dutti (che piace anche a Bella Hadid) è il pezzo chiave che vorrete sfoggiare per tutta l’estate",
         "description": "Sul red carpet del Festival di Cannes ha lasciato il segno con un abito in crochet di Schiaparelli praticamente identico a quello indossato da Jane Birkin, semp…",
         "link": "https://www.grazia.it/moda/get-the-look/abito-marrone-infradito-come-abbinare-idee-look-estate-bella-hadid-cannes-get-the-look-975614",
@@ -366,6 +366,51 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "A Roma chiude l’osteria segreta dell’Appio Latino. Ora rinasce come locale «normale»",
+        "description": "Dopo 15 anni l’Osteria Numerosette chiude i battenti, ma la storia di Francesco Mastio e Natascia Papaleo riparte poco distante con Mocambo: pochi coperti e una…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-osteria-mocambo-appiolatino-apertura/",
+        "pubDate": "2026-05-29T09:00:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Napoli il gelato artigianale non esiste",
+        "description": "Nel 1694 Latini scriveva che a Napoli ognuno nasceva col genio di fabbricare sorbetti. Oggi il gusto più richiesto è quello al biscotto Lotus, la coviglia è un …",
+        "link": "https://www.dissapore.com/locali/a-napoli-il-gelato-artigianale-non-esiste/",
+        "pubDate": "2026-05-29T08:19:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/coviglia-2-scaled-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La biblioteca di semi che sopravvive alle bombe del Libano",
+        "description": "Il collettivo agricolo Buzuruna Juzuruna salva e redistribuisce semi antichi del Mediterraneo, intrecciando biodiversità, solidarietà e resistenza tra Libano e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-biblioteca-di-semi-libano/",
+        "pubDate": "2026-05-29T06:01:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Spuma: la bibita dei bar di paese che sapeva d’estate",
+        "description": "Per decenni è stata la bibita immancabile nei bar di paese e nei chioschi sul mare. Dalla Spuma bionda a quella nera, storia della bevanda frizzante che ha acco…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-spuma-bibita-bar-paese-estati-italiane/",
+        "pubDate": "2026-05-29T05:00:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Hey Güey riapre a Roma: torna il rooftop messicano firmato Chapter Hotels Italia",
+        "description": "Riapre a Roma Hey Güey, il rooftop bar di Chapter Hotels Italia situato in via di S. Maria de’ Calderari 47. Il format proprietario del gruppo fondato nel 2019 …",
+        "link": "https://www.winemag.it/hey-guey-riapre-a-roma-torna-il-rooftop-messicano-firmato-chapter-hotels-italia/",
+        "pubDate": "2026-05-29T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Chef Rubio assolto dall’accusa di diffamazione verso i poliziotti che uccisero Aldrovandi",
         "description": "Gabriele Rubini, in arte Chef Rubio, li definì \"4 maiali\", rimediando una denuncia dal Sindacato Autonomo di Polizia, ma per il giudice il fatto non costituisce…",
@@ -466,24 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il Pinot Grigio delle Venezie riduce le rese. Programmare l’offerta per governare il mercato",
-        "description": "Il Consorzio ha fissato le rese a 160 quintali per ettaro, aumentando i quantitativi per lo stoccaggio amministrativo. Rigotti: \"Strumenti fondamentali per raff…",
-        "link": "https://www.gamberorosso.it/notizie/vino/pinot-grigio-venezie-riduzione-rese/",
-        "pubDate": "2026-05-28T09:01:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Derthona si candida a diventare traino dei vini bianchi piemontesi. Ma il futuro passa anche dalla sottozona",
-        "description": "Ecco cosa c’è dietro l’exploit del bianco piemontese che voleva essere un rosso. Un tempo si contavano appena 3 ettari vitati, oggi sono 500, con una nuova gene…",
-        "link": "https://www.gamberorosso.it/notizie/vino/futuro-derthona-riconoscimento-zottozona-walter-massa/",
-        "pubDate": "2026-05-28T07:11:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "I biscotti neri più famosi del mondo si tingono di viola",
         "description": "A giugno arriva una nuova edizione di Oreo, pensata principalmente per gli 80 milioni di teenagers che amano i BTS.\nL'articolo I biscotti neri più famosi del mo…",
         "link": "https://www.dissapore.com/notizie/i-biscotti-neri-piu-famosi-del-mondo-si-tingono-di-viola/",
@@ -502,15 +529,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "La città degli spaghetti stesi al sole: quando Torre Annunziata era la capitale della pasta",
-        "description": "Per anni Torre Annunziata ha esportato pasta in tutto il mondo. Oggi le insegne dei vecchi pastifici hanno lasciato spazio ai palazzi, l'atmosfera non è più la …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/citta-spaghetti-declino-torre-annunziata-pasta/",
-        "pubDate": "2026-05-28T05:00:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Armenia: 1,6 milioni di euro pubblici per CMB Concours Mondial de Bruxelles",
         "description": "Armenia: 1,6 milioni di euro pubblici per CMB Concours Mondial de Bruxelles. Fondi pubblici per evento società belga Vinopres degli Havaux\nL'articolo Armenia: 1…",
         "link": "https://www.winemag.it/armenia-1-6-milioni-di-euro-pubblici-per-cmb-concours-mondial-de-bruxelles/",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/kinder-bueno-gelato-vaschetta.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "L’acqua del rubinetto non è un diritto, se si è in un ristorante italiano",
-        "description": "Dopo sette anni, una turista che non voleva vedersi servita bottiglie d'acqua da 7 euro ha perso la causa.\nL'articolo L’acqua del rubinetto non è un diritto, se…",
-        "link": "https://www.dissapore.com/notizie/lacqua-del-rubinetto-non-e-un-diritto-se-si-e-in-un-ristorante-italiano/",
-        "pubDate": "2026-05-27T14:37:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/02/acqua-in-bottiglia-scaled-e1708437509502.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "RiminiWellness 2026: 30 padiglioni, 400 brand e focus su innovazione e longevity",
-        "description": "Da domani, giovedì 28 maggio, a domenica 31 maggio torna a Rimini RiminiWellness 2026, la manifestazione internazionale organizzata da Italian Exhibition Group …",
-        "link": "https://www.winemag.it/riminiwellness-2026-30-padiglioni-400-brand-e-focus-su-innovazione-e-longevity/",
-        "pubDate": "2026-05-27T14:02:31+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
