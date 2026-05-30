@@ -1,7 +1,34 @@
 {
-  "generated": "2026-05-29T20:26:06.174965+00:00",
+  "generated": "2026-05-30T08:28:40.522811+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "L’orzata è tornata: perché lo sciroppo più vintage dell’estate non passa mai di moda",
+        "description": "Dolce, lattiginosa e spesso confusa con il latte di mandorla: la storia dell’orzata, lo sciroppo che ha segnato le estati italiane dagli anni ’60 a oggi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/orzata-sciroppo-vintage-estate-storia/",
+        "pubDate": "2026-05-30T05:00:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Absolut TABASCO: la vodka spicy arriva in Italia da maggio 2026",
+        "description": "Absolut Vodka e TABASCO lanciano Absolut TABASCO, nuova vodka aromatizzata che unisce il profilo morbido del distillato svedese al carattere speziato della cele…",
+        "link": "https://www.winemag.it/absolut-tabasco-la-vodka-spicy-arriva-in-italia-da-maggio-2026/",
+        "pubDate": "2026-05-30T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cantina Kurtatsch e le UGA dell’Alto Adige: 9 vini da 8 unità geografiche",
+        "description": "L’arrivo sul mercato dei primi vini ufficiali con Unità Geografiche Aggiuntive segna una nuova fase per il vino dell’Alto Adige. In questo scenario Cantina Kurt…",
+        "link": "https://www.winemag.it/cantina-kurtatsch-e-le-uga-dellalto-adige-9-vini-da-8-unita-geografiche/",
+        "pubDate": "2026-05-29T22:40:23+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Golfo di Policastro: i borghi di mare più belli da visitare tra Campania e Basilicata",
         "description": "Dal Cilento alla costa lucana, viaggio tra i borghi marinari più suggestivi del Golfo di Policastro, tra spiagge limpide, piccoli porti e centri storici affacci…",
@@ -120,7 +147,7 @@
         "source": "Grazia"
       },
       {
-        "title": "A Roma chiude l’osteria segreta dell’Appio Latino. Ora rinasce come locale «normale»",
+        "title": "A Roma chiude l’osteria segreta dell’Appio Latino. Ora rinasce come locale “normale”",
         "description": "Dopo 15 anni l’Osteria Numerosette chiude i battenti, ma la storia di Francesco Mastio e Natascia Papaleo riparte poco distante con Mocambo: pochi coperti e una…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-osteria-mocambo-appiolatino-apertura/",
         "pubDate": "2026-05-29T09:00:14+00:00",
@@ -154,33 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_love_first_sight_27maggio.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "La biblioteca di semi che sopravvive alle bombe del Libano",
-        "description": "Il collettivo agricolo Buzuruna Juzuruna salva e redistribuisce semi antichi del Mediterraneo, intrecciando biodiversità, solidarietà e resistenza tra Libano e …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-biblioteca-di-semi-libano/",
-        "pubDate": "2026-05-29T06:01:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Spuma: la bibita dei bar di paese che sapeva d’estate",
-        "description": "Per decenni è stata la bibita immancabile nei bar di paese e nei chioschi sul mare. Dalla Spuma bionda a quella nera, storia della bevanda frizzante che ha acco…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-spuma-bibita-bar-paese-estati-italiane/",
-        "pubDate": "2026-05-29T05:00:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Hey Güey riapre a Roma: torna il rooftop messicano firmato Chapter Hotels Italia",
-        "description": "Riapre a Roma Hey Güey, il rooftop bar di Chapter Hotels Italia situato in via di S. Maria de’ Calderari 47. Il format proprietario del gruppo fondato nel 2019 …",
-        "link": "https://www.winemag.it/hey-guey-riapre-a-roma-torna-il-rooftop-messicano-firmato-chapter-hotels-italia/",
-        "pubDate": "2026-05-29T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "L’orzata è tornata: perché lo sciroppo più vintage dell’estate non passa mai di moda",
+        "description": "Dolce, lattiginosa e spesso confusa con il latte di mandorla: la storia dell’orzata, lo sciroppo che ha segnato le estati italiane dagli anni ’60 a oggi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/orzata-sciroppo-vintage-estate-storia/",
+        "pubDate": "2026-05-30T05:00:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Absolut TABASCO: la vodka spicy arriva in Italia da maggio 2026",
+        "description": "Absolut Vodka e TABASCO lanciano Absolut TABASCO, nuova vodka aromatizzata che unisce il profilo morbido del distillato svedese al carattere speziato della cele…",
+        "link": "https://www.winemag.it/absolut-tabasco-la-vodka-spicy-arriva-in-italia-da-maggio-2026/",
+        "pubDate": "2026-05-30T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cantina Kurtatsch e le UGA dell’Alto Adige: 9 vini da 8 unità geografiche",
+        "description": "L’arrivo sul mercato dei primi vini ufficiali con Unità Geografiche Aggiuntive segna una nuova fase per il vino dell’Alto Adige. In questo scenario Cantina Kurt…",
+        "link": "https://www.winemag.it/cantina-kurtatsch-e-le-uga-dellalto-adige-9-vini-da-8-unita-geografiche/",
+        "pubDate": "2026-05-29T22:40:23+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Gli influencer hanno esaurito le scorte di un formaggio francese (sconosciuto)",
         "description": "Davvero curioso il cancoillotte, formaggio della France-Comté con caratteristiche nutrizionali che poco hanno a che fare con il più celebre prodotto del territo…",
         "link": "https://www.dissapore.com/notizie/gli-influencer-hanno-esaurito-le-scorte-di-un-formaggio-francese-sconosciuto/",
@@ -412,7 +439,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Roma chiude l’osteria segreta dell’Appio Latino. Ora rinasce come locale «normale»",
+        "title": "A Roma chiude l’osteria segreta dell’Appio Latino. Ora rinasce come locale “normale”",
         "description": "Dopo 15 anni l’Osteria Numerosette chiude i battenti, ma la storia di Francesco Mastio e Natascia Papaleo riparte poco distante con Mocambo: pochi coperti e una…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-osteria-mocambo-appiolatino-apertura/",
         "pubDate": "2026-05-29T09:00:14+00:00",
@@ -516,33 +543,6 @@
         "link": "https://www.dissapore.com/spesa/la-frittata-di-report-parla-il-sindacalista-che-ha-dato-il-via-alla-denuncia/",
         "pubDate": "2026-05-28T12:11:24+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/report-eurovo-3.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Italia l’acqua del rubinetto al ristorante non è un diritto. Lo dice la Cassazione",
-        "description": "La sentenza chiude una controversia durata anni e fissa un principio chiaro: il gestore decide liberamente cosa servire a tavola. Eppure, in mezza Europa la leg…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/acqua-rubinetto-ristorante-cassazione/",
-        "pubDate": "2026-05-28T11:17:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I biscotti neri più famosi del mondo si tingono di viola",
-        "description": "A giugno arriva una nuova edizione di Oreo, pensata principalmente per gli 80 milioni di teenagers che amano i BTS.\nL'articolo I biscotti neri più famosi del mo…",
-        "link": "https://www.dissapore.com/notizie/i-biscotti-neri-piu-famosi-del-mondo-si-tingono-di-viola/",
-        "pubDate": "2026-05-28T07:02:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/kinder-bueno-gelato-cover.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Hamburger Day: mo’ ve lo buchiamo, ‘sto smash burger",
-        "description": "La moda degli smash burger è francamente sfuggita di mano, e qualcuno doveva pur dirlo. \nL'articolo Hamburger Day: mo&#8217; ve lo buchiamo, &#8216;sto smash bu…",
-        "link": "https://www.dissapore.com/notizie/hamburger-day-mo-ve-lo-buchiamo-sto-smash-burger/",
-        "pubDate": "2026-05-28T06:01:51+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/03/shutterstock_45600130.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
