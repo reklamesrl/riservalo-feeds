@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-01T17:39:55.832109+00:00",
+  "generated": "2026-06-01T21:33:26.306413+00:00",
   "feeds": {
     "offerte": [
       {
@@ -28,15 +28,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "La storia di Donald Scalmanini, l’uomo che ha portato in Italia il BBQ Americano",
-        "description": "Don’s Barbecue è il ristorante di Donald Scalmanini al Punta d’Acu Resort, in Costa Smeralda. Una storia che parte da San José, California. Passa dalla Toscana.…",
-        "link": "https://www.winemag.it/don-s-barbecue-costa-smeralda-donald-scalmanini-uomo-che-ha-portato-in-italia-bbq-americano/",
-        "pubDate": "2026-06-01T12:46:18+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Don-s-Barbecue-in-Costa-Smeralda-la-storia-di-Donald-Scalmanini-uomo-che-ha-portato-in-Italia-il-BBQ-Americano-al-Punta-d-Acu-Resort-arzachena-gallura-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Oltre i vini liquorosi: Marsala riparte dai giovani e dai bianchi dello Stagnone",
@@ -181,6 +172,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Qui i sandali oro che ogni fashion addicted dovrebbe avere nell’armadio",
+        "description": "I sandali oro più belli dell'Estate 2026 da avere assolutamente nell'armadio. Un inno al glamour!…",
+        "link": "https://www.stylosophy.it/articolo/qui-i-sandali-oro-che-ogni-fashion-addicted-dovrebbe-avere-nellarmadio/251313/",
+        "pubDate": "2026-05-31T09:40:15+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       }
     ],
     "moda": [
@@ -367,15 +367,6 @@
     ],
     "lifestyle": [
       {
-        "title": "La storia di Donald Scalmanini, l’uomo che ha portato in Italia il BBQ Americano",
-        "description": "Don’s Barbecue è il ristorante di Donald Scalmanini al Punta d’Acu Resort, in Costa Smeralda. Una storia che parte da San José, California. Passa dalla Toscana.…",
-        "link": "https://www.winemag.it/don-s-barbecue-costa-smeralda-donald-scalmanini-uomo-che-ha-portato-in-italia-bbq-americano/",
-        "pubDate": "2026-06-01T12:46:18+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Don-s-Barbecue-in-Costa-Smeralda-la-storia-di-Donald-Scalmanini-uomo-che-ha-portato-in-Italia-il-BBQ-Americano-al-Punta-d-Acu-Resort-arzachena-gallura-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Oltre i vini liquorosi: Marsala riparte dai giovani e dai bianchi dello Stagnone",
         "description": "Fino ad ora questa parte della Sicilia ha vissuto più nel passato che nel presente, ma adesso le cose stanno cambiando. A partire dalle sottozone e dalla spinta…",
         "link": "https://www.gamberorosso.it/notizie/vino/marsala-oltre-vini-liquorosi-bianchi-stagnone/",
@@ -493,15 +484,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Cristina Mercuri MW entra nel Membership Committee dell’Institute of Masters of Wine",
-        "description": "Cristina Mercuri MW è stata nominata membro del Membership Committee dell’Institute of Masters of Wine, tra le istituzioni più autorevoli del panorama vitivinic…",
-        "link": "https://www.winemag.it/cristina-mercuri-mw-entra-nel-membership-committee-dellinstitute-of-masters-of-wine/",
-        "pubDate": "2026-05-31T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Birre d’Italia 2027: cosa ci dice la guida di Slow Food sulla birra artigianale che sarà",
         "description": "È stata presentata la nuova edizione della guida di Slow Food editore dedicata alla birra artigianale italiana: un'occasione particolarmente sentita, tra il tre…",
         "link": "https://www.dissapore.com/notizie/birre-ditalia-2027-cosa-ci-dice-la-guida-di-slow-food-sulla-birra-artigianale-che-sara/",
@@ -538,13 +520,31 @@
         "source": "Dissapore"
       },
       {
-        "title": "Absolut TABASCO: la vodka spicy arriva in Italia da maggio 2026",
-        "description": "Absolut Vodka e TABASCO lanciano Absolut TABASCO, nuova vodka aromatizzata che unisce il profilo morbido del distillato svedese al carattere speziato della cele…",
-        "link": "https://www.winemag.it/absolut-tabasco-la-vodka-spicy-arriva-in-italia-da-maggio-2026/",
-        "pubDate": "2026-05-30T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Gli influencer hanno esaurito le scorte di un formaggio francese (sconosciuto)",
+        "description": "Davvero curioso il cancoillotte, formaggio della France-Comté con caratteristiche nutrizionali che poco hanno a che fare con il più celebre prodotto del territo…",
+        "link": "https://www.dissapore.com/notizie/gli-influencer-hanno-esaurito-le-scorte-di-un-formaggio-francese-sconosciuto/",
+        "pubDate": "2026-05-29T13:09:03+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La birra artigianale lo è per legge, e va rispettata: l’accordo anti-frode",
+        "description": "Unionbirrai e ICQRF (l'Ispettorato centrale per la tutela della qualità e repressione frodi) rinnovano il loro protocollo d'intesa per  combattere l'uso impropr…",
+        "link": "https://www.dissapore.com/notizie/la-birra-artigianale-lo-e-per-legge-e-va-rispettata-laccordo-anti-frode/",
+        "pubDate": "2026-05-29T11:37:33+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/VittorioFerraris-980x808-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A Napoli il gelato artigianale non esiste",
+        "description": "Nel 1694 Latini scriveva che a Napoli ognuno nasceva col genio di fabbricare sorbetti. Oggi il gusto più richiesto è quello al biscotto Lotus, la coviglia è un …",
+        "link": "https://www.dissapore.com/locali/a-napoli-il-gelato-artigianale-non-esiste/",
+        "pubDate": "2026-05-29T08:19:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/coviglia-2-scaled-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
