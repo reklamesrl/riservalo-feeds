@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T16:26:04.365895+00:00",
+  "generated": "2026-06-02T20:50:06.439306+00:00",
   "feeds": {
     "offerte": [
       {
@@ -28,6 +28,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/banane-al-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Mariano Murru nominato Cavaliere al Merito della Repubblica: il riconoscimento per l’enologo simbolo della Sardegna",
+        "description": "L’enologo sardo Mariano Murru è stato insignito del titolo di Cavaliere dell’Ordine al Merito della Repubblica Italiana. L’onorificenza è stata conferita dal pr…",
+        "link": "https://www.winemag.it/mariano-murru-nominato-cavaliere-al-merito-della-repubblica-il-riconoscimento-per-lenologo-simbolo-della-sardegna/",
+        "pubDate": "2026-06-02T10:46:14+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Nel sud della Sardegna si produce un grande Cannonau in versione rosé (che costa meno di 15 euro)",
@@ -138,6 +147,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "La storia di Donald Scalmanini, l’uomo che ha portato in Italia il BBQ Americano",
+        "description": "Don’s Barbecue è il ristorante di Donald Scalmanini al Punta d’Acu Resort, in Costa Smeralda. Una storia che parte da San José, California. Passa dalla Toscana.…",
+        "link": "https://www.winemag.it/don-s-barbecue-costa-smeralda-donald-scalmanini-uomo-che-ha-portato-in-italia-bbq-americano/",
+        "pubDate": "2026-06-01T12:46:18+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Don-s-Barbecue-in-Costa-Smeralda-la-storia-di-Donald-Scalmanini-uomo-che-ha-portato-in-Italia-il-BBQ-Americano-al-Punta-d-Acu-Resort-arzachena-gallura-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Oltre i vini liquorosi: Marsala riparte dai giovani e dai bianchi dello Stagnone",
         "description": "Fino ad ora questa parte della Sicilia ha vissuto più nel passato che nel presente, ma adesso le cose stanno cambiando. A partire dalle sottozone e dalla spinta…",
         "link": "https://www.gamberorosso.it/notizie/vino/marsala-oltre-vini-liquorosi-bianchi-stagnone/",
@@ -160,24 +178,6 @@
         "description": "Pietro Catzola va in pensione dopo aver servito cinque presidenti della Repubblica e cucinato per i grandi del mondo. L'aneddoto più tragico? L'incidente diplom…",
         "link": "https://www.gamberorosso.it/notizie/attualita/cuoco-quirinale-pensione-pietro-catzola/",
         "pubDate": "2026-06-01T10:01:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Giappone le cucine migranti rischiano di scomparire",
-        "description": "La nuova legge sui visti di lavoro potrebbe limitare ancora di più la diversità culinaria in Giappone, obbligando molti a lasciare il Paese.\nL'articolo In Giapp…",
-        "link": "https://www.dissapore.com/notizie/in-giappone-le-cucine-migranti-rischiano-di-scomparire/",
-        "pubDate": "2026-06-01T09:49:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/lanterne-giappone-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Degustazioni di vino in mezzo ai capolavori di Picasso a Warhol. Così i musei spagnoli spingono sull’enoturismo",
-        "description": "In Spagna i musei del vino diventano hub culturali e territoriali: dal Vivanco di Rioja a Valdepeñas, due modelli per ampliare l'incoming oltre la visita in can…",
-        "link": "https://www.gamberorosso.it/notizie/vino/musei-vino-spagna-vivanco-roja-valdepenas/",
-        "pubDate": "2026-06-01T09:06:21+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -376,6 +376,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Mariano Murru nominato Cavaliere al Merito della Repubblica: il riconoscimento per l’enologo simbolo della Sardegna",
+        "description": "L’enologo sardo Mariano Murru è stato insignito del titolo di Cavaliere dell’Ordine al Merito della Repubblica Italiana. L’onorificenza è stata conferita dal pr…",
+        "link": "https://www.winemag.it/mariano-murru-nominato-cavaliere-al-merito-della-repubblica-il-riconoscimento-per-lenologo-simbolo-della-sardegna/",
+        "pubDate": "2026-06-02T10:46:14+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Nel sud della Sardegna si produce un grande Cannonau in versione rosé (che costa meno di 15 euro)",
         "description": "Tra i vini proposti dalla più grande cantina dell'isola, ci ha colpiti in modo particolare per il rapporto qualità prezzo l'etichetta ottenuta dal vitigno autoc…",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-rosati-sardegna-cannonau-cantine-dolianova/",
@@ -419,6 +428,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "La storia di Donald Scalmanini, l’uomo che ha portato in Italia il BBQ Americano",
+        "description": "Don’s Barbecue è il ristorante di Donald Scalmanini al Punta d’Acu Resort, in Costa Smeralda. Una storia che parte da San José, California. Passa dalla Toscana.…",
+        "link": "https://www.winemag.it/don-s-barbecue-costa-smeralda-donald-scalmanini-uomo-che-ha-portato-in-italia-bbq-americano/",
+        "pubDate": "2026-06-01T12:46:18+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Don-s-Barbecue-in-Costa-Smeralda-la-storia-di-Donald-Scalmanini-uomo-che-ha-portato-in-Italia-il-BBQ-Americano-al-Punta-d-Acu-Resort-arzachena-gallura-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Oltre i vini liquorosi: Marsala riparte dai giovani e dai bianchi dello Stagnone",
@@ -511,38 +529,20 @@
         "source": "Dissapore"
       },
       {
+        "title": "Cristina Mercuri MW entra nel Membership Committee dell’Institute of Masters of Wine",
+        "description": "Cristina Mercuri MW è stata nominata membro del Membership Committee dell’Institute of Masters of Wine, tra le istituzioni più autorevoli del panorama vitivinic…",
+        "link": "https://www.winemag.it/cristina-mercuri-mw-entra-nel-membership-committee-dellinstitute-of-masters-of-wine/",
+        "pubDate": "2026-05-31T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Birre d’Italia 2027: cosa ci dice la guida di Slow Food sulla birra artigianale che sarà",
         "description": "È stata presentata la nuova edizione della guida di Slow Food editore dedicata alla birra artigianale italiana: un'occasione particolarmente sentita, tra il tre…",
         "link": "https://www.dissapore.com/notizie/birre-ditalia-2027-cosa-ci-dice-la-guida-di-slow-food-sulla-birra-artigianale-che-sara/",
         "pubDate": "2026-05-30T17:04:19+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/birre-ditalia-2027-slow-food.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il miglior ristorante italiano del Nord America ci fa rabbrividire?",
-        "description": "Se non siete curiosi di provare il bao di San Gennaro, i Capellini Cantonese o le Orecchie Primavera, dovete comunque farvene una ragione: per la 50 best Torris…",
-        "link": "https://www.dissapore.com/notizie/il-miglior-ristorante-italiano-del-nord-america-ci-fa-rabbrividire/",
-        "pubDate": "2026-05-30T11:28:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/10/ristorante-turistico-scaled-e1760859644437.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Fare il gelato costa troppo? Basta usare ingredienti migliori: a Dritto e Rovescio va in onda l’utopia",
-        "description": "In una recentissima puntata di \"Dritto e Rovescio\" di Paolo Del Debbio, le strampalate dichiarazioni di un gelatiere pluripremiato lasciano perplessi.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/fare-il-gelato-costa-troppo-basta-usare-ingredienti-migliori-a-dritto-e-rovescio-va-in-onda-lutopia/",
-        "pubDate": "2026-05-30T10:01:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/scotti-del-debbio-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gli influencer hanno esaurito le scorte di un formaggio francese (sconosciuto)",
-        "description": "Davvero curioso il cancoillotte, formaggio della France-Comté con caratteristiche nutrizionali che poco hanno a che fare con il più celebre prodotto del territo…",
-        "link": "https://www.dissapore.com/notizie/gli-influencer-hanno-esaurito-le-scorte-di-un-formaggio-francese-sconosciuto/",
-        "pubDate": "2026-05-29T13:09:03+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
       }
