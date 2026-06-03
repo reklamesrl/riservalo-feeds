@@ -1,7 +1,88 @@
 {
-  "generated": "2026-06-03T11:00:21.831252+00:00",
+  "generated": "2026-06-03T16:49:56.589295+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "“Togliere i limiti dell’acidità volatile nei vini? Sarebbe un grosso errore”. Parlano i produttori contrari alla proposta",
+        "description": "L’idea lanciata da Pantaleoni non piace a tutti. Se Tecce parla di vini difettati, Lorenzetti guarda oltre: “Da rivedere sarebbero altri parametri, come ad esem…",
+        "link": "https://www.gamberorosso.it/notizie/vino/acidita-volatile-vini-naturali-lorenzetti-tecce-contro-proposta-pantaleoni/",
+        "pubDate": "2026-06-03T16:39:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La crisi del pistacchio, tra Dubai Chocolate e guerra in Iran",
+        "description": "Tra cioccolati virali, conflitti internazionali e cambiamenti climatici, il mercato del pistacchio sta attraversando una fase decisamente complicata.\nL'articolo…",
+        "link": "https://www.dissapore.com/notizie/la-crisi-del-pistacchio-tra-dubai-chocolate-e-guerra-in-iran/",
+        "pubDate": "2026-06-03T16:38:43+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/07/pistacchio-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Gabicce, la perla dell’Adriatico: mare cristallino, panorami e un borgo bellissimo",
+        "description": "Tra spiagge affacciate sull’Adriatico, sentieri panoramici e scorci sul Monte San Bartolo, Gabicce è una delle destinazioni più interessanti delle Marche per ch…",
+        "link": "https://www.stylosophy.it/articolo/gabicce-la-perla-delladriatico-mare-cristallino-panorami-e-un-borgo-bellissimo/251398/",
+        "pubDate": "2026-06-03T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il Mediterraneo siamo noi. L’ultima geografia che riconosciamo ancora a occhi chiusi",
+        "description": "Più che un mare, un luogo d'incontro tra idee, sapori e culture. E che, tra fragilità e contraddizioni, continua a indicarci una direzione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/mediterraneo-siamo-noi/",
+        "pubDate": "2026-06-03T14:33:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Hailey Bieber sfoggia il perfetto beach Look con il colore must dell’estate: e tu lo indosserai?",
+        "description": "Hailey Bieber pensa già all'estate e indossa il perfetto beach look con il colore must di stagione.…",
+        "link": "https://www.stylosophy.it/articolo/hailey-bieber-sfoggia-il-perfetto-beach-look-con-il-colore-must-dellestate-e-tu-lo-indosserai/251389/",
+        "pubDate": "2026-06-03T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Le ballerine in mesh sono ancora le scarpe più desiderate dell’estate (e questi modelli faranno venire gli occhi a cuoricino anche a voi)",
+        "description": "Già da un paio di stagioni, al primo accenno di primavera, tornano a fare capolino nelle collezioni di grandi griffe e catene low cost, e a quanto pare anche qu…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-in-mesh-zara-alaia-mango-rete-2026-estate-donna-intrecciate-977286",
+        "pubDate": "2026-06-03T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Ballerine_in_mesh.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Cambio d’abito per Dua Lipa dopo le nozze a Londra: per una passeggiata rilassante al parco sfoggia un look super easy e un paio di UGG",
+        "description": "Giusto qualche giorno fa è apparsa radiosa e super chic nel giorno del fatidico &#8220;sì&#8221; al suo Callum Turner (qui i dettagli del look sfoggiato per le …",
+        "link": "https://www.grazia.it/moda/news-moda/dua-lipa-callum-turner-matrimonio-look-ugg-classic-mini-stivali-977351",
+        "pubDate": "2026-06-03T12:39:06+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/dua-lipa-ugg.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Giorgio Locatelli è il nuovo giudice di Celebrity MasterChef UK",
+        "description": "La BBC punta su Giorgio Locatelli per rinfrescare il format, dopo che i presentatori storici  sono stati travolti dagli scandali.\nL'articolo Giorgio Locatelli è…",
+        "link": "https://www.dissapore.com/notizie/giorgio-locatelli-e-il-nuovo-giudice-di-celebrity-masterchef-uk/",
+        "pubDate": "2026-06-03T12:16:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/Giudici-Masterchef-UK-scaled-e1752831004397.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Non è estate senza Pasquale”. Si ferma uno degli ultimi cocomerari di Roma",
+        "description": "Dal 1971 Pasquale il cocomeraro era una tappa fissa delle serate estive in via Portuense. Quest'estate, però, non riaprirà, una notizia che ha suscitato grande …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasquale-cocomeraro-chiude-roma/",
+        "pubDate": "2026-06-03T12:12:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La Georgia apre la cantina segreta di Stalin: all’asta 40mila bottiglie tra vini degli zar e pregiate etichette francesi",
         "description": "Un tesoro enologico dal valore multimilionario, che ripercorre la storia georgiana e che ora verrà messo all'incanto per sostenere l'enologia nazionale…",
@@ -66,6 +147,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "10 pezzi favolosi da acquistare a Giugno da Mango",
+        "description": "Pronte a inaugurare il mese di Giugno con la giusta verve? Un po&#8217; di shopping può solo aiutare, ne siamo certe! Oltretutto da Mango vi aspetta una selezio…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-mango-a-giugno-vestiti-scarpe-borse-sandali-accessori-must-have-976895",
+        "pubDate": "2026-06-03T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_mango_maggio_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "La crisi del vino francese si legge anche nel calo del prezzo dei vigneti: nel 2025 quasi -3%",
         "description": "Nel report Safer flessioni pronunciate tra Bordeaux-Aquitania e Sud-Ovest, mentre l'aumento prosegue in Borgogna-Beaujolais-Savoia-Giura. Non mancano prezzi da …",
         "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-francese-calo-prezzo-vigneti-2025/",
@@ -73,15 +163,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vinarium 2026: il vino romeno tra Dealu Mare, Fetească Neagră e monasteri",
-        "description": "Vinarium 2026: il vino romeno tra Dealu Mare, Fetească Neagră e monasteri a Ploiești,  Apogeum Winery, Feruccio e Via Domnului Winery\nL'articolo Vinarium 2026: …",
-        "link": "https://www.winemag.it/vinarium-2026-vino-romeno-tra-dealu-mare-feteasca-neagra-e-monasteri/",
-        "pubDate": "2026-06-02T23:07:47+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Vinarium-2026-il-vino-romeno-tra-Dealu-Mare-Feteasca-Neagra-e-monasteri-1-scaled.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Weekend di giugno a Taormina: cosa fare e vedere in 2 giorni nella splendida città siciliana",
@@ -100,90 +181,45 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Un’intelligenza artificiale ci interrogherà sulla stagionalità, mentre acquistiamo i pomodori al supermercato?",
-        "description": "Un'intelligenza artificiale inserita nel reparto ortofrutta di alcuni supermercati, per aiutare chi compra e nel frattempo raccogliere dati sulle vendite.\nL'art…",
-        "link": "https://www.dissapore.com/notizie/unintelligenza-artificiale-ci-interroghera-sulla-stagionalita-mentre-acquistiamo-i-pomodori-al-supermercato/",
-        "pubDate": "2026-06-02T11:22:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/banane-al-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Mariano Murru nominato Cavaliere al Merito della Repubblica: il riconoscimento per l’enologo simbolo della Sardegna",
-        "description": "L’enologo sardo Mariano Murru è stato insignito del titolo di Cavaliere dell’Ordine al Merito della Repubblica Italiana. L’onorificenza è stata conferita dal pr…",
-        "link": "https://www.winemag.it/mariano-murru-nominato-cavaliere-al-merito-della-repubblica-il-riconoscimento-per-lenologo-simbolo-della-sardegna/",
-        "pubDate": "2026-06-02T10:46:14+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Nel sud della Sardegna si produce un grande Cannonau in versione rosé (che costa meno di 15 euro)",
-        "description": "Tra i vini proposti dalla più grande cantina dell'isola, ci ha colpiti in modo particolare per il rapporto qualità prezzo l'etichetta ottenuta dal vitigno autoc…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-rosati-sardegna-cannonau-cantine-dolianova/",
-        "pubDate": "2026-06-02T10:06:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non solo Guinness: la guerra delle “scure” in Inghilterra",
-        "description": "In un momento di crisi birraria, Guinness sembra l'unico marchio in crescita, e altre stout storiche non vogliono restare a guardare.\nL'articolo Non solo Guinne…",
-        "link": "https://www.dissapore.com/notizie/non-solo-guinness-la-guerra-delle-scure-in-inghilterra/",
-        "pubDate": "2026-06-02T09:24:41+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/guinness-spina-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Mangiare nel Chianti spendendo poco: il posto frequentato dalla gente locale dove lo scottadito costa 14 euro",
-        "description": "Il bello dell’Osteria Le Panzanelle è riuscire a mantenere un livello alto di cucina e materia prima senza far lievitare il conto. Una cucina genuina fuori dal …",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/mangiare-chianti-osteria-le-panzanelle/",
-        "pubDate": "2026-06-02T09:03:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non bastano le face mist! Per una pelle del viso detersa e fresca, punta su queste 5 creme in gel",
-        "description": "Fresche, leggere ma anche idratanti, le creme viso gel sono un ottimo alleato per l'Estate. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/per-una-pelle-del-viso-detersa-e-fresca-punta-su-queste-5-creme-in-gel/251362/",
-        "pubDate": "2026-06-02T09:00:00+00:00",
+        "title": "Gabicce, la perla dell’Adriatico: mare cristallino, panorami e un borgo bellissimo",
+        "description": "Tra spiagge affacciate sull’Adriatico, sentieri panoramici e scorci sul Monte San Bartolo, Gabicce è una delle destinazioni più interessanti delle Marche per ch…",
+        "link": "https://www.stylosophy.it/articolo/gabicce-la-perla-delladriatico-mare-cristallino-panorami-e-un-borgo-bellissimo/251398/",
+        "pubDate": "2026-06-03T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "I pantaloni perfetti per creare look freschi e chic anche in piena estate? Con quelli in satin è impossibile sbagliare!",
-        "description": "I pantaloni lunghi sono uno dei pezzi chiave del guardaroba quotidiano durante tutto l’anno, eppure, in questo periodo, non appena le temperature cominciano a s…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-in-satin-donna-zara-raso-eleganti-fluidi-leggeri-estate-satinati-977101",
-        "pubDate": "2026-06-02T09:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Pantaloni_fluidi.jpg",
+        "title": "Hailey Bieber sfoggia il perfetto beach Look con il colore must dell’estate: e tu lo indosserai?",
+        "description": "Hailey Bieber pensa già all'estate e indossa il perfetto beach look con il colore must di stagione.…",
+        "link": "https://www.stylosophy.it/articolo/hailey-bieber-sfoggia-il-perfetto-beach-look-con-il-colore-must-dellestate-e-tu-lo-indosserai/251389/",
+        "pubDate": "2026-06-03T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Le ballerine in mesh sono ancora le scarpe più desiderate dell’estate (e questi modelli faranno venire gli occhi a cuoricino anche a voi)",
+        "description": "Già da un paio di stagioni, al primo accenno di primavera, tornano a fare capolino nelle collezioni di grandi griffe e catene low cost, e a quanto pare anche qu…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-in-mesh-zara-alaia-mango-rete-2026-estate-donna-intrecciate-977286",
+        "pubDate": "2026-06-03T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Ballerine_in_mesh.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Snow beer: perché in Malesia la birra si beve quasi ghiacciata (e super schiumosa)",
-        "description": "Un bicchiere tenuto nel freezer, una schiuma quasi nevosa e una tradizione nata in un caffè in Malesia. A Ipoh la chiamano snow beer ed è un rituale diventato s…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/snow-beer-birra-fredda-schiuma-malesia/",
-        "pubDate": "2026-06-02T08:00:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cosa comprare da Zara a Giugno: 12 must have da non perdere",
-        "description": "Giugno è il mese che segna ufficialmente l&#8217;inizio dell&#8217;estate e la voglia di rinfrescare il guardaroba si fa sentire più che mai. Zara risponde alla…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/zara-cosa-comprare-a-giugno-shopping-online-abiti-scarpe-sandali-accessori-must-have-976867",
-        "pubDate": "2026-06-02T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_cosa_comprare_zara_giugno.jpg",
+        "title": "Cambio d’abito per Dua Lipa dopo le nozze a Londra: per una passeggiata rilassante al parco sfoggia un look super easy e un paio di UGG",
+        "description": "Giusto qualche giorno fa è apparsa radiosa e super chic nel giorno del fatidico &#8220;sì&#8221; al suo Callum Turner (qui i dettagli del look sfoggiato per le …",
+        "link": "https://www.grazia.it/moda/news-moda/dua-lipa-callum-turner-matrimonio-look-ugg-classic-mini-stivali-977351",
+        "pubDate": "2026-06-03T12:39:06+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/dua-lipa-ugg.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      }
-    ],
-    "moda": [
+      },
       {
         "title": "Torna Esxence, l’evento dedicato alla profumeria artistica e di nicchia: ecco cosa sapere…",
         "description": "Tutto sulla nuova edizione di Esxence, l'evento più amato dagli esperti ed appassionati di profumeria artistica e di nicchia. Ecco cosa sapere...…",
@@ -192,6 +228,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "10 pezzi favolosi da acquistare a Giugno da Mango",
+        "description": "Pronte a inaugurare il mese di Giugno con la giusta verve? Un po&#8217; di shopping può solo aiutare, ne siamo certe! Oltretutto da Mango vi aspetta una selezio…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-mango-a-giugno-vestiti-scarpe-borse-sandali-accessori-must-have-976895",
+        "pubDate": "2026-06-03T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_mango_maggio_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Weekend di giugno a Taormina: cosa fare e vedere in 2 giorni nella splendida città siciliana",
@@ -302,24 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Castelli sul mare più belli d’Italia: il terzo lascia senza fiato",
-        "description": "Dalla costa adriatica al Sud Italia, viaggio tra i più affascinanti castelli sul mare italiani: architetture imponenti, panorami mozzafiato e una storia antichi…",
-        "link": "https://www.stylosophy.it/articolo/castelli-sul-mare-piu-belli-ditalia-il-terzo-lascia-senza-fiato/251312/",
-        "pubDate": "2026-05-31T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Beatrice Valli incanta tutti con un Look dal sapore vintage con giacca e gonna a tubino FOTO",
-        "description": "Beatrice Valli, per la sua intervista a Verissimo, ha indossato un completo giacca gonna a tubino dal sapore vintage.…",
-        "link": "https://www.stylosophy.it/articolo/beatrice-valli-incanta-tutti-con-un-look-dal-sapore-vintage-con-giacca-e-gonna-a-tubino-foto/251305/",
-        "pubDate": "2026-05-31T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Crochet mania: il trend della maglia “all’uncinetto” non accenna a perdere appeal",
         "description": "La tendenza uncinetto è ufficialmente esplosa. Nella moda primavera estate 2026, infatti, non c&#8217;è capo o accessorio crochet che manchi all&#8217;appello. …",
         "link": "https://www.grazia.it/moda/tendenze-moda/crochet-abbigliamento-maglia-all-uncinetto-capi-accessori-tricot-estate-2026-975838",
@@ -336,36 +363,54 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/00_desktop_tshiert_bianche.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Le collaborazioni più interessanti, i debutti che non ci aspettavamo e i ritorni destinati a lasciare il segno. Maggio si chiude così: con la sensazione che la …",
-        "link": "https://www.grazia.it/moda/achille-lauro-condup-dodo-wwf-isabel-marant-havaianas-mystyle-bag-fitp-mantero-costumi-bagno-vespa-lover-daniel-oscar-spasa-rinascente-976556",
-        "pubDate": "2026-05-29T15:01:34+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/Senza-titolo-136.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’eleganza ha nuove regole di gioco: torna la The Mall Firenze Golf Cup",
-        "description": "Tra le colline morbide del Chianti, i filari ordinati di vigneti e i cipressi che disegnano il paesaggio toscano, il golf diventa qualcosa di più di uno sport: …",
-        "link": "https://www.grazia.it/moda/news-moda/the-mall-firenze-golf-cup-2026-976183",
-        "pubDate": "2026-05-29T13:07:24+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/ok-apertura-1-3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il capo ideale per entrare subito nel mood dell’estate? Non abbiamo dubbi, il top in crochet!",
-        "description": "Sono uno dei grandi must della bella stagione e, indipendentemente da quel che dicono gli ultimi trend, si meritano sempre un posticino nel nostro guardaroba. V…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/top-in-crochet-lavorazione-uncinetto-donna-estate-bianco-colorato-zara-976646",
-        "pubDate": "2026-05-29T12:50:02+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/COVER_Top_in_crochet.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "“Togliere i limiti dell’acidità volatile nei vini? Sarebbe un grosso errore”. Parlano i produttori contrari alla proposta",
+        "description": "L’idea lanciata da Pantaleoni non piace a tutti. Se Tecce parla di vini difettati, Lorenzetti guarda oltre: “Da rivedere sarebbero altri parametri, come ad esem…",
+        "link": "https://www.gamberorosso.it/notizie/vino/acidita-volatile-vini-naturali-lorenzetti-tecce-contro-proposta-pantaleoni/",
+        "pubDate": "2026-06-03T16:39:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La crisi del pistacchio, tra Dubai Chocolate e guerra in Iran",
+        "description": "Tra cioccolati virali, conflitti internazionali e cambiamenti climatici, il mercato del pistacchio sta attraversando una fase decisamente complicata.\nL'articolo…",
+        "link": "https://www.dissapore.com/notizie/la-crisi-del-pistacchio-tra-dubai-chocolate-e-guerra-in-iran/",
+        "pubDate": "2026-06-03T16:38:43+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/07/pistacchio-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Mediterraneo siamo noi. L’ultima geografia che riconosciamo ancora a occhi chiusi",
+        "description": "Più che un mare, un luogo d'incontro tra idee, sapori e culture. E che, tra fragilità e contraddizioni, continua a indicarci una direzione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/mediterraneo-siamo-noi/",
+        "pubDate": "2026-06-03T14:33:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Giorgio Locatelli è il nuovo giudice di Celebrity MasterChef UK",
+        "description": "La BBC punta su Giorgio Locatelli per rinfrescare il format, dopo che i presentatori storici  sono stati travolti dagli scandali.\nL'articolo Giorgio Locatelli è…",
+        "link": "https://www.dissapore.com/notizie/giorgio-locatelli-e-il-nuovo-giudice-di-celebrity-masterchef-uk/",
+        "pubDate": "2026-06-03T12:16:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/Giudici-Masterchef-UK-scaled-e1752831004397.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Non è estate senza Pasquale”. Si ferma uno degli ultimi cocomerari di Roma",
+        "description": "Dal 1971 Pasquale il cocomeraro era una tappa fissa delle serate estive in via Portuense. Quest'estate, però, non riaprirà, una notizia che ha suscitato grande …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasquale-cocomeraro-chiude-roma/",
+        "pubDate": "2026-06-03T12:12:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La Georgia apre la cantina segreta di Stalin: all’asta 40mila bottiglie tra vini degli zar e pregiate etichette francesi",
         "description": "Un tesoro enologico dal valore multimilionario, che ripercorre la storia georgiana e che ora verrà messo all'incanto per sostenere l'enologia nazionale…",
@@ -430,15 +475,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Vinarium 2026: il vino romeno tra Dealu Mare, Fetească Neagră e monasteri",
-        "description": "Vinarium 2026: il vino romeno tra Dealu Mare, Fetească Neagră e monasteri a Ploiești,  Apogeum Winery, Feruccio e Via Domnului Winery\nL'articolo Vinarium 2026: …",
-        "link": "https://www.winemag.it/vinarium-2026-vino-romeno-tra-dealu-mare-feteasca-neagra-e-monasteri/",
-        "pubDate": "2026-06-02T23:07:47+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Vinarium-2026-il-vino-romeno-tra-Dealu-Mare-Feteasca-Neagra-e-monasteri-1-scaled.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Un’intelligenza artificiale ci interrogherà sulla stagionalità, mentre acquistiamo i pomodori al supermercato?",
         "description": "Un'intelligenza artificiale inserita nel reparto ortofrutta di alcuni supermercati, per aiutare chi compra e nel frattempo raccogliere dati sulle vendite.\nL'art…",
         "link": "https://www.dissapore.com/notizie/unintelligenza-artificiale-ci-interroghera-sulla-stagionalita-mentre-acquistiamo-i-pomodori-al-supermercato/",
@@ -446,15 +482,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/banane-al-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Mariano Murru nominato Cavaliere al Merito della Repubblica: il riconoscimento per l’enologo simbolo della Sardegna",
-        "description": "L’enologo sardo Mariano Murru è stato insignito del titolo di Cavaliere dell’Ordine al Merito della Repubblica Italiana. L’onorificenza è stata conferita dal pr…",
-        "link": "https://www.winemag.it/mariano-murru-nominato-cavaliere-al-merito-della-repubblica-il-riconoscimento-per-lenologo-simbolo-della-sardegna/",
-        "pubDate": "2026-06-02T10:46:14+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Nel sud della Sardegna si produce un grande Cannonau in versione rosé (che costa meno di 15 euro)",
@@ -484,42 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Snow beer: perché in Malesia la birra si beve quasi ghiacciata (e super schiumosa)",
-        "description": "Un bicchiere tenuto nel freezer, una schiuma quasi nevosa e una tradizione nata in un caffè in Malesia. A Ipoh la chiamano snow beer ed è un rituale diventato s…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/snow-beer-birra-fredda-schiuma-malesia/",
-        "pubDate": "2026-06-02T08:00:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gianni Usai, l’uomo che voleva insegnare ai pescatori a seminare il mare",
-        "description": "Da Mirafiori a Su Pallosu, la storia dell’operaio che trasformò l’aragosta in una battaglia collettiva per ripopolare il mare. Ma non aveva fatto i conti con un…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-gianni-usai-sardegna-pesce/",
-        "pubDate": "2026-06-02T05:09:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La storia di Donald Scalmanini, l’uomo che ha portato in Italia il BBQ Americano",
-        "description": "Don’s Barbecue è il ristorante di Donald Scalmanini al Punta d’Acu Resort, in Costa Smeralda. Una storia che parte da San José, California. Passa dalla Toscana.…",
-        "link": "https://www.winemag.it/don-s-barbecue-costa-smeralda-donald-scalmanini-uomo-che-ha-portato-in-italia-bbq-americano/",
-        "pubDate": "2026-06-01T12:46:18+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Don-s-Barbecue-in-Costa-Smeralda-la-storia-di-Donald-Scalmanini-uomo-che-ha-portato-in-Italia-il-BBQ-Americano-al-Punta-d-Acu-Resort-arzachena-gallura-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Oltre i vini liquorosi: Marsala riparte dai giovani e dai bianchi dello Stagnone",
-        "description": "Fino ad ora questa parte della Sicilia ha vissuto più nel passato che nel presente, ma adesso le cose stanno cambiando. A partire dalle sottozone e dalla spinta…",
-        "link": "https://www.gamberorosso.it/notizie/vino/marsala-oltre-vini-liquorosi-bianchi-stagnone/",
-        "pubDate": "2026-06-01T12:02:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "In Giappone le cucine migranti rischiano di scomparire",
         "description": "La nuova legge sui visti di lavoro potrebbe limitare ancora di più la diversità culinaria in Giappone, obbligando molti a lasciare il Paese.\nL'articolo In Giapp…",
         "link": "https://www.dissapore.com/notizie/in-giappone-le-cucine-migranti-rischiano-di-scomparire/",
@@ -543,6 +534,15 @@
         "link": "https://www.dissapore.com/locali/dove-mangiare-un-ottimo-cornetto-al-burro-a-napoli-evitando-la-margarina/",
         "pubDate": "2026-05-31T19:11:37+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/02/Cheval-Blanc-Paris-Le-Tout-Paris-croissant-Petit-dejeuner-Maki-Manoukian-2022-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Le coltivazioni per vino, tartufo e miele possono fermare gli incendi boschivi",
+        "description": "Gli ingredienti che stanno benissimo sul tagliere da aperitivo aiutano anche l'ambiente, grazie alla conformazione dei loro campi. \nL'articolo Le coltivazioni p…",
+        "link": "https://www.dissapore.com/notizie/le-coltivazioni-per-vino-tartufo-e-miele-possono-fermare-gli-incendi-boschivi/",
+        "pubDate": "2026-05-31T07:12:58+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2021/12/shutterstock_1093020368-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
