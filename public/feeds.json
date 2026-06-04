@@ -1,7 +1,52 @@
 {
-  "generated": "2026-06-04T15:16:29.426393+00:00",
+  "generated": "2026-06-04T20:06:35.070188+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il bar della terrazza più bella di Torino è chiuso al pubblico, da sempre",
+        "description": "A Torino c'è un hotel che ha una terrazza meravigliosa, con tanto di bar, ma non ci si può salire.\nL'articolo Il bar della terrazza più bella di Torino è chiuso…",
+        "link": "https://www.dissapore.com/notizie/il-bar-della-terrazza-piu-bella-di-torino-e-chiuso-al-pubblico-da-sempre/",
+        "pubDate": "2026-06-04T16:37:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Turin-Palace-hotel-30-Terrazza-A-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "JYSK:  tre consigli per decorare il balcone e trasformarlo in uno spazio da vivere",
+        "description": "L'esperta di tendenze Rikke Blæsild condivide i suoi consigli preferiti per decorare il balcone come naturale estensione del resto della casa, utilizzando la nu…",
+        "link": "https://www.stylosophy.it/articolo/jysk-tre-consigli-per-decorare-il-balcone-e-trasformarlo-in-uno-spazio-da-vivere/251432/",
+        "pubDate": "2026-06-04T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Contenere la produzione di vino con un patto di filiera. Uiv prepara un pacchetto di proposte (ma senza estirpi)",
+        "description": "Nelle misure approvate dal sindacato, ci sono lo stop temporaneo ai nuovi vigneti e la riduzione delle rese. Frescobaldi: \"Apprezziamo i Consorzi che stanno già…",
+        "link": "https://www.gamberorosso.it/notizie/vino/misure-vino-anti-crisi-pacchetto-uiv/",
+        "pubDate": "2026-06-04T15:49:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La stagione drammatica dei vini dolci. Dai luoghi comuni che li hanno condannati alle strategie per rilanciarli",
+        "description": "Su passiti e muffati si scrivono così tanti libri da far sorgere una domanda: sono ormai soltanto prodotti “da leggere” più che da bere? Rispondono gli autori: …",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-dolci-strategie-rilancio/",
+        "pubDate": "2026-06-04T15:23:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’è un ortaggio che attraversa il Mediterraneo tracciandone le traiettorie del gusto: storia e ricette della “mela insana”",
+        "description": "Dalla Tunisia alla Sicilia, dalla Grecia alla Turchia le melanzane ridisegnano la mappa geopolitica. A partire dai nomi dei piatti che spesso rivelano significa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-ricette-origini-melanzane/",
+        "pubDate": "2026-06-04T15:16:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Castiglione del Lago: cosa vedere e fare nel borgo sul Trasimeno per un weekend di giugno",
         "description": "Affacciato sulle rive del Lago Trasimeno, Castiglione del Lago è uno dei borghi più affascinanti dell'Umbria, perfetto per un fine settimana tra storia, panoram…",
@@ -19,15 +64,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nuovo decreto sui Consorzi di tutela DOP e IGP, Origin Italia: «Passaggio decisivo per il sistema delle Indicazioni Geografiche»",
-        "description": "Il nuovo decreto ministeriale sui Consorzi di tutela dei prodotti agricoli e alimentari DOP e IGP, adottato dal Ministero dell’Agricoltura, della Sovranità Alim…",
-        "link": "https://www.winemag.it/nuovo-decreto-sui-consorzi-di-tutela-dop-e-igp-origin-italia-passaggio-decisivo-per-il-sistema-delle-indicazioni-geografiche/",
-        "pubDate": "2026-06-04T13:55:28+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Tra polpette e pop corn, il mondo delle caramelle deve avere un problema",
@@ -145,45 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/05/00_DEKSTOP_POLO.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "“Stop ai nuovi vigneti fino al 2028”. La Docg Franciacorta traccia la strada del contenimento",
-        "description": "La richiesta del Consorzio alla Regione Lombardia è il segno di una strategia di contenimento e riequilibrio dopo un incremento delle superfici del 25% negli ul…",
-        "link": "https://www.gamberorosso.it/notizie/vino/franciacorta-docg-stop-nuovi-vigneti-fino-2028/",
-        "pubDate": "2026-06-04T08:01:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pompea svela due nuovi drop tra street culture e identità personale",
-        "description": "Nel panorama moda attuale, dove i confini tra streetwear, lifestyle e digitale si fanno sempre più sfumati, Pompea sceglie di muoversi in quella zona ibrida in …",
-        "link": "https://www.grazia.it/moda/news-moda/pompea-due-nuovi-drop-streetwear-zodiaco-977514",
-        "pubDate": "2026-06-04T08:00:40+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La svolta di Pantelleria. Pellegrino rilancia i bianchi secchi dell’isola: “Saranno il futuro”",
-        "description": "Nel regno del passito, Benedetto Renda, presidente della cantina e del consorzio locale, scommette sullo zibibbo secco. E a Marsala dialoga sempre di più con la…",
-        "link": "https://www.gamberorosso.it/notizie/vino/pantelleria-futuro-vini-bianchi-secchi-pellegrino/",
-        "pubDate": "2026-06-04T07:07:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vigneto più piccolo al mondo si trova su una terrazza nel cuore di Reggio Emilia",
-        "description": "Al quarto piano in pieno centro città, il proprietario Tullio Masoni ottiene 30 bottiglie l'anno coltivando sangiovese su un terreno misto proveniente da tutta …",
-        "link": "https://www.gamberorosso.it/notizie/vino/vigneto-piu-piccolo-mondo-terrazza-reggio-emilia-tullio-masoni/",
-        "pubDate": "2026-06-04T06:03:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "JYSK:  tre consigli per decorare il balcone e trasformarlo in uno spazio da vivere",
+        "description": "L'esperta di tendenze Rikke Blæsild condivide i suoi consigli preferiti per decorare il balcone come naturale estensione del resto della casa, utilizzando la nu…",
+        "link": "https://www.stylosophy.it/articolo/jysk-tre-consigli-per-decorare-il-balcone-e-trasformarlo-in-uno-spazio-da-vivere/251432/",
+        "pubDate": "2026-06-04T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Castiglione del Lago: cosa vedere e fare nel borgo sul Trasimeno per un weekend di giugno",
         "description": "Affacciato sulle rive del Lago Trasimeno, Castiglione del Lago è uno dei borghi più affascinanti dell'Umbria, perfetto per un fine settimana tra storia, panoram…",
@@ -354,18 +363,45 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Hai una Stanza extra in casa? Ecco come trasformarla in base alle tue esigenze",
-        "description": "Scopri come trasformare una stanza inutilizzata in casa in uno spazio funzionale e accogliente con le nostre idee creative e pratiche, adattabili alle tue esige…",
-        "link": "https://www.stylosophy.it/articolo/stanza-in-piu-in-casa-come-sfruttarla-le-nostre-idee/193699/",
-        "pubDate": "2026-06-01T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il bar della terrazza più bella di Torino è chiuso al pubblico, da sempre",
+        "description": "A Torino c'è un hotel che ha una terrazza meravigliosa, con tanto di bar, ma non ci si può salire.\nL'articolo Il bar della terrazza più bella di Torino è chiuso…",
+        "link": "https://www.dissapore.com/notizie/il-bar-della-terrazza-piu-bella-di-torino-e-chiuso-al-pubblico-da-sempre/",
+        "pubDate": "2026-06-04T16:37:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Turin-Palace-hotel-30-Terrazza-A-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Contenere la produzione di vino con un patto di filiera. Uiv prepara un pacchetto di proposte (ma senza estirpi)",
+        "description": "Nelle misure approvate dal sindacato, ci sono lo stop temporaneo ai nuovi vigneti e la riduzione delle rese. Frescobaldi: \"Apprezziamo i Consorzi che stanno già…",
+        "link": "https://www.gamberorosso.it/notizie/vino/misure-vino-anti-crisi-pacchetto-uiv/",
+        "pubDate": "2026-06-04T15:49:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La stagione drammatica dei vini dolci. Dai luoghi comuni che li hanno condannati alle strategie per rilanciarli",
+        "description": "Su passiti e muffati si scrivono così tanti libri da far sorgere una domanda: sono ormai soltanto prodotti “da leggere” più che da bere? Rispondono gli autori: …",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-dolci-strategie-rilancio/",
+        "pubDate": "2026-06-04T15:23:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’è un ortaggio che attraversa il Mediterraneo tracciandone le traiettorie del gusto: storia e ricette della “mela insana”",
+        "description": "Dalla Tunisia alla Sicilia, dalla Grecia alla Turchia le melanzane ridisegnano la mappa geopolitica. A partire dai nomi dei piatti che spesso rivelano significa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-ricette-origini-melanzane/",
+        "pubDate": "2026-06-04T15:16:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "“Non è il vino ad essere in crisi, ma il modo vecchio di raccontarlo”. Le proposte per un cambiamento necessario",
         "description": "Seconda edizione di Envisioning, che ha riunito a Milano esperti e manager del settore. Il futuro passa da nuovi modelli di comunicazione, export ed enoturismo…",
@@ -374,15 +410,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nuovo decreto sui Consorzi di tutela DOP e IGP, Origin Italia: «Passaggio decisivo per il sistema delle Indicazioni Geografiche»",
-        "description": "Il nuovo decreto ministeriale sui Consorzi di tutela dei prodotti agricoli e alimentari DOP e IGP, adottato dal Ministero dell’Agricoltura, della Sovranità Alim…",
-        "link": "https://www.winemag.it/nuovo-decreto-sui-consorzi-di-tutela-dop-e-igp-origin-italia-passaggio-decisivo-per-il-sistema-delle-indicazioni-geografiche/",
-        "pubDate": "2026-06-04T13:55:28+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Tra polpette e pop corn, il mondo delle caramelle deve avere un problema",
@@ -449,7 +476,7 @@
       },
       {
         "title": "“Stop ai nuovi vigneti fino al 2028”. La Docg Franciacorta traccia la strada del contenimento",
-        "description": "La richiesta del Consorzio alla Regione Lombardia è il segno di una strategia di contenimento e riequilibrio dopo un incremento delle superfici del 25% negli ul…",
+        "description": "Dopo l'ok dal Masaf per la campagna 2026, il Consorzio sceglie di applicare una strategia di contenimento e riequilibrio, a causa del rapido incremento delle su…",
         "link": "https://www.gamberorosso.it/notizie/vino/franciacorta-docg-stop-nuovi-vigneti-fino-2028/",
         "pubDate": "2026-06-04T08:01:32+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -475,24 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Erano compagni di banco, oggi hanno aperto una delle pasticcerie più interessanti della Tuscia",
-        "description": "Tecnica francese, gusto italiano e una storia d'amore: così due ex compagni di banco stanno cambiando il modo di fare colazione a Bolsena: tutta la storia di Ma…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-tuscia-marite-colazioni/",
-        "pubDate": "2026-06-04T05:00:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Togliere i limiti dell’acidità volatile nei vini? Sarebbe un grosso errore”. Parlano i produttori contrari alla proposta",
-        "description": "L’idea lanciata da Pantaleoni non piace a tutti. Se Tecce parla di vini difettati, Lorenzetti guarda oltre: “Da rivedere sarebbero altri parametri, come ad esem…",
-        "link": "https://www.gamberorosso.it/notizie/vino/acidita-volatile-vini-naturali-lorenzetti-tecce-contro-proposta-pantaleoni/",
-        "pubDate": "2026-06-03T16:39:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La crisi del pistacchio, tra Dubai Chocolate e guerra in Iran",
         "description": "Tra cioccolati virali, conflitti internazionali e cambiamenti climatici, il mercato del pistacchio sta attraversando una fase decisamente complicata.\nL'articolo…",
         "link": "https://www.dissapore.com/notizie/la-crisi-del-pistacchio-tra-dubai-chocolate-e-guerra-in-iran/",
@@ -500,15 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/07/pistacchio-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il Mediterraneo siamo noi. L’ultima geografia che riconosciamo ancora a occhi chiusi",
-        "description": "Più che un mare, un luogo d'incontro tra idee, sapori e culture. E che, tra fragilità e contraddizioni, continua a indicarci una direzione…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/mediterraneo-siamo-noi/",
-        "pubDate": "2026-06-03T14:33:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Giorgio Locatelli è il nuovo giudice di Celebrity MasterChef UK",
@@ -538,13 +538,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "Vinarium 2026: il vino romeno tra Dealu Mare, Fetească Neagră e monasteri",
-        "description": "Vinarium 2026: il vino romeno tra Dealu Mare, Fetească Neagră e monasteri a Ploiești,  Apogeum Winery, Feruccio e Via Domnului Winery\nL'articolo Vinarium 2026: …",
-        "link": "https://www.winemag.it/vinarium-2026-vino-romeno-tra-dealu-mare-feteasca-neagra-e-monasteri/",
-        "pubDate": "2026-06-02T23:07:47+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Vinarium-2026-il-vino-romeno-tra-Dealu-Mare-Feteasca-Neagra-e-monasteri-1-scaled.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Un’intelligenza artificiale ci interrogherà sulla stagionalità, mentre acquistiamo i pomodori al supermercato?",
+        "description": "Un'intelligenza artificiale inserita nel reparto ortofrutta di alcuni supermercati, per aiutare chi compra e nel frattempo raccogliere dati sulle vendite.\nL'art…",
+        "link": "https://www.dissapore.com/notizie/unintelligenza-artificiale-ci-interroghera-sulla-stagionalita-mentre-acquistiamo-i-pomodori-al-supermercato/",
+        "pubDate": "2026-06-02T11:22:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/banane-al-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
