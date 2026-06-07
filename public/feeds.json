@@ -1,7 +1,16 @@
 {
-  "generated": "2026-06-07T13:53:44.922396+00:00",
+  "generated": "2026-06-07T19:22:50.423001+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Cetara, lo splendido borgo della Costiera Amalfitana tra bellezza e sapori autentici",
+        "description": "Questo borgo della Costiera Amalfitana è una chicca tutta da scoprire, ricca di attrazioni e celebre per la sua tradizione enogastronomica!…",
+        "link": "https://www.stylosophy.it/articolo/uno-splendido-borgo-della-costiera-amalfitana/231173/",
+        "pubDate": "2026-06-07T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Mettersi a dieta da soli è un’idea da ricovero, dati alla mano",
         "description": "Una nuova ricerca dimostra che una dieta personalizzata ha un impatto positivo non solo sul singolo paziente, ma su tutto il sistema sanitario, con numeri davve…",
@@ -84,6 +93,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Sandali low cost e dove trovarli: ecco i modelli sotto i 50€ da puntare quest’estate",
+        "description": "Di sandali non se ne hanno mai abbastanza e in una stagione come questa, in cui li teniamo ai piedi 24 ore su 24, la lista dei modelli che desideriamo al nostro…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-low-cost-sotto-i-50-euro-comodi-belli-estate-zalando-firmati-estivi-bassi-alti-donna-977666",
+        "pubDate": "2026-06-07T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_sandali_sotto50.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "La storia del mugnaio che ha salvato i grani antichi di Selinunte e conquistato i grandi chef del mondo",
         "description": "Così Filippo Drago ha riscoperto i cereali che i greci coltivavano già 2600 anni fa. Oggi si può camminare tra le spighe del Parco archeologico e vedere i templ…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mugnaio-filippo-drago-molini-del-ponte-grani-antichi-selinunte/",
@@ -163,27 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Ecco quali sono le creme solari viso perfette per ogni tipo di pelle…",
-        "description": "Sono queste le creme solari viso perfette per ogni tipo di pelle. Per una protezione più attenta ed efficace!…",
-        "link": "https://www.stylosophy.it/articolo/ecco-quali-sono-le-creme-solari-viso-perfette-per-ogni-tipo-di-pelle/251460/",
-        "pubDate": "2026-06-06T09:33:04+00:00",
+        "title": "Cetara, lo splendido borgo della Costiera Amalfitana tra bellezza e sapori autentici",
+        "description": "Questo borgo della Costiera Amalfitana è una chicca tutta da scoprire, ricca di attrazioni e celebre per la sua tradizione enogastronomica!…",
+        "link": "https://www.stylosophy.it/articolo/uno-splendido-borgo-della-costiera-amalfitana/231173/",
+        "pubDate": "2026-06-07T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Pinot Grigio del Collio: ecco 19 grandi etichette di un vino dalla sorprendente longevità",
-        "description": "Dal 2025 al 2015, un viaggio dalla giovinezza alla maturità per scoprire tutte le sfumature e l'identità di un vino che trova nel Collio una delle sue espressio…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/pinot-grigio-collio-evoluzione-invecchiamento-identita/",
-        "pubDate": "2026-06-06T09:01:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Kylie Jenner lancia una nuova collection con il suo brand di abbigliamento Khy",
         "description": "Kylie Jenner ha annunciato sui social la sua nuova imminente collezione con il suo brand di abbigliamento Khy.…",
@@ -201,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Sandali low cost e dove trovarli: ecco i modelli sotto i 50€ da puntare quest’estate",
+        "description": "Di sandali non se ne hanno mai abbastanza e in una stagione come questa, in cui li teniamo ai piedi 24 ore su 24, la lista dei modelli che desideriamo al nostro…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-low-cost-sotto-i-50-euro-comodi-belli-estate-zalando-firmati-estivi-bassi-alti-donna-977666",
+        "pubDate": "2026-06-07T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_sandali_sotto50.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Come arredare una casa al mare con stile: i segreti degli esperti per dire addio conchiglie e stelle marine",
@@ -311,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "L’alleato haircare dell’Estate? Le protezioni solari per capelli, a prova di chioma sana e luminosa",
-        "description": "La protezione solare per capelli è il vero must dell'Estate, un prodotto essenziale per capelli sani, belli e lucenti. Ecco le migliori da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/lalleato-haircare-dellestate-le-protezioni-solari-per-capelli-a-prova-di-chioma-sana-e-luminosa/251417/",
-        "pubDate": "2026-06-05T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "MANGO x Eckhaus Latta: la capsule collection cool che definisce lo stile urbano dell’estate",
         "description": "Se siete alla ricerca del pezzo chiave che svolterà i vostri look estivi, abbiamo un’ottima notizia per voi: è uscita la collaborazione più attesa e cool di sta…",
         "link": "https://www.grazia.it/moda/news-moda/mango-x-eckhaus-latta-capsule-collection-estate-collezione-abbigliamento-accessori-977723",
@@ -352,15 +361,6 @@
         "link": "https://www.grazia.it/moda/news-moda/u-s-polo-assn-borse-paglia-970497",
         "pubDate": "2026-06-04T08:07:08+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/05/00_DEKSTOP_POLO.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Pompea svela due nuovi drop tra street culture e identità personale",
-        "description": "Nel panorama moda attuale, dove i confini tra streetwear, lifestyle e digitale si fanno sempre più sfumati, Pompea sceglie di muoversi in quella zona ibrida in …",
-        "link": "https://www.grazia.it/moda/news-moda/pompea-due-nuovi-drop-streetwear-zodiaco-977514",
-        "pubDate": "2026-06-04T08:00:40+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-.jpg",
         "cat": "Moda",
         "source": "Grazia"
       }
