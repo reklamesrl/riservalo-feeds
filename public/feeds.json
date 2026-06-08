@@ -1,7 +1,79 @@
 {
-  "generated": "2026-06-07T19:22:50.423001+00:00",
+  "generated": "2026-06-08T10:56:46.821899+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il ristorante a Roma Nord che ha dedicato un menu al pane (a prezzi umani)",
+        "description": "A Vigna Clara, tre giovani professionisti della ristorazione lanciano Gordito: un locale informale che punta sull'abbinamento col pane e su una cucina di qualit…",
+        "link": "https://www.gamberorosso.it/notizie/uncategorized/ristorante-roma-nord-menu-pane/",
+        "pubDate": "2026-06-08T09:46:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I rimedi perfetti per rinfrescare il viso nelle giornate più calde",
+        "description": "SOS viso caldo? Ecco 5 rimedi da seguire alla lettera per un booster di freschezza...…",
+        "link": "https://www.stylosophy.it/articolo/i-rimedi-perfetti-per-rinfrescare-il-viso-nelle-giornate-piu-calde/251524/",
+        "pubDate": "2026-06-08T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Maxi multa per un’azienda produttrice di kebab: la sua carne non era proprio carne",
+        "description": "Un'azienda leader di fornitura dei kebab in Inghilterra è finita in tribunale con l'accusa di frode: la sua carne d'agnello conteneva pochissima carne. \nL'artic…",
+        "link": "https://www.dissapore.com/notizie/maxi-multa-per-unazienda-produttrice-di-kebab-la-sua-carne-non-era-proprio-carne/",
+        "pubDate": "2026-06-08T08:46:31+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/kismet-kebab-2-e1780908258497.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Belgio hanno troppe patate",
+        "description": "La capitale mondiale delle frites fa i conti con un surplus inaspettato di patate e una domanda sempre minore.\nL'articolo In Belgio hanno troppe patate proviene…",
+        "link": "https://www.dissapore.com/notizie/in-belgio-hanno-troppe-patate/",
+        "pubDate": "2026-06-08T08:35:45+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/patate.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La sostenibilità della carne è tornata nelle agende politiche in Europa?",
+        "description": "Mentre un rapporto FAO dichiara le quantità enormi di carne che mangiamo, qualche politico comincia a mettere il problema degli allevamenti in agenda.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/la-sostenibilita-della-carne-e-tornata-nelle-agende-politiche-in-europa/",
+        "pubDate": "2026-06-08T07:07:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/allevamento-intensivo-maiali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Rinasce uno storico ristorante sul mare: la nuova vita del simbolo di Civitavecchia",
+        "description": "Dopo il successo di Futura a Roma, Anastasia Paris firma la rinascita di Esterina a Civitavecchia: una cucina di mare contemporanea che parte dalla tradizione e…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/rinasce-storico-ristorante-mare-esterina-civitavecchia/",
+        "pubDate": "2026-06-08T06:36:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Niente sushi: a Senigallia apre una nuova trattoria ispirata al Giappone autentico",
+        "description": "Noren ha appena aperto nel centro di Senigallia con una cucina giapponese essenziale e saporita fatta di soba, sake, fermentazioni e tecniche orientali applicat…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/noren-senigallia-izakaya-giapponese/",
+        "pubDate": "2026-06-08T05:11:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Brut Dargent: la Jura tra Metodo Classico e spumanti analcolici",
+        "description": "Brut Dargent: la Jura tra Metodo Classico e spumanti analcolici: Brut Dargent Chardonnay Brut, Brut Dargent Pinot Noir Brut Rosé, Brut Dargent Blanc de Blancs E…",
+        "link": "https://www.winemag.it/brut-dargent-jura-metodo-classico-spumanti-analcolici/",
+        "pubDate": "2026-06-08T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Brut-Dargent-la-Jura-tra-Metodo-Classico-e-spumanti-analcolici-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Cetara, lo splendido borgo della Costiera Amalfitana tra bellezza e sapori autentici",
         "description": "Questo borgo della Costiera Amalfitana è una chicca tutta da scoprire, ricca di attrazioni e celebre per la sua tradizione enogastronomica!…",
@@ -109,81 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come arredare una casa al mare con stile: i segreti degli esperti per dire addio conchiglie e stelle marine",
-        "description": "Hai una casa al mare e non sai come arredarla senza cadere nei soliti cliché? Scopri lo stile elegante e contemporaneo che sta rivoluzionando il coastal look.…",
-        "link": "https://www.stylosophy.it/articolo/casa-al-mare-ecco-lo-stile-chic-che-conquista-gli-interior-designer/228483/",
-        "pubDate": "2026-06-06T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La fine di Birra del Borgo dimostra che l’industria non ha capito la birra artigianale",
-        "description": "Ab Inbev chiude uno dei marchi più storici della birra artigianale italiana, l'ennesima dimostrazione che l'industria non ha mai saputo gestire i birrifici craf…",
-        "link": "https://www.dissapore.com/bere/la-fine-di-birra-del-borgo-dimostra-che-lindustria-non-ha-capito-la-birra-artigianale/",
-        "pubDate": "2026-06-06T14:35:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/reale-birra-del-borgo-taglio-netto-personale-nel-birrificio.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Chiara Ferragni sfoggia il trend di stagione per la moda mare 2026: da copiare subito!",
-        "description": "Anche per la moda mare 2026, Chiara Ferragni, sempre al passo con i tempi, segue le tendenze del momento: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-sfoggia-il-trend-di-stagione-per-la-moda-mare-2026-da-copiare-subito/251492/",
-        "pubDate": "2026-06-06T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Esxence, tutte le novità 2026: i brand di profumeria artistica da tenere d’occhio",
-        "description": "Le fragranze diventano giochi olfattivi e i brand di profumeria del momento lo hanno compreso benissimo. Queste sono le tendenze della prossima estate e questi …",
-        "link": "https://www.stylosophy.it/articolo/esxence-tutte-le-novita-2026-i-brand-di-profumeria-artistica-da-tenere-docchio/251459/",
-        "pubDate": "2026-06-06T11:38:33+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I pantaloni estivi per l’Ufficio che salvano dal caldo con eleganza",
-        "description": "Eleganti, raffinati e super freschi, questi pantaloni sono perfetti per dei look da ufficio all'ultima moda. Imperdibili!…",
-        "link": "https://www.stylosophy.it/articolo/i-pantaloni-estivi-per-lufficio-che-salvano-dal-caldo-con-eleganza/251471/",
-        "pubDate": "2026-06-06T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Strapless fever: il ritorno dell’abito senza spalline (e le varianti da avere subito!)",
-        "description": "C’è un capo che questa estate domina passerelle, vacanze al mare e look da città con la stessa naturalezza: l’abito senza spalline. Essenziali solo all’apparenz…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-senza-spalline-vestito-a-fascia-strapless-zara-mango-estate-2026-976529",
-        "pubDate": "2026-06-06T11:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DESKTOP_strapeless_dress.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "C’è una rivolta seria contro Starbucks in Corea del Sud",
-        "description": "Per lanciare una nuova tazza, i pubblicitari hanno fatto, forse involontariamente, riferimento ad alcuni fattri drammatici della storia recente del Paese.\nL'art…",
-        "link": "https://www.dissapore.com/notizie/ce-una-rivolta-seria-contro-starbucks-in-corea-del-sud/",
-        "pubDate": "2026-06-06T10:10:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/primo-starbucks-corea-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ordinare il proprio piatto preferito o sperimentare? La risposta è in una formula matematica",
-        "description": "Uno studio internazionale conferma la teoria del Premio Nobel Richard Feynman che aveva già capito tutto negli anni Settanta grazie ad un pranzo in un ristorant…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/formula-matematica-feynman-spiega-ordinazioni-ristorante/",
-        "pubDate": "2026-06-06T10:05:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "I rimedi perfetti per rinfrescare il viso nelle giornate più calde",
+        "description": "SOS viso caldo? Ecco 5 rimedi da seguire alla lettera per un booster di freschezza...…",
+        "link": "https://www.stylosophy.it/articolo/i-rimedi-perfetti-per-rinfrescare-il-viso-nelle-giornate-piu-calde/251524/",
+        "pubDate": "2026-06-08T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Cetara, lo splendido borgo della Costiera Amalfitana tra bellezza e sapori autentici",
         "description": "Questo borgo della Costiera Amalfitana è una chicca tutta da scoprire, ricca di attrazioni e celebre per la sua tradizione enogastronomica!…",
@@ -302,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Ilary Blasi lancia un nuovo trend per l’estate 2026: da copiare subito!",
-        "description": "Ilary Blasi, in vacanza in Grecia, lancia un nuovo trend per l'estate che di sicuro sarà il nuovo must di stagione.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-lancia-un-nuovo-trend-per-lestate-2026-da-copiare-subito/251446/",
-        "pubDate": "2026-06-05T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Jennifer Lopez, Sarah Pidgeon e le altre star meglio vestite della settimana",
         "description": "Altro venerdì, altre star che ci hanno conquistato grazie ai loro look impeccabili! Tra anteprime cinematografiche, red carpet e appuntamenti mondani, anche que…",
         "link": "https://www.grazia.it/moda/celebrity-style/jennifer-lopez-sarah-pidgeon-look-star-meglio-vestite-red-carpet-best-dressed-settimana-977408",
@@ -366,6 +366,69 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il ristorante a Roma Nord che ha dedicato un menu al pane (a prezzi umani)",
+        "description": "A Vigna Clara, tre giovani professionisti della ristorazione lanciano Gordito: un locale informale che punta sull'abbinamento col pane e su una cucina di qualit…",
+        "link": "https://www.gamberorosso.it/notizie/uncategorized/ristorante-roma-nord-menu-pane/",
+        "pubDate": "2026-06-08T09:46:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Maxi multa per un’azienda produttrice di kebab: la sua carne non era proprio carne",
+        "description": "Un'azienda leader di fornitura dei kebab in Inghilterra è finita in tribunale con l'accusa di frode: la sua carne d'agnello conteneva pochissima carne. \nL'artic…",
+        "link": "https://www.dissapore.com/notizie/maxi-multa-per-unazienda-produttrice-di-kebab-la-sua-carne-non-era-proprio-carne/",
+        "pubDate": "2026-06-08T08:46:31+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/kismet-kebab-2-e1780908258497.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Belgio hanno troppe patate",
+        "description": "La capitale mondiale delle frites fa i conti con un surplus inaspettato di patate e una domanda sempre minore.\nL'articolo In Belgio hanno troppe patate proviene…",
+        "link": "https://www.dissapore.com/notizie/in-belgio-hanno-troppe-patate/",
+        "pubDate": "2026-06-08T08:35:45+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/patate.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La sostenibilità della carne è tornata nelle agende politiche in Europa?",
+        "description": "Mentre un rapporto FAO dichiara le quantità enormi di carne che mangiamo, qualche politico comincia a mettere il problema degli allevamenti in agenda.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/la-sostenibilita-della-carne-e-tornata-nelle-agende-politiche-in-europa/",
+        "pubDate": "2026-06-08T07:07:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/allevamento-intensivo-maiali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Rinasce uno storico ristorante sul mare: la nuova vita del simbolo di Civitavecchia",
+        "description": "Dopo il successo di Futura a Roma, Anastasia Paris firma la rinascita di Esterina a Civitavecchia: una cucina di mare contemporanea che parte dalla tradizione e…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/rinasce-storico-ristorante-mare-esterina-civitavecchia/",
+        "pubDate": "2026-06-08T06:36:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Niente sushi: a Senigallia apre una nuova trattoria ispirata al Giappone autentico",
+        "description": "Noren ha appena aperto nel centro di Senigallia con una cucina giapponese essenziale e saporita fatta di soba, sake, fermentazioni e tecniche orientali applicat…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/noren-senigallia-izakaya-giapponese/",
+        "pubDate": "2026-06-08T05:11:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Brut Dargent: la Jura tra Metodo Classico e spumanti analcolici",
+        "description": "Brut Dargent: la Jura tra Metodo Classico e spumanti analcolici: Brut Dargent Chardonnay Brut, Brut Dargent Pinot Noir Brut Rosé, Brut Dargent Blanc de Blancs E…",
+        "link": "https://www.winemag.it/brut-dargent-jura-metodo-classico-spumanti-analcolici/",
+        "pubDate": "2026-06-08T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Brut-Dargent-la-Jura-tra-Metodo-Classico-e-spumanti-analcolici-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Mettersi a dieta da soli è un’idea da ricovero, dati alla mano",
         "description": "Una nuova ricerca dimostra che una dieta personalizzata ha un impatto positivo non solo sul singolo paziente, ma su tutto il sistema sanitario, con numeri davve…",
@@ -480,69 +543,6 @@
         "link": "https://www.dissapore.com/notizie/esistono-anche-gli-energy-drink-a-tema-cristiano/",
         "pubDate": "2026-06-06T06:56:59+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/enrgy-drink.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le più belle terrazze di Milano dove mangiare, bere e sentirsi in vacanza senza lasciare la città",
-        "description": "Quando l'asfalto comincia a sciogliere ogni buona intenzione, salire qualche piano può fare la differenza. Ecco gli indirizzi da segnare per l'estate 2026…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/terrazze-milano-rooftop-aperitivo-estate-2026/",
-        "pubDate": "2026-06-06T06:14:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "De Cecco acquisisce RossoGargano: controllo intera filiera pomodoro",
-        "description": "F.lli De Cecco annuncia di aver raggiunto un accordo vincolante con i soci di RossoGargano S.C.A.p.A. per l’acquisizione dell’intero capitale sociale della soci…",
-        "link": "https://www.winemag.it/de-cecco-acquisisce-rossogargano-controllo-intera-filiera-pomodoro/",
-        "pubDate": "2026-06-06T05:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Per anni è stata il simbolo di povertà. Oggi la ghianda finisce nei menu degustazione",
-        "description": "Nella Tuscia nasce Ghiandology, il progetto dello chef Cristiano Germani che punta a riportare la ghianda nella cucina contemporanea tra pasta, pizza, amari e m…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ghianda-cucina-tuscia-menu/",
-        "pubDate": "2026-06-06T05:00:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mappa Mandrolisai, una cartina che racconta vino, paesaggio e identità della Sardegna",
-        "description": "Mappa Mandrolisai, una cartina che racconta vino, paesaggio e identità della Sardegna\nL'articolo Mappa Mandrolisai, una cartina che racconta vino, paesaggio e i…",
-        "link": "https://www.winemag.it/mappa-mandrolisai-cartina-racconta-vino-paesaggio-identita-sardegna/",
-        "pubDate": "2026-06-06T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "C’è una start up che può produrre fertilizzante a partire dall’urina umana",
-        "description": "Il progetto, cominciato in Sudafrica 10 anni fa, è ora un sistema ecologico per sopperire alla mancanza di fertilizzante causata dalla guerra del Golfo.\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/ce-una-start-up-che-puo-produrre-fertilizzante-a-partire-dallurina-umana/",
-        "pubDate": "2026-06-05T17:03:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/toilette-pubblica-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La sindrome di Stendhal a Pompei: alla scoperta dell’azienda vitivinicola in mezzo agli scavi",
-        "description": "La sfida, portata avanti dal gruppo Tenute Capaldo, è far diventare Pompei un laboratorio a cielo aperto. Si parte dal passato per guardare al futuro…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scavi-pompei-azienda-vitivinicola-capaldo/",
-        "pubDate": "2026-06-05T15:58:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Champagne for dummies: l’ingrediente segreto è l’assemblaggio",
-        "description": "L'assemblaggio è uno degli elementi che rendono lo Champagne così unico: ecco cos'è e come si realizza. \nL'articolo Champagne for dummies: l&#8217;ingrediente s…",
-        "link": "https://www.dissapore.com/bere/assemblaggio-ingrediente-segreto-champagne/",
-        "pubDate": "2026-06-05T15:44:58+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Chef-de-Cave-di-Champagne-Barons-de-Rothschild.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
