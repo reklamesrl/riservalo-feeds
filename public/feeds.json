@@ -1,7 +1,115 @@
 {
-  "generated": "2026-06-08T10:56:46.821899+00:00",
+  "generated": "2026-06-08T15:53:35.268526+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Vino Piemonte, Coldiretti tuona su rese, giacenze, etichette e burocrazia",
+        "description": "Vino Piemonte, Coldiretti tuona su rese, giacenze, etichette, burocrazia. Tavolo tra Coldiretti e Regione, si parla anche di Igt Piemonte\nL'articolo Vino Piemon…",
+        "link": "https://www.winemag.it/vino-piemonte-coldiretti-tuona-su-rese-giacenze-etichette-e-burocrazia-igt-piemonte/",
+        "pubDate": "2026-06-08T15:46:28+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I migliori locali di Polignano a Mare: 8 indirizzi da non perdere tra street food e cene gourmet",
+        "description": "Dai salumi di mare ai panzerotti pugliesi passando per i crudi di pesce: ecco dove mangiare in questa splendida cittadina ad alta \"densità\" enogastronomica…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-polignano-a-mare-8-indirizzi/",
+        "pubDate": "2026-06-08T15:13:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Classy Cocktails lancia l’Americano ready-to-drink firmato Patrick Pistolesi",
+        "description": "L’Americano amplia la gamma di Classy Cocktails. Il brand di cocktail ready-to-drink co-fondato dal bartender Patrick Pistolesi presenta una nuova interpretazio…",
+        "link": "https://www.winemag.it/classy-cocktails-lancia-lamericano-ready-to-drink-firmato-patrick-pistolesi/",
+        "pubDate": "2026-06-08T13:53:56+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Chiusura di Birra del Borgo? Era prevedibile: con le multinazionali il rischio cresce”. Il punto di Andrea Turco",
+        "description": "Il caso di Birra del Borgo mostra una dinamica già conosciuta, perché di fronte alle difficoltà, i grandi gruppi preferiscono tagliare la parte premium. Le rifl…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/chiusura-birra-del-borgo-commento-andrea-turco/",
+        "pubDate": "2026-06-08T13:52:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Amami festeggia 11 anni con l’Amami Week: protagonista la pizza senza lievito e gli Amaki in edizione speciale",
+        "description": "Amami compie undici anni e celebra il traguardo con una settimana dedicata alla sua proposta distintiva: la pizza senza lievito. Dal 13 al 20 giugno, il locale …",
+        "link": "https://www.winemag.it/amami-festeggia-11-anni-con-lamami-week-protagonista-la-pizza-senza-lievito-e-gli-amaki-in-edizione-speciale/",
+        "pubDate": "2026-06-08T13:39:05+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Amami-festeggia-11-anni-con-lAmami-Week-protagonista-la-pizza-senza-lievito-e-gli-Amaki-in-edizione-speciale-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "In Sardegna c’è ancora un posto dove il tonno si pesca come 3.000 anni fa",
+        "description": "Tra Carloforte e Portoscuso sopravvivono le ultime tonnare fisse attive del Mediterraneo. Un viaggio tra tonno rosso, migrazioni millenarie, comunità tabarchine…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sardegna-tonno-tonnare-carloforte/",
+        "pubDate": "2026-06-08T13:30:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’enologa Gaia Cinnirella lascia Masseto dopo quasi 5 anni. Per lei nuova avventura sempre in Toscana",
+        "description": "La giovane master cellar ha assunto l'incarico di direttrice generale per un'altra cantina. Il supertuscan della famiglia Frescobaldi proseguirà nel segno della…",
+        "link": "https://www.gamberorosso.it/notizie/vino/enologa-gaia-cinnirella-dopo-masseto-direttrice-vallepicciola/",
+        "pubDate": "2026-06-08T13:29:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ilary Blasi sfoggia il beach Look perfetto per questa estate: e tu lo indosseresti?",
+        "description": "Ilary Blasi, in questi giorni in vacanza al mare, sfoggia il look coordinato perfetto da indossare in spiaggia.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-sfoggia-il-beach-look-perfetto-per-questa-estate-e-tu-lo-indosseresti/251534/",
+        "pubDate": "2026-06-08T13:10:08+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Louis Vuitton Horizon Aluminum: il futuro del viaggio prende forma",
+        "description": "Dieci anni dopo l&#8217;inizio della collaborazione con Marc Newson, uno dei più influenti designer industriali contemporanei, Louis Vuitton inaugura un nuovo c…",
+        "link": "https://www.grazia.it/moda/news-moda/louis-vuitton-nuova-valigia-alluminia-horizon-aluminum-978008",
+        "pubDate": "2026-06-08T12:47:20+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Veniamo a scoprire che esistono davvero le pizzerie stellate",
+        "description": "Benvenuti nel fantastico mondo delle guide gastronomiche tarocche, che attribuiscono stelle (sì, stelle) là dove la Michelin non osa avventurarsi, per ora.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/veniamo-a-scoprire-che-esistono-davvero-le-pizzerie-stellate/",
+        "pubDate": "2026-06-08T11:48:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Pizzaiolo-Stellato-Rossetto-scaled-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Che cos’è la spoja lorda, il piatto romagnolo nato dagli avanzi dei cappelletti",
+        "description": "Ricotta, squacquerone e parmigiano dentro una sfoglia sottile. Elena Spisni racconta nella quinta puntata della serie \"Fatta a mano, la mia pasta del cuore\" uno…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spoja-lorda-ricetta-romagnola-elena-spisni/",
+        "pubDate": "2026-06-08T11:13:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Mi dissero che il mio olio era difettato”: oggi produce uno dei migliori extravergine d’Italia",
+        "description": "A 23 anni entra per la prima volta in un frantoio. Poi la bocciatura a un concorso e dieci anni passati a studiare l'assaggio: oggi Daniele Lepori è tra gli art…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/daniele-lepori-frantoio-montalcino-olio/",
+        "pubDate": "2026-06-08T11:05:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il ristorante a Roma Nord che ha dedicato un menu al pane (a prezzi umani)",
         "description": "A Vigna Clara, tre giovani professionisti della ristorazione lanciano Gordito: un locale informale che punta sull'abbinamento col pane e su una cucina di qualit…",
@@ -39,6 +147,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Furla porta l’estate nel cuore di Roma con il Sun Bar dedicato alla collezione SS26",
+        "description": "Si è concluso nel weekend il Furla Sun Bar, il progetto esperienziale con cui Furla ha trasformato Tram Depot, nel quartiere Testaccio, in una vivace destinazio…",
+        "link": "https://www.grazia.it/moda/news-moda/furla-eyewear-collezione-occhiali-da-sole-ss-26-sun-bar-roma-977999",
+        "pubDate": "2026-06-08T07:43:57+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "La sostenibilità della carne è tornata nelle agende politiche in Europa?",
         "description": "Mentre un rapporto FAO dichiara le quantità enormi di carne che mangiamo, qualche politico comincia a mettere il problema degli allevamenti in agenda.\nL'articol…",
         "link": "https://www.dissapore.com/notizie/la-sostenibilita-della-carne-e-tornata-nelle-agende-politiche-in-europa/",
@@ -64,126 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Brut Dargent: la Jura tra Metodo Classico e spumanti analcolici",
-        "description": "Brut Dargent: la Jura tra Metodo Classico e spumanti analcolici: Brut Dargent Chardonnay Brut, Brut Dargent Pinot Noir Brut Rosé, Brut Dargent Blanc de Blancs E…",
-        "link": "https://www.winemag.it/brut-dargent-jura-metodo-classico-spumanti-analcolici/",
-        "pubDate": "2026-06-08T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Brut-Dargent-la-Jura-tra-Metodo-Classico-e-spumanti-analcolici-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cetara, lo splendido borgo della Costiera Amalfitana tra bellezza e sapori autentici",
-        "description": "Questo borgo della Costiera Amalfitana è una chicca tutta da scoprire, ricca di attrazioni e celebre per la sua tradizione enogastronomica!…",
-        "link": "https://www.stylosophy.it/articolo/uno-splendido-borgo-della-costiera-amalfitana/231173/",
-        "pubDate": "2026-06-07T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Mettersi a dieta da soli è un’idea da ricovero, dati alla mano",
-        "description": "Una nuova ricerca dimostra che una dieta personalizzata ha un impatto positivo non solo sul singolo paziente, ma su tutto il sistema sanitario, con numeri davve…",
-        "link": "https://www.dissapore.com/notizie/mettersi-a-dieta-da-soli-e-unidea-da-ricovero-dati-alla-mano/",
-        "pubDate": "2026-06-07T13:35:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/dottore-alimentazione-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Kylie Jenner lancia una nuova collection con il suo brand di abbigliamento Khy",
-        "description": "Kylie Jenner ha annunciato sui social la sua nuova imminente collezione con il suo brand di abbigliamento Khy.…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-una-nuova-collection-con-il-suo-brand-di-abbigliamento-khy/251506/",
-        "pubDate": "2026-06-07T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I profumi per capelli a prova di chioma che lascia la scia",
-        "description": "Perfetti per dare una scossa alle calde giornate estive, i profumi per capelli sono un must beauty da non lasciarsi sfuggire. Ecco le più valide del momento da …",
-        "link": "https://www.stylosophy.it/articolo/i-profumi-per-capelli-a-prova-di-chioma-che-lascia-la-scia/251510/",
-        "pubDate": "2026-06-07T11:08:49+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Frana Niscemi, Feudi del Pisciotto lancia vino solidale Fata Nascim",
-        "description": "Feudi del Pisciotto lancia un vino solidale per sostenere la comunità di Niscemi, comune siciliano colpito da una grave frana a gennaio 2026, a ridosso del cent…",
-        "link": "https://www.winemag.it/frana-niscemi-feudi-del-pisciotto-lancia-vino-solidale-fata-nascim/",
-        "pubDate": "2026-06-07T10:37:58+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Frana-Niscemi-Feudi-del-Pisciotto-lancia-vino-solidale-Fata-Nascim.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "A Senigallia arriva la cucina nippo-marchigiana di Noren",
-        "description": "Tra ciauscolo e sansho, Pierpaolo Ferracuti, già stellato al Retroscena di Porto San Giorgio, porta a Senigallia la sua visione di cucina Giapponese, contempora…",
-        "link": "https://www.dissapore.com/notizie/a-senigallia-arriva-la-cucina-nippo-marchigiana-di-noren/",
-        "pubDate": "2026-06-07T10:03:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Noren-%E2%80%93-Location-6-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Civitanova Marche, a pochi minuti dal mare, c’è un agriturismo da non perdere",
-        "description": "Contrada San Savino è un agriturismo che sorprende per eleganza, cura dei dettagli e una cucina di sostanza e grande tecnica. Qui la grande protagonista è la co…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/civitanova-marche-agriturismo-caontrada-san-savino/",
-        "pubDate": "2026-06-07T09:07:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come capire se un vino è ossidato: una guida pratica per riconoscerlo (ed evitarlo)",
-        "description": "In enoteca o al ristorante risulta sempre più difficile trovare vini alla mescita perfettamente conservati. Non di raro sono colpiti dall’ossidazione. Ecco le d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/come-riconoscere-vino-ossidato/",
-        "pubDate": "2026-06-07T08:21:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fra i nuovi sostituti del cacao spunta la polvere di girasole",
-        "description": "Il gigante del cioccolato Callebaut scommette sulla polvere di girasole per far fronte a un mercato del cacao sempre più in crisi.\nL'articolo Fra i nuovi sostit…",
-        "link": "https://www.dissapore.com/notizie/fra-i-nuovi-sostituti-del-cacao-spunta-la-polvere-di-girasole/",
-        "pubDate": "2026-06-07T07:25:08+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/raccoglitore-di-cacao.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Elena Walch rilancia la sfida del Trentodoc: inaugurata la nuova cantina Moncalisse, il progetto dedicato esclusivamente alle bollicine",
-        "description": "Dai grandi vini dell’Alto Adige alle bollicine metodo classico. La famiglia Walch apre una nuova fase della propria storia vitivinicola alle pendici del Monte C…",
-        "link": "https://www.gamberorosso.it/notizie/vino/elena-walch-cantina-moncalisse-bollicine-trento-doc/",
-        "pubDate": "2026-06-07T07:06:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sandali low cost e dove trovarli: ecco i modelli sotto i 50€ da puntare quest’estate",
-        "description": "Di sandali non se ne hanno mai abbastanza e in una stagione come questa, in cui li teniamo ai piedi 24 ore su 24, la lista dei modelli che desideriamo al nostro…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-low-cost-sotto-i-50-euro-comodi-belli-estate-zalando-firmati-estivi-bassi-alti-donna-977666",
-        "pubDate": "2026-06-07T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_sandali_sotto50.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La storia del mugnaio che ha salvato i grani antichi di Selinunte e conquistato i grandi chef del mondo",
-        "description": "Così Filippo Drago ha riscoperto i cereali che i greci coltivavano già 2600 anni fa. Oggi si può camminare tra le spighe del Parco archeologico e vedere i templ…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mugnaio-filippo-drago-molini-del-ponte-grani-antichi-selinunte/",
-        "pubDate": "2026-06-07T06:07:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Ilary Blasi sfoggia il beach Look perfetto per questa estate: e tu lo indosseresti?",
+        "description": "Ilary Blasi, in questi giorni in vacanza al mare, sfoggia il look coordinato perfetto da indossare in spiaggia.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-sfoggia-il-beach-look-perfetto-per-questa-estate-e-tu-lo-indosseresti/251534/",
+        "pubDate": "2026-06-08T13:10:08+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Louis Vuitton Horizon Aluminum: il futuro del viaggio prende forma",
+        "description": "Dieci anni dopo l&#8217;inizio della collaborazione con Marc Newson, uno dei più influenti designer industriali contemporanei, Louis Vuitton inaugura un nuovo c…",
+        "link": "https://www.grazia.it/moda/news-moda/louis-vuitton-nuova-valigia-alluminia-horizon-aluminum-978008",
+        "pubDate": "2026-06-08T12:47:20+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "I rimedi perfetti per rinfrescare il viso nelle giornate più calde",
         "description": "SOS viso caldo? Ecco 5 rimedi da seguire alla lettera per un booster di freschezza...…",
@@ -192,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Furla porta l’estate nel cuore di Roma con il Sun Bar dedicato alla collezione SS26",
+        "description": "Si è concluso nel weekend il Furla Sun Bar, il progetto esperienziale con cui Furla ha trasformato Tram Depot, nel quartiere Testaccio, in una vivace destinazio…",
+        "link": "https://www.grazia.it/moda/news-moda/furla-eyewear-collezione-occhiali-da-sole-ss-26-sun-bar-roma-977999",
+        "pubDate": "2026-06-08T07:43:57+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Cetara, lo splendido borgo della Costiera Amalfitana tra bellezza e sapori autentici",
@@ -293,15 +320,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Queste 5 città della Normandia sembrano uscite da una cartolina: la quarta ti conquisterà",
-        "description": "Una delle regioni più belle della Francia? Che domande, la Normandia! Ecco 5 città che vi faranno innamorare subito...…",
-        "link": "https://www.stylosophy.it/articolo/5-citta-della-normandia-da-visitare-questa-primavera-estate/228799/",
-        "pubDate": "2026-06-05T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Dall’arte alla moda, passando per le nuove generazioni e le donne che lasciano il segno: sette pillole, sette storie che raccontano un presente creativo, dinami…",
         "link": "https://www.grazia.it/moda/news-moda/gucci-montecarlo-alessandra-amoroso-testimonial-yalea-burberry-quentin-blake-net-a-porter-staud-nikki-beach-takeover-golden-goose-frutteria-essentiel-talenti-anversa-977789",
@@ -345,27 +363,99 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_day_night.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Che estate sarebbe senza abiti in lino! Ecco i modelli freschi, leggeri e super chic da scegliere in questa stagione",
-        "description": "Arriva l’estate e puntuali come sempre gli abiti in lino tornano a occupare un posto in prima fila nel nostro armadio. Specialmente nelle giornate più roventi, …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-in-lino-vestito-eleganti-donna-zara-estate-freschi-leggeri-977606",
-        "pubDate": "2026-06-04T10:14:32+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Abiti_in_lino.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’estate chiama, U.S. Polo Assn. risponde con le sue borse di paglia da avere subito",
-        "description": "C’è un momento preciso in cui la stagione cambia davvero, non è solo una questione di calendario ma di luce, di pelle che si scalda, di desiderio di leggerezza …",
-        "link": "https://www.grazia.it/moda/news-moda/u-s-polo-assn-borse-paglia-970497",
-        "pubDate": "2026-06-04T08:07:08+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/05/00_DEKSTOP_POLO.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Vino Piemonte, Coldiretti tuona su rese, giacenze, etichette e burocrazia",
+        "description": "Vino Piemonte, Coldiretti tuona su rese, giacenze, etichette, burocrazia. Tavolo tra Coldiretti e Regione, si parla anche di Igt Piemonte\nL'articolo Vino Piemon…",
+        "link": "https://www.winemag.it/vino-piemonte-coldiretti-tuona-su-rese-giacenze-etichette-e-burocrazia-igt-piemonte/",
+        "pubDate": "2026-06-08T15:46:28+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I migliori locali di Polignano a Mare: 8 indirizzi da non perdere tra street food e cene gourmet",
+        "description": "Dai salumi di mare ai panzerotti pugliesi passando per i crudi di pesce: ecco dove mangiare in questa splendida cittadina ad alta \"densità\" enogastronomica…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-polignano-a-mare-8-indirizzi/",
+        "pubDate": "2026-06-08T15:13:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Classy Cocktails lancia l’Americano ready-to-drink firmato Patrick Pistolesi",
+        "description": "L’Americano amplia la gamma di Classy Cocktails. Il brand di cocktail ready-to-drink co-fondato dal bartender Patrick Pistolesi presenta una nuova interpretazio…",
+        "link": "https://www.winemag.it/classy-cocktails-lancia-lamericano-ready-to-drink-firmato-patrick-pistolesi/",
+        "pubDate": "2026-06-08T13:53:56+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Chiusura di Birra del Borgo? Era prevedibile: con le multinazionali il rischio cresce”. Il punto di Andrea Turco",
+        "description": "Il caso di Birra del Borgo mostra una dinamica già conosciuta, perché di fronte alle difficoltà, i grandi gruppi preferiscono tagliare la parte premium. Le rifl…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/chiusura-birra-del-borgo-commento-andrea-turco/",
+        "pubDate": "2026-06-08T13:52:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Amami festeggia 11 anni con l’Amami Week: protagonista la pizza senza lievito e gli Amaki in edizione speciale",
+        "description": "Amami compie undici anni e celebra il traguardo con una settimana dedicata alla sua proposta distintiva: la pizza senza lievito. Dal 13 al 20 giugno, il locale …",
+        "link": "https://www.winemag.it/amami-festeggia-11-anni-con-lamami-week-protagonista-la-pizza-senza-lievito-e-gli-amaki-in-edizione-speciale/",
+        "pubDate": "2026-06-08T13:39:05+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Amami-festeggia-11-anni-con-lAmami-Week-protagonista-la-pizza-senza-lievito-e-gli-Amaki-in-edizione-speciale-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "In Sardegna c’è ancora un posto dove il tonno si pesca come 3.000 anni fa",
+        "description": "Tra Carloforte e Portoscuso sopravvivono le ultime tonnare fisse attive del Mediterraneo. Un viaggio tra tonno rosso, migrazioni millenarie, comunità tabarchine…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sardegna-tonno-tonnare-carloforte/",
+        "pubDate": "2026-06-08T13:30:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’enologa Gaia Cinnirella lascia Masseto dopo quasi 5 anni. Per lei nuova avventura sempre in Toscana",
+        "description": "La giovane master cellar ha assunto l'incarico di direttrice generale per un'altra cantina. Il supertuscan della famiglia Frescobaldi proseguirà nel segno della…",
+        "link": "https://www.gamberorosso.it/notizie/vino/enologa-gaia-cinnirella-dopo-masseto-direttrice-vallepicciola/",
+        "pubDate": "2026-06-08T13:29:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Veniamo a scoprire che esistono davvero le pizzerie stellate",
+        "description": "Benvenuti nel fantastico mondo delle guide gastronomiche tarocche, che attribuiscono stelle (sì, stelle) là dove la Michelin non osa avventurarsi, per ora.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/veniamo-a-scoprire-che-esistono-davvero-le-pizzerie-stellate/",
+        "pubDate": "2026-06-08T11:48:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Pizzaiolo-Stellato-Rossetto-scaled-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Che cos’è la spoja lorda, il piatto romagnolo nato dagli avanzi dei cappelletti",
+        "description": "Ricotta, squacquerone e parmigiano dentro una sfoglia sottile. Elena Spisni racconta nella quinta puntata della serie \"Fatta a mano, la mia pasta del cuore\" uno…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spoja-lorda-ricetta-romagnola-elena-spisni/",
+        "pubDate": "2026-06-08T11:13:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Mi dissero che il mio olio era difettato”: oggi produce uno dei migliori extravergine d’Italia",
+        "description": "A 23 anni entra per la prima volta in un frantoio. Poi la bocciatura a un concorso e dieci anni passati a studiare l'assaggio: oggi Daniele Lepori è tra gli art…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/daniele-lepori-frantoio-montalcino-olio/",
+        "pubDate": "2026-06-08T11:05:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il ristorante a Roma Nord che ha dedicato un menu al pane (a prezzi umani)",
         "description": "A Vigna Clara, tre giovani professionisti della ristorazione lanciano Gordito: un locale informale che punta sull'abbinamento col pane e su una cucina di qualit…",
@@ -453,96 +543,6 @@
         "link": "https://www.dissapore.com/notizie/a-senigallia-arriva-la-cucina-nippo-marchigiana-di-noren/",
         "pubDate": "2026-06-07T10:03:28+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Noren-%E2%80%93-Location-6-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Civitanova Marche, a pochi minuti dal mare, c’è un agriturismo da non perdere",
-        "description": "Contrada San Savino è un agriturismo che sorprende per eleganza, cura dei dettagli e una cucina di sostanza e grande tecnica. Qui la grande protagonista è la co…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/civitanova-marche-agriturismo-caontrada-san-savino/",
-        "pubDate": "2026-06-07T09:07:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come capire se un vino è ossidato: una guida pratica per riconoscerlo (ed evitarlo)",
-        "description": "In enoteca o al ristorante risulta sempre più difficile trovare vini alla mescita perfettamente conservati. Non di raro sono colpiti dall’ossidazione. Ecco le d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/come-riconoscere-vino-ossidato/",
-        "pubDate": "2026-06-07T08:21:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fra i nuovi sostituti del cacao spunta la polvere di girasole",
-        "description": "Il gigante del cioccolato Callebaut scommette sulla polvere di girasole per far fronte a un mercato del cacao sempre più in crisi.\nL'articolo Fra i nuovi sostit…",
-        "link": "https://www.dissapore.com/notizie/fra-i-nuovi-sostituti-del-cacao-spunta-la-polvere-di-girasole/",
-        "pubDate": "2026-06-07T07:25:08+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/raccoglitore-di-cacao.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Elena Walch rilancia la sfida del Trentodoc: inaugurata la nuova cantina Moncalisse, il progetto dedicato esclusivamente alle bollicine",
-        "description": "Dai grandi vini dell’Alto Adige alle bollicine metodo classico. La famiglia Walch apre una nuova fase della propria storia vitivinicola alle pendici del Monte C…",
-        "link": "https://www.gamberorosso.it/notizie/vino/elena-walch-cantina-moncalisse-bollicine-trento-doc/",
-        "pubDate": "2026-06-07T07:06:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La storia del mugnaio che ha salvato i grani antichi di Selinunte e conquistato i grandi chef del mondo",
-        "description": "Così Filippo Drago ha riscoperto i cereali che i greci coltivavano già 2600 anni fa. Oggi si può camminare tra le spighe del Parco archeologico e vedere i templ…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mugnaio-filippo-drago-molini-del-ponte-grani-antichi-selinunte/",
-        "pubDate": "2026-06-07T06:07:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La fine di Birra del Borgo dimostra che l’industria non ha capito la birra artigianale",
-        "description": "Ab Inbev chiude uno dei marchi più storici della birra artigianale italiana, l'ennesima dimostrazione che l'industria non ha mai saputo gestire i birrifici craf…",
-        "link": "https://www.dissapore.com/bere/la-fine-di-birra-del-borgo-dimostra-che-lindustria-non-ha-capito-la-birra-artigianale/",
-        "pubDate": "2026-06-06T14:35:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/reale-birra-del-borgo-taglio-netto-personale-nel-birrificio.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "C’è una rivolta seria contro Starbucks in Corea del Sud",
-        "description": "Per lanciare una nuova tazza, i pubblicitari hanno fatto, forse involontariamente, riferimento ad alcuni fattri drammatici della storia recente del Paese.\nL'art…",
-        "link": "https://www.dissapore.com/notizie/ce-una-rivolta-seria-contro-starbucks-in-corea-del-sud/",
-        "pubDate": "2026-06-06T10:10:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/primo-starbucks-corea-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ordinare il proprio piatto preferito o sperimentare? La risposta è in una formula matematica",
-        "description": "Uno studio internazionale conferma la teoria del Premio Nobel Richard Feynman che aveva già capito tutto negli anni Settanta grazie ad un pranzo in un ristorant…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/formula-matematica-feynman-spiega-ordinazioni-ristorante/",
-        "pubDate": "2026-06-06T10:05:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pinot Grigio del Collio: ecco 19 grandi etichette di un vino dalla sorprendente longevità",
-        "description": "Dal 2025 al 2015, un viaggio dalla giovinezza alla maturità per scoprire tutte le sfumature e l'identità di un vino che trova nel Collio una delle sue espressio…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/pinot-grigio-collio-evoluzione-invecchiamento-identita/",
-        "pubDate": "2026-06-06T09:01:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Esistono anche gli energy drink a tema cristiano",
-        "description": "Negli USA le bevande energetiche dedicate a Gesù rinfrancano, diffondono il Verbo e possibilmente convertono il prossimo.\nL'articolo Esistono anche gli energy d…",
-        "link": "https://www.dissapore.com/notizie/esistono-anche-gli-energy-drink-a-tema-cristiano/",
-        "pubDate": "2026-06-06T06:56:59+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/enrgy-drink.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
