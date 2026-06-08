@@ -1,7 +1,25 @@
 {
-  "generated": "2026-06-08T15:53:35.268526+00:00",
+  "generated": "2026-06-08T20:18:22.937195+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Hanno rubato la macchina per il gelato a Giovanna Musumeci, e c’è una raccolta fondi",
+        "description": "Dopo il furto di una macchina fondamentale per la produzione, colleghi e professionisti del settore hanno avviato una raccolta fondi per permettere a Giovanna M…",
+        "link": "https://www.dissapore.com/notizie/hanno-rubato-la-macchina-per-il-gelato-a-giovanna-musumeci-e-ce-una-raccolta-fondi/",
+        "pubDate": "2026-06-08T18:29:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/santo-musumeci-pasticceria.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Condizionatore nuovo: la guida pratica per non sbagliare acquisto",
+        "description": "L’estate è alle porte e il momento giusto per scegliere il condizionatore perfetto è adesso. Ma prima di fare acquisti affrettati, scopri cosa devi sapere davve…",
+        "link": "https://www.stylosophy.it/articolo/condizionatore-quello-che-devi-sapere-prima-di-acquistare-e-installare/230262/",
+        "pubDate": "2026-06-08T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Vino Piemonte, Coldiretti tuona su rese, giacenze, etichette e burocrazia",
         "description": "Vino Piemonte, Coldiretti tuona su rese, giacenze, etichette, burocrazia. Tavolo tra Coldiretti e Regione, si parla anche di Igt Piemonte\nL'articolo Vino Piemon…",
@@ -163,27 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/allevamento-intensivo-maiali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Rinasce uno storico ristorante sul mare: la nuova vita del simbolo di Civitavecchia",
-        "description": "Dopo il successo di Futura a Roma, Anastasia Paris firma la rinascita di Esterina a Civitavecchia: una cucina di mare contemporanea che parte dalla tradizione e…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/rinasce-storico-ristorante-mare-esterina-civitavecchia/",
-        "pubDate": "2026-06-08T06:36:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Niente sushi: a Senigallia apre una nuova trattoria ispirata al Giappone autentico",
-        "description": "Noren ha appena aperto nel centro di Senigallia con una cucina giapponese essenziale e saporita fatta di soba, sake, fermentazioni e tecniche orientali applicat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/noren-senigallia-izakaya-giapponese/",
-        "pubDate": "2026-06-08T05:11:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Condizionatore nuovo: la guida pratica per non sbagliare acquisto",
+        "description": "L’estate è alle porte e il momento giusto per scegliere il condizionatore perfetto è adesso. Ma prima di fare acquisti affrettati, scopri cosa devi sapere davve…",
+        "link": "https://www.stylosophy.it/articolo/condizionatore-quello-che-devi-sapere-prima-di-acquistare-e-installare/230262/",
+        "pubDate": "2026-06-08T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Ilary Blasi sfoggia il beach Look perfetto per questa estate: e tu lo indosseresti?",
         "description": "Ilary Blasi, in questi giorni in vacanza al mare, sfoggia il look coordinato perfetto da indossare in spiaggia.…",
@@ -302,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Ecco quali sono le creme solari viso perfette per ogni tipo di pelle…",
-        "description": "Sono queste le creme solari viso perfette per ogni tipo di pelle. Per una protezione più attenta ed efficace!…",
-        "link": "https://www.stylosophy.it/articolo/ecco-quali-sono-le-creme-solari-viso-perfette-per-ogni-tipo-di-pelle/251460/",
-        "pubDate": "2026-06-06T09:33:04+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Dua Lipa: il grande giorno è arrivato! Ecco il primo look da sposa in Sicilia",
         "description": "Il grande giorno è arrivato. Dopo essere atterrati a Palermo mercoledì scorso, Dua Lipa e Callum Turner sono pronti a celebrare il loro matrimonio. La coppia ha…",
         "link": "https://www.grazia.it/moda/celebrity-style/dua-lipa-abiti-matrimonio-sicilia-callum-turner-977961",
@@ -366,6 +366,15 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Hanno rubato la macchina per il gelato a Giovanna Musumeci, e c’è una raccolta fondi",
+        "description": "Dopo il furto di una macchina fondamentale per la produzione, colleghi e professionisti del settore hanno avviato una raccolta fondi per permettere a Giovanna M…",
+        "link": "https://www.dissapore.com/notizie/hanno-rubato-la-macchina-per-il-gelato-a-giovanna-musumeci-e-ce-una-raccolta-fondi/",
+        "pubDate": "2026-06-08T18:29:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/santo-musumeci-pasticceria.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Vino Piemonte, Coldiretti tuona su rese, giacenze, etichette e burocrazia",
         "description": "Vino Piemonte, Coldiretti tuona su rese, giacenze, etichette, burocrazia. Tavolo tra Coldiretti e Regione, si parla anche di Igt Piemonte\nL'articolo Vino Piemon…",
@@ -536,15 +545,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/06/Frana-Niscemi-Feudi-del-Pisciotto-lancia-vino-solidale-Fata-Nascim.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "A Senigallia arriva la cucina nippo-marchigiana di Noren",
-        "description": "Tra ciauscolo e sansho, Pierpaolo Ferracuti, già stellato al Retroscena di Porto San Giorgio, porta a Senigallia la sua visione di cucina Giapponese, contempora…",
-        "link": "https://www.dissapore.com/notizie/a-senigallia-arriva-la-cucina-nippo-marchigiana-di-noren/",
-        "pubDate": "2026-06-07T10:03:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Noren-%E2%80%93-Location-6-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
