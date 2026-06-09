@@ -1,7 +1,34 @@
 {
-  "generated": "2026-06-09T14:52:46.621922+00:00",
+  "generated": "2026-06-09T20:07:25.074374+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Come la sete ha influenzato l’umanità: storia mondiale dell’acqua",
+        "description": "Dalla nascita dell’uomo alla peste, dalle grandi civiltà alle rivolte popolari: la storia del mondo è soprattutto una storia di sete. E lo ha influenzato più de…",
+        "link": "https://www.dissapore.com/alimentazione/come-la-sete-ha-influenzato-lumanita-storia-mondiale-dellacqua/",
+        "pubDate": "2026-06-09T16:15:41+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/ricerca-dellacqua-libro.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Demonte, il borgo della lavanda in Piemonte: dove vedere la fioritura più spettacolare di giugno",
+        "description": "Nel cuore della Valle Stura, tra montagne, storia e tradizioni, Demonte regala uno degli spettacoli naturali più affascinanti del Piemonte grazie alla fioritura…",
+        "link": "https://www.stylosophy.it/articolo/demonte-il-borgo-della-lavanda-in-piemonte/251566/",
+        "pubDate": "2026-06-09T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il pastry chef da milioni di follower arriva a Milano: Alberto Magri apre la sua pasticceria in Corso Italia",
+        "description": "Grande curiosità per il debutto del giovane professionista che ha trasformato croissant e frutta trompe-l'œil in alcuni dei contenuti più virali della pasticcer…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/alberto-magri-apre-a-milano-in-corso-italia/",
+        "pubDate": "2026-06-09T15:39:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Come capire quanto è sostenibile il pesce che mangiamo",
         "description": "In occasione della pubblicazione del manifesto di Europe Seafood sulla sostenibilità, abbiamo provato a fare chiarezza sulle etichette del pesce.\nL'articolo Com…",
@@ -154,36 +181,18 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Hanno rubato la macchina per il gelato a Giovanna Musumeci, e c’è una raccolta fondi",
-        "description": "Dopo il furto di una macchina fondamentale per la produzione, colleghi e professionisti del settore hanno avviato una raccolta fondi per permettere a Giovanna M…",
-        "link": "https://www.dissapore.com/notizie/hanno-rubato-la-macchina-per-il-gelato-a-giovanna-musumeci-e-ce-una-raccolta-fondi/",
-        "pubDate": "2026-06-08T18:29:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/santo-musumeci-pasticceria.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Top canotta + gonna”: la combo più furba dell’estate in 7 look da copiare",
-        "description": "Da una parte la canotta, uno dei pezzi chiave del guardaroba per la spiaggia che assicura look easy e disinvolti anche in città. Dall’altra la gonna, uno dei ca…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-top-canotta-e-gonna-outfit-canottiera-sotto-camicia-estate-978108",
-        "pubDate": "2026-06-08T17:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Canotta_gonna.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Condizionatore nuovo: la guida pratica per non sbagliare acquisto",
-        "description": "L’estate è alle porte e il momento giusto per scegliere il condizionatore perfetto è adesso. Ma prima di fare acquisti affrettati, scopri cosa devi sapere davve…",
-        "link": "https://www.stylosophy.it/articolo/condizionatore-quello-che-devi-sapere-prima-di-acquistare-e-installare/230262/",
-        "pubDate": "2026-06-08T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Demonte, il borgo della lavanda in Piemonte: dove vedere la fioritura più spettacolare di giugno",
+        "description": "Nel cuore della Valle Stura, tra montagne, storia e tradizioni, Demonte regala uno degli spettacoli naturali più affascinanti del Piemonte grazie alla fioritura…",
+        "link": "https://www.stylosophy.it/articolo/demonte-il-borgo-della-lavanda-in-piemonte/251566/",
+        "pubDate": "2026-06-09T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Diletta Leotta rilancia il trend del costume da bagno con motivo bandana FOTO",
         "description": "Diletta Leotta, per quest'estate, sceglie il motivo bandana per i suoi costumi da bagno e beach look.…",
@@ -338,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Come arredare una casa al mare con stile: i segreti degli esperti per dire addio conchiglie e stelle marine",
-        "description": "Hai una casa al mare e non sai come arredarla senza cadere nei soliti cliché? Scopri lo stile elegante e contemporaneo che sta rivoluzionando il coastal look.…",
-        "link": "https://www.stylosophy.it/articolo/casa-al-mare-ecco-lo-stile-chic-che-conquista-gli-interior-designer/228483/",
-        "pubDate": "2026-06-06T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Strapless fever: il ritorno dell’abito senza spalline (e le varianti da avere subito!)",
         "description": "C’è un capo che questa estate domina passerelle, vacanze al mare e look da città con la stessa naturalezza: l’abito senza spalline. Essenziali solo all’apparenz…",
         "link": "https://www.grazia.it/moda/tendenze-moda/abiti-senza-spalline-vestito-a-fascia-strapless-zara-mango-estate-2026-976529",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Come la sete ha influenzato l’umanità: storia mondiale dell’acqua",
+        "description": "Dalla nascita dell’uomo alla peste, dalle grandi civiltà alle rivolte popolari: la storia del mondo è soprattutto una storia di sete. E lo ha influenzato più de…",
+        "link": "https://www.dissapore.com/alimentazione/come-la-sete-ha-influenzato-lumanita-storia-mondiale-dellacqua/",
+        "pubDate": "2026-06-09T16:15:41+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/ricerca-dellacqua-libro.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il pastry chef da milioni di follower arriva a Milano: Alberto Magri apre la sua pasticceria in Corso Italia",
+        "description": "Grande curiosità per il debutto del giovane professionista che ha trasformato croissant e frutta trompe-l'œil in alcuni dei contenuti più virali della pasticcer…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/alberto-magri-apre-a-milano-in-corso-italia/",
+        "pubDate": "2026-06-09T15:39:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Come capire quanto è sostenibile il pesce che mangiamo",
         "description": "In occasione della pubblicazione del manifesto di Europe Seafood sulla sostenibilità, abbiamo provato a fare chiarezza sulle etichette del pesce.\nL'articolo Com…",
@@ -520,29 +538,11 @@
         "source": "Wine Mag"
       },
       {
-        "title": "In Sardegna c’è ancora un posto dove il tonno si pesca come 3.000 anni fa",
-        "description": "Tra Carloforte e Portoscuso sopravvivono le ultime tonnare fisse attive del Mediterraneo. Un viaggio tra tonno rosso, migrazioni millenarie, comunità tabarchine…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sardegna-tonno-tonnare-carloforte/",
-        "pubDate": "2026-06-08T13:30:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Veniamo a scoprire che esistono davvero le pizzerie stellate",
         "description": "Benvenuti nel fantastico mondo delle guide gastronomiche tarocche, che attribuiscono stelle (sì, stelle) là dove la Michelin non osa avventurarsi, per ora.\nL'ar…",
         "link": "https://www.dissapore.com/notizie/veniamo-a-scoprire-che-esistono-davvero-le-pizzerie-stellate/",
         "pubDate": "2026-06-08T11:48:53+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Pizzaiolo-Stellato-Rossetto-scaled-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Maxi multa per un’azienda produttrice di kebab: la sua carne non era proprio carne",
-        "description": "Un'azienda leader di fornitura dei kebab in Inghilterra è finita in tribunale con l'accusa di frode: la sua carne d'agnello conteneva pochissima carne. \nL'artic…",
-        "link": "https://www.dissapore.com/notizie/maxi-multa-per-unazienda-produttrice-di-kebab-la-sua-carne-non-era-proprio-carne/",
-        "pubDate": "2026-06-08T08:46:31+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/kismet-kebab-2-e1780908258497.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
