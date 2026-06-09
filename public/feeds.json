@@ -1,7 +1,52 @@
 {
-  "generated": "2026-06-08T20:18:22.937195+00:00",
+  "generated": "2026-06-09T09:44:58.676572+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La Danimarca è il primo paese europeo ad abolire il ministero dell’Agricoltura",
+        "description": "Il governo danese ridisegna la governance del settore primario: competenze distribuite tra più dicasteri, focus sulla transizione ecologica e nuovo ministero \np…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/danimarca-abolizione-ministero-agricoltura/",
+        "pubDate": "2026-06-09T09:13:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il burro struccante è l’alleato skincare (anche) dell’Estate, per una pelle al top",
+        "description": "Un must beauty per una pelle del viso pulita, detersa e luminosa? Il burro struccante, alleato anche dell'Estate. Ecco i più validi da non lasciarsi sfuggire...…",
+        "link": "https://www.stylosophy.it/articolo/il-burro-struccante-e-lalleato-skincare-anche-dellestate-per-una-pelle-al-top/251542/",
+        "pubDate": "2026-06-09T09:10:02+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Le specie aliene, la crisi ambientale e quel grido d’allarme del Mediterraneo che non possiamo più ignorare",
+        "description": "Chiara Pavan e Stefano Liberti, dal palco di Identità Golose, hanno parlato del nostro mare e di strategie per gestire una crisi che ha conseguenze devastanti a…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/crisi-ambientale-mediterraneo-chiara-pavan-stefano-liberti/",
+        "pubDate": "2026-06-09T07:04:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Guerra dell’Asti. I viticoltori accusano le grandi industrie di speculare sulla filiera",
+        "description": "Di fronte al calo delle vendite, le case spumantistiche hanno presentato un piano per abbassare le rese e i prezzi delle uve, ma non ci stanno i conferitori: \"P…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/guerra-asti-docg-viticoltori-contro-grandi-industrie/",
+        "pubDate": "2026-06-09T06:03:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Compagnia dei Caraibi, Report di Impatto e Sostenibilità 2025: focus su governance ESG, ambiente e persone",
+        "description": "Compagnia dei Caraibi pubblica il suo quinto Report di Impatto e Sostenibilità, relativo all’esercizio 2025. Il documento, intitolato “Building Value Responsibl…",
+        "link": "https://www.winemag.it/compagnia-dei-caraibi-report-di-impatto-e-sostenibilita-2025-focus-su-governance-esg-ambiente-e-persone/",
+        "pubDate": "2026-06-09T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Hanno rubato la macchina per il gelato a Giovanna Musumeci, e c’è una raccolta fondi",
         "description": "Dopo il furto di una macchina fondamentale per la produzione, colleghi e professionisti del settore hanno avviato una raccolta fondi per permettere a Giovanna M…",
@@ -136,54 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "I rimedi perfetti per rinfrescare il viso nelle giornate più calde",
-        "description": "SOS viso caldo? Ecco 5 rimedi da seguire alla lettera per un booster di freschezza...…",
-        "link": "https://www.stylosophy.it/articolo/i-rimedi-perfetti-per-rinfrescare-il-viso-nelle-giornate-piu-calde/251524/",
-        "pubDate": "2026-06-08T09:00:00+00:00",
+        "title": "Il burro struccante è l’alleato skincare (anche) dell’Estate, per una pelle al top",
+        "description": "Un must beauty per una pelle del viso pulita, detersa e luminosa? Il burro struccante, alleato anche dell'Estate. Ecco i più validi da non lasciarsi sfuggire...…",
+        "link": "https://www.stylosophy.it/articolo/il-burro-struccante-e-lalleato-skincare-anche-dellestate-per-una-pelle-al-top/251542/",
+        "pubDate": "2026-06-09T09:10:02+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Maxi multa per un’azienda produttrice di kebab: la sua carne non era proprio carne",
-        "description": "Un'azienda leader di fornitura dei kebab in Inghilterra è finita in tribunale con l'accusa di frode: la sua carne d'agnello conteneva pochissima carne. \nL'artic…",
-        "link": "https://www.dissapore.com/notizie/maxi-multa-per-unazienda-produttrice-di-kebab-la-sua-carne-non-era-proprio-carne/",
-        "pubDate": "2026-06-08T08:46:31+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/kismet-kebab-2-e1780908258497.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Belgio hanno troppe patate",
-        "description": "La capitale mondiale delle frites fa i conti con un surplus inaspettato di patate e una domanda sempre minore.\nL'articolo In Belgio hanno troppe patate proviene…",
-        "link": "https://www.dissapore.com/notizie/in-belgio-hanno-troppe-patate/",
-        "pubDate": "2026-06-08T08:35:45+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/patate.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Furla porta l’estate nel cuore di Roma con il Sun Bar dedicato alla collezione SS26",
-        "description": "Si è concluso nel weekend il Furla Sun Bar, il progetto esperienziale con cui Furla ha trasformato Tram Depot, nel quartiere Testaccio, in una vivace destinazio…",
-        "link": "https://www.grazia.it/moda/news-moda/furla-eyewear-collezione-occhiali-da-sole-ss-26-sun-bar-roma-977999",
-        "pubDate": "2026-06-08T07:43:57+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La sostenibilità della carne è tornata nelle agende politiche in Europa?",
-        "description": "Mentre un rapporto FAO dichiara le quantità enormi di carne che mangiamo, qualche politico comincia a mettere il problema degli allevamenti in agenda.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/la-sostenibilita-della-carne-e-tornata-nelle-agende-politiche-in-europa/",
-        "pubDate": "2026-06-08T07:07:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/allevamento-intensivo-maiali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "Condizionatore nuovo: la guida pratica per non sbagliare acquisto",
         "description": "L’estate è alle porte e il momento giusto per scegliere il condizionatore perfetto è adesso. Ma prima di fare acquisti affrettati, scopri cosa devi sapere davve…",
@@ -293,15 +302,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "I pantaloni estivi per l’Ufficio che salvano dal caldo con eleganza",
-        "description": "Eleganti, raffinati e super freschi, questi pantaloni sono perfetti per dei look da ufficio all'ultima moda. Imperdibili!…",
-        "link": "https://www.stylosophy.it/articolo/i-pantaloni-estivi-per-lufficio-che-salvano-dal-caldo-con-eleganza/251471/",
-        "pubDate": "2026-06-06T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Strapless fever: il ritorno dell’abito senza spalline (e le varianti da avere subito!)",
         "description": "C’è un capo che questa estate domina passerelle, vacanze al mare e look da città con la stessa naturalezza: l’abito senza spalline. Essenziali solo all’apparenz…",
         "link": "https://www.grazia.it/moda/tendenze-moda/abiti-senza-spalline-vestito-a-fascia-strapless-zara-mango-estate-2026-976529",
@@ -366,6 +366,42 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "La Danimarca è il primo paese europeo ad abolire il ministero dell’Agricoltura",
+        "description": "Il governo danese ridisegna la governance del settore primario: competenze distribuite tra più dicasteri, focus sulla transizione ecologica e nuovo ministero \np…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/danimarca-abolizione-ministero-agricoltura/",
+        "pubDate": "2026-06-09T09:13:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le specie aliene, la crisi ambientale e quel grido d’allarme del Mediterraneo che non possiamo più ignorare",
+        "description": "Chiara Pavan e Stefano Liberti, dal palco di Identità Golose, hanno parlato del nostro mare e di strategie per gestire una crisi che ha conseguenze devastanti a…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/crisi-ambientale-mediterraneo-chiara-pavan-stefano-liberti/",
+        "pubDate": "2026-06-09T07:04:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Guerra dell’Asti. I viticoltori accusano le grandi industrie di speculare sulla filiera",
+        "description": "Di fronte al calo delle vendite, le case spumantistiche hanno presentato un piano per abbassare le rese e i prezzi delle uve, ma non ci stanno i conferitori: \"P…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/guerra-asti-docg-viticoltori-contro-grandi-industrie/",
+        "pubDate": "2026-06-09T06:03:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Compagnia dei Caraibi, Report di Impatto e Sostenibilità 2025: focus su governance ESG, ambiente e persone",
+        "description": "Compagnia dei Caraibi pubblica il suo quinto Report di Impatto e Sostenibilità, relativo all’esercizio 2025. Il documento, intitolato “Building Value Responsibl…",
+        "link": "https://www.winemag.it/compagnia-dei-caraibi-report-di-impatto-e-sostenibilita-2025-focus-su-governance-esg-ambiente-e-persone/",
+        "pubDate": "2026-06-09T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Hanno rubato la macchina per il gelato a Giovanna Musumeci, e c’è una raccolta fondi",
         "description": "Dopo il furto di una macchina fondamentale per la produzione, colleghi e professionisti del settore hanno avviato una raccolta fondi per permettere a Giovanna M…",
@@ -502,47 +538,11 @@
         "source": "Dissapore"
       },
       {
-        "title": "Rinasce uno storico ristorante sul mare: la nuova vita del simbolo di Civitavecchia",
-        "description": "Dopo il successo di Futura a Roma, Anastasia Paris firma la rinascita di Esterina a Civitavecchia: una cucina di mare contemporanea che parte dalla tradizione e…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/rinasce-storico-ristorante-mare-esterina-civitavecchia/",
-        "pubDate": "2026-06-08T06:36:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Niente sushi: a Senigallia apre una nuova trattoria ispirata al Giappone autentico",
-        "description": "Noren ha appena aperto nel centro di Senigallia con una cucina giapponese essenziale e saporita fatta di soba, sake, fermentazioni e tecniche orientali applicat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/noren-senigallia-izakaya-giapponese/",
-        "pubDate": "2026-06-08T05:11:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Brut Dargent: la Jura tra Metodo Classico e spumanti analcolici",
         "description": "Brut Dargent: la Jura tra Metodo Classico e spumanti analcolici: Brut Dargent Chardonnay Brut, Brut Dargent Pinot Noir Brut Rosé, Brut Dargent Blanc de Blancs E…",
         "link": "https://www.winemag.it/brut-dargent-jura-metodo-classico-spumanti-analcolici/",
         "pubDate": "2026-06-08T05:00:00+00:00",
         "image": "https://www.winemag.it/wp-content/uploads/2026/06/Brut-Dargent-la-Jura-tra-Metodo-Classico-e-spumanti-analcolici-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Mettersi a dieta da soli è un’idea da ricovero, dati alla mano",
-        "description": "Una nuova ricerca dimostra che una dieta personalizzata ha un impatto positivo non solo sul singolo paziente, ma su tutto il sistema sanitario, con numeri davve…",
-        "link": "https://www.dissapore.com/notizie/mettersi-a-dieta-da-soli-e-unidea-da-ricovero-dati-alla-mano/",
-        "pubDate": "2026-06-07T13:35:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/dottore-alimentazione-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Frana Niscemi, Feudi del Pisciotto lancia vino solidale Fata Nascim",
-        "description": "Feudi del Pisciotto lancia un vino solidale per sostenere la comunità di Niscemi, comune siciliano colpito da una grave frana a gennaio 2026, a ridosso del cent…",
-        "link": "https://www.winemag.it/frana-niscemi-feudi-del-pisciotto-lancia-vino-solidale-fata-nascim/",
-        "pubDate": "2026-06-07T10:37:58+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Frana-Niscemi-Feudi-del-Pisciotto-lancia-vino-solidale-Fata-Nascim.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
       }
