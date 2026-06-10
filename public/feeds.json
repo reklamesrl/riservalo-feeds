@@ -1,7 +1,25 @@
 {
-  "generated": "2026-06-10T15:36:11.311206+00:00",
+  "generated": "2026-06-10T20:30:51.921010+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "I prezzi dei vini negli Usa mettono a dura prova la fedeltà al Made in Italy. Federvini: “Anno senza precedenti”",
+        "description": "L’Osservatorio Federvini-Nomisma conferma la contrazione generalizzata delle importazioni. Negli Usa il prezzo è la principale barriera all’acquisto: i consumat…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/export-vini-prezzi-usa-assemblea-federvini/",
+        "pubDate": "2026-06-10T17:09:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Maisons du Monde, 5 novità per arredare casa: i complementi più interessanti della stagione estiva",
+        "description": "Dai tessili ai complementi decorativi, passando per illuminazione e arredi: ecco le proposte Maisons du Monde che interpretano le tendenze della stagione con de…",
+        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-novita-per-arredare-casa-i-complementi-della-stagione-estiva/251600/",
+        "pubDate": "2026-06-10T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "L’enoturismo è una cosa seria: linee guida per un asset destinato a incidere più dei consumi di vino",
         "description": "Arriva il manuale scritto da Dario Stefàno e Donatella Cinelli Colombini per un'accoglienza a prova di business. Lingue straniere, marketing e organizzazione ev…",
@@ -163,27 +181,18 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Tra le vette alpine della Valle d’Aosta nasce uno dei migliori Pinot Nero sotto i 20 euro",
-        "description": "Vicino ad Aosta ha sede la più grande azienda della regione che, grazie a una crescita costante nel tempo e il ringiovanimento ai vertici, ha impresso una svolt…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliore-pinot-nero-valle-daosta-sotto-20-euro/",
-        "pubDate": "2026-06-10T06:03:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Prima si corre, poi si beve. A Frascati nasce il Run Club dell’enoteca Primo",
-        "description": "Nel piccolo comune dei Castelli Romani arriva Mai Primo Run Club: corse di gruppo e calici di vino in compagnia secondo il nuovo trend che sta conquistando le n…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/run-club-enoteca-primo-frascati/",
-        "pubDate": "2026-06-10T05:12:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Maisons du Monde, 5 novità per arredare casa: i complementi più interessanti della stagione estiva",
+        "description": "Dai tessili ai complementi decorativi, passando per illuminazione e arredi: ecco le proposte Maisons du Monde che interpretano le tendenze della stagione con de…",
+        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-novita-per-arredare-casa-i-complementi-della-stagione-estiva/251600/",
+        "pubDate": "2026-06-10T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Belen Rodriguez sfoggia il floral dress must di stagione: da avere subito!",
         "description": "Belen Rodriguez, sempre al passo con i tempi, sfoggia il floral dress perfetto per questa stagione: qui di seguito per tutti i dettagli.…",
@@ -347,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "I rimedi perfetti per rinfrescare il viso nelle giornate più calde",
-        "description": "SOS viso caldo? Ecco 5 rimedi da seguire alla lettera per un booster di freschezza...…",
-        "link": "https://www.stylosophy.it/articolo/i-rimedi-perfetti-per-rinfrescare-il-viso-nelle-giornate-piu-calde/251524/",
-        "pubDate": "2026-06-08T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Furla porta l’estate nel cuore di Roma con il Sun Bar dedicato alla collezione SS26",
         "description": "Si è concluso nel weekend il Furla Sun Bar, il progetto esperienziale con cui Furla ha trasformato Tram Depot, nel quartiere Testaccio, in una vivace destinazio…",
         "link": "https://www.grazia.it/moda/news-moda/furla-eyewear-collezione-occhiali-da-sole-ss-26-sun-bar-roma-977999",
@@ -366,6 +366,15 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "I prezzi dei vini negli Usa mettono a dura prova la fedeltà al Made in Italy. Federvini: “Anno senza precedenti”",
+        "description": "L’Osservatorio Federvini-Nomisma conferma la contrazione generalizzata delle importazioni. Negli Usa il prezzo è la principale barriera all’acquisto: i consumat…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/export-vini-prezzi-usa-assemblea-federvini/",
+        "pubDate": "2026-06-10T17:09:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "L’enoturismo è una cosa seria: linee guida per un asset destinato a incidere più dei consumi di vino",
         "description": "Arriva il manuale scritto da Dario Stefàno e Donatella Cinelli Colombini per un'accoglienza a prova di business. Lingue straniere, marketing e organizzazione ev…",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/pesca-in-mare.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Tommaso Mazzanti ci prova anche col gelato: dopo il boom di All’antico Vinaio lancia Oblò. Si parte dalla Versilia",
-        "description": "L'imprenditore fiorentino, diventato famoso per le iconiche schiacciate, dà il via ad una nuova sfida professionale insieme alla moglie Clara Fioretti: \"Vogliam…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/tommaso-mazzanti-gelateria-oblo-forte-dei-marmi/",
-        "pubDate": "2026-06-09T14:30:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
