@@ -1,7 +1,43 @@
 {
-  "generated": "2026-06-12T15:15:51.619747+00:00",
+  "generated": "2026-06-12T20:11:34.097368+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "È morto David Hockney: addio all’artista della Pop Art che amava il cibo e dipingeva la frutta con uno stile unico",
+        "description": "Più volte aveva criticato le politiche anti-obesità del governo britannico, sostenendo che senza bere e mangiare la vita perde senso. La sua frase manifesto? \"L…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/morto-david-hockney-artista-pop-art-passioni-cibo-frutta/",
+        "pubDate": "2026-06-12T16:48:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La novità Polti per dire addio alle macchie su tappeti e imbottati senza usare detergenti",
+        "description": "Polti oggi si occupa anche di pulizia e lancia una nuovo dispositivo che sfrutta il vapore per trattare tessuti, imbottiti e superfici domestiche senza prodotti…",
+        "link": "https://www.stylosophy.it/articolo/la-novita-polti-per-dire-addio-alle-macchie-su-tappeti-e-imbottati/251670/",
+        "pubDate": "2026-06-12T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il video di Massimo Bottura allo IULM: ci stavamo perdendo la vicenda più assurda del mese",
+        "description": "Ci stavamo quasi per perdere il gossip gastronomico del mese, che a ben guardare è molto di più di un semplice gossip. Protagonista Bottura e una sua frase trop…",
+        "link": "https://www.dissapore.com/notizie/il-video-di-massimo-bottura-allo-iulm-ci-stavamo-perdendo-la-vicenda-piu-assurda-del-mese/",
+        "pubDate": "2026-06-12T15:26:14+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/SnapInsta.to_651872799_18577414477001801_1697711277651700182_n.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Marta Vidal eletta presidente della D.O. Cava: è la prima donna alla guida della denominazione",
+        "description": "Marta Vidal è la nuova presidente della D.O. Cava. L&#8217;elezione è avvenuta ieri nel corso della sessione plenaria del Consiglio Regolatore, riunita nella se…",
+        "link": "https://www.winemag.it/marta-vidal-eletta-presidente-della-d-o-cava-e-la-prima-donna-alla-guida-della-denominazione/",
+        "pubDate": "2026-06-12T15:25:19+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Mondiali di calcio 2026: menu a prezzi ridotti in oltre 600 locali per seguire le partite senza spendere una fortuna",
         "description": "Dall’11 giugno fino alla finale del 19 luglio, quasi 600 bar, ristoranti e chioschi nei cinque distretti di New York offriranno menu speciali a 26 dollari con l…",
@@ -145,45 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
-        "description": "Aria condizionata accesa, un caffè freddo tra le mani e una pazza pazza voglia di partire per le vacanze, cosa che però, per moltissimi di noi, è ancora un lont…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/shopping-cosa-comprare-consigli-acquisti-vestiti-borse-scarpe-estate-979440",
-        "pubDate": "2026-06-12T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_love_first_sight_10_giugno.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Sandali infradito bellissimi e dove trovarli: ecco i modelli che reinterpretano un grande classico come non lo avete mai immaginato",
-        "description": "Quando arriva l&#8217;estate le infradito diventano una calzatura all&#8217;ordine del giorno e i trend delle ultime stagioni, che le hanno riproposte anche in …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-infradito-bassi-con-tacco-particolari-di-marca-modelli-estate-2026-978014",
-        "pubDate": "2026-06-11T17:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/DESK-infradito-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il vino italiano soffre ancora nel primo trimestre 2026. A marzo timida inversione di rotta",
-        "description": "L'export dei primi tre mesi dell'anno si chiude a -8,3% a valore con gli Usa a -20,5%. Meglio i mercati europei rispetto all'Extra Ue. Resta negativo il compart…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-italiano-export-primo-trimestre-2026-dati-istat/",
-        "pubDate": "2026-06-11T16:02:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Guida alle Isole Eolie: cosa vedere, come arrivare e quale scegliere questa estate",
-        "description": "Sette isole vulcaniche tra mare cristallino, natura e borghi autentici. Tutto quello che c'è da sapere per organizzare una vacanza alle Eolie durante l'estate.…",
-        "link": "https://www.stylosophy.it/articolo/guida-alle-isole-eolie-cosa-vedere-come-arrivare-e-quale-scegliere-questa-estate/251647/",
-        "pubDate": "2026-06-11T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "La novità Polti per dire addio alle macchie su tappeti e imbottati senza usare detergenti",
+        "description": "Polti oggi si occupa anche di pulizia e lancia una nuovo dispositivo che sfrutta il vapore per trattare tessuti, imbottiti e superfici domestiche senza prodotti…",
+        "link": "https://www.stylosophy.it/articolo/la-novita-polti-per-dire-addio-alle-macchie-su-tappeti-e-imbottati/251670/",
+        "pubDate": "2026-06-12T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Kylie Jenner lancia la collection summer 2026 con il suo brand di abbigliamento Khy",
         "description": "Disponibile da ieri 11 giugno, Kylie Jenner ha lanciato la nuova summer collection con il suo brand di abbigliamento Khy.…",
@@ -354,18 +363,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Gonna_Zara.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "SOS Look estivi? 4 idee glam e casual a prova di caldo",
-        "description": "Trendy, comodi e freschi, questi 4 outfit sono perfetti per affrontare l'Estate con stile. Da copiare!…",
-        "link": "https://www.stylosophy.it/articolo/sos-look-estivi-4-idee-glam-e-casual-a-prova-di-caldo/251582/",
-        "pubDate": "2026-06-10T11:00:26+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "È morto David Hockney: addio all’artista della Pop Art che amava il cibo e dipingeva la frutta con uno stile unico",
+        "description": "Più volte aveva criticato le politiche anti-obesità del governo britannico, sostenendo che senza bere e mangiare la vita perde senso. La sua frase manifesto? \"L…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/morto-david-hockney-artista-pop-art-passioni-cibo-frutta/",
+        "pubDate": "2026-06-12T16:48:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il video di Massimo Bottura allo IULM: ci stavamo perdendo la vicenda più assurda del mese",
+        "description": "Ci stavamo quasi per perdere il gossip gastronomico del mese, che a ben guardare è molto di più di un semplice gossip. Protagonista Bottura e una sua frase trop…",
+        "link": "https://www.dissapore.com/notizie/il-video-di-massimo-bottura-allo-iulm-ci-stavamo-perdendo-la-vicenda-piu-assurda-del-mese/",
+        "pubDate": "2026-06-12T15:26:14+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/SnapInsta.to_651872799_18577414477001801_1697711277651700182_n.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Marta Vidal eletta presidente della D.O. Cava: è la prima donna alla guida della denominazione",
+        "description": "Marta Vidal è la nuova presidente della D.O. Cava. L&#8217;elezione è avvenuta ieri nel corso della sessione plenaria del Consiglio Regolatore, riunita nella se…",
+        "link": "https://www.winemag.it/marta-vidal-eletta-presidente-della-d-o-cava-e-la-prima-donna-alla-guida-della-denominazione/",
+        "pubDate": "2026-06-12T15:25:19+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Mondiali di calcio 2026: menu a prezzi ridotti in oltre 600 locali per seguire le partite senza spendere una fortuna",
         "description": "Dall’11 giugno fino alla finale del 19 luglio, quasi 600 bar, ristoranti e chioschi nei cinque distretti di New York offriranno menu speciali a 26 dollari con l…",
@@ -466,19 +493,28 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Cesarini Sforza e Palazzo Reale: partnership nel segno dell’arte e della cultura",
+        "description": "Cesarini Sforza sarà partner di Palazzo Reale di Milano per i prossimi dodici mesi. La storica azienda del Trentodoc accompagnerà il calendario e le inaugurazio…",
+        "link": "https://www.winemag.it/cesarini-sforza-e-palazzo-reale-partnership-nel-segno-dellarte-e-della-cultura/",
+        "pubDate": "2026-06-12T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Cesarini-Sforza-e-Palazzo-Reale-partnership-nel-segno-dellarte-e-della-cultura-1-rotated.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Acquaworld lancia il sabato sera d’estate: aperitivi, musica lounge e piscine fino alle 22",
+        "description": "Dal 13 giugno Acquaworld inaugura un nuovo format dedicato alle serate estive. Per tutti i sabati della stagione, il parco aprirà in una speciale fascia oraria …",
+        "link": "https://www.winemag.it/acquaworld-lancia-il-sabato-sera-destate-aperitivi-musica-lounge-e-piscine-fino-alle-22/",
+        "pubDate": "2026-06-12T04:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Il vino italiano soffre ancora nel primo trimestre 2026. A marzo timida inversione di rotta",
         "description": "L'export dei primi tre mesi dell'anno si chiude a -8,3% a valore con gli Usa a -20,5%. Meglio i mercati europei rispetto all'Extra Ue. Resta negativo il compart…",
         "link": "https://www.gamberorosso.it/notizie/attualita/vino-italiano-export-primo-trimestre-2026-dati-istat/",
         "pubDate": "2026-06-11T16:02:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vino italiano cerca un nuovo equilibrio. Le iniziative (solitarie) delle Dop prima della vendemmia 2026",
-        "description": "I Consorzi corrono ai ripari di fronte alle giacenze ancora alte in cantina. Diversi gli strumenti: stoccaggio, riduzione rese, blocco delle autorizzazioni e c'…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/misure-contenimento-produzione-vino-consorzi-soave-chianti-abruzzo-asti-brunello-valpolicella-barbera/",
-        "pubDate": "2026-06-11T15:16:25+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -493,56 +529,20 @@
         "source": "Dissapore"
       },
       {
+        "title": "World Gin Day 2026, Nordés festeggia col Signature Cocktail firmato SeaSignora Milano",
+        "description": "In occasione del World Gin Day 2026, Nordés sceglie SeaSignora Milano per celebrare il distillato con un Signature Cocktail disponibile dal 13 al 30 giugno nel …",
+        "link": "https://www.winemag.it/world-gin-day-2026-nordes-festeggia-col-signature-cocktail-firmato-seasignora-milano/",
+        "pubDate": "2026-06-11T12:24:24+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Le migliori pasticcerie di Cagliari e Oristano nel 2026",
         "description": "Tra mostaccioli e lievitati contemporanei, la guida di Dissapore alle migliori pasticcerie di Cagliari e Oristano, provincia compresa. \nL'articolo Le migliori p…",
         "link": "https://www.dissapore.com/locali/le-migliori-pasticcerie-di-cagliari-e-oristano-nel-2026/",
         "pubDate": "2026-06-11T10:56:13+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/matrice-cagliari-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il ritorno di René Redzepi: sarà “direttore creativo” del Noma",
-        "description": "Dopo le dimissioni per lo scandalo sugli abusi in cucina, René Redzepi rientra al Noma con una nuova posizione e una nuova squadra di giovani al comando.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/il-ritorno-di-rene-redzepi-sara-direttore-creativo-del-noma/",
-        "pubDate": "2026-06-11T10:04:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/noma-projects.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cos’ha di speciale il burro piemontese, che vuole diventare una DOP",
-        "description": "Una parte del gotha della produzione lattiero casearia piemontese sta guidando un consorzio per ottenere il marchio e valorizzare la filiera.\nL'articolo Cos&#82…",
-        "link": "https://www.dissapore.com/notizie/cosha-di-speciale-il-burro-piemontese-che-vuole-diventare-una-dop/",
-        "pubDate": "2026-06-11T07:54:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/fabbrica-di-burro-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "No, Mercato Centrale Torino non sta per chiudere",
-        "description": "Rumors su canoni Imu e verifiche sulla struttura parlano di chiusura, ma Mercato Centrale non sta chiudendo la sua sede di Torino. \nL'articolo No, Mercato Centr…",
-        "link": "https://www.dissapore.com/notizie/no-mercato-centrale-torino-non-sta-per-chiudere/",
-        "pubDate": "2026-06-10T14:10:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/11/Mercato-Centrale-004.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gelizioso è, ancora, la gelateria più radicale della provincia di Salerno",
-        "description": "Nell'Agro Nocerino-Sarnese, Giuseppe Cascella porta infusioni, stagionalità senza compromessi e un libro ingredienti impeccabile. Dal 2014. E sarà per l'immobil…",
-        "link": "https://www.dissapore.com/locali/gelizioso-a-sarno-recensione-della-gelateria-botanica/",
-        "pubDate": "2026-06-10T13:15:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/gelateria-Gelizioso-Sarno-1-e1781096614459.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Consumiamo troppe proteine, e ora cominciano a scarseggiare",
-        "description": "L'eccesso di richiesta causa rincari e scarsità di prodotto, e a peggiorare la situazione ci si mettono pure i farmaci GLP-1.\nL'articolo Consumiamo troppe prote…",
-        "link": "https://www.dissapore.com/notizie/consumiamo-troppe-proteine-e-ora-cominciano-a-scarseggiare/",
-        "pubDate": "2026-06-10T11:03:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/proteine-polvere-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
