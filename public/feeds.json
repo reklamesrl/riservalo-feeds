@@ -1,7 +1,97 @@
 {
-  "generated": "2026-06-11T20:22:34.902454+00:00",
+  "generated": "2026-06-12T10:14:26.232289+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A Roma apre una nuova trattoria con cocktail bar e piscina. Ma è solo l’inizio",
+        "description": "A Palazzo Dama apre uno spin off de Li Somari di Tivoli; prima uscita di un nuovo format del gruppo Acquolina che mescola cucina tradizionale e ambiente cosmopo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/donkeys-bar-roma-trattoria-palazzo-dama/",
+        "pubDate": "2026-06-12T10:13:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché, concettualmente, la panzanella è il piatto più buono d’Italia",
+        "description": "Nata per recuperare il pane vecchio e diventata simbolo dell'estate italiana, la panzanella continua a conquistare grazie alla sua semplicità disarmante…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-panzanella-piatto-piu-buono-italia/",
+        "pubDate": "2026-06-12T09:55:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I paradossi del protezionismo: niente più banane per i bambini americani",
+        "description": "Il nuovo Farm Bill americano contiene delle linee guida che impongono l'acquisto di prodotti statunitensi, ma le scuole non riescono a gestirlo. \nL'articolo I p…",
+        "link": "https://www.dissapore.com/notizie/i-paradossi-del-protezionismo-niente-piu-banane-per-i-bambini-americani/",
+        "pubDate": "2026-06-12T09:14:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/mensa-bambini-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "5 consigli beauty imperdibili per una skincare estiva ben equilibrata (il terzo è il più importante)",
+        "description": "SOS skincare estiva? Ecco 5 consigli per una pelle al top e a prova di alte temperature. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/5-consigli-beauty-imperdibili-per-una-skincare-estiva-ben-equilibrata-il-terzo-e-il-piu-importante/251654/",
+        "pubDate": "2026-06-12T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“Unica sede”: le 5 imperdibili faide familiari della ristorazione di Napoli",
+        "description": "Famiglie che si spaccano quando il business cresce e un cartello appeso in vetrina. Dietro l'insegna \"unica sede\" ci sono cause in tribunale, cugini che non si …",
+        "link": "https://www.dissapore.com/ristoranti/unica-sede-le-5-imperdibili-faide-familiari-della-ristorazione-di-napoli/",
+        "pubDate": "2026-06-12T08:34:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/unica-sede-Napoli--scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Lo yogurt greco non esiste (almeno per i greci)",
+        "description": "In Grecia lo chiamano semplicemente straggisto, yogurt filtrato. Una tecnica antica che attraversa secoli di storia, rotte commerciali e tradizioni gastronomich…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yogurt-greco-storia-straggisto/",
+        "pubDate": "2026-06-12T08:00:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo hanno indossato gli chef per oltre un secolo. Ora sta scomparendo",
+        "description": "Dalla Francia di Escoffier alle cucine a vista dei ristoranti contemporanei: la lenta scomparsa della toque blanche racconta come è cambiata la figura dello che…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lo-hanno-indossato-gli-chef-per-oltre-un-secolo-ora-sta-scomparendo/",
+        "pubDate": "2026-06-12T07:00:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La zuppa di cicerchie che si prepara come 100 anni fa: il segreto della “pupatella”",
+        "description": "Guanciale, ortaggi e un legume antico conosciuto già dai romani: ecco la zuppa di cicerchie preparata secondo la ricetta della famiglia Di Meo, che coltiva anco…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/zuppa-cicerchie-campi-flegrei-ricetta/",
+        "pubDate": "2026-06-12T06:00:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cesarini Sforza e Palazzo Reale: partnership nel segno dell’arte e della cultura",
+        "description": "Cesarini Sforza sarà partner di Palazzo Reale di Milano per i prossimi dodici mesi. La storica azienda del Trentodoc accompagnerà il calendario e le inaugurazio…",
+        "link": "https://www.winemag.it/cesarini-sforza-e-palazzo-reale-partnership-nel-segno-dellarte-e-della-cultura/",
+        "pubDate": "2026-06-12T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Cesarini-Sforza-e-Palazzo-Reale-partnership-nel-segno-dellarte-e-della-cultura-1-rotated.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Acquaworld lancia il sabato sera d’estate: aperitivi, musica lounge e piscine fino alle 22",
+        "description": "Dal 13 giugno Acquaworld inaugura un nuovo format dedicato alle serate estive. Per tutti i sabati della stagione, il parco aprirà in una speciale fascia oraria …",
+        "link": "https://www.winemag.it/acquaworld-lancia-il-sabato-sera-destate-aperitivi-musica-lounge-e-piscine-fino-alle-22/",
+        "pubDate": "2026-06-12T04:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Il vino italiano soffre ancora nel primo trimestre 2026. A marzo timida inversione di rotta",
         "description": "L'export dei primi tre mesi dell'anno si chiude a -8,3% a valore con gli Usa a -20,5%. Meglio i mercati europei rispetto all'Extra Ue. Resta negativo il compart…",
@@ -21,7 +111,7 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Corsa contro il tempo per tagliare la produzione di vino. Le iniziative (solitarie) delle Dop prima della vendemmia 2026",
+        "title": "Il vino italiano cerca un nuovo equilibrio. Le iniziative (solitarie) delle Dop prima della vendemmia 2026",
         "description": "I Consorzi corrono ai ripari di fronte alle giacenze ancora alte in cantina. Diversi gli strumenti: stoccaggio, riduzione rese, blocco delle autorizzazioni e c'…",
         "link": "https://www.gamberorosso.it/notizie/attualita/misure-contenimento-produzione-vino-consorzi-soave-chianti-abruzzo-asti-brunello-valpolicella-barbera/",
         "pubDate": "2026-06-11T15:16:25+00:00",
@@ -91,99 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "I costumi interi più sensuali e trendy dell’Estate 2026 sono firmati Zara. L’ultimo è il più desiderato del momento!",
-        "description": "Trendy, ricercati e super femminili, i costumi interi firmati Zara sono un vero must dell'Estate! Ecco i più belli da non lasciarsi sfuggire...…",
-        "link": "https://www.stylosophy.it/articolo/i-costumi-interi-piu-sensuali-e-trendy-dellestate-2026-sono-firmati-zara/251622/",
-        "pubDate": "2026-06-11T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Le migliori pasticcerie di Cagliari e Oristano nel 2026",
-        "description": "Tra mostaccioli e lievitati contemporanei, la guida di Dissapore alle migliori pasticcerie di Cagliari e Oristano, provincia compresa. \nL'articolo Le migliori p…",
-        "link": "https://www.dissapore.com/locali/le-migliori-pasticcerie-di-cagliari-e-oristano-nel-2026/",
-        "pubDate": "2026-06-11T10:56:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/matrice-cagliari-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nei ristoranti cresce la domanda di vino al calice e di no alcol. A spingere sono i giovani",
-        "description": "L’Osservatorio Federvini-Tradelab certifica i nuovi consumi e lancia l'allarme: tutte le categorie di prodotti alcolici subiscono riduzioni diffuse nei ristoran…",
-        "link": "https://www.gamberorosso.it/notizie/vino/crescita-ristoranti-vino-calice-no-alcol-tradelab-federvini/",
-        "pubDate": "2026-06-11T10:33:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il ritorno di René Redzepi: sarà “direttore creativo” del Noma",
-        "description": "Dopo le dimissioni per lo scandalo sugli abusi in cucina, René Redzepi rientra al Noma con una nuova posizione e una nuova squadra di giovani al comando.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/il-ritorno-di-rene-redzepi-sara-direttore-creativo-del-noma/",
-        "pubDate": "2026-06-11T10:04:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/noma-projects.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Abiti in pizzo Sangallo: 7 modelli perfetti per dare un tocco boho-chic ai look estivi",
-        "description": "Fanno capolino nel nostro guardaroba già al primo accenno d’estate e ora che la stagione calda è dietro l’angolo sono pronti a diventare i protagonisti dei nost…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-in-pizzo-sangallo-vestito-elegante-donna-lungo-zara-hm-zalando-979272",
-        "pubDate": "2026-06-11T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Abiti_sangallo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Alzare i limiti della volatile del vino? Una deriva pericolosa”. Luca D’Attoma contro la “setta dei naturalisti”",
-        "description": "L'enologo toscano chiede meno improvvisazione e prova a ribaltare la questione: perché aumenta l'acidità volatile? Non è sola una questione di clima ma di \"devi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/acidita-volatile-luca-dattoma-contro-vino-naturale/",
-        "pubDate": "2026-06-11T09:25:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Estate 2026: le migliori Creme doposole per idratare e lenire la pelle",
-        "description": "La crema doposole è l'alleato beauty dell'Estate 2026, per un booster di idratazione e nutrimento. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/estate-2026-le-migliori-creme-doposole-per-idratare-e-lenire-la-pelle/251612/",
-        "pubDate": "2026-06-11T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Cos’ha di speciale il burro piemontese, che vuole diventare una DOP",
-        "description": "Una parte del gotha della produzione lattiero casearia piemontese sta guidando un consorzio per ottenere il marchio e valorizzare la filiera.\nL'articolo Cos&#82…",
-        "link": "https://www.dissapore.com/notizie/cosha-di-speciale-il-burro-piemontese-che-vuole-diventare-una-dop/",
-        "pubDate": "2026-06-11T07:54:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/fabbrica-di-burro-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Autenticità, storia, territorio: il Marsala ha tutto ciò che la Gen Z cerca oggi",
-        "description": "La nostalgia, anche per epoche non vissute, attiva la memoria. In questo scenario, il Marsala ha una posizione che nessun altro vino italiano può rivendicare: l…",
-        "link": "https://www.gamberorosso.it/notizie/vino/marsala-vino-gen-z-secondo-neuromarketing/",
-        "pubDate": "2026-06-11T07:08:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Sono una fashion editor e questi sono i 10 capi e accessori che non mancano mai nella mia valigia del mare”",
-        "description": "Con l&#8217;arrivo della bella stagione torna anche il desiderio di partire, inseguendo il sole, il mare e quel senso di leggerezza che solo l&#8217;estate sa r…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/valigia-per-mare-cosa-portare-estate-capi-accessori-978191",
-        "pubDate": "2026-06-11T06:08:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_10_essential.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "5 consigli beauty imperdibili per una skincare estiva ben equilibrata (il terzo è il più importante)",
+        "description": "SOS skincare estiva? Ecco 5 consigli per una pelle al top e a prova di alte temperature. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/5-consigli-beauty-imperdibili-per-una-skincare-estiva-ben-equilibrata-il-terzo-e-il-piu-importante/251654/",
+        "pubDate": "2026-06-12T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Guida alle Isole Eolie: cosa vedere, come arrivare e quale scegliere questa estate",
         "description": "Sette isole vulcaniche tra mare cristallino, natura e borghi autentici. Tutto quello che c'è da sapere per organizzare una vacanza alle Eolie durante l'estate.…",
@@ -338,15 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Diletta Leotta rilancia il trend del costume da bagno con motivo bandana FOTO",
-        "description": "Diletta Leotta, per quest'estate, sceglie il motivo bandana per i suoi costumi da bagno e beach look.…",
-        "link": "https://www.stylosophy.it/articolo/diletta-leotta-rilancia-il-trend-del-costume-da-bagno-con-motivo-bandana-foto/251539/",
-        "pubDate": "2026-06-09T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Questi sandali con un “dettaglio” speciale sono la tendenza più forte dell’estate 2026 per chi è stufa dei “soliti” modelli!",
         "description": "Per qualcuno si meritano di finire dritti dritti nella lista nera delle &#8220;ugly shoes&#8221; da evitare a tutti i costi, eppure i sandali toe-ring continuan…",
         "link": "https://www.grazia.it/moda/tendenze-moda/sandali-con-anello-su-alluce-tendenze-estate-donna-alte-basse-flat-con-tacco-largo-alto-zalando-978438",
@@ -367,6 +367,87 @@
     ],
     "lifestyle": [
       {
+        "title": "A Roma apre una nuova trattoria con cocktail bar e piscina. Ma è solo l’inizio",
+        "description": "A Palazzo Dama apre uno spin off de Li Somari di Tivoli; prima uscita di un nuovo format del gruppo Acquolina che mescola cucina tradizionale e ambiente cosmopo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/donkeys-bar-roma-trattoria-palazzo-dama/",
+        "pubDate": "2026-06-12T10:13:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché, concettualmente, la panzanella è il piatto più buono d’Italia",
+        "description": "Nata per recuperare il pane vecchio e diventata simbolo dell'estate italiana, la panzanella continua a conquistare grazie alla sua semplicità disarmante…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-panzanella-piatto-piu-buono-italia/",
+        "pubDate": "2026-06-12T09:55:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I paradossi del protezionismo: niente più banane per i bambini americani",
+        "description": "Il nuovo Farm Bill americano contiene delle linee guida che impongono l'acquisto di prodotti statunitensi, ma le scuole non riescono a gestirlo. \nL'articolo I p…",
+        "link": "https://www.dissapore.com/notizie/i-paradossi-del-protezionismo-niente-piu-banane-per-i-bambini-americani/",
+        "pubDate": "2026-06-12T09:14:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/mensa-bambini-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Unica sede”: le 5 imperdibili faide familiari della ristorazione di Napoli",
+        "description": "Famiglie che si spaccano quando il business cresce e un cartello appeso in vetrina. Dietro l'insegna \"unica sede\" ci sono cause in tribunale, cugini che non si …",
+        "link": "https://www.dissapore.com/ristoranti/unica-sede-le-5-imperdibili-faide-familiari-della-ristorazione-di-napoli/",
+        "pubDate": "2026-06-12T08:34:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/unica-sede-Napoli--scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Lo yogurt greco non esiste (almeno per i greci)",
+        "description": "In Grecia lo chiamano semplicemente straggisto, yogurt filtrato. Una tecnica antica che attraversa secoli di storia, rotte commerciali e tradizioni gastronomich…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yogurt-greco-storia-straggisto/",
+        "pubDate": "2026-06-12T08:00:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo hanno indossato gli chef per oltre un secolo. Ora sta scomparendo",
+        "description": "Dalla Francia di Escoffier alle cucine a vista dei ristoranti contemporanei: la lenta scomparsa della toque blanche racconta come è cambiata la figura dello che…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lo-hanno-indossato-gli-chef-per-oltre-un-secolo-ora-sta-scomparendo/",
+        "pubDate": "2026-06-12T07:00:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La zuppa di cicerchie che si prepara come 100 anni fa: il segreto della “pupatella”",
+        "description": "Guanciale, ortaggi e un legume antico conosciuto già dai romani: ecco la zuppa di cicerchie preparata secondo la ricetta della famiglia Di Meo, che coltiva anco…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/zuppa-cicerchie-campi-flegrei-ricetta/",
+        "pubDate": "2026-06-12T06:00:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cesarini Sforza e Palazzo Reale: partnership nel segno dell’arte e della cultura",
+        "description": "Cesarini Sforza sarà partner di Palazzo Reale di Milano per i prossimi dodici mesi. La storica azienda del Trentodoc accompagnerà il calendario e le inaugurazio…",
+        "link": "https://www.winemag.it/cesarini-sforza-e-palazzo-reale-partnership-nel-segno-dellarte-e-della-cultura/",
+        "pubDate": "2026-06-12T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Cesarini-Sforza-e-Palazzo-Reale-partnership-nel-segno-dellarte-e-della-cultura-1-rotated.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Acquaworld lancia il sabato sera d’estate: aperitivi, musica lounge e piscine fino alle 22",
+        "description": "Dal 13 giugno Acquaworld inaugura un nuovo format dedicato alle serate estive. Per tutti i sabati della stagione, il parco aprirà in una speciale fascia oraria …",
+        "link": "https://www.winemag.it/acquaworld-lancia-il-sabato-sera-destate-aperitivi-musica-lounge-e-piscine-fino-alle-22/",
+        "pubDate": "2026-06-12T04:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Il vino italiano soffre ancora nel primo trimestre 2026. A marzo timida inversione di rotta",
         "description": "L'export dei primi tre mesi dell'anno si chiude a -8,3% a valore con gli Usa a -20,5%. Meglio i mercati europei rispetto all'Extra Ue. Resta negativo il compart…",
         "link": "https://www.gamberorosso.it/notizie/attualita/vino-italiano-export-primo-trimestre-2026-dati-istat/",
@@ -376,7 +457,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Corsa contro il tempo per tagliare la produzione di vino. Le iniziative (solitarie) delle Dop prima della vendemmia 2026",
+        "title": "Il vino italiano cerca un nuovo equilibrio. Le iniziative (solitarie) delle Dop prima della vendemmia 2026",
         "description": "I Consorzi corrono ai ripari di fronte alle giacenze ancora alte in cantina. Diversi gli strumenti: stoccaggio, riduzione rese, blocco delle autorizzazioni e c'…",
         "link": "https://www.gamberorosso.it/notizie/attualita/misure-contenimento-produzione-vino-consorzi-soave-chianti-abruzzo-asti-brunello-valpolicella-barbera/",
         "pubDate": "2026-06-11T15:16:25+00:00",
@@ -439,15 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Nei ristoranti cresce la domanda di vino al calice e di no alcol. A spingere sono i giovani",
-        "description": "L’Osservatorio Federvini-Tradelab certifica i nuovi consumi e lancia l'allarme: tutte le categorie di prodotti alcolici subiscono riduzioni diffuse nei ristoran…",
-        "link": "https://www.gamberorosso.it/notizie/vino/crescita-ristoranti-vino-calice-no-alcol-tradelab-federvini/",
-        "pubDate": "2026-06-11T10:33:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il ritorno di René Redzepi: sarà “direttore creativo” del Noma",
         "description": "Dopo le dimissioni per lo scandalo sugli abusi in cucina, René Redzepi rientra al Noma con una nuova posizione e una nuova squadra di giovani al comando.\nL'arti…",
         "link": "https://www.dissapore.com/notizie/il-ritorno-di-rene-redzepi-sara-direttore-creativo-del-noma/",
@@ -455,15 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/noma-projects.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "“Alzare i limiti della volatile del vino? Una deriva pericolosa”. Luca D’Attoma contro la “setta dei naturalisti”",
-        "description": "L'enologo toscano chiede meno improvvisazione e prova a ribaltare la questione: perché aumenta l'acidità volatile? Non è sola una questione di clima ma di \"devi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/acidita-volatile-luca-dattoma-contro-vino-naturale/",
-        "pubDate": "2026-06-11T09:25:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Cos’ha di speciale il burro piemontese, che vuole diventare una DOP",
@@ -475,74 +538,11 @@
         "source": "Dissapore"
       },
       {
-        "title": "Autenticità, storia, territorio: il Marsala ha tutto ciò che la Gen Z cerca oggi",
-        "description": "La nostalgia, anche per epoche non vissute, attiva la memoria. In questo scenario, il Marsala ha una posizione che nessun altro vino italiano può rivendicare: l…",
-        "link": "https://www.gamberorosso.it/notizie/vino/marsala-vino-gen-z-secondo-neuromarketing/",
-        "pubDate": "2026-06-11T07:08:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questo chef guarda la terra dal mare. Ecco perché la sua cucina è diversa",
-        "description": "Guardando il mare dalla parte delle onde, Gianfranco Pascucci racconta il Mediterraneo che entra negli orti, nelle alghe e nelle persone…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/gianfranco-pascucci-ristorante-fiumicino-mare-pesce/",
-        "pubDate": "2026-06-11T05:00:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Birra Messina lancia il concorso per l’aperitivo perfetto: in palio un kit esclusivo ogni ora",
         "description": "L’aperitivo resta uno dei momenti più amati dagli italiani. Un rito che accompagna la settimana e che, soprattutto con l’arrivo della bella stagione, si sposta …",
         "link": "https://www.winemag.it/birra-messina-lancia-il-concorso-per-laperitivo-perfetto-in-palio-un-kit-esclusivo-ogni-ora/",
         "pubDate": "2026-06-11T05:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I prezzi dei vini negli Usa mettono a dura prova la fedeltà al Made in Italy. Federvini: “Anno senza precedenti”",
-        "description": "L’Osservatorio Federvini-Nomisma conferma la contrazione generalizzata delle importazioni. Negli Usa il prezzo è la principale barriera all’acquisto: i consumat…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/export-vini-prezzi-usa-assemblea-federvini/",
-        "pubDate": "2026-06-10T17:09:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "No, Mercato Centrale Torino non sta per chiudere",
-        "description": "Rumors su canoni Imu e verifiche sulla struttura parlano di chiusura, ma Mercato Centrale non sta chiudendo la sua sede di Torino. \nL'articolo No, Mercato Centr…",
-        "link": "https://www.dissapore.com/notizie/no-mercato-centrale-torino-non-sta-per-chiudere/",
-        "pubDate": "2026-06-10T14:10:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/11/Mercato-Centrale-004.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gelizioso è, ancora, la gelateria più radicale della provincia di Salerno",
-        "description": "Nell'Agro Nocerino-Sarnese, Giuseppe Cascella porta infusioni, stagionalità senza compromessi e un libro ingredienti impeccabile. Dal 2014. E sarà per l'immobil…",
-        "link": "https://www.dissapore.com/locali/gelizioso-a-sarno-recensione-della-gelateria-botanica/",
-        "pubDate": "2026-06-10T13:15:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/gelateria-Gelizioso-Sarno-1-e1781096614459.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Consumiamo troppe proteine, e ora cominciano a scarseggiare",
-        "description": "L'eccesso di richiesta causa rincari e scarsità di prodotto, e a peggiorare la situazione ci si mettono pure i farmaci GLP-1.\nL'articolo Consumiamo troppe prote…",
-        "link": "https://www.dissapore.com/notizie/consumiamo-troppe-proteine-e-ora-cominciano-a-scarseggiare/",
-        "pubDate": "2026-06-10T11:03:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/proteine-polvere-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Migliori 100+ Alta Langa Docg: bene Brut e Pas Dosé, Rosè da codificare",
-        "description": "Migliori 100+ Alta Langa Docg: bene Brut e Pas Dosé, Rosè da codificare. Tutti i punteggi/scores in centesimi. Nel 2025 oltre 2 mln bottiglie\nL'articolo Miglior…",
-        "link": "https://www.winemag.it/migliori-100-alta-langa-docg-punteggi-scores-bene-brut-pas-dose-rose-da-codificare/",
-        "pubDate": "2026-06-10T10:30:26+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Migliori-100-Alta-Langa-Docg-bene-Brut-e-Pas-Dose-Rose-da-codificare.-Tutti-i-punteggi-scores-in-centesimi.-Nel-2025-oltre-2-mln-bottiglie-paolo-rossetto-direttore-consorzio.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
       }
