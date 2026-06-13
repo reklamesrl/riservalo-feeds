@@ -1,7 +1,25 @@
 {
-  "generated": "2026-06-13T14:00:46.579907+00:00",
+  "generated": "2026-06-13T19:26:18.947675+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Tricase, uno splendido borgo del Salento tra mare, storia e natura",
+        "description": "Tra l'entroterra e la costa adriatica, Tricase conserva l'anima più autentica del Salento tra architetture storiche, tradizioni locali e scenari naturali di gra…",
+        "link": "https://www.stylosophy.it/articolo/tricase-uno-splendido-borgo-del-salento-tra-mare-storia-e-natura/251688/",
+        "pubDate": "2026-06-13T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "SottoFava, il primo festival dedicato al cioccolato bean to bar italiano",
+        "description": "Il 28 giugno, a Saluzzo, c'è il primo festival d'Italia dedicato al bean to bar. Un'occasione, gratuita, per assaggiare e imparare a distinguere il cioccolato d…",
+        "link": "https://www.dissapore.com/notizie/sottofava-il-primo-festival-dedicato-al-cioccolato-bean-to-bar-italiano/",
+        "pubDate": "2026-06-13T14:07:13+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Locandina-Sottofava.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Hailey Bieber, Look iconico con il pezzo d’archivio firmato Prada FOTO",
         "description": "Hailey Bieber, per il suo trip con Rhode, sceglie un pezzo d'archivio firmato Prada: ecco di cosa si tratta.…",
@@ -57,6 +75,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Crealis e AssoDistil insieme per formazione e innovazione nel packaging dei distillati",
+        "description": "Crealis e AssoDistil avviano una collaborazione dedicata alle imprese del comparto distillatorio italiano. L&#8217;obiettivo è promuovere momenti di informazion…",
+        "link": "https://www.winemag.it/crealis-e-assodistil-insieme-per-formazione-e-innovazione-nel-packaging-dei-distillati/",
+        "pubDate": "2026-06-13T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Dove mangiare a Bodrum senza sbagliare: i 6 ristoranti che valgono il viaggio",
         "description": "Dalle tavole di pesce affacciate sulla baia ai fine dining d’autore, passando per trattorie italiane e indirizzi egei contemporanei: i consigli di Aret Sahakyan…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-bodrum-ristoranti/",
@@ -64,6 +91,42 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mixare bijoux silver e gold insieme? Per noi è un sì! E questi sono i gioielli che mettono tutti d’accordo",
+        "description": "Per molto tempo abbinare contemporaneamente gioielli gold e silver è stato considerato un vero e proprio faux pas della moda. Mixare due metalli preziosi di div…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gioielli-gold-e-silver-oro-giallo-e-argento-insieme-orecchini-anelli-bracciali-collane-doppio-colore-metallo-979366",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_bijoux_silver_gold.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "O’Ste e Birra Low Profile lanciano Beta Test #0 e Glitch Sour #1: due nuove birre tra sperimentazione e cultura gaming",
+        "description": "La collaborazione tra O’Ste Birra Artigianale e Birra Low Profile si arricchisce di due nuove referenze nate all&#8217;insegna della sperimentazione e della con…",
+        "link": "https://www.winemag.it/oste-e-birra-low-profile-lanciano-beta-test-0-e-glitch-sour-1-cultura-gaming/",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Jonathan Bailey è il nuovo MARTINI Man: al via la campagna globale che rilancia il rito dell’aperitivo italiano",
+        "description": "Prima un’auto da corsa degli anni Settanta, poi le atmosfere della costa veneziana e, infine, un MARTINI Bianco Spritz. È così che MARTINI, storico marchio ital…",
+        "link": "https://www.winemag.it/jonathan-bailey-e-il-nuovo-martini-man-al-via-la-campagna-globale-che-rilancia-il-rito-dellaperitivo-italiano/",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Orvieto DOC guarda al futuro: vini a basso tenore alcolico e nuova identità territoriale",
+        "description": "Nella Sala Expo del Palazzo del Capitano del Popolo di Orvieto, il Consorzio Vino Orvieto ha riunito stampa, produttori e operatori del settore per l&#8217;inco…",
+        "link": "https://www.winemag.it/orvieto-doc-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale/",
+        "pubDate": "2026-06-13T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Orvieto-DOC-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale-3.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "È morto David Hockney: addio all’artista della Pop Art che amava il cibo e dipingeva la frutta con uno stile unico",
@@ -84,6 +147,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Sette storie, sette visioni e un unico filo conduttore: la capacità della moda di raccontare molto più di ciò che indossiamo. Benvenuti alle Fashion Pills della…",
+        "link": "https://www.grazia.it/moda/notizie-moda-demellier-stella-mccartney-polello-gioielli-ovs-acbc-collab-zimmermann-nugnes-semicouture-mywardrobe-adidas-end-stan-smith-979586",
+        "pubDate": "2026-06-12T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/Senza-titolo-155.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Il video di Massimo Bottura allo IULM: ci stavamo perdendo la vicenda più assurda del mese",
         "description": "Ci stavamo quasi per perdere il gossip gastronomico del mese, che a ben guardare è molto di più di un semplice gossip. Protagonista Bottura e una sua frase trop…",
         "link": "https://www.dissapore.com/notizie/il-video-di-massimo-bottura-allo-iulm-ci-stavamo-perdendo-la-vicenda-piu-assurda-del-mese/",
@@ -93,6 +165,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Marta Vidal eletta presidente della D.O. Cava: è la prima donna alla guida della denominazione",
+        "description": "Marta Vidal è la nuova presidente della D.O. Cava. L&#8217;elezione è avvenuta ieri nel corso della sessione plenaria del Consiglio Regolatore, riunita nella se…",
+        "link": "https://www.winemag.it/marta-vidal-eletta-presidente-della-d-o-cava-e-la-prima-donna-alla-guida-della-denominazione/",
+        "pubDate": "2026-06-12T15:25:19+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Mondiali di calcio 2026: menu a prezzi ridotti in oltre 600 locali per seguire le partite senza spendere una fortuna",
         "description": "Dall’11 giugno fino alla finale del 19 luglio, quasi 600 bar, ristoranti e chioschi nei cinque distretti di New York offriranno menu speciali a 26 dollari con l…",
         "link": "https://www.gamberorosso.it/notizie/attualita/mondiali-calcio-2026-menu-prezzi-ridotti-new-york/",
@@ -100,90 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Ogni anno ci sfugge di mano”: il festival che porta in Calabria centinaia di chef e pizzaioli",
-        "description": "Nato da una giornata di lavoro condiviso tra professionisti, il Bob Fest è diventato uno degli appuntamenti più attesi della gastronomia italiana. Quest'anno co…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/bob-fest-2026-calabria-chef-pizzaioli-riviera-dei-cedri/",
-        "pubDate": "2026-06-12T13:00:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Kylie Jenner lancia la collection summer 2026 con il suo brand di abbigliamento Khy",
-        "description": "Disponibile da ieri 11 giugno, Kylie Jenner ha lanciato la nuova summer collection con il suo brand di abbigliamento Khy.…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-la-summer-2026-collection-con-il-suo-brand-di-abbigliamento-khy/251662/",
-        "pubDate": "2026-06-12T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Nessuna delle grandi aziende mondiali del caffè offre un salario equo ai produttori",
-        "description": "Secondo il rapporto sulla sostenibilità della filiera del caffè di Coffee barometer, sarà quasi impossibile adeguarsi alla normativa europea entro il 2029.\nL'ar…",
-        "link": "https://www.dissapore.com/notizie/nessuna-delle-grandi-aziende-mondiali-del-caffe-offre-un-salario-equo-ai-produttori/",
-        "pubDate": "2026-06-12T11:32:03+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/caffe-produttori-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Emily Blunt, Katy Perry, Elle Fanning e tutte le star meglio vestite della settimana",
-        "description": "Red carpet, première e appuntamenti esclusivi continuano a regalarci ispirazioni di stile da tenere d&#8217;occhio. Anche questa settimana le star hanno sfoggia…",
-        "link": "https://www.grazia.it/moda/celebrity-style/emily-blunt-katy-perry-elle-fanning-star-meglio-vestite-settimana-979234",
-        "pubDate": "2026-06-12T11:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_best_dressed.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Sono questi i 5 abiti in lino che stanno facendo letteralmente impazzire le fashion addicted",
-        "description": "Leggeri, freschi e molto versatili, questi 5 abiti in lino sono un must have dell'Estate. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/sono-questi-i-5-abiti-in-lino-che-stanno-facendo-letteralmente-impazzire-le-fashion-addicted/251636/",
-        "pubDate": "2026-06-12T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Pesto genovese: la top ten che ha superato la prova assaggio",
-        "description": "Abbiamo messo a confronto varie produzioni dell'originale salsa al basilico più famosa del mondo: da non confondere con il pesto \"alla genovese\". Questi sono i …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/10-pesti-genovesi-classifica-gambero-rosso/",
-        "pubDate": "2026-06-12T10:53:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Roma apre una nuova trattoria con cocktail bar e piscina. Ma è solo l’inizio",
-        "description": "A Palazzo Dama apre uno spin off de Li Somari di Tivoli; prima uscita di un nuovo format del gruppo Acquolina che mescola cucina tradizionale e ambiente cosmopo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/donkeys-bar-roma-trattoria-palazzo-dama/",
-        "pubDate": "2026-06-12T10:13:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché, concettualmente, la panzanella è il piatto più buono d’Italia",
-        "description": "Nata per recuperare il pane vecchio e diventata simbolo dell'estate italiana, la panzanella continua a conquistare grazie alla sua semplicità disarmante…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-panzanella-piatto-piu-buono-italia/",
-        "pubDate": "2026-06-12T09:55:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questa è l’alternativa chic agli shorts di jeans da indossare in città per tutta l’estate",
-        "description": "Arriva l’estate e puntualmente gli shorts di jeans tornano a guadagnarsi un posticino nella nostra cabina armadio. Ma attenzione, perchè non sono gli unici pezz…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/bermuda-in-lino-donna-eleganti-estate-zara-lunghi-leggeri-979625",
-        "pubDate": "2026-06-12T09:47:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Bermuda_lino.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Tricase, uno splendido borgo del Salento tra mare, storia e natura",
+        "description": "Tra l'entroterra e la costa adriatica, Tricase conserva l'anima più autentica del Salento tra architetture storiche, tradizioni locali e scenari naturali di gra…",
+        "link": "https://www.stylosophy.it/articolo/tricase-uno-splendido-borgo-del-salento-tra-mare-storia-e-natura/251688/",
+        "pubDate": "2026-06-13T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Hailey Bieber, Look iconico con il pezzo d’archivio firmato Prada FOTO",
         "description": "Hailey Bieber, per il suo trip con Rhode, sceglie un pezzo d'archivio firmato Prada: ecco di cosa si tratta.…",
@@ -203,6 +212,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Mixare bijoux silver e gold insieme? Per noi è un sì! E questi sono i gioielli che mettono tutti d’accordo",
+        "description": "Per molto tempo abbinare contemporaneamente gioielli gold e silver è stato considerato un vero e proprio faux pas della moda. Mixare due metalli preziosi di div…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gioielli-gold-e-silver-oro-giallo-e-argento-insieme-orecchini-anelli-bracciali-collane-doppio-colore-metallo-979366",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_bijoux_silver_gold.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "La novità Polti per dire addio alle macchie su tappeti e imbottati senza usare detergenti",
         "description": "Polti oggi si occupa anche di pulizia e lancia una nuovo dispositivo che sfrutta il vapore per trattare tessuti, imbottiti e superfici domestiche senza prodotti…",
         "link": "https://www.stylosophy.it/articolo/la-novita-polti-per-dire-addio-alle-macchie-su-tappeti-e-imbottati/251670/",
@@ -210,6 +228,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Sette storie, sette visioni e un unico filo conduttore: la capacità della moda di raccontare molto più di ciò che indossiamo. Benvenuti alle Fashion Pills della…",
+        "link": "https://www.grazia.it/moda/notizie-moda-demellier-stella-mccartney-polello-gioielli-ovs-acbc-collab-zimmermann-nugnes-semicouture-mywardrobe-adidas-end-stan-smith-979586",
+        "pubDate": "2026-06-12T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/Senza-titolo-155.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Kylie Jenner lancia la collection summer 2026 con il suo brand di abbigliamento Khy",
@@ -320,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Estate 2026: le migliori Creme doposole per idratare e lenire la pelle",
-        "description": "La crema doposole è l'alleato beauty dell'Estate 2026, per un booster di idratazione e nutrimento. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/estate-2026-le-migliori-creme-doposole-per-idratare-e-lenire-la-pelle/251612/",
-        "pubDate": "2026-06-11T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "“Sono una fashion editor e questi sono i 10 capi e accessori che non mancano mai nella mia valigia del mare”",
         "description": "Con l&#8217;arrivo della bella stagione torna anche il desiderio di partire, inseguendo il sole, il mare e quel senso di leggerezza che solo l&#8217;estate sa r…",
         "link": "https://www.grazia.it/moda/tendenze-moda/valigia-per-mare-cosa-portare-estate-capi-accessori-978191",
@@ -345,27 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/calzedonia-maiorca.png",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Mondiali di calcio 2026 in versione “Couture”: ecco le collab moda più belle",
-        "description": "ll rapporto tra moda e Mondiali 2026 rappresenta una delle evoluzioni più interessanti dell&#8217;industria sportiva contemporanea. La FIFA World Cup oggi non è…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/mondiali-di-calcio-2026-collaborazioni-brand-moda-fifa-world-cup-978723",
-        "pubDate": "2026-06-10T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_mondiali_calcio.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Fresca, leggera e super chic: questa è l’unica gonna che vorrete sfoggiare per tutta l’estate",
-        "description": "Leggera, femminile, incredibilmente versatile: esiste forse un capo migliore della gonna bianca per entrare subito nel mood dell’estate? Noi crediamo proprio di…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-midi-bianca-zara-come-abbinare-estate-look-abbinamenti-freschi-978902",
-        "pubDate": "2026-06-10T11:28:03+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Gonna_Zara.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "SottoFava, il primo festival dedicato al cioccolato bean to bar italiano",
+        "description": "Il 28 giugno, a Saluzzo, c'è il primo festival d'Italia dedicato al bean to bar. Un'occasione, gratuita, per assaggiare e imparare a distinguere il cioccolato d…",
+        "link": "https://www.dissapore.com/notizie/sottofava-il-primo-festival-dedicato-al-cioccolato-bean-to-bar-italiano/",
+        "pubDate": "2026-06-13T14:07:13+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Locandina-Sottofava.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "L’industria sta finalmente tornando alle birre cheap",
         "description": "L'esperienza delle acquisizioni dei birrifici artigianali da parte dell'industria è ufficialmente finita, e i colossi del settore tornano a fare quello che sann…",
@@ -403,6 +412,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Crealis e AssoDistil insieme per formazione e innovazione nel packaging dei distillati",
+        "description": "Crealis e AssoDistil avviano una collaborazione dedicata alle imprese del comparto distillatorio italiano. L&#8217;obiettivo è promuovere momenti di informazion…",
+        "link": "https://www.winemag.it/crealis-e-assodistil-insieme-per-formazione-e-innovazione-nel-packaging-dei-distillati/",
+        "pubDate": "2026-06-13T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Dove mangiare a Bodrum senza sbagliare: i 6 ristoranti che valgono il viaggio",
         "description": "Dalle tavole di pesce affacciate sulla baia ai fine dining d’autore, passando per trattorie italiane e indirizzi egei contemporanei: i consigli di Aret Sahakyan…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-bodrum-ristoranti/",
@@ -410,6 +428,33 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "O’Ste e Birra Low Profile lanciano Beta Test #0 e Glitch Sour #1: due nuove birre tra sperimentazione e cultura gaming",
+        "description": "La collaborazione tra O’Ste Birra Artigianale e Birra Low Profile si arricchisce di due nuove referenze nate all&#8217;insegna della sperimentazione e della con…",
+        "link": "https://www.winemag.it/oste-e-birra-low-profile-lanciano-beta-test-0-e-glitch-sour-1-cultura-gaming/",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Jonathan Bailey è il nuovo MARTINI Man: al via la campagna globale che rilancia il rito dell’aperitivo italiano",
+        "description": "Prima un’auto da corsa degli anni Settanta, poi le atmosfere della costa veneziana e, infine, un MARTINI Bianco Spritz. È così che MARTINI, storico marchio ital…",
+        "link": "https://www.winemag.it/jonathan-bailey-e-il-nuovo-martini-man-al-via-la-campagna-globale-che-rilancia-il-rito-dellaperitivo-italiano/",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Orvieto DOC guarda al futuro: vini a basso tenore alcolico e nuova identità territoriale",
+        "description": "Nella Sala Expo del Palazzo del Capitano del Popolo di Orvieto, il Consorzio Vino Orvieto ha riunito stampa, produttori e operatori del settore per l&#8217;inco…",
+        "link": "https://www.winemag.it/orvieto-doc-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale/",
+        "pubDate": "2026-06-13T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Orvieto-DOC-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale-3.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "È morto David Hockney: addio all’artista della Pop Art che amava il cibo e dipingeva la frutta con uno stile unico",
@@ -428,6 +473,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/SnapInsta.to_651872799_18577414477001801_1697711277651700182_n.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Marta Vidal eletta presidente della D.O. Cava: è la prima donna alla guida della denominazione",
+        "description": "Marta Vidal è la nuova presidente della D.O. Cava. L&#8217;elezione è avvenuta ieri nel corso della sessione plenaria del Consiglio Regolatore, riunita nella se…",
+        "link": "https://www.winemag.it/marta-vidal-eletta-presidente-della-d-o-cava-e-la-prima-donna-alla-guida-della-denominazione/",
+        "pubDate": "2026-06-12T15:25:19+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Mondiali di calcio 2026: menu a prezzi ridotti in oltre 600 locali per seguire le partite senza spendere una fortuna",
@@ -476,7 +530,7 @@
       },
       {
         "title": "Perché, concettualmente, la panzanella è il piatto più buono d’Italia",
-        "description": "Nata per recuperare il pane vecchio e diventata simbolo dell'estate italiana, la panzanella continua a conquistare grazie alla sua semplicità disarmante…",
+        "description": "Nata per recuperare il pane vecchio è diventata simbolo dell'estate italiana, la panzanella continua a conquistare grazie alla sua semplicità disarmante…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-panzanella-piatto-piu-buono-italia/",
         "pubDate": "2026-06-12T09:55:51+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -489,60 +543,6 @@
         "link": "https://www.dissapore.com/notizie/i-paradossi-del-protezionismo-niente-piu-banane-per-i-bambini-americani/",
         "pubDate": "2026-06-12T09:14:08+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/01/mensa-bambini-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Unica sede”: le 5 imperdibili faide familiari della ristorazione di Napoli",
-        "description": "Famiglie che si spaccano quando il business cresce e un cartello appeso in vetrina. Dietro l'insegna \"unica sede\" ci sono cause in tribunale, cugini che non si …",
-        "link": "https://www.dissapore.com/ristoranti/unica-sede-le-5-imperdibili-faide-familiari-della-ristorazione-di-napoli/",
-        "pubDate": "2026-06-12T08:34:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/unica-sede-Napoli--scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "The Great Pizza Tour fa tappa a Lecce: come partecipare alla serata",
-        "description": "Il The Great Pizza Tour sbarca in Salento, in un evento in cui appassionati e addetti ai lavori possono incontrarsi e confrontarsi, scoprendo e assaggiando le e…",
-        "link": "https://www.dissapore.com/notizie/the-great-pizza-tour-fa-tappa-a-lecce-come-partecipare-alla-serata/",
-        "pubDate": "2026-06-11T13:35:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/pizza-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le migliori pasticcerie di Cagliari e Oristano nel 2026",
-        "description": "Tra mostaccioli e lievitati contemporanei, la guida di Dissapore alle migliori pasticcerie di Cagliari e Oristano, provincia compresa. \nL'articolo Le migliori p…",
-        "link": "https://www.dissapore.com/locali/le-migliori-pasticcerie-di-cagliari-e-oristano-nel-2026/",
-        "pubDate": "2026-06-11T10:56:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/matrice-cagliari-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il ritorno di René Redzepi: sarà “direttore creativo” del Noma",
-        "description": "Dopo le dimissioni per lo scandalo sugli abusi in cucina, René Redzepi rientra al Noma con una nuova posizione e una nuova squadra di giovani al comando.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/il-ritorno-di-rene-redzepi-sara-direttore-creativo-del-noma/",
-        "pubDate": "2026-06-11T10:04:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/noma-projects.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cos’ha di speciale il burro piemontese, che vuole diventare una DOP",
-        "description": "Una parte del gotha della produzione lattiero casearia piemontese sta guidando un consorzio per ottenere il marchio e valorizzare la filiera.\nL'articolo Cos&#82…",
-        "link": "https://www.dissapore.com/notizie/cosha-di-speciale-il-burro-piemontese-che-vuole-diventare-una-dop/",
-        "pubDate": "2026-06-11T07:54:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/fabbrica-di-burro-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "No, Mercato Centrale Torino non sta per chiudere",
-        "description": "Rumors su canoni Imu e verifiche sulla struttura parlano di chiusura, ma Mercato Centrale non sta chiudendo la sua sede di Torino. \nL'articolo No, Mercato Centr…",
-        "link": "https://www.dissapore.com/notizie/no-mercato-centrale-torino-non-sta-per-chiudere/",
-        "pubDate": "2026-06-10T14:10:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/11/Mercato-Centrale-004.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
