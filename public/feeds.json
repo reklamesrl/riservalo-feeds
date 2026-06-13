@@ -1,7 +1,43 @@
 {
-  "generated": "2026-06-13T09:17:18.146190+00:00",
+  "generated": "2026-06-13T14:00:46.579907+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Hailey Bieber, Look iconico con il pezzo d’archivio firmato Prada FOTO",
+        "description": "Hailey Bieber, per il suo trip con Rhode, sceglie un pezzo d'archivio firmato Prada: ecco di cosa si tratta.…",
+        "link": "https://www.stylosophy.it/articolo/hailey-bieber-look-iconico-con-il-pezzo-darchivio-firmato-prada-foto/251694/",
+        "pubDate": "2026-06-13T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "L’industria sta finalmente tornando alle birre cheap",
+        "description": "L'esperienza delle acquisizioni dei birrifici artigianali da parte dell'industria è ufficialmente finita, e i colossi del settore tornano a fare quello che sann…",
+        "link": "https://www.dissapore.com/notizie/lindustria-sta-finalmente-tornando-alle-birre-cheap/",
+        "pubDate": "2026-06-13T12:14:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/molson-coors-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nei forni liguri c’è una focaccia che quasi nessuno conosce (ma è squisita)",
+        "description": "Nata dalla stessa tradizione della focaccia di Recco, la pizzata unisce stracchino, pomodoro e olive in una ricetta che fuori dalla Liguria in pochi conoscono…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/focaccia-pizzata-specialita-ligure/",
+        "pubDate": "2026-06-13T11:00:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Capelli secchi dopo il mare? Ecco 5 maschere nutrienti per una chioma sana e idratata",
+        "description": "Per un booster di idratazione e una chioma perfetta, ecco 5 maschere nutrienti da applicare dopo il mare. A prova di capelli sani, luminosi e rimpolpati!…",
+        "link": "https://www.stylosophy.it/articolo/capelli-secchi-dopo-il-mare-ecco-5-maschere-nutrienti-per-una-chioma-sana-e-idratata/251679/",
+        "pubDate": "2026-06-13T10:38:43+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Alla scoperta di 8 grandi vini bianchi campani tra la Costiera Amalfitana e i Campi Flegrei",
         "description": "La Campania è uno dei territori più rappresentativi per i vini costieri caratterizzati da un’espressione aromatica tipicamente mediterranea. Ecco una selezione …",
@@ -21,15 +57,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Crealis e AssoDistil insieme per formazione e innovazione nel packaging dei distillati",
-        "description": "Crealis e AssoDistil avviano una collaborazione dedicata alle imprese del comparto distillatorio italiano. L&#8217;obiettivo è promuovere momenti di informazion…",
-        "link": "https://www.winemag.it/crealis-e-assodistil-insieme-per-formazione-e-innovazione-nel-packaging-dei-distillati/",
-        "pubDate": "2026-06-13T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Dove mangiare a Bodrum senza sbagliare: i 6 ristoranti che valgono il viaggio",
         "description": "Dalle tavole di pesce affacciate sulla baia ai fine dining d’autore, passando per trattorie italiane e indirizzi egei contemporanei: i consigli di Aret Sahakyan…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-bodrum-ristoranti/",
@@ -37,33 +64,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "O’Ste e Birra Low Profile lanciano Beta Test #0 e Glitch Sour #1: due nuove birre tra sperimentazione e cultura gaming",
-        "description": "La collaborazione tra O’Ste Birra Artigianale e Birra Low Profile si arricchisce di due nuove referenze nate all&#8217;insegna della sperimentazione e della con…",
-        "link": "https://www.winemag.it/oste-e-birra-low-profile-lanciano-beta-test-0-e-glitch-sour-1-cultura-gaming/",
-        "pubDate": "2026-06-13T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Jonathan Bailey è il nuovo MARTINI Man: al via la campagna globale che rilancia il rito dell’aperitivo italiano",
-        "description": "Prima un’auto da corsa degli anni Settanta, poi le atmosfere della costa veneziana e, infine, un MARTINI Bianco Spritz. È così che MARTINI, storico marchio ital…",
-        "link": "https://www.winemag.it/jonathan-bailey-e-il-nuovo-martini-man-al-via-la-campagna-globale-che-rilancia-il-rito-dellaperitivo-italiano/",
-        "pubDate": "2026-06-13T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Orvieto DOC guarda al futuro: vini a basso tenore alcolico e nuova identità territoriale",
-        "description": "Nella Sala Expo del Palazzo del Capitano del Popolo di Orvieto, il Consorzio Vino Orvieto ha riunito stampa, produttori e operatori del settore per l&#8217;inco…",
-        "link": "https://www.winemag.it/orvieto-doc-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale/",
-        "pubDate": "2026-06-13T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Orvieto-DOC-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale-3.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "È morto David Hockney: addio all’artista della Pop Art che amava il cibo e dipingeva la frutta con uno stile unico",
@@ -91,15 +91,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/SnapInsta.to_651872799_18577414477001801_1697711277651700182_n.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Marta Vidal eletta presidente della D.O. Cava: è la prima donna alla guida della denominazione",
-        "description": "Marta Vidal è la nuova presidente della D.O. Cava. L&#8217;elezione è avvenuta ieri nel corso della sessione plenaria del Consiglio Regolatore, riunita nella se…",
-        "link": "https://www.winemag.it/marta-vidal-eletta-presidente-della-d-o-cava-e-la-prima-donna-alla-guida-della-denominazione/",
-        "pubDate": "2026-06-12T15:25:19+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Mondiali di calcio 2026: menu a prezzi ridotti in oltre 600 locali per seguire le partite senza spendere una fortuna",
@@ -181,9 +172,36 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questa è l’alternativa chic agli shorts di jeans da indossare in città per tutta l’estate",
+        "description": "Arriva l’estate e puntualmente gli shorts di jeans tornano a guadagnarsi un posticino nella nostra cabina armadio. Ma attenzione, perchè non sono gli unici pezz…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/bermuda-in-lino-donna-eleganti-estate-zara-lunghi-leggeri-979625",
+        "pubDate": "2026-06-12T09:47:25+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Bermuda_lino.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Hailey Bieber, Look iconico con il pezzo d’archivio firmato Prada FOTO",
+        "description": "Hailey Bieber, per il suo trip con Rhode, sceglie un pezzo d'archivio firmato Prada: ecco di cosa si tratta.…",
+        "link": "https://www.stylosophy.it/articolo/hailey-bieber-look-iconico-con-il-pezzo-darchivio-firmato-prada-foto/251694/",
+        "pubDate": "2026-06-13T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Capelli secchi dopo il mare? Ecco 5 maschere nutrienti per una chioma sana e idratata",
+        "description": "Per un booster di idratazione e una chioma perfetta, ecco 5 maschere nutrienti da applicare dopo il mare. A prova di capelli sani, luminosi e rimpolpati!…",
+        "link": "https://www.stylosophy.it/articolo/capelli-secchi-dopo-il-mare-ecco-5-maschere-nutrienti-per-una-chioma-sana-e-idratata/251679/",
+        "pubDate": "2026-06-13T10:38:43+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "La novità Polti per dire addio alle macchie su tappeti e imbottati senza usare detergenti",
         "description": "Polti oggi si occupa anche di pulizia e lancia una nuovo dispositivo che sfrutta il vapore per trattare tessuti, imbottiti e superfici domestiche senza prodotti…",
@@ -320,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Maisons du Monde, 5 novità per arredare casa: i complementi più interessanti della stagione estiva",
-        "description": "Dai tessili ai complementi decorativi, passando per illuminazione e arredi: ecco le proposte Maisons du Monde che interpretano le tendenze della stagione con de…",
-        "link": "https://www.stylosophy.it/articolo/maisons-du-monde-novita-per-arredare-casa-i-complementi-della-stagione-estiva/251600/",
-        "pubDate": "2026-06-10T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Calzedonia presenta Mediterranean Journey: tre giorni di mare per raccontare la nuova collezione per l’estate 2026",
         "description": "C&#8217;è un motivo se il Mediterraneo continua a essere una delle principali fonti d&#8217;ispirazione per la moda estiva. Non riguarda soltanto il paesaggio, …",
         "link": "https://www.grazia.it/moda/news-moda/calzedonia-costumi-la-bahia-mediterranean-journey-estate-2026-979150",
@@ -347,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Belen Rodriguez sfoggia il floral dress must di stagione: da avere subito!",
-        "description": "Belen Rodriguez, sempre al passo con i tempi, sfoggia il floral dress perfetto per questa stagione: qui di seguito per tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/belen-rodriguez-sfoggia-il-floral-dress-must-di-stagione-da-avere-subito/251583/",
-        "pubDate": "2026-06-10T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fresca, leggera e super chic: questa è l’unica gonna che vorrete sfoggiare per tutta l’estate",
         "description": "Leggera, femminile, incredibilmente versatile: esiste forse un capo migliore della gonna bianca per entrare subito nel mood dell’estate? Noi crediamo proprio di…",
         "link": "https://www.grazia.it/moda/tendenze-moda/gonna-midi-bianca-zara-come-abbinare-estate-look-abbinamenti-freschi-978902",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "L’industria sta finalmente tornando alle birre cheap",
+        "description": "L'esperienza delle acquisizioni dei birrifici artigianali da parte dell'industria è ufficialmente finita, e i colossi del settore tornano a fare quello che sann…",
+        "link": "https://www.dissapore.com/notizie/lindustria-sta-finalmente-tornando-alle-birre-cheap/",
+        "pubDate": "2026-06-13T12:14:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/molson-coors-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nei forni liguri c’è una focaccia che quasi nessuno conosce (ma è squisita)",
+        "description": "Nata dalla stessa tradizione della focaccia di Recco, la pizzata unisce stracchino, pomodoro e olive in una ricetta che fuori dalla Liguria in pochi conoscono…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/focaccia-pizzata-specialita-ligure/",
+        "pubDate": "2026-06-13T11:00:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Alla scoperta di 8 grandi vini bianchi campani tra la Costiera Amalfitana e i Campi Flegrei",
         "description": "La Campania è uno dei territori più rappresentativi per i vini costieri caratterizzati da un’espressione aromatica tipicamente mediterranea. Ecco una selezione …",
@@ -385,15 +403,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Crealis e AssoDistil insieme per formazione e innovazione nel packaging dei distillati",
-        "description": "Crealis e AssoDistil avviano una collaborazione dedicata alle imprese del comparto distillatorio italiano. L&#8217;obiettivo è promuovere momenti di informazion…",
-        "link": "https://www.winemag.it/crealis-e-assodistil-insieme-per-formazione-e-innovazione-nel-packaging-dei-distillati/",
-        "pubDate": "2026-06-13T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Dove mangiare a Bodrum senza sbagliare: i 6 ristoranti che valgono il viaggio",
         "description": "Dalle tavole di pesce affacciate sulla baia ai fine dining d’autore, passando per trattorie italiane e indirizzi egei contemporanei: i consigli di Aret Sahakyan…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-bodrum-ristoranti/",
@@ -401,33 +410,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "O’Ste e Birra Low Profile lanciano Beta Test #0 e Glitch Sour #1: due nuove birre tra sperimentazione e cultura gaming",
-        "description": "La collaborazione tra O’Ste Birra Artigianale e Birra Low Profile si arricchisce di due nuove referenze nate all&#8217;insegna della sperimentazione e della con…",
-        "link": "https://www.winemag.it/oste-e-birra-low-profile-lanciano-beta-test-0-e-glitch-sour-1-cultura-gaming/",
-        "pubDate": "2026-06-13T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Jonathan Bailey è il nuovo MARTINI Man: al via la campagna globale che rilancia il rito dell’aperitivo italiano",
-        "description": "Prima un’auto da corsa degli anni Settanta, poi le atmosfere della costa veneziana e, infine, un MARTINI Bianco Spritz. È così che MARTINI, storico marchio ital…",
-        "link": "https://www.winemag.it/jonathan-bailey-e-il-nuovo-martini-man-al-via-la-campagna-globale-che-rilancia-il-rito-dellaperitivo-italiano/",
-        "pubDate": "2026-06-13T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Orvieto DOC guarda al futuro: vini a basso tenore alcolico e nuova identità territoriale",
-        "description": "Nella Sala Expo del Palazzo del Capitano del Popolo di Orvieto, il Consorzio Vino Orvieto ha riunito stampa, produttori e operatori del settore per l&#8217;inco…",
-        "link": "https://www.winemag.it/orvieto-doc-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale/",
-        "pubDate": "2026-06-13T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Orvieto-DOC-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale-3.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "È morto David Hockney: addio all’artista della Pop Art che amava il cibo e dipingeva la frutta con uno stile unico",
@@ -446,15 +428,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/SnapInsta.to_651872799_18577414477001801_1697711277651700182_n.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Marta Vidal eletta presidente della D.O. Cava: è la prima donna alla guida della denominazione",
-        "description": "Marta Vidal è la nuova presidente della D.O. Cava. L&#8217;elezione è avvenuta ieri nel corso della sessione plenaria del Consiglio Regolatore, riunita nella se…",
-        "link": "https://www.winemag.it/marta-vidal-eletta-presidente-della-d-o-cava-e-la-prima-donna-alla-guida-della-denominazione/",
-        "pubDate": "2026-06-12T15:25:19+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Mondiali di calcio 2026: menu a prezzi ridotti in oltre 600 locali per seguire le partite senza spendere una fortuna",
@@ -529,22 +502,49 @@
         "source": "Dissapore"
       },
       {
-        "title": "Lo yogurt greco non esiste (almeno per i greci)",
-        "description": "In Grecia lo chiamano semplicemente straggisto, yogurt filtrato. Una tecnica antica che attraversa secoli di storia, rotte commerciali e tradizioni gastronomich…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yogurt-greco-storia-straggisto/",
-        "pubDate": "2026-06-12T08:00:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "The Great Pizza Tour fa tappa a Lecce: come partecipare alla serata",
+        "description": "Il The Great Pizza Tour sbarca in Salento, in un evento in cui appassionati e addetti ai lavori possono incontrarsi e confrontarsi, scoprendo e assaggiando le e…",
+        "link": "https://www.dissapore.com/notizie/the-great-pizza-tour-fa-tappa-a-lecce-come-partecipare-alla-serata/",
+        "pubDate": "2026-06-11T13:35:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/pizza-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       },
       {
-        "title": "Cesarini Sforza e Palazzo Reale: partnership nel segno dell’arte e della cultura",
-        "description": "Cesarini Sforza sarà partner di Palazzo Reale di Milano per i prossimi dodici mesi. La storica azienda del Trentodoc accompagnerà il calendario e le inaugurazio…",
-        "link": "https://www.winemag.it/cesarini-sforza-e-palazzo-reale-partnership-nel-segno-dellarte-e-della-cultura/",
-        "pubDate": "2026-06-12T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Cesarini-Sforza-e-Palazzo-Reale-partnership-nel-segno-dellarte-e-della-cultura-1-rotated.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Le migliori pasticcerie di Cagliari e Oristano nel 2026",
+        "description": "Tra mostaccioli e lievitati contemporanei, la guida di Dissapore alle migliori pasticcerie di Cagliari e Oristano, provincia compresa. \nL'articolo Le migliori p…",
+        "link": "https://www.dissapore.com/locali/le-migliori-pasticcerie-di-cagliari-e-oristano-nel-2026/",
+        "pubDate": "2026-06-11T10:56:13+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/matrice-cagliari-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il ritorno di René Redzepi: sarà “direttore creativo” del Noma",
+        "description": "Dopo le dimissioni per lo scandalo sugli abusi in cucina, René Redzepi rientra al Noma con una nuova posizione e una nuova squadra di giovani al comando.\nL'arti…",
+        "link": "https://www.dissapore.com/notizie/il-ritorno-di-rene-redzepi-sara-direttore-creativo-del-noma/",
+        "pubDate": "2026-06-11T10:04:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/noma-projects.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Cos’ha di speciale il burro piemontese, che vuole diventare una DOP",
+        "description": "Una parte del gotha della produzione lattiero casearia piemontese sta guidando un consorzio per ottenere il marchio e valorizzare la filiera.\nL'articolo Cos&#82…",
+        "link": "https://www.dissapore.com/notizie/cosha-di-speciale-il-burro-piemontese-che-vuole-diventare-una-dop/",
+        "pubDate": "2026-06-11T07:54:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/fabbrica-di-burro-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "No, Mercato Centrale Torino non sta per chiudere",
+        "description": "Rumors su canoni Imu e verifiche sulla struttura parlano di chiusura, ma Mercato Centrale non sta chiudendo la sua sede di Torino. \nL'articolo No, Mercato Centr…",
+        "link": "https://www.dissapore.com/notizie/no-mercato-centrale-torino-non-sta-per-chiudere/",
+        "pubDate": "2026-06-10T14:10:25+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/11/Mercato-Centrale-004.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
