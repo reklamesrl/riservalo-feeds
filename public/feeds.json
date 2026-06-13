@@ -1,7 +1,70 @@
 {
-  "generated": "2026-06-12T20:11:34.097368+00:00",
+  "generated": "2026-06-13T09:17:18.146190+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Alla scoperta di 8 grandi vini bianchi campani tra la Costiera Amalfitana e i Campi Flegrei",
+        "description": "La Campania è uno dei territori più rappresentativi per i vini costieri caratterizzati da un’espressione aromatica tipicamente mediterranea. Ecco una selezione …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-bianchi-campania-mare/",
+        "pubDate": "2026-06-13T08:13:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In uno stabilimento balneare di Maratea si mangiano degli incredibili spaghetti alle vongole",
+        "description": "Semplici, generosi e e cotti alla perfezione senza cadere nella “trappola” dell’eccessiva cremosità: ecco il piatto che vale il viaggio. A completare l'esperien…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/maratea-ristorante-illicini-spaghetti-vongole/",
+        "pubDate": "2026-06-13T07:03:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Crealis e AssoDistil insieme per formazione e innovazione nel packaging dei distillati",
+        "description": "Crealis e AssoDistil avviano una collaborazione dedicata alle imprese del comparto distillatorio italiano. L&#8217;obiettivo è promuovere momenti di informazion…",
+        "link": "https://www.winemag.it/crealis-e-assodistil-insieme-per-formazione-e-innovazione-nel-packaging-dei-distillati/",
+        "pubDate": "2026-06-13T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dove mangiare a Bodrum senza sbagliare: i 6 ristoranti che valgono il viaggio",
+        "description": "Dalle tavole di pesce affacciate sulla baia ai fine dining d’autore, passando per trattorie italiane e indirizzi egei contemporanei: i consigli di Aret Sahakyan…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-bodrum-ristoranti/",
+        "pubDate": "2026-06-13T06:00:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "O’Ste e Birra Low Profile lanciano Beta Test #0 e Glitch Sour #1: due nuove birre tra sperimentazione e cultura gaming",
+        "description": "La collaborazione tra O’Ste Birra Artigianale e Birra Low Profile si arricchisce di due nuove referenze nate all&#8217;insegna della sperimentazione e della con…",
+        "link": "https://www.winemag.it/oste-e-birra-low-profile-lanciano-beta-test-0-e-glitch-sour-1-cultura-gaming/",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Jonathan Bailey è il nuovo MARTINI Man: al via la campagna globale che rilancia il rito dell’aperitivo italiano",
+        "description": "Prima un’auto da corsa degli anni Settanta, poi le atmosfere della costa veneziana e, infine, un MARTINI Bianco Spritz. È così che MARTINI, storico marchio ital…",
+        "link": "https://www.winemag.it/jonathan-bailey-e-il-nuovo-martini-man-al-via-la-campagna-globale-che-rilancia-il-rito-dellaperitivo-italiano/",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Orvieto DOC guarda al futuro: vini a basso tenore alcolico e nuova identità territoriale",
+        "description": "Nella Sala Expo del Palazzo del Capitano del Popolo di Orvieto, il Consorzio Vino Orvieto ha riunito stampa, produttori e operatori del settore per l&#8217;inco…",
+        "link": "https://www.winemag.it/orvieto-doc-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale/",
+        "pubDate": "2026-06-13T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Orvieto-DOC-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale-3.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "È morto David Hockney: addio all’artista della Pop Art che amava il cibo e dipingeva la frutta con uno stile unico",
         "description": "Più volte aveva criticato le politiche anti-obesità del governo britannico, sostenendo che senza bere e mangiare la vita perde senso. La sua frase manifesto? \"L…",
@@ -115,69 +178,6 @@
         "description": "Nata per recuperare il pane vecchio e diventata simbolo dell'estate italiana, la panzanella continua a conquistare grazie alla sua semplicità disarmante…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-panzanella-piatto-piu-buono-italia/",
         "pubDate": "2026-06-12T09:55:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questa è l’alternativa chic agli shorts di jeans da indossare in città per tutta l’estate",
-        "description": "Arriva l’estate e puntualmente gli shorts di jeans tornano a guadagnarsi un posticino nella nostra cabina armadio. Ma attenzione, perchè non sono gli unici pezz…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/bermuda-in-lino-donna-eleganti-estate-zara-lunghi-leggeri-979625",
-        "pubDate": "2026-06-12T09:47:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Bermuda_lino.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "I paradossi del protezionismo: niente più banane per i bambini americani",
-        "description": "Il nuovo Farm Bill americano contiene delle linee guida che impongono l'acquisto di prodotti statunitensi, ma le scuole non riescono a gestirlo. \nL'articolo I p…",
-        "link": "https://www.dissapore.com/notizie/i-paradossi-del-protezionismo-niente-piu-banane-per-i-bambini-americani/",
-        "pubDate": "2026-06-12T09:14:08+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/mensa-bambini-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "5 consigli beauty imperdibili per una skincare estiva ben equilibrata (il terzo è il più importante)",
-        "description": "SOS skincare estiva? Ecco 5 consigli per una pelle al top e a prova di alte temperature. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-consigli-beauty-imperdibili-per-una-skincare-estiva-ben-equilibrata-il-terzo-e-il-piu-importante/251654/",
-        "pubDate": "2026-06-12T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Unica sede”: le 5 imperdibili faide familiari della ristorazione di Napoli",
-        "description": "Famiglie che si spaccano quando il business cresce e un cartello appeso in vetrina. Dietro l'insegna \"unica sede\" ci sono cause in tribunale, cugini che non si …",
-        "link": "https://www.dissapore.com/ristoranti/unica-sede-le-5-imperdibili-faide-familiari-della-ristorazione-di-napoli/",
-        "pubDate": "2026-06-12T08:34:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/unica-sede-Napoli--scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Lo yogurt greco non esiste (almeno per i greci)",
-        "description": "In Grecia lo chiamano semplicemente straggisto, yogurt filtrato. Una tecnica antica che attraversa secoli di storia, rotte commerciali e tradizioni gastronomich…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yogurt-greco-storia-straggisto/",
-        "pubDate": "2026-06-12T08:00:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lo hanno indossato gli chef per oltre un secolo. Ora sta scomparendo",
-        "description": "Dalla Francia di Escoffier alle cucine a vista dei ristoranti contemporanei: la lenta scomparsa della toque blanche racconta come è cambiata la figura dello che…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lo-hanno-indossato-gli-chef-per-oltre-un-secolo-ora-sta-scomparendo/",
-        "pubDate": "2026-06-12T07:00:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La zuppa di cicerchie che si prepara come 100 anni fa: il segreto della “pupatella”",
-        "description": "Guanciale, ortaggi e un legume antico conosciuto già dai romani: ecco la zuppa di cicerchie preparata secondo la ricetta della famiglia Di Meo, che coltiva anco…",
-        "link": "https://www.gamberorosso.it/notizie/ricette/zuppa-cicerchie-campi-flegrei-ricetta/",
-        "pubDate": "2026-06-12T06:00:13+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,69 @@
     ],
     "lifestyle": [
       {
+        "title": "Alla scoperta di 8 grandi vini bianchi campani tra la Costiera Amalfitana e i Campi Flegrei",
+        "description": "La Campania è uno dei territori più rappresentativi per i vini costieri caratterizzati da un’espressione aromatica tipicamente mediterranea. Ecco una selezione …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-bianchi-campania-mare/",
+        "pubDate": "2026-06-13T08:13:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In uno stabilimento balneare di Maratea si mangiano degli incredibili spaghetti alle vongole",
+        "description": "Semplici, generosi e e cotti alla perfezione senza cadere nella “trappola” dell’eccessiva cremosità: ecco il piatto che vale il viaggio. A completare l'esperien…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/maratea-ristorante-illicini-spaghetti-vongole/",
+        "pubDate": "2026-06-13T07:03:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Crealis e AssoDistil insieme per formazione e innovazione nel packaging dei distillati",
+        "description": "Crealis e AssoDistil avviano una collaborazione dedicata alle imprese del comparto distillatorio italiano. L&#8217;obiettivo è promuovere momenti di informazion…",
+        "link": "https://www.winemag.it/crealis-e-assodistil-insieme-per-formazione-e-innovazione-nel-packaging-dei-distillati/",
+        "pubDate": "2026-06-13T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dove mangiare a Bodrum senza sbagliare: i 6 ristoranti che valgono il viaggio",
+        "description": "Dalle tavole di pesce affacciate sulla baia ai fine dining d’autore, passando per trattorie italiane e indirizzi egei contemporanei: i consigli di Aret Sahakyan…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-bodrum-ristoranti/",
+        "pubDate": "2026-06-13T06:00:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "O’Ste e Birra Low Profile lanciano Beta Test #0 e Glitch Sour #1: due nuove birre tra sperimentazione e cultura gaming",
+        "description": "La collaborazione tra O’Ste Birra Artigianale e Birra Low Profile si arricchisce di due nuove referenze nate all&#8217;insegna della sperimentazione e della con…",
+        "link": "https://www.winemag.it/oste-e-birra-low-profile-lanciano-beta-test-0-e-glitch-sour-1-cultura-gaming/",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Jonathan Bailey è il nuovo MARTINI Man: al via la campagna globale che rilancia il rito dell’aperitivo italiano",
+        "description": "Prima un’auto da corsa degli anni Settanta, poi le atmosfere della costa veneziana e, infine, un MARTINI Bianco Spritz. È così che MARTINI, storico marchio ital…",
+        "link": "https://www.winemag.it/jonathan-bailey-e-il-nuovo-martini-man-al-via-la-campagna-globale-che-rilancia-il-rito-dellaperitivo-italiano/",
+        "pubDate": "2026-06-13T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Orvieto DOC guarda al futuro: vini a basso tenore alcolico e nuova identità territoriale",
+        "description": "Nella Sala Expo del Palazzo del Capitano del Popolo di Orvieto, il Consorzio Vino Orvieto ha riunito stampa, produttori e operatori del settore per l&#8217;inco…",
+        "link": "https://www.winemag.it/orvieto-doc-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale/",
+        "pubDate": "2026-06-13T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Orvieto-DOC-guarda-al-futuro-vini-a-basso-tenore-alcolico-e-nuova-identita-territoriale-3.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "È morto David Hockney: addio all’artista della Pop Art che amava il cibo e dipingeva la frutta con uno stile unico",
         "description": "Più volte aveva criticato le politiche anti-obesità del governo britannico, sostenendo che senza bere e mangiare la vita perde senso. La sua frase manifesto? \"L…",
         "link": "https://www.gamberorosso.it/notizie/attualita/morto-david-hockney-artista-pop-art-passioni-cibo-frutta/",
@@ -475,24 +538,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Lo hanno indossato gli chef per oltre un secolo. Ora sta scomparendo",
-        "description": "Dalla Francia di Escoffier alle cucine a vista dei ristoranti contemporanei: la lenta scomparsa della toque blanche racconta come è cambiata la figura dello che…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lo-hanno-indossato-gli-chef-per-oltre-un-secolo-ora-sta-scomparendo/",
-        "pubDate": "2026-06-12T07:00:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La zuppa di cicerchie che si prepara come 100 anni fa: il segreto della “pupatella”",
-        "description": "Guanciale, ortaggi e un legume antico conosciuto già dai romani: ecco la zuppa di cicerchie preparata secondo la ricetta della famiglia Di Meo, che coltiva anco…",
-        "link": "https://www.gamberorosso.it/notizie/ricette/zuppa-cicerchie-campi-flegrei-ricetta/",
-        "pubDate": "2026-06-12T06:00:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cesarini Sforza e Palazzo Reale: partnership nel segno dell’arte e della cultura",
         "description": "Cesarini Sforza sarà partner di Palazzo Reale di Milano per i prossimi dodici mesi. La storica azienda del Trentodoc accompagnerà il calendario e le inaugurazio…",
         "link": "https://www.winemag.it/cesarini-sforza-e-palazzo-reale-partnership-nel-segno-dellarte-e-della-cultura/",
@@ -500,51 +545,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/06/Cesarini-Sforza-e-Palazzo-Reale-partnership-nel-segno-dellarte-e-della-cultura-1-rotated.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Acquaworld lancia il sabato sera d’estate: aperitivi, musica lounge e piscine fino alle 22",
-        "description": "Dal 13 giugno Acquaworld inaugura un nuovo format dedicato alle serate estive. Per tutti i sabati della stagione, il parco aprirà in una speciale fascia oraria …",
-        "link": "https://www.winemag.it/acquaworld-lancia-il-sabato-sera-destate-aperitivi-musica-lounge-e-piscine-fino-alle-22/",
-        "pubDate": "2026-06-12T04:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il vino italiano soffre ancora nel primo trimestre 2026. A marzo timida inversione di rotta",
-        "description": "L'export dei primi tre mesi dell'anno si chiude a -8,3% a valore con gli Usa a -20,5%. Meglio i mercati europei rispetto all'Extra Ue. Resta negativo il compart…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-italiano-export-primo-trimestre-2026-dati-istat/",
-        "pubDate": "2026-06-11T16:02:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "The Great Pizza Tour fa tappa a Lecce: come partecipare alla serata",
-        "description": "Il The Great Pizza Tour sbarca in Salento, in un evento in cui appassionati e addetti ai lavori possono incontrarsi e confrontarsi, scoprendo e assaggiando le e…",
-        "link": "https://www.dissapore.com/notizie/the-great-pizza-tour-fa-tappa-a-lecce-come-partecipare-alla-serata/",
-        "pubDate": "2026-06-11T13:35:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/pizza-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "World Gin Day 2026, Nordés festeggia col Signature Cocktail firmato SeaSignora Milano",
-        "description": "In occasione del World Gin Day 2026, Nordés sceglie SeaSignora Milano per celebrare il distillato con un Signature Cocktail disponibile dal 13 al 30 giugno nel …",
-        "link": "https://www.winemag.it/world-gin-day-2026-nordes-festeggia-col-signature-cocktail-firmato-seasignora-milano/",
-        "pubDate": "2026-06-11T12:24:24+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le migliori pasticcerie di Cagliari e Oristano nel 2026",
-        "description": "Tra mostaccioli e lievitati contemporanei, la guida di Dissapore alle migliori pasticcerie di Cagliari e Oristano, provincia compresa. \nL'articolo Le migliori p…",
-        "link": "https://www.dissapore.com/locali/le-migliori-pasticcerie-di-cagliari-e-oristano-nel-2026/",
-        "pubDate": "2026-06-11T10:56:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/matrice-cagliari-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
