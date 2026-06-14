@@ -1,7 +1,34 @@
 {
-  "generated": "2026-06-14T14:03:51.817248+00:00",
+  "generated": "2026-06-14T19:27:59.130575+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La Puglia e la Calabria hanno appena ottenuto due nuove IGP",
+        "description": "La zampina di Sammichele di Bari e il peperoncino di Calabria hanno ottenuto il riconoscimento, e faranno aumentare il valore del loro territorio.\nL'articolo La…",
+        "link": "https://www.dissapore.com/notizie/la-puglia-e-la-calabria-hanno-appena-ottenuto-due-nuove-igp/",
+        "pubDate": "2026-06-14T16:03:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Cottura_rotelle_di_Zampina.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La scarpiera IKEA che risolve il problema dello spazio in casa",
+        "description": "Hai poco spazio ma non vuoi rinunciare all’ordine e allo stile? IKEA ha lanciato una soluzione furba, economica e sorprendentemente versatile, perfetta per tras…",
+        "link": "https://www.stylosophy.it/articolo/la-scarpiera-furba-di-ikea-perfetta-se-hai-poco-spazio/234845/",
+        "pubDate": "2026-06-14T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il Regno Unito ha approvato la prima pillola GLP-1 anti obesità",
+        "description": "Il nuovo formato renderà i farmaci per il controllo del peso ancora più diffusi, con ulteriore impatto sul settore alimentare.\nL'articolo Il Regno Unito ha appr…",
+        "link": "https://www.dissapore.com/notizie/il-regno-unito-ha-approvato-la-prima-pillola-glp-1-anti-obesita/",
+        "pubDate": "2026-06-14T14:03:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/12/shutterstock_2488263945-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Annalisa, anche in estate si conferma regina di stile con questo Look iconico total white FOTO",
         "description": "Annalisa, anche per quest'estate, non delude le aspettative confermandosi regina di stile e sfoggiando un look iconico sui toni del bianco.…",
@@ -64,6 +91,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questi 7 abiti furbi (ma molto chic) hanno uno speciale “super-potere” da non sottovalutare!",
+        "description": "Arriva l&#8217;estate e con le temperature che salgono l&#8217;unica cosa che sogniamo di indossare sono capi leggeri sulla pelle che non ci costringano e ci di…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-per-nascondere-la-pancia-estate-zara-mango-hm-ovs-979637",
+        "pubDate": "2026-06-14T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/abito-pancia-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Uova, cioccolato, caffè: vanno in frigo o no? La guida definitiva per evitare errori",
@@ -145,45 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "In uno stabilimento balneare di Maratea si mangiano degli incredibili spaghetti alle vongole",
-        "description": "Semplici, generosi e e cotti alla perfezione senza cadere nella “trappola” dell’eccessiva cremosità: ecco il piatto che vale il viaggio. A completare l'esperien…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/maratea-ristorante-illicini-spaghetti-vongole/",
-        "pubDate": "2026-06-13T07:03:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Crealis e AssoDistil insieme per formazione e innovazione nel packaging dei distillati",
-        "description": "Crealis e AssoDistil avviano una collaborazione dedicata alle imprese del comparto distillatorio italiano. L&#8217;obiettivo è promuovere momenti di informazion…",
-        "link": "https://www.winemag.it/crealis-e-assodistil-insieme-per-formazione-e-innovazione-nel-packaging-dei-distillati/",
-        "pubDate": "2026-06-13T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dove mangiare a Bodrum senza sbagliare: i 6 ristoranti che valgono il viaggio",
-        "description": "Dalle tavole di pesce affacciate sulla baia ai fine dining d’autore, passando per trattorie italiane e indirizzi egei contemporanei: i consigli di Aret Sahakyan…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-bodrum-ristoranti/",
-        "pubDate": "2026-06-13T06:00:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mixare bijoux silver e gold insieme? Per noi è un sì! E questi sono i gioielli che mettono tutti d’accordo",
-        "description": "Per molto tempo abbinare contemporaneamente gioielli gold e silver è stato considerato un vero e proprio faux pas della moda. Mixare due metalli preziosi di div…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gioielli-gold-e-silver-oro-giallo-e-argento-insieme-orecchini-anelli-bracciali-collane-doppio-colore-metallo-979366",
-        "pubDate": "2026-06-13T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_bijoux_silver_gold.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "La scarpiera IKEA che risolve il problema dello spazio in casa",
+        "description": "Hai poco spazio ma non vuoi rinunciare all’ordine e allo stile? IKEA ha lanciato una soluzione furba, economica e sorprendentemente versatile, perfetta per tras…",
+        "link": "https://www.stylosophy.it/articolo/la-scarpiera-furba-di-ikea-perfetta-se-hai-poco-spazio/234845/",
+        "pubDate": "2026-06-14T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Annalisa, anche in estate si conferma regina di stile con questo Look iconico total white FOTO",
         "description": "Annalisa, anche per quest'estate, non delude le aspettative confermandosi regina di stile e sfoggiando un look iconico sui toni del bianco.…",
@@ -201,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Questi 7 abiti furbi (ma molto chic) hanno uno speciale “super-potere” da non sottovalutare!",
+        "description": "Arriva l&#8217;estate e con le temperature che salgono l&#8217;unica cosa che sogniamo di indossare sono capi leggeri sulla pelle che non ci costringano e ci di…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-per-nascondere-la-pancia-estate-zara-mango-hm-ovs-979637",
+        "pubDate": "2026-06-14T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/abito-pancia-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Tricase, uno splendido borgo del Salento tra mare, storia e natura",
@@ -320,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Guida alle Isole Eolie: cosa vedere, come arrivare e quale scegliere questa estate",
-        "description": "Sette isole vulcaniche tra mare cristallino, natura e borghi autentici. Tutto quello che c'è da sapere per organizzare una vacanza alle Eolie durante l'estate.…",
-        "link": "https://www.stylosophy.it/articolo/guida-alle-isole-eolie-cosa-vedere-come-arrivare-e-quale-scegliere-questa-estate/251647/",
-        "pubDate": "2026-06-11T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Hieroglam: la mostra degli studenti di Accademia IUAD che racconta i segreti dell’Antico Egitto",
         "description": "Cosa succede quando uno dei luoghi simbolo della storia antica incontra lo sguardo di una nuova generazione di creativi? La risposta arriva da Hieroglam, il nuo…",
         "link": "https://www.grazia.it/moda/news-moda/accademia-iuad-mostra-museo-egizio-torino-hieroglam-979359",
@@ -354,18 +363,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_10_essential.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Calzedonia presenta Mediterranean Journey: tre giorni di mare per raccontare la nuova collezione per l’estate 2026",
-        "description": "C&#8217;è un motivo se il Mediterraneo continua a essere una delle principali fonti d&#8217;ispirazione per la moda estiva. Non riguarda soltanto il paesaggio, …",
-        "link": "https://www.grazia.it/moda/news-moda/calzedonia-costumi-la-bahia-mediterranean-journey-estate-2026-979150",
-        "pubDate": "2026-06-10T15:58:30+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/calzedonia-maiorca.png",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La Puglia e la Calabria hanno appena ottenuto due nuove IGP",
+        "description": "La zampina di Sammichele di Bari e il peperoncino di Calabria hanno ottenuto il riconoscimento, e faranno aumentare il valore del loro territorio.\nL'articolo La…",
+        "link": "https://www.dissapore.com/notizie/la-puglia-e-la-calabria-hanno-appena-ottenuto-due-nuove-igp/",
+        "pubDate": "2026-06-14T16:03:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Cottura_rotelle_di_Zampina.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Regno Unito ha approvato la prima pillola GLP-1 anti obesità",
+        "description": "Il nuovo formato renderà i farmaci per il controllo del peso ancora più diffusi, con ulteriore impatto sul settore alimentare.\nL'articolo Il Regno Unito ha appr…",
+        "link": "https://www.dissapore.com/notizie/il-regno-unito-ha-approvato-la-prima-pillola-glp-1-anti-obesita/",
+        "pubDate": "2026-06-14T14:03:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/12/shutterstock_2488263945-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "I fiocchi di crusca sono junk food?",
         "description": "Secondo le nuove linee guida sulla nutrizione del governo UK sì, e le aziende produttrici non la stanno prendendo bene.\nL'articolo I fiocchi di crusca sono junk…",
@@ -502,7 +520,7 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Jonathan Bailey è il nuovo MARTINI Man: al via la campagna globale che rilancia il rito dell’aperitivo italiano",
+        "title": "Jonathan Bailey è il nuovo Martini Man: al via la campagna globale che rilancia il rito dell’aperitivo italiano",
         "description": "Prima un’auto da corsa degli anni Settanta, poi le atmosfere della costa veneziana e, infine, un MARTINI Bianco Spritz. È così che MARTINI, storico marchio ital…",
         "link": "https://www.winemag.it/jonathan-bailey-e-il-nuovo-martini-man-al-via-la-campagna-globale-che-rilancia-il-rito-dellaperitivo-italiano/",
         "pubDate": "2026-06-13T06:00:00+00:00",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il video di Massimo Bottura allo IULM: ci stavamo perdendo la vicenda più assurda del mese",
-        "description": "Ci stavamo quasi per perdere il gossip gastronomico del mese, che a ben guardare è molto di più di un semplice gossip. Protagonista Bottura e una sua frase trop…",
-        "link": "https://www.dissapore.com/notizie/il-video-di-massimo-bottura-allo-iulm-ci-stavamo-perdendo-la-vicenda-piu-assurda-del-mese/",
-        "pubDate": "2026-06-12T15:26:14+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/SnapInsta.to_651872799_18577414477001801_1697711277651700182_n.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Marta Vidal eletta presidente della D.O. Cava: è la prima donna alla guida della denominazione",
-        "description": "Marta Vidal è la nuova presidente della D.O. Cava. L&#8217;elezione è avvenuta ieri nel corso della sessione plenaria del Consiglio Regolatore, riunita nella se…",
-        "link": "https://www.winemag.it/marta-vidal-eletta-presidente-della-d-o-cava-e-la-prima-donna-alla-guida-della-denominazione/",
-        "pubDate": "2026-06-12T15:25:19+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
