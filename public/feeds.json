@@ -1,7 +1,106 @@
 {
-  "generated": "2026-06-15T12:15:30.739127+00:00",
+  "generated": "2026-06-15T20:55:16.438906+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Portoscuso, uno splendido Borgo sardo tra mare e storia che in pochi conoscono",
+        "description": "Affacciato davanti all'Isola di San Pietro, Portoscuso unisce tradizioni marinare, testimonianze archeologiche e alcune delle spiagge più suggestive della costa…",
+        "link": "https://www.stylosophy.it/articolo/portoscuso-uno-splendido-borgo-sardo-tra-mare-e-storia/251750/",
+        "pubDate": "2026-06-15T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Vermentino DOC Maremma Toscana, 12 medaglie al Concorso Internazionale: terza denominazione più premiata al mondo",
+        "description": "Il Vermentino della Maremma Toscana consolida il proprio posizionamento tra le espressioni di riferimento del panorama internazionale. Alla quarta edizione del …",
+        "link": "https://www.winemag.it/vermentino-doc-maremma-toscana-12-medaglie-al-concorso-internazionale-terza-denominazione-piu-premiata-al-mondo/",
+        "pubDate": "2026-06-15T15:47:49+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Ho paura di sbagliare vino”: a Milano apre il locale che vuole eliminare l’ansia della scelta",
+        "description": "Da Reverso, in via Savona, cento etichette sono disponibili al calice e una chat basata sull'intelligenza artificiale aiuta i clienti a orientarsi. L'obiettivo …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/milano-enoteca-intelligenza-artificiale-vino/",
+        "pubDate": "2026-06-15T15:14:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le confetture di marca non sono sempre le migliori al supermercato",
+        "description": "In un nuovo test di Altronconsumo, troviamo molti marchi noti in fondo alla classifica. \nL'articolo Le confetture di marca non sono sempre le migliori al superm…",
+        "link": "https://www.dissapore.com/notizie/le-confetture-di-marca-non-sono-sempre-le-migliori-al-supermercato/",
+        "pubDate": "2026-06-15T15:00:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/rigoni-asiago-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La schiacciata fiorentina sta conquistando il Belgio: il piccolo locale nato dalla nostalgia di casa",
+        "description": "Nel centro medievale di Gent, Anastasia Passerotti ha trasformato i sapori della sua infanzia in un piccolo caso gastronomico. Da Mi Garba la schiacciata fioren…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/schiacciata-fiorentina-belgio-mi-garba/",
+        "pubDate": "2026-06-15T13:40:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti vanno a Saturnia per le terme. Pochi sanno che qui si mangia una delle migliori bistecche del mondo",
+        "description": "Da quasi cinquant’anni i fratelli Aniello custodiscono il fuoco dei Due Cippi. Oggi il locale è il ristorante di carne numero uno in Italia e quarto al mondo, m…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/due-cippi-saturnia-migliore-bistecca-italia/",
+        "pubDate": "2026-06-15T13:32:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Chianti Docg, nuovo disciplinare in vigore: debutta il Rosé Docg e nasce la sottozona Terre di Vinci",
+        "description": "Il Chianti Docg cambia volto e aggiorna le proprie regole produttive. È entrato in vigore il nuovo disciplinare di produzione approvato dal Ministero dell’Agric…",
+        "link": "https://www.winemag.it/chianti-docg-nuovo-disciplinare-in-vigore-debutta-il-rose-docg-e-nasce-la-sottozona-terre-di-vinci/",
+        "pubDate": "2026-06-15T13:13:54+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Avevo bisogno di tornare in masseria”: il casaro che ha scelto di pagare il latte più del mercato",
+        "description": "Dopo gli anni in Arabia Saudita, Angelantonio Tafuno è tornato in Murgia per guidare il caseificio di famiglia. Oggi produce uno dei formaggi più premiati del t…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/casaro-pugliese-paga-latte-piu-del-mercato/",
+        "pubDate": "2026-06-15T13:11:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Emma, quanto ha speso per il suo Look griffato da cerimonia FOTO",
+        "description": "Emma, per il matrimonio di Tommaso Paradiso, ha sfoggiato un meraviglioso abito griffato: ma quanto è costato?…",
+        "link": "https://www.stylosophy.it/articolo/emma-quanto-ha-speso-per-il-suo-look-griffato-da-cerimonia-foto/251735/",
+        "pubDate": "2026-06-15T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "American Express si compra The Fork, é ufficiale",
+        "description": "American Express allunga ulteriormente le mani sulle prenotazioni dei ristoranti: prenotare un tavolo ambito dipenderà sempre di più dalla carta di credito di c…",
+        "link": "https://www.dissapore.com/notizie/american-express-si-compra-the-fork-e-ufficiale/",
+        "pubDate": "2026-06-15T12:54:17+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2020/04/thefork.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Tutte pazze per gli abiti con il nodo! Ecco 7 modelli super versatili (e molto chic) da avere nell’armadio quest’estate",
+        "description": "Raffinati, super versatili, con un piccolo dettaglio strategico che consente di camuffare anche un po’ la pancia: sono gli abiti con il nodo, quei modelli che c…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-con-il-nodo-corti-lunghi-davanti-laterale-donna-satin-zara-mango-979970",
+        "pubDate": "2026-06-15T12:22:55+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Abiti_nodo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "La gigantesca gaffe di Starbucks che ora chiude tutti negozi in Corea per fare lezione di storia",
         "description": "Continuano le proteste e i boicottaggi di Starbucks in Corea, e l'azienda ha deciso di provare a rimediare con un po' più di formazione, in un mea culpa senza p…",
@@ -82,108 +181,36 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Nell’era Ozempic anche le caramelle diventano sane",
-        "description": "Ci piacciono le caramelle, e al tempo stesso le vogliamo più sane. L'industria risponde con in mente gli shift alimentari dei nostri tempi. \nL'articolo Nell&#82…",
-        "link": "https://www.dissapore.com/notizie/nellera-ozempic-anche-le-caramelle-diventano-sane/",
-        "pubDate": "2026-06-15T07:43:03+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/caramelle-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il frutto che nutre l’uomo da oltre 6mila anni",
-        "description": "Coltivato fin dai tempi della Mesopotamia, il dattero ha attraversato civiltà, religioni e rotte commerciali. Oggi è un mercato miliardario e continua a occupar…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dattero-storia-frutto-mediterraneo/",
-        "pubDate": "2026-06-15T05:00:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vernaccia di San Gimignano: annata 2025 convince tra qualità e sfide futuro",
-        "description": "Grande successo per la quarta edizione di Regina Ribelle – Vernaccia di San Gimignano Wine Fest, la manifestazione promossa dal Consorzio del vino Vernaccia di …",
-        "link": "https://www.winemag.it/vernaccia-di-san-gimignano-annata-2025-convince-tra-qualita-e-sfide-futuro/",
-        "pubDate": "2026-06-15T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Vernaccia-di-San-Gimignano-850-wine-lover-a-Regina-Ribelle-lannata-2025-convince-tra-qualita-e-sfide-per-il-futuro-2-scaled.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La Puglia e la Calabria hanno appena ottenuto due nuove IGP",
-        "description": "La zampina di Sammichele di Bari e il peperoncino di Calabria hanno ottenuto il riconoscimento, e faranno aumentare il valore del loro territorio.\nL'articolo La…",
-        "link": "https://www.dissapore.com/notizie/la-puglia-e-la-calabria-hanno-appena-ottenuto-due-nuove-igp/",
-        "pubDate": "2026-06-14T16:03:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Cottura_rotelle_di_Zampina.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La scarpiera IKEA che risolve il problema dello spazio in casa",
-        "description": "Hai poco spazio ma non vuoi rinunciare all’ordine e allo stile? IKEA ha lanciato una soluzione furba, economica e sorprendentemente versatile, perfetta per tras…",
-        "link": "https://www.stylosophy.it/articolo/la-scarpiera-furba-di-ikea-perfetta-se-hai-poco-spazio/234845/",
-        "pubDate": "2026-06-14T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il Regno Unito ha approvato la prima pillola GLP-1 anti obesità",
-        "description": "Il nuovo formato renderà i farmaci per il controllo del peso ancora più diffusi, con ulteriore impatto sul settore alimentare.\nL'articolo Il Regno Unito ha appr…",
-        "link": "https://www.dissapore.com/notizie/il-regno-unito-ha-approvato-la-prima-pillola-glp-1-anti-obesita/",
-        "pubDate": "2026-06-14T14:03:42+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/12/shutterstock_2488263945-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Annalisa, anche in estate si conferma regina di stile con questo Look iconico total white FOTO",
-        "description": "Annalisa, anche per quest'estate, non delude le aspettative confermandosi regina di stile e sfoggiando un look iconico sui toni del bianco.…",
-        "link": "https://www.stylosophy.it/articolo/annalisa-anche-in-estate-si-conferma-regina-di-stile-con-questo-look-iconico-total-white-foto/251698/",
-        "pubDate": "2026-06-14T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I fiocchi di crusca sono junk food?",
-        "description": "Secondo le nuove linee guida sulla nutrizione del governo UK sì, e le aziende produttrici non la stanno prendendo bene.\nL'articolo I fiocchi di crusca sono junk…",
-        "link": "https://www.dissapore.com/notizie/i-fiocchi-di-crusca-sono-junk-food/",
-        "pubDate": "2026-06-14T12:38:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/all-bran-kellogg-crusca-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Mentre gli altri fanno il pienone, questo ristorante di pesce chiude",
-        "description": "La Vecchia Marina di Roseto degli Abruzzi sospenderà l'attività durante il fermo pesca. Una scelta rara in alta stagione, ma perfettamente coerente con la filos…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-pesce-chiude-alta-stagione-fermo-pesca-abruzzo/",
-        "pubDate": "2026-06-14T10:00:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le tendenze unghie più cool dell’Estate 2026 per una manicure curata e alla moda",
-        "description": "Le unghie più belle dell'Estate? Originali, ricercate e super accattivanti! Ecco le nail art da copiare assolutamente...…",
-        "link": "https://www.stylosophy.it/articolo/le-tendenze-unghie-piu-cool-dellestate-2026-per-una-manicure-curata-e-alla-moda/251702/",
-        "pubDate": "2026-06-14T09:06:25+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Nessuno beve più Bordeaux",
-        "description": "Il vino rosso barricato ed elitario trova sempre meno pubblico, a partire da Bordeaux. Fra i motivi ci sono prezzo, gusti e percezione. \nL'articolo Nessuno beve…",
-        "link": "https://www.dissapore.com/notizie/nessuno-beve-piu-bordeaux/",
-        "pubDate": "2026-06-14T08:28:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/bordeaux-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Portoscuso, uno splendido Borgo sardo tra mare e storia che in pochi conoscono",
+        "description": "Affacciato davanti all'Isola di San Pietro, Portoscuso unisce tradizioni marinare, testimonianze archeologiche e alcune delle spiagge più suggestive della costa…",
+        "link": "https://www.stylosophy.it/articolo/portoscuso-uno-splendido-borgo-sardo-tra-mare-e-storia/251750/",
+        "pubDate": "2026-06-15T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Emma, quanto ha speso per il suo Look griffato da cerimonia FOTO",
+        "description": "Emma, per il matrimonio di Tommaso Paradiso, ha sfoggiato un meraviglioso abito griffato: ma quanto è costato?…",
+        "link": "https://www.stylosophy.it/articolo/emma-quanto-ha-speso-per-il-suo-look-griffato-da-cerimonia-foto/251735/",
+        "pubDate": "2026-06-15T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Tutte pazze per gli abiti con il nodo! Ecco 7 modelli super versatili (e molto chic) da avere nell’armadio quest’estate",
+        "description": "Raffinati, super versatili, con un piccolo dettaglio strategico che consente di camuffare anche un po’ la pancia: sono gli abiti con il nodo, quei modelli che c…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-con-il-nodo-corti-lunghi-davanti-laterale-donna-satin-zara-mango-979970",
+        "pubDate": "2026-06-15T12:22:55+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Abiti_nodo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Scommettiamo che questi abiti estivi a portafoglio vi faranno impazzire?",
         "description": "Femminili, sensuali e super chic, gli abiti a portafoglio sono un must anche dell'Estate 2026! Ecco i modelli più cool da non perdere assolutamente...…",
@@ -201,6 +228,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "“Questi sandali mule semplificheranno tutti i vostri look estivi”, parola di fashion editor!",
+        "description": "Chiamateli sabot, mules&#8230;o forse sarebbe meglio definirli la nostra ossessione di stagione? Sta di fatto che i sandali aperti sul tallone sono il passe-par…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/sandali-mule-con-tacco-alto-midi-flat-sandalo-aperto-sul-tallone-mules-zara-mango-979687",
+        "pubDate": "2026-06-15T04:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_mules.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "La scarpiera IKEA che risolve il problema dello spazio in casa",
@@ -275,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "La novità Polti per dire addio alle macchie su tappeti e imbottati senza usare detergenti",
-        "description": "Polti oggi si occupa anche di pulizia e lancia una nuovo dispositivo che sfrutta il vapore per trattare tessuti, imbottiti e superfici domestiche senza prodotti…",
-        "link": "https://www.stylosophy.it/articolo/la-novita-polti-per-dire-addio-alle-macchie-su-tappeti-e-imbottati/251670/",
-        "pubDate": "2026-06-12T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Sette storie, sette visioni e un unico filo conduttore: la capacità della moda di raccontare molto più di ciò che indossiamo. Benvenuti alle Fashion Pills della…",
         "link": "https://www.grazia.it/moda/notizie-moda-demellier-stella-mccartney-polello-gioielli-ovs-acbc-collab-zimmermann-nugnes-semicouture-mywardrobe-adidas-end-stan-smith-979586",
@@ -291,15 +318,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/Senza-titolo-155.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Kylie Jenner lancia la collection summer 2026 con il suo brand di abbigliamento Khy",
-        "description": "Disponibile da ieri 11 giugno, Kylie Jenner ha lanciato la nuova summer collection con il suo brand di abbigliamento Khy.…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-la-summer-2026-collection-con-il-suo-brand-di-abbigliamento-khy/251662/",
-        "pubDate": "2026-06-12T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       },
       {
         "title": "Emily Blunt, Katy Perry, Elle Fanning e tutte le star meglio vestite della settimana",
@@ -345,27 +363,81 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/iuad-apertura-1.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Abiti in pizzo Sangallo: 7 modelli perfetti per dare un tocco boho-chic ai look estivi",
-        "description": "Fanno capolino nel nostro guardaroba già al primo accenno d’estate e ora che la stagione calda è dietro l’angolo sono pronti a diventare i protagonisti dei nost…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-in-pizzo-sangallo-vestito-elegante-donna-lungo-zara-hm-zalando-979272",
-        "pubDate": "2026-06-11T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Abiti_sangallo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Sono una fashion editor e questi sono i 10 capi e accessori che non mancano mai nella mia valigia del mare”",
-        "description": "Con l&#8217;arrivo della bella stagione torna anche il desiderio di partire, inseguendo il sole, il mare e quel senso di leggerezza che solo l&#8217;estate sa r…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/valigia-per-mare-cosa-portare-estate-capi-accessori-978191",
-        "pubDate": "2026-06-11T06:08:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_10_essential.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Vermentino DOC Maremma Toscana, 12 medaglie al Concorso Internazionale: terza denominazione più premiata al mondo",
+        "description": "Il Vermentino della Maremma Toscana consolida il proprio posizionamento tra le espressioni di riferimento del panorama internazionale. Alla quarta edizione del …",
+        "link": "https://www.winemag.it/vermentino-doc-maremma-toscana-12-medaglie-al-concorso-internazionale-terza-denominazione-piu-premiata-al-mondo/",
+        "pubDate": "2026-06-15T15:47:49+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Ho paura di sbagliare vino”: a Milano apre il locale che vuole eliminare l’ansia della scelta",
+        "description": "Da Reverso, in via Savona, cento etichette sono disponibili al calice e una chat basata sull'intelligenza artificiale aiuta i clienti a orientarsi. L'obiettivo …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/milano-enoteca-intelligenza-artificiale-vino/",
+        "pubDate": "2026-06-15T15:14:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le confetture di marca non sono sempre le migliori al supermercato",
+        "description": "In un nuovo test di Altronconsumo, troviamo molti marchi noti in fondo alla classifica. \nL'articolo Le confetture di marca non sono sempre le migliori al superm…",
+        "link": "https://www.dissapore.com/notizie/le-confetture-di-marca-non-sono-sempre-le-migliori-al-supermercato/",
+        "pubDate": "2026-06-15T15:00:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/rigoni-asiago-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La schiacciata fiorentina sta conquistando il Belgio: il piccolo locale nato dalla nostalgia di casa",
+        "description": "Nel centro medievale di Gent, Anastasia Passerotti ha trasformato i sapori della sua infanzia in un piccolo caso gastronomico. Da Mi Garba la schiacciata fioren…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/schiacciata-fiorentina-belgio-mi-garba/",
+        "pubDate": "2026-06-15T13:40:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti vanno a Saturnia per le terme. Pochi sanno che qui si mangia una delle migliori bistecche del mondo",
+        "description": "Da quasi cinquant’anni i fratelli Aniello custodiscono il fuoco dei Due Cippi. Oggi il locale è il ristorante di carne numero uno in Italia e quarto al mondo, m…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/due-cippi-saturnia-migliore-bistecca-italia/",
+        "pubDate": "2026-06-15T13:32:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Chianti Docg, nuovo disciplinare in vigore: debutta il Rosé Docg e nasce la sottozona Terre di Vinci",
+        "description": "Il Chianti Docg cambia volto e aggiorna le proprie regole produttive. È entrato in vigore il nuovo disciplinare di produzione approvato dal Ministero dell’Agric…",
+        "link": "https://www.winemag.it/chianti-docg-nuovo-disciplinare-in-vigore-debutta-il-rose-docg-e-nasce-la-sottozona-terre-di-vinci/",
+        "pubDate": "2026-06-15T13:13:54+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Avevo bisogno di tornare in masseria”: il casaro che ha scelto di pagare il latte più del mercato",
+        "description": "Dopo gli anni in Arabia Saudita, Angelantonio Tafuno è tornato in Murgia per guidare il caseificio di famiglia. Oggi produce uno dei formaggi più premiati del t…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/casaro-pugliese-paga-latte-piu-del-mercato/",
+        "pubDate": "2026-06-15T13:11:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "American Express si compra The Fork, é ufficiale",
+        "description": "American Express allunga ulteriormente le mani sulle prenotazioni dei ristoranti: prenotare un tavolo ambito dipenderà sempre di più dalla carta di credito di c…",
+        "link": "https://www.dissapore.com/notizie/american-express-si-compra-the-fork-e-ufficiale/",
+        "pubDate": "2026-06-15T12:54:17+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2020/04/thefork.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "La gigantesca gaffe di Starbucks che ora chiude tutti negozi in Corea per fare lezione di storia",
         "description": "Continuano le proteste e i boicottaggi di Starbucks in Corea, e l'azienda ha deciso di provare a rimediare con un po' più di formazione, in un mea culpa senza p…",
@@ -448,7 +520,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Vernaccia di San Gimignano: annata 2025 convince tra qualità e sfide futuro",
+        "title": "Vernaccia di San Gimignano: annata 2025 convince tra qualità e sfide sul futuro",
         "description": "Grande successo per la quarta edizione di Regina Ribelle – Vernaccia di San Gimignano Wine Fest, la manifestazione promossa dal Consorzio del vino Vernaccia di …",
         "link": "https://www.winemag.it/vernaccia-di-san-gimignano-annata-2025-convince-tra-qualita-e-sfide-futuro/",
         "pubDate": "2026-06-15T05:00:00+00:00",
@@ -471,78 +543,6 @@
         "link": "https://www.dissapore.com/notizie/il-regno-unito-ha-approvato-la-prima-pillola-glp-1-anti-obesita/",
         "pubDate": "2026-06-14T14:03:42+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2025/12/shutterstock_2488263945-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I fiocchi di crusca sono junk food?",
-        "description": "Secondo le nuove linee guida sulla nutrizione del governo UK sì, e le aziende produttrici non la stanno prendendo bene.\nL'articolo I fiocchi di crusca sono junk…",
-        "link": "https://www.dissapore.com/notizie/i-fiocchi-di-crusca-sono-junk-food/",
-        "pubDate": "2026-06-14T12:38:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/all-bran-kellogg-crusca-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Mentre gli altri fanno il pienone, questo ristorante di pesce chiude",
-        "description": "La Vecchia Marina di Roseto degli Abruzzi sospenderà l'attività durante il fermo pesca. Una scelta rara in alta stagione, ma perfettamente coerente con la filos…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-pesce-chiude-alta-stagione-fermo-pesca-abruzzo/",
-        "pubDate": "2026-06-14T10:00:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nessuno beve più Bordeaux",
-        "description": "Il vino rosso barricato ed elitario trova sempre meno pubblico, a partire da Bordeaux. Fra i motivi ci sono prezzo, gusti e percezione. \nL'articolo Nessuno beve…",
-        "link": "https://www.dissapore.com/notizie/nessuno-beve-piu-bordeaux/",
-        "pubDate": "2026-06-14T08:28:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/bordeaux-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A tutto Montefalco: 6 etichette sorprendenti del rosso umbro",
-        "description": "Ecco alcuni degli assaggi che ci hanno convinto di più dall'anteprima A Montefalco. Sugli scudi il Rosso Riserva 2022 (peraltro sul mercato con prezzi più che o…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/anteprima-vini-montefalco-2026/",
-        "pubDate": "2026-06-14T07:06:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Erano il fast food dei Romani, oggi le ostriche sono un lusso. Ma l’Italia ne produce pochissime",
-        "description": "Per secoli cibo popolare delle coste mediterranee, oggi l’ostrica torna protagonista grazie a una filiera italiana in espansione tra ricerca, turismo e tutela d…",
-        "link": "https://www.gamberorosso.it/notizie/uncategorized/ostriche-italiane-mercato-produzione/",
-        "pubDate": "2026-06-14T06:00:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Uova, cioccolato, caffè: vanno in frigo o no? La guida definitiva per evitare errori",
-        "description": "Ingiustamente dato per scontato, questo elettrodomestico ci rende la vita più facile. Ma non tutto si conserva meglio al suo interno (neppure in estate): faccia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/conservare-cibo-in-frigo-errori-da-evitare/",
-        "pubDate": "2026-06-14T05:28:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "081 Pizzeria apre a Brescia: terza sede per il progetto dei fratelli Saggese",
-        "description": "Prima Melegnano, poi Castel San Giovanni. Ora Brescia. Prosegue il percorso di crescita di 081 Pizzeria, il progetto gastronomico dei fratelli Davide e Francesc…",
-        "link": "https://www.winemag.it/081-pizzeria-apre-a-brescia-terza-sede-per-il-progetto-dei-fratelli-saggese/",
-        "pubDate": "2026-06-14T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "SottoFava, il primo festival dedicato al cioccolato bean to bar italiano",
-        "description": "Il 28 giugno, a Saluzzo, c'è il primo festival d'Italia dedicato al bean to bar. Un'occasione, gratuita, per assaggiare e imparare a distinguere il cioccolato d…",
-        "link": "https://www.dissapore.com/notizie/sottofava-il-primo-festival-dedicato-al-cioccolato-bean-to-bar-italiano/",
-        "pubDate": "2026-06-13T14:07:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Locandina-Sottofava.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
