@@ -1,7 +1,16 @@
 {
-  "generated": "2026-06-16T16:53:28.354678+00:00",
+  "generated": "2026-06-16T20:51:22.680802+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Consorzio Tutela Nebbioli Alto Piemonte, Andrea Fontana confermato presidente: rinnovate le cariche istituzionali",
+        "description": "Il Consorzio Tutela Nebbioli Alto Piemonte rinnova i propri vertici e conferma la continuità del percorso avviato negli ultimi anni. Martedì 9 giugno, a Gattina…",
+        "link": "https://www.winemag.it/consorzio-tutela-nebbioli-alto-piemonte-andrea-fontana-confermato-presidente-rinnovate-le-cariche-istituzionali/",
+        "pubDate": "2026-06-16T19:33:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Marisa Berenson firma una capsule per Zara Home: la nuova collezione è già l’oggetto del desiderio dell’estate 2026",
         "description": "Tra richiami agli anni Settanta, dettagli artigianali e atmosfere cosmopolite, la nuova collaborazione trasforma la casa in uno spazio elegante e personale.…",
@@ -172,15 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Questo capo cult amato da Sarah Jessica Parker negli anni Novanta è il pezzo jolly da sfoggiare questa estate",
-        "description": "È stato uno dei grandi must-have del guardaroba anni ’90, poi è diventato uno dei pezzi cult dello stile Y2K, adesso il top a fascia è tornato nelle collezioni …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/top-a-fascia-elegante-zara-donna-tezenis-pizzo-corto-celebrity-icone-di-stile-anni-90-sarah-jessica-parker-cameron-diaz-980162",
-        "pubDate": "2026-06-16T06:57:06+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Top_a_fascia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Consorzio Tutela Nebbioli Alto Piemonte, Andrea Fontana confermato presidente: rinnovate le cariche istituzionali",
+        "description": "Il Consorzio Tutela Nebbioli Alto Piemonte rinnova i propri vertici e conferma la continuità del percorso avviato negli ultimi anni. Martedì 9 giugno, a Gattina…",
+        "link": "https://www.winemag.it/consorzio-tutela-nebbioli-alto-piemonte-andrea-fontana-confermato-presidente-rinnovate-le-cariche-istituzionali/",
+        "pubDate": "2026-06-16T19:33:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Sembra una mela, ma è una pesca: il frutto che si trova solo in Calabria",
         "description": "A prima vista sembra una mela acerba, ma è una varietà antica di pesca coltivata quasi esclusivamente in Calabria. La merendella compare tra giugno e settembre …",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/merendella-calabrese-pesca-antica-cose/",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/la-gigantesca-gaffe-di-starbucks-che-ora-chiude-tutti-negozi-in-corea-per-fare-lezione-di-storia/",
         "pubDate": "2026-06-15T11:39:34+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Screenshot-2026-06-15-alle-13.33.51-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "C’è una città in Colombia che sta lottando contro la Coca Cola che le ruba l’acqua",
-        "description": "Una battaglia durata quasi due anni che ha ridotto la concessione idrica a Indega, controllata di Coca Cola, perché gli abitanti soffrivano di siccità.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/ce-una-citta-in-colombia-che-sta-lottando-contro-la-coca-cola-che-le-ruba-lacqua/",
-        "pubDate": "2026-06-15T09:48:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/03/coca-cola-scaled-e1743197730705.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
