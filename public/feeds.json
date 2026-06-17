@@ -1,7 +1,142 @@
 {
-  "generated": "2026-06-16T20:51:22.680802+00:00",
+  "generated": "2026-06-17T10:57:30.319104+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Accordo UE-USA: Federvini favorevole all’ok del Parlamento europeo sugli impegni tariffari",
+        "description": "Federvini accoglie con favore l’approvazione da parte della plenaria del Parlamento europeo dei due regolamenti che danno attuazione agli impegni tariffari assu…",
+        "link": "https://www.winemag.it/accordo-ue-usa-federvini-favorevole-allok-del-parlamento-europeo-sugli-impegni-tariffari/",
+        "pubDate": "2026-06-17T10:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spirits, consumi in calo del 10% in Italia. Export a 1,7 miliardi di euro, ma il 2025 segna una frenata",
+        "description": "Il settore delle bevande spiritose italiane si confronta con una fase complessa, segnata dal rallentamento dei consumi interni, dall&#8217;incertezza geopolitic…",
+        "link": "https://www.winemag.it/spirits-consumi-in-calo-del-10-in-italia-export-a-17-miliardi-di-euro-ma-il-2025-segna-una-frenata/",
+        "pubDate": "2026-06-17T10:26:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Per anni è stato un simbolo della cucina di mare. Oggi è illegale pescarlo",
+        "description": "Conosciuto come neonata, bianchetto o schiuma di mare, il novellame di sardine e acciughe è stato protagonista della cucina costiera italiana. Oggi la sua pesca…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/novellame-pesce-vietato-cose/",
+        "pubDate": "2026-06-17T09:57:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I consumi di vino vanno giù? Le cantine rispondono col calo degli imbottigliamenti",
+        "description": "Dalla presentazione del report Valoritalia emergono il calo degli imbottigliati (-2,1% nel 2025) e il bisogno di aggregazione. Liantonio: \"Serve meno dispersion…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/imbottigiamento-vino-report-valoritalia-2026/",
+        "pubDate": "2026-06-17T09:56:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Famiglie Storiche e Antica Bottega del Vino: Luca Speri e Giacomo Boscaini alla guida delle due realtà veronesi",
+        "description": "Cambio ai vertici di Famiglie Storiche e di Antica Bottega del Vino. L’associazione che riunisce tredici tra le aziende più rappresentative della Valpolicella h…",
+        "link": "https://www.winemag.it/famiglie-storiche-e-antica-bottega-del-vino-luca-speri-e-giacomo-boscaini-alla-guida-delle-due-realta-veronesi/",
+        "pubDate": "2026-06-17T09:26:29+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sopracciglia effetto laminato? Ecco 5 gel da provare per uno sguardo sensuale",
+        "description": "Per uno sguardo sensuale e femminile, ecco 5 gel per sopracciglia dall'effetto laminato. Dei must da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/sopracciglia-effetto-laminato-ecco-5-gel-da-provare-per-uno-sguardo-sensuale/251840/",
+        "pubDate": "2026-06-17T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“La dieta mediterranea? Una barzelletta”. Il biologo Silvestro Greco demolisce il mito che piace agli italiani",
+        "description": "Per il professore di Ecologia dell’Università di Pollenzo, il modello alimentare celebrato in tutto il mondo è ormai \"puro storytelling\". Dalle microplastiche c…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/silvestro-greco-dieta-mediterranea-barzelletta/",
+        "pubDate": "2026-06-17T08:30:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pizza Hut è in vendita",
+        "description": "La storica catena di pizzerie è in difficoltà e la proprietà, già titolare di KFC e Taco Bell, decide di liberarsene.\nL'articolo Pizza Hut è in vendita proviene…",
+        "link": "https://www.dissapore.com/notizie/pizza-hut-e-in-vendita/",
+        "pubDate": "2026-06-17T08:26:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/shutterstock_2645225061-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I figli dei pescatori non vogliono più andare in mare: cosa sta succedendo",
+        "description": "Tra redditi in calo, costi alle stelle e burocrazia sempre più complessa, quasi il 40% dei giovani cresciuti nelle famiglie di pescatori ha deciso di fare altro…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/giovani-pescatori-crisi-ricambio-generazionale/",
+        "pubDate": "2026-06-17T08:19:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Per risparmiare energia, nel futuro faremo il caffè con gli ultrasuoni",
+        "description": "Un nuovo studio applica la cavitazione acustica alla preparazione del caffè espresso, ottenendo un risultato identico e risparmiando il 75% di energia.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/per-risparmiare-energia-nel-futuro-faremo-il-caffe-con-gli-ultrasuoni/",
+        "pubDate": "2026-06-17T07:37:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/shutterstock_2722745079-scaled-e1776411333712.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Via la digital tax oppure tasse al 100% su vini e Champagne”. Le nuove minacce di Trump",
+        "description": "Il presidente americano ritorna all'attacco della Francia, ma Macron respinge le minacce al mittente. Preoccupati i sindacati vitivinicoli dopo un 2025 che ha g…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/usa-contro-francia-vini-digital-tax/",
+        "pubDate": "2026-06-17T07:11:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma c’è un vecchio chiosco dove lo Spritz costa ancora 5 euro",
+        "description": "Davanti all’Università Roma Tre, a due passi dalla fermata Basilica San Paolo, il Chiosco è diventato negli anni un punto di riferimento per generazioni di stud…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chiosco-san-paolo-roma-tre-spritz-5-euro/",
+        "pubDate": "2026-06-17T06:14:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "BWH Hotels cresce nel Sud Italia: due nuovi ingressi in Campania e Puglia, il network raggiunge 40 strutture",
+        "description": "BWH Hotels Italy &#38; South-East Europe rafforza la propria presenza nel Mezzogiorno con l’ingresso nel network del Sure Hotel Collection by Best Western Sakur…",
+        "link": "https://www.winemag.it/bwh-hotels-cresce-nel-sud-italia-due-nuovi-ingressi-in-campania-e-puglia-il-network-raggiunge-40-strutture/",
+        "pubDate": "2026-06-17T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La riscossa dei vini costieri: il nuovo stile mediterraneo che sta cambiando il nostro modo di bere",
+        "description": "Dalle anfore dei Fenici al Marsala degli inglesi, il vino ha sempre viaggiato insieme alle idee. E oggi, dopo anni di oblio, i vigneti sul mare - dalle Cinque T…",
+        "link": "https://www.gamberorosso.it/notizie/vino/riscossa-vini-della-costa-stile-mediterraneo/",
+        "pubDate": "2026-06-17T05:08:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vulcanici, sapidi ed estremi: i “Vini di fuoco” di Capo Verde",
+        "description": "Vini Capo Verde, vino capo verde. La viticoltura di Capo Verde è una delle più singolari dell’Atlantico. Nasce in un arcipelago africano segnato da siccità, ven…",
+        "link": "https://www.winemag.it/vulcanici-sapidi-ed-estremi-i-vini-di-fuoco-di-capo-verde/",
+        "pubDate": "2026-06-17T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Vulcanici-sapidi-ed-estremi-i-Vini-di-fuoco-di-Capo-Verde-Adega-Cha-Adega-Sodade-e-Adega-Maria-Chaves-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Consorzio Tutela Nebbioli Alto Piemonte, Andrea Fontana confermato presidente: rinnovate le cariche istituzionali",
         "description": "Il Consorzio Tutela Nebbioli Alto Piemonte rinnova i propri vertici e conferma la continuità del percorso avviato negli ultimi anni. Martedì 9 giugno, a Gattina…",
@@ -46,144 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "C’è un motivo preciso se KFC si è rifatta il logo",
-        "description": "KFC cambia logo, e quando una multinazionale riconoscibile in tutto il mondo fa una mossa del genere dietro c'è probabilmente un motivo importante. \nL'articolo …",
-        "link": "https://www.dissapore.com/notizie/ce-un-motivo-preciso-se-kfc-si-e-rifatta-il-logo/",
-        "pubDate": "2026-06-16T14:00:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/bucket-kfc.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cantina La Versa è stata comprata da Mack & Schühle Italia. L’operazione apre spiragli anche per Terre d’Oltrepò",
-        "description": "Dopo il fallimento nel 2016, il marchio era passato nell'orbita Terre d'Oltrepò, a sua volta finita in mano ai liquidatori. Quella di Mack &#038; Schühle\n è sta…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cantina-oltrepo-pavese-la-versa-comprata-mack-schuhle-italia/",
-        "pubDate": "2026-06-16T13:34:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il cibo venduto in Europa come israeliano, ma prodotto nei territori occupati",
-        "description": "Con un rapporto di 400 pagine Global Echo ha dimostrato che molto del cibo israeliano esportato è etichettato in maniera fraudolenta.\nL'articolo Il cibo venduto…",
-        "link": "https://www.dissapore.com/notizie/il-cibo-venduto-in-europa-come-israeliano-ma-prodotto-nei-territori-occupati/",
-        "pubDate": "2026-06-16T13:04:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/fattorie-israeliane-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Chiara Ferragni, anche in estate si conferma regina di tendenze con il bikini must have di stagione",
-        "description": "Chiara Ferragni sfoggia il bikini must have di stagione: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-anche-in-estate-si-conferma-regina-di-tendenze-con-il-bikini-must-have-di-stagione/251817/",
-        "pubDate": "2026-06-16T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Come vestirsi per viaggiare? 8 inspo look comodi ma chic per i vostri viaggi",
-        "description": "L’estate è la stagione dei lunghi voli verso località paradisiache, dei viaggi on the road e delle tratte in treno alla scoperta delle città europee più affasci…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-per-viaggiare-8-inpso-look-comodi-ma-chic-per-i-vostri-viaggi-979994",
-        "pubDate": "2026-06-16T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_comfy_chic_IG.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Dondup debutta a San Siro con EROTICA: la prima visione collezione con Achille Lauro come Direttore Creativo",
-        "description": "Dondup EROTICA segna il debutto creativo Lauro De Marinis, in arte Achille Lauro, come direttore artistico del brand. La collezione è stata presentata con una s…",
-        "link": "https://www.grazia.it/moda/news-moda/dondup-erotica-achille-lauro-concerto-san-siro-980189",
-        "pubDate": "2026-06-16T12:10:32+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "H&M firma le borse più glam e low cost dell’Estate 2026 (l’ultima è un must da non perdere)",
-        "description": "Trendy, glam e super chic, sono firmate H&#038;M le borse più gettonate dell'Estate 2026. Qui i modelli da non perdere assolutamente!…",
-        "link": "https://www.stylosophy.it/articolo/hm-firma-le-borse-piu-glam-e-low-cost-dellestate-2026-lultima-e-un-must-da-non-perdere/251806/",
-        "pubDate": "2026-06-16T11:32:26+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Rendiamo il vino davvero sexy”. L’invito-manifesto di Vittoria Rocca, nuova presidente di Agivi",
-        "description": "La nuova guida dei giovani imprenditori vinicoli Uiv lancia lo slogan del nuovo triennio: \"Let's make wine Sexy\".  \"Il vino del futuro? Sempre più un'esperienza…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vittoria-rocca-nuova-presidente-agivi-intervista/",
-        "pubDate": "2026-06-16T11:26:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le svuoti, le riempi e fanno sempre scena: le zucchine ripiene che risolvono una cena estiva",
-        "description": "Prima si cuociono al vapore, poi si farciscono con pane, ceci, erbe aromatiche, capperi e pomodori secchi. Una ricetta vegetariana semplice - firmata dalla cont…",
-        "link": "https://www.gamberorosso.it/notizie/ricette/zucchine-tonde-ripiene-ceci-pane-capperi-ricetta/",
-        "pubDate": "2026-06-16T10:51:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non è un cetriolo e rischia di scomparire: la lunga storia della facussa di Carloforte",
-        "description": "Sembra un cetriolo ma appartiene alla famiglia dei meloni. Arrivò a Carloforte con i tabarchini nel Settecento e oggi è una rarità coltivata da pochissimi agric…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/facussa-carloforte-cos-e-storia-ortaggio-tabarchino/",
-        "pubDate": "2026-06-16T10:23:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“In questa difficile fase del vino, serve responsabilità”. Federdoc non esclude il ricorso agli estirpi dei vigneti",
-        "description": "Il presidente Bonaldi chiede di tagliare le produzioni, intervenendo sulle rese anche dei vini generici, con più controlli e sanzioni per chi non rispetta i lim…",
-        "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-ricetta-federdoc-riduzione-rese-estirpi/",
-        "pubDate": "2026-06-16T10:15:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’accordo tra Stati Uniti e Iran farà abbassare i prezzi degli alimentari?",
-        "description": "La pace tra Washington e Teheran è finalmente stata siglata, ma gli effetti positivi sul carrello della spesa potrebbero non essere immediati.\nL'articolo L&#821…",
-        "link": "https://www.dissapore.com/notizie/laccordo-tra-stati-uniti-e-iran-fara-abbassare-i-prezzi-degli-alimentari/",
-        "pubDate": "2026-06-16T09:59:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/stretto-hormuz-nave-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Marconi ha aperto un bar dove sembra di essere ai Caraibi (ma sei ancora a Roma)",
-        "description": "Tra palme, bambù, cocktail tropicali e una piccola casita rosa ispirata a Porto Rico, un vivaio del quartiere Marconi si trasforma al tramonto in uno degli indi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/caraibi-roma-marconi-flor-de-maga/",
-        "pubDate": "2026-06-16T09:16:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Francesco Monchiero confermato presidente del Consorzio Piemonte Land of Wine per il secondo mandato consecutivo",
-        "description": "Per la prima volta dall'istituzione dell'ente che riunisce tutti i consorzi di tutela dei vini piemontesi, un presidente viene rieletto per un secondo mandato c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/francesco-monchiero-consorzio-piemonte-land-of-wine/",
-        "pubDate": "2026-06-16T09:14:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tutte le Face mist più amate del momento per rinfrescare il viso in Estate",
-        "description": "Tra i prodotti beauty più amati dell'Estate 2026 spiccano le face mist, per un boost di freschezza e idratazione. Ecco le più valide del momento da non perdere.…",
-        "link": "https://www.stylosophy.it/articolo/tutte-le-face-mist-piu-amate-del-momento-per-rinfrescare-il-viso-in-estate/251795/",
-        "pubDate": "2026-06-16T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Sopracciglia effetto laminato? Ecco 5 gel da provare per uno sguardo sensuale",
+        "description": "Per uno sguardo sensuale e femminile, ecco 5 gel per sopracciglia dall'effetto laminato. Dei must da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/sopracciglia-effetto-laminato-ecco-5-gel-da-provare-per-uno-sguardo-sensuale/251840/",
+        "pubDate": "2026-06-17T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Marisa Berenson firma una capsule per Zara Home: la nuova collezione è già l’oggetto del desiderio dell’estate 2026",
         "description": "Tra richiami agli anni Settanta, dettagli artigianali e atmosfere cosmopolite, la nuova collaborazione trasforma la casa in uno spazio elegante e personale.…",
@@ -329,15 +338,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Annalisa, anche in estate si conferma regina di stile con questo Look iconico total white FOTO",
-        "description": "Annalisa, anche per quest'estate, non delude le aspettative confermandosi regina di stile e sfoggiando un look iconico sui toni del bianco.…",
-        "link": "https://www.stylosophy.it/articolo/annalisa-anche-in-estate-si-conferma-regina-di-stile-con-questo-look-iconico-total-white-foto/251698/",
-        "pubDate": "2026-06-14T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Questi 7 abiti furbi (ma molto chic) hanno uno speciale “super-potere” da non sottovalutare!",
         "description": "Arriva l&#8217;estate e con le temperature che salgono l&#8217;unica cosa che sogniamo di indossare sono capi leggeri sulla pelle che non ci costringano e ci di…",
         "link": "https://www.grazia.it/moda/tendenze-moda/abiti-per-nascondere-la-pancia-estate-zara-mango-hm-ovs-979637",
@@ -366,6 +366,132 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Accordo UE-USA: Federvini favorevole all’ok del Parlamento europeo sugli impegni tariffari",
+        "description": "Federvini accoglie con favore l’approvazione da parte della plenaria del Parlamento europeo dei due regolamenti che danno attuazione agli impegni tariffari assu…",
+        "link": "https://www.winemag.it/accordo-ue-usa-federvini-favorevole-allok-del-parlamento-europeo-sugli-impegni-tariffari/",
+        "pubDate": "2026-06-17T10:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spirits, consumi in calo del 10% in Italia. Export a 1,7 miliardi di euro, ma il 2025 segna una frenata",
+        "description": "Il settore delle bevande spiritose italiane si confronta con una fase complessa, segnata dal rallentamento dei consumi interni, dall&#8217;incertezza geopolitic…",
+        "link": "https://www.winemag.it/spirits-consumi-in-calo-del-10-in-italia-export-a-17-miliardi-di-euro-ma-il-2025-segna-una-frenata/",
+        "pubDate": "2026-06-17T10:26:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Per anni è stato un simbolo della cucina di mare. Oggi è illegale pescarlo",
+        "description": "Conosciuto come neonata, bianchetto o schiuma di mare, il novellame di sardine e acciughe è stato protagonista della cucina costiera italiana. Oggi la sua pesca…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/novellame-pesce-vietato-cose/",
+        "pubDate": "2026-06-17T09:57:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I consumi di vino vanno giù? Le cantine rispondono col calo degli imbottigliamenti",
+        "description": "Dalla presentazione del report Valoritalia emergono il calo degli imbottigliati (-2,1% nel 2025) e il bisogno di aggregazione. Liantonio: \"Serve meno dispersion…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/imbottigiamento-vino-report-valoritalia-2026/",
+        "pubDate": "2026-06-17T09:56:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Famiglie Storiche e Antica Bottega del Vino: Luca Speri e Giacomo Boscaini alla guida delle due realtà veronesi",
+        "description": "Cambio ai vertici di Famiglie Storiche e di Antica Bottega del Vino. L’associazione che riunisce tredici tra le aziende più rappresentative della Valpolicella h…",
+        "link": "https://www.winemag.it/famiglie-storiche-e-antica-bottega-del-vino-luca-speri-e-giacomo-boscaini-alla-guida-delle-due-realta-veronesi/",
+        "pubDate": "2026-06-17T09:26:29+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“La dieta mediterranea? Una barzelletta”. Il biologo Silvestro Greco demolisce il mito che piace agli italiani",
+        "description": "Per il professore di Ecologia dell’Università di Pollenzo, il modello alimentare celebrato in tutto il mondo è ormai \"puro storytelling\". Dalle microplastiche c…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/silvestro-greco-dieta-mediterranea-barzelletta/",
+        "pubDate": "2026-06-17T08:30:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pizza Hut è in vendita",
+        "description": "La storica catena di pizzerie è in difficoltà e la proprietà, già titolare di KFC e Taco Bell, decide di liberarsene.\nL'articolo Pizza Hut è in vendita proviene…",
+        "link": "https://www.dissapore.com/notizie/pizza-hut-e-in-vendita/",
+        "pubDate": "2026-06-17T08:26:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/shutterstock_2645225061-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I figli dei pescatori non vogliono più andare in mare: cosa sta succedendo",
+        "description": "Tra redditi in calo, costi alle stelle e burocrazia sempre più complessa, quasi il 40% dei giovani cresciuti nelle famiglie di pescatori ha deciso di fare altro…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/giovani-pescatori-crisi-ricambio-generazionale/",
+        "pubDate": "2026-06-17T08:19:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Per risparmiare energia, nel futuro faremo il caffè con gli ultrasuoni",
+        "description": "Un nuovo studio applica la cavitazione acustica alla preparazione del caffè espresso, ottenendo un risultato identico e risparmiando il 75% di energia.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/per-risparmiare-energia-nel-futuro-faremo-il-caffe-con-gli-ultrasuoni/",
+        "pubDate": "2026-06-17T07:37:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/shutterstock_2722745079-scaled-e1776411333712.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Via la digital tax oppure tasse al 100% su vini e Champagne”. Le nuove minacce di Trump",
+        "description": "Il presidente americano ritorna all'attacco della Francia, ma Macron respinge le minacce al mittente. Preoccupati i sindacati vitivinicoli dopo un 2025 che ha g…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/usa-contro-francia-vini-digital-tax/",
+        "pubDate": "2026-06-17T07:11:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma c’è un vecchio chiosco dove lo Spritz costa ancora 5 euro",
+        "description": "Davanti all’Università Roma Tre, a due passi dalla fermata Basilica San Paolo, il Chiosco è diventato negli anni un punto di riferimento per generazioni di stud…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chiosco-san-paolo-roma-tre-spritz-5-euro/",
+        "pubDate": "2026-06-17T06:14:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "BWH Hotels cresce nel Sud Italia: due nuovi ingressi in Campania e Puglia, il network raggiunge 40 strutture",
+        "description": "BWH Hotels Italy &#38; South-East Europe rafforza la propria presenza nel Mezzogiorno con l’ingresso nel network del Sure Hotel Collection by Best Western Sakur…",
+        "link": "https://www.winemag.it/bwh-hotels-cresce-nel-sud-italia-due-nuovi-ingressi-in-campania-e-puglia-il-network-raggiunge-40-strutture/",
+        "pubDate": "2026-06-17T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La riscossa dei vini costieri: il nuovo stile mediterraneo che sta cambiando il nostro modo di bere",
+        "description": "Dalle anfore dei Fenici al Marsala degli inglesi, il vino ha sempre viaggiato insieme alle idee. E oggi, dopo anni di oblio, i vigneti sul mare - dalle Cinque T…",
+        "link": "https://www.gamberorosso.it/notizie/vino/riscossa-vini-della-costa-stile-mediterraneo/",
+        "pubDate": "2026-06-17T05:08:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vulcanici, sapidi ed estremi: i “Vini di fuoco” di Capo Verde",
+        "description": "Vini Capo Verde, vino capo verde. La viticoltura di Capo Verde è una delle più singolari dell’Atlantico. Nasce in un arcipelago africano segnato da siccità, ven…",
+        "link": "https://www.winemag.it/vulcanici-sapidi-ed-estremi-i-vini-di-fuoco-di-capo-verde/",
+        "pubDate": "2026-06-17T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Vulcanici-sapidi-ed-estremi-i-Vini-di-fuoco-di-Capo-Verde-Adega-Cha-Adega-Sodade-e-Adega-Maria-Chaves-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Consorzio Tutela Nebbioli Alto Piemonte, Andrea Fontana confermato presidente: rinnovate le cariche istituzionali",
         "description": "Il Consorzio Tutela Nebbioli Alto Piemonte rinnova i propri vertici e conferma la continuità del percorso avviato negli ultimi anni. Martedì 9 giugno, a Gattina…",
@@ -417,132 +543,6 @@
         "link": "https://www.dissapore.com/notizie/il-cibo-venduto-in-europa-come-israeliano-ma-prodotto-nei-territori-occupati/",
         "pubDate": "2026-06-16T13:04:48+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/fattorie-israeliane-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Rendiamo il vino davvero sexy”. L’invito-manifesto di Vittoria Rocca, nuova presidente di Agivi",
-        "description": "La nuova guida dei giovani imprenditori vinicoli Uiv lancia lo slogan del nuovo triennio: \"Let's make wine Sexy\".  \"Il vino del futuro? Sempre più un'esperienza…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vittoria-rocca-nuova-presidente-agivi-intervista/",
-        "pubDate": "2026-06-16T11:26:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le svuoti, le riempi e fanno sempre scena: le zucchine ripiene che risolvono una cena estiva",
-        "description": "Prima si cuociono al vapore, poi si farciscono con pane, ceci, erbe aromatiche, capperi e pomodori secchi. Una ricetta vegetariana semplice - firmata dalla cont…",
-        "link": "https://www.gamberorosso.it/notizie/ricette/zucchine-tonde-ripiene-ceci-pane-capperi-ricetta/",
-        "pubDate": "2026-06-16T10:51:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non è un cetriolo e rischia di scomparire: la lunga storia della facussa di Carloforte",
-        "description": "Sembra un cetriolo ma appartiene alla famiglia dei meloni. Arrivò a Carloforte con i tabarchini nel Settecento e oggi è una rarità coltivata da pochissimi agric…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/facussa-carloforte-cos-e-storia-ortaggio-tabarchino/",
-        "pubDate": "2026-06-16T10:23:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“In questa difficile fase del vino, serve responsabilità”. Federdoc non esclude il ricorso agli estirpi dei vigneti",
-        "description": "Il presidente Bonaldi chiede di tagliare le produzioni, intervenendo sulle rese anche dei vini generici, con più controlli e sanzioni per chi non rispetta i lim…",
-        "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-ricetta-federdoc-riduzione-rese-estirpi/",
-        "pubDate": "2026-06-16T10:15:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’accordo tra Stati Uniti e Iran farà abbassare i prezzi degli alimentari?",
-        "description": "La pace tra Washington e Teheran è finalmente stata siglata, ma gli effetti positivi sul carrello della spesa potrebbero non essere immediati.\nL'articolo L&#821…",
-        "link": "https://www.dissapore.com/notizie/laccordo-tra-stati-uniti-e-iran-fara-abbassare-i-prezzi-degli-alimentari/",
-        "pubDate": "2026-06-16T09:59:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/stretto-hormuz-nave-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Marconi ha aperto un bar dove sembra di essere ai Caraibi (ma sei ancora a Roma)",
-        "description": "Tra palme, bambù, cocktail tropicali e una piccola casita rosa ispirata a Porto Rico, un vivaio del quartiere Marconi si trasforma al tramonto in uno degli indi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/caraibi-roma-marconi-flor-de-maga/",
-        "pubDate": "2026-06-16T09:16:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Francesco Monchiero confermato presidente del Consorzio Piemonte Land of Wine per il secondo mandato consecutivo",
-        "description": "Per la prima volta dall'istituzione dell'ente che riunisce tutti i consorzi di tutela dei vini piemontesi, un presidente viene rieletto per un secondo mandato c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/francesco-monchiero-consorzio-piemonte-land-of-wine/",
-        "pubDate": "2026-06-16T09:14:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mangiare le specie aliene può aiutare. Ma non salverà il Mediterraneo",
-        "description": "Dal granchio blu al pesce scorpione, fino ai nuovi gamberi arrivati dal Mar Rosso: trasformare le specie invasive in risorse alimentari può creare opportunità p…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/mangiare-specie-aliene-non-salvera-mediterraneo/",
-        "pubDate": "2026-06-16T06:17:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Jazz & Wine in Montalcino 2026, dal 20 al 26 luglio torna il festival tra Castello Banfi e la Fortezza",
-        "description": "Dal 20 al 26 luglio torna uno degli appuntamenti più attesi dell&#8217;estate toscana. La 29ª edizione di Jazz &#38; Wine in Montalcino animerà le suggestive lo…",
-        "link": "https://www.winemag.it/jazz-wine-in-montalcino-2026-dal-20-al-26-luglio-torna-il-festival-tra-castello-banfi-e-la-fortezza/",
-        "pubDate": "2026-06-16T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vermentino DOC Maremma Toscana, 12 medaglie al Concorso Internazionale: terza denominazione più premiata al mondo",
-        "description": "Il Vermentino della Maremma Toscana consolida il proprio posizionamento tra le espressioni di riferimento del panorama internazionale. Alla quarta edizione del …",
-        "link": "https://www.winemag.it/vermentino-doc-maremma-toscana-12-medaglie-al-concorso-internazionale-terza-denominazione-piu-premiata-al-mondo/",
-        "pubDate": "2026-06-15T15:47:49+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le confetture di marca non sono sempre le migliori al supermercato",
-        "description": "In un nuovo test di Altronconsumo, troviamo molti marchi noti in fondo alla classifica. \nL'articolo Le confetture di marca non sono sempre le migliori al superm…",
-        "link": "https://www.dissapore.com/notizie/le-confetture-di-marca-non-sono-sempre-le-migliori-al-supermercato/",
-        "pubDate": "2026-06-15T15:00:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/rigoni-asiago-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Chianti Docg, nuovo disciplinare in vigore: debutta il Rosé Docg e nasce la sottozona Terre di Vinci",
-        "description": "Il Chianti Docg cambia volto e aggiorna le proprie regole produttive. È entrato in vigore il nuovo disciplinare di produzione approvato dal Ministero dell’Agric…",
-        "link": "https://www.winemag.it/chianti-docg-nuovo-disciplinare-in-vigore-debutta-il-rose-docg-e-nasce-la-sottozona-terre-di-vinci/",
-        "pubDate": "2026-06-15T13:13:54+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "American Express si compra The Fork, é ufficiale",
-        "description": "American Express allunga ulteriormente le mani sulle prenotazioni dei ristoranti: prenotare un tavolo ambito dipenderà sempre di più dalla carta di credito di c…",
-        "link": "https://www.dissapore.com/notizie/american-express-si-compra-the-fork-e-ufficiale/",
-        "pubDate": "2026-06-15T12:54:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2020/04/thefork.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La gigantesca gaffe di Starbucks che ora chiude tutti negozi in Corea per fare lezione di storia",
-        "description": "Continuano le proteste e i boicottaggi di Starbucks in Corea, e l'azienda ha deciso di provare a rimediare con un po' più di formazione, in un mea culpa senza p…",
-        "link": "https://www.dissapore.com/notizie/la-gigantesca-gaffe-di-starbucks-che-ora-chiude-tutti-negozi-in-corea-per-fare-lezione-di-storia/",
-        "pubDate": "2026-06-15T11:39:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Screenshot-2026-06-15-alle-13.33.51-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
