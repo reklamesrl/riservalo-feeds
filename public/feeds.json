@@ -1,7 +1,133 @@
 {
-  "generated": "2026-06-18T10:21:39.544692+00:00",
+  "generated": "2026-06-18T15:26:00.782899+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Perché le sottozone stanno diventando il nuovo punto di forza del vino italiano",
+        "description": "Mentre il mondo chiede semplificazione, i consorzi rispondono con un'ulteriore parcellizzazione del territorio sul modello Borgogna. Dall'Alto Adige al Chianti,…",
+        "link": "https://www.gamberorosso.it/notizie/vino/fenomeno-sottozone-vino-italiano-mappa-territori-chianti-marsala-alto-adige-nobile-etna/",
+        "pubDate": "2026-06-18T15:05:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel Monferrato c’è una famiglia che coltiva una delle migliori nocciole al mondo",
+        "description": "Nel noccioleto di Cascina Baronina nasce la nuova cru di Tonda Gentile Trilobata firmata Agrimontana: un progetto che unisce filiera corta, agronomia di precisi…",
+        "link": "https://www.gamberorosso.it/notizie/speciali/nocciola-agrimontana-monferrato/",
+        "pubDate": "2026-06-18T14:11:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Urban trekking alla scoperta di Brescia, in ottima compagnia con LaMunt",
+        "description": "Il primo incontro non si scorda mai; il secondo apre la strada ad altri appuntamenti. Il terzo consolida il legame. E il quarto? Trasforma l’occasionalità dei p…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/lamunt-abbigliamento-escursionismo-montagna-crew-urban-trekking-brescia-981127",
+        "pubDate": "2026-06-18T14:07:23+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/Urban-trekking-LaMunt-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Valoritalia 2026: Liantonio, Liberatore e Pantini leggono la crisi del vino italiano",
+        "description": "L’Annual Report Valoritalia 2026 fotografa un vino italiano in fase di contrazione, tra calo degli imbottigliamenti, consumi più deboli e mercati internazionali…",
+        "link": "https://www.winemag.it/valoritalia-2026-liantonio-liberatore-e-pantini-leggono-la-crisi-del-vino-italiano/",
+        "pubDate": "2026-06-18T13:12:09+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Il vino ha bisogno di una cabina di regia o si arriverà ad un punto di non ritorno”. L’allarme dell’Accademia vite e vino",
+        "description": "Il monito arriva dal workshop Geopolitics and wine tenuto a Roma. Il professor Gaeta chiede politiche di sostegno alla competitività per rilanciare la domanda…",
+        "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-proposte-accademia-vite-vino/",
+        "pubDate": "2026-06-18T13:10:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Valoritalia Annual Report 2026: vino italiano in calo, ecco chi cresce",
+        "description": "Il vino italiano entra in una fase di assestamento. Dopo la crescita post pandemica, il 2025 chiude con imbottigliamenti in calo del 2,1% sul 2024. Nei primi ci…",
+        "link": "https://www.winemag.it/valoritalia-annual-report-2026-vino-italiano-in-calo-ecco-chi-cresce/",
+        "pubDate": "2026-06-18T13:03:51+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Annalisa lascia tutti senza fiato con questo Look perfetto per l’estate: FOTO",
+        "description": "Annalisa anche in estate si conferma regina di tendenze con questo look perfetto per la stagione.…",
+        "link": "https://www.stylosophy.it/articolo/annalisa-lascia-tutti-senza-fiato-con-questo-look-perfetto-per-lestate-foto/251870/",
+        "pubDate": "2026-06-18T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "L’abito senza spalline è il capo che non può assolutamente mancare nel guardaroba estivo (parola di Angelina Jolie)",
+        "description": "Fluidi, leggeri, perfetti per la spiaggia così come per le ricorrenze speciali: gli abiti senza spalline sono uno dei grandi trend di quest’estate, confermandos…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/angelina-jolie-abito-senza-spalline-strapless-dress-nero-vestito-elegante-zara-da-cerimonia-980972",
+        "pubDate": "2026-06-18T12:59:13+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Abiti_senza_spalline.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Una bottiglia magnum di Trentodoc finisce in mostra a Palazzo Reale",
+        "description": "Dipinta con il solo uso delle dita, la bottiglia fa parte del percorso espositivo The Breach. Il muro rompe il silenzio dell'artista Paolo Troilo. Si potrà visi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/bottiglia-trentodoc-ferrari-mostra-paolo-troilo-palazzo-reale-milano/",
+        "pubDate": "2026-06-18T12:57:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Taranto ospita l’European Wine Summit: esperti e politici a confronto sul futuro del vino",
+        "description": "Organizzato dal Ceev, l'evento punta a trovare soluzioni condivise tra imprese e istituzioni per rafforzare il settore. Ecco il programma completo che vedrà la …",
+        "link": "https://www.gamberorosso.it/notizie/vino/european-wine-summit-ceev-programma-2026-taranto/",
+        "pubDate": "2026-06-18T12:54:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le penne lisce che nessuno voleva comprare sono meglio delle rigate? Abbiamo assaggiato le migliori",
+        "description": "Sono state il formato lasciato sugli scaffali durante il Covid, ma le penne lisce hanno una storia più antica delle rigate. Abbiamo assaggiato 16 campioni artig…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/penne-lisce-meglio-rigate-classifica/",
+        "pubDate": "2026-06-18T12:36:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "BOB FEST: perché anche quest’estate vale la pena andare in Calabria",
+        "description": "Torna il BOB FEST, uno degli eventi gastronomici più importanti e belli dell'anno, per tanti motivi. \nL'articolo BOB FEST: perché anche quest&#8217;estate vale …",
+        "link": "https://www.dissapore.com/notizie/bob-fest-perche-anche-questestate-vale-la-pena-andare-in-calabria/",
+        "pubDate": "2026-06-18T11:55:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/bob-fest.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Pull&Bear firma i sandali più belli e particolari dell’Estate 2026. Il terzo modello è il mio preferito!",
+        "description": "I sandali più trendy, ricercati e chic dell'Estate 2026 sono firmati Pull&#038;Bear, dei piccoli capolavori di stile da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/pullbear-firma-i-sandali-piu-belli-e-particolari-dellestate-2026/251740/",
+        "pubDate": "2026-06-18T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "I vini a bassa gradazione naturale vogliono l’indicazione in etichetta. Il pressing del Consorzio Doc Delle Venezie",
+        "description": "Il Consorzio chiede che anche per la tipologia ci sia la possibilità di distinguersi ed essere riconoscibile agli occhi dei consumatori, così come avviene per i…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-bassa-gradazione-naturale-indicazione-etichetta-proposta-consorzio-doc-delle-venezie/",
+        "pubDate": "2026-06-18T10:46:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Quando Milano diventa invivibile, molti scappano qui: una cascina nel verde a meno di un’ora dalla città",
         "description": "Nel Parco del Ticino, ad Abbiategrasso, Cascina La Morosina è uno degli indirizzi più amati da chi cerca una pausa dal caldo cittadino: cucina lombarda, birra p…",
@@ -39,7 +165,7 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Arriva il via libero europeo alle Tea: la rivoluzione che divide agricoltori e ambientalisti",
+        "title": "Arriva il via libera europeo alle Tea: la rivoluzione che divide agricoltori e ambientalisti",
         "description": "Esulta il mondo della ricerca per il nuovo regolamento sulle Tecniche di evoluzione assistita su cui l'Italia ha già avviato le sperimentazioni. \"Svolta storica…",
         "link": "https://www.gamberorosso.it/notizie/attualita/via-libera-regolamento-ue-tecniche-evoluzione-assistita/",
         "pubDate": "2026-06-18T09:45:32+00:00",
@@ -48,142 +174,52 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "I tre accordi commerciali siglati nel 2026 che potrebbero cambiare le sorti (e le rotte) del vino",
-        "description": "Si tratta di tre accordi molto diversi tra loro, così come diversi sono i tre mercati in questione, ma che aprono prospettive interessanti per le esportazioni v…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/accordi-commerciali-vino-2026-mercosur-messico-india/",
-        "pubDate": "2026-06-18T09:34:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Per secoli i marinai l’hanno bagnata nell’acqua di mare: la storia della frisella",
-        "description": "Oggi è il simbolo delle estati del Sud, ma per secoli la frisella è stata il pane dei navigatori. Si conservava per mesi, veniva trasportata appesa a una corda …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/frisella-storia-origine-buco-centro/",
-        "pubDate": "2026-06-18T09:08:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’abbinamento tra i gelati non esiste, ma dovrebbe",
-        "description": "Il gelato sta diventando un affare sempre più complesso dal punto di vista gustativo, e bisogna cominciare a gestirlo come tale.\nL'articolo L&#8217;abbinamento …",
-        "link": "https://www.dissapore.com/locali/labbinamento-tra-i-gelati-non-esiste-ma-dovrebbe/",
-        "pubDate": "2026-06-18T07:29:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/gelato-ottimo.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nelle cantine italiane ci sono quasi 50 mln di ettolitri di vino da smaltire. E manca poco alla vendemmia 2026",
-        "description": "Il livello degli stock è ancora alto e cresce del 5,4% a pochi mesi dalla raccolta, coi Consorzi impegnati ad applicare gli strumenti del Testo unico del vino p…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/giacenze-vino-cantina-italia-maggio-2026/",
-        "pubDate": "2026-06-18T07:03:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Grappa del Trentino IG: il futuro passa dalla qualità, tra mixology, turismo e mercati esteri",
-        "description": "L’Istituto Tutela Grappa del Trentino guarda ai cambiamenti del mercato degli spirits emersi durante l’80ª Assemblea Annuale di AssoDistil e individua nella qua…",
-        "link": "https://www.winemag.it/grappa-del-trentino-ig-il-futuro-passa-dalla-qualita-tra-mixology-turismo-e-mercati-esteri/",
-        "pubDate": "2026-06-18T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vallepicciola rinnova la governance: Gaia Cinnirella direttore generale e partnership rafforzata con la famiglia Balan",
-        "description": "Vallepicciola, cantina del Chianti Classico, avvia una nuova fase del proprio percorso aziendale con una riorganizzazione manageriale e il rafforzamento della c…",
-        "link": "https://www.winemag.it/vallepicciola-rinnova-la-governance-gaia-cinnirella-direttore-generale-e-partnership-rafforzata-con-la-famiglia-balan/",
-        "pubDate": "2026-06-18T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alla scoperta delle migliori pizzerie del Salento con The Great Pizza Tour",
-        "description": "Nella tappa di Lecce del The Great Pizza Tour sono state premiate le migliori pizzerie del territorio, scattando una fotografia di una scena in espansione e dal…",
-        "link": "https://www.dissapore.com/notizie/alla-scoperta-delle-migliori-pizzerie-del-salento-con-the-great-pizza-tour/",
-        "pubDate": "2026-06-17T16:14:51+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/great-pizza-salento-premi-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Paganico Sabino, un piccolo borgo del Lazio che domina il Lago del Turano",
-        "description": "Affacciato sul Lago del Turano e circondato dai boschi della Valle del Turano, Paganico Sabino conserva una storia antica e un'atmosfera autentica lontana dai c…",
-        "link": "https://www.stylosophy.it/articolo/paganico-sabino-un-piccolo-borgo-del-lazio-che-domina-il-lago-del-turano/251856/",
-        "pubDate": "2026-06-17T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Brunello Cucinelli sceglie Modica per raccontare l’estate 2026: il ritorno al lusso lento nel cuore del Mediterraneo",
-        "description": "In un momento in cui il lusso sembra sempre più legato alla velocità, alla visibilità e alle grandi capitali internazionali, Brunello Cucinelli sceglie una dire…",
-        "link": "https://www.grazia.it/moda/news-moda/brunello-cucinelli-modica-estate-2026-980842",
-        "pubDate": "2026-06-17T14:54:24+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/Modica-Brunello-Cucinelli-.png",
+        "title": "Coccinelle at Tommasi: il nuovo indirizzo dell’estate milanese",
+        "description": "Dal 15 giugno e per tutta la stagione, Coccinelle incontra Bar Tommasi per dare vita a un’esperienza immersiva che reinterpreta il concetto di estate urbana. Co…",
+        "link": "https://www.grazia.it/moda/news-moda/coccinelle-bar-tommasi-takeover-milano-estate-2026-980957",
+        "pubDate": "2026-06-18T09:43:12+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-3.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "A Torino sta partendo un boicottaggio del cioccolato Lindt",
-        "description": "La questione del gianduiotto IGP sta arrivando al cuore dei Torinesi, che iniziano ad averne abbastanza dell'opposizione di Lindt.\nL'articolo A Torino sta parte…",
-        "link": "https://www.dissapore.com/notizie/a-torino-sta-partendo-un-boicottaggio-del-cioccolato-lindt/",
-        "pubDate": "2026-06-17T14:14:02+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2016/10/7_Lindor-Lindt.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Kylie Jenner, il suo coordinato due pezzi è il must di stagione: pronte ad indossarlo?",
-        "description": "Kylie Jenner sfoggia il coordinato due pezzi perfetto per il mare e per questa stagione: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-il-suo-coordinato-due-pezzi-e-il-must-di-stagione-pronte-ad-indossarlo/251862/",
-        "pubDate": "2026-06-17T13:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "In mare aperto",
-        "description": "Una passione divorante. E poi, l’ossessione per l’eccellenza, la ricerca continua della perfezione e per il saper vivere. Sono questi gli elementi che animano i…",
-        "link": "https://www.grazia.it/moda/news-moda/in-mare-aperto-con-loro-piana-980768",
-        "pubDate": "2026-06-17T13:08:37+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/Loro-Piana.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Less is more: i costumi interi total black dell’Estate 2026 per chi ama l’eleganza",
-        "description": "I costumi interi neri si confermano il capo must have dell'Estate, un vero inno al glamour. Ecco i modelli più belli da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/less-is-more-i-costumi-interi-total-black-dellestate-2026-per-chi-ama-leleganza/251831/",
-        "pubDate": "2026-06-17T11:22:32+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Un patto con la ristorazione per rilanciare i consumi di vino. Dalla Convention Donne del vino arriva un’idea anti-crisi",
-        "description": "L’assessore all'Agricoltura dell'Emilia-Romagna propone di attivare un credito d'imposta per quei ristoranti che scelgono di mettere nella carta vini i prodotti…",
-        "link": "https://www.gamberorosso.it/notizie/vino/patto-ristorazione-vini-convention-donne-vino/",
-        "pubDate": "2026-06-17T11:18:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Accordo UE-USA: Federvini favorevole all’ok del Parlamento europeo sugli impegni tariffari",
-        "description": "Federvini accoglie con favore l’approvazione da parte della plenaria del Parlamento europeo dei due regolamenti che danno attuazione agli impegni tariffari assu…",
-        "link": "https://www.winemag.it/accordo-ue-usa-federvini-favorevole-allok-del-parlamento-europeo-sugli-impegni-tariffari/",
-        "pubDate": "2026-06-17T10:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Urban trekking alla scoperta di Brescia, in ottima compagnia con LaMunt",
+        "description": "Il primo incontro non si scorda mai; il secondo apre la strada ad altri appuntamenti. Il terzo consolida il legame. E il quarto? Trasforma l’occasionalità dei p…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/lamunt-abbigliamento-escursionismo-montagna-crew-urban-trekking-brescia-981127",
+        "pubDate": "2026-06-18T14:07:23+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/Urban-trekking-LaMunt-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Annalisa lascia tutti senza fiato con questo Look perfetto per l’estate: FOTO",
+        "description": "Annalisa anche in estate si conferma regina di tendenze con questo look perfetto per la stagione.…",
+        "link": "https://www.stylosophy.it/articolo/annalisa-lascia-tutti-senza-fiato-con-questo-look-perfetto-per-lestate-foto/251870/",
+        "pubDate": "2026-06-18T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "L’abito senza spalline è il capo che non può assolutamente mancare nel guardaroba estivo (parola di Angelina Jolie)",
+        "description": "Fluidi, leggeri, perfetti per la spiaggia così come per le ricorrenze speciali: gli abiti senza spalline sono uno dei grandi trend di quest’estate, confermandos…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/angelina-jolie-abito-senza-spalline-strapless-dress-nero-vestito-elegante-zara-da-cerimonia-980972",
+        "pubDate": "2026-06-18T12:59:13+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Abiti_senza_spalline.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Pull&Bear firma i sandali più belli e particolari dell’Estate 2026. Il terzo modello è il mio preferito!",
+        "description": "I sandali più trendy, ricercati e chic dell'Estate 2026 sono firmati Pull&#038;Bear, dei piccoli capolavori di stile da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/pullbear-firma-i-sandali-piu-belli-e-particolari-dellestate-2026/251740/",
+        "pubDate": "2026-06-18T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Il mascara marrone è il nuovo trend del momento, per uno sguardo deciso e femminile",
         "description": "Sensuale, femminile e super chic, il mascara marrone è il degno sostituto di quello nero. Per ciglia sensazionali!…",
@@ -192,6 +228,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Coccinelle at Tommasi: il nuovo indirizzo dell’estate milanese",
+        "description": "Dal 15 giugno e per tutta la stagione, Coccinelle incontra Bar Tommasi per dare vita a un’esperienza immersiva che reinterpreta il concetto di estate urbana. Co…",
+        "link": "https://www.grazia.it/moda/news-moda/coccinelle-bar-tommasi-takeover-milano-estate-2026-980957",
+        "pubDate": "2026-06-18T09:43:12+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-3.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Dimenticate i pantaloncini in jeans, gli shorts da indossare ora sono questi!",
+        "description": "Estate fa spesso rima con shorts e bermuda, ma quest&#8217;anno c&#8217;è un nuovo modello che ha già fatto breccia nei cuori delle amanti del genere. Parliamo …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloncini-balloon-shorts-trend-estate-2026-pantaloni-corti-a-palloncino-zara-hm-980482",
+        "pubDate": "2026-06-18T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/DESK-shorts-a-palloncino-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Paganico Sabino, un piccolo borgo del Lazio che domina il Lago del Turano",
@@ -302,24 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Come vestirsi per viaggiare? 8 inspo look comodi ma chic per i vostri viaggi",
-        "description": "L’estate è la stagione dei lunghi voli verso località paradisiache, dei viaggi on the road e delle tratte in treno alla scoperta delle città europee più affasci…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-per-viaggiare-8-inpso-look-comodi-ma-chic-per-i-vostri-viaggi-979994",
-        "pubDate": "2026-06-16T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_comfy_chic_IG.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Dondup debutta a San Siro con EROTICA: la prima visione collezione con Achille Lauro come Direttore Creativo",
-        "description": "Dondup EROTICA segna il debutto creativo Lauro De Marinis, in arte Achille Lauro, come direttore artistico del brand. La collezione è stata presentata con una s…",
-        "link": "https://www.grazia.it/moda/news-moda/dondup-erotica-achille-lauro-concerto-san-siro-980189",
-        "pubDate": "2026-06-16T12:10:32+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "H&M firma le borse più glam e low cost dell’Estate 2026 (l’ultima è un must da non perdere)",
         "description": "Trendy, glam e super chic, sono firmate H&#038;M le borse più gettonate dell'Estate 2026. Qui i modelli da non perdere assolutamente!…",
         "link": "https://www.stylosophy.it/articolo/hm-firma-le-borse-piu-glam-e-low-cost-dellestate-2026-lultima-e-un-must-da-non-perdere/251806/",
@@ -327,45 +363,99 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Tutte le Face mist più amate del momento per rinfrescare il viso in Estate",
-        "description": "Tra i prodotti beauty più amati dell'Estate 2026 spiccano le face mist, per un boost di freschezza e idratazione. Ecco le più valide del momento da non perdere.…",
-        "link": "https://www.stylosophy.it/articolo/tutte-le-face-mist-piu-amate-del-momento-per-rinfrescare-il-viso-in-estate/251795/",
-        "pubDate": "2026-06-16T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Questo capo cult amato da Sarah Jessica Parker negli anni Novanta è il pezzo jolly da sfoggiare questa estate",
-        "description": "È stato uno dei grandi must-have del guardaroba anni ’90, poi è diventato uno dei pezzi cult dello stile Y2K, adesso il top a fascia è tornato nelle collezioni …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/top-a-fascia-elegante-zara-donna-tezenis-pizzo-corto-celebrity-icone-di-stile-anni-90-sarah-jessica-parker-cameron-diaz-980162",
-        "pubDate": "2026-06-16T06:57:06+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Top_a_fascia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Portoscuso, uno splendido Borgo sardo tra mare e storia che in pochi conoscono",
-        "description": "Affacciato davanti all'Isola di San Pietro, Portoscuso unisce tradizioni marinare, testimonianze archeologiche e alcune delle spiagge più suggestive della costa…",
-        "link": "https://www.stylosophy.it/articolo/portoscuso-uno-splendido-borgo-sardo-tra-mare-e-storia/251750/",
-        "pubDate": "2026-06-15T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Costume intero: come abbinarlo con stile (e sfoggiarlo anche lontano dalla spiaggia)",
-        "description": "Concorderete con noi: niente urla “estate” più del costume da bagno. Sinonimo di vacanze, weekend fuori porta e giornate pieds dans l&#8217;eau, resta lui il re…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/costume-intero-come-abbinare-anche-in-citta-abbinamenti-outfit-estivi-979851",
-        "pubDate": "2026-06-15T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_costume_intero.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Perché le sottozone stanno diventando il nuovo punto di forza del vino italiano",
+        "description": "Mentre il mondo chiede semplificazione, i consorzi rispondono con un'ulteriore parcellizzazione del territorio sul modello Borgogna. Dall'Alto Adige al Chianti,…",
+        "link": "https://www.gamberorosso.it/notizie/vino/fenomeno-sottozone-vino-italiano-mappa-territori-chianti-marsala-alto-adige-nobile-etna/",
+        "pubDate": "2026-06-18T15:05:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel Monferrato c’è una famiglia che coltiva una delle migliori nocciole al mondo",
+        "description": "Nel noccioleto di Cascina Baronina nasce la nuova cru di Tonda Gentile Trilobata firmata Agrimontana: un progetto che unisce filiera corta, agronomia di precisi…",
+        "link": "https://www.gamberorosso.it/notizie/speciali/nocciola-agrimontana-monferrato/",
+        "pubDate": "2026-06-18T14:11:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Valoritalia 2026: Liantonio, Liberatore e Pantini leggono la crisi del vino italiano",
+        "description": "L’Annual Report Valoritalia 2026 fotografa un vino italiano in fase di contrazione, tra calo degli imbottigliamenti, consumi più deboli e mercati internazionali…",
+        "link": "https://www.winemag.it/valoritalia-2026-liantonio-liberatore-e-pantini-leggono-la-crisi-del-vino-italiano/",
+        "pubDate": "2026-06-18T13:12:09+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Il vino ha bisogno di una cabina di regia o si arriverà ad un punto di non ritorno”. L’allarme dell’Accademia vite e vino",
+        "description": "Il monito arriva dal workshop Geopolitics and wine tenuto a Roma. Il professor Gaeta chiede politiche di sostegno alla competitività per rilanciare la domanda…",
+        "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-proposte-accademia-vite-vino/",
+        "pubDate": "2026-06-18T13:10:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Valoritalia Annual Report 2026: vino italiano in calo, ecco chi cresce",
+        "description": "Il vino italiano entra in una fase di assestamento. Dopo la crescita post pandemica, il 2025 chiude con imbottigliamenti in calo del 2,1% sul 2024. Nei primi ci…",
+        "link": "https://www.winemag.it/valoritalia-annual-report-2026-vino-italiano-in-calo-ecco-chi-cresce/",
+        "pubDate": "2026-06-18T13:03:51+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Una bottiglia magnum di Trentodoc finisce in mostra a Palazzo Reale",
+        "description": "Dipinta con il solo uso delle dita, la bottiglia fa parte del percorso espositivo The Breach. Il muro rompe il silenzio dell'artista Paolo Troilo. Si potrà visi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/bottiglia-trentodoc-ferrari-mostra-paolo-troilo-palazzo-reale-milano/",
+        "pubDate": "2026-06-18T12:57:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Taranto ospita l’European Wine Summit: esperti e politici a confronto sul futuro del vino",
+        "description": "Organizzato dal Ceev, l'evento punta a trovare soluzioni condivise tra imprese e istituzioni per rafforzare il settore. Ecco il programma completo che vedrà la …",
+        "link": "https://www.gamberorosso.it/notizie/vino/european-wine-summit-ceev-programma-2026-taranto/",
+        "pubDate": "2026-06-18T12:54:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le penne lisce che nessuno voleva comprare sono meglio delle rigate? Abbiamo assaggiato le migliori",
+        "description": "Sono state il formato lasciato sugli scaffali durante il Covid, ma le penne lisce hanno una storia più antica delle rigate. Abbiamo assaggiato 16 campioni artig…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/penne-lisce-meglio-rigate-classifica/",
+        "pubDate": "2026-06-18T12:36:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "BOB FEST: perché anche quest’estate vale la pena andare in Calabria",
+        "description": "Torna il BOB FEST, uno degli eventi gastronomici più importanti e belli dell'anno, per tanti motivi. \nL'articolo BOB FEST: perché anche quest&#8217;estate vale …",
+        "link": "https://www.dissapore.com/notizie/bob-fest-perche-anche-questestate-vale-la-pena-andare-in-calabria/",
+        "pubDate": "2026-06-18T11:55:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/bob-fest.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "I vini a bassa gradazione naturale vogliono l’indicazione in etichetta. Il pressing del Consorzio Doc Delle Venezie",
+        "description": "Il Consorzio chiede che anche per la tipologia ci sia la possibilità di distinguersi ed essere riconoscibile agli occhi dei consumatori, così come avviene per i…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-bassa-gradazione-naturale-indicazione-etichetta-proposta-consorzio-doc-delle-venezie/",
+        "pubDate": "2026-06-18T10:46:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Quando Milano diventa invivibile, molti scappano qui: una cascina nel verde a meno di un’ora dalla città",
         "description": "Nel Parco del Ticino, ad Abbiategrasso, Cascina La Morosina è uno degli indirizzi più amati da chi cerca una pausa dal caldo cittadino: cucina lombarda, birra p…",
@@ -394,28 +484,10 @@
         "source": "Dissapore"
       },
       {
-        "title": "Arriva il via libero europeo alle Tea: la rivoluzione che divide agricoltori e ambientalisti",
+        "title": "Arriva il via libera europeo alle Tea: la rivoluzione che divide agricoltori e ambientalisti",
         "description": "Esulta il mondo della ricerca per il nuovo regolamento sulle Tecniche di evoluzione assistita su cui l'Italia ha già avviato le sperimentazioni. \"Svolta storica…",
         "link": "https://www.gamberorosso.it/notizie/attualita/via-libera-regolamento-ue-tecniche-evoluzione-assistita/",
         "pubDate": "2026-06-18T09:45:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I tre accordi commerciali siglati nel 2026 che potrebbero cambiare le sorti (e le rotte) del vino",
-        "description": "Si tratta di tre accordi molto diversi tra loro, così come diversi sono i tre mercati in questione, ma che aprono prospettive interessanti per le esportazioni v…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/accordi-commerciali-vino-2026-mercosur-messico-india/",
-        "pubDate": "2026-06-18T09:34:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Per secoli i marinai l’hanno bagnata nell’acqua di mare: la storia della frisella",
-        "description": "Oggi è il simbolo delle estati del Sud, ma per secoli la frisella è stata il pane dei navigatori. Si conservava per mesi, veniva trasportata appesa a una corda …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/frisella-storia-origine-buco-centro/",
-        "pubDate": "2026-06-18T09:08:12+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -428,15 +500,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/gelato-ottimo.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Nelle cantine italiane ci sono quasi 50 mln di ettolitri di vino da smaltire. E manca poco alla vendemmia 2026",
-        "description": "Il livello degli stock è ancora alto e cresce del 5,4% a pochi mesi dalla raccolta, coi Consorzi impegnati ad applicare gli strumenti del Testo unico del vino p…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/giacenze-vino-cantina-italia-maggio-2026/",
-        "pubDate": "2026-06-18T07:03:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Grappa del Trentino IG: il futuro passa dalla qualità, tra mixology, turismo e mercati esteri",
@@ -475,15 +538,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Un patto con la ristorazione per rilanciare i consumi di vino. Dalla Convention Donne del vino arriva un’idea anti-crisi",
-        "description": "L’assessore all'Agricoltura dell'Emilia-Romagna propone di attivare un credito d'imposta per quei ristoranti che scelgono di mettere nella carta vini i prodotti…",
-        "link": "https://www.gamberorosso.it/notizie/vino/patto-ristorazione-vini-convention-donne-vino/",
-        "pubDate": "2026-06-17T11:18:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Accordo UE-USA: Federvini favorevole all’ok del Parlamento europeo sugli impegni tariffari",
         "description": "Federvini accoglie con favore l’approvazione da parte della plenaria del Parlamento europeo dei due regolamenti che danno attuazione agli impegni tariffari assu…",
         "link": "https://www.winemag.it/accordo-ue-usa-federvini-favorevole-allok-del-parlamento-europeo-sugli-impegni-tariffari/",
@@ -491,60 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Spirits, consumi in calo del 10% in Italia. Export a 1,7 miliardi di euro, ma il 2025 segna una frenata",
-        "description": "Il settore delle bevande spiritose italiane si confronta con una fase complessa, segnata dal rallentamento dei consumi interni, dall&#8217;incertezza geopolitic…",
-        "link": "https://www.winemag.it/spirits-consumi-in-calo-del-10-in-italia-export-a-17-miliardi-di-euro-ma-il-2025-segna-una-frenata/",
-        "pubDate": "2026-06-17T10:26:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Per anni è stato un simbolo della cucina di mare. Oggi è illegale pescarlo",
-        "description": "Conosciuto come neonata, bianchetto o schiuma di mare, il novellame di sardine e acciughe è stato protagonista della cucina costiera italiana. Oggi la sua pesca…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/novellame-pesce-vietato-cose/",
-        "pubDate": "2026-06-17T09:57:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Giù i consumi di vino, giù gli imbottigliamenti. I dati tracciano la rotta per superare la crisi",
-        "description": "Dalla presentazione del report Valoritalia emergono il calo degli imbottigliati (-2,1% nel 2025) e il bisogno di aggregazione. Liantonio: \"Serve meno dispersion…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/imbottigiamento-vino-report-valoritalia-2026/",
-        "pubDate": "2026-06-17T09:56:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Famiglie Storiche e Antica Bottega del Vino: Luca Speri e Giacomo Boscaini alla guida delle due realtà veronesi",
-        "description": "Cambio ai vertici di Famiglie Storiche e di Antica Bottega del Vino. L’associazione che riunisce tredici tra le aziende più rappresentative della Valpolicella h…",
-        "link": "https://www.winemag.it/famiglie-storiche-e-antica-bottega-del-vino-luca-speri-e-giacomo-boscaini-alla-guida-delle-due-realta-veronesi/",
-        "pubDate": "2026-06-17T09:26:29+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“La dieta mediterranea? Una barzelletta”. Il biologo Silvestro Greco demolisce il mito che piace agli italiani",
-        "description": "Per il professore di Ecologia dell’Università di Pollenzo, il modello alimentare celebrato in tutto il mondo è ormai \"puro storytelling\". Dalle microplastiche c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/silvestro-greco-dieta-mediterranea-barzelletta/",
-        "pubDate": "2026-06-17T08:30:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pizza Hut è in vendita",
-        "description": "La storica catena di pizzerie è in difficoltà e la proprietà, già titolare di KFC e Taco Bell, decide di liberarsene.\nL'articolo Pizza Hut è in vendita proviene…",
-        "link": "https://www.dissapore.com/notizie/pizza-hut-e-in-vendita/",
-        "pubDate": "2026-06-17T08:26:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/shutterstock_2645225061-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
