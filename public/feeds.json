@@ -1,7 +1,34 @@
 {
-  "generated": "2026-06-18T15:26:00.782899+00:00",
+  "generated": "2026-06-18T20:26:11.079198+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Cantine Romagnoli è stata venduta: il nuovo proprietario è Compagnia delle Vigne",
+        "description": "Con questa operazione Compagnia del gusto holding, della famiglia Cosulich, rafforza la propria business unit vitivinicola. L'ad Nicoletto: \"L'identità dell'azi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cantine-romagnoli-vendita-compagnia-delle-vigne/",
+        "pubDate": "2026-06-18T16:16:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "5 Scarpiere IKEA che arredano casa con stile e costano pochissimo",
+        "description": "Chi l’ha detto che le scarpiere devono restare nascoste dietro una porta? IKEA ci sorprende con soluzioni così belle e pratiche che diventano protagoniste dell’…",
+        "link": "https://www.stylosophy.it/articolo/scarpiere-ikea-cosi-belle-che-non-vorrai-piu-nasconderle-e-costano-pochissimo/226541/",
+        "pubDate": "2026-06-18T16:05:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Cos’è e cosa fa Sepal, sponsor della classifica del gelato 2026 di Dissapore",
+        "description": "Chi sono e cosa fanno sono i \"sarti del gusto\" di Sepal Group, azienda storica nel settore del gelato oggi al fianco dell'avanguardia artigianale. \nL'articolo C…",
+        "link": "https://www.dissapore.com/locali/cose-e-cosa-fa-sepal-sponsor-della-classifica-del-gelato-di-dissapore/",
+        "pubDate": "2026-06-18T15:49:00+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/sepal-gelato.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Perché le sottozone stanno diventando il nuovo punto di forza del vino italiano",
         "description": "Mentre il mondo chiede semplificazione, i consorzi rispondono con un'ulteriore parcellizzazione del territorio sul modello Borgogna. Dall'Alto Adige al Chianti,…",
@@ -154,36 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2022/09/Sanpellegrino_Bottle-1-1.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Il mascara marrone è il nuovo trend del momento, per uno sguardo deciso e femminile",
-        "description": "Sensuale, femminile e super chic, il mascara marrone è il degno sostituto di quello nero. Per ciglia sensazionali!…",
-        "link": "https://www.stylosophy.it/articolo/il-mascara-marrone-e-il-nuovo-trend-del-momento-per-uno-sguardo-deciso-e-femminile/251874/",
-        "pubDate": "2026-06-18T09:54:02+00:00",
+        "title": "5 Scarpiere IKEA che arredano casa con stile e costano pochissimo",
+        "description": "Chi l’ha detto che le scarpiere devono restare nascoste dietro una porta? IKEA ci sorprende con soluzioni così belle e pratiche che diventano protagoniste dell’…",
+        "link": "https://www.stylosophy.it/articolo/scarpiere-ikea-cosi-belle-che-non-vorrai-piu-nasconderle-e-costano-pochissimo/226541/",
+        "pubDate": "2026-06-18T16:05:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Arriva il via libera europeo alle Tea: la rivoluzione che divide agricoltori e ambientalisti",
-        "description": "Esulta il mondo della ricerca per il nuovo regolamento sulle Tecniche di evoluzione assistita su cui l'Italia ha già avviato le sperimentazioni. \"Svolta storica…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/via-libera-regolamento-ue-tecniche-evoluzione-assistita/",
-        "pubDate": "2026-06-18T09:45:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Coccinelle at Tommasi: il nuovo indirizzo dell’estate milanese",
-        "description": "Dal 15 giugno e per tutta la stagione, Coccinelle incontra Bar Tommasi per dare vita a un’esperienza immersiva che reinterpreta il concetto di estate urbana. Co…",
-        "link": "https://www.grazia.it/moda/news-moda/coccinelle-bar-tommasi-takeover-milano-estate-2026-980957",
-        "pubDate": "2026-06-18T09:43:12+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Urban trekking alla scoperta di Brescia, in ottima compagnia con LaMunt",
         "description": "Il primo incontro non si scorda mai; il secondo apre la strada ad altri appuntamenti. Il terzo consolida il legame. E il quarto? Trasforma l’occasionalità dei p…",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "H&M firma le borse più glam e low cost dell’Estate 2026 (l’ultima è un must da non perdere)",
-        "description": "Trendy, glam e super chic, sono firmate H&#038;M le borse più gettonate dell'Estate 2026. Qui i modelli da non perdere assolutamente!…",
-        "link": "https://www.stylosophy.it/articolo/hm-firma-le-borse-piu-glam-e-low-cost-dellestate-2026-lultima-e-un-must-da-non-perdere/251806/",
-        "pubDate": "2026-06-16T11:32:26+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Cantine Romagnoli è stata venduta: il nuovo proprietario è Compagnia delle Vigne",
+        "description": "Con questa operazione Compagnia del gusto holding, della famiglia Cosulich, rafforza la propria business unit vitivinicola. L'ad Nicoletto: \"L'identità dell'azi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cantine-romagnoli-vendita-compagnia-delle-vigne/",
+        "pubDate": "2026-06-18T16:16:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cos’è e cosa fa Sepal, sponsor della classifica del gelato 2026 di Dissapore",
+        "description": "Chi sono e cosa fanno sono i \"sarti del gusto\" di Sepal Group, azienda storica nel settore del gelato oggi al fianco dell'avanguardia artigianale. \nL'articolo C…",
+        "link": "https://www.dissapore.com/locali/cose-e-cosa-fa-sepal-sponsor-della-classifica-del-gelato-di-dissapore/",
+        "pubDate": "2026-06-18T15:49:00+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/sepal-gelato.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Perché le sottozone stanno diventando il nuovo punto di forza del vino italiano",
         "description": "Mentre il mondo chiede semplificazione, i consorzi rispondono con un'ulteriore parcellizzazione del territorio sul modello Borgogna. Dall'Alto Adige al Chianti,…",
@@ -484,15 +502,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Arriva il via libera europeo alle Tea: la rivoluzione che divide agricoltori e ambientalisti",
-        "description": "Esulta il mondo della ricerca per il nuovo regolamento sulle Tecniche di evoluzione assistita su cui l'Italia ha già avviato le sperimentazioni. \"Svolta storica…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/via-libera-regolamento-ue-tecniche-evoluzione-assistita/",
-        "pubDate": "2026-06-18T09:45:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "L’abbinamento tra i gelati non esiste, ma dovrebbe",
         "description": "Il gelato sta diventando un affare sempre più complesso dal punto di vista gustativo, e bisogna cominciare a gestirlo come tale.\nL'articolo L&#8217;abbinamento …",
         "link": "https://www.dissapore.com/locali/labbinamento-tra-i-gelati-non-esiste-ma-dovrebbe/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2016/10/7_Lindor-Lindt.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Accordo UE-USA: Federvini favorevole all’ok del Parlamento europeo sugli impegni tariffari",
-        "description": "Federvini accoglie con favore l’approvazione da parte della plenaria del Parlamento europeo dei due regolamenti che danno attuazione agli impegni tariffari assu…",
-        "link": "https://www.winemag.it/accordo-ue-usa-federvini-favorevole-allok-del-parlamento-europeo-sugli-impegni-tariffari/",
-        "pubDate": "2026-06-17T10:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
