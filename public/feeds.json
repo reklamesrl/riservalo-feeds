@@ -1,7 +1,115 @@
 {
-  "generated": "2026-06-18T20:26:11.079198+00:00",
+  "generated": "2026-06-19T10:26:44.540268+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "C’è una nuova cantina a Salina: il vignaiolo simbolo dell’isola inaugura la casa della Malvasia",
+        "description": "Quella di Nino Caravaglio è una storia di mare, migrazione e accoglienza che sembra ripetersi a distanza di secoli lungo le rotte del Mediterraneo. Il nuovo pro…",
+        "link": "https://www.gamberorosso.it/notizie/vino/nuova-cantina-salina-nino-caravaglio/",
+        "pubDate": "2026-06-19T10:12:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le NGT sono state approvate dal Parlamento Europeo, Slow Food non è d’accordo",
+        "description": "L'iter della normativa sui cosiddetti \"nuovi OGM\" è stata approvata dal Parlamento Europeo in seduta plenaria. Slow Food ha qualcosa da dire a riguardo.\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/le-ngt-sono-state-approvate-dal-parlamento-europeo-slow-food-non-e-daccordo/",
+        "pubDate": "2026-06-19T10:05:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/06/campo-di-riso-siccita-scaled-e1717248183597.jpeg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Gambero Rosso presenta le nuove guide digitali",
+        "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
+        "pubDate": "2026-06-19T10:00:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I Profumi al pistacchio più dolci e avvolgenti dell’Estate 2026 da mettere subito in wishlist",
+        "description": "Dolci, chic e gourmand, i profumi al pistacchio sono il trend dell'Estate! Ecco i più validi da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/i-profumi-al-pistacchio-piu-dolci-e-avvolgenti-dellestate-2026-da-mettere-subito-in-wishlist/251921/",
+        "pubDate": "2026-06-19T09:30:29+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Le 14 migliori gelaterie della Campania nel 2026",
+        "description": "Le migliori gelaterie da provare in Campania, da Atripalda a Sapri, nel 2026. Carapine rigorosamente artigianali, testate e promosse da Dissapore. \nL'articolo L…",
+        "link": "https://www.dissapore.com/locali/le-14-migliori-gelaterie-della-campania-nel-2026/",
+        "pubDate": "2026-06-19T08:42:56+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/the-rag-atripalda.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Serprino Festival 2026, fino al 6 luglio vino, cultura e territorio nei Colli Euganei",
+        "description": "Torna l’appuntamento con il Serprino Festival, la rassegna dedicata al Serprino DOC, il vino frizzante autoctono dei Colli Euganei. Fino al 6 luglio il territor…",
+        "link": "https://www.winemag.it/serprino-festival-2026-fino-al-6-luglio-vino-cultura-e-territorio-nei-colli-euganei/",
+        "pubDate": "2026-06-19T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Bortolomiol celebra 60 vendemmie di Prior, il primo Prosecco Brut nato a Valdobbiadene",
+        "description": "Sessant’anni fa produrre un Prosecco Brut a Valdobbiadene rappresentava una scelta in netta controtendenza rispetto agli standard del mercato. In un contesto in…",
+        "link": "https://www.winemag.it/bortolomiol-celebra-60-vendemmie-di-prior-il-primo-prosecco-brut-nato-a-valdobbiadene/",
+        "pubDate": "2026-06-19T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Separare trattorie e ristoranti è populismo”. Lo chef Marco Ambrosino spiega perché",
+        "description": "Lo chef procidano, uno dei protagonisti dell'evento Rotte Mediterranee, organizzato dal Gambero Rosso, riflette su identità, meticciato e futuro della gastronom…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/marco-ambrosino-cucina-italiana-zavorra/",
+        "pubDate": "2026-06-19T05:23:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Buona Questa Birra: la Puglia protagonista del progetto Unionbirrai per i 30 anni della birra artigianale italiana",
+        "description": "La Puglia sarà tra le protagoniste di “Buona Questa Birra”, il progetto promosso da Unionbirrai per celebrare i trent’anni del movimento della birra artigianale…",
+        "link": "https://www.winemag.it/buona-questa-birra-la-puglia-protagonista-del-progetto-unionbirrai-per-i-30-anni-della-birra-artigianale-italiana/",
+        "pubDate": "2026-06-19T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "A Roma c’è un bar dove tutti facevano la fila. Adesso è cambiato tutto",
+        "description": "Dopo 17 anni Barnum, una delle caffetterie più amate del centro storico, lascia la storica sede di via del Pellegrino e riapre in uno spazio più grande, luminos…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/barnum-roma-cambia-sede/",
+        "pubDate": "2026-06-19T04:23:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Arnaldo Caprai premiata da UNHCR per il quarto anno consecutivo per l’inclusione lavorativa dei rifugiati",
+        "description": "L’Azienda agricola Arnaldo Caprai di Montefalco, in provincia di Perugia, è tra le 230 realtà premiate nell’ottava edizione del Premio “Welcome. Working for Ref…",
+        "link": "https://www.winemag.it/arnaldo-caprai-premiata-da-unhcr-per-il-quarto-anno-consecutivo-per-linclusione-lavorativa-dei-rifugiati/",
+        "pubDate": "2026-06-18T21:39:55+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Tappo a vite, Gli Svitati parlano ancora al pubblico sbagliato",
+        "description": "A tre anni dall’editoriale in cui scrivevo che il futuro dello Stelvin non è in mano ai vignaioli, ma ai grandi gruppi del vino e alla Gdo, Gli Svitati sembrano…",
+        "link": "https://www.winemag.it/tappo-a-vite-gli-svitati-parlano-ancora-al-pubblico-sbagliato/",
+        "pubDate": "2026-06-18T21:38:14+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Tappo-a-vite-Gli-Svitati-parlano-ancora-al-pubblico-sbagliato-2-660x365.png",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Cantine Romagnoli è stata venduta: il nuovo proprietario è Compagnia delle Vigne",
         "description": "Con questa operazione Compagnia del gusto holding, della famiglia Cosulich, rafforza la propria business unit vitivinicola. L'ad Nicoletto: \"L'identità dell'azi…",
@@ -73,117 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Valoritalia Annual Report 2026: vino italiano in calo, ecco chi cresce",
-        "description": "Il vino italiano entra in una fase di assestamento. Dopo la crescita post pandemica, il 2025 chiude con imbottigliamenti in calo del 2,1% sul 2024. Nei primi ci…",
-        "link": "https://www.winemag.it/valoritalia-annual-report-2026-vino-italiano-in-calo-ecco-chi-cresce/",
-        "pubDate": "2026-06-18T13:03:51+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Annalisa lascia tutti senza fiato con questo Look perfetto per l’estate: FOTO",
-        "description": "Annalisa anche in estate si conferma regina di tendenze con questo look perfetto per la stagione.…",
-        "link": "https://www.stylosophy.it/articolo/annalisa-lascia-tutti-senza-fiato-con-questo-look-perfetto-per-lestate-foto/251870/",
-        "pubDate": "2026-06-18T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "L’abito senza spalline è il capo che non può assolutamente mancare nel guardaroba estivo (parola di Angelina Jolie)",
-        "description": "Fluidi, leggeri, perfetti per la spiaggia così come per le ricorrenze speciali: gli abiti senza spalline sono uno dei grandi trend di quest’estate, confermandos…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/angelina-jolie-abito-senza-spalline-strapless-dress-nero-vestito-elegante-zara-da-cerimonia-980972",
-        "pubDate": "2026-06-18T12:59:13+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Abiti_senza_spalline.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Una bottiglia magnum di Trentodoc finisce in mostra a Palazzo Reale",
-        "description": "Dipinta con il solo uso delle dita, la bottiglia fa parte del percorso espositivo The Breach. Il muro rompe il silenzio dell'artista Paolo Troilo. Si potrà visi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/bottiglia-trentodoc-ferrari-mostra-paolo-troilo-palazzo-reale-milano/",
-        "pubDate": "2026-06-18T12:57:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Taranto ospita l’European Wine Summit: esperti e politici a confronto sul futuro del vino",
-        "description": "Organizzato dal Ceev, l'evento punta a trovare soluzioni condivise tra imprese e istituzioni per rafforzare il settore. Ecco il programma completo che vedrà la …",
-        "link": "https://www.gamberorosso.it/notizie/vino/european-wine-summit-ceev-programma-2026-taranto/",
-        "pubDate": "2026-06-18T12:54:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le penne lisce che nessuno voleva comprare sono meglio delle rigate? Abbiamo assaggiato le migliori",
-        "description": "Sono state il formato lasciato sugli scaffali durante il Covid, ma le penne lisce hanno una storia più antica delle rigate. Abbiamo assaggiato 16 campioni artig…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/penne-lisce-meglio-rigate-classifica/",
-        "pubDate": "2026-06-18T12:36:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "BOB FEST: perché anche quest’estate vale la pena andare in Calabria",
-        "description": "Torna il BOB FEST, uno degli eventi gastronomici più importanti e belli dell'anno, per tanti motivi. \nL'articolo BOB FEST: perché anche quest&#8217;estate vale …",
-        "link": "https://www.dissapore.com/notizie/bob-fest-perche-anche-questestate-vale-la-pena-andare-in-calabria/",
-        "pubDate": "2026-06-18T11:55:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/bob-fest.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pull&Bear firma i sandali più belli e particolari dell’Estate 2026. Il terzo modello è il mio preferito!",
-        "description": "I sandali più trendy, ricercati e chic dell'Estate 2026 sono firmati Pull&#038;Bear, dei piccoli capolavori di stile da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/pullbear-firma-i-sandali-piu-belli-e-particolari-dellestate-2026/251740/",
-        "pubDate": "2026-06-18T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I vini a bassa gradazione naturale vogliono l’indicazione in etichetta. Il pressing del Consorzio Doc Delle Venezie",
-        "description": "Il Consorzio chiede che anche per la tipologia ci sia la possibilità di distinguersi ed essere riconoscibile agli occhi dei consumatori, così come avviene per i…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vini-bassa-gradazione-naturale-indicazione-etichetta-proposta-consorzio-doc-delle-venezie/",
-        "pubDate": "2026-06-18T10:46:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quando Milano diventa invivibile, molti scappano qui: una cascina nel verde a meno di un’ora dalla città",
-        "description": "Nel Parco del Ticino, ad Abbiategrasso, Cascina La Morosina è uno degli indirizzi più amati da chi cerca una pausa dal caldo cittadino: cucina lombarda, birra p…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/cascina-la-morosina-dove-mangiare-nel-verde-vicino-milano/",
-        "pubDate": "2026-06-18T10:13:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un fondo anti-crisi per il vino: nasce un nuovo strumento per aiutare i viticoltori",
-        "description": "Il nuovo strumento si chiama \"Ist uva\" ed è un fondo di stabilizzazione del reddito che prevede dei sostegni comunitari fino al 70%. A fare da apripista è il Tr…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/fondo-anti-crisi-vino-ist-uva-trentino/",
-        "pubDate": "2026-06-18T10:04:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo gli scandali, Nestlé vuole vendere il comparto acque",
-        "description": "Dopo le recenti perquisizioni nei laboratori e accuse di scarichi illegali, Nestlé vorrebbe liberarsi del suo settore acque, che include marchi importanti come …",
-        "link": "https://www.dissapore.com/notizie/dopo-gli-scandali-nestle-vuole-vendere-il-comparto-acque/",
-        "pubDate": "2026-06-18T10:01:53+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/09/Sanpellegrino_Bottle-1-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "I Profumi al pistacchio più dolci e avvolgenti dell’Estate 2026 da mettere subito in wishlist",
+        "description": "Dolci, chic e gourmand, i profumi al pistacchio sono il trend dell'Estate! Ecco i più validi da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/i-profumi-al-pistacchio-piu-dolci-e-avvolgenti-dellestate-2026-da-mettere-subito-in-wishlist/251921/",
+        "pubDate": "2026-06-19T09:30:29+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "5 Scarpiere IKEA che arredano casa con stile e costano pochissimo",
         "description": "Chi l’ha detto che le scarpiere devono restare nascoste dietro una porta? IKEA ci sorprende con soluzioni così belle e pratiche che diventano protagoniste dell’…",
@@ -354,18 +363,108 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/ok-1-Leni.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Chiara Ferragni, anche in estate si conferma regina di tendenze con il bikini must have di stagione",
-        "description": "Chiara Ferragni sfoggia il bikini must have di stagione: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-anche-in-estate-si-conferma-regina-di-tendenze-con-il-bikini-must-have-di-stagione/251817/",
-        "pubDate": "2026-06-16T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "C’è una nuova cantina a Salina: il vignaiolo simbolo dell’isola inaugura la casa della Malvasia",
+        "description": "Quella di Nino Caravaglio è una storia di mare, migrazione e accoglienza che sembra ripetersi a distanza di secoli lungo le rotte del Mediterraneo. Il nuovo pro…",
+        "link": "https://www.gamberorosso.it/notizie/vino/nuova-cantina-salina-nino-caravaglio/",
+        "pubDate": "2026-06-19T10:12:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le NGT sono state approvate dal Parlamento Europeo, Slow Food non è d’accordo",
+        "description": "L'iter della normativa sui cosiddetti \"nuovi OGM\" è stata approvata dal Parlamento Europeo in seduta plenaria. Slow Food ha qualcosa da dire a riguardo.\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/le-ngt-sono-state-approvate-dal-parlamento-europeo-slow-food-non-e-daccordo/",
+        "pubDate": "2026-06-19T10:05:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/06/campo-di-riso-siccita-scaled-e1717248183597.jpeg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il Gambero Rosso presenta le nuove guide digitali",
+        "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
+        "pubDate": "2026-06-19T10:00:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le 14 migliori gelaterie della Campania nel 2026",
+        "description": "Le migliori gelaterie da provare in Campania, da Atripalda a Sapri, nel 2026. Carapine rigorosamente artigianali, testate e promosse da Dissapore. \nL'articolo L…",
+        "link": "https://www.dissapore.com/locali/le-14-migliori-gelaterie-della-campania-nel-2026/",
+        "pubDate": "2026-06-19T08:42:56+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/the-rag-atripalda.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Serprino Festival 2026, fino al 6 luglio vino, cultura e territorio nei Colli Euganei",
+        "description": "Torna l’appuntamento con il Serprino Festival, la rassegna dedicata al Serprino DOC, il vino frizzante autoctono dei Colli Euganei. Fino al 6 luglio il territor…",
+        "link": "https://www.winemag.it/serprino-festival-2026-fino-al-6-luglio-vino-cultura-e-territorio-nei-colli-euganei/",
+        "pubDate": "2026-06-19T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Bortolomiol celebra 60 vendemmie di Prior, il primo Prosecco Brut nato a Valdobbiadene",
+        "description": "Sessant’anni fa produrre un Prosecco Brut a Valdobbiadene rappresentava una scelta in netta controtendenza rispetto agli standard del mercato. In un contesto in…",
+        "link": "https://www.winemag.it/bortolomiol-celebra-60-vendemmie-di-prior-il-primo-prosecco-brut-nato-a-valdobbiadene/",
+        "pubDate": "2026-06-19T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Separare trattorie e ristoranti è populismo”. Lo chef Marco Ambrosino spiega perché",
+        "description": "Lo chef procidano, uno dei protagonisti dell'evento Rotte Mediterranee, organizzato dal Gambero Rosso, riflette su identità, meticciato e futuro della gastronom…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/marco-ambrosino-cucina-italiana-zavorra/",
+        "pubDate": "2026-06-19T05:23:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Buona Questa Birra: la Puglia protagonista del progetto Unionbirrai per i 30 anni della birra artigianale italiana",
+        "description": "La Puglia sarà tra le protagoniste di “Buona Questa Birra”, il progetto promosso da Unionbirrai per celebrare i trent’anni del movimento della birra artigianale…",
+        "link": "https://www.winemag.it/buona-questa-birra-la-puglia-protagonista-del-progetto-unionbirrai-per-i-30-anni-della-birra-artigianale-italiana/",
+        "pubDate": "2026-06-19T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "A Roma c’è un bar dove tutti facevano la fila. Adesso è cambiato tutto",
+        "description": "Dopo 17 anni Barnum, una delle caffetterie più amate del centro storico, lascia la storica sede di via del Pellegrino e riapre in uno spazio più grande, luminos…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/barnum-roma-cambia-sede/",
+        "pubDate": "2026-06-19T04:23:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Arnaldo Caprai premiata da UNHCR per il quarto anno consecutivo per l’inclusione lavorativa dei rifugiati",
+        "description": "L’Azienda agricola Arnaldo Caprai di Montefalco, in provincia di Perugia, è tra le 230 realtà premiate nell’ottava edizione del Premio “Welcome. Working for Ref…",
+        "link": "https://www.winemag.it/arnaldo-caprai-premiata-da-unhcr-per-il-quarto-anno-consecutivo-per-linclusione-lavorativa-dei-rifugiati/",
+        "pubDate": "2026-06-18T21:39:55+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Tappo a vite, Gli Svitati parlano ancora al pubblico sbagliato",
+        "description": "A tre anni dall’editoriale in cui scrivevo che il futuro dello Stelvin non è in mano ai vignaioli, ma ai grandi gruppi del vino e alla Gdo, Gli Svitati sembrano…",
+        "link": "https://www.winemag.it/tappo-a-vite-gli-svitati-parlano-ancora-al-pubblico-sbagliato/",
+        "pubDate": "2026-06-18T21:38:14+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Tappo-a-vite-Gli-Svitati-parlano-ancora-al-pubblico-sbagliato-2-660x365.png",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Cantine Romagnoli è stata venduta: il nuovo proprietario è Compagnia delle Vigne",
         "description": "Con questa operazione Compagnia del gusto holding, della famiglia Cosulich, rafforza la propria business unit vitivinicola. L'ad Nicoletto: \"L'identità dell'azi…",
@@ -446,105 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le penne lisce che nessuno voleva comprare sono meglio delle rigate? Abbiamo assaggiato le migliori",
-        "description": "Sono state il formato lasciato sugli scaffali durante il Covid, ma le penne lisce hanno una storia più antica delle rigate. Abbiamo assaggiato 16 campioni artig…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/penne-lisce-meglio-rigate-classifica/",
-        "pubDate": "2026-06-18T12:36:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "BOB FEST: perché anche quest’estate vale la pena andare in Calabria",
-        "description": "Torna il BOB FEST, uno degli eventi gastronomici più importanti e belli dell'anno, per tanti motivi. \nL'articolo BOB FEST: perché anche quest&#8217;estate vale …",
-        "link": "https://www.dissapore.com/notizie/bob-fest-perche-anche-questestate-vale-la-pena-andare-in-calabria/",
-        "pubDate": "2026-06-18T11:55:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/bob-fest.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I vini a bassa gradazione naturale vogliono l’indicazione in etichetta. Il pressing del Consorzio Doc Delle Venezie",
-        "description": "Il Consorzio chiede che anche per la tipologia ci sia la possibilità di distinguersi ed essere riconoscibile agli occhi dei consumatori, così come avviene per i…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vini-bassa-gradazione-naturale-indicazione-etichetta-proposta-consorzio-doc-delle-venezie/",
-        "pubDate": "2026-06-18T10:46:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quando Milano diventa invivibile, molti scappano qui: una cascina nel verde a meno di un’ora dalla città",
-        "description": "Nel Parco del Ticino, ad Abbiategrasso, Cascina La Morosina è uno degli indirizzi più amati da chi cerca una pausa dal caldo cittadino: cucina lombarda, birra p…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/cascina-la-morosina-dove-mangiare-nel-verde-vicino-milano/",
-        "pubDate": "2026-06-18T10:13:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un fondo anti-crisi per il vino: nasce un nuovo strumento per aiutare i viticoltori",
-        "description": "Il nuovo strumento si chiama \"Ist uva\" ed è un fondo di stabilizzazione del reddito che prevede dei sostegni comunitari fino al 70%. A fare da apripista è il Tr…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/fondo-anti-crisi-vino-ist-uva-trentino/",
-        "pubDate": "2026-06-18T10:04:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo gli scandali, Nestlé vuole vendere il comparto acque",
-        "description": "Dopo le recenti perquisizioni nei laboratori e accuse di scarichi illegali, Nestlé vorrebbe liberarsi del suo settore acque, che include marchi importanti come …",
-        "link": "https://www.dissapore.com/notizie/dopo-gli-scandali-nestle-vuole-vendere-il-comparto-acque/",
-        "pubDate": "2026-06-18T10:01:53+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/09/Sanpellegrino_Bottle-1-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’abbinamento tra i gelati non esiste, ma dovrebbe",
-        "description": "Il gelato sta diventando un affare sempre più complesso dal punto di vista gustativo, e bisogna cominciare a gestirlo come tale.\nL'articolo L&#8217;abbinamento …",
-        "link": "https://www.dissapore.com/locali/labbinamento-tra-i-gelati-non-esiste-ma-dovrebbe/",
-        "pubDate": "2026-06-18T07:29:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/gelato-ottimo.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Grappa del Trentino IG: il futuro passa dalla qualità, tra mixology, turismo e mercati esteri",
-        "description": "L’Istituto Tutela Grappa del Trentino guarda ai cambiamenti del mercato degli spirits emersi durante l’80ª Assemblea Annuale di AssoDistil e individua nella qua…",
-        "link": "https://www.winemag.it/grappa-del-trentino-ig-il-futuro-passa-dalla-qualita-tra-mixology-turismo-e-mercati-esteri/",
-        "pubDate": "2026-06-18T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vallepicciola rinnova la governance: Gaia Cinnirella direttore generale e partnership rafforzata con la famiglia Balan",
-        "description": "Vallepicciola, cantina del Chianti Classico, avvia una nuova fase del proprio percorso aziendale con una riorganizzazione manageriale e il rafforzamento della c…",
-        "link": "https://www.winemag.it/vallepicciola-rinnova-la-governance-gaia-cinnirella-direttore-generale-e-partnership-rafforzata-con-la-famiglia-balan/",
-        "pubDate": "2026-06-18T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alla scoperta delle migliori pizzerie del Salento con The Great Pizza Tour",
-        "description": "Nella tappa di Lecce del The Great Pizza Tour sono state premiate le migliori pizzerie del territorio, scattando una fotografia di una scena in espansione e dal…",
-        "link": "https://www.dissapore.com/notizie/alla-scoperta-delle-migliori-pizzerie-del-salento-con-the-great-pizza-tour/",
-        "pubDate": "2026-06-17T16:14:51+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/great-pizza-salento-premi-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Torino sta partendo un boicottaggio del cioccolato Lindt",
-        "description": "La questione del gianduiotto IGP sta arrivando al cuore dei Torinesi, che iniziano ad averne abbastanza dell'opposizione di Lindt.\nL'articolo A Torino sta parte…",
-        "link": "https://www.dissapore.com/notizie/a-torino-sta-partendo-un-boicottaggio-del-cioccolato-lindt/",
-        "pubDate": "2026-06-17T14:14:02+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2016/10/7_Lindor-Lindt.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
