@@ -1,7 +1,25 @@
 {
-  "generated": "2026-06-19T15:19:10.012883+00:00",
+  "generated": "2026-06-19T19:49:56.282755+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Le spiagge più belle del Molise: guida completa tra mare cristallino e borghi costieri",
+        "description": "Dalla vivace Termoli alle spiagge più tranquille di Petacciato e Campomarino, un viaggio lungo la costa molisana alla scoperta dei migliori arenili della region…",
+        "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-del-molise-guida-completa/251935/",
+        "pubDate": "2026-06-19T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "A Napoli il Gambero Rosso lancia le nuove guide digitali",
+        "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
+        "pubDate": "2026-06-19T15:00:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Settimana di Fashion Pills tra collaborazioni che funzionano, nuovi volti da tenere d’occhio, arte da indossare e collezioni che profumano di sale, sole e liber…",
@@ -138,15 +156,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "A Napoli il Gambero Rosso lancia le nuove guide digitali",
-        "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
-        "pubDate": "2026-06-19T10:00:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "I Profumi al pistacchio più dolci e avvolgenti dell’Estate 2026 da mettere subito in wishlist",
         "description": "Dolci, chic e gourmand, i profumi al pistacchio sono il trend dell'Estate! Ecco i più validi da non perdere...…",
         "link": "https://www.stylosophy.it/articolo/i-profumi-al-pistacchio-piu-dolci-e-avvolgenti-dellestate-2026-da-mettere-subito-in-wishlist/251921/",
@@ -172,18 +181,18 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
-        "description": "Diciamoci la verità: ci sono settimane in cui l&#8217;unica cosa che può svoltare la giornata è un po&#8217; di sano shopping per così dire &#8220;terapeutico&#…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-consigli-acquisti-shopping-online-vestiti-borse-scarpe-estate-2026-981183",
-        "pubDate": "2026-06-19T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_love_first_sight_18_giugno.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Le spiagge più belle del Molise: guida completa tra mare cristallino e borghi costieri",
+        "description": "Dalla vivace Termoli alle spiagge più tranquille di Petacciato e Campomarino, un viaggio lungo la costa molisana alla scoperta dei migliori arenili della region…",
+        "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-del-molise-guida-completa/251935/",
+        "pubDate": "2026-06-19T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Settimana di Fashion Pills tra collaborazioni che funzionano, nuovi volti da tenere d’occhio, arte da indossare e collezioni che profumano di sale, sole e liber…",
@@ -354,18 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/Loro-Piana.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Less is more: i costumi interi total black dell’Estate 2026 per chi ama l’eleganza",
-        "description": "I costumi interi neri si confermano il capo must have dell'Estate, un vero inno al glamour. Ecco i modelli più belli da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/less-is-more-i-costumi-interi-total-black-dellestate-2026-per-chi-ama-leleganza/251831/",
-        "pubDate": "2026-06-17T11:22:32+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "A Napoli il Gambero Rosso lancia le nuove guide digitali",
+        "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
+        "pubDate": "2026-06-19T15:00:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Pochi giorni fa hanno subito un furto devastante. Oggi questa gelateria è tra le migliori d’Italia",
         "description": "La storica gelateria Santo Musumeci di Randazzo, sulle pendici dell’Etna, conquista uno dei riconoscimenti più prestigiosi del Gambero Rosso pochi giorni dopo i…",
@@ -455,15 +464,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/06/campo-di-riso-siccita-scaled-e1717248183597.jpeg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "A Napoli il Gambero Rosso lancia le nuove guide digitali",
-        "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
-        "pubDate": "2026-06-19T10:00:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Le 14 migliori gelaterie della Campania nel 2026",
