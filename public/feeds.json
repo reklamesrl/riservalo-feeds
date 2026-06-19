@@ -1,7 +1,124 @@
 {
-  "generated": "2026-06-19T10:26:44.540268+00:00",
+  "generated": "2026-06-19T15:19:10.012883+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Settimana di Fashion Pills tra collaborazioni che funzionano, nuovi volti da tenere d’occhio, arte da indossare e collezioni che profumano di sale, sole e liber…",
+        "link": "https://www.grazia.it/moda/oliver-peoples-roger-federer-forte-forte-taormina-alo-summer-atelier-shaft-jeans-forte-dei-marmi-falconeri-sea-echos-clara-sayf-guess-jeans-borse-italia-pazza-981402",
+        "pubDate": "2026-06-19T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/Senza-titolo-165.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Pochi giorni fa hanno subito un furto devastante. Oggi questa gelateria è tra le migliori d’Italia",
+        "description": "La storica gelateria Santo Musumeci di Randazzo, sulle pendici dell’Etna, conquista uno dei riconoscimenti più prestigiosi del Gambero Rosso pochi giorni dopo i…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-santo-musumeci-randazzo/",
+        "pubDate": "2026-06-19T14:58:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "9 posti in Liguria dove mangiare bene sulla spiaggia",
+        "description": "Se mangiare in spiaggia in Liguria vi pare respingente solo all'idea, date un'occhiata a questa lista, stilata con l'aiuto di Cucinadamare. \nL'articolo 9 posti …",
+        "link": "https://www.dissapore.com/ristoranti/9-posti-in-liguria-dove-mangiare-bene-sulla-spiaggia/",
+        "pubDate": "2026-06-19T14:51:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/larenella-ristorante-zoagli.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sono queste le migliori gelaterie d’Italia secondo il Gambero Rosso",
+        "description": "Sono 77 le insegne premiate con i Tre Coni nella nuova guida Gelaterie d'Italia 2027. Tra conferme storiche, nuovi ingressi e premi speciali, ecco chi rappresen…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-gelaterie-italia-2027-tre-coni/",
+        "pubDate": "2026-06-19T13:31:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Paola Turani sfoggia i pantaloni fantasia must di stagione FOTO",
+        "description": "Paola Turani, per quest'estate, sceglie i pantaloni fantasia che di sicuro saranno il nuovo trend di stagione.…",
+        "link": "https://www.stylosophy.it/articolo/paola-turani-sfoggia-i-pantaloni-fantasia-must-di-stagione-foto/251931/",
+        "pubDate": "2026-06-19T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Angelina Jolie, Zendaya, Taylor Swift e tutte le star meglio vestite della settimana",
+        "description": "Le star meglio vestite della settimana confermano una tendenza sempre più evidente, quella di indossare look capaci di farci sognare, e noi siamo qui per svelar…",
+        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-angelina-jolie-taylor-swift-look-star-meglio-vestite-red-carpet-980889",
+        "pubDate": "2026-06-19T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_best_d_18_giugno.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "La madre gli nascose i moduli per l’Aeronautica. Oggi guida una delle migliori aziende olearie d’Italia",
+        "description": "Premiata dal Gambero Rosso come Azienda dell'Anno nella guida I Migliori Oli d’Italia 2026/2027, Accademia Olearia racconta quasi due secoli di olivicoltura sar…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/accademia-olearia-azienda-anno/",
+        "pubDate": "2026-06-19T12:39:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo assaggiato migliaia di oli extravergine: ecco i migliori d’Italia",
+        "description": "Dalle nuove Tre Foglie alle aziende premiate nella guida 2026/27 del Gambero Rosso: la selezione degli extravergine che hanno convinto il panel di assaggio dopo…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-extravergine-italia-2026-2027/",
+        "pubDate": "2026-06-19T12:17:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cos’è la cucina mediterranea? La risposta è così ovvia che ogni chef ha la sua",
+        "description": "Come ogni emblema, anche la cucina mediterranea - o del Mediterraneo - è un'idea che a volte sfugge alle definizioni. Leggerezza, salubrità, politica: ecco cosa…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cucina-mediterranea-chef-esposito-cedroni-genovese-izzo-cuttaia-kavcic-klugmann/",
+        "pubDate": "2026-06-19T11:35:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il lievito madre è diventato una religione? Uno dei panificatori più importanti d’Italia dice di sì",
+        "description": "Premiato dal Gambero Rosso tra i panificatori che hanno fatto la storia, Ezio Marinato critica il culto contemporaneo del lievito madre: \"Non esiste pane di ser…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ezio-marinato-lievito-madre/",
+        "pubDate": "2026-06-19T11:16:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I migliori panifici d’Italia 2027: ecco dove comprare il pane che vale davvero il viaggio",
+        "description": "Dai forni agricoli alle bakery di quartiere, la nuova guida del Gambero Rosso racconta 550 panifici che stanno costruendo filiere più corte, recuperando biodive…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-panifici-italia-2027/",
+        "pubDate": "2026-06-19T11:11:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non è Estate senza una borsa blu oltre oceano, l’accessorio che sta dettando tendenza",
+        "description": "Eleganti, raffinate e decisamente glam, le borse blu sono il grande trend dell'Estate. Ecco tutti i modelli da accaparrarsi ASAP...…",
+        "link": "https://www.stylosophy.it/articolo/borsa-blu-oltre-oceano-laccessorio-che-sta-dettando-tendenza/251903/",
+        "pubDate": "2026-06-19T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Meglio non aspettare, mettete subito questi sandali infradito nel carrello prima che vadano di nuovo sold out!",
+        "description": "Lo sappiamo bene: le infradito con il tacco sono le scarpe più trendy dell’estate 2026, ma c’è un modello in particolare che potrebbe dare una svolta ai vostri …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/infradito-con-tacco-zara-sandali-donna-neri-mango-hm-reformation-comodi-eleganti-981361",
+        "pubDate": "2026-06-19T10:23:30+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Infradito_tacco.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "C’è una nuova cantina a Salina: il vignaiolo simbolo dell’isola inaugura la casa della Malvasia",
         "description": "Quella di Nino Caravaglio è una storia di mare, migrazione e accoglienza che sembra ripetersi a distanza di secoli lungo le rotte del Mediterraneo. Il nuovo pro…",
@@ -21,7 +138,7 @@
         "source": "Dissapore"
       },
       {
-        "title": "Il Gambero Rosso presenta le nuove guide digitali",
+        "title": "A Napoli il Gambero Rosso lancia le nuove guide digitali",
         "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
         "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
         "pubDate": "2026-06-19T10:00:41+00:00",
@@ -57,133 +174,61 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Bortolomiol celebra 60 vendemmie di Prior, il primo Prosecco Brut nato a Valdobbiadene",
-        "description": "Sessant’anni fa produrre un Prosecco Brut a Valdobbiadene rappresentava una scelta in netta controtendenza rispetto agli standard del mercato. In un contesto in…",
-        "link": "https://www.winemag.it/bortolomiol-celebra-60-vendemmie-di-prior-il-primo-prosecco-brut-nato-a-valdobbiadene/",
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "Diciamoci la verità: ci sono settimane in cui l&#8217;unica cosa che può svoltare la giornata è un po&#8217; di sano shopping per così dire &#8220;terapeutico&#…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-consigli-acquisti-shopping-online-vestiti-borse-scarpe-estate-2026-981183",
         "pubDate": "2026-06-19T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_love_first_sight_18_giugno.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Settimana di Fashion Pills tra collaborazioni che funzionano, nuovi volti da tenere d’occhio, arte da indossare e collezioni che profumano di sale, sole e liber…",
+        "link": "https://www.grazia.it/moda/oliver-peoples-roger-federer-forte-forte-taormina-alo-summer-atelier-shaft-jeans-forte-dei-marmi-falconeri-sea-echos-clara-sayf-guess-jeans-borse-italia-pazza-981402",
+        "pubDate": "2026-06-19T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/Senza-titolo-165.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "“Separare trattorie e ristoranti è populismo”. Lo chef Marco Ambrosino spiega perché",
-        "description": "Lo chef procidano, uno dei protagonisti dell'evento Rotte Mediterranee, organizzato dal Gambero Rosso, riflette su identità, meticciato e futuro della gastronom…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/marco-ambrosino-cucina-italiana-zavorra/",
-        "pubDate": "2026-06-19T05:23:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Buona Questa Birra: la Puglia protagonista del progetto Unionbirrai per i 30 anni della birra artigianale italiana",
-        "description": "La Puglia sarà tra le protagoniste di “Buona Questa Birra”, il progetto promosso da Unionbirrai per celebrare i trent’anni del movimento della birra artigianale…",
-        "link": "https://www.winemag.it/buona-questa-birra-la-puglia-protagonista-del-progetto-unionbirrai-per-i-30-anni-della-birra-artigianale-italiana/",
-        "pubDate": "2026-06-19T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "A Roma c’è un bar dove tutti facevano la fila. Adesso è cambiato tutto",
-        "description": "Dopo 17 anni Barnum, una delle caffetterie più amate del centro storico, lascia la storica sede di via del Pellegrino e riapre in uno spazio più grande, luminos…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/barnum-roma-cambia-sede/",
-        "pubDate": "2026-06-19T04:23:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Arnaldo Caprai premiata da UNHCR per il quarto anno consecutivo per l’inclusione lavorativa dei rifugiati",
-        "description": "L’Azienda agricola Arnaldo Caprai di Montefalco, in provincia di Perugia, è tra le 230 realtà premiate nell’ottava edizione del Premio “Welcome. Working for Ref…",
-        "link": "https://www.winemag.it/arnaldo-caprai-premiata-da-unhcr-per-il-quarto-anno-consecutivo-per-linclusione-lavorativa-dei-rifugiati/",
-        "pubDate": "2026-06-18T21:39:55+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Tappo a vite, Gli Svitati parlano ancora al pubblico sbagliato",
-        "description": "A tre anni dall’editoriale in cui scrivevo che il futuro dello Stelvin non è in mano ai vignaioli, ma ai grandi gruppi del vino e alla Gdo, Gli Svitati sembrano…",
-        "link": "https://www.winemag.it/tappo-a-vite-gli-svitati-parlano-ancora-al-pubblico-sbagliato/",
-        "pubDate": "2026-06-18T21:38:14+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Tappo-a-vite-Gli-Svitati-parlano-ancora-al-pubblico-sbagliato-2-660x365.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cantine Romagnoli è stata venduta: il nuovo proprietario è Compagnia delle Vigne",
-        "description": "Con questa operazione Compagnia del gusto holding, della famiglia Cosulich, rafforza la propria business unit vitivinicola. L'ad Nicoletto: \"L'identità dell'azi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantine-romagnoli-vendita-compagnia-delle-vigne/",
-        "pubDate": "2026-06-18T16:16:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "5 Scarpiere IKEA che arredano casa con stile e costano pochissimo",
-        "description": "Chi l’ha detto che le scarpiere devono restare nascoste dietro una porta? IKEA ci sorprende con soluzioni così belle e pratiche che diventano protagoniste dell’…",
-        "link": "https://www.stylosophy.it/articolo/scarpiere-ikea-cosi-belle-che-non-vorrai-piu-nasconderle-e-costano-pochissimo/226541/",
-        "pubDate": "2026-06-18T16:05:00+00:00",
+        "title": "Paola Turani sfoggia i pantaloni fantasia must di stagione FOTO",
+        "description": "Paola Turani, per quest'estate, sceglie i pantaloni fantasia che di sicuro saranno il nuovo trend di stagione.…",
+        "link": "https://www.stylosophy.it/articolo/paola-turani-sfoggia-i-pantaloni-fantasia-must-di-stagione-foto/251931/",
+        "pubDate": "2026-06-19T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Cos’è e cosa fa Sepal, sponsor della classifica del gelato 2026 di Dissapore",
-        "description": "Chi sono e cosa fanno sono i \"sarti del gusto\" di Sepal Group, azienda storica nel settore del gelato oggi al fianco dell'avanguardia artigianale. \nL'articolo C…",
-        "link": "https://www.dissapore.com/locali/cose-e-cosa-fa-sepal-sponsor-della-classifica-del-gelato-di-dissapore/",
-        "pubDate": "2026-06-18T15:49:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/sepal-gelato.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Perché le sottozone stanno diventando il nuovo punto di forza del vino italiano",
-        "description": "Mentre il mondo chiede semplificazione, i consorzi rispondono con un'ulteriore parcellizzazione del territorio sul modello Borgogna. Dall'Alto Adige al Chianti,…",
-        "link": "https://www.gamberorosso.it/notizie/vino/fenomeno-sottozone-vino-italiano-mappa-territori-chianti-marsala-alto-adige-nobile-etna/",
-        "pubDate": "2026-06-18T15:05:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel Monferrato c’è una famiglia che coltiva una delle migliori nocciole al mondo",
-        "description": "Nel noccioleto di Cascina Baronina nasce la nuova cru di Tonda Gentile Trilobata firmata Agrimontana: un progetto che unisce filiera corta, agronomia di precisi…",
-        "link": "https://www.gamberorosso.it/notizie/speciali/nocciola-agrimontana-monferrato/",
-        "pubDate": "2026-06-18T14:11:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Urban trekking alla scoperta di Brescia, in ottima compagnia con LaMunt",
-        "description": "Il primo incontro non si scorda mai; il secondo apre la strada ad altri appuntamenti. Il terzo consolida il legame. E il quarto? Trasforma l’occasionalità dei p…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/lamunt-abbigliamento-escursionismo-montagna-crew-urban-trekking-brescia-981127",
-        "pubDate": "2026-06-18T14:07:23+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/Urban-trekking-LaMunt-2.jpg",
+        "title": "Angelina Jolie, Zendaya, Taylor Swift e tutte le star meglio vestite della settimana",
+        "description": "Le star meglio vestite della settimana confermano una tendenza sempre più evidente, quella di indossare look capaci di farci sognare, e noi siamo qui per svelar…",
+        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-angelina-jolie-taylor-swift-look-star-meglio-vestite-red-carpet-980889",
+        "pubDate": "2026-06-19T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_best_d_18_giugno.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Valoritalia 2026: Liantonio, Liberatore e Pantini leggono la crisi del vino italiano",
-        "description": "L’Annual Report Valoritalia 2026 fotografa un vino italiano in fase di contrazione, tra calo degli imbottigliamenti, consumi più deboli e mercati internazionali…",
-        "link": "https://www.winemag.it/valoritalia-2026-liantonio-liberatore-e-pantini-leggono-la-crisi-del-vino-italiano/",
-        "pubDate": "2026-06-18T13:12:09+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Non è Estate senza una borsa blu oltre oceano, l’accessorio che sta dettando tendenza",
+        "description": "Eleganti, raffinate e decisamente glam, le borse blu sono il grande trend dell'Estate. Ecco tutti i modelli da accaparrarsi ASAP...…",
+        "link": "https://www.stylosophy.it/articolo/borsa-blu-oltre-oceano-laccessorio-che-sta-dettando-tendenza/251903/",
+        "pubDate": "2026-06-19T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "“Il vino ha bisogno di una cabina di regia o si arriverà ad un punto di non ritorno”. L’allarme dell’Accademia vite e vino",
-        "description": "Il monito arriva dal workshop Geopolitics and wine tenuto a Roma. Il professor Gaeta chiede politiche di sostegno alla competitività per rilanciare la domanda…",
-        "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-proposte-accademia-vite-vino/",
-        "pubDate": "2026-06-18T13:10:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
+        "title": "Meglio non aspettare, mettete subito questi sandali infradito nel carrello prima che vadano di nuovo sold out!",
+        "description": "Lo sappiamo bene: le infradito con il tacco sono le scarpe più trendy dell’estate 2026, ma c’è un modello in particolare che potrebbe dare una svolta ai vostri …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/infradito-con-tacco-zara-sandali-donna-neri-mango-hm-reformation-comodi-eleganti-981361",
+        "pubDate": "2026-06-19T10:23:30+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Infradito_tacco.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "I Profumi al pistacchio più dolci e avvolgenti dell’Estate 2026 da mettere subito in wishlist",
         "description": "Dolci, chic e gourmand, i profumi al pistacchio sono il trend dell'Estate! Ecco i più validi da non perdere...…",
@@ -192,6 +237,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "Diciamoci la verità: ci sono settimane in cui l&#8217;unica cosa che può svoltare la giornata è un po&#8217; di sano shopping per così dire &#8220;terapeutico&#…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-consigli-acquisti-shopping-online-vestiti-borse-scarpe-estate-2026-981183",
+        "pubDate": "2026-06-19T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_love_first_sight_18_giugno.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "5 Scarpiere IKEA che arredano casa con stile e costano pochissimo",
@@ -221,7 +275,7 @@
         "source": "Stylosophy"
       },
       {
-        "title": "L’abito senza spalline è il capo che non può assolutamente mancare nel guardaroba estivo (parola di Angelina Jolie)",
+        "title": "Angelina Jolie non ha dubbi: l’abito senza spalline è il capo che non può assolutamente mancare nel guardaroba estivo",
         "description": "Fluidi, leggeri, perfetti per la spiaggia così come per le ricorrenze speciali: gli abiti senza spalline sono uno dei grandi trend di quest’estate, confermandos…",
         "link": "https://www.grazia.it/moda/tendenze-moda/angelina-jolie-abito-senza-spalline-strapless-dress-nero-vestito-elegante-zara-da-cerimonia-980972",
         "pubDate": "2026-06-18T12:59:13+00:00",
@@ -309,63 +363,81 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Max Mara festeggia il suo 75° anniversario a Shangai con la sfilata Resort 2027 e la mostra “The Max”",
-        "description": "Max Mara ha appena festeggiato il suo 75° anniversario e per celebrare questo traguardo importante è volata a Shangai dove ha presentato la nuova collezione Res…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-resort-2027-max-mara-sfilata-shangai-teddy-coat-mostra-the-max-75-anniversario-katie-holmes-980562",
-        "pubDate": "2026-06-17T09:26:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Resort_2027_Max_Mara.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Sopracciglia effetto laminato? Ecco 5 gel da provare per uno sguardo sensuale",
-        "description": "Per uno sguardo sensuale e femminile, ecco 5 gel per sopracciglia dall'effetto laminato. Dei must da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/sopracciglia-effetto-laminato-ecco-5-gel-da-provare-per-uno-sguardo-sensuale/251840/",
-        "pubDate": "2026-06-17T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Alessandro Enriquez e Rossella Jardini firmano la SS26 più dolce dell’estate",
-        "description": "C&#8217;è un gelato che non si scioglie al sole. È quello immaginato da Alessandro Enriquez insieme a Rossella Jardini per la Primavera-Estate 2026, una collezi…",
-        "link": "https://www.grazia.it/moda/news-moda/alessandro-enriquez-e-rossella-jardini-collezione-estate-2026-980186",
-        "pubDate": "2026-06-17T08:35:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/enriquez-jardini-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La gonna in popeline è il pezzo chiave dell’estate, scoprite come abbinarla in 7 semplici look",
-        "description": "Nella lista dei must-have per gestire con stile il caldo estivo non manca mai: la gonna in popeline di cotone è uno dei capi che bilanciano meglio freschezza ed…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-in-popeline-bianca-midi-come-abbinare-outfit-chic-estate-980159",
-        "pubDate": "2026-06-17T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/DESK-gonna-in-popeline.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Marisa Berenson firma una capsule per Zara Home: la nuova collezione è già l’oggetto del desiderio dell’estate 2026",
-        "description": "Tra richiami agli anni Settanta, dettagli artigianali e atmosfere cosmopolite, la nuova collaborazione trasforma la casa in uno spazio elegante e personale.…",
-        "link": "https://www.stylosophy.it/articolo/marisa-berenson-firma-una-capsule-per-zara-home/251820/",
-        "pubDate": "2026-06-16T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Leni Klum è il volto di FOREVER GUESS, la campagna eyewear che celebra l’identità femminile",
-        "description": "Leni Klum FOREVER GUESS inaugura un nuovo capitolo per l’universo eyewear del brand, con una campagna che celebra le molteplici sfaccettature della femminilità …",
-        "link": "https://www.grazia.it/moda/news-moda/guess-campagna-occhiali-leni-klum-forever-guess-eyewear-980336",
-        "pubDate": "2026-06-16T14:31:28+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-1-Leni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Pochi giorni fa hanno subito un furto devastante. Oggi questa gelateria è tra le migliori d’Italia",
+        "description": "La storica gelateria Santo Musumeci di Randazzo, sulle pendici dell’Etna, conquista uno dei riconoscimenti più prestigiosi del Gambero Rosso pochi giorni dopo i…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-santo-musumeci-randazzo/",
+        "pubDate": "2026-06-19T14:58:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "9 posti in Liguria dove mangiare bene sulla spiaggia",
+        "description": "Se mangiare in spiaggia in Liguria vi pare respingente solo all'idea, date un'occhiata a questa lista, stilata con l'aiuto di Cucinadamare. \nL'articolo 9 posti …",
+        "link": "https://www.dissapore.com/ristoranti/9-posti-in-liguria-dove-mangiare-bene-sulla-spiaggia/",
+        "pubDate": "2026-06-19T14:51:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/larenella-ristorante-zoagli.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sono queste le migliori gelaterie d’Italia secondo il Gambero Rosso",
+        "description": "Sono 77 le insegne premiate con i Tre Coni nella nuova guida Gelaterie d'Italia 2027. Tra conferme storiche, nuovi ingressi e premi speciali, ecco chi rappresen…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-gelaterie-italia-2027-tre-coni/",
+        "pubDate": "2026-06-19T13:31:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La madre gli nascose i moduli per l’Aeronautica. Oggi guida una delle migliori aziende olearie d’Italia",
+        "description": "Premiata dal Gambero Rosso come Azienda dell'Anno nella guida I Migliori Oli d’Italia 2026/2027, Accademia Olearia racconta quasi due secoli di olivicoltura sar…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/accademia-olearia-azienda-anno/",
+        "pubDate": "2026-06-19T12:39:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo assaggiato migliaia di oli extravergine: ecco i migliori d’Italia",
+        "description": "Dalle nuove Tre Foglie alle aziende premiate nella guida 2026/27 del Gambero Rosso: la selezione degli extravergine che hanno convinto il panel di assaggio dopo…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-extravergine-italia-2026-2027/",
+        "pubDate": "2026-06-19T12:17:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cos’è la cucina mediterranea? La risposta è così ovvia che ogni chef ha la sua",
+        "description": "Come ogni emblema, anche la cucina mediterranea - o del Mediterraneo - è un'idea che a volte sfugge alle definizioni. Leggerezza, salubrità, politica: ecco cosa…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cucina-mediterranea-chef-esposito-cedroni-genovese-izzo-cuttaia-kavcic-klugmann/",
+        "pubDate": "2026-06-19T11:35:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il lievito madre è diventato una religione? Uno dei panificatori più importanti d’Italia dice di sì",
+        "description": "Premiato dal Gambero Rosso tra i panificatori che hanno fatto la storia, Ezio Marinato critica il culto contemporaneo del lievito madre: \"Non esiste pane di ser…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ezio-marinato-lievito-madre/",
+        "pubDate": "2026-06-19T11:16:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I migliori panifici d’Italia 2027: ecco dove comprare il pane che vale davvero il viaggio",
+        "description": "Dai forni agricoli alle bakery di quartiere, la nuova guida del Gambero Rosso racconta 550 panifici che stanno costruendo filiere più corte, recuperando biodive…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-panifici-italia-2027/",
+        "pubDate": "2026-06-19T11:11:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "C’è una nuova cantina a Salina: il vignaiolo simbolo dell’isola inaugura la casa della Malvasia",
         "description": "Quella di Nino Caravaglio è una storia di mare, migrazione e accoglienza che sembra ripetersi a distanza di secoli lungo le rotte del Mediterraneo. Il nuovo pro…",
@@ -385,7 +457,7 @@
         "source": "Dissapore"
       },
       {
-        "title": "Il Gambero Rosso presenta le nuove guide digitali",
+        "title": "A Napoli il Gambero Rosso lancia le nuove guide digitali",
         "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
         "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
         "pubDate": "2026-06-19T10:00:41+00:00",
@@ -439,15 +511,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "A Roma c’è un bar dove tutti facevano la fila. Adesso è cambiato tutto",
-        "description": "Dopo 17 anni Barnum, una delle caffetterie più amate del centro storico, lascia la storica sede di via del Pellegrino e riapre in uno spazio più grande, luminos…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/barnum-roma-cambia-sede/",
-        "pubDate": "2026-06-19T04:23:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Arnaldo Caprai premiata da UNHCR per il quarto anno consecutivo per l’inclusione lavorativa dei rifugiati",
         "description": "L’Azienda agricola Arnaldo Caprai di Montefalco, in provincia di Perugia, è tra le 230 realtà premiate nell’ottava edizione del Premio “Welcome. Working for Ref…",
         "link": "https://www.winemag.it/arnaldo-caprai-premiata-da-unhcr-per-il-quarto-anno-consecutivo-per-linclusione-lavorativa-dei-rifugiati/",
@@ -466,15 +529,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Cantine Romagnoli è stata venduta: il nuovo proprietario è Compagnia delle Vigne",
-        "description": "Con questa operazione Compagnia del gusto holding, della famiglia Cosulich, rafforza la propria business unit vitivinicola. L'ad Nicoletto: \"L'identità dell'azi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantine-romagnoli-vendita-compagnia-delle-vigne/",
-        "pubDate": "2026-06-18T16:16:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cos’è e cosa fa Sepal, sponsor della classifica del gelato 2026 di Dissapore",
         "description": "Chi sono e cosa fanno sono i \"sarti del gusto\" di Sepal Group, azienda storica nel settore del gelato oggi al fianco dell'avanguardia artigianale. \nL'articolo C…",
         "link": "https://www.dissapore.com/locali/cose-e-cosa-fa-sepal-sponsor-della-classifica-del-gelato-di-dissapore/",
@@ -484,24 +538,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Perché le sottozone stanno diventando il nuovo punto di forza del vino italiano",
-        "description": "Mentre il mondo chiede semplificazione, i consorzi rispondono con un'ulteriore parcellizzazione del territorio sul modello Borgogna. Dall'Alto Adige al Chianti,…",
-        "link": "https://www.gamberorosso.it/notizie/vino/fenomeno-sottozone-vino-italiano-mappa-territori-chianti-marsala-alto-adige-nobile-etna/",
-        "pubDate": "2026-06-18T15:05:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel Monferrato c’è una famiglia che coltiva una delle migliori nocciole al mondo",
-        "description": "Nel noccioleto di Cascina Baronina nasce la nuova cru di Tonda Gentile Trilobata firmata Agrimontana: un progetto che unisce filiera corta, agronomia di precisi…",
-        "link": "https://www.gamberorosso.it/notizie/speciali/nocciola-agrimontana-monferrato/",
-        "pubDate": "2026-06-18T14:11:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Valoritalia 2026: Liantonio, Liberatore e Pantini leggono la crisi del vino italiano",
         "description": "L’Annual Report Valoritalia 2026 fotografa un vino italiano in fase di contrazione, tra calo degli imbottigliamenti, consumi più deboli e mercati internazionali…",
         "link": "https://www.winemag.it/valoritalia-2026-liantonio-liberatore-e-pantini-leggono-la-crisi-del-vino-italiano/",
@@ -509,42 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "“Il vino ha bisogno di una cabina di regia o si arriverà ad un punto di non ritorno”. L’allarme dell’Accademia vite e vino",
-        "description": "Il monito arriva dal workshop Geopolitics and wine tenuto a Roma. Il professor Gaeta chiede politiche di sostegno alla competitività per rilanciare la domanda…",
-        "link": "https://www.gamberorosso.it/notizie/vino/crisi-vino-proposte-accademia-vite-vino/",
-        "pubDate": "2026-06-18T13:10:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Valoritalia Annual Report 2026: vino italiano in calo, ecco chi cresce",
-        "description": "Il vino italiano entra in una fase di assestamento. Dopo la crescita post pandemica, il 2025 chiude con imbottigliamenti in calo del 2,1% sul 2024. Nei primi ci…",
-        "link": "https://www.winemag.it/valoritalia-annual-report-2026-vino-italiano-in-calo-ecco-chi-cresce/",
-        "pubDate": "2026-06-18T13:03:51+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Una bottiglia magnum di Trentodoc finisce in mostra a Palazzo Reale",
-        "description": "Dipinta con il solo uso delle dita, la bottiglia fa parte del percorso espositivo The Breach. Il muro rompe il silenzio dell'artista Paolo Troilo. Si potrà visi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/bottiglia-trentodoc-ferrari-mostra-paolo-troilo-palazzo-reale-milano/",
-        "pubDate": "2026-06-18T12:57:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Taranto ospita l’European Wine Summit: esperti e politici a confronto sul futuro del vino",
-        "description": "Organizzato dal Ceev, l'evento punta a trovare soluzioni condivise tra imprese e istituzioni per rafforzare il settore. Ecco il programma completo che vedrà la …",
-        "link": "https://www.gamberorosso.it/notizie/vino/european-wine-summit-ceev-programma-2026-taranto/",
-        "pubDate": "2026-06-18T12:54:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
