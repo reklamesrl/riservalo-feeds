@@ -1,7 +1,70 @@
 {
-  "generated": "2026-06-20T19:26:47.462272+00:00",
+  "generated": "2026-06-21T09:51:06.454553+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Per la causa animale Kevin Bacon cambia cognome",
+        "description": "Da pancetta a fagiolo: l'attore americano diventa (temporaneamente) Kevin Bean per promuovere una dieta più sostenibile.\nL'articolo Per la causa animale Kevin B…",
+        "link": "https://www.dissapore.com/notizie/per-la-causa-animale-kevin-bacon-cambia-cognome/",
+        "pubDate": "2026-06-21T09:25:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/bacon-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Le Maschere Labbra più valide dell’estate per dire addio a secchezze e screpolature",
+        "description": "Per labbra morbide, idratate e rimpolpate, ecco 5 maschere da provare assolutamente. Un vero alleato skincare da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/le-maschere-labbra-piu-valide-dellestate-per-dire-addio-a-secchezze-e-screpolature/251966/",
+        "pubDate": "2026-06-21T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Mare e Vitovska 2026 festeggia 20 anni al Castello di Duino, nel Carso",
+        "description": "Il festival Mare e Vitovska taglia il traguardo della sua ventesima edizione. Si conferma l’evento di riferimento per la valorizzazione del vitigno simbolo del …",
+        "link": "https://www.winemag.it/mare-e-vitovska-2026-festeggia-20-anni-al-castello-di-duino-nel-carso/",
+        "pubDate": "2026-06-21T08:48:15+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "10 Trebbiano d’Abruzzo per l’estate che costano meno di 20 euro consigliati dal Gambero Rosso",
+        "description": "Prodotte da cantine storiche e realtà più giovani, ecco le etichette di Trebbiano d'Abruzzo che vi suggeriamo di provare con i vostri menu estivi tra quelle dal…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-trebbiano-dabruzzo-sotto-20-euro-2026/",
+        "pubDate": "2026-06-21T07:28:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Quando il Chianti era la patria dei vini bianchi. La sorprendente scoperta che riscrive la storia vitivinicola",
+        "description": "L'analisi genetica di 80 vinaccioli rinvenuti a Cetamura del Chianti rivela che per secoli una varietà di uva bianca dominò i vigneti etruschi e romani, anticip…",
+        "link": "https://www.gamberorosso.it/notizie/vino/chianti-vini-bianchi-ricerca-dna-vite/",
+        "pubDate": "2026-06-21T07:02:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alla fine possiamo tenerci gli hamburger vegetali (ma non le bistecche)",
+        "description": "L'UE ha raggiunto il compromesso lessicale che sta bene alla lobby della carne: “vegetali” possono essere hamburger ma non bistecche. \nL'articolo Alla fine poss…",
+        "link": "https://www.dissapore.com/notizie/alla-fine-possiamo-tenerci-gli-hamburger-vegetali-ma-non-le-bistecche/",
+        "pubDate": "2026-06-21T06:24:51+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/09/plant-based-hamburger.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Per trovare una cascina a Milano non devi più uscire da Milano",
+        "description": "All’Ortica, El Galet porta lo spirito delle cascine lombarde dentro la città: tavolate conviviali, cucina milanese, dialetto e un’anima pop…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/el-galet-cascina-milano/",
+        "pubDate": "2026-06-21T04:56:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Dimentica gerani e bougainvillea: ecco la pianta che non teme il sole e regala fiori fino all’autunno…",
         "description": "Colorata, resistente e poco esigente, la dipladenia è una delle piante più apprezzate per balconi e terrazzi esposti al sole. Ecco come mantenerla rigogliosa pe…",
@@ -118,72 +181,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "A Napoli il Gambero Rosso lancia le nuove guide digitali",
-        "description": "Diretta, ospiti e novità: alla Stazione Marittima di Napoli il racconto live dell’evento che celebra il Mediterraneo e lancia le nuove guide su pane, gelato e o…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/evento-rotte-mediterranee-guide-gambero-rosso/",
-        "pubDate": "2026-06-19T15:00:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Settimana di Fashion Pills tra collaborazioni che funzionano, nuovi volti da tenere d’occhio, arte da indossare e collezioni che profumano di sale, sole e liber…",
-        "link": "https://www.grazia.it/moda/oliver-peoples-roger-federer-forte-forte-taormina-alo-summer-atelier-shaft-jeans-forte-dei-marmi-falconeri-sea-echos-clara-sayf-guess-jeans-borse-italia-pazza-981402",
-        "pubDate": "2026-06-19T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/Senza-titolo-165.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Pochi giorni fa hanno subito un furto devastante. Oggi questa gelateria è tra le migliori d’Italia",
-        "description": "La storica gelateria Santo Musumeci di Randazzo, sulle pendici dell’Etna, conquista uno dei riconoscimenti più prestigiosi del Gambero Rosso pochi giorni dopo i…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-santo-musumeci-randazzo/",
-        "pubDate": "2026-06-19T14:58:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "9 posti in Liguria dove mangiare bene sulla spiaggia",
-        "description": "Se mangiare in spiaggia in Liguria vi pare respingente solo all'idea, date un'occhiata a questa lista, stilata con l'aiuto di Cucinadamare. \nL'articolo 9 posti …",
-        "link": "https://www.dissapore.com/ristoranti/9-posti-in-liguria-dove-mangiare-bene-sulla-spiaggia/",
-        "pubDate": "2026-06-19T14:51:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/larenella-ristorante-zoagli.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Sono queste le migliori gelaterie d’Italia secondo il Gambero Rosso",
-        "description": "Sono 77 le insegne premiate con i Tre Coni nella nuova guida Gelaterie d'Italia 2027. Tra conferme storiche, nuovi ingressi e premi speciali, ecco chi rappresen…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-gelaterie-italia-2027-tre-coni/",
-        "pubDate": "2026-06-19T13:31:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Paola Turani sfoggia i pantaloni fantasia must di stagione FOTO",
-        "description": "Paola Turani, per quest'estate, sceglie i pantaloni fantasia che di sicuro saranno il nuovo trend di stagione.…",
-        "link": "https://www.stylosophy.it/articolo/paola-turani-sfoggia-i-pantaloni-fantasia-must-di-stagione-foto/251931/",
-        "pubDate": "2026-06-19T13:00:00+00:00",
+        "title": "Le Maschere Labbra più valide dell’estate per dire addio a secchezze e screpolature",
+        "description": "Per labbra morbide, idratate e rimpolpate, ecco 5 maschere da provare assolutamente. Un vero alleato skincare da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/le-maschere-labbra-piu-valide-dellestate-per-dire-addio-a-secchezze-e-screpolature/251966/",
+        "pubDate": "2026-06-21T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Angelina Jolie, Zendaya, Taylor Swift e tutte le star meglio vestite della settimana",
-        "description": "Le star meglio vestite della settimana confermano una tendenza sempre più evidente, quella di indossare look capaci di farci sognare, e noi siamo qui per svelar…",
-        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-angelina-jolie-taylor-swift-look-star-meglio-vestite-red-carpet-980889",
-        "pubDate": "2026-06-19T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_best_d_18_giugno.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Dimentica gerani e bougainvillea: ecco la pianta che non teme il sole e regala fiori fino all’autunno…",
         "description": "Colorata, resistente e poco esigente, la dipladenia è una delle piante più apprezzate per balconi e terrazzi esposti al sole. Ecco come mantenerla rigogliosa pe…",
@@ -338,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Pull&Bear firma i sandali più belli e particolari dell’Estate 2026. Il terzo modello è il mio preferito!",
-        "description": "I sandali più trendy, ricercati e chic dell'Estate 2026 sono firmati Pull&#038;Bear, dei piccoli capolavori di stile da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/pullbear-firma-i-sandali-piu-belli-e-particolari-dellestate-2026/251740/",
-        "pubDate": "2026-06-18T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Coccinelle at Tommasi: il nuovo indirizzo dell’estate milanese",
         "description": "Dal 15 giugno e per tutta la stagione, Coccinelle incontra Bar Tommasi per dare vita a un’esperienza immersiva che reinterpreta il concetto di estate urbana. Co…",
         "link": "https://www.grazia.it/moda/news-moda/coccinelle-bar-tommasi-takeover-milano-estate-2026-980957",
@@ -366,6 +366,60 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Per la causa animale Kevin Bacon cambia cognome",
+        "description": "Da pancetta a fagiolo: l'attore americano diventa (temporaneamente) Kevin Bean per promuovere una dieta più sostenibile.\nL'articolo Per la causa animale Kevin B…",
+        "link": "https://www.dissapore.com/notizie/per-la-causa-animale-kevin-bacon-cambia-cognome/",
+        "pubDate": "2026-06-21T09:25:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/bacon-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Mare e Vitovska 2026 festeggia 20 anni al Castello di Duino, nel Carso",
+        "description": "Il festival Mare e Vitovska taglia il traguardo della sua ventesima edizione. Si conferma l’evento di riferimento per la valorizzazione del vitigno simbolo del …",
+        "link": "https://www.winemag.it/mare-e-vitovska-2026-festeggia-20-anni-al-castello-di-duino-nel-carso/",
+        "pubDate": "2026-06-21T08:48:15+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "10 Trebbiano d’Abruzzo per l’estate che costano meno di 20 euro consigliati dal Gambero Rosso",
+        "description": "Prodotte da cantine storiche e realtà più giovani, ecco le etichette di Trebbiano d'Abruzzo che vi suggeriamo di provare con i vostri menu estivi tra quelle dal…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-trebbiano-dabruzzo-sotto-20-euro-2026/",
+        "pubDate": "2026-06-21T07:28:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Quando il Chianti era la patria dei vini bianchi. La sorprendente scoperta che riscrive la storia vitivinicola",
+        "description": "L'analisi genetica di 80 vinaccioli rinvenuti a Cetamura del Chianti rivela che per secoli una varietà di uva bianca dominò i vigneti etruschi e romani, anticip…",
+        "link": "https://www.gamberorosso.it/notizie/vino/chianti-vini-bianchi-ricerca-dna-vite/",
+        "pubDate": "2026-06-21T07:02:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alla fine possiamo tenerci gli hamburger vegetali (ma non le bistecche)",
+        "description": "L'UE ha raggiunto il compromesso lessicale che sta bene alla lobby della carne: “vegetali” possono essere hamburger ma non bistecche. \nL'articolo Alla fine poss…",
+        "link": "https://www.dissapore.com/notizie/alla-fine-possiamo-tenerci-gli-hamburger-vegetali-ma-non-le-bistecche/",
+        "pubDate": "2026-06-21T06:24:51+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/09/plant-based-hamburger.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Per trovare una cascina a Milano non devi più uscire da Milano",
+        "description": "All’Ortica, El Galet porta lo spirito delle cascine lombarde dentro la città: tavolate conviviali, cucina milanese, dialetto e un’anima pop…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/el-galet-cascina-milano/",
+        "pubDate": "2026-06-21T04:56:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Anche il Veneto ha finalmente la sua manifestazione sulla pizza d’autore",
         "description": "Dal 27 giugno in Piazza dei Signori a Vicenza c'è Pizza in Piazza, alla sua quarta edizione, con il greatest hits dei pizzaioli emergenti del territorio.\nL'arti…",
@@ -475,33 +529,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Abbiamo assaggiato migliaia di oli extravergine: ecco i migliori d’Italia",
-        "description": "Dalle nuove Tre Foglie alle aziende premiate nella guida 2026/27 del Gambero Rosso: la selezione degli extravergine che hanno convinto il panel di assaggio dopo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-extravergine-italia-2026-2027/",
-        "pubDate": "2026-06-19T12:17:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cos’è la cucina mediterranea? La risposta è così ovvia che ogni chef ha la sua",
-        "description": "Come ogni emblema, anche la cucina mediterranea - o del Mediterraneo - è un'idea che a volte sfugge alle definizioni. Leggerezza, salubrità, politica: ecco cosa…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cucina-mediterranea-chef-esposito-cedroni-genovese-izzo-cuttaia-kavcic-klugmann/",
-        "pubDate": "2026-06-19T11:35:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il lievito madre è diventato una religione? Uno dei panificatori più importanti d’Italia dice di sì",
-        "description": "Premiato dal Gambero Rosso tra i panificatori che hanno fatto la storia, Ezio Marinato critica il culto contemporaneo del lievito madre: \"Non esiste pane di ser…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ezio-marinato-lievito-madre/",
-        "pubDate": "2026-06-19T11:16:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Le NGT sono state approvate dal Parlamento Europeo, Slow Food non è d’accordo",
         "description": "L'iter della normativa sui cosiddetti \"nuovi OGM\" è stata approvata dal Parlamento Europeo in seduta plenaria. Slow Food ha qualcosa da dire a riguardo.\nL'artic…",
         "link": "https://www.dissapore.com/notizie/le-ngt-sono-state-approvate-dal-parlamento-europeo-slow-food-non-e-daccordo/",
@@ -518,33 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/the-rag-atripalda.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Serprino Festival 2026, fino al 6 luglio vino, cultura e territorio nei Colli Euganei",
-        "description": "Torna l’appuntamento con il Serprino Festival, la rassegna dedicata al Serprino DOC, il vino frizzante autoctono dei Colli Euganei. Fino al 6 luglio il territor…",
-        "link": "https://www.winemag.it/serprino-festival-2026-fino-al-6-luglio-vino-cultura-e-territorio-nei-colli-euganei/",
-        "pubDate": "2026-06-19T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bortolomiol celebra 60 vendemmie di Prior, il primo Prosecco Brut nato a Valdobbiadene",
-        "description": "Sessant’anni fa produrre un Prosecco Brut a Valdobbiadene rappresentava una scelta in netta controtendenza rispetto agli standard del mercato. In un contesto in…",
-        "link": "https://www.winemag.it/bortolomiol-celebra-60-vendemmie-di-prior-il-primo-prosecco-brut-nato-a-valdobbiadene/",
-        "pubDate": "2026-06-19T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Buona Questa Birra: la Puglia protagonista del progetto Unionbirrai per i 30 anni della birra artigianale italiana",
-        "description": "La Puglia sarà tra le protagoniste di “Buona Questa Birra”, il progetto promosso da Unionbirrai per celebrare i trent’anni del movimento della birra artigianale…",
-        "link": "https://www.winemag.it/buona-questa-birra-la-puglia-protagonista-del-progetto-unionbirrai-per-i-30-anni-della-birra-artigianale-italiana/",
-        "pubDate": "2026-06-19T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
