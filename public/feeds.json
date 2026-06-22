@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-22T16:58:48.968713+00:00",
+  "generated": "2026-06-22T20:48:27.674338+00:00",
   "feeds": {
     "offerte": [
       {
@@ -19,24 +19,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/danone-proteine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Bianco di Pitigliano DOC, 60 anni tra storia, identità e nuove prospettive per il territorio",
-        "description": "Sessant’anni di storia per una delle denominazioni più antiche della Toscana. Il Consorzio di Tutela Bianco di Pitigliano e Sovana DOC ha celebrato l’anniversar…",
-        "link": "https://www.winemag.it/bianco-di-pitigliano-doc-60-anni-tra-storia-identita-e-nuove-prospettive-per-il-territorio/",
-        "pubDate": "2026-06-22T14:56:37+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Birra analcolica, la Gen Z traina la crescita: 7 giovani su 10 l’hanno già scelta",
-        "description": "Secondo una ricerca condotta da Heineken Italia con AstraRicerche, la birra analcolica si sta ritagliando uno spazio sempre più rilevante nelle abitudini di con…",
-        "link": "https://www.winemag.it/birra-analcolica-la-gen-z-traina-la-crescita-7-giovani-su-10-lhanno-gia-scelta/",
-        "pubDate": "2026-06-22T14:33:53+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Tre ingredienti e uno stuzzicadenti: lo snack spagnolo che sta conquistando anche l’Italia",
@@ -91,15 +73,6 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Vino italiano: al via Wines Experience Vietnam 2026",
-        "description": "È tutto pronto a Ho Chi Minh City per l’apertura ufficiale di Wines Experience Vietnam 2026. Il 25 e 26 giugno, il principale hub economico e commerciale del Pa…",
-        "link": "https://www.winemag.it/vino-italiano-al-via-wines-experience-vietnam-2026-ho-chi-minh-city/",
-        "pubDate": "2026-06-22T11:18:26+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Tutte pazze per gli orecchini pop, il bijou che cattura subito l’attenzione",
@@ -181,6 +154,33 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Cina producono foie gras che costa 10 volte meno di quello francese",
+        "description": "Un mercato interno molto attivo potrebbe rendere la Cina il maggiore produttore mondiale di foie gras, scalzando il primato francese.\nL'articolo In Cina produco…",
+        "link": "https://www.dissapore.com/notizie/in-cina-producono-foie-gras-che-costa-10-volte-meno-di-quello-francese/",
+        "pubDate": "2026-06-22T07:54:39+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/foie-gras.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nel borgo da cui tutti scappavano, un birrificio sta facendo restare le persone",
+        "description": "A Melle, 280 abitanti in provincia di Cuneo, Officina Antagonisti è diventata molto più di un birrificio: un luogo di lavoro, comunità e resistenza contro lo sp…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/officina-antagonisti-birrificio-melle-spopolamento-montagna/",
+        "pubDate": "2026-06-22T07:49:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Segno del Cancro: tutti i must-have da aggiungere subito in wishlist",
+        "description": "Salutati i gemelli, con il finire di giugno arriva il momento di accogliere il segno del cancro. Dal 21 giugno al 22 luglio infatti, si entra ufficialmente nel …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/segno-del-cancro-vestiti-scarpe-borse-must-have-cosa-comprare-980863",
+        "pubDate": "2026-06-22T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_CANCRO.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       }
     ],
     "moda": [
@@ -376,24 +376,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Bianco di Pitigliano DOC, 60 anni tra storia, identità e nuove prospettive per il territorio",
-        "description": "Sessant’anni di storia per una delle denominazioni più antiche della Toscana. Il Consorzio di Tutela Bianco di Pitigliano e Sovana DOC ha celebrato l’anniversar…",
-        "link": "https://www.winemag.it/bianco-di-pitigliano-doc-60-anni-tra-storia-identita-e-nuove-prospettive-per-il-territorio/",
-        "pubDate": "2026-06-22T14:56:37+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Birra analcolica, la Gen Z traina la crescita: 7 giovani su 10 l’hanno già scelta",
-        "description": "Secondo una ricerca condotta da Heineken Italia con AstraRicerche, la birra analcolica si sta ritagliando uno spazio sempre più rilevante nelle abitudini di con…",
-        "link": "https://www.winemag.it/birra-analcolica-la-gen-z-traina-la-crescita-7-giovani-su-10-lhanno-gia-scelta/",
-        "pubDate": "2026-06-22T14:33:53+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Tre ingredienti e uno stuzzicadenti: lo snack spagnolo che sta conquistando anche l’Italia",
         "description": "Nata a San Sebastián, la Gilda è il più celebre dei pintxos baschi: oliva, acciuga e guindilla infilzati su uno stecchino. Oggi conquista anche wine bar ed enot…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gilda-pintxos-baschi-cos-e/",
@@ -437,15 +419,6 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Vino italiano: al via Wines Experience Vietnam 2026",
-        "description": "È tutto pronto a Ho Chi Minh City per l’apertura ufficiale di Wines Experience Vietnam 2026. Il 25 e 26 giugno, il principale hub economico e commerciale del Pa…",
-        "link": "https://www.winemag.it/vino-italiano-al-via-wines-experience-vietnam-2026-ho-chi-minh-city/",
-        "pubDate": "2026-06-22T11:18:26+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "In Veneto si prevede una vendemmia abbondante (fin troppo). Preoccupa la flavescenza dorata",
@@ -538,13 +511,40 @@
         "source": "Dissapore"
       },
       {
-        "title": "Mare e Vitovska 2026 festeggia 20 anni al Castello di Duino, nel Carso",
-        "description": "Il festival Mare e Vitovska taglia il traguardo della sua ventesima edizione. Si conferma l’evento di riferimento per la valorizzazione del vitigno simbolo del …",
-        "link": "https://www.winemag.it/mare-e-vitovska-2026-festeggia-20-anni-al-castello-di-duino-nel-carso/",
-        "pubDate": "2026-06-21T08:48:15+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "10 Trebbiano d’Abruzzo per l’estate che costano meno di 20 euro consigliati dal Gambero Rosso",
+        "description": "Prodotte da cantine storiche e realtà più giovani, ecco le etichette di Trebbiano d'Abruzzo che vi suggeriamo di provare con i vostri menu estivi tra quelle dal…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-trebbiano-dabruzzo-sotto-20-euro-2026/",
+        "pubDate": "2026-06-21T07:28:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alla fine possiamo tenerci gli hamburger vegetali (ma non le bistecche)",
+        "description": "L'UE ha raggiunto il compromesso lessicale che sta bene alla lobby della carne: “vegetali” possono essere hamburger ma non bistecche. \nL'articolo Alla fine poss…",
+        "link": "https://www.dissapore.com/notizie/alla-fine-possiamo-tenerci-gli-hamburger-vegetali-ma-non-le-bistecche/",
+        "pubDate": "2026-06-21T06:24:51+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/09/plant-based-hamburger.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Anche il Veneto ha finalmente la sua manifestazione sulla pizza d’autore",
+        "description": "Dal 27 giugno in Piazza dei Signori a Vicenza c'è Pizza in Piazza, alla sua quarta edizione, con il greatest hits dei pizzaioli emergenti del territorio.\nL'arti…",
+        "link": "https://www.dissapore.com/notizie/anche-il-veneto-ha-finalmente-la-sua-manifestazione-sulla-pizza-dautore/",
+        "pubDate": "2026-06-20T11:22:35+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/pizza-in-piazza.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La “pausa idratazione“ non piace ai tifosi dei Mondiali",
+        "description": "La nuova policy della FIFA interrompe troppo il gioco e, secondo alcuni, è solo una scusa per mandare più pubblicità. \nL'articolo La “pausa idratazione“ non pia…",
+        "link": "https://www.dissapore.com/notizie/la-pausa-idratazione-non-piace-ai-tifosi-dei-mondiali/",
+        "pubDate": "2026-06-20T08:31:56+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/mondiali-usa-2026-scaled-e1778147798211.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
