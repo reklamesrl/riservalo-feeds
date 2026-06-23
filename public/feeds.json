@@ -1,15 +1,42 @@
 {
-  "generated": "2026-06-23T14:49:36.332377+00:00",
+  "generated": "2026-06-23T20:06:18.904866+00:00",
   "feeds": {
     "offerte": [
       {
-        "title": "Aperitivo al Museo 2026, in Toscana torna l’evento che unisce vino, arte e archeologia",
-        "description": "Sabato 27 giugno torna in Toscana la seconda edizione di Aperitivo al Museo, iniziativa promossa dal Movimento Turismo del Vino Toscana in collaborazione con It…",
-        "link": "https://www.winemag.it/aperitivo-al-museo-2026-in-toscana-torna-levento-che-unisce-vino-arte-e-archeologia/",
-        "pubDate": "2026-06-23T14:21:52+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Questo piccolo Borgo Ligure affacciato sul mare sembra una splendida cartolina",
+        "description": "Affacciato sul Golfo Dianese, Cervo è una delle destinazioni più affascinanti della Riviera ligure. Tra monumenti storici, scorci sul mare e tradizioni locali, …",
+        "link": "https://www.stylosophy.it/articolo/questo-piccolo-borgo-ligure-affacciato-sul-mare-sembra-una-splendida-cartolina/252085/",
+        "pubDate": "2026-06-23T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Mangiare molti gamberi può contribuire a distruggere le foreste di mangrovie",
+        "description": "L'allarme viene dall'Ecuador, principale produttore mondiale, dove gli allevamenti mettono a rischio l'ecosistema.\nL'articolo Mangiare molti gamberi può contrib…",
+        "link": "https://www.dissapore.com/notizie/mangiare-molti-gamberi-puo-contribuire-a-distruggere-le-foreste-di-mangrovie/",
+        "pubDate": "2026-06-23T15:30:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/mangrovie-ecuador-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Boom di birre analcoliche: in un anno crescita dell’85%. Ecco come sta cambiando il settore brassicolo",
+        "description": "Nel 2025 frenano consumi (-2,5%) e vendite fuori casa, mentre crescono i nuovi trend. Il presidente di Assobirra Federico Sannella: \"Fase di resilienza che va a…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/boom-birre-analcoliche-report-assobirra-2025/",
+        "pubDate": "2026-06-23T15:09:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dimentica il classico ventilatore: ecco i modelli di design che rinfrescano e arredano",
+        "description": "Dal ventilatore da tavolo a quello da soffitto, passando per le soluzioni più innovative: ecco i modelli di design che uniscono comfort, tecnologia e stile.…",
+        "link": "https://www.stylosophy.it/articolo/dimentica-il-classico-ventilatore-ecco-i-modelli-di-design-che-rinfrescano-e-arredano/252124/",
+        "pubDate": "2026-06-23T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
         "title": "Per fare la sua pizza non compra più farina: coltiva il grano e lo macina da solo",
@@ -57,13 +84,13 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Consorzio Asti Docg, resa Moscato 85 quintali ettaro e 15 di supero",
-        "description": "Il Consorzio Asti Docg propone di fissare a 85 quintali per ettaro la resa del Moscato per la vendemmia 2026, in linea con i quantitativi dello scorso anno. A q…",
-        "link": "https://www.winemag.it/consorzio-asti-docg-resa-moscato-85-quintali-ettaro-e-15-di-supero/",
-        "pubDate": "2026-06-23T11:46:31+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Milano Moda Uomo: il recap della Fashion Week Spring/Summer 2027",
+        "description": "Con l’arrivo della nuova stagione è ripartito ufficialmente il ricco&#160;calendario di appuntamenti dedicati al menswear. Dopo la full immersion tra le novità …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/milano-moda-uomo-primavera-estate-2027-tendenze-menswear-981655",
+        "pubDate": "2026-06-23T12:41:53+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Gli accessori a tema mare che stanno dominando l’Estate 2026",
@@ -73,6 +100,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Julia Roberts negli anni ’90 aveva già trovato il modo più easy di indossare la gonna di paillettes (e noi vi sveliamo come ricreare il suo look)",
+        "description": "Viene inevitabilmente associata ai look delle grandi occasioni, ma chi l’ha detto che la gonna di paillettes non può essere sfruttata anche nel quotidiano! Gran…",
+        "link": "https://www.grazia.it/moda/get-the-look/gonna-di-paillettes-come-indossare-abbinare-in-estate-di-giorno-con-canotta-julia-roberts-get-the-look-982040",
+        "pubDate": "2026-06-23T10:11:56+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Gonna_paillettes.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Timidi segni di ripresa per l’export vino in Usa. Uiv: “Politica e mercato hanno lingue diverse. Ora abbassare i toni”",
@@ -121,7 +157,7 @@
       },
       {
         "title": "“I nostri ristoranti stanno diventando noiosi”: Gennaro Esposito sul fine dining",
-        "description": "Lo chef della La Torre del Saracino parla senza filtri di fine dining, pizza d’autore, influencer e crisi dell’identità italiana: \"Ci stiamo dimenticando del cl…",
+        "description": "Lo chef de La Torre del Saracino parla senza filtri di fine dining, pizza d’autore, influencer e crisi dell’identità italiana: \"Ci stiamo dimenticando del clien…",
         "link": "https://www.gamberorosso.it/notizie/attualita/gennaro-esposito-intervista-ristoranti-noiosi/",
         "pubDate": "2026-06-23T08:42:34+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -145,45 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Sembra una casa di campagna inglese, invece è una trattoria milanese",
-        "description": "Al Garghet, a Gratosoglio, è un ristorante milanese aperto dal 1991 in un edificio del XIII secolo: undici ambienti, giardini, atmosfera fiabesca e cucina lomba…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/al-garghet-trattoria-milano/",
-        "pubDate": "2026-06-23T05:58:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pomodori in vaso: i trucchi che trasformano il tuo balcone in un piccolo orto",
-        "description": "Coltivare pomodori in vaso è più semplice di quanto sembri. Con le giuste attenzioni anche un piccolo balcone può trasformarsi in un orto produttivo e che regal…",
-        "link": "https://www.stylosophy.it/articolo/pomodori-in-vaso-i-trucchi-che-trasformano-il-tuo-balcone-in-un-piccolo-orto/252031/",
-        "pubDate": "2026-06-22T16:00:00+00:00",
+        "title": "Questo piccolo Borgo Ligure affacciato sul mare sembra una splendida cartolina",
+        "description": "Affacciato sul Golfo Dianese, Cervo è una delle destinazioni più affascinanti della Riviera ligure. Tra monumenti storici, scorci sul mare e tradizioni locali, …",
+        "link": "https://www.stylosophy.it/articolo/questo-piccolo-borgo-ligure-affacciato-sul-mare-sembra-una-splendida-cartolina/252085/",
+        "pubDate": "2026-06-23T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Danone fa causa al suo competitor statunitense per pubblicità ingannevole sulle proteine",
-        "description": "Una battaglia legale che nasconde una perdita di quote di mercato negli States, dove la corsa agli alimenti proteici è più viva che mai.\nL'articolo Danone fa ca…",
-        "link": "https://www.dissapore.com/notizie/danone-fa-causa-al-suo-competitor-statunitense-per-pubblicita-ingannevole-sulle-proteine/",
-        "pubDate": "2026-06-22T15:01:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/danone-proteine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "Dimentica il classico ventilatore: ecco i modelli di design che rinfrescano e arredano",
+        "description": "Dal ventilatore da tavolo a quello da soffitto, passando per le soluzioni più innovative: ecco i modelli di design che uniscono comfort, tecnologia e stile.…",
+        "link": "https://www.stylosophy.it/articolo/dimentica-il-classico-ventilatore-ecco-i-modelli-di-design-che-rinfrescano-e-arredano/252124/",
+        "pubDate": "2026-06-23T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
-      {
-        "title": "Bianco di Pitigliano DOC, 60 anni tra storia, identità e nuove prospettive per il territorio",
-        "description": "Sessant’anni di storia per una delle denominazioni più antiche della Toscana. Il Consorzio di Tutela Bianco di Pitigliano e Sovana DOC ha celebrato l’anniversar…",
-        "link": "https://www.winemag.it/bianco-di-pitigliano-doc-60-anni-tra-storia-identita-e-nuove-prospettive-per-il-territorio/",
-        "pubDate": "2026-06-22T14:56:37+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      }
-    ],
-    "moda": [
       {
         "title": "Chiara Ferragni vola in montagna con il top di super tendenza per questa stagione!",
         "description": "Chiara Ferragni, anche in estate, da trend setter e fashion icon qual è, rimane al passo con i tempi sfoggiando il top in crochet di super tendenza.…",
@@ -192,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Milano Moda Uomo: il recap della Fashion Week Spring/Summer 2027",
+        "description": "Con l’arrivo della nuova stagione è ripartito ufficialmente il ricco&#160;calendario di appuntamenti dedicati al menswear. Dopo la full immersion tra le novità …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/milano-moda-uomo-primavera-estate-2027-tendenze-menswear-981655",
+        "pubDate": "2026-06-23T12:41:53+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Gli accessori a tema mare che stanno dominando l’Estate 2026",
@@ -203,6 +230,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Julia Roberts negli anni ’90 aveva già trovato il modo più easy di indossare la gonna di paillettes (e noi vi sveliamo come ricreare il suo look)",
+        "description": "Viene inevitabilmente associata ai look delle grandi occasioni, ma chi l’ha detto che la gonna di paillettes non può essere sfruttata anche nel quotidiano! Gran…",
+        "link": "https://www.grazia.it/moda/get-the-look/gonna-di-paillettes-come-indossare-abbinare-in-estate-di-giorno-con-canotta-julia-roberts-get-the-look-982040",
+        "pubDate": "2026-06-23T10:11:56+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Gonna_paillettes.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Le maschere viso dopo sole per una pelle nutrita e idratata in profondità",
         "description": "Lenitive, idratanti e nutrienti, le maschere viso dopo sole sono un must dell'Estate 2026 da non perdere. Ecco le migliori del momento approvate dalle beauty ad…",
         "link": "https://www.stylosophy.it/articolo/le-maschere-viso-dopo-sole-per-una-pelle-nutrita-e-idratata-in-profondita/252104/",
@@ -210,6 +246,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Trend alert: le ballerine sono (di nuovo) le protagoniste dell’estate. Ecco qualche dritta per indossarle come le cool girls di Instagram",
+        "description": "Ballerine anche d&#8217;estate? Sì, grazie! Del resto al loro fascino bon ton non difficilmente sappiamo dire di no. Anche quando la summer season fa capolino, …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-come-indossare-inspo-look-estate-abbinamenti-outfit-instagram-981545",
+        "pubDate": "2026-06-23T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_inspo_ballerine.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Come vestirsi bene a 50 anni: i capi e gli accessori da puntare per uno stile fresco e raffinato",
+        "description": "Svincolarsi dalle convenzioni, lasciarsi guidare dai propri gusti piuttosto che dalle tendenze del momento, avere a disposizione nell’armadio un paio di capi e …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-bene-a-50-anni-estate-donna-vestiti-scarpe-borse-accessori-idee-outfit-981066",
+        "pubDate": "2026-06-22T18:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/DESK_Come_Vestirsi_a_50_anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Pomodori in vaso: i trucchi che trasformano il tuo balcone in un piccolo orto",
@@ -284,24 +338,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Anne Hathaway, cosa ha indossato per il lieto annuncio sui social FOTO",
-        "description": "Anne Hathaway, nelle ultime ore, ha annunciato sui social di essere in dolce attesa: ecco cosa ha indossato per il lieto annuncio.…",
-        "link": "https://www.stylosophy.it/articolo/anne-hathaway-cosa-ha-indossato-per-il-lieto-annuncio-sui-social-foto/251981/",
-        "pubDate": "2026-06-21T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Le Maschere Labbra più valide dell’estate per dire addio a secchezze e screpolature",
-        "description": "Per labbra morbide, idratate e rimpolpate, ecco 5 maschere da provare assolutamente. Un vero alleato skincare da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/le-maschere-labbra-piu-valide-dellestate-per-dire-addio-a-secchezze-e-screpolature/251966/",
-        "pubDate": "2026-06-21T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Dua Lipa: i look sfoggiati per le nozze con Callum Turner in Sicilia",
         "description": "Dopo essere atterrati a Palermo nei giorni precedenti alle celebrazioni, Dua Lipa e Callum Turner hanno pronunciato il loro &#8220;sì&#8221; in una suggestiva c…",
         "link": "https://www.grazia.it/moda/celebrity-style/dua-lipa-abiti-matrimonio-sicilia-callum-turner-977961",
@@ -327,53 +363,26 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_vestirsi_caldo.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "“Da fashion editor vi dico che questo è davvero il capo (che non si vede) che mi ha svoltato tutti i look estivi!",
-        "description": "D&#8217;estate vestirsi sembra più semplice: meno strati, meno problemi, basta un abito, una gonna o dei pantaloni, un top e si è pronte per uscire. Eppure, com…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloncini-modellanti-tezenis-da-portare-sotto-gonne-vestiti-estate-981128",
-        "pubDate": "2026-06-20T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/cover-pantaloncino-canotta.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Settimana di Fashion Pills tra collaborazioni che funzionano, nuovi volti da tenere d’occhio, arte da indossare e collezioni che profumano di sale, sole e liber…",
-        "link": "https://www.grazia.it/moda/oliver-peoples-roger-federer-forte-forte-taormina-alo-summer-atelier-shaft-jeans-forte-dei-marmi-falconeri-sea-echos-clara-sayf-guess-jeans-borse-italia-pazza-981402",
-        "pubDate": "2026-06-19T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/Senza-titolo-165.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Angelina Jolie, Zendaya, Taylor Swift e tutte le star meglio vestite della settimana",
-        "description": "Le star meglio vestite della settimana confermano una tendenza sempre più evidente, quella di indossare look capaci di farci sognare, e noi siamo qui per svelar…",
-        "link": "https://www.grazia.it/moda/celebrity-style/zendaya-angelina-jolie-taylor-swift-look-star-meglio-vestite-red-carpet-980889",
-        "pubDate": "2026-06-19T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_best_d_18_giugno.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Meglio non aspettare, mettete subito questi sandali infradito nel carrello prima che vadano di nuovo sold out!",
-        "description": "Lo sappiamo bene: le infradito con il tacco sono le scarpe più trendy dell’estate 2026, ma c’è un modello in particolare che potrebbe dare una svolta ai vostri …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/infradito-con-tacco-zara-sandali-donna-neri-mango-hm-reformation-comodi-eleganti-981361",
-        "pubDate": "2026-06-19T10:23:30+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Infradito_tacco.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
       {
-        "title": "Aperitivo al Museo 2026, in Toscana torna l’evento che unisce vino, arte e archeologia",
-        "description": "Sabato 27 giugno torna in Toscana la seconda edizione di Aperitivo al Museo, iniziativa promossa dal Movimento Turismo del Vino Toscana in collaborazione con It…",
-        "link": "https://www.winemag.it/aperitivo-al-museo-2026-in-toscana-torna-levento-che-unisce-vino-arte-e-archeologia/",
-        "pubDate": "2026-06-23T14:21:52+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Mangiare molti gamberi può contribuire a distruggere le foreste di mangrovie",
+        "description": "L'allarme viene dall'Ecuador, principale produttore mondiale, dove gli allevamenti mettono a rischio l'ecosistema.\nL'articolo Mangiare molti gamberi può contrib…",
+        "link": "https://www.dissapore.com/notizie/mangiare-molti-gamberi-puo-contribuire-a-distruggere-le-foreste-di-mangrovie/",
+        "pubDate": "2026-06-23T15:30:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/mangrovie-ecuador-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Boom di birre analcoliche: in un anno crescita dell’85%. Ecco come sta cambiando il settore brassicolo",
+        "description": "Nel 2025 frenano consumi (-2,5%) e vendite fuori casa, mentre crescono i nuovi trend. Il presidente di Assobirra Federico Sannella: \"Fase di resilienza che va a…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/boom-birre-analcoliche-report-assobirra-2025/",
+        "pubDate": "2026-06-23T15:09:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Per fare la sua pizza non compra più farina: coltiva il grano e lo macina da solo",
@@ -410,15 +419,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Consorzio Asti Docg, resa Moscato 85 quintali ettaro e 15 di supero",
-        "description": "Il Consorzio Asti Docg propone di fissare a 85 quintali per ettaro la resa del Moscato per la vendemmia 2026, in linea con i quantitativi dello scorso anno. A q…",
-        "link": "https://www.winemag.it/consorzio-asti-docg-resa-moscato-85-quintali-ettaro-e-15-di-supero/",
-        "pubDate": "2026-06-23T11:46:31+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Timidi segni di ripresa per l’export vino in Usa. Uiv: “Politica e mercato hanno lingue diverse. Ora abbassare i toni”",
@@ -458,7 +458,7 @@
       },
       {
         "title": "“I nostri ristoranti stanno diventando noiosi”: Gennaro Esposito sul fine dining",
-        "description": "Lo chef della La Torre del Saracino parla senza filtri di fine dining, pizza d’autore, influencer e crisi dell’identità italiana: \"Ci stiamo dimenticando del cl…",
+        "description": "Lo chef de La Torre del Saracino parla senza filtri di fine dining, pizza d’autore, influencer e crisi dell’identità italiana: \"Ci stiamo dimenticando del clien…",
         "link": "https://www.gamberorosso.it/notizie/attualita/gennaro-esposito-intervista-ristoranti-noiosi/",
         "pubDate": "2026-06-23T08:42:34+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -484,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Sembra una casa di campagna inglese, invece è una trattoria milanese",
-        "description": "Al Garghet, a Gratosoglio, è un ristorante milanese aperto dal 1991 in un edificio del XIII secolo: undici ambienti, giardini, atmosfera fiabesca e cucina lomba…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/al-garghet-trattoria-milano/",
-        "pubDate": "2026-06-23T05:58:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Danone fa causa al suo competitor statunitense per pubblicità ingannevole sulle proteine",
         "description": "Una battaglia legale che nasconde una perdita di quote di mercato negli States, dove la corsa agli alimenti proteici è più viva che mai.\nL'articolo Danone fa ca…",
         "link": "https://www.dissapore.com/notizie/danone-fa-causa-al-suo-competitor-statunitense-per-pubblicita-ingannevole-sulle-proteine/",
@@ -500,24 +491,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/danone-proteine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Bianco di Pitigliano DOC, 60 anni tra storia, identità e nuove prospettive per il territorio",
-        "description": "Sessant’anni di storia per una delle denominazioni più antiche della Toscana. Il Consorzio di Tutela Bianco di Pitigliano e Sovana DOC ha celebrato l’anniversar…",
-        "link": "https://www.winemag.it/bianco-di-pitigliano-doc-60-anni-tra-storia-identita-e-nuove-prospettive-per-il-territorio/",
-        "pubDate": "2026-06-22T14:56:37+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Birra analcolica, la Gen Z traina la crescita: 7 giovani su 10 l’hanno già scelta",
-        "description": "Secondo una ricerca condotta da Heineken Italia con AstraRicerche, la birra analcolica si sta ritagliando uno spazio sempre più rilevante nelle abitudini di con…",
-        "link": "https://www.winemag.it/birra-analcolica-la-gen-z-traina-la-crescita-7-giovani-su-10-lhanno-gia-scelta/",
-        "pubDate": "2026-06-22T14:33:53+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Dopo le proteine, il nuovo trend è la creatina",
@@ -538,13 +511,40 @@
         "source": "Dissapore"
       },
       {
-        "title": "Vino italiano: al via Wines Experience Vietnam 2026",
-        "description": "È tutto pronto a Ho Chi Minh City per l’apertura ufficiale di Wines Experience Vietnam 2026. Il 25 e 26 giugno, il principale hub economico e commerciale del Pa…",
-        "link": "https://www.winemag.it/vino-italiano-al-via-wines-experience-vietnam-2026-ho-chi-minh-city/",
-        "pubDate": "2026-06-22T11:18:26+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "In Cina producono foie gras che costa 10 volte meno di quello francese",
+        "description": "Un mercato interno molto attivo potrebbe rendere la Cina il maggiore produttore mondiale di foie gras, scalzando il primato francese.\nL'articolo In Cina produco…",
+        "link": "https://www.dissapore.com/notizie/in-cina-producono-foie-gras-che-costa-10-volte-meno-di-quello-francese/",
+        "pubDate": "2026-06-22T07:54:39+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/foie-gras.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il vino dei Castelli ha una sua associazione (e fa sul serio)",
+        "description": "Nasce l'associazione VVL - Vignaioli del Vulcano Laziale - nel tentativo di rivalutare il vino dei Castelli Romani. La faccenda ha della credibilità e i produtt…",
+        "link": "https://www.dissapore.com/bere/il-vino-dei-castelli-ha-una-sua-associazione-e-fa-sul-serio/",
+        "pubDate": "2026-06-21T15:49:44+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/alfredo-sannibale.png?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A Parigi hanno vietato di bere alcol per strada per il troppo caldo",
+        "description": "Un'ordinanza della Prefettura vieta - a Parigi e in altri 34 dipartimenti - di consumare alcol per strada, per non intasare il pronto soccorso.\nL'articolo A Par…",
+        "link": "https://www.dissapore.com/notizie/a-parigi-hanno-vietato-di-bere-alcol-per-strada-per-il-troppo-caldo/",
+        "pubDate": "2026-06-21T14:18:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/10/donne-vino.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Per la causa animale Kevin Bacon cambia cognome",
+        "description": "Da pancetta a fagiolo: l'attore americano diventa (temporaneamente) Kevin Bean per promuovere una dieta più sostenibile.\nL'articolo Per la causa animale Kevin B…",
+        "link": "https://www.dissapore.com/notizie/per-la-causa-animale-kevin-bacon-cambia-cognome/",
+        "pubDate": "2026-06-21T09:25:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/bacon-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
