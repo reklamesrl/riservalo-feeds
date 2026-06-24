@@ -1,7 +1,43 @@
 {
-  "generated": "2026-06-23T20:06:18.904866+00:00",
+  "generated": "2026-06-24T09:30:55.271312+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La nuova mappa vitivinicola del Mandrolisai nasce dalla tradizione dei murales sardi",
+        "description": "In Sardegna, l'artista-muralista Mauro Patta ha disegnato un percorso per i 7 comuni della Dop che va oltre la semplice cartografia, per abbracciare la via dell…",
+        "link": "https://www.gamberorosso.it/notizie/vino/nuova-mappa-vitivinicola-mandrolisai-opera-mauro-patta/",
+        "pubDate": "2026-06-24T08:04:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli italiani bevono sempre meno birra (alcolica): i dati annuali di Assobirra",
+        "description": "Tra export (-6%), e consumi interni (-2,5% rispetto al 2024), l'unico valore che cresce è quello delle birre low e no alcol, che è salito dal 2,1% del mercato n…",
+        "link": "https://www.dissapore.com/notizie/gli-italiani-bevono-sempre-meno-birra-alcolica-i-dati-annuali-di-assobirra/",
+        "pubDate": "2026-06-24T07:53:25+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/07/birra-menabrea-min-scaled-e1721137306553.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A due passi dalla Baia del Silenzio, un’osteria dove si mangia ancora come una volta",
+        "description": "A Sestri Levante, tra carruggi, tavoli condivisi, forno a legna e vino della casa, l’Osteria Mattana continua a custodire la cucina popolare ligure…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/osteria-mattana-sestri-levante/",
+        "pubDate": "2026-06-24T05:43:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Erano ragazzi rimasti orfani dopo la guerra: 100 anni fa fondarono una cooperativa che esiste ancora oggi",
+        "description": "Agraria Riva del Garda compie 100 anni: dalla resistenza al fascismo alla rinascita con olio, vino e turismo, la storia di una cooperativa premiata dal Gambero …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/agraria-riva-del-garda-100-anni-cooperativa/",
+        "pubDate": "2026-06-24T05:23:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Questo piccolo Borgo Ligure affacciato sul mare sembra una splendida cartolina",
         "description": "Affacciato sul Golfo Dianese, Cervo è una delle destinazioni più affascinanti della Riviera ligure. Tra monumenti storici, scorci sul mare e tradizioni locali, …",
@@ -145,42 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Il bianco italiano che non teme il tempo: i migliori Verdicchio dei Castelli di Jesi",
-        "description": "Dalla costa adriatica alle colline marchigiane, il Verdicchio dei Castelli di Jesi mostra freschezza, sapidità e una sorprendente capacità di invecchiamento. Ec…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-verdicchio-castelli-jesi/",
-        "pubDate": "2026-06-23T08:53:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“I nostri ristoranti stanno diventando noiosi”: Gennaro Esposito sul fine dining",
-        "description": "Lo chef de La Torre del Saracino parla senza filtri di fine dining, pizza d’autore, influencer e crisi dell’identità italiana: \"Ci stiamo dimenticando del clien…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gennaro-esposito-intervista-ristoranti-noiosi/",
-        "pubDate": "2026-06-23T08:42:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli olivi morti per la Xylella hanno una seconda vita: diventano cover per iPhone",
-        "description": "Dopo aver recuperato il legno degli alberi abbattuti dalla tempesta Vaia, VAIA applica oggi lo stesso modello agli olivi colpiti dalla Xylella in Puglia: cover …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/xylella-olivi-cover-iphone-vaia/",
-        "pubDate": "2026-06-23T08:34:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questa vacca non dà latte se non vede il suo vitello",
-        "description": "A Crucoli, in Calabria, Michele Colucci continua a mungere a mano le podoliche per produrre caciocavallo. Una pratica rara, fragile e legata al rapporto tra mad…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caciocavallo-podolico-calabria-michele-colucci/",
-        "pubDate": "2026-06-23T07:58:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "La nuova mappa vitivinicola del Mandrolisai nasce dalla tradizione dei murales sardi",
+        "description": "In Sardegna, l'artista-muralista Mauro Patta ha disegnato un percorso per i 7 comuni della Dop che va oltre la semplice cartografia, per abbracciare la via dell…",
+        "link": "https://www.gamberorosso.it/notizie/vino/nuova-mappa-vitivinicola-mandrolisai-opera-mauro-patta/",
+        "pubDate": "2026-06-24T08:04:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli italiani bevono sempre meno birra (alcolica): i dati annuali di Assobirra",
+        "description": "Tra export (-6%), e consumi interni (-2,5% rispetto al 2024), l'unico valore che cresce è quello delle birre low e no alcol, che è salito dal 2,1% del mercato n…",
+        "link": "https://www.dissapore.com/notizie/gli-italiani-bevono-sempre-meno-birra-alcolica-i-dati-annuali-di-assobirra/",
+        "pubDate": "2026-06-24T07:53:25+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/07/birra-menabrea-min-scaled-e1721137306553.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A due passi dalla Baia del Silenzio, un’osteria dove si mangia ancora come una volta",
+        "description": "A Sestri Levante, tra carruggi, tavoli condivisi, forno a legna e vino della casa, l’Osteria Mattana continua a custodire la cucina popolare ligure…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/osteria-mattana-sestri-levante/",
+        "pubDate": "2026-06-24T05:43:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Erano ragazzi rimasti orfani dopo la guerra: 100 anni fa fondarono una cooperativa che esiste ancora oggi",
+        "description": "Agraria Riva del Garda compie 100 anni: dalla resistenza al fascismo alla rinascita con olio, vino e turismo, la storia di una cooperativa premiata dal Gambero …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/agraria-riva-del-garda-100-anni-cooperativa/",
+        "pubDate": "2026-06-24T05:23:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Mangiare molti gamberi può contribuire a distruggere le foreste di mangrovie",
         "description": "L'allarme viene dall'Ecuador, principale produttore mondiale, dove gli allevamenti mettono a rischio l'ecosistema.\nL'articolo Mangiare molti gamberi può contrib…",
         "link": "https://www.dissapore.com/notizie/mangiare-molti-gamberi-puo-contribuire-a-distruggere-le-foreste-di-mangrovie/",
@@ -457,33 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“I nostri ristoranti stanno diventando noiosi”: Gennaro Esposito sul fine dining",
-        "description": "Lo chef de La Torre del Saracino parla senza filtri di fine dining, pizza d’autore, influencer e crisi dell’identità italiana: \"Ci stiamo dimenticando del clien…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gennaro-esposito-intervista-ristoranti-noiosi/",
-        "pubDate": "2026-06-23T08:42:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli olivi morti per la Xylella hanno una seconda vita: diventano cover per iPhone",
-        "description": "Dopo aver recuperato il legno degli alberi abbattuti dalla tempesta Vaia, VAIA applica oggi lo stesso modello agli olivi colpiti dalla Xylella in Puglia: cover …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/xylella-olivi-cover-iphone-vaia/",
-        "pubDate": "2026-06-23T08:34:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questa vacca non dà latte se non vede il suo vitello",
-        "description": "A Crucoli, in Calabria, Michele Colucci continua a mungere a mano le podoliche per produrre caciocavallo. Una pratica rara, fragile e legata al rapporto tra mad…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caciocavallo-podolico-calabria-michele-colucci/",
-        "pubDate": "2026-06-23T07:58:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Danone fa causa al suo competitor statunitense per pubblicità ingannevole sulle proteine",
         "description": "Una battaglia legale che nasconde una perdita di quote di mercato negli States, dove la corsa agli alimenti proteici è più viva che mai.\nL'articolo Danone fa ca…",
         "link": "https://www.dissapore.com/notizie/danone-fa-causa-al-suo-competitor-statunitense-per-pubblicita-ingannevole-sulle-proteine/",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/a-parigi-hanno-vietato-di-bere-alcol-per-strada-per-il-troppo-caldo/",
         "pubDate": "2026-06-21T14:18:16+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2023/10/donne-vino.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Per la causa animale Kevin Bacon cambia cognome",
-        "description": "Da pancetta a fagiolo: l'attore americano diventa (temporaneamente) Kevin Bean per promuovere una dieta più sostenibile.\nL'articolo Per la causa animale Kevin B…",
-        "link": "https://www.dissapore.com/notizie/per-la-causa-animale-kevin-bacon-cambia-cognome/",
-        "pubDate": "2026-06-21T09:25:08+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/08/bacon-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
