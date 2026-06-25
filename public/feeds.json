@@ -1,7 +1,43 @@
 {
-  "generated": "2026-06-24T19:46:21.310955+00:00",
+  "generated": "2026-06-25T09:22:04.894299+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il vino si affida al Santo Padre: udienza in Vaticano per una delegazione guidata dall’enologo Cotarella",
+        "description": "Il presidente di Assoenologi ha affidato a Papa Leone XIV la viticoltura italiana: \"La vicinanza e la benedizione del Santo Padre rappresentano un segno di sper…",
+        "link": "https://www.gamberorosso.it/notizie/vino/enologi-udienza-papa-vaticano-riccardo-cotarella/",
+        "pubDate": "2026-06-25T09:02:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I blush più belli dell’Estate 2026 sono color albicocca. Trendy ed eleganti!",
+        "description": "Delicati, femminili e molto versatili, i blush albicocca sono i più amati dell'Estate 2026. Da provare!…",
+        "link": "https://www.stylosophy.it/articolo/i-blush-piu-belli-dellestate-2026-sono-color-albicocca/252074/",
+        "pubDate": "2026-06-25T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "C’è bisogno di rossi quotidiani ma non banali. La grande sfida per il vino contemporaneo",
+        "description": "Dai vini opulenti e scuri a quelli filigrana: ecco com'è cambiato nel tempo lo stile produttivo e verso dove si sta andando oggi che il mercato chiede novità e …",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-rosso-nuovo-stile-italiano-secondo-sarah-heller/",
+        "pubDate": "2026-06-25T08:03:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tenuta Etna Nord, il nuovo volto del vulcano: «Nel 2027 i vini di contrada»",
+        "description": "La Tenuta Etna Nord è un progetto della famiglia Cantoni di Terricciola, che investe nel nord dell'Etna dopo Fattoria di Fibbiano, in Toscana.\nL'articolo Tenuta…",
+        "link": "https://www.winemag.it/tenuta-etna-nord-il-nuovo-volto-del-vulcano-2027-vini-di-contrada/",
+        "pubDate": "2026-06-25T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Tenuta-Etna-Nord-il-nuovo-volto-del-vulcano-4-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Dietro la classifica del gelato 2026 di Dissapore: i criteri di valutazione",
         "description": "Parametri trasparenti e condivisi che ribadiamo per l'edizione 2026 della classifica delle 100 migliori gelaterie artigianali italiane. Come valutiamo il gelato…",
@@ -145,45 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-5.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Kate Moss e quel top lingerie con i dettagli in pizzo che anche noi vogliamo assolutamente nell’armadio quest’estate",
-        "description": "Con lavorazione a coste, in crochet, con peplum: in questa stagione possiamo contare su una grandissima varietà di top per costruire look estivi freschi e di gr…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/kate-moss-top-lingerie-intimissimi-sottogiacca-eleganti-seta-pizzo-spalline-sottili-982221",
-        "pubDate": "2026-06-24T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Top_lingerie.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Signorvino, nuove aperture da Udine a Napoli: 50 negozi nel 2026",
-        "description": "Signorvino accelera sullo sviluppo retail e punta a raggiungere i 50 punti vendita entro la fine del 2026. Il brand di cantina con cucina fondato nel 2012 da Sa…",
-        "link": "https://www.winemag.it/signorvino-sette-nuove-aperture-da-udine-a-napoli-verso-50-negozi-nel-2026/",
-        "pubDate": "2026-06-24T09:47:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "5 Consigli infallibili per dire addio alle borse sotto gli occhi (il terzo è una chicca)",
-        "description": "Ecco 5 consigli infallibili per combattere le borse sotto gli occhi. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-consigli-infallibili-per-dire-addio-alle-borse-sotto-gli-occhi-il-terzo-e-una-chicca/252201/",
-        "pubDate": "2026-06-24T09:30:56+00:00",
+        "title": "I blush più belli dell’Estate 2026 sono color albicocca. Trendy ed eleganti!",
+        "description": "Delicati, femminili e molto versatili, i blush albicocca sono i più amati dell'Estate 2026. Da provare!…",
+        "link": "https://www.stylosophy.it/articolo/i-blush-piu-belli-dellestate-2026-sono-color-albicocca/252074/",
+        "pubDate": "2026-06-25T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Pomellato debutta a Parigi con “Le Joaillier Révolutionnaire”, la mostra che celebra sessant’anni di audacia creativa",
-        "description": "Pomellato sceglie Parigi per presentare “Pomellato Le Joaillier Révolutionnaire”, la prima mostra dedicata alla storia e all’eredità creativa della Maison milan…",
-        "link": "https://www.grazia.it/moda/news-moda/pomellato-mostra-parigi-le-joaillier-revolutionnaire-982180",
-        "pubDate": "2026-06-24T09:24:58+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-apertura-4.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Piante da interno che aiutano a rinfrescare la casa: le 5 varietà più efficaci contro il caldo estivo",
         "description": "Le piante possono davvero migliorare il comfort domestico durante l'estate. Ecco quali scegliere e come posizionarle per creare un ambiente più piacevole e vivi…",
@@ -354,18 +363,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/DESK_Come_Vestirsi_a_50_anni.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Pomodori in vaso: i trucchi che trasformano il tuo balcone in un piccolo orto",
-        "description": "Coltivare pomodori in vaso è più semplice di quanto sembri. Con le giuste attenzioni anche un piccolo balcone può trasformarsi in un orto produttivo e che regal…",
-        "link": "https://www.stylosophy.it/articolo/pomodori-in-vaso-i-trucchi-che-trasformano-il-tuo-balcone-in-un-piccolo-orto/252031/",
-        "pubDate": "2026-06-22T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il vino si affida al Santo Padre: udienza in Vaticano per una delegazione guidata dall’enologo Cotarella",
+        "description": "Il presidente di Assoenologi ha affidato a Papa Leone XIV la viticoltura italiana: \"La vicinanza e la benedizione del Santo Padre rappresentano un segno di sper…",
+        "link": "https://www.gamberorosso.it/notizie/vino/enologi-udienza-papa-vaticano-riccardo-cotarella/",
+        "pubDate": "2026-06-25T09:02:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’è bisogno di rossi quotidiani ma non banali. La grande sfida per il vino contemporaneo",
+        "description": "Dai vini opulenti e scuri a quelli filigrana: ecco com'è cambiato nel tempo lo stile produttivo e verso dove si sta andando oggi che il mercato chiede novità e …",
+        "link": "https://www.gamberorosso.it/notizie/vino/vino-rosso-nuovo-stile-italiano-secondo-sarah-heller/",
+        "pubDate": "2026-06-25T08:03:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tenuta Etna Nord, il nuovo volto del vulcano: «Nel 2027 i vini di contrada»",
+        "description": "La Tenuta Etna Nord è un progetto della famiglia Cantoni di Terricciola, che investe nel nord dell'Etna dopo Fattoria di Fibbiano, in Toscana.\nL'articolo Tenuta…",
+        "link": "https://www.winemag.it/tenuta-etna-nord-il-nuovo-volto-del-vulcano-2027-vini-di-contrada/",
+        "pubDate": "2026-06-25T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Tenuta-Etna-Nord-il-nuovo-volto-del-vulcano-4-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Dietro la classifica del gelato 2026 di Dissapore: i criteri di valutazione",
         "description": "Parametri trasparenti e condivisi che ribadiamo per l'edizione 2026 della classifica delle 100 migliori gelaterie artigianali italiane. Come valutiamo il gelato…",
@@ -493,15 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Erano ragazzi rimasti orfani dopo la guerra: 100 anni fa fondarono una cooperativa che esiste ancora oggi",
-        "description": "Agraria Riva del Garda compie 100 anni: dalla resistenza al fascismo alla rinascita con olio, vino e turismo, la storia di una cooperativa premiata dal Gambero …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/agraria-riva-del-garda-100-anni-cooperativa/",
-        "pubDate": "2026-06-24T05:23:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Report Spumanti Prowein: premium, territori emergenti e zero alcol",
         "description": "Il vino mondiale rallenta, le bollicine no. O almeno resistono meglio di molte altre categorie. È questa la fotografia che emerge dal primo Sparkling Report pub…",
         "link": "https://www.winemag.it/report-spumanti-prowein-premium-territori-emergenti-e-zero-alcol/",
@@ -520,15 +538,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Boom di birre analcoliche: in un anno crescita dell’85%. Ecco come sta cambiando il settore brassicolo",
-        "description": "Nel 2025 frenano consumi (-2,5%) e vendite fuori casa, mentre crescono i nuovi trend. Il presidente di Assobirra Federico Sannella: \"Fase di resilienza che va a…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/boom-birre-analcoliche-report-assobirra-2025/",
-        "pubDate": "2026-06-23T15:09:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Aperitivo al Museo 2026, in Toscana torna l’evento che unisce vino, arte e archeologia",
         "description": "Sabato 27 giugno torna in Toscana la seconda edizione di Aperitivo al Museo, iniziativa promossa dal Movimento Turismo del Vino Toscana in collaborazione con It…",
         "link": "https://www.winemag.it/aperitivo-al-museo-2026-in-toscana-torna-levento-che-unisce-vino-arte-e-archeologia/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Via Querinissima, la strada del baccalà, ora è Itinerario culturale del Consiglio d’Europa",
-        "description": "La tecnica di conservazione del merluzzo mediante essiccazione, e quindi il baccalà, è ufficialmente itinerario culturale. \nL'articolo Via Querinissima, la stra…",
-        "link": "https://www.dissapore.com/notizie/via-querinissima-la-strada-del-baccala-ora-e-itinerario-culturale-del-consiglio-deuropa/",
-        "pubDate": "2026-06-23T13:24:18+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
