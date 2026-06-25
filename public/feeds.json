@@ -1,7 +1,70 @@
 {
-  "generated": "2026-06-25T14:34:09.538676+00:00",
+  "generated": "2026-06-25T20:00:57.960193+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Le 100 migliori gelaterie artigianali d’Italia del 2026 secondo Dissapore",
+        "description": "La classifica delle 100 gelaterie migliori d'Italia, edizione 2026. Una vera e propria guida al gelato artigianale attraverso i gusti più buoni e creativi di og…",
+        "link": "https://www.dissapore.com/locali/le-100-migliori-gelaterie-artigianali-ditalia-del-2026-secondo-dissapore/",
+        "pubDate": "2026-06-25T17:56:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelateria-santo-stefano-bologna-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A sorpresa i superalcolici superano il vino nelle preferenze dei consumatori statunitensi",
+        "description": "All'European wine summit di Taranto, l'analista di Ismea Tiziana Sarnari ha illustrato i dati che spiegano i cambiamenti delle abitudini di consumo negli States…",
+        "link": "https://www.gamberorosso.it/notizie/vino/consumi-vino-birra-superalcolici-stati-uniti-analisi-ismea/",
+        "pubDate": "2026-06-25T16:17:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Montagna o Mare? Ecco i borghi più belli per accontentare tutti questa estate",
+        "description": "Dalle Dolomiti fino alla Costiera Amalfitana: ecco sei destinazioni di montagna o mare dove trascorrere delle vacanze estive davvero indimenticabili.…",
+        "link": "https://www.stylosophy.it/articolo/montagna-o-mare-ecco-i-borghi-piu-belli-per-accontentare-tutti/252230/",
+        "pubDate": "2026-06-25T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“In Europa ci giochiamo il futuro del vino: il rischio è di perdere il budget dedicato”. L’appello di Varvaglione",
+        "description": "Dall'European Wine Summit di Taranto la presidente del Ceev lancia la sfida su etichette allarmistiche e prossima Pac, da cui si rischia di vedere sparire la ce…",
+        "link": "https://www.gamberorosso.it/notizie/vino/european-wine-summit-taranto-intervista-marzia-varvaglione-pac/",
+        "pubDate": "2026-06-25T15:49:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La storia dell’ex chef che a Parma ha portato il fine dining in gelateria",
+        "description": "Dai gusti classici agli special gastronomici, Alex Eiroldi racconta la sua idea di gelato “pensato” e spiega come riconoscere una nocciola di qualità…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/al-polo-gelato-pensato-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-06-25T15:38:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I consumi invecchiano con la popolazione",
+        "description": "Nell'ultima assemblea di Unione Italiana Food si è lanciato un allarme: invecchiamento della popolazione e denatalità sono grosse sfide per il settore alimentar…",
+        "link": "https://www.dissapore.com/notizie/i-consumi-invecchiano-con-la-popolazione/",
+        "pubDate": "2026-06-25T15:10:48+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/supermercato-cesto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Luigi Moio a Gavi: «La longevità del vino è identità, non semplice durata»",
+        "description": "Luigi Moio a Gavi «La longevità del vino è identità, non semplice durata». E il professore invita a produrre Gavi Docg di pronta beva.\nL'articolo Luigi Moio a G…",
+        "link": "https://www.winemag.it/luigi-moio-a-gavi-la-longevita-del-vino-e-identita-non-semplice-durata/",
+        "pubDate": "2026-06-25T14:58:05+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Luigi-Moio-a-Gavi-La-longevita-del-vino-e-identita-non-semplice-durata.-E-il-professore-invita-a-produrre-Gavi-Docg-di-pronta-beva.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Caldo record: è allarme nei vigneti. Le aree più a rischio e i rimedi per proteggere le piante",
         "description": "Il termometro sopra i 35 gradi di giorno e oltre i 20 la notte provoca la fotoinibizione che può incidere sulla qualità delle uve. Ma ci sono diversi rimedi (ir…",
@@ -19,6 +82,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Borse estive in saldo 2026: guida all’acquisto strategico e intelligente",
+        "description": "L’inizio dei saldi estivi, per il guardaroba di una donna, non è semplicemente un&#8217;esperienza di shopping, ma un vero e proprio momento di pianificazione s…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estate-2026-borse-da-comprare-consigli-acquisti-estivi-tracolle-shopper-pochette-minibag-981461",
+        "pubDate": "2026-06-25T13:01:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_SALDI_BORSE_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Kylie Jenner lancia una capsule con Meta e EssilorLuxottica: ecco i nuovi Meta Glasses con intelligenza artificiale",
@@ -46,6 +118,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Angelina Jolie conferma: sono gli occhiali da sole Aviator l’accessorio più cool dell’estate",
+        "description": "Lenti a goccia, montatura in metallo e uno stile intramontabile: sono gli occhiali da sole Aviator, quei modelli nati negli anni ’30 per i piloti dell’aviazione…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-da-sole-aviator-angelina-jolie-occhiale-con-lenti-a-goccia-rayban-gucci-bottega-veneta-tendenza-estate-982539",
+        "pubDate": "2026-06-25T11:24:53+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Occhiali_da_sole_aviator.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Marco Pierre White vuole una guida ai ristoranti in cui gli chef si giudicano tra loro",
@@ -100,90 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pensavamo fossero spariti: stanno tornando i gelati più vintage d’Italia",
-        "description": "L’affogato virale è solo l’inizio. Coppe, paciughi, spumoni e pezzi duri: i dessert gelati del Novecento stanno vivendo una nuova stagione…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gelati-vintage-italia-affogato-pezzi-duri/",
-        "pubDate": "2026-06-25T09:45:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ripetiamo tutti insieme: il sushi non è un Calippo",
-        "description": "Arriva anche in Italia la moda del pop up sushi, che sbarca anche in versione GDO in ottocento punti vendita Lidl.\nL'articolo Ripetiamo tutti insieme: il sushi …",
-        "link": "https://www.dissapore.com/notizie/ripetiamo-tutti-insieme-il-sushi-non-e-un-calippo/",
-        "pubDate": "2026-06-25T09:28:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/bento-giapponese-scaled-e1746797377893.jpeg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il vino si affida al Santo Padre: udienza in Vaticano per una delegazione guidata dall’enologo Cotarella",
-        "description": "Il presidente di Assoenologi ha affidato a Papa Leone XIV la viticoltura italiana: \"La vicinanza e la benedizione del Santo Padre rappresentano un segno di sper…",
-        "link": "https://www.gamberorosso.it/notizie/vino/enologi-udienza-papa-vaticano-riccardo-cotarella/",
-        "pubDate": "2026-06-25T09:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I blush più belli dell’Estate 2026 sono color albicocca. Trendy ed eleganti!",
-        "description": "Delicati, femminili e molto versatili, i blush albicocca sono i più amati dell'Estate 2026. Da provare!…",
-        "link": "https://www.stylosophy.it/articolo/i-blush-piu-belli-dellestate-2026-sono-color-albicocca/252074/",
-        "pubDate": "2026-06-25T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "C’è bisogno di rossi quotidiani ma non banali. La grande sfida per il vino contemporaneo",
-        "description": "Dai vini opulenti e scuri a quelli filigrana: ecco com'è cambiato nel tempo lo stile produttivo e verso dove si sta andando oggi che il mercato chiede novità e …",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-rosso-nuovo-stile-italiano-secondo-sarah-heller/",
-        "pubDate": "2026-06-25T08:03:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tenuta Etna Nord, il nuovo volto del vulcano: «Nel 2027 i vini di contrada»",
-        "description": "La Tenuta Etna Nord è un progetto della famiglia Cantoni di Terricciola, che investe nel nord dell'Etna dopo Fattoria di Fibbiano, in Toscana.\nL'articolo Tenuta…",
-        "link": "https://www.winemag.it/tenuta-etna-nord-il-nuovo-volto-del-vulcano-2027-vini-di-contrada/",
-        "pubDate": "2026-06-25T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Tenuta-Etna-Nord-il-nuovo-volto-del-vulcano-4-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dietro la classifica del gelato 2026 di Dissapore: i criteri di valutazione",
-        "description": "Parametri trasparenti e condivisi che ribadiamo per l'edizione 2026 della classifica delle 100 migliori gelaterie artigianali italiane. Come valutiamo il gelato…",
-        "link": "https://www.dissapore.com/locali/dietro-la-classifica-del-gelato-2026-di-dissapore-i-criteri-di-valutazione/",
-        "pubDate": "2026-06-24T17:57:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/profilo-sensoriale-gelato-scaled.png?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Piante da interno che aiutano a rinfrescare la casa: le 5 varietà più efficaci contro il caldo estivo",
-        "description": "Le piante possono davvero migliorare il comfort domestico durante l'estate. Ecco quali scegliere e come posizionarle per creare un ambiente più piacevole e vivi…",
-        "link": "https://www.stylosophy.it/articolo/piante-da-interno-che-aiutano-a-rinfrescare-la-casa/252176/",
-        "pubDate": "2026-06-24T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "AIS Lombardia diventa Ente del Terzo Settore",
-        "description": "L’Associazione Italiana Sommelier Lombardia è ufficialmente entrata a far parte del Terzo Settore, assumendo la nuova denominazione di Associazione Italiana Som…",
-        "link": "https://www.winemag.it/ais-lombardia-diventa-ente-del-terzo-settore-associazione-italiana-sommelier-lombardia-ets/",
-        "pubDate": "2026-06-24T14:55:10+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Associazione-Italiana-Sommelier-Lombardia-nel-Terzo-Settore-con-la-nuova-denominazione-di-Associazione-Italiana-Sommelier-Lombardia-ETS-Hosam-Eldin-Abou-Eleyoun-Rossella-Ronzoni.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Montagna o Mare? Ecco i borghi più belli per accontentare tutti questa estate",
+        "description": "Dalle Dolomiti fino alla Costiera Amalfitana: ecco sei destinazioni di montagna o mare dove trascorrere delle vacanze estive davvero indimenticabili.…",
+        "link": "https://www.stylosophy.it/articolo/montagna-o-mare-ecco-i-borghi-piu-belli-per-accontentare-tutti/252230/",
+        "pubDate": "2026-06-25T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Borse estive in saldo 2026: guida all’acquisto strategico e intelligente",
+        "description": "L’inizio dei saldi estivi, per il guardaroba di una donna, non è semplicemente un&#8217;esperienza di shopping, ma un vero e proprio momento di pianificazione s…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estate-2026-borse-da-comprare-consigli-acquisti-estivi-tracolle-shopper-pochette-minibag-981461",
+        "pubDate": "2026-06-25T13:01:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_SALDI_BORSE_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Kylie Jenner lancia una capsule con Meta e EssilorLuxottica: ecco i nuovi Meta Glasses con intelligenza artificiale",
         "description": "Kylie Jenner ha collaborato con Meta e EssilorLuxottica ad una capsule dando vita ai Meta Glasses, un paio di occhiali da sole glamour e stilosi, con intelligen…",
@@ -192,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Angelina Jolie conferma: sono gli occhiali da sole Aviator l’accessorio più cool dell’estate",
+        "description": "Lenti a goccia, montatura in metallo e uno stile intramontabile: sono gli occhiali da sole Aviator, quei modelli nati negli anni ’30 per i piloti dell’aviazione…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-da-sole-aviator-angelina-jolie-occhiale-con-lenti-a-goccia-rayban-gucci-bottega-veneta-tendenza-estate-982539",
+        "pubDate": "2026-06-25T11:24:53+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Occhiali_da_sole_aviator.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "I pantaloncini più chic dell’Estate: perfetti anche per le occasioni speciali",
@@ -210,6 +237,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "I beach club e i lidi più cool dell’estate sono quelli customizzati dai brand di moda, of course!",
+        "description": "L&#8217;estate 2026 conferma una delle tendenze più forti del lusso contemporaneo: i fashion brand infatti non si limitano più a vestire le persone, ma trasform…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/beach-club-lidi-spiagge-customizzate-brand-lusso-estate-2026-982131",
+        "pubDate": "2026-06-25T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_beach_club.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Saldi estivi 2026: i must-have da mettere subito nella shopping list",
+        "description": "Ormai ci siamo, il countdown è iniziato: a brevissimo (il 4 luglio per essere precise) partiranno ufficialmente i saldi estivi e questo significa che è già arri…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-2026-quando-iniziano-4-luglio-cosa-comprare-con-gli-sconti-must-have-982182",
+        "pubDate": "2026-06-24T18:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_MUST_HAVE_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Piante da interno che aiutano a rinfrescare la casa: le 5 varietà più efficaci contro il caldo estivo",
@@ -318,54 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Chiara Ferragni vola in montagna con il top di super tendenza per questa stagione!",
-        "description": "Chiara Ferragni, anche in estate, da trend setter e fashion icon qual è, rimane al passo con i tempi sfoggiando il top in crochet di super tendenza.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-vola-in-montagna-con-il-top-di-super-tendenza-per-questa-stagione/252116/",
-        "pubDate": "2026-06-23T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Milano Moda Uomo: il recap della Fashion Week Spring/Summer 2027",
-        "description": "Con l’arrivo della nuova stagione è ripartito ufficialmente il ricco&#160;calendario di appuntamenti dedicati al menswear. Dopo la full immersion tra le novità …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/milano-moda-uomo-primavera-estate-2027-tendenze-menswear-981655",
-        "pubDate": "2026-06-23T12:41:53+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Julia Roberts negli anni ’90 aveva già trovato il modo più easy di indossare la gonna di paillettes (e noi vi sveliamo come ricreare il suo look)",
-        "description": "Viene inevitabilmente associata ai look delle grandi occasioni, ma chi l’ha detto che la gonna di paillettes non può essere sfruttata anche nel quotidiano! Gran…",
-        "link": "https://www.grazia.it/moda/get-the-look/gonna-di-paillettes-come-indossare-abbinare-in-estate-di-giorno-con-canotta-julia-roberts-get-the-look-982040",
-        "pubDate": "2026-06-23T10:11:56+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Gonna_paillettes.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Trend alert: le ballerine sono (di nuovo) le protagoniste dell’estate. Ecco qualche dritta per indossarle come le cool girls di Instagram",
-        "description": "Ballerine anche d&#8217;estate? Sì, grazie! Del resto al loro fascino bon ton non difficilmente sappiamo dire di no. Anche quando la summer season fa capolino, …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-come-indossare-inspo-look-estate-abbinamenti-outfit-instagram-981545",
-        "pubDate": "2026-06-23T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_inspo_ballerine.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Come vestirsi bene a 50 anni: i capi e gli accessori da puntare per uno stile fresco e raffinato",
-        "description": "Svincolarsi dalle convenzioni, lasciarsi guidare dai propri gusti piuttosto che dalle tendenze del momento, avere a disposizione nell’armadio un paio di capi e …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-bene-a-50-anni-estate-donna-vestiti-scarpe-borse-accessori-idee-outfit-981066",
-        "pubDate": "2026-06-22T18:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/DESK_Come_Vestirsi_a_50_anni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Le 100 migliori gelaterie artigianali d’Italia del 2026 secondo Dissapore",
+        "description": "La classifica delle 100 gelaterie migliori d'Italia, edizione 2026. Una vera e propria guida al gelato artigianale attraverso i gusti più buoni e creativi di og…",
+        "link": "https://www.dissapore.com/locali/le-100-migliori-gelaterie-artigianali-ditalia-del-2026-secondo-dissapore/",
+        "pubDate": "2026-06-25T17:56:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelateria-santo-stefano-bologna-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A sorpresa i superalcolici superano il vino nelle preferenze dei consumatori statunitensi",
+        "description": "All'European wine summit di Taranto, l'analista di Ismea Tiziana Sarnari ha illustrato i dati che spiegano i cambiamenti delle abitudini di consumo negli States…",
+        "link": "https://www.gamberorosso.it/notizie/vino/consumi-vino-birra-superalcolici-stati-uniti-analisi-ismea/",
+        "pubDate": "2026-06-25T16:17:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“In Europa ci giochiamo il futuro del vino: il rischio è di perdere il budget dedicato”. L’appello di Varvaglione",
+        "description": "Dall'European Wine Summit di Taranto la presidente del Ceev lancia la sfida su etichette allarmistiche e prossima Pac, da cui si rischia di vedere sparire la ce…",
+        "link": "https://www.gamberorosso.it/notizie/vino/european-wine-summit-taranto-intervista-marzia-varvaglione-pac/",
+        "pubDate": "2026-06-25T15:49:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La storia dell’ex chef che a Parma ha portato il fine dining in gelateria",
+        "description": "Dai gusti classici agli special gastronomici, Alex Eiroldi racconta la sua idea di gelato “pensato” e spiega come riconoscere una nocciola di qualità…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/al-polo-gelato-pensato-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-06-25T15:38:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I consumi invecchiano con la popolazione",
+        "description": "Nell'ultima assemblea di Unione Italiana Food si è lanciato un allarme: invecchiamento della popolazione e denatalità sono grosse sfide per il settore alimentar…",
+        "link": "https://www.dissapore.com/notizie/i-consumi-invecchiano-con-la-popolazione/",
+        "pubDate": "2026-06-25T15:10:48+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/supermercato-cesto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Luigi Moio a Gavi: «La longevità del vino è identità, non semplice durata»",
+        "description": "Luigi Moio a Gavi «La longevità del vino è identità, non semplice durata». E il professore invita a produrre Gavi Docg di pronta beva.\nL'articolo Luigi Moio a G…",
+        "link": "https://www.winemag.it/luigi-moio-a-gavi-la-longevita-del-vino-e-identita-non-semplice-durata/",
+        "pubDate": "2026-06-25T14:58:05+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Luigi-Moio-a-Gavi-La-longevita-del-vino-e-identita-non-semplice-durata.-E-il-professore-invita-a-produrre-Gavi-Docg-di-pronta-beva.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Caldo record: è allarme nei vigneti. Le aree più a rischio e i rimedi per proteggere le piante",
         "description": "Il termometro sopra i 35 gradi di giorno e oltre i 20 la notte provoca la fotoinibizione che può incidere sulla qualità delle uve. Ma ci sono diversi rimedi (ir…",
@@ -448,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Pensavamo fossero spariti: stanno tornando i gelati più vintage d’Italia",
-        "description": "L’affogato virale è solo l’inizio. Coppe, paciughi, spumoni e pezzi duri: i dessert gelati del Novecento stanno vivendo una nuova stagione…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gelati-vintage-italia-affogato-pezzi-duri/",
-        "pubDate": "2026-06-25T09:45:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Ripetiamo tutti insieme: il sushi non è un Calippo",
         "description": "Arriva anche in Italia la moda del pop up sushi, che sbarca anche in versione GDO in ottocento punti vendita Lidl.\nL'articolo Ripetiamo tutti insieme: il sushi …",
         "link": "https://www.dissapore.com/notizie/ripetiamo-tutti-insieme-il-sushi-non-e-un-calippo/",
@@ -464,24 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/05/bento-giapponese-scaled-e1746797377893.jpeg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il vino si affida al Santo Padre: udienza in Vaticano per una delegazione guidata dall’enologo Cotarella",
-        "description": "Il presidente di Assoenologi ha affidato a Papa Leone XIV la viticoltura italiana: \"La vicinanza e la benedizione del Santo Padre rappresentano un segno di sper…",
-        "link": "https://www.gamberorosso.it/notizie/vino/enologi-udienza-papa-vaticano-riccardo-cotarella/",
-        "pubDate": "2026-06-25T09:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "C’è bisogno di rossi quotidiani ma non banali. La grande sfida per il vino contemporaneo",
-        "description": "Dai vini opulenti e scuri a quelli filigrana: ecco com'è cambiato nel tempo lo stile produttivo e verso dove si sta andando oggi che il mercato chiede novità e …",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-rosso-nuovo-stile-italiano-secondo-sarah-heller/",
-        "pubDate": "2026-06-25T08:03:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Tenuta Etna Nord, il nuovo volto del vulcano: «Nel 2027 i vini di contrada»",
@@ -516,33 +543,6 @@
         "link": "https://www.dissapore.com/notizie/come-che-il-caldo-sta-facendo-abbassare-i-prezzi-di-frutta-e-verdura/",
         "pubDate": "2026-06-24T13:27:04+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/pomodori-assolati-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Grano antico a Venaria Reale, recensione: la pizza gourmet che resiste in provincia",
-        "description": "A Venaria Reale, fuori Torino, la pizza gourmet resiste a suon di Patanegra e grano antico, che dà il nome questa una pizzeria. La nostra recensione. \nL'articol…",
-        "link": "https://www.dissapore.com/pizzerie/grano-antico-a-venaria-reale-recensione/",
-        "pubDate": "2026-06-24T11:31:46+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/pizzeria-grano-antico-insegna.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Signorvino, nuove aperture da Udine a Napoli: 50 negozi nel 2026",
-        "description": "Signorvino accelera sullo sviluppo retail e punta a raggiungere i 50 punti vendita entro la fine del 2026. Il brand di cantina con cucina fondato nel 2012 da Sa…",
-        "link": "https://www.winemag.it/signorvino-sette-nuove-aperture-da-udine-a-napoli-verso-50-negozi-nel-2026/",
-        "pubDate": "2026-06-24T09:47:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Gli italiani bevono sempre meno birra (alcolica): i dati annuali di Assobirra",
-        "description": "Tra export (-6%), e consumi interni (-2,5% rispetto al 2024), l'unico valore che cresce è quello delle birre low e no alcol, che è salito dal 2,1% del mercato n…",
-        "link": "https://www.dissapore.com/notizie/gli-italiani-bevono-sempre-meno-birra-alcolica-i-dati-annuali-di-assobirra/",
-        "pubDate": "2026-06-24T07:53:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/07/birra-menabrea-min-scaled-e1721137306553.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
