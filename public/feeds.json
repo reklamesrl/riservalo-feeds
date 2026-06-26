@@ -1,7 +1,115 @@
 {
-  "generated": "2026-06-26T09:28:10.920738+00:00",
+  "generated": "2026-06-26T14:25:30.669448+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A Milano ha aperto un ristorante controcorrente: basta minimalismo",
+        "description": "Dopo tre anni lontano dai fornelli, Roberto Conti torna a Milano con una cucina classica, francese e goduriosa: burro, salse e tecnica al centro…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/milano-ristorante-controcorrente-minimalismo/",
+        "pubDate": "2026-06-26T14:16:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’ultima tavola calda di Torino in cui si mangia con 12 euro",
+        "description": "Da Junior Grill, storico self service torinese, un primo costa 3,50 euro e un secondo 4,50: tra operai, studenti e foodies, qui il tempo sembra fermo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torino-menu-completo-12-euro/",
+        "pubDate": "2026-06-26T13:57:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché le bottiglie di vino hanno forme diverse?",
+        "description": "Dal fondo incavato della champagnotta alle spalle della bordolese: ecco perché la forma di una bottiglia influenza conservazione e servizio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/forme-bottiglie-vino/",
+        "pubDate": "2026-06-26T13:46:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Hailey Bieber posa per la nuova campagna Everyday Cotton di Skims",
+        "description": "Hailey Bieber è la testimonial della nuova campagna Everyday Cotton di Skims.…",
+        "link": "https://www.stylosophy.it/articolo/hailey-bieber-posa-per-la-nuova-campagna-everyday-cotton-di-skims/252317/",
+        "pubDate": "2026-06-26T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Kylie Jenner portata in tribunale dalla sua ex cuoca",
+        "description": "Per la terza volta Kylie Jenner viene portata in tribunale da una sua dipendente: questa volta ad accusarla è la sua chef personale.\nL'articolo Kylie Jenner por…",
+        "link": "https://www.dissapore.com/notizie/kylie-jenner-portata-in-tribunale-dalla-sua-ex-cuoca/",
+        "pubDate": "2026-06-26T11:56:22+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Gli Shorts in denim trendy e cool che stanno spopolando questa Estate",
+        "description": "Sono questi gli shorts in denim must have dell'Estate 2026, un inno al glamour più assoluto. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/5-shorts-in-denim-trendy-e-cool-che-stanno-spopolando-questa-estate/251759/",
+        "pubDate": "2026-06-26T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Gli spaghetti freddi saranno il piatto dell’estate?",
+        "description": "Da Marchesi a Cesare Battisti, sempre più chef mettono in discussione un tabù italiano: la pasta deve davvero essere servita solo calda?…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/spaghetti-freddi-piatto-estate/",
+        "pubDate": "2026-06-26T10:59:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I migliori oli extravergine della Puglia da comprare ora",
+        "description": "Dalla Coratina alla Peranzana, ecco la miniguida ai migliori extravergine pugliesi premiati con le Tre Foglie nella guida Oli d’Italia 2026/2027…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-extravergine-puglia-2026/",
+        "pubDate": "2026-06-26T10:52:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bertolucci vietò il catering sul set e portò De Niro in una trattoria parmense",
+        "description": "Durante le riprese di Novecento, Bernardo Bertolucci rinunciò ai pranzi di produzione e portò De Niro, Depardieu e il cast alla storica Cantarelli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bertolucci-catering-de-niro-trattoria-parma/",
+        "pubDate": "2026-06-26T10:28:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Morì a 39 anni: 25 anni dopo la famiglia lancia il suo vino simbolo",
+        "description": "Matteo Correggia contribuì a rendere grande il Roero prima di morire in un incidente sul lavoro. Oggi figli e moglie gli dedicano un nuovo Nebbiolo…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/matteo-correggia-nuovo-vino/",
+        "pubDate": "2026-06-26T10:24:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La chiamano “pizza turca”: per molti non ha nulla da invidiare alla napoletana",
+        "description": "Croccante, speziato e arrotolato come street food: il lahmacun divide Turchia e Armenia ed è tra i simboli del Medio Oriente…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lahmacun-pizza-turca/",
+        "pubDate": "2026-06-26T10:09:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Cagliari sopravvive una trattoria di 100 anni sul mare",
+        "description": "Nel villaggio di pescatori di Giorgino, dimenticato da quasi tutti, quattro generazioni tramandano una delle ultime vere cucine di mare di Cagliari…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/cagliari-trattoria-cento-anni-sul-mare/",
+        "pubDate": "2026-06-26T09:46:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Assoenologi in udienza da Papa Leone XIV. Cotarella: «Affidato alle sue preghiere il mondo del vino italiano»",
         "description": "Una folta delegazione di Assoenologi ha partecipato ieri mattina all&#8217;udienza generale con Papa Leone XIV in Vaticano. Al termine dell&#8217;incontro, il p…",
@@ -73,117 +181,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "“In Europa ci giochiamo il futuro del vino: il rischio è di perdere il budget dedicato”. L’appello di Varvaglione",
-        "description": "Dall'European Wine Summit di Taranto la presidente del Ceev lancia la sfida su etichette allarmistiche e prossima Pac, da cui si rischia di vedere sparire la ce…",
-        "link": "https://www.gamberorosso.it/notizie/vino/european-wine-summit-taranto-intervista-marzia-varvaglione-pac/",
-        "pubDate": "2026-06-25T15:49:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La storia dell’ex chef che a Parma ha portato il fine dining in gelateria",
-        "description": "Dai gusti classici agli special gastronomici, Alex Eiroldi racconta la sua idea di gelato “pensato” e spiega come riconoscere una nocciola di qualità…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/al-polo-gelato-pensato-nocciola-monferrato-agrimontana/",
-        "pubDate": "2026-06-25T15:38:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I consumi invecchiano con la popolazione",
-        "description": "Nell'ultima assemblea di Unione Italiana Food si è lanciato un allarme: invecchiamento della popolazione e denatalità sono grosse sfide per il settore alimentar…",
-        "link": "https://www.dissapore.com/notizie/i-consumi-invecchiano-con-la-popolazione/",
-        "pubDate": "2026-06-25T15:10:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/supermercato-cesto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Luigi Moio a Gavi: «La longevità del vino è identità, non semplice durata»",
-        "description": "Luigi Moio a Gavi «La longevità del vino è identità, non semplice durata». E il professore invita a produrre Gavi Docg di pronta beva.\nL'articolo Luigi Moio a G…",
-        "link": "https://www.winemag.it/luigi-moio-a-gavi-la-longevita-del-vino-e-identita-non-semplice-durata/",
-        "pubDate": "2026-06-25T14:58:05+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Luigi-Moio-a-Gavi-La-longevita-del-vino-e-identita-non-semplice-durata.-E-il-professore-invita-a-produrre-Gavi-Docg-di-pronta-beva.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Caldo record: è allarme nei vigneti. Le aree più a rischio e i rimedi per proteggere le piante",
-        "description": "Il termometro sopra i 35 gradi di giorno e oltre i 20 la notte provoca la fotoinibizione che può incidere sulla qualità delle uve. Ma ci sono diversi rimedi (ir…",
-        "link": "https://www.gamberorosso.it/notizie/vino/caldo-record-rischi-vendemmia-2026-intervista-crea-luigi-tarricone/",
-        "pubDate": "2026-06-25T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La festa del vino naturale arriva nel cuore di Garbatella",
-        "description": "Una serata di degustazione a Roma negli spazi di casetta Rossa per la terza edizione di Fiera! con 25 vignaioli artigianali e con un’iniziativa solidale per la …",
-        "link": "https://www.gamberorosso.it/notizie/vino/terza-edizione-fiera-vino-naturale-roma-garbatella/",
-        "pubDate": "2026-06-25T13:15:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Borse estive in saldo 2026: guida all’acquisto strategico e intelligente",
-        "description": "L’inizio dei saldi estivi, per il guardaroba di una donna, non è semplicemente un&#8217;esperienza di shopping, ma un vero e proprio momento di pianificazione s…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estate-2026-borse-da-comprare-consigli-acquisti-estivi-tracolle-shopper-pochette-minibag-981461",
-        "pubDate": "2026-06-25T13:01:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_SALDI_BORSE_2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Kylie Jenner lancia una capsule con Meta e EssilorLuxottica: ecco i nuovi Meta Glasses con intelligenza artificiale",
-        "description": "Kylie Jenner ha collaborato con Meta e EssilorLuxottica ad una capsule dando vita ai Meta Glasses, un paio di occhiali da sole glamour e stilosi, con intelligen…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-una-capsule-con-meta-e-essilorluxottica-ecco-i-nuovi-meta-glasses-con-intelligenza-artificiale/252272/",
-        "pubDate": "2026-06-25T13:00:00+00:00",
+        "title": "Hailey Bieber posa per la nuova campagna Everyday Cotton di Skims",
+        "description": "Hailey Bieber è la testimonial della nuova campagna Everyday Cotton di Skims.…",
+        "link": "https://www.stylosophy.it/articolo/hailey-bieber-posa-per-la-nuova-campagna-everyday-cotton-di-skims/252317/",
+        "pubDate": "2026-06-26T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Il vero protagonista della discoteca non è più il dj",
-        "description": "Negli anni '70 si usciva per ballare e si arrivava in discoteca già mangiati. Oggi la nightlife è cambiata: tra cocktail bar, dinner club e listening bar, al ce…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/come-cambiano-le-discoteche/",
-        "pubDate": "2026-06-25T12:29:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "De Cecco apre a Pescara il primo Store ufficiale: uno spazio dedicato alla storia e ai valori del marchio",
-        "description": "De Cecco ha inaugurato a Pescara il suo primo Store ufficiale, un nuovo spazio pensato per raccontare l’identità aziendale e i valori che guidano il gruppo da q…",
-        "link": "https://www.winemag.it/de-cecco-apre-a-pescara-il-primo-store-ufficiale-uno-spazio-dedicato-alla-storia-e-ai-valori-del-marchio/",
-        "pubDate": "2026-06-25T12:17:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Angelina Jolie conferma: sono gli occhiali da sole Aviator l’accessorio più cool dell’estate",
-        "description": "Lenti a goccia, montatura in metallo e uno stile intramontabile: sono gli occhiali da sole Aviator, quei modelli nati negli anni ’30 per i piloti dell’aviazione…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-da-sole-aviator-angelina-jolie-occhiale-con-lenti-a-goccia-rayban-gucci-bottega-veneta-tendenza-estate-982539",
-        "pubDate": "2026-06-25T11:24:53+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Occhiali_da_sole_aviator.jpg",
+        "title": "Gli Shorts in denim trendy e cool che stanno spopolando questa Estate",
+        "description": "Sono questi gli shorts in denim must have dell'Estate 2026, un inno al glamour più assoluto. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/5-shorts-in-denim-trendy-e-cool-che-stanno-spopolando-questa-estate/251759/",
+        "pubDate": "2026-06-26T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
-        "source": "Grazia"
+        "source": "Stylosophy"
       },
-      {
-        "title": "Marco Pierre White vuole una guida ai ristoranti in cui gli chef si giudicano tra loro",
-        "description": "La leggenda della cucina britannica sarebbe al lavoro su una guida ristoranti, in cerca del sommo schiaffo alla Michelin. E c'è già da fare qualche osservazione…",
-        "link": "https://www.dissapore.com/notizie/marco-pierre-white-vuole-una-guida-ai-ristoranti-in-cui-gli-chef-si-giudicano-tra-loro/",
-        "pubDate": "2026-06-25T11:01:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/09/guida-michelin-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "I Gloss super shiny per chi vuole labbra brillanti e rimpolpate",
         "description": "Per labbra idratate, rimpolpate e dall'effetto shiny, ecco 5 gloss ora in voga da provare assolutamente. Dei veri must have dell'Estate!…",
@@ -329,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "5 Consigli infallibili per dire addio alle borse sotto gli occhi (il terzo è una chicca)",
-        "description": "Ecco 5 consigli infallibili per combattere le borse sotto gli occhi. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-consigli-infallibili-per-dire-addio-alle-borse-sotto-gli-occhi-il-terzo-e-una-chicca/252201/",
-        "pubDate": "2026-06-24T09:30:56+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Pomellato debutta a Parigi con “Le Joaillier Révolutionnaire”, la mostra che celebra sessant’anni di audacia creativa",
         "description": "Pomellato sceglie Parigi per presentare “Pomellato Le Joaillier Révolutionnaire”, la prima mostra dedicata alla storia e all’eredità creativa della Maison milan…",
         "link": "https://www.grazia.it/moda/news-moda/pomellato-mostra-parigi-le-joaillier-revolutionnaire-982180",
@@ -354,18 +363,99 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_frange.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Questo piccolo Borgo Ligure affacciato sul mare sembra una splendida cartolina",
-        "description": "Affacciato sul Golfo Dianese, Cervo è una delle destinazioni più affascinanti della Riviera ligure. Tra monumenti storici, scorci sul mare e tradizioni locali, …",
-        "link": "https://www.stylosophy.it/articolo/questo-piccolo-borgo-ligure-affacciato-sul-mare-sembra-una-splendida-cartolina/252085/",
-        "pubDate": "2026-06-23T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "A Milano ha aperto un ristorante controcorrente: basta minimalismo",
+        "description": "Dopo tre anni lontano dai fornelli, Roberto Conti torna a Milano con una cucina classica, francese e goduriosa: burro, salse e tecnica al centro…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/milano-ristorante-controcorrente-minimalismo/",
+        "pubDate": "2026-06-26T14:16:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’ultima tavola calda di Torino in cui si mangia con 12 euro",
+        "description": "Da Junior Grill, storico self service torinese, un primo costa 3,50 euro e un secondo 4,50: tra operai, studenti e foodies, qui il tempo sembra fermo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torino-menu-completo-12-euro/",
+        "pubDate": "2026-06-26T13:57:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché le bottiglie di vino hanno forme diverse?",
+        "description": "Dal fondo incavato della champagnotta alle spalle della bordolese: ecco perché la forma di una bottiglia influenza conservazione e servizio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/forme-bottiglie-vino/",
+        "pubDate": "2026-06-26T13:46:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Kylie Jenner portata in tribunale dalla sua ex cuoca",
+        "description": "Per la terza volta Kylie Jenner viene portata in tribunale da una sua dipendente: questa volta ad accusarla è la sua chef personale.\nL'articolo Kylie Jenner por…",
+        "link": "https://www.dissapore.com/notizie/kylie-jenner-portata-in-tribunale-dalla-sua-ex-cuoca/",
+        "pubDate": "2026-06-26T11:56:22+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Gli spaghetti freddi saranno il piatto dell’estate?",
+        "description": "Da Marchesi a Cesare Battisti, sempre più chef mettono in discussione un tabù italiano: la pasta deve davvero essere servita solo calda?…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/spaghetti-freddi-piatto-estate/",
+        "pubDate": "2026-06-26T10:59:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I migliori oli extravergine della Puglia da comprare ora",
+        "description": "Dalla Coratina alla Peranzana, ecco la miniguida ai migliori extravergine pugliesi premiati con le Tre Foglie nella guida Oli d’Italia 2026/2027…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-extravergine-puglia-2026/",
+        "pubDate": "2026-06-26T10:52:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bertolucci vietò il catering sul set e portò De Niro in una trattoria parmense",
+        "description": "Durante le riprese di Novecento, Bernardo Bertolucci rinunciò ai pranzi di produzione e portò De Niro, Depardieu e il cast alla storica Cantarelli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bertolucci-catering-de-niro-trattoria-parma/",
+        "pubDate": "2026-06-26T10:28:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Morì a 39 anni: 25 anni dopo la famiglia lancia il suo vino simbolo",
+        "description": "Matteo Correggia contribuì a rendere grande il Roero prima di morire in un incidente sul lavoro. Oggi figli e moglie gli dedicano un nuovo Nebbiolo…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/matteo-correggia-nuovo-vino/",
+        "pubDate": "2026-06-26T10:24:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La chiamano “pizza turca”: per molti non ha nulla da invidiare alla napoletana",
+        "description": "Croccante, speziato e arrotolato come street food: il lahmacun divide Turchia e Armenia ed è tra i simboli del Medio Oriente…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lahmacun-pizza-turca/",
+        "pubDate": "2026-06-26T10:09:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Cagliari sopravvive una trattoria di 100 anni sul mare",
+        "description": "Nel villaggio di pescatori di Giorgino, dimenticato da quasi tutti, quattro generazioni tramandano una delle ultime vere cucine di mare di Cagliari…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/cagliari-trattoria-cento-anni-sul-mare/",
+        "pubDate": "2026-06-26T09:46:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Assoenologi in udienza da Papa Leone XIV. Cotarella: «Affidato alle sue preghiere il mondo del vino italiano»",
         "description": "Una folta delegazione di Assoenologi ha partecipato ieri mattina all&#8217;udienza generale con Papa Leone XIV in Vaticano. Al termine dell&#8217;incontro, il p…",
@@ -421,24 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“In Europa ci giochiamo il futuro del vino: il rischio è di perdere il budget dedicato”. L’appello di Varvaglione",
-        "description": "Dall'European Wine Summit di Taranto la presidente del Ceev lancia la sfida su etichette allarmistiche e prossima Pac, da cui si rischia di vedere sparire la ce…",
-        "link": "https://www.gamberorosso.it/notizie/vino/european-wine-summit-taranto-intervista-marzia-varvaglione-pac/",
-        "pubDate": "2026-06-25T15:49:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La storia dell’ex chef che a Parma ha portato il fine dining in gelateria",
-        "description": "Dai gusti classici agli special gastronomici, Alex Eiroldi racconta la sua idea di gelato “pensato” e spiega come riconoscere una nocciola di qualità…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/al-polo-gelato-pensato-nocciola-monferrato-agrimontana/",
-        "pubDate": "2026-06-25T15:38:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "I consumi invecchiano con la popolazione",
         "description": "Nell'ultima assemblea di Unione Italiana Food si è lanciato un allarme: invecchiamento della popolazione e denatalità sono grosse sfide per il settore alimentar…",
         "link": "https://www.dissapore.com/notizie/i-consumi-invecchiano-con-la-popolazione/",
@@ -457,33 +529,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Caldo record: è allarme nei vigneti. Le aree più a rischio e i rimedi per proteggere le piante",
-        "description": "Il termometro sopra i 35 gradi di giorno e oltre i 20 la notte provoca la fotoinibizione che può incidere sulla qualità delle uve. Ma ci sono diversi rimedi (ir…",
-        "link": "https://www.gamberorosso.it/notizie/vino/caldo-record-rischi-vendemmia-2026-intervista-crea-luigi-tarricone/",
-        "pubDate": "2026-06-25T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La festa del vino naturale arriva nel cuore di Garbatella",
-        "description": "Una serata di degustazione a Roma negli spazi di casetta Rossa per la terza edizione di Fiera! con 25 vignaioli artigianali e con un’iniziativa solidale per la …",
-        "link": "https://www.gamberorosso.it/notizie/vino/terza-edizione-fiera-vino-naturale-roma-garbatella/",
-        "pubDate": "2026-06-25T13:15:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vero protagonista della discoteca non è più il dj",
-        "description": "Negli anni '70 si usciva per ballare e si arrivava in discoteca già mangiati. Oggi la nightlife è cambiata: tra cocktail bar, dinner club e listening bar, al ce…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/come-cambiano-le-discoteche/",
-        "pubDate": "2026-06-25T12:29:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "De Cecco apre a Pescara il primo Store ufficiale: uno spazio dedicato alla storia e ai valori del marchio",
         "description": "De Cecco ha inaugurato a Pescara il suo primo Store ufficiale, un nuovo spazio pensato per raccontare l’identità aziendale e i valori che guidano il gruppo da q…",
         "link": "https://www.winemag.it/de-cecco-apre-a-pescara-il-primo-store-ufficiale-uno-spazio-dedicato-alla-storia-e-ai-valori-del-marchio/",
@@ -498,51 +543,6 @@
         "link": "https://www.dissapore.com/notizie/marco-pierre-white-vuole-una-guida-ai-ristoranti-in-cui-gli-chef-si-giudicano-tra-loro/",
         "pubDate": "2026-06-25T11:01:06+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2024/09/guida-michelin-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Non toccare mai il coltello di uno chef",
-        "description": "Nelle cucine professionali esiste una regola non scritta: il coltello di un altro cuoco non si tocca. Dietro ci sono rispetto, rituali e superstizioni…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-non-toccare-coltello-chef/",
-        "pubDate": "2026-06-25T10:41:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’agriturismo di montagna con la grotta dei formaggi più alta d’Europa",
-        "description": "A 2500 metri tra pascoli e alpeggi, La Tchavana è un agriturismo valdostano raggiungibile solo camminando: qui si mangiano polenta, fonduta e formaggi prodotti …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/agriturismo-segreto-valle-aosta-la-tchavana/",
-        "pubDate": "2026-06-25T10:29:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Troppo vino in cantina? Blocchiamo i nuovi vigneti”. La cooperazione chiede un piano strategico nazionale",
-        "description": "Luca Rigotti chiede scelte coraggiose da presentare al Masaf, come lo stop ai nuovi impianti, senza escludere misure come la distillazione di crisi. Ma frena su…",
-        "link": "https://www.gamberorosso.it/notizie/vino/sovrapproduzione-vino-misure-intervista-luca-rigotti-confcooperative/",
-        "pubDate": "2026-06-25T10:15:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Napoli apre una bottega che vuole cambiare il modo in cui facciamo la spesa",
-        "description": "Non solo negozio, ma bottega, laboratorio di cucina e centro di consapevolezza alimentare: Manifesto Agricolo nasce a Napoli per rimettere al centro terra, fili…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/manifesto-agricolo-napoli-bottega-spesa/",
-        "pubDate": "2026-06-25T10:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ripetiamo tutti insieme: il sushi non è un Calippo",
-        "description": "Arriva anche in Italia la moda del pop up sushi, che sbarca anche in versione GDO in ottocento punti vendita Lidl.\nL'articolo Ripetiamo tutti insieme: il sushi …",
-        "link": "https://www.dissapore.com/notizie/ripetiamo-tutti-insieme-il-sushi-non-e-un-calippo/",
-        "pubDate": "2026-06-25T09:28:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/bento-giapponese-scaled-e1746797377893.jpeg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
