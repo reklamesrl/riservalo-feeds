@@ -1,7 +1,43 @@
 {
-  "generated": "2026-06-26T19:48:48.084363+00:00",
+  "generated": "2026-06-27T08:36:16.865884+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Stanno mandando semi d’uva nello spazio per fare vino",
+        "description": "Centinaia di semi di vite saranno inviati sulla Stazione Spaziale Internazionale per studiare gli effetti delle radiazioni cosmiche e creare nuove varietà.…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/semi-uva-spazio-vino/",
+        "pubDate": "2026-06-27T07:45:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È virale il cocktail che trolla la saga della Reflecting Pool a Washington",
+        "description": "Il rifacimento di Donald Trump è un disastro, e l'internet ci ride su anche con un cocktail ispirato alla piscina più famosa del momento.\nL'articolo È virale il…",
+        "link": "https://www.dissapore.com/notizie/e-virale-il-cocktail-che-trolla-la-saga-della-reflecting-pool-a-washington/",
+        "pubDate": "2026-06-27T07:22:44+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/alghe-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A Torino apre un ristorante futurista dentro un festival di musica elettronica",
+        "description": "Al Kappa FuturFestival di Torino apre per tre giorni una Taverna Futurista con chef stellati: da Enrico Crippa ai cicchetti veneziani…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/torino-ristorante-futurista-kappa-festival/",
+        "pubDate": "2026-06-27T06:47:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Liguria c’è un ristorante dentro un tunnel sul mare",
+        "description": "A Moneglia il Monile occupa uno storico “volto” ligure: un passaggio tra borgo e spiaggia trasformato in ristorante vista mare…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-volto-ligure-moneglia/",
+        "pubDate": "2026-06-27T05:47:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Perché le agrigelaterie, tendenzialmente, non sono un granché",
         "description": "Se avete fatto una fila chilometrica per un gelato da agrigelatera e l'avete trovato così così, sappiate che è perfettamente normale. Le eccezioni ci sono, però…",
@@ -136,42 +172,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Morì a 39 anni: 25 anni dopo la famiglia lancia il suo vino simbolo",
-        "description": "Matteo Correggia contribuì a rendere grande il Roero prima di morire in un incidente sul lavoro. Oggi figli e moglie gli dedicano un nuovo Nebbiolo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/matteo-correggia-nuovo-vino/",
-        "pubDate": "2026-06-26T10:24:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La chiamano “pizza turca”: per molti non ha nulla da invidiare alla napoletana",
-        "description": "Croccante, speziato e arrotolato come street food: il lahmacun divide Turchia e Armenia ed è tra i simboli del Medio Oriente…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lahmacun-pizza-turca/",
-        "pubDate": "2026-06-26T10:09:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Cagliari sopravvive una trattoria di 100 anni sul mare",
-        "description": "Nel villaggio di pescatori di Giorgino, dimenticato da quasi tutti, quattro generazioni tramandano una delle ultime vere cucine di mare di Cagliari…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/cagliari-trattoria-cento-anni-sul-mare/",
-        "pubDate": "2026-06-26T09:46:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Assoenologi in udienza da Papa Leone XIV. Cotarella: «Affidato alle sue preghiere il mondo del vino italiano»",
-        "description": "Una folta delegazione di Assoenologi ha partecipato ieri mattina all&#8217;udienza generale con Papa Leone XIV in Vaticano. Al termine dell&#8217;incontro, il p…",
-        "link": "https://www.winemag.it/assoenologi-in-udienza-da-papa-leone-xiv-cotarella-affidato-alle-sue-preghiere-il-mondo-del-vino-italiano/",
-        "pubDate": "2026-06-26T09:01:50+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "I Gloss super shiny per chi vuole labbra brillanti e rimpolpate",
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Stanno mandando semi d’uva nello spazio per fare vino",
+        "description": "Centinaia di semi di vite saranno inviati sulla Stazione Spaziale Internazionale per studiare gli effetti delle radiazioni cosmiche e creare nuove varietà.…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/semi-uva-spazio-vino/",
+        "pubDate": "2026-06-27T07:45:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È virale il cocktail che trolla la saga della Reflecting Pool a Washington",
+        "description": "Il rifacimento di Donald Trump è un disastro, e l'internet ci ride su anche con un cocktail ispirato alla piscina più famosa del momento.\nL'articolo È virale il…",
+        "link": "https://www.dissapore.com/notizie/e-virale-il-cocktail-che-trolla-la-saga-della-reflecting-pool-a-washington/",
+        "pubDate": "2026-06-27T07:22:44+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/alghe-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A Torino apre un ristorante futurista dentro un festival di musica elettronica",
+        "description": "Al Kappa FuturFestival di Torino apre per tre giorni una Taverna Futurista con chef stellati: da Enrico Crippa ai cicchetti veneziani…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/torino-ristorante-futurista-kappa-festival/",
+        "pubDate": "2026-06-27T06:47:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Liguria c’è un ristorante dentro un tunnel sul mare",
+        "description": "A Moneglia il Monile occupa uno storico “volto” ligure: un passaggio tra borgo e spiaggia trasformato in ristorante vista mare…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-volto-ligure-moneglia/",
+        "pubDate": "2026-06-27T05:47:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Perché le agrigelaterie, tendenzialmente, non sono un granché",
         "description": "Se avete fatto una fila chilometrica per un gelato da agrigelatera e l'avete trovato così così, sappiate che è perfettamente normale. Le eccezioni ci sono, però…",
         "link": "https://www.dissapore.com/locali/perche-le-agrigelaterie-tendenzialmente-non-sono-un-granche/",
@@ -457,51 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Morì a 39 anni: 25 anni dopo la famiglia lancia il suo vino simbolo",
-        "description": "Matteo Correggia contribuì a rendere grande il Roero prima di morire in un incidente sul lavoro. Oggi figli e moglie gli dedicano un nuovo Nebbiolo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/matteo-correggia-nuovo-vino/",
-        "pubDate": "2026-06-26T10:24:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La chiamano “pizza turca”: per molti non ha nulla da invidiare alla napoletana",
-        "description": "Croccante, speziato e arrotolato come street food: il lahmacun divide Turchia e Armenia ed è tra i simboli del Medio Oriente…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lahmacun-pizza-turca/",
-        "pubDate": "2026-06-26T10:09:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Cagliari sopravvive una trattoria di 100 anni sul mare",
-        "description": "Nel villaggio di pescatori di Giorgino, dimenticato da quasi tutti, quattro generazioni tramandano una delle ultime vere cucine di mare di Cagliari…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/cagliari-trattoria-cento-anni-sul-mare/",
-        "pubDate": "2026-06-26T09:46:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Assoenologi in udienza da Papa Leone XIV. Cotarella: «Affidato alle sue preghiere il mondo del vino italiano»",
-        "description": "Una folta delegazione di Assoenologi ha partecipato ieri mattina all&#8217;udienza generale con Papa Leone XIV in Vaticano. Al termine dell&#8217;incontro, il p…",
-        "link": "https://www.winemag.it/assoenologi-in-udienza-da-papa-leone-xiv-cotarella-affidato-alle-sue-preghiere-il-mondo-del-vino-italiano/",
-        "pubDate": "2026-06-26T09:01:50+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bianco di sera su tramonto rosé: a Campiglia d’Orcia degustazione dedicata ai vini bianchi e rosati dell’Orcia",
-        "description": "Domenica 28 giugno, dalle ore 18, il punto panoramico della Rocca di Campiglia d’Orcia ospiterà una nuova edizione di Bianco di sera su tramonto rosé. Evento de…",
-        "link": "https://www.winemag.it/bianco-di-sera-su-tramonto-rose-a-campiglia-dorcia-degustazione-dedicata-ai-vini-bianchi-e-rosati-dellorcia/",
-        "pubDate": "2026-06-26T08:41:24+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Se anche i supermercati si buttano sulla ristorazione",
         "description": "Da almeno 10 anni le grandi catene della GDO stanno spingendo sempre di più sui ristoranti e le partnership con gli stellati. C'è da farsi qualche domanda.\nL'ar…",
         "link": "https://www.dissapore.com/notizie/se-anche-i-supermercati-si-buttano-sulla-ristorazione/",
@@ -509,15 +500,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2015/12/Fiorfood-ristorante-la-credenza.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Oltrepò, oro Colle del Bricco a Grow du Monde riapre il caso Riesling italico",
-        "description": "Con quasi 400 campioni iscritti, l’edizione 2026 di Grow du Monde, tenutasi in Moravia, nel cuore produttivo del Riesling italico della Repubblica Ceca, sarà ri…",
-        "link": "https://www.winemag.it/oltrepo-pavese-oro-colle-del-bricco-grow-du-monde-riapre-caso-riesling-italico/",
-        "pubDate": "2026-06-26T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Oltrepo-pavese-oro-riesling-italico-Khione-2024-Colle-del-Bricco-a-Grow-du-Monde-riapre-il-caso-Riesling-italico.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Le 100 migliori gelaterie artigianali d’Italia del 2026 secondo Dissapore",
@@ -538,13 +520,31 @@
         "source": "Dissapore"
       },
       {
-        "title": "Luigi Moio a Gavi: «La longevità del vino è identità, non semplice durata»",
-        "description": "Luigi Moio a Gavi «La longevità del vino è identità, non semplice durata». E il professore invita a produrre Gavi Docg di pronta beva.\nL'articolo Luigi Moio a G…",
-        "link": "https://www.winemag.it/luigi-moio-a-gavi-la-longevita-del-vino-e-identita-non-semplice-durata/",
-        "pubDate": "2026-06-25T14:58:05+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Luigi-Moio-a-Gavi-La-longevita-del-vino-e-identita-non-semplice-durata.-E-il-professore-invita-a-produrre-Gavi-Docg-di-pronta-beva.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Marco Pierre White vuole una guida ai ristoranti in cui gli chef si giudicano tra loro",
+        "description": "La leggenda della cucina britannica sarebbe al lavoro su una guida ristoranti, in cerca del sommo schiaffo alla Michelin. E c'è già da fare qualche osservazione…",
+        "link": "https://www.dissapore.com/notizie/marco-pierre-white-vuole-una-guida-ai-ristoranti-in-cui-gli-chef-si-giudicano-tra-loro/",
+        "pubDate": "2026-06-25T11:01:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/09/guida-michelin-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ripetiamo tutti insieme: il sushi non è un Calippo",
+        "description": "Arriva anche in Italia la moda del pop up sushi, che sbarca anche in versione GDO in ottocento punti vendita Lidl.\nL'articolo Ripetiamo tutti insieme: il sushi …",
+        "link": "https://www.dissapore.com/notizie/ripetiamo-tutti-insieme-il-sushi-non-e-un-calippo/",
+        "pubDate": "2026-06-25T09:28:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/bento-giapponese-scaled-e1746797377893.jpeg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dietro la classifica del gelato 2026 di Dissapore: i criteri di valutazione",
+        "description": "Parametri trasparenti e condivisi che ribadiamo per l'edizione 2026 della classifica delle 100 migliori gelaterie artigianali italiane. Come valutiamo il gelato…",
+        "link": "https://www.dissapore.com/locali/dietro-la-classifica-del-gelato-2026-di-dissapore-i-criteri-di-valutazione/",
+        "pubDate": "2026-06-24T17:57:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/profilo-sensoriale-gelato-scaled.png?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
