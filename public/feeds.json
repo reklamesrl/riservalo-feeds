@@ -1,7 +1,52 @@
 {
-  "generated": "2026-06-27T19:21:19.221862+00:00",
+  "generated": "2026-06-28T08:52:20.700289+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Perché i calciatori argentini girano sempre con questa tazza",
+        "description": "Durante i Mondiali lo si vede spesso tra le mani di argentini e uruguaiani: il mate è molto più di una bevanda, è un rito sociale che dura da secoli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cose-il-mate-calciatori-argentini/",
+        "pubDate": "2026-06-28T08:18:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I 6 migliori Lugana sotto i 15 euro perfetti per l’estate",
+        "description": "Del vino bianco più famoso del Garda, abbiamo selezionato le etichette che ci sono piaciute di più tra quelle dal rapporto qualità prezzo molto favorevole. Ecco…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-lugana-sotto-15-euro-2026/",
+        "pubDate": "2026-06-28T07:21:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sembrava un semplice bancone. Ora tutti vanno qui per i croissant",
+        "description": "A Monti ha aperto Mary, microforno e gelateria del gruppo dietro Love e Slow: croissant signature, toast super burrosi e gelato artigianale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/mary-croissant-monti-roma/",
+        "pubDate": "2026-06-28T05:59:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tartufo estivo, cresce la presenza nei menu dell’estate italiana fino a ottobre",
+        "description": "L&#8217;estate italiana conferma il ruolo crescente del tartufo estivo, conosciuto anche come scorzone (Tuber aestivum Vittad), protagonista delle tavole fino a…",
+        "link": "https://www.winemag.it/tartufo-estivo-cresce-la-presenza-nei-menu-dellestate-italiana-fino-a-ottobre/",
+        "pubDate": "2026-06-28T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Chef José Antonio Casanova ci racconta il terremoto in Venezuela",
+        "description": "World Central Kitchen è già partita e molti chef del territorio si stanno già adoperando per portare viveri e acqua alle famiglie colpite dal terremoto. \nL'arti…",
+        "link": "https://www.dissapore.com/notizie/chef-josee-antonio-casanova-ci-racconta-il-terremoto-in-venezuela/",
+        "pubDate": "2026-06-27T20:00:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Jose-Antonio-Casanova-chef.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Il presidente Barack Obama vuole che nel suo museo si mangino molti cheeseburger",
         "description": "L'ex \"foodie in chief\" ha anche dato precise indicazioni su come preparare gli Obama Burger nel suo Presidential Center di Chicago.\nL'articolo Il presidente Bar…",
@@ -136,51 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-1-2.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Perché le agrigelaterie, tendenzialmente, non sono un granché",
-        "description": "Se avete fatto una fila chilometrica per un gelato da agrigelatera e l'avete trovato così così, sappiate che è perfettamente normale. Le eccezioni ci sono, però…",
-        "link": "https://www.dissapore.com/locali/perche-le-agrigelaterie-tendenzialmente-non-sono-un-granche/",
-        "pubDate": "2026-06-26T18:27:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/sike-gelato.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le paillettes non vanno in vacanza: ecco i capi “sparkling” da sfoggiare per un’estate davvero luccicante",
-        "description": "Da sempre, esistono due momenti dell’anno ben precisi in cui paillettes, perline e ricami scintillanti fanno capolino nel guardaroba per trasformarsi nei protag…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/paillettes-abiti-gonne-top-costumi-da-bagno-strass-estate-look-luccicanti-981676",
-        "pubDate": "2026-06-26T18:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_tocchi_sparkling.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Pinsa estiva con burrata, pomodorini e basilico: fresca, veloce e perfetta per l’estate",
-        "description": "Quando le temperature salgono, la voglia di stare ai fornelli diminuisce, ma non quella di mangiare qualcosa di gustoso. In questi casi, le ricette veloci e fre…",
-        "link": "https://www.gustoblog.it/2026/06/26/pinsa-estiva-con-burrata-pomodorini-e-basilico-fresca-veloce-e-perfetta-per-lestate/",
-        "pubDate": "2026-06-26T16:17:09+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Come coltivare le piante in acqua: guida facile all’idrocoltura",
-        "description": "Sempre più diffusa negli interni contemporanei, l’idrocoltura permette di coltivare molte specie direttamente in acqua, unendo praticità, pulizia ed estetica.…",
-        "link": "https://www.stylosophy.it/articolo/come-coltivare-le-piante-in-acqua-guida-facile-allidrocoltura/252263/",
-        "pubDate": "2026-06-26T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Questo latticino lombardo dura un solo giorno",
-        "description": "Si chiama fiurì ed è il “fiore di ricotta” della tradizione alpina lombarda: una crema lattiginosa rarissima che va consumata entro 24 ore…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fiuri-latticino-lombardo-cos-e/",
-        "pubDate": "2026-06-26T15:36:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,51 @@
     ],
     "lifestyle": [
       {
+        "title": "Perché i calciatori argentini girano sempre con questa tazza",
+        "description": "Durante i Mondiali lo si vede spesso tra le mani di argentini e uruguaiani: il mate è molto più di una bevanda, è un rito sociale che dura da secoli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cose-il-mate-calciatori-argentini/",
+        "pubDate": "2026-06-28T08:18:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I 6 migliori Lugana sotto i 15 euro perfetti per l’estate",
+        "description": "Del vino bianco più famoso del Garda, abbiamo selezionato le etichette che ci sono piaciute di più tra quelle dal rapporto qualità prezzo molto favorevole. Ecco…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-lugana-sotto-15-euro-2026/",
+        "pubDate": "2026-06-28T07:21:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sembrava un semplice bancone. Ora tutti vanno qui per i croissant",
+        "description": "A Monti ha aperto Mary, microforno e gelateria del gruppo dietro Love e Slow: croissant signature, toast super burrosi e gelato artigianale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/mary-croissant-monti-roma/",
+        "pubDate": "2026-06-28T05:59:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tartufo estivo, cresce la presenza nei menu dell’estate italiana fino a ottobre",
+        "description": "L&#8217;estate italiana conferma il ruolo crescente del tartufo estivo, conosciuto anche come scorzone (Tuber aestivum Vittad), protagonista delle tavole fino a…",
+        "link": "https://www.winemag.it/tartufo-estivo-cresce-la-presenza-nei-menu-dellestate-italiana-fino-a-ottobre/",
+        "pubDate": "2026-06-28T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Chef José Antonio Casanova ci racconta il terremoto in Venezuela",
+        "description": "World Central Kitchen è già partita e molti chef del territorio si stanno già adoperando per portare viveri e acqua alle famiglie colpite dal terremoto. \nL'arti…",
+        "link": "https://www.dissapore.com/notizie/chef-josee-antonio-casanova-ci-racconta-il-terremoto-in-venezuela/",
+        "pubDate": "2026-06-27T20:00:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Jose-Antonio-Casanova-chef.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Il presidente Barack Obama vuole che nel suo museo si mangino molti cheeseburger",
         "description": "L'ex \"foodie in chief\" ha anche dato precise indicazioni su come preparare gli Obama Burger nel suo Presidential Center di Chicago.\nL'articolo Il presidente Bar…",
         "link": "https://www.dissapore.com/notizie/il-presidente-barack-obama-vuole-che-nel-suo-museo-si-mangino-molti-cheeseburger/",
@@ -493,24 +538,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "L’ultima tavola calda di Torino in cui si mangia con 12 euro",
-        "description": "Da Junior Grill, storico self service torinese, un primo costa 3,50 euro e un secondo 4,50: tra operai, studenti e foodies, qui il tempo sembra fermo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torino-menu-completo-12-euro/",
-        "pubDate": "2026-06-26T13:57:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché le bottiglie di vino hanno forme diverse?",
-        "description": "Dal fondo incavato della champagnotta alle spalle della bordolese: ecco perché la forma di una bottiglia influenza conservazione e servizio…",
-        "link": "https://www.gamberorosso.it/notizie/vino/forme-bottiglie-vino/",
-        "pubDate": "2026-06-26T13:46:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Kylie Jenner portata in tribunale dalla sua ex cuoca",
         "description": "Per la terza volta Kylie Jenner viene portata in tribunale da una sua dipendente: questa volta ad accusarla è la sua chef personale.\nL'articolo Kylie Jenner por…",
         "link": "https://www.dissapore.com/notizie/kylie-jenner-portata-in-tribunale-dalla-sua-ex-cuoca/",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Gli spaghetti freddi saranno il piatto dell’estate?",
-        "description": "Da Marchesi a Cesare Battisti, sempre più chef mettono in discussione un tabù italiano: la pasta deve davvero essere servita solo calda?…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/spaghetti-freddi-piatto-estate/",
-        "pubDate": "2026-06-26T10:59:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Assoenologi in udienza da Papa Leone XIV. Cotarella: «Affidato alle sue preghiere il mondo del vino italiano»",
-        "description": "Una folta delegazione di Assoenologi ha partecipato ieri mattina all&#8217;udienza generale con Papa Leone XIV in Vaticano. Al termine dell&#8217;incontro, il p…",
-        "link": "https://www.winemag.it/assoenologi-in-udienza-da-papa-leone-xiv-cotarella-affidato-alle-sue-preghiere-il-mondo-del-vino-italiano/",
-        "pubDate": "2026-06-26T09:01:50+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bianco di sera su tramonto rosé: a Campiglia d’Orcia degustazione dedicata ai vini bianchi e rosati dell’Orcia",
-        "description": "Domenica 28 giugno, dalle ore 18, il punto panoramico della Rocca di Campiglia d’Orcia ospiterà una nuova edizione di Bianco di sera su tramonto rosé. Evento de…",
-        "link": "https://www.winemag.it/bianco-di-sera-su-tramonto-rose-a-campiglia-dorcia-degustazione-dedicata-ai-vini-bianchi-e-rosati-dellorcia/",
-        "pubDate": "2026-06-26T08:41:24+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
