@@ -1,7 +1,142 @@
 {
-  "generated": "2026-06-29T11:00:36.870892+00:00",
+  "generated": "2026-06-29T15:47:51.369571+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Mondiali, Coldiretti lancia a New York la Nazionale vini italiana",
+        "description": "Il vino italiano prova a giocare la sua partita mondiale anche senza la Nazionale di calcio. Mentre l’Italia resta fuori dalla Coppa del Mondo 2026 per la terza…",
+        "link": "https://www.winemag.it/mondiali-coldiretti-lancia-a-new-york-la-nazionale-vini-italiana/",
+        "pubDate": "2026-06-29T15:28:05+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Per anni è rimasta tra Parma e Modena. Ora Reggio Emilia vuole prendersi la scena",
+        "description": "Tre nuove aperture, bistrot, cocktail bar, gelaterie e pizzerie stanno cambiando il volto gastronomico di Reggio Emilia. Non è ancora rivoluzione, ma qualcosa s…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/reggio-emilia-nuove-aperture-ristoranti/",
+        "pubDate": "2026-06-29T15:26:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Prima soffrono allevamenti e campi. Poi aumenta il prezzo del cibo",
+        "description": "Dal latte al pesce fino a caffè e cacao: il caldo estremo e il possibile rafforzamento di El Niño potrebbero mettere sotto pressione la filiera alimentare globa…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caldo-estremo-prezzi-cibo/",
+        "pubDate": "2026-06-29T15:09:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti la chiamano lasagna greca, ma la vera moussaka è un’altra cosa",
+        "description": "Melanzane fritte, ragù speziato, besciamella e Graviera: ecco la ricetta della moussaka di Vasiliki Pierrakea, tra Grecia e Mediterraneo…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/ricetta-vera-moussaka-greca/",
+        "pubDate": "2026-06-29T15:01:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non fa solo gelato: ogni cono qui racconta un pezzo di mondo",
+        "description": "A Lucca Eleonora Pinzi trasforma ingredienti selezionati, ricordi di viaggio e scelte etiche in gusti che raccontano Grecia, Mediterraneo e piccoli produttori…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-lucca-ele-gelati/",
+        "pubDate": "2026-06-29T14:57:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nestlé ci prova con l’agricoltura rigenerativa: ambientalismo o greenwashing?",
+        "description": "Dopo un periodo in cui non sono mancati scandali e controversie, Nestlé sostiene il programma Regenerating Together, unendosi a una tendenza seguita da diversi …",
+        "link": "https://www.dissapore.com/notizie/nestle-ci-prova-con-lagricoltura-rigenerativa-ambientalismo-o-greenwashing/",
+        "pubDate": "2026-06-29T14:56:17+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/Agricoltura-biologica-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Torino finisce qui: a mezz’ora iniziano vigne, panorami e grandi trattorie",
+        "description": "Dalla collina di Superga al Monferrato astigiano, ecco gli indirizzi migliori tra ristoranti, agriturismi e cantine per una gita gastronomica fuori Torino…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-fuori-torino/",
+        "pubDate": "2026-06-29T14:52:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Una delle migliori trattorie di Firenze apre in centro",
+        "description": "Da Burde, storica trattoria fiorentina premiata con Tre Gamberi, porta allo Starhotels Michelangelo lampredotto, peposo e grandi vini senza addolcire la cucina…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/da-burde-hotel-firenze/",
+        "pubDate": "2026-06-29T14:44:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Villa Agreste inaugura la Vigna del Terzo Paradiso: arte, biodiversità e vitigni storici",
+        "description": "Il 25 giugno, nel giorno del novantatreesimo compleanno di Michelangelo Pistoletto, l&#8217;azienda pugliese Villa Agreste ha inaugurato a Ostuni la Vigna del T…",
+        "link": "https://www.winemag.it/villa-agreste-inaugura-la-vigna-del-terzo-paradiso-arte-biodiversita-e-vitigni-storici-nel-progetto-ispirato-a-michelangelo-pistoletto/",
+        "pubDate": "2026-06-29T13:30:02+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Mozzarella di Bufala Campana Dop protagonista al Summer Fancy Food di New York tra filatura dal vivo e promozione negli Usa",
+        "description": "Dal 28 al 30 giugno la Mozzarella di Bufala Campana Dop sarà tra i protagonisti del Summer Fancy Food di New York, il principale appuntamento dedicato al settor…",
+        "link": "https://www.winemag.it/mozzarella-di-bufala-campana-dop-protagonista-al-summer-fancy-food-di-new-york-tra-filatura-dal-vivo-e-promozione-negli-usa/",
+        "pubDate": "2026-06-29T13:16:24+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Jennifer Lopez, Look super sexy con il body con tatuaggi e gli stivali in pelle firmati Jimmy Choo x Jean Paul Gaultier",
+        "description": "Per l'Obsessed Fest di Prime Video, Jennifer Lopez ha sfoggiato un look stiloso e super sexy.…",
+        "link": "https://www.stylosophy.it/articolo/jennifer-lopez-look-super-sexy-con-il-body-con-tatuaggi-e-gli-stivali-in-pelle-firmati-jimmy-choo-x-jean-paul-gaultier/252337/",
+        "pubDate": "2026-06-29T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Maturità 2026, Acquaworld lancia un’iniziativa per i nati nel 2007: ingresso agevolato fino al 17 luglio",
+        "description": "Con la maturità entra nel vivo anche l&#8217;estate di migliaia di studenti italiani. Tra prove scritte, colloqui e ultimi ripassi, gli esami di Stato rappresen…",
+        "link": "https://www.winemag.it/maturita-2026-acquaworld-lancia-uniniziativa-per-i-nati-nel-2007-ingresso-agevolato-fino-al-17-luglio/",
+        "pubDate": "2026-06-29T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Stock lancia Amaro Amabile, il nuovo amaro d’erbe tra tradizione e mixology",
+        "description": "Stock amplia il proprio portafoglio nel segmento degli spirits con il lancio di Stock Amaro Amabile, nuovo amaro d’erbe disponibile da giugno 2026 nella grande …",
+        "link": "https://www.winemag.it/stock-lancia-amaro-amabile-il-nuovo-amaro-derbe-tra-tradizione-e-mixology/",
+        "pubDate": "2026-06-29T12:27:17+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cusumano inaugura “The Unseen Terroirs”, esperienza immersiva per raccontare i terroir della Sicilia",
+        "description": "Cusumano presenta “The Unseen Terroirs”, un nuovo percorso immersivo e multisensoriale realizzato nella cantina di Partinico, in provincia di Palermo. Il proget…",
+        "link": "https://www.winemag.it/cusumano-inaugura-the-unseen-terroirs-esperienza-immersiva-per-raccontare-i-terroir-della-sicilia/",
+        "pubDate": "2026-06-29T12:04:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Le 5 migliori gelaterie di Bologna nel 2026",
+        "description": "Le 5 migliori insegne del gelato a Bologna, nel 2026. La selezione di Dissapore, come sempre seguita dagli assaggi sul campo, spin off della classifica nazional…",
+        "link": "https://www.dissapore.com/locali/le-5-migliori-gelaterie-di-bologna-nel-2026/",
+        "pubDate": "2026-06-29T11:53:02+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/Supernatural-bologna.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Minimal ma trendy, il costume bicolore sta conquistando tutte le It girls",
         "description": "Semplici ma ricercati, questi costumi bicolore sono il grande trend dell'Estate 2026. Approvati dalle fashion addicted!…",
@@ -30,160 +165,34 @@
         "source": "Stylosophy"
       },
       {
-        "title": "L’Umbria produce alcuni dei migliori oli d’Italia: ecco quali comprare",
-        "description": "Nonostante una campagna olearia povera nei volumi, l'Umbria conferma la sua eccellenza: ecco gli extravergine Tre Foglie 2026/2027 da tenere d’occhio…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-extravergine-umbria-2026/",
-        "pubDate": "2026-06-28T16:41:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Addio ad Arrigo Pisoni, il ricordo dell’Istituto Tutela Grappa del Trentino",
+        "description": "La distillazione trentina perde una delle sue figure più rappresentative. L’Istituto di Tutela della Grappa del Trentino ha espresso il proprio cordoglio per la…",
+        "link": "https://www.winemag.it/addio-ad-arrigo-pisoni-il-ricordo-dellistituto-tutela-grappa-del-trentino/",
+        "pubDate": "2026-06-29T08:50:37+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
-        "title": "La NASA lancia una challenge per far mangiare gli astronauti per due anni su Marte",
-        "description": "La NASA lancia una sfida per creare il menu delle future missioni su Marte: non basta nutrire gli astronauti, serve un sistema che garantisca cibo fresco, auton…",
-        "link": "https://www.dissapore.com/alimentazione/la-nasa-lancia-una-challenge-per-far-mangiare-gli-astronauti-per-due-anni-su-marte/",
-        "pubDate": "2026-06-28T16:18:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/marte-nasa-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Erba sintetica sul terrazzo? Ecco come pulirla, una guida completa",
-        "description": "Polvere, foglie e macchie possono compromettere l'aspetto del prato artificiale. Ecco i passaggi più efficaci per pulirlo velocemente e mantenerlo sempre in ord…",
-        "link": "https://www.stylosophy.it/articolo/erba-sintetica-sul-terrazzo-ecco-come-pulirla-una-guida-completa/252291/",
-        "pubDate": "2026-06-28T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Valentina Ferragni segue il trend dei Capri pants: ma come li ha abbinati è super sexy!",
-        "description": "Anche Valentina Ferragni sfoggia i Capri pants per quest'estate 2026: ecco come li ha abbinati!…",
-        "link": "https://www.stylosophy.it/articolo/valentina-ferragni-segue-il-trend-dei-capri-pants-ma-come-li-ha-abbinati-e-super-sexy/252332/",
-        "pubDate": "2026-06-28T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Probabilmente dovremo fare a meno delle M&Ms di colore blu",
-        "description": "Con il passaggio ai coloranti naturali uno resta fuori: il blu, difficile da replicare a livello industriale.\nL'articolo Probabilmente dovremo fare a meno delle…",
-        "link": "https://www.dissapore.com/notizie/probabilmente-dovremo-fare-a-meno-delle-mms-di-colore-blu/",
-        "pubDate": "2026-06-28T11:51:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/mms-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Questi rossetti no transfer sono un must beauty da sfoggiare in Estate",
-        "description": "Perfetti per garantire un make up labbra impeccabile, a prova di alte temperature, sudore e afa, i rossetti no transfer sono l'alleato beauty dell'Estate. Ecco …",
-        "link": "https://www.stylosophy.it/articolo/questi-rossetti-no-transfer-sono-un-must-beauty-da-sfoggiare-in-estate/252064/",
-        "pubDate": "2026-06-28T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Perché i calciatori argentini girano sempre con questa tazza",
-        "description": "Durante i Mondiali lo si vede spesso tra le mani di argentini e uruguaiani: il mate è molto più di una bevanda, è un rito sociale che dura da secoli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cose-il-mate-calciatori-argentini/",
-        "pubDate": "2026-06-28T08:18:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I 6 migliori Lugana sotto i 15 euro perfetti per l’estate",
-        "description": "Del vino bianco più famoso del Garda, abbiamo selezionato le etichette che ci sono piaciute di più tra quelle dal rapporto qualità prezzo molto favorevole. Ecco…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-lugana-sotto-15-euro-2026/",
-        "pubDate": "2026-06-28T07:21:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sembrava un semplice bancone. Ora tutti vanno qui per i croissant",
-        "description": "A Monti ha aperto Mary, microforno e gelateria del gruppo dietro Love e Slow: croissant signature, toast super burrosi e gelato artigianale…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/mary-croissant-monti-roma/",
-        "pubDate": "2026-06-28T05:59:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I “bloomers” sono il trend a cui cedere quest’estate: ecco che cosa sono e come indossarli per ottenere look estivi fa-vo-lo-si",
-        "description": "Sono comparsi timidamente nel nostro immaginario attraverso i look più &#8220;avant-garde&#8221; delle trendsetter e, un po&#8217; come accade con un soft launc…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/bloomers-cosa-sono-pantaloni-turchi-calzoncini-ampi-a-sbuffo-stretti-alla-caviglia-trend-del-momento-estate-2026-982503",
-        "pubDate": "2026-06-28T04:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_bloomers_pants.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Chef José Antonio Casanova ci racconta il terremoto in Venezuela",
-        "description": "World Central Kitchen è già partita e molti chef del territorio si stanno già adoperando per portare viveri e acqua alle famiglie colpite dal terremoto. \nL'arti…",
-        "link": "https://www.dissapore.com/notizie/chef-josee-antonio-casanova-ci-racconta-il-terremoto-in-venezuela/",
-        "pubDate": "2026-06-27T20:00:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Jose-Antonio-Casanova-chef.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il presidente Barack Obama vuole che nel suo museo si mangino molti cheeseburger",
-        "description": "L'ex \"foodie in chief\" ha anche dato precise indicazioni su come preparare gli Obama Burger nel suo Presidential Center di Chicago.\nL'articolo Il presidente Bar…",
-        "link": "https://www.dissapore.com/notizie/il-presidente-barack-obama-vuole-che-nel-suo-museo-si-mangino-molti-cheeseburger/",
-        "pubDate": "2026-06-27T16:26:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/obama-burger-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Bonassola: il borgo marinaro che ti farà innamorare della Liguria",
-        "description": "Questo borgo marinaro in provincia di La Spezia è una chicca dal fascino senza tempo! Scopriamolo insieme...…",
-        "link": "https://www.stylosophy.it/articolo/borgo-marinaro-in-provincia-di-la-spezia/230403/",
-        "pubDate": "2026-06-27T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Le spiagge più belle della Calabria: acqua trasparente e scenari da cartolina",
-        "description": "Dalla Costa Viola alla Costa degli Dei, passando per il versante ionico, ecco alcune delle spiagge più spettacolari della Calabria dove il mare regala colori so…",
-        "link": "https://www.stylosophy.it/articolo/le-spiagge-piu-belle-della-calabria-acqua-trasparente-e-scenari-da-cartolina/252285/",
-        "pubDate": "2026-06-27T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I gelati confezionati in Italia sono un business bello grosso",
-        "description": "Mangiamo sempre più snack, e l'industria del gelato confezionato sta cercando di approfittarne, con investimenti a molte cifre. Froneri in testa.\nL'articolo I g…",
-        "link": "https://www.dissapore.com/notizie/i-gelati-confezionati-in-italia-sono-un-business-bello-grosso/",
-        "pubDate": "2026-06-27T14:38:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/snackification-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Clara sfoggia il mini dress in denim con motivo patchwork di ispirazione primi anni 2000",
-        "description": "Clara, per i primi concerti estivi, sfoggia un mini dress di super tendenza per questa stagione.…",
-        "link": "https://www.stylosophy.it/articolo/clara-sfoggia-il-mini-dress-in-denim-con-motivo-patchwork-di-ispirazione-primi-anni-2000/252326/",
-        "pubDate": "2026-06-27T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ha dimenticato la tuta da sci in Puglia. Quel ritorno gli ha cambiato la vita",
-        "description": "Nel 2020 Antonio Mitrione tornò a Carpino solo per recuperare una tuta da neve. Il lockdown lo bloccò lì e iniziò a lavorare gli ulivi di famiglia: oggi il suo …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/antonio-mitrione-oilivis-miglior-olio-puglia/",
-        "pubDate": "2026-06-27T11:59:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "La Bollita del Tonno 2026 a Oliveri rilancia memoria, pesca e cultura del mare",
+        "description": "La Bollita del Tonno 2026 riporta Oliveri al centro del dibattito sulla memoria marinara siciliana, tra recupero delle tradizioni, sostenibilità della pesca e v…",
+        "link": "https://www.winemag.it/la-bollita-del-tonno-2026-a-oliveri-rilancia-memoria-pesca-e-cultura-del-mare/",
+        "pubDate": "2026-06-28T22:59:16+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Jennifer Lopez, Look super sexy con il body con tatuaggi e gli stivali in pelle firmati Jimmy Choo x Jean Paul Gaultier",
+        "description": "Per l'Obsessed Fest di Prime Video, Jennifer Lopez ha sfoggiato un look stiloso e super sexy.…",
+        "link": "https://www.stylosophy.it/articolo/jennifer-lopez-look-super-sexy-con-il-body-con-tatuaggi-e-gli-stivali-in-pelle-firmati-jimmy-choo-x-jean-paul-gaultier/252337/",
+        "pubDate": "2026-06-29T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Minimal ma trendy, il costume bicolore sta conquistando tutte le It girls",
         "description": "Semplici ma ricercati, questi costumi bicolore sono il grande trend dell'Estate 2026. Approvati dalle fashion addicted!…",
@@ -293,15 +302,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Come coltivare le piante in acqua: guida facile all’idrocoltura",
-        "description": "Sempre più diffusa negli interni contemporanei, l’idrocoltura permette di coltivare molte specie direttamente in acqua, unendo praticità, pulizia ed estetica.…",
-        "link": "https://www.stylosophy.it/articolo/come-coltivare-le-piante-in-acqua-guida-facile-allidrocoltura/252263/",
-        "pubDate": "2026-06-26T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "L’estate si racconta anche attraverso ciò che indossiamo: piccoli souvenir di stile, cartoline da collezionare tra nuove destinazioni, accessori iconici e detta…",
         "link": "https://www.grazia.it/moda/news-moda/collanine-colorate-mystylebags-swarovski-giardino-cordusio-milano-inigo-six-senses-roma-taller-marmo-heat-iblues-les-vacances-vans-old-skool-36-souvenir-louis-vuitton-city-guide-resort-neverfull-limi-982836",
@@ -367,6 +367,132 @@
     ],
     "lifestyle": [
       {
+        "title": "Mondiali, Coldiretti lancia a New York la Nazionale vini italiana",
+        "description": "Il vino italiano prova a giocare la sua partita mondiale anche senza la Nazionale di calcio. Mentre l’Italia resta fuori dalla Coppa del Mondo 2026 per la terza…",
+        "link": "https://www.winemag.it/mondiali-coldiretti-lancia-a-new-york-la-nazionale-vini-italiana/",
+        "pubDate": "2026-06-29T15:28:05+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Per anni è rimasta tra Parma e Modena. Ora Reggio Emilia vuole prendersi la scena",
+        "description": "Tre nuove aperture, bistrot, cocktail bar, gelaterie e pizzerie stanno cambiando il volto gastronomico di Reggio Emilia. Non è ancora rivoluzione, ma qualcosa s…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/reggio-emilia-nuove-aperture-ristoranti/",
+        "pubDate": "2026-06-29T15:26:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Prima soffrono allevamenti e campi. Poi aumenta il prezzo del cibo",
+        "description": "Dal latte al pesce fino a caffè e cacao: il caldo estremo e il possibile rafforzamento di El Niño potrebbero mettere sotto pressione la filiera alimentare globa…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caldo-estremo-prezzi-cibo/",
+        "pubDate": "2026-06-29T15:09:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti la chiamano lasagna greca, ma la vera moussaka è un’altra cosa",
+        "description": "Melanzane fritte, ragù speziato, besciamella e Graviera: ecco la ricetta della moussaka di Vasiliki Pierrakea, tra Grecia e Mediterraneo…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/ricetta-vera-moussaka-greca/",
+        "pubDate": "2026-06-29T15:01:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non fa solo gelato: ogni cono qui racconta un pezzo di mondo",
+        "description": "A Lucca Eleonora Pinzi trasforma ingredienti selezionati, ricordi di viaggio e scelte etiche in gusti che raccontano Grecia, Mediterraneo e piccoli produttori…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-lucca-ele-gelati/",
+        "pubDate": "2026-06-29T14:57:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nestlé ci prova con l’agricoltura rigenerativa: ambientalismo o greenwashing?",
+        "description": "Dopo un periodo in cui non sono mancati scandali e controversie, Nestlé sostiene il programma Regenerating Together, unendosi a una tendenza seguita da diversi …",
+        "link": "https://www.dissapore.com/notizie/nestle-ci-prova-con-lagricoltura-rigenerativa-ambientalismo-o-greenwashing/",
+        "pubDate": "2026-06-29T14:56:17+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/Agricoltura-biologica-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Torino finisce qui: a mezz’ora iniziano vigne, panorami e grandi trattorie",
+        "description": "Dalla collina di Superga al Monferrato astigiano, ecco gli indirizzi migliori tra ristoranti, agriturismi e cantine per una gita gastronomica fuori Torino…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-fuori-torino/",
+        "pubDate": "2026-06-29T14:52:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Una delle migliori trattorie di Firenze apre in centro",
+        "description": "Da Burde, storica trattoria fiorentina premiata con Tre Gamberi, porta allo Starhotels Michelangelo lampredotto, peposo e grandi vini senza addolcire la cucina…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/da-burde-hotel-firenze/",
+        "pubDate": "2026-06-29T14:44:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Villa Agreste inaugura la Vigna del Terzo Paradiso: arte, biodiversità e vitigni storici",
+        "description": "Il 25 giugno, nel giorno del novantatreesimo compleanno di Michelangelo Pistoletto, l&#8217;azienda pugliese Villa Agreste ha inaugurato a Ostuni la Vigna del T…",
+        "link": "https://www.winemag.it/villa-agreste-inaugura-la-vigna-del-terzo-paradiso-arte-biodiversita-e-vitigni-storici-nel-progetto-ispirato-a-michelangelo-pistoletto/",
+        "pubDate": "2026-06-29T13:30:02+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Mozzarella di Bufala Campana Dop protagonista al Summer Fancy Food di New York tra filatura dal vivo e promozione negli Usa",
+        "description": "Dal 28 al 30 giugno la Mozzarella di Bufala Campana Dop sarà tra i protagonisti del Summer Fancy Food di New York, il principale appuntamento dedicato al settor…",
+        "link": "https://www.winemag.it/mozzarella-di-bufala-campana-dop-protagonista-al-summer-fancy-food-di-new-york-tra-filatura-dal-vivo-e-promozione-negli-usa/",
+        "pubDate": "2026-06-29T13:16:24+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Maturità 2026, Acquaworld lancia un’iniziativa per i nati nel 2007: ingresso agevolato fino al 17 luglio",
+        "description": "Con la maturità entra nel vivo anche l&#8217;estate di migliaia di studenti italiani. Tra prove scritte, colloqui e ultimi ripassi, gli esami di Stato rappresen…",
+        "link": "https://www.winemag.it/maturita-2026-acquaworld-lancia-uniniziativa-per-i-nati-nel-2007-ingresso-agevolato-fino-al-17-luglio/",
+        "pubDate": "2026-06-29T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Stock lancia Amaro Amabile, il nuovo amaro d’erbe tra tradizione e mixology",
+        "description": "Stock amplia il proprio portafoglio nel segmento degli spirits con il lancio di Stock Amaro Amabile, nuovo amaro d’erbe disponibile da giugno 2026 nella grande …",
+        "link": "https://www.winemag.it/stock-lancia-amaro-amabile-il-nuovo-amaro-derbe-tra-tradizione-e-mixology/",
+        "pubDate": "2026-06-29T12:27:17+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cusumano inaugura “The Unseen Terroirs”, esperienza immersiva per raccontare i terroir della Sicilia",
+        "description": "Cusumano presenta “The Unseen Terroirs”, un nuovo percorso immersivo e multisensoriale realizzato nella cantina di Partinico, in provincia di Palermo. Il proget…",
+        "link": "https://www.winemag.it/cusumano-inaugura-the-unseen-terroirs-esperienza-immersiva-per-raccontare-i-terroir-della-sicilia/",
+        "pubDate": "2026-06-29T12:04:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Le 5 migliori gelaterie di Bologna nel 2026",
+        "description": "Le 5 migliori insegne del gelato a Bologna, nel 2026. La selezione di Dissapore, come sempre seguita dagli assaggi sul campo, spin off della classifica nazional…",
+        "link": "https://www.dissapore.com/locali/le-5-migliori-gelaterie-di-bologna-nel-2026/",
+        "pubDate": "2026-06-29T11:53:02+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/Supernatural-bologna.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Secondo Coldiretti, a causa dell’italian sounding stiamo perdendo 42 milioni di euro all’anno",
         "description": "Lo studio di Coldiretti presentato a un'importante a New York spiega l'impatto economico - e non solo - del cibo \"ispirato\" a quello italiano.\nL'articolo Second…",
         "link": "https://www.dissapore.com/notizie/secondo-coldiretti-a-causa-dellitalian-sounding-stiamo-perdendo-42-milioni-di-euro-allanno/",
@@ -374,6 +500,33 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/olio-americano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Addio ad Arrigo Pisoni, il ricordo dell’Istituto Tutela Grappa del Trentino",
+        "description": "La distillazione trentina perde una delle sue figure più rappresentative. L’Istituto di Tutela della Grappa del Trentino ha espresso il proprio cordoglio per la…",
+        "link": "https://www.winemag.it/addio-ad-arrigo-pisoni-il-ricordo-dellistituto-tutela-grappa-del-trentino/",
+        "pubDate": "2026-06-29T08:50:37+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La Bollita del Tonno 2026 a Oliveri rilancia memoria, pesca e cultura del mare",
+        "description": "La Bollita del Tonno 2026 riporta Oliveri al centro del dibattito sulla memoria marinara siciliana, tra recupero delle tradizioni, sostenibilità della pesca e v…",
+        "link": "https://www.winemag.it/la-bollita-del-tonno-2026-a-oliveri-rilancia-memoria-pesca-e-cultura-del-mare/",
+        "pubDate": "2026-06-28T22:59:16+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Barolo en primeur 2026: Vigna Gustava volto solidale ed elegante del Nebbiolo",
+        "description": "Barolo en primeur 2026 arriva alla sesta edizione confermando la doppia natura del progetto: valorizzare il Nebbiolo delle Langhe attraverso la lettura parcella…",
+        "link": "https://www.winemag.it/barolo-en-primeur-2026-vigna-gustava-volto-solidale-ed-elegante-del-nebbiolo/",
+        "pubDate": "2026-06-28T22:35:16+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Barolo-en-primeur-2026-Vigna-Gustava-volto-solidale-ed-elegante-del-Nebbiolo-3-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "L’Umbria produce alcuni dei migliori oli d’Italia: ecco quali comprare",
@@ -390,159 +543,6 @@
         "link": "https://www.dissapore.com/alimentazione/la-nasa-lancia-una-challenge-per-far-mangiare-gli-astronauti-per-due-anni-su-marte/",
         "pubDate": "2026-06-28T16:18:33+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/marte-nasa-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Probabilmente dovremo fare a meno delle M&Ms di colore blu",
-        "description": "Con il passaggio ai coloranti naturali uno resta fuori: il blu, difficile da replicare a livello industriale.\nL'articolo Probabilmente dovremo fare a meno delle…",
-        "link": "https://www.dissapore.com/notizie/probabilmente-dovremo-fare-a-meno-delle-mms-di-colore-blu/",
-        "pubDate": "2026-06-28T11:51:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/mms-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Perché i calciatori argentini girano sempre con questa tazza",
-        "description": "Durante i Mondiali lo si vede spesso tra le mani di argentini e uruguaiani: il mate è molto più di una bevanda, è un rito sociale che dura da secoli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cose-il-mate-calciatori-argentini/",
-        "pubDate": "2026-06-28T08:18:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I 6 migliori Lugana sotto i 15 euro perfetti per l’estate",
-        "description": "Del vino bianco più famoso del Garda, abbiamo selezionato le etichette che ci sono piaciute di più tra quelle dal rapporto qualità prezzo molto favorevole. Ecco…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-lugana-sotto-15-euro-2026/",
-        "pubDate": "2026-06-28T07:21:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sembrava un semplice bancone. Ora tutti vanno qui per i croissant",
-        "description": "A Monti ha aperto Mary, microforno e gelateria del gruppo dietro Love e Slow: croissant signature, toast super burrosi e gelato artigianale…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/mary-croissant-monti-roma/",
-        "pubDate": "2026-06-28T05:59:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chef José Antonio Casanova ci racconta il terremoto in Venezuela",
-        "description": "World Central Kitchen è già partita e molti chef del territorio si stanno già adoperando per portare viveri e acqua alle famiglie colpite dal terremoto. \nL'arti…",
-        "link": "https://www.dissapore.com/notizie/chef-josee-antonio-casanova-ci-racconta-il-terremoto-in-venezuela/",
-        "pubDate": "2026-06-27T20:00:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/Jose-Antonio-Casanova-chef.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il presidente Barack Obama vuole che nel suo museo si mangino molti cheeseburger",
-        "description": "L'ex \"foodie in chief\" ha anche dato precise indicazioni su come preparare gli Obama Burger nel suo Presidential Center di Chicago.\nL'articolo Il presidente Bar…",
-        "link": "https://www.dissapore.com/notizie/il-presidente-barack-obama-vuole-che-nel-suo-museo-si-mangino-molti-cheeseburger/",
-        "pubDate": "2026-06-27T16:26:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/obama-burger-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I gelati confezionati in Italia sono un business bello grosso",
-        "description": "Mangiamo sempre più snack, e l'industria del gelato confezionato sta cercando di approfittarne, con investimenti a molte cifre. Froneri in testa.\nL'articolo I g…",
-        "link": "https://www.dissapore.com/notizie/i-gelati-confezionati-in-italia-sono-un-business-bello-grosso/",
-        "pubDate": "2026-06-27T14:38:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/snackification-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ha dimenticato la tuta da sci in Puglia. Quel ritorno gli ha cambiato la vita",
-        "description": "Nel 2020 Antonio Mitrione tornò a Carpino solo per recuperare una tuta da neve. Il lockdown lo bloccò lì e iniziò a lavorare gli ulivi di famiglia: oggi il suo …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/antonio-mitrione-oilivis-miglior-olio-puglia/",
-        "pubDate": "2026-06-27T11:59:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Era il pane dei contadini. Ora tutti vogliono questa focaccia laziale",
-        "description": "Si chiama fàlia, nasce a Priverno ed è uno storico lievitato contadino del basso Lazio. Oggi pizzaioli e forni la stanno riportando al centro…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/falia-priverno-focaccia-lazio/",
-        "pubDate": "2026-06-27T08:46:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Stanno mandando semi d’uva nello spazio per fare vino",
-        "description": "Centinaia di semi di vite saranno inviati sulla Stazione Spaziale Internazionale per studiare gli effetti delle radiazioni cosmiche e creare nuove varietà.…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/semi-uva-spazio-vino/",
-        "pubDate": "2026-06-27T07:45:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "È virale il cocktail che trolla la saga della Reflecting Pool a Washington",
-        "description": "Il rifacimento di Donald Trump è un disastro, e l'internet ci ride su anche con un cocktail ispirato alla piscina più famosa del momento.\nL'articolo È virale il…",
-        "link": "https://www.dissapore.com/notizie/e-virale-il-cocktail-che-trolla-la-saga-della-reflecting-pool-a-washington/",
-        "pubDate": "2026-06-27T07:22:44+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/alghe-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Torino apre un ristorante futurista dentro un festival di musica elettronica",
-        "description": "Al Kappa FuturFestival di Torino apre per tre giorni una Taverna Futurista con chef stellati: da Enrico Crippa ai cicchetti veneziani…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/torino-ristorante-futurista-kappa-festival/",
-        "pubDate": "2026-06-27T06:47:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Liguria c’è un ristorante dentro un tunnel sul mare",
-        "description": "A Moneglia il Monile occupa uno storico “volto” ligure: un passaggio tra borgo e spiaggia trasformato in ristorante vista mare…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-volto-ligure-moneglia/",
-        "pubDate": "2026-06-27T05:47:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché le agrigelaterie, tendenzialmente, non sono un granché",
-        "description": "Se avete fatto una fila chilometrica per un gelato da agrigelatera e l'avete trovato così così, sappiate che è perfettamente normale. Le eccezioni ci sono, però…",
-        "link": "https://www.dissapore.com/locali/perche-le-agrigelaterie-tendenzialmente-non-sono-un-granche/",
-        "pubDate": "2026-06-26T18:27:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/sike-gelato.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pinsa estiva con burrata, pomodorini e basilico: fresca, veloce e perfetta per l’estate",
-        "description": "Quando le temperature salgono, la voglia di stare ai fornelli diminuisce, ma non quella di mangiare qualcosa di gustoso. In questi casi, le ricette veloci e fre…",
-        "link": "https://www.gustoblog.it/2026/06/26/pinsa-estiva-con-burrata-pomodorini-e-basilico-fresca-veloce-e-perfetta-per-lestate/",
-        "pubDate": "2026-06-26T16:17:09+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Questo latticino lombardo dura un solo giorno",
-        "description": "Si chiama fiurì ed è il “fiore di ricotta” della tradizione alpina lombarda: una crema lattiginosa rarissima che va consumata entro 24 ore…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fiuri-latticino-lombardo-cos-e/",
-        "pubDate": "2026-06-26T15:36:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Kylie Jenner portata in tribunale dalla sua ex cuoca",
-        "description": "Per la terza volta Kylie Jenner viene portata in tribunale da una sua dipendente: questa volta ad accusarla è la sua chef personale.\nL'articolo Kylie Jenner por…",
-        "link": "https://www.dissapore.com/notizie/kylie-jenner-portata-in-tribunale-dalla-sua-ex-cuoca/",
-        "pubDate": "2026-06-26T11:56:22+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
       }
