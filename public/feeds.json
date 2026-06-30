@@ -1,69 +1,60 @@
 {
-  "generated": "2026-06-30T14:19:51.338325+00:00",
+  "generated": "2026-06-30T19:59:17.100136+00:00",
   "feeds": {
     "offerte": [
       {
-        "title": "Tra Inferno e Paradiso c’è uno dei ristoranti più incredibili del Piemonte",
-        "description": "A Isola Sant'Antonio, tra Po, Tanaro e risaie, sopravvive una cucina d'acqua dolce sempre più rara: rane fritte, anguille, risotti di tradizione e una cantina d…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/tra-inferno-e-paradiso-ce-uno-dei-ristoranti-piu-incredibili-del-piemonte/",
-        "pubDate": "2026-06-30T13:59:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "title": "Vino, nasce il Consorzio del Nizza Docg dopo 25 anni di attesa",
+        "description": "Il Consorzio del Nizza Docg è stato riconosciuto ufficialmente il 22 giugno 2026 dal ministero dell’Agricoltura, della Sovranità alimentare e delle Foreste, a N…",
+        "link": "https://www.gustoblog.it/2026/06/30/vino-nasce-il-consorzio-del-nizza-docg-dopo-25-anni-di-attesa/",
+        "pubDate": "2026-06-30T18:05:13+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
-        "source": "Gambero Rosso"
+        "source": "Gustoblog"
       },
       {
-        "title": "La nuova vita delle cantine italiane: dove finisce la degustazione e comincia la cultura",
-        "description": "Perché sempre più cantine investono nell'arte? Dalle mostre in azienda alle collaborazioni con musei prestigiosi, così il vino trova nuovi modi per raccontarsi.…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantine-arte-cultura-neomecenatismo-borgo-conventi/",
-        "pubDate": "2026-06-30T13:51:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "title": "Fave e cicorie, il gusto autentico della tradizione pugliese",
+        "description": "Le fave e cicorie, piatto della tradizione contadina italiana preparato ancora oggi soprattutto nel Mezzogiorno, arrivano in tavola con pochi ingredienti — fave…",
+        "link": "https://www.gustoblog.it/2026/06/30/fave-e-cicorie-il-gusto-autentico-della-tradizione-pugliese/",
+        "pubDate": "2026-06-30T16:03:21+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
-        "source": "Gambero Rosso"
+        "source": "Gustoblog"
       },
       {
-        "title": "Il rifugio che ha segnato la Sila torna finalmente ad accendere la brace",
-        "description": "Per anni è stato il luogo delle domeniche sulla neve per intere generazioni di calabresi. Ora La Pagliara riapre con una nuova identità tra brace, vini naturali…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pagliara-sila-rifugio-riapertura/",
-        "pubDate": "2026-06-30T13:40:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Come arredare il bordo piscina: idee, piante e consigli",
+        "description": "Dal verde agli arredi, scopri come valorizzare il bordo piscina con le piante più adatte e le soluzioni di design capaci di rendere ogni spazio raffinato, funzi…",
+        "link": "https://www.stylosophy.it/articolo/come-arredare-il-bordo-piscina-le-migliori-piante-e-idee/252310/",
+        "pubDate": "2026-06-30T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "Ha lasciato il posto fisso per salvare il pane del suo paese sardo",
-        "description": "A Orroli, Viviana Sirigu ha trasformato il pane imparato da bambina in un progetto di comunità: grano Senatore Cappelli, lievito madre di 300 anni e Tre Pani de…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/kentos-pane-sardo-centenari-orroli/",
-        "pubDate": "2026-06-30T13:32:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Accessori cool per il mare: i must-have da portare con sé in spiaggia",
+        "description": "L’estate è ufficialmente arrivata e, ammettiamolo, come in città, il solo costume da bagno non basta più. Per trasformare un look da spiaggia in un outfit glam …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/accessori-moda-mare-must-have-spiaggia-cappello-occhiali-da-sole-birkenstock-pareo-ventaglio-telo-mare-981871",
+        "pubDate": "2026-06-30T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_Desktop_accesori-mare.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "“Non solo Barolo e Barbaresco. La svolta pop passa dalla Doc Langhe”. La direttrice Spada racconta la nuova strategia",
-        "description": "Il Consorzio studia le prossime mosse per rendere i vini piemontesi più vicini alle nuove generazioni. La parola d'ordine, come ricorda il presidente Germano, è…",
-        "link": "https://www.gamberorosso.it/notizie/vino/doc-langhe-nuova-strategia-consorzio-barolo/",
-        "pubDate": "2026-06-30T13:21:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Saldi estivi 2026: i must-have da mettere subito nella shopping list",
+        "description": "Ormai ci siamo, il countdown è iniziato: a brevissimo (il 4 luglio per essere precise) partiranno ufficialmente i saldi estivi e questo significa che è già arri…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-2026-quando-iniziano-4-luglio-cosa-comprare-con-gli-sconti-must-have-982182",
+        "pubDate": "2026-06-30T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_MUST_HAVE_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Sembrano tortellini, ma arrivano dall’Asia centrale: la storia dei manti",
-        "description": "Dalla Turchia al Kazakistan, i manti sono fagottini di pasta ripiena nati per sfamare i popoli nomadi in viaggio. Piccoli ravioli che raccontano una storia molt…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/manti-ravioli-asia-centrale/",
-        "pubDate": "2026-06-30T13:18:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "title": "I migliori 68 ristoranti fuoricasello, regione per regione",
+        "description": "Proverete il vero gusto di uscire fuoricasello verso la meta delle vacanze con questi ristoranti 68 vicini all'autostrada, tra trattorie tipiche, trippai, pizze…",
+        "link": "https://www.dissapore.com/ristoranti/fuoricasello-vicini-autostrada/",
+        "pubDate": "2026-06-30T14:45:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/trattoria-di-campagna.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Udine si può bere il vino sotto fregi e mosaici liberty. Signorvino apre al Contarena",
-        "description": "Dall'8 luglio la grande cantina italiana apre a Udine, in uno dei caffè storici più amati d'Italia. È la prima di sette aperture che entro dicembre porteranno i…",
-        "link": "https://www.gamberorosso.it/notizie/vino/apre-signorvino-udine/",
-        "pubDate": "2026-06-30T12:11:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "source": "Dissapore"
       },
       {
         "title": "Settimana Cucina Italiana nel Mondo 2026: Sicilia protagonista a Sarajevo",
@@ -75,15 +66,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Sembra un semplice pollo alla brace. In realtà crea dipendenza",
-        "description": "Bruciacchiato fuori, glassato con una salsa piccante e profumata di aglio e limone, il frango piri piri sembra un semplice pollo alla brace: dentro ci sono cinq…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/sembra-un-semplice-pollo-alla-brace-in-realta-crea-dipendenza/",
-        "pubDate": "2026-06-30T11:05:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Tutti i cappelli in rafia approvati dalle fashion addicted da accaparrarsi ASAP",
         "description": "L'accessorio più glam e ricercato dell'Estate? Il cappello in rafia, un vero asso nella manica per dei look al top. Ecco i modelli più belli del momento da non …",
         "link": "https://www.stylosophy.it/articolo/tutti-i-cappelli-in-rafia-approvati-dalle-fashion-addicted-da-accaparrarsi-asap/251783/",
@@ -93,15 +75,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Cosa mangiavamo la notte del 9 luglio 2006, quando l’Italia vinse i Mondiali",
-        "description": "Dalla pizza al taglio al Maxibon, dalle birre ghiacciate alle friselle: i ricordi gastronomici di una notte che l’Italia non ha mai dimenticato…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cosa-mangiavamo-notte-vittoria-mondiali-2006/",
-        "pubDate": "2026-06-30T10:44:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dietrofront di Starmer: in Inghilterra il foie gras non si può produrre, ma si può importare",
         "description": "Nel tentativo di ricostruire i rapporti commerciale con l'UE post Brexit, il primo ministro uscente deve cedere sul foie gras, abbandonando le promesse elettora…",
         "link": "https://www.dissapore.com/notizie/dietrofront-di-starmer-in-inghilterra-il-foie-gras-non-si-puo-produrre-ma-si-puo-importare/",
@@ -109,15 +82,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/foie-gras-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Uno dei colossi dello Champagne rischia di finire in mani tedesche",
-        "description": "Vranken-Pommery, terzo gruppo della Champagne per volumi, è schiacciato dai debiti. Il possibile acquisto da parte di Henkell Freixenet potrebbe cambiare per se…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pommery-vendita-henkell-champagne/",
-        "pubDate": "2026-06-30T10:13:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "«Italico, non Riesling»: Walter Massa e la lezione che l’Oltrepò non può ignorare",
@@ -136,6 +100,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Jacquemus e il suo omaggio all’estate con la collezione SS27: 5 cose da ricordare dello show",
+        "description": "“La storia di un’estate vissuta all’aria aperta e immersa nella natura”, descrive così Simone Port Jacquemus “Le Bonheur”, la nuova collezione SS27 di Jacquemus…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-jacquemus-isola-corsica-faro-della-pietra-athena-accorsi-show-sfilata-983471",
+        "pubDate": "2026-06-30T08:36:08+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Jacquemus_SS27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "A un anno dalla morte di Mara Severin nel crollo di Terracina, lo chef riparte da una brasserie",
@@ -181,9 +154,63 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Cosa comprare con i saldi estivi: i capi e gli accessori da puntare ora e sfruttare anche a Settembre",
+        "description": "Con l’arrivo dei saldi abbiamo l’opportunità di rifarci il guardaroba e di regalarci i nostri pezzi del cuore senza troppi sensi di colpa, ma perchè concentrars…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-con-i-saldi-estivi-inizio-sconti-estate-donna-capi-accessori-shopping-982958",
+        "pubDate": "2026-06-30T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_SALDI_DA-COMPRARE_ORA-PER_SETTEMBRE.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Vino europeo, nuovo rischio dazi Usa: USWTA mobilita venditori americani",
+        "description": "Il vino europeo torna sotto pressione negli Stati Uniti. Rischia infatti di finire dentro una nuova misura di dazi costruita attorno al tema del lavoro forzato,…",
+        "link": "https://www.winemag.it/vino-europeo-nuovo-rischio-dazi-usa-uswta-mobilita-venditori-americani/",
+        "pubDate": "2026-06-29T20:04:06+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Caldo sull’Etna, una granita tra le neviere celebra Procopio Cutò",
+        "description": "La Maestra gelatiera Giovanna Musumeci ha preparato nei giorni scorsi una granita al limone artigianale sulle neviere dell’Etna, a quota 2.900 metri, per il pro…",
+        "link": "https://www.gustoblog.it/2026/06/29/caldo-sulletna-una-granita-tra-le-neviere-celebra-procopio-cuto/",
+        "pubDate": "2026-06-29T18:04:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
       }
     ],
     "moda": [
+      {
+        "title": "Come arredare il bordo piscina: idee, piante e consigli",
+        "description": "Dal verde agli arredi, scopri come valorizzare il bordo piscina con le piante più adatte e le soluzioni di design capaci di rendere ogni spazio raffinato, funzi…",
+        "link": "https://www.stylosophy.it/articolo/come-arredare-il-bordo-piscina-le-migliori-piante-e-idee/252310/",
+        "pubDate": "2026-06-30T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Accessori cool per il mare: i must-have da portare con sé in spiaggia",
+        "description": "L’estate è ufficialmente arrivata e, ammettiamolo, come in città, il solo costume da bagno non basta più. Per trasformare un look da spiaggia in un outfit glam …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/accessori-moda-mare-must-have-spiaggia-cappello-occhiali-da-sole-birkenstock-pareo-ventaglio-telo-mare-981871",
+        "pubDate": "2026-06-30T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_Desktop_accesori-mare.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Saldi estivi 2026: i must-have da mettere subito nella shopping list",
+        "description": "Ormai ci siamo, il countdown è iniziato: a brevissimo (il 4 luglio per essere precise) partiranno ufficialmente i saldi estivi e questo significa che è già arri…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-2026-quando-iniziano-4-luglio-cosa-comprare-con-gli-sconti-must-have-982182",
+        "pubDate": "2026-06-30T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_MUST_HAVE_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Tutti i cappelli in rafia approvati dalle fashion addicted da accaparrarsi ASAP",
         "description": "L'accessorio più glam e ricercato dell'Estate? Il cappello in rafia, un vero asso nella manica per dei look al top. Ecco i modelli più belli del momento da non …",
@@ -203,6 +230,24 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Jacquemus e il suo omaggio all’estate con la collezione SS27: 5 cose da ricordare dello show",
+        "description": "“La storia di un’estate vissuta all’aria aperta e immersa nella natura”, descrive così Simone Port Jacquemus “Le Bonheur”, la nuova collezione SS27 di Jacquemus…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-jacquemus-isola-corsica-faro-della-pietra-athena-accorsi-show-sfilata-983471",
+        "pubDate": "2026-06-30T08:36:08+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Jacquemus_SS27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Cosa comprare con i saldi estivi: i capi e gli accessori da puntare ora e sfruttare anche a Settembre",
+        "description": "Con l’arrivo dei saldi abbiamo l’opportunità di rifarci il guardaroba e di regalarci i nostri pezzi del cuore senza troppi sensi di colpa, ma perchè concentrars…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-con-i-saldi-estivi-inizio-sconti-estate-donna-capi-accessori-shopping-982958",
+        "pubDate": "2026-06-30T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_SALDI_DA-COMPRARE_ORA-PER_SETTEMBRE.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Vacanze a luglio in Italia: 5 destinazioni da visitare tra mare, montagna e borghi",
         "description": "Luglio è il momento ideale per partire alla scoperta dell'Italia. Ecco cinque destinazioni perfette per chi cerca mare, natura, borghi autentici e paesaggi spet…",
         "link": "https://www.stylosophy.it/articolo/vacanze-a-luglio-in-italia-5-destinazioni-da-visitare-tra-mare-montagna-e-borghi/252302/",
@@ -210,15 +255,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Saldi fa rima con…scarpe. Tutte d’accordo, vero? Ecco i modelli di tendenza su cui investire ora",
-        "description": "Le scarpe durante i saldi estivi 2026 sono il primo reparto da tenere d&#8217;occhio! Se c&#8217;è infatti una categoria sulla quale vale davvero la pena invest…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-saldi-estivi-2026-quali-modelli-comprare-decolle-sandali-mocassini-ballerine-in-saldo-sconti-promozioni-982233",
-        "pubDate": "2026-06-29T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Jennifer Lopez, Look super sexy con il body con tatuaggi e gli stivali in pelle firmati Jimmy Choo x Jean Paul Gaultier",
@@ -302,24 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Bonassola: il borgo marinaro che ti farà innamorare della Liguria",
-        "description": "Questo borgo marinaro in provincia di La Spezia è una chicca dal fascino senza tempo! Scopriamolo insieme...…",
-        "link": "https://www.stylosophy.it/articolo/borgo-marinaro-in-provincia-di-la-spezia/230403/",
-        "pubDate": "2026-06-27T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Saldi estivi in arrivo! E questi sono i vestiti da aggiungere subito alla shopping list",
-        "description": "I saldi estivi stanno arrivando (in realtà online su molti e-commerce ci sono già!) e rappresentano l&#8217;occasione perfetta per rinnovare il guardaroba senza…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-2026-vestiti-modelli-da-comprare-midi-corti-lunghi-eleganti-da-giorno-cerimonia-zara-mango-981997",
-        "pubDate": "2026-06-27T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-1-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Le paillettes non vanno in vacanza: ecco i capi “sparkling” da sfoggiare per un’estate davvero luccicante",
         "description": "Da sempre, esistono due momenti dell’anno ben precisi in cui paillettes, perline e ricami scintillanti fanno capolino nel guardaroba per trasformarsi nei protag…",
         "link": "https://www.grazia.it/moda/tendenze-moda/paillettes-abiti-gonne-top-costumi-da-bagno-strass-estate-look-luccicanti-981676",
@@ -345,89 +363,35 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Sandali_Scoobidoo.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Alexa Chung, Zendaya, Reese Whiterspoon e tutte le Best Dressed of the Week",
-        "description": "Settimana dopo settimana, le best dressed continuano con la loro capacità di trasformare ogni apparizione pubblica in una dichiarazione di moda precisa e ricono…",
-        "link": "https://www.grazia.it/moda/celebrity-style/alexa-chung-zendaya-reese-witherspoon-look-star-meglio-vestite-della-settimana-982521",
-        "pubDate": "2026-06-26T08:32:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_best_d_26_giugno.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "7 modi per indossare il foulard d’estate",
-        "description": "Esistono accessori che, con la loro sola presenza nel fashion heritage, definiscono un preciso momento dell&#8217;anno. Uno di questi è senza dubbio il foulard.…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/foulard-come-indossare-modi-di-portarlo-al-collo-capelli-cintura-top-bandana-estate-2026-981946",
-        "pubDate": "2026-06-25T18:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_foulard_inspo_look.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
       {
-        "title": "Tra Inferno e Paradiso c’è uno dei ristoranti più incredibili del Piemonte",
-        "description": "A Isola Sant'Antonio, tra Po, Tanaro e risaie, sopravvive una cucina d'acqua dolce sempre più rara: rane fritte, anguille, risotti di tradizione e una cantina d…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/tra-inferno-e-paradiso-ce-uno-dei-ristoranti-piu-incredibili-del-piemonte/",
-        "pubDate": "2026-06-30T13:59:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "title": "Vino, nasce il Consorzio del Nizza Docg dopo 25 anni di attesa",
+        "description": "Il Consorzio del Nizza Docg è stato riconosciuto ufficialmente il 22 giugno 2026 dal ministero dell’Agricoltura, della Sovranità alimentare e delle Foreste, a N…",
+        "link": "https://www.gustoblog.it/2026/06/30/vino-nasce-il-consorzio-del-nizza-docg-dopo-25-anni-di-attesa/",
+        "pubDate": "2026-06-30T18:05:13+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
-        "source": "Gambero Rosso"
+        "source": "Gustoblog"
       },
       {
-        "title": "La nuova vita delle cantine italiane: dove finisce la degustazione e comincia la cultura",
-        "description": "Perché sempre più cantine investono nell'arte? Dalle mostre in azienda alle collaborazioni con musei prestigiosi, così il vino trova nuovi modi per raccontarsi.…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantine-arte-cultura-neomecenatismo-borgo-conventi/",
-        "pubDate": "2026-06-30T13:51:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "title": "Fave e cicorie, il gusto autentico della tradizione pugliese",
+        "description": "Le fave e cicorie, piatto della tradizione contadina italiana preparato ancora oggi soprattutto nel Mezzogiorno, arrivano in tavola con pochi ingredienti — fave…",
+        "link": "https://www.gustoblog.it/2026/06/30/fave-e-cicorie-il-gusto-autentico-della-tradizione-pugliese/",
+        "pubDate": "2026-06-30T16:03:21+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
-        "source": "Gambero Rosso"
+        "source": "Gustoblog"
       },
       {
-        "title": "Il rifugio che ha segnato la Sila torna finalmente ad accendere la brace",
-        "description": "Per anni è stato il luogo delle domeniche sulla neve per intere generazioni di calabresi. Ora La Pagliara riapre con una nuova identità tra brace, vini naturali…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pagliara-sila-rifugio-riapertura/",
-        "pubDate": "2026-06-30T13:40:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha lasciato il posto fisso per salvare il pane del suo paese sardo",
-        "description": "A Orroli, Viviana Sirigu ha trasformato il pane imparato da bambina in un progetto di comunità: grano Senatore Cappelli, lievito madre di 300 anni e Tre Pani de…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/kentos-pane-sardo-centenari-orroli/",
-        "pubDate": "2026-06-30T13:32:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Non solo Barolo e Barbaresco. La svolta pop passa dalla Doc Langhe”. La direttrice Spada racconta la nuova strategia",
-        "description": "Il Consorzio studia le prossime mosse per rendere i vini piemontesi più vicini alle nuove generazioni. La parola d'ordine, come ricorda il presidente Germano, è…",
-        "link": "https://www.gamberorosso.it/notizie/vino/doc-langhe-nuova-strategia-consorzio-barolo/",
-        "pubDate": "2026-06-30T13:21:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sembrano tortellini, ma arrivano dall’Asia centrale: la storia dei manti",
-        "description": "Dalla Turchia al Kazakistan, i manti sono fagottini di pasta ripiena nati per sfamare i popoli nomadi in viaggio. Piccoli ravioli che raccontano una storia molt…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/manti-ravioli-asia-centrale/",
-        "pubDate": "2026-06-30T13:18:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Udine si può bere il vino sotto fregi e mosaici liberty. Signorvino apre al Contarena",
-        "description": "Dall'8 luglio la grande cantina italiana apre a Udine, in uno dei caffè storici più amati d'Italia. È la prima di sette aperture che entro dicembre porteranno i…",
-        "link": "https://www.gamberorosso.it/notizie/vino/apre-signorvino-udine/",
-        "pubDate": "2026-06-30T12:11:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "I migliori 68 ristoranti fuoricasello, regione per regione",
+        "description": "Proverete il vero gusto di uscire fuoricasello verso la meta delle vacanze con questi ristoranti 68 vicini all'autostrada, tra trattorie tipiche, trippai, pizze…",
+        "link": "https://www.dissapore.com/ristoranti/fuoricasello-vicini-autostrada/",
+        "pubDate": "2026-06-30T14:45:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/trattoria-di-campagna.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       },
       {
         "title": "Settimana Cucina Italiana nel Mondo 2026: Sicilia protagonista a Sarajevo",
@@ -439,24 +403,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Sembra un semplice pollo alla brace. In realtà crea dipendenza",
-        "description": "Bruciacchiato fuori, glassato con una salsa piccante e profumata di aglio e limone, il frango piri piri sembra un semplice pollo alla brace: dentro ci sono cinq…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/sembra-un-semplice-pollo-alla-brace-in-realta-crea-dipendenza/",
-        "pubDate": "2026-06-30T11:05:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cosa mangiavamo la notte del 9 luglio 2006, quando l’Italia vinse i Mondiali",
-        "description": "Dalla pizza al taglio al Maxibon, dalle birre ghiacciate alle friselle: i ricordi gastronomici di una notte che l’Italia non ha mai dimenticato…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cosa-mangiavamo-notte-vittoria-mondiali-2006/",
-        "pubDate": "2026-06-30T10:44:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dietrofront di Starmer: in Inghilterra il foie gras non si può produrre, ma si può importare",
         "description": "Nel tentativo di ricostruire i rapporti commerciale con l'UE post Brexit, il primo ministro uscente deve cedere sul foie gras, abbandonando le promesse elettora…",
         "link": "https://www.dissapore.com/notizie/dietrofront-di-starmer-in-inghilterra-il-foie-gras-non-si-puo-produrre-ma-si-puo-importare/",
@@ -464,15 +410,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/foie-gras-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Uno dei colossi dello Champagne rischia di finire in mani tedesche",
-        "description": "Vranken-Pommery, terzo gruppo della Champagne per volumi, è schiacciato dai debiti. Il possibile acquisto da parte di Henkell Freixenet potrebbe cambiare per se…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pommery-vendita-henkell-champagne/",
-        "pubDate": "2026-06-30T10:13:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "«Italico, non Riesling»: Walter Massa e la lezione che l’Oltrepò non può ignorare",
@@ -545,6 +482,69 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Asparagi alla lucana: il sapore autentico della primavera",
+        "description": "In Basilicata, nelle cucine di casa e nelle trattorie dell’entroterra, gli asparagi alla lucana si preparano soprattutto in primavera, quando i germogli freschi…",
+        "link": "https://www.gustoblog.it/2026/06/29/asparagi-alla-lucana-il-sapore-autentico-della-primavera/",
+        "pubDate": "2026-06-29T16:03:08+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Mondiali, Coldiretti lancia a New York la Nazionale vini italiana",
+        "description": "Il vino italiano prova a giocare la sua partita mondiale anche senza la Nazionale di calcio. Mentre l’Italia resta fuori dalla Coppa del Mondo 2026 per la terza…",
+        "link": "https://www.winemag.it/mondiali-coldiretti-lancia-a-new-york-la-nazionale-vini-italiana/",
+        "pubDate": "2026-06-29T15:28:05+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Nestlé ci prova con l’agricoltura rigenerativa: ambientalismo o greenwashing?",
+        "description": "Dopo un periodo in cui non sono mancati scandali e controversie, Nestlé sostiene il programma Regenerating Together, unendosi a una tendenza seguita da diversi …",
+        "link": "https://www.dissapore.com/notizie/nestle-ci-prova-con-lagricoltura-rigenerativa-ambientalismo-o-greenwashing/",
+        "pubDate": "2026-06-29T14:56:17+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/Agricoltura-biologica-1.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Villa Agreste inaugura la Vigna del Terzo Paradiso: arte, biodiversità e vitigni storici",
+        "description": "Il 25 giugno, nel giorno del novantatreesimo compleanno di Michelangelo Pistoletto, l&#8217;azienda pugliese Villa Agreste ha inaugurato a Ostuni la Vigna del T…",
+        "link": "https://www.winemag.it/villa-agreste-inaugura-la-vigna-del-terzo-paradiso-arte-biodiversita-e-vitigni-storici-nel-progetto-ispirato-a-michelangelo-pistoletto/",
+        "pubDate": "2026-06-29T13:30:02+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Mozzarella di Bufala Campana Dop protagonista al Summer Fancy Food di New York tra filatura dal vivo e promozione negli Usa",
+        "description": "Dal 28 al 30 giugno la Mozzarella di Bufala Campana Dop sarà tra i protagonisti del Summer Fancy Food di New York, il principale appuntamento dedicato al settor…",
+        "link": "https://www.winemag.it/mozzarella-di-bufala-campana-dop-protagonista-al-summer-fancy-food-di-new-york-tra-filatura-dal-vivo-e-promozione-negli-usa/",
+        "pubDate": "2026-06-29T13:16:24+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Maturità 2026, Acquaworld lancia un’iniziativa per i nati nel 2007: ingresso agevolato fino al 17 luglio",
+        "description": "Con la maturità entra nel vivo anche l&#8217;estate di migliaia di studenti italiani. Tra prove scritte, colloqui e ultimi ripassi, gli esami di Stato rappresen…",
+        "link": "https://www.winemag.it/maturita-2026-acquaworld-lancia-uniniziativa-per-i-nati-nel-2007-ingresso-agevolato-fino-al-17-luglio/",
+        "pubDate": "2026-06-29T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Stock lancia Amaro Amabile, il nuovo amaro d’erbe tra tradizione e mixology",
+        "description": "Stock amplia il proprio portafoglio nel segmento degli spirits con il lancio di Stock Amaro Amabile, nuovo amaro d’erbe disponibile da giugno 2026 nella grande …",
+        "link": "https://www.winemag.it/stock-lancia-amaro-amabile-il-nuovo-amaro-derbe-tra-tradizione-e-mixology/",
+        "pubDate": "2026-06-29T12:27:17+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       }
     ]
   }
