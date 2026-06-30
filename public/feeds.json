@@ -1,7 +1,79 @@
 {
-  "generated": "2026-06-29T19:58:20.970302+00:00",
+  "generated": "2026-06-30T09:36:50.999277+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "«Italico, non Riesling»: Walter Massa e la lezione che l’Oltrepò non può ignorare",
+        "description": "«Italico, non Riesling»: Walter Massa e la lezione che l'Oltrepò non può ignorare. Il padre del Timorasso: «Serve patto sul Riesling italico»\nL'articolo «Italic…",
+        "link": "https://www.winemag.it/italico-non-riesling-walter-massa-lezione-oltrepo-pavese-non-puo-ignorare/",
+        "pubDate": "2026-06-30T09:32:37+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ha riaperto il forno dove andava da bambino. Ora vende una delle pizze bianche più amate di Milano",
+        "description": "Cesare Bonelli ha aperto il suo forno nei locali che frequentava da bambino. Quattro anni dopo è arrivato il massimo riconoscimento del Gambero Rosso…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/miglior-forno-lambrate-milano/",
+        "pubDate": "2026-06-30T09:30:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I sieri corpo più validi dell’Estate 2026 per una bodycare completa e mirata",
+        "description": "I sieri corpo sono il prodotto beauty must have per una pelle idratata, luminosa e rimpolpata. Ecco i più validi del momento da non lasciarsi sfuggire...…",
+        "link": "https://www.stylosophy.it/articolo/i-sieri-corpo-piu-validi-dellestate-2026-per-una-bodycare-completa-e-mirata/252142/",
+        "pubDate": "2026-06-30T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "A Santorini stanno salvando le vigne dalla siccità, e dovremo farlo anche noi",
+        "description": "Dopo il 2022 le estati sono torride e la produzione di vino è stata ridotta a un quinto. Ma coltivatori illuminati stanno trovando soluzioni sostenibili.\nL'arti…",
+        "link": "https://www.dissapore.com/notizie/a-santorini-stanno-salvando-le-vigne-dalla-siccita-e-dovremo-farlo-anche-noi/",
+        "pubDate": "2026-06-30T07:53:23+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/vigna-tradizionale-a-cesto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Antipasto alla giuliese: il sapore del mare in tavola",
+        "description": "A Giulianova, sulla costa teramana, l’Antipasto alla Giuliese racconta ancora oggi la cucina marinara abruzzese: un piatto di pesce lessato e salsa verde, prepa…",
+        "link": "https://www.gustoblog.it/2026/06/30/antipasto-alla-giuliese-il-sapore-del-mare-in-tavola/",
+        "pubDate": "2026-06-30T06:07:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Serra Ferdinandea ottiene la certificazione Demeter: vini e produzioni biodinamiche certificate nei Monti Sicani",
+        "description": "Serra Ferdinandea ha ottenuto la certificazione Demeter, il principale standard internazionale per l&#8217;agricoltura biodinamica. Il riconoscimento conclude u…",
+        "link": "https://www.winemag.it/serra-ferdinandea-ottiene-la-certificazione-demeter-vini-e-produzioni-biodinamiche-certificate-nei-monti-sicani/",
+        "pubDate": "2026-06-30T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cantina Bozen riduce del 44% le emissioni di CO2: presentato il Rapporto di sostenibilità 2022-2025",
+        "description": "Cantina Bozen prosegue il proprio percorso verso una viticoltura sempre più sostenibile. La cooperativa altoatesina ha presentato il secondo Rapporto di sosteni…",
+        "link": "https://www.winemag.it/cantina-bozen-riduce-del-44-le-emissioni-di-co2-presentato-il-rapporto-di-sostenibilita-2022-2025/",
+        "pubDate": "2026-06-30T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vino europeo, nuovo rischio dazi Usa: USWTA mobilita venditori americani",
+        "description": "Il vino europeo torna sotto pressione negli Stati Uniti. Rischia infatti di finire dentro una nuova misura di dazi costruita attorno al tema del lavoro forzato,…",
+        "link": "https://www.winemag.it/vino-europeo-nuovo-rischio-dazi-usa-uswta-mobilita-venditori-americani/",
+        "pubDate": "2026-06-29T20:04:06+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Caldo sull’Etna, una granita tra le neviere celebra Procopio Cutò",
         "description": "La Maestra gelatiera Giovanna Musumeci ha preparato nei giorni scorsi una granita al limone artigianale sulle neviere dell’Etna, a quota 2.900 metri, per il pro…",
@@ -109,81 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Villa Agreste inaugura la Vigna del Terzo Paradiso: arte, biodiversità e vitigni storici",
-        "description": "Il 25 giugno, nel giorno del novantatreesimo compleanno di Michelangelo Pistoletto, l&#8217;azienda pugliese Villa Agreste ha inaugurato a Ostuni la Vigna del T…",
-        "link": "https://www.winemag.it/villa-agreste-inaugura-la-vigna-del-terzo-paradiso-arte-biodiversita-e-vitigni-storici-nel-progetto-ispirato-a-michelangelo-pistoletto/",
-        "pubDate": "2026-06-29T13:30:02+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Mozzarella di Bufala Campana Dop protagonista al Summer Fancy Food di New York tra filatura dal vivo e promozione negli Usa",
-        "description": "Dal 28 al 30 giugno la Mozzarella di Bufala Campana Dop sarà tra i protagonisti del Summer Fancy Food di New York, il principale appuntamento dedicato al settor…",
-        "link": "https://www.winemag.it/mozzarella-di-bufala-campana-dop-protagonista-al-summer-fancy-food-di-new-york-tra-filatura-dal-vivo-e-promozione-negli-usa/",
-        "pubDate": "2026-06-29T13:16:24+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Jennifer Lopez, Look super sexy con il body con tatuaggi e gli stivali in pelle firmati Jimmy Choo x Jean Paul Gaultier",
-        "description": "Per l'Obsessed Fest di Prime Video, Jennifer Lopez ha sfoggiato un look stiloso e super sexy.…",
-        "link": "https://www.stylosophy.it/articolo/jennifer-lopez-look-super-sexy-con-il-body-con-tatuaggi-e-gli-stivali-in-pelle-firmati-jimmy-choo-x-jean-paul-gaultier/252337/",
-        "pubDate": "2026-06-29T13:00:00+00:00",
+        "title": "I sieri corpo più validi dell’Estate 2026 per una bodycare completa e mirata",
+        "description": "I sieri corpo sono il prodotto beauty must have per una pelle idratata, luminosa e rimpolpata. Ecco i più validi del momento da non lasciarsi sfuggire...…",
+        "link": "https://www.stylosophy.it/articolo/i-sieri-corpo-piu-validi-dellestate-2026-per-una-bodycare-completa-e-mirata/252142/",
+        "pubDate": "2026-06-30T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Maturità 2026, Acquaworld lancia un’iniziativa per i nati nel 2007: ingresso agevolato fino al 17 luglio",
-        "description": "Con la maturità entra nel vivo anche l&#8217;estate di migliaia di studenti italiani. Tra prove scritte, colloqui e ultimi ripassi, gli esami di Stato rappresen…",
-        "link": "https://www.winemag.it/maturita-2026-acquaworld-lancia-uniniziativa-per-i-nati-nel-2007-ingresso-agevolato-fino-al-17-luglio/",
-        "pubDate": "2026-06-29T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Stock lancia Amaro Amabile, il nuovo amaro d’erbe tra tradizione e mixology",
-        "description": "Stock amplia il proprio portafoglio nel segmento degli spirits con il lancio di Stock Amaro Amabile, nuovo amaro d’erbe disponibile da giugno 2026 nella grande …",
-        "link": "https://www.winemag.it/stock-lancia-amaro-amabile-il-nuovo-amaro-derbe-tra-tradizione-e-mixology/",
-        "pubDate": "2026-06-29T12:27:17+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cusumano inaugura “The Unseen Terroirs”, esperienza immersiva per raccontare i terroir della Sicilia",
-        "description": "Cusumano presenta “The Unseen Terroirs”, un nuovo percorso immersivo e multisensoriale realizzato nella cantina di Partinico, in provincia di Palermo. Il proget…",
-        "link": "https://www.winemag.it/cusumano-inaugura-the-unseen-terroirs-esperienza-immersiva-per-raccontare-i-terroir-della-sicilia/",
-        "pubDate": "2026-06-29T12:04:31+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Jennifer Aniston: il suo look anni ’90 con canotta e pencil skirt in lino è la perfetta “divisa” estiva",
-        "description": "Una canotta, una pencil skirt in lino e un paio di sandali con il tacco largo: bastano giusto questi tre pezzi “furbi” del guardaroba per creare a occhi chiusi …",
-        "link": "https://www.grazia.it/moda/get-the-look/canotta-pencil-skirt-lino-jennifer-aniston-get-the-look-uniforme-estiva-983306",
-        "pubDate": "2026-06-29T12:01:13+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Canotta_pencil_skirt.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Le 5 migliori gelaterie di Bologna nel 2026",
-        "description": "Le 5 migliori insegne del gelato a Bologna, nel 2026. La selezione di Dissapore, come sempre seguita dagli assaggi sul campo, spin off della classifica nazional…",
-        "link": "https://www.dissapore.com/locali/le-5-migliori-gelaterie-di-bologna-nel-2026/",
-        "pubDate": "2026-06-29T11:53:02+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/Supernatural-bologna.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "Vacanze a luglio in Italia: 5 destinazioni da visitare tra mare, montagna e borghi",
         "description": "Luglio è il momento ideale per partire alla scoperta dell'Italia. Ecco cinque destinazioni perfette per chi cerca mare, natura, borghi autentici e paesaggi spet…",
@@ -302,15 +311,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Clara sfoggia il mini dress in denim con motivo patchwork di ispirazione primi anni 2000",
-        "description": "Clara, per i primi concerti estivi, sfoggia un mini dress di super tendenza per questa stagione.…",
-        "link": "https://www.stylosophy.it/articolo/clara-sfoggia-il-mini-dress-in-denim-con-motivo-patchwork-di-ispirazione-primi-anni-2000/252326/",
-        "pubDate": "2026-06-27T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Saldi estivi in arrivo! E questi sono i vestiti da aggiungere subito alla shopping list",
         "description": "I saldi estivi stanno arrivando (in realtà online su molti e-commerce ci sono già!) e rappresentano l&#8217;occasione perfetta per rinnovare il guardaroba senza…",
         "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-2026-vestiti-modelli-da-comprare-midi-corti-lunghi-eleganti-da-giorno-cerimonia-zara-mango-981997",
@@ -366,6 +366,69 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "«Italico, non Riesling»: Walter Massa e la lezione che l’Oltrepò non può ignorare",
+        "description": "«Italico, non Riesling»: Walter Massa e la lezione che l'Oltrepò non può ignorare. Il padre del Timorasso: «Serve patto sul Riesling italico»\nL'articolo «Italic…",
+        "link": "https://www.winemag.it/italico-non-riesling-walter-massa-lezione-oltrepo-pavese-non-puo-ignorare/",
+        "pubDate": "2026-06-30T09:32:37+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ha riaperto il forno dove andava da bambino. Ora vende una delle pizze bianche più amate di Milano",
+        "description": "Cesare Bonelli ha aperto il suo forno nei locali che frequentava da bambino. Quattro anni dopo è arrivato il massimo riconoscimento del Gambero Rosso…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/miglior-forno-lambrate-milano/",
+        "pubDate": "2026-06-30T09:30:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Santorini stanno salvando le vigne dalla siccità, e dovremo farlo anche noi",
+        "description": "Dopo il 2022 le estati sono torride e la produzione di vino è stata ridotta a un quinto. Ma coltivatori illuminati stanno trovando soluzioni sostenibili.\nL'arti…",
+        "link": "https://www.dissapore.com/notizie/a-santorini-stanno-salvando-le-vigne-dalla-siccita-e-dovremo-farlo-anche-noi/",
+        "pubDate": "2026-06-30T07:53:23+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/vigna-tradizionale-a-cesto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Antipasto alla giuliese: il sapore del mare in tavola",
+        "description": "A Giulianova, sulla costa teramana, l’Antipasto alla Giuliese racconta ancora oggi la cucina marinara abruzzese: un piatto di pesce lessato e salsa verde, prepa…",
+        "link": "https://www.gustoblog.it/2026/06/30/antipasto-alla-giuliese-il-sapore-del-mare-in-tavola/",
+        "pubDate": "2026-06-30T06:07:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Serra Ferdinandea ottiene la certificazione Demeter: vini e produzioni biodinamiche certificate nei Monti Sicani",
+        "description": "Serra Ferdinandea ha ottenuto la certificazione Demeter, il principale standard internazionale per l&#8217;agricoltura biodinamica. Il riconoscimento conclude u…",
+        "link": "https://www.winemag.it/serra-ferdinandea-ottiene-la-certificazione-demeter-vini-e-produzioni-biodinamiche-certificate-nei-monti-sicani/",
+        "pubDate": "2026-06-30T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cantina Bozen riduce del 44% le emissioni di CO2: presentato il Rapporto di sostenibilità 2022-2025",
+        "description": "Cantina Bozen prosegue il proprio percorso verso una viticoltura sempre più sostenibile. La cooperativa altoatesina ha presentato il secondo Rapporto di sosteni…",
+        "link": "https://www.winemag.it/cantina-bozen-riduce-del-44-le-emissioni-di-co2-presentato-il-rapporto-di-sostenibilita-2022-2025/",
+        "pubDate": "2026-06-30T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vino europeo, nuovo rischio dazi Usa: USWTA mobilita venditori americani",
+        "description": "Il vino europeo torna sotto pressione negli Stati Uniti. Rischia infatti di finire dentro una nuova misura di dazi costruita attorno al tema del lavoro forzato,…",
+        "link": "https://www.winemag.it/vino-europeo-nuovo-rischio-dazi-usa-uswta-mobilita-venditori-americani/",
+        "pubDate": "2026-06-29T20:04:06+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Caldo sull’Etna, una granita tra le neviere celebra Procopio Cutò",
         "description": "La Maestra gelatiera Giovanna Musumeci ha preparato nei giorni scorsi una granita al limone artigianale sulle neviere dell’Etna, a quota 2.900 metri, per il pro…",
@@ -480,69 +543,6 @@
         "link": "https://www.winemag.it/maturita-2026-acquaworld-lancia-uniniziativa-per-i-nati-nel-2007-ingresso-agevolato-fino-al-17-luglio/",
         "pubDate": "2026-06-29T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Stock lancia Amaro Amabile, il nuovo amaro d’erbe tra tradizione e mixology",
-        "description": "Stock amplia il proprio portafoglio nel segmento degli spirits con il lancio di Stock Amaro Amabile, nuovo amaro d’erbe disponibile da giugno 2026 nella grande …",
-        "link": "https://www.winemag.it/stock-lancia-amaro-amabile-il-nuovo-amaro-derbe-tra-tradizione-e-mixology/",
-        "pubDate": "2026-06-29T12:27:17+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cusumano inaugura “The Unseen Terroirs”, esperienza immersiva per raccontare i terroir della Sicilia",
-        "description": "Cusumano presenta “The Unseen Terroirs”, un nuovo percorso immersivo e multisensoriale realizzato nella cantina di Partinico, in provincia di Palermo. Il proget…",
-        "link": "https://www.winemag.it/cusumano-inaugura-the-unseen-terroirs-esperienza-immersiva-per-raccontare-i-terroir-della-sicilia/",
-        "pubDate": "2026-06-29T12:04:31+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le 5 migliori gelaterie di Bologna nel 2026",
-        "description": "Le 5 migliori insegne del gelato a Bologna, nel 2026. La selezione di Dissapore, come sempre seguita dagli assaggi sul campo, spin off della classifica nazional…",
-        "link": "https://www.dissapore.com/locali/le-5-migliori-gelaterie-di-bologna-nel-2026/",
-        "pubDate": "2026-06-29T11:53:02+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/Supernatural-bologna.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Secondo Coldiretti, a causa dell’italian sounding stiamo perdendo 42 milioni di euro all’anno",
-        "description": "Lo studio di Coldiretti presentato a un'importante a New York spiega l'impatto economico - e non solo - del cibo \"ispirato\" a quello italiano.\nL'articolo Second…",
-        "link": "https://www.dissapore.com/notizie/secondo-coldiretti-a-causa-dellitalian-sounding-stiamo-perdendo-42-milioni-di-euro-allanno/",
-        "pubDate": "2026-06-29T09:08:09+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/olio-americano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Addio ad Arrigo Pisoni, il ricordo dell’Istituto Tutela Grappa del Trentino",
-        "description": "La distillazione trentina perde una delle sue figure più rappresentative. L’Istituto di Tutela della Grappa del Trentino ha espresso il proprio cordoglio per la…",
-        "link": "https://www.winemag.it/addio-ad-arrigo-pisoni-il-ricordo-dellistituto-tutela-grappa-del-trentino/",
-        "pubDate": "2026-06-29T08:50:37+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La Bollita del Tonno 2026 a Oliveri rilancia memoria, pesca e cultura del mare",
-        "description": "La Bollita del Tonno 2026 riporta Oliveri al centro del dibattito sulla memoria marinara siciliana, tra recupero delle tradizioni, sostenibilità della pesca e v…",
-        "link": "https://www.winemag.it/la-bollita-del-tonno-2026-a-oliveri-rilancia-memoria-pesca-e-cultura-del-mare/",
-        "pubDate": "2026-06-28T22:59:16+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Barolo en primeur 2026: Vigna Gustava volto solidale ed elegante del Nebbiolo",
-        "description": "Barolo en primeur 2026 arriva alla sesta edizione confermando la doppia natura del progetto: valorizzare il Nebbiolo delle Langhe attraverso la lettura parcella…",
-        "link": "https://www.winemag.it/barolo-en-primeur-2026-vigna-gustava-volto-solidale-ed-elegante-del-nebbiolo/",
-        "pubDate": "2026-06-28T22:35:16+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/06/Barolo-en-primeur-2026-Vigna-Gustava-volto-solidale-ed-elegante-del-Nebbiolo-3-660x365.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
       }
