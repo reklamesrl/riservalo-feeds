@@ -1,7 +1,79 @@
 {
-  "generated": "2026-07-01T09:47:38.020528+00:00",
+  "generated": "2026-07-01T14:36:53.778404+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Costa migliaia di euro e profuma di incenso: il legno che cambia i distillati",
+        "description": "Si chiama Mizunara, è una quercia giapponese rara, porosa e costosissima. Dopo aver conquistato il whisky, ora firma anche una grappa piemontese…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mizunara-legno-giapponese-whisky-grappa/",
+        "pubDate": "2026-07-01T14:09:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questo bar di Milano è tra i migliori d’Europa (ma i milanesi lo sanno da anni)",
+        "description": "Da oltre vent’anni Rita &#038; Cocktails è un punto di riferimento sui Navigli: oggi entra tra i migliori cocktail bar d’Europa, ma per Milano è un’istituzione …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/rita-cocktails-milano-50-best-bars/",
+        "pubDate": "2026-07-01T14:03:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma esiste una pizza che il resto d’Italia non capirà mai: quella coi gamberetti",
+        "description": "Fredda, con maionese, lattuga e gamberetti: da decenni domina i banconi delle tavole calde romane e continua a dividere più di qualsiasi altra pizza…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-gamberetti-roma/",
+        "pubDate": "2026-07-01T13:08:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Per decenni l’avevano quasi dimenticata, ora questo bianco emiliano sta tornando: ecco la spergola",
+        "description": "Riscoperta dopo essere quasi scomparsa, la Spergola dei Colli di Scandiano e di Canossa nasce sull’Appennino reggiano su terreni argillosi e gessosi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spergola-vino-emiliano-rinascita/",
+        "pubDate": "2026-07-01T13:04:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dal bikini all’abito lungo per cena: Paola Di Benedetto a Santorini sceglie il total white per i suoi Look dopo il matrimonio con Raoul Bellanova",
+        "description": "Paola Di Benedetto, anche dopo il matrimonio, sceglie il bianco per i suoi look in Grecia a Santorini.…",
+        "link": "https://www.stylosophy.it/articolo/dal-bikini-allabito-lungo-per-cena-paola-di-benedetto-a-santorini-sceglie-il-total-white-per-i-suoi-look-dopo-il-matrimonio-con-raoul-bellanova/252344/",
+        "pubDate": "2026-07-01T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Alla scoperta di Medolino, la località balneare più amata della Croazia dove trascorrere le vacanze estive",
+        "description": "Medolino è una delle località balneari più belle della Croazia, una vera gemma dove trascorrere le vacanze estive. Ecco tutto quello che c'è da sapere...…",
+        "link": "https://www.stylosophy.it/articolo/alla-scoperta-di-medolino-la-localita-balneare-piu-amata-della-croazia-dove-trascorrere-le-vacanze-estive/251977/",
+        "pubDate": "2026-07-01T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "I gelati del supermercato che aumentano di prezzo e si stanno rimpicciolendo",
+        "description": "Rincari energetici, shrinkflation, ma anche un'inspiegabile differenza di aumenti tra le varie marche: per i gelati confezionati (e per i consumatori) è un mome…",
+        "link": "https://www.dissapore.com/notizie/i-gelati-del-supermercato-che-aumentano-di-prezzo-e-si-stanno-rimpicciolendo/",
+        "pubDate": "2026-07-01T10:59:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/gelati-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Carlo Cracco e Matteo Baronetto aprono in Sardegna al Forte Village",
+        "description": "Carlo Cracco inaugura la sua nuova stagione sarda al Forte Village, e torna al passato con il suo ex sous chef, Matteo Baronetto, che lo affiancherà nell'avvent…",
+        "link": "https://www.dissapore.com/notizie/carlo-cracco-apre-in-sardegna-e-si-porta-dietro-matteo-baronetto/",
+        "pubDate": "2026-07-01T10:04:40+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/11/matteo-baronetto-e1715080359646.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "C’è un nuovo Consorzio del vino in Piemonte: il Nizza Docg ora ha il suo ente di tutela. Un iter durato oltre 20 anni",
         "description": "Con il riconoscimento del Masaf, si punta a 5 milioni di bottiglie, sfruttando gli oltre 700 ettari potenziali. Stefano Chiarlo confermato alla presidenza: \"Si …",
@@ -109,81 +181,27 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "«4-5 milioni di bottiglie»: nasce il Consorzio Nizza Docg. Tutti i nomi",
-        "description": "Nasce il Consorzio Nizza Docg per la tutela di un potenziale di 4-5 milioni di bottiglie, raggiungibile nel lungo termine. Con decreto del ministero dell’Agrico…",
-        "link": "https://www.winemag.it/4-5-milioni-di-bottiglie-nasce-il-consorzio-nizza-docg-tutti-i-nomi/",
-        "pubDate": "2026-06-30T21:10:29+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vino, nasce il Consorzio del Nizza Docg dopo 25 anni di attesa",
-        "description": "Il Consorzio del Nizza Docg è stato riconosciuto ufficialmente il 22 giugno 2026 dal ministero dell’Agricoltura, della Sovranità alimentare e delle Foreste, a N…",
-        "link": "https://www.gustoblog.it/2026/06/30/vino-nasce-il-consorzio-del-nizza-docg-dopo-25-anni-di-attesa/",
-        "pubDate": "2026-06-30T18:05:13+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Fave e cicorie, il gusto autentico della tradizione pugliese",
-        "description": "Le fave e cicorie, piatto della tradizione contadina italiana preparato ancora oggi soprattutto nel Mezzogiorno, arrivano in tavola con pochi ingredienti — fave…",
-        "link": "https://www.gustoblog.it/2026/06/30/fave-e-cicorie-il-gusto-autentico-della-tradizione-pugliese/",
-        "pubDate": "2026-06-30T16:03:21+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Come arredare il bordo piscina: idee, piante e consigli",
-        "description": "Dal verde agli arredi, scopri come valorizzare il bordo piscina con le piante più adatte e le soluzioni di design capaci di rendere ogni spazio raffinato, funzi…",
-        "link": "https://www.stylosophy.it/articolo/come-arredare-il-bordo-piscina-le-migliori-piante-e-idee/252310/",
-        "pubDate": "2026-06-30T16:00:00+00:00",
+        "title": "Dal bikini all’abito lungo per cena: Paola Di Benedetto a Santorini sceglie il total white per i suoi Look dopo il matrimonio con Raoul Bellanova",
+        "description": "Paola Di Benedetto, anche dopo il matrimonio, sceglie il bianco per i suoi look in Grecia a Santorini.…",
+        "link": "https://www.stylosophy.it/articolo/dal-bikini-allabito-lungo-per-cena-paola-di-benedetto-a-santorini-sceglie-il-total-white-per-i-suoi-look-dopo-il-matrimonio-con-raoul-bellanova/252344/",
+        "pubDate": "2026-07-01T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Accessori cool per il mare: i must-have da portare con sé in spiaggia",
-        "description": "L’estate è ufficialmente arrivata e, ammettiamolo, come in città, il solo costume da bagno non basta più. Per trasformare un look da spiaggia in un outfit glam …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/accessori-moda-mare-must-have-spiaggia-cappello-occhiali-da-sole-birkenstock-pareo-ventaglio-telo-mare-981871",
-        "pubDate": "2026-06-30T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_Desktop_accesori-mare.jpg",
+        "title": "Alla scoperta di Medolino, la località balneare più amata della Croazia dove trascorrere le vacanze estive",
+        "description": "Medolino è una delle località balneari più belle della Croazia, una vera gemma dove trascorrere le vacanze estive. Ecco tutto quello che c'è da sapere...…",
+        "link": "https://www.stylosophy.it/articolo/alla-scoperta-di-medolino-la-localita-balneare-piu-amata-della-croazia-dove-trascorrere-le-vacanze-estive/251977/",
+        "pubDate": "2026-07-01T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
-        "source": "Grazia"
+        "source": "Stylosophy"
       },
-      {
-        "title": "“Senza i vini importati, non riusciamo a vendere neppure quelli americani”. Appello anti-dazi del trade Usa",
-        "description": "La lettera della Us Wine trade alliance al governo Trump spiega perché le tariffe sui vini esteri abbiano colpito prima di tutto il business e il vino made in U…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/dazi-usa-appello-wine-trade-allliance/",
-        "pubDate": "2026-06-30T15:44:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Saldi estivi 2026: i must-have da mettere subito nella shopping list",
-        "description": "Ormai ci siamo, il countdown è iniziato: a brevissimo (il 4 luglio per essere precise) partiranno ufficialmente i saldi estivi e questo significa che è già arri…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-2026-quando-iniziano-4-luglio-cosa-comprare-con-gli-sconti-must-have-982182",
-        "pubDate": "2026-06-30T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_MUST_HAVE_2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "I migliori 68 ristoranti fuoricasello, regione per regione",
-        "description": "Proverete il vero gusto di uscire fuoricasello verso la meta delle vacanze con questi ristoranti 68 vicini all'autostrada, tra trattorie tipiche, trippai, pizze…",
-        "link": "https://www.dissapore.com/ristoranti/fuoricasello-vicini-autostrada/",
-        "pubDate": "2026-06-30T14:45:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/trattoria-di-campagna.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "I blush liquidi più amati dell’Estate 2026, per un colorito sano e fresco",
         "description": "Sono questi i blush liquidi più amati del momento, un vero must dell'Estate 2026 a prova di guance colorate e luminose. Da non perdere!…",
@@ -311,24 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Erba sintetica sul terrazzo? Ecco come pulirla, una guida completa",
-        "description": "Polvere, foglie e macchie possono compromettere l'aspetto del prato artificiale. Ecco i passaggi più efficaci per pulirlo velocemente e mantenerlo sempre in ord…",
-        "link": "https://www.stylosophy.it/articolo/erba-sintetica-sul-terrazzo-ecco-come-pulirla-una-guida-completa/252291/",
-        "pubDate": "2026-06-28T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Valentina Ferragni segue il trend dei Capri pants: ma come li ha abbinati è super sexy!",
-        "description": "Anche Valentina Ferragni sfoggia i Capri pants per quest'estate 2026: ecco come li ha abbinati!…",
-        "link": "https://www.stylosophy.it/articolo/valentina-ferragni-segue-il-trend-dei-capri-pants-ma-come-li-ha-abbinati-e-super-sexy/252332/",
-        "pubDate": "2026-06-28T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "I “bloomers” sono il trend a cui cedere quest’estate: ecco che cosa sono e come indossarli per ottenere look estivi fa-vo-lo-si",
         "description": "Sono comparsi timidamente nel nostro immaginario attraverso i look più &#8220;avant-garde&#8221; delle trendsetter e, un po&#8217; come accade con un soft launc…",
         "link": "https://www.grazia.it/moda/tendenze-moda/bloomers-cosa-sono-pantaloni-turchi-calzoncini-ampi-a-sbuffo-stretti-alla-caviglia-trend-del-momento-estate-2026-982503",
@@ -366,6 +366,60 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Costa migliaia di euro e profuma di incenso: il legno che cambia i distillati",
+        "description": "Si chiama Mizunara, è una quercia giapponese rara, porosa e costosissima. Dopo aver conquistato il whisky, ora firma anche una grappa piemontese…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mizunara-legno-giapponese-whisky-grappa/",
+        "pubDate": "2026-07-01T14:09:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questo bar di Milano è tra i migliori d’Europa (ma i milanesi lo sanno da anni)",
+        "description": "Da oltre vent’anni Rita &#038; Cocktails è un punto di riferimento sui Navigli: oggi entra tra i migliori cocktail bar d’Europa, ma per Milano è un’istituzione …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/rita-cocktails-milano-50-best-bars/",
+        "pubDate": "2026-07-01T14:03:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma esiste una pizza che il resto d’Italia non capirà mai: quella coi gamberetti",
+        "description": "Fredda, con maionese, lattuga e gamberetti: da decenni domina i banconi delle tavole calde romane e continua a dividere più di qualsiasi altra pizza…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-gamberetti-roma/",
+        "pubDate": "2026-07-01T13:08:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Per decenni l’avevano quasi dimenticata, ora questo bianco emiliano sta tornando: ecco la spergola",
+        "description": "Riscoperta dopo essere quasi scomparsa, la Spergola dei Colli di Scandiano e di Canossa nasce sull’Appennino reggiano su terreni argillosi e gessosi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spergola-vino-emiliano-rinascita/",
+        "pubDate": "2026-07-01T13:04:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I gelati del supermercato che aumentano di prezzo e si stanno rimpicciolendo",
+        "description": "Rincari energetici, shrinkflation, ma anche un'inspiegabile differenza di aumenti tra le varie marche: per i gelati confezionati (e per i consumatori) è un mome…",
+        "link": "https://www.dissapore.com/notizie/i-gelati-del-supermercato-che-aumentano-di-prezzo-e-si-stanno-rimpicciolendo/",
+        "pubDate": "2026-07-01T10:59:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/gelati-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Carlo Cracco e Matteo Baronetto aprono in Sardegna al Forte Village",
+        "description": "Carlo Cracco inaugura la sua nuova stagione sarda al Forte Village, e torna al passato con il suo ex sous chef, Matteo Baronetto, che lo affiancherà nell'avvent…",
+        "link": "https://www.dissapore.com/notizie/carlo-cracco-apre-in-sardegna-e-si-porta-dietro-matteo-baronetto/",
+        "pubDate": "2026-07-01T10:04:40+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/11/matteo-baronetto-e1715080359646.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "C’è un nuovo Consorzio del vino in Piemonte: il Nizza Docg ora ha il suo ente di tutela. Un iter durato oltre 20 anni",
         "description": "Con il riconoscimento del Masaf, si punta a 5 milioni di bottiglie, sfruttando gli oltre 700 ettari potenziali. Stefano Chiarlo confermato alla presidenza: \"Si …",
@@ -491,60 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "“Senza i vini importati, non riusciamo a vendere neppure quelli americani”. Appello anti-dazi del trade Usa",
-        "description": "La lettera della Us Wine trade alliance al governo Trump spiega perché le tariffe sui vini esteri abbiano colpito prima di tutto il business e il vino made in U…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/dazi-usa-appello-wine-trade-allliance/",
-        "pubDate": "2026-06-30T15:44:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I migliori 68 ristoranti fuoricasello, regione per regione",
-        "description": "Proverete il vero gusto di uscire fuoricasello verso la meta delle vacanze con questi ristoranti 68 vicini all'autostrada, tra trattorie tipiche, trippai, pizze…",
-        "link": "https://www.dissapore.com/ristoranti/fuoricasello-vicini-autostrada/",
-        "pubDate": "2026-06-30T14:45:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/trattoria-di-campagna.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Tra Inferno e Paradiso c’è uno dei ristoranti più incredibili del Piemonte",
-        "description": "A Isola Sant'Antonio, tra Po, Tanaro e risaie, sopravvive una cucina d'acqua dolce sempre più rara: rane fritte, anguille, risotti di tradizione e una cantina d…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/tra-inferno-e-paradiso-ce-uno-dei-ristoranti-piu-incredibili-del-piemonte/",
-        "pubDate": "2026-06-30T13:59:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La nuova vita delle cantine italiane: dove finisce la degustazione e comincia la cultura",
-        "description": "Perché sempre più cantine investono nell'arte? Dalle mostre in azienda alle collaborazioni con musei prestigiosi, così il vino trova nuovi modi per raccontarsi.…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantine-arte-cultura-neomecenatismo-borgo-conventi/",
-        "pubDate": "2026-06-30T13:51:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il rifugio che ha segnato la Sila torna finalmente ad accendere la brace",
-        "description": "Per anni è stato il luogo delle domeniche sulla neve per intere generazioni di calabresi. Ora La Pagliara riapre con una nuova identità tra brace, vini naturali…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pagliara-sila-rifugio-riapertura/",
-        "pubDate": "2026-06-30T13:40:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha lasciato il posto fisso per salvare il pane del suo paese sardo",
-        "description": "A Orroli, Viviana Sirigu ha trasformato il pane imparato da bambina in un progetto di comunità: grano Senatore Cappelli, lievito madre di 300 anni e Tre Pani de…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/kentos-pane-sardo-centenari-orroli/",
-        "pubDate": "2026-06-30T13:32:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
