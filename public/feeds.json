@@ -1,7 +1,97 @@
 {
-  "generated": "2026-07-02T14:01:39.826488+00:00",
+  "generated": "2026-07-02T19:24:56.463462+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Morellino del Cuore, ecco i vini premiati dalla commissione di assaggio",
+        "description": "Il Consorzio Tutela Morellino di Scansano Docg ha annunciato oggi, giovedì 2 luglio 2026, in Toscana, i dieci vini scelti per la quarta edizione di Morellino de…",
+        "link": "https://www.gustoblog.it/2026/07/02/morellino-del-cuore-ecco-i-vini-premiati-dalla-commissione-di-assaggio/",
+        "pubDate": "2026-07-02T18:04:37+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Le recensioni riassunte con l’AI sono una realtà, ma fanno pena",
+        "description": "TripAdvisor lancia un sistema per riassumere le recensioni delle strutture che ne hanno più di 100, e anche noi abbiamo fatto il nostro esperimento.\nL'articolo …",
+        "link": "https://www.dissapore.com/locali/le-recensioni-riassunte-con-lai-sono-una-realta-ma-fanno-pena/",
+        "pubDate": "2026-07-02T17:12:27+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/06/ciacco-gelateria-milano-1.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Da paracadutista e pilota d’aerei a pioniere del gelato artigianale. La storia di Stefano Baglieri",
+        "description": "Ecco chi è il gelatiere siciliano che ha anticipato una nuova idea di gelato: più pulita, stagionale e contemporanea, passando dal bancone al laboratorio…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-lartigianale-sicilia-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-07-02T17:01:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mango: 10 pezzi cool da comprare approfittando dei saldi estivi",
+        "description": "Mancano meno di 48 ore al via ufficiale dei saldi estivi, previsto per sabato 4 luglio, ma chi si muove all&#8217;ultimo minuto rischia di non trovare nulla o d…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/mango-saldi-estivi-cosa-comprare-vestiti-scarpe-borse-must-estate-2026-sconti-983210",
+        "pubDate": "2026-07-02T16:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_saldi_mango.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Cavatelli con pecorino e rucola: il primo piatto semplice dal gusto sorprendente",
+        "description": "I cavatelli con pecorino e rucola, piatto della cucina italiana firmato da Carmelo Scuderi, si preparano oggi nelle case e nelle trattorie del Sud con pochi ing…",
+        "link": "https://www.gustoblog.it/2026/07/02/cavatelli-con-pecorino-e-rucola-il-primo-piatto-semplice-dal-gusto-sorprendente/",
+        "pubDate": "2026-07-02T16:03:10+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Poltrone IKEA 2026: 5 sedute di design che trasformano il soggiorno con stile e comfort",
+        "description": "Dalle sedute in rattan ai modelli girevoli e alle iconiche sedie a dondolo, ecco le poltrone IKEA che uniscono estetica, funzionalità e comfort per arredare ogn…",
+        "link": "https://www.stylosophy.it/articolo/poltrone-ikea-2026-le-sedute-di-design-che-trasformano-il-soggiorno/252370/",
+        "pubDate": "2026-07-02T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Vicino a questo casello dell’A1 c’è una Fiorentina che vale la sosta",
+        "description": "A due rotatorie dall’uscita di Bettolle c’è un agri-ristoro che trasforma una semplice pausa in autostrada in un pranzo memorabile tra Chianina, lampredotto e a…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/tempio-chianina-bettolle-autostrada/",
+        "pubDate": "2026-07-02T15:37:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Rivoluzione nei vigneti. La siccità riscrive le regole dell’irrigazione, ma bisogna cambiare i disciplinari dei vini",
+        "description": "Alla luce delle temperature sempre più estreme, la gestione dell'acqua dovrà andare oltre l'irrigazione di soccorso e diventare una normale prassi per ottenere …",
+        "link": "https://www.gamberorosso.it/notizie/vino/vendemmia-2026-cambiamenti-climatici-irrigazione-vigneti/",
+        "pubDate": "2026-07-02T15:27:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano",
+        "description": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano. Suoi alcuni vini diventati simbolo come Flaccianello della Pieve di Fontodi, Fontalloro di Fè…",
+        "link": "https://www.winemag.it/morto-franco-bernabei-enologo-del-rinascimento-del-vino-italiano/",
+        "pubDate": "2026-07-02T15:23:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Nelle prossime settimane ci giochiamo tutta l’annata”. Falsini analizza una vendemmia segnata dal caldo anomalo",
+        "description": "L'enologo fa il punto sulle condizioni della vigna allo stato attuale. Difficile fare previsioni ma senz'altro i cambiamenti climatici stanno complicando la ges…",
+        "link": "https://www.gamberorosso.it/notizie/vino/previsoni-vendemmia-2026-intervista-enologo-emiliano-falsini/",
+        "pubDate": "2026-07-02T14:06:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "È morto Franco Bernabei, il fuoriclasse dietro alcuni dei vini più importanti d’Italia",
         "description": "Enologo simbolo del Rinascimento del vino italiano, Franco Bernabei ha firmato etichette iconiche come Flaccianello, Fontalloro e Bucerchiale, contribuendo a ri…",
@@ -84,106 +174,34 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "In Campania chiedi una provola e ti portano un altro formaggio",
-        "description": "Sui Monti Lattari la parola \"provola\" non indica il formaggio che molti italiani immaginano: ad Agerola è una pasta filata freschissima, bianca o affumicata, si…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/provola-agerola/",
-        "pubDate": "2026-07-02T09:55:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Kate Hudson sul set di “Hello & Paris” indossa il perfetto abito a fiori over 40 (e noi vi mostriamo alcune alternative chic da puntare subito)",
+        "description": "In questi giorni è impegnata a New York per le riprese del nuovo film “Hello &#38; Paris”, ma tra un ciak e l’altro Kate Hudson ci ha dato un ottimo spunto su c…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abito-a-fiori-donne-over-40-vestito-vestiti-floreali-eleganti-hm-donna-midi-kate-hudsona-hello-paris-javier-bardem-984082",
+        "pubDate": "2026-07-02T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_a_fiori_over_40.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Mango: 10 pezzi cool da comprare approfittando dei saldi estivi",
+        "description": "Mancano meno di 48 ore al via ufficiale dei saldi estivi, previsto per sabato 4 luglio, ma chi si muove all&#8217;ultimo minuto rischia di non trovare nulla o d…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/mango-saldi-estivi-cosa-comprare-vestiti-scarpe-borse-must-estate-2026-sconti-983210",
+        "pubDate": "2026-07-02T16:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_saldi_mango.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Questi oli per capelli nutrono la chioma in Estate a la rendono super setosa",
-        "description": "Per capelli leggeri, luminosi e idratati, ecco 5 oli che fanno la differenza. Da provare!…",
-        "link": "https://www.stylosophy.it/articolo/questi-oli-per-capelli-nutrono-la-chioma-in-estate-a-la-rendono-super-setosa/252162/",
-        "pubDate": "2026-07-02T09:00:00+00:00",
+        "title": "Poltrone IKEA 2026: 5 sedute di design che trasformano il soggiorno con stile e comfort",
+        "description": "Dalle sedute in rattan ai modelli girevoli e alle iconiche sedie a dondolo, ecco le poltrone IKEA che uniscono estetica, funzionalità e comfort per arredare ogn…",
+        "link": "https://www.stylosophy.it/articolo/poltrone-ikea-2026-le-sedute-di-design-che-trasformano-il-soggiorno/252370/",
+        "pubDate": "2026-07-02T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Su un’isola di Venezia i monaci fanno una confettura di rose da 170 anni",
-        "description": "Si prepara ogni primavera sull'isola di San Lazzaro degli Armeni seguendo una tradizione arrivata dal Caucaso oltre tre secoli fa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/confettura-rose-venezia-monaci/",
-        "pubDate": "2026-07-02T08:44:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La crisi del prezzo delle uova non era dovuta all’aviaria, ma a un accordo tra produttori",
-        "description": "L'accusa del Dipartimento di Giustizia degli Stati Uniti è di collusione tra i produttori, per gonfiare artificialmente richiesta e prezzi.\nL'articolo La crisi …",
-        "link": "https://www.dissapore.com/notizie/la-crisi-del-prezzo-delle-uova-non-era-dovuta-allaviaria-ma-a-un-accordo-tra-produttori/",
-        "pubDate": "2026-07-02T08:23:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/uova.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Milano è cambiata. Questa taverna greca no e continua a resistere",
-        "description": "Da quasi 40 anni Taverna Mykonos porta la cucina di famiglia greca sulla Martesana: moussaka, pastitsio e feta senza compromessi.…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/taverna-greca-milano-martesana/",
-        "pubDate": "2026-07-02T07:57:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Furto cantina Banfi Piemonte: rubate 3 mila bottiglie di Alta Langa",
-        "description": "Nella notte tra domenica 28 e lunedì 29 giugno, la cantina Banfi in Piemonte, a Strevi, in provincia di Alessandria, è stata colpita da un furto di rilevante en…",
-        "link": "https://www.winemag.it/furto-cantina-banfi-piemonte-strevi-rubate-3-mila-bottiglie-di-alta-langa-docg/",
-        "pubDate": "2026-07-02T07:56:13+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/il-presidente-di-Banfi-Rodolfo-Maralli-commenta-Furto-cantina-Banfi-Piemonte-rubate-3-mila-bottiglie-di-Alta-Langa-Docg.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "A Ostia non si va in spiaggia senza pizza bianca: ecco i forni migliori",
-        "description": "Croccante, unta al punto giusto e ancora calda: la guida ai migliori forni del litorale romano per la pizza bianca da portare in spiaggia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-forni-ostia-pizza-bianca/",
-        "pubDate": "2026-07-02T07:50:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Crostini alla scamorza: l’antipasto filante che conquista tutti",
-        "description": "I crostini alla scamorza, preparati oggi nelle cucine di casa italiane come antipasto rapido e caldo, sono una ricetta semplice a base di pane, latte, scamorza,…",
-        "link": "https://www.gustoblog.it/2026/07/02/crostini-alla-scamorza-lantipasto-filante-che-conquista-tutti/",
-        "pubDate": "2026-07-02T06:04:48+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Relais di Biserno, ospitalità tra vigne e Costa degli Etruschi nel segno del turismo slow",
-        "description": "Nel cuore della Costa degli Etruschi, tra i vigneti di Bibbona e a pochi chilometri da Bolgheri e Castagneto Carducci, il Relais di Biserno amplia l&#8217;offer…",
-        "link": "https://www.winemag.it/relais-di-biserno-ospitalita-tra-vigne-e-costa-degli-etruschi-nel-segno-del-turismo-slow/",
-        "pubDate": "2026-07-02T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Heineken Italia porta “Praise the Bar” a Roma: Trastevere protagonista della miniserie dedicata ai bar",
-        "description": "HEINEKEN Italia porta in Italia “Praise the Bar”, la prima miniserie digitale originale del Gruppo HEINEKEN dedicata ai pub e ai bar come luoghi di incontro, so…",
-        "link": "https://www.winemag.it/heineken-italia-porta-praise-the-bar-a-roma-trastevere-protagonista-della-miniserie-dedicata-ai-bar/",
-        "pubDate": "2026-07-02T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Acqua, Gesmundo: basta emergenze, servono invasi per garantire il futuro",
-        "description": "Il segretario generale della Coldiretti, Vincenzo Gesmundo, è intervenuto oggi, 1 luglio 2026, a Roma, durante l’assemblea nazionale di Anbi, per chiedere al Go…",
-        "link": "https://www.gustoblog.it/2026/07/01/acqua-gesmundo-basta-emergenze-servono-invasi-per-garantire-il-futuro/",
-        "pubDate": "2026-07-01T18:05:09+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      }
-    ],
-    "moda": [
       {
         "title": "Valentina Ferragni lancia il nuovo accessorio perfetto per l’estate con il suo brand Valentina Ferragni Studio",
         "description": "Valentina Ferragni sorprende ancora e per quest'estate delizia tutti i fan con un nuovo accessorio perfetto per ogni look: ecco di cosa si tratta.…",
@@ -203,6 +221,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Kate Hudson sul set di “Hello & Paris” indossa il perfetto abito a fiori over 40 (e noi vi mostriamo alcune alternative chic da puntare subito)",
+        "description": "In questi giorni è impegnata a New York per le riprese del nuovo film “Hello &#38; Paris”, ma tra un ciak e l’altro Kate Hudson ci ha dato un ottimo spunto su c…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abito-a-fiori-donne-over-40-vestito-vestiti-floreali-eleganti-hm-donna-midi-kate-hudsona-hello-paris-javier-bardem-984082",
+        "pubDate": "2026-07-02T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_a_fiori_over_40.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Questi oli per capelli nutrono la chioma in Estate a la rendono super setosa",
         "description": "Per capelli leggeri, luminosi e idratati, ecco 5 oli che fanno la differenza. Da provare!…",
         "link": "https://www.stylosophy.it/articolo/questi-oli-per-capelli-nutrono-la-chioma-in-estate-a-la-rendono-super-setosa/252162/",
@@ -210,6 +237,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Arrivano i saldi estivi e questi 10 pezzi di H&M vi svolteranno il look, parola di fashion editor",
+        "description": "Mancano una manciata di giorni all&#8217;inizio ufficiale dei saldi estivi e la caccia all&#8217;affare perfetto si sposta sull&#8217;e-commerce di H&#38;M. La …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-hm-cosa-comprare-must-have-abiti-sandali-borse-bijoux-estate-2026-983192",
+        "pubDate": "2026-07-02T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_saldi_HM.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Saldi fa rima con…scarpe. Tutte d’accordo, vero? Ecco i modelli di tendenza su cui investire ora",
+        "description": "Le scarpe durante i saldi estivi 2026 sono il primo reparto da tenere d&#8217;occhio! Se c&#8217;è infatti una categoria sulla quale vale davvero la pena invest…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-saldi-estivi-2026-quali-modelli-comprare-decolle-sandali-mocassini-ballerine-in-saldo-sconti-promozioni-982233",
+        "pubDate": "2026-07-02T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-3.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Saldi estivi: 10 pezzi must-have di Zara da mettere subito nel carrello",
@@ -311,24 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Accessori cool per il mare: i must-have da portare con sé in spiaggia",
-        "description": "L’estate è ufficialmente arrivata e, ammettiamolo, come in città, il solo costume da bagno non basta più. Per trasformare un look da spiaggia in un outfit glam …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/accessori-moda-mare-must-have-spiaggia-cappello-occhiali-da-sole-birkenstock-pareo-ventaglio-telo-mare-981871",
-        "pubDate": "2026-06-30T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_Desktop_accesori-mare.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Saldi estivi 2026: i must-have da mettere subito nella shopping list",
-        "description": "Ormai ci siamo, il countdown è iniziato: a brevissimo (il 4 luglio per essere precise) partiranno ufficialmente i saldi estivi e questo significa che è già arri…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-2026-quando-iniziano-4-luglio-cosa-comprare-con-gli-sconti-must-have-982182",
-        "pubDate": "2026-06-30T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_MUST_HAVE_2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Tutti i cappelli in rafia approvati dalle fashion addicted da accaparrarsi ASAP",
         "description": "L'accessorio più glam e ricercato dell'Estate? Il cappello in rafia, un vero asso nella manica per dei look al top. Ecco i modelli più belli del momento da non …",
         "link": "https://www.stylosophy.it/articolo/tutti-i-cappelli-in-rafia-approvati-dalle-fashion-addicted-da-accaparrarsi-asap/251783/",
@@ -336,36 +363,81 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "I sieri corpo più validi dell’Estate 2026 per una bodycare completa e mirata",
-        "description": "I sieri corpo sono il prodotto beauty must have per una pelle idratata, luminosa e rimpolpata. Ecco i più validi del momento da non lasciarsi sfuggire...…",
-        "link": "https://www.stylosophy.it/articolo/i-sieri-corpo-piu-validi-dellestate-2026-per-una-bodycare-completa-e-mirata/252142/",
-        "pubDate": "2026-06-30T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Jacquemus e il suo omaggio all’estate con la collezione SS27: 5 cose da ricordare dello show",
-        "description": "“La storia di un’estate vissuta all’aria aperta e immersa nella natura”, descrive così Simone Port Jacquemus “Le Bonheur”, la nuova collezione SS27 di Jacquemus…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-jacquemus-isola-corsica-faro-della-pietra-athena-accorsi-show-sfilata-983471",
-        "pubDate": "2026-06-30T08:36:08+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/COVER_Jacquemus_SS27.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Cosa comprare con i saldi estivi: i capi e gli accessori da puntare ora e sfruttare anche a Settembre",
-        "description": "Con l’arrivo dei saldi abbiamo l’opportunità di rifarci il guardaroba e di regalarci i nostri pezzi del cuore senza troppi sensi di colpa, ma perchè concentrars…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-con-i-saldi-estivi-inizio-sconti-estate-donna-capi-accessori-shopping-982958",
-        "pubDate": "2026-06-30T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_SALDI_DA-COMPRARE_ORA-PER_SETTEMBRE.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Morellino del Cuore, ecco i vini premiati dalla commissione di assaggio",
+        "description": "Il Consorzio Tutela Morellino di Scansano Docg ha annunciato oggi, giovedì 2 luglio 2026, in Toscana, i dieci vini scelti per la quarta edizione di Morellino de…",
+        "link": "https://www.gustoblog.it/2026/07/02/morellino-del-cuore-ecco-i-vini-premiati-dalla-commissione-di-assaggio/",
+        "pubDate": "2026-07-02T18:04:37+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Le recensioni riassunte con l’AI sono una realtà, ma fanno pena",
+        "description": "TripAdvisor lancia un sistema per riassumere le recensioni delle strutture che ne hanno più di 100, e anche noi abbiamo fatto il nostro esperimento.\nL'articolo …",
+        "link": "https://www.dissapore.com/locali/le-recensioni-riassunte-con-lai-sono-una-realta-ma-fanno-pena/",
+        "pubDate": "2026-07-02T17:12:27+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/06/ciacco-gelateria-milano-1.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Da paracadutista e pilota d’aerei a pioniere del gelato artigianale. La storia di Stefano Baglieri",
+        "description": "Ecco chi è il gelatiere siciliano che ha anticipato una nuova idea di gelato: più pulita, stagionale e contemporanea, passando dal bancone al laboratorio…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-lartigianale-sicilia-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-07-02T17:01:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cavatelli con pecorino e rucola: il primo piatto semplice dal gusto sorprendente",
+        "description": "I cavatelli con pecorino e rucola, piatto della cucina italiana firmato da Carmelo Scuderi, si preparano oggi nelle case e nelle trattorie del Sud con pochi ing…",
+        "link": "https://www.gustoblog.it/2026/07/02/cavatelli-con-pecorino-e-rucola-il-primo-piatto-semplice-dal-gusto-sorprendente/",
+        "pubDate": "2026-07-02T16:03:10+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Vicino a questo casello dell’A1 c’è una Fiorentina che vale la sosta",
+        "description": "A due rotatorie dall’uscita di Bettolle c’è un agri-ristoro che trasforma una semplice pausa in autostrada in un pranzo memorabile tra Chianina, lampredotto e a…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/tempio-chianina-bettolle-autostrada/",
+        "pubDate": "2026-07-02T15:37:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Rivoluzione nei vigneti. La siccità riscrive le regole dell’irrigazione, ma bisogna cambiare i disciplinari dei vini",
+        "description": "Alla luce delle temperature sempre più estreme, la gestione dell'acqua dovrà andare oltre l'irrigazione di soccorso e diventare una normale prassi per ottenere …",
+        "link": "https://www.gamberorosso.it/notizie/vino/vendemmia-2026-cambiamenti-climatici-irrigazione-vigneti/",
+        "pubDate": "2026-07-02T15:27:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano",
+        "description": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano. Suoi alcuni vini diventati simbolo come Flaccianello della Pieve di Fontodi, Fontalloro di Fè…",
+        "link": "https://www.winemag.it/morto-franco-bernabei-enologo-del-rinascimento-del-vino-italiano/",
+        "pubDate": "2026-07-02T15:23:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Nelle prossime settimane ci giochiamo tutta l’annata”. Falsini analizza una vendemmia segnata dal caldo anomalo",
+        "description": "L'enologo fa il punto sulle condizioni della vigna allo stato attuale. Difficile fare previsioni ma senz'altro i cambiamenti climatici stanno complicando la ges…",
+        "link": "https://www.gamberorosso.it/notizie/vino/previsoni-vendemmia-2026-intervista-enologo-emiliano-falsini/",
+        "pubDate": "2026-07-02T14:06:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "È morto Franco Bernabei, il fuoriclasse dietro alcuni dei vini più importanti d’Italia",
         "description": "Enologo simbolo del Rinascimento del vino italiano, Franco Bernabei ha firmato etichette iconiche come Flaccianello, Fontalloro e Bucerchiale, contribuendo a ri…",
@@ -430,24 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "In Campania chiedi una provola e ti portano un altro formaggio",
-        "description": "Sui Monti Lattari la parola \"provola\" non indica il formaggio che molti italiani immaginano: ad Agerola è una pasta filata freschissima, bianca o affumicata, si…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/provola-agerola/",
-        "pubDate": "2026-07-02T09:55:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Su un’isola di Venezia i monaci fanno una confettura di rose da 170 anni",
-        "description": "Si prepara ogni primavera sull'isola di San Lazzaro degli Armeni seguendo una tradizione arrivata dal Caucaso oltre tre secoli fa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/confettura-rose-venezia-monaci/",
-        "pubDate": "2026-07-02T08:44:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La crisi del prezzo delle uova non era dovuta all’aviaria, ma a un accordo tra produttori",
         "description": "L'accusa del Dipartimento di Giustizia degli Stati Uniti è di collusione tra i produttori, per gonfiare artificialmente richiesta e prezzi.\nL'articolo La crisi …",
         "link": "https://www.dissapore.com/notizie/la-crisi-del-prezzo-delle-uova-non-era-dovuta-allaviaria-ma-a-un-accordo-tra-produttori/",
@@ -457,15 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Milano è cambiata. Questa taverna greca no e continua a resistere",
-        "description": "Da quasi 40 anni Taverna Mykonos porta la cucina di famiglia greca sulla Martesana: moussaka, pastitsio e feta senza compromessi.…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/taverna-greca-milano-martesana/",
-        "pubDate": "2026-07-02T07:57:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Furto cantina Banfi Piemonte: rubate 3 mila bottiglie di Alta Langa",
         "description": "Nella notte tra domenica 28 e lunedì 29 giugno, la cantina Banfi in Piemonte, a Strevi, in provincia di Alessandria, è stata colpita da un furto di rilevante en…",
         "link": "https://www.winemag.it/furto-cantina-banfi-piemonte-strevi-rubate-3-mila-bottiglie-di-alta-langa-docg/",
@@ -473,15 +518,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/07/il-presidente-di-Banfi-Rodolfo-Maralli-commenta-Furto-cantina-Banfi-Piemonte-rubate-3-mila-bottiglie-di-Alta-Langa-Docg.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "A Ostia non si va in spiaggia senza pizza bianca: ecco i forni migliori",
-        "description": "Croccante, unta al punto giusto e ancora calda: la guida ai migliori forni del litorale romano per la pizza bianca da portare in spiaggia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-forni-ostia-pizza-bianca/",
-        "pubDate": "2026-07-02T07:50:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Crostini alla scamorza: l’antipasto filante che conquista tutti",
@@ -509,42 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Acqua, Gesmundo: basta emergenze, servono invasi per garantire il futuro",
-        "description": "Il segretario generale della Coldiretti, Vincenzo Gesmundo, è intervenuto oggi, 1 luglio 2026, a Roma, durante l’assemblea nazionale di Anbi, per chiedere al Go…",
-        "link": "https://www.gustoblog.it/2026/07/01/acqua-gesmundo-basta-emergenze-servono-invasi-per-garantire-il-futuro/",
-        "pubDate": "2026-07-01T18:05:09+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Minestra maritata, il piatto della tradizione che racconta l’anima della cucina italiana",
-        "description": "La minestra maritata, piatto della tradizione italiana legato soprattutto alla cucina del Sud, torna oggi, 1 luglio 2026, nelle ricerche degli appassionati di r…",
-        "link": "https://www.gustoblog.it/2026/07/01/minestra-maritata-il-piatto-della-tradizione-che-racconta-lanima-della-cucina-italiana/",
-        "pubDate": "2026-07-01T16:03:23+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Pisa e le Colline Pisane nel documento UE sulle Wine and Cultural Routes",
-        "description": "Pisa e la Strada del Vino delle Colline Pisane – Terre di Pisa entrano tra gli esempi europei di Wine and Cultural Routes. Il riconoscimento è contenuto nel doc…",
-        "link": "https://www.winemag.it/pisa-e-le-colline-pisane-nel-documento-ue-sulle-wine-and-cultural-routes/",
-        "pubDate": "2026-07-01T14:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I gelati del supermercato che aumentano di prezzo e si stanno rimpicciolendo",
-        "description": "Rincari energetici, shrinkflation, ma anche un'inspiegabile differenza di aumenti tra le varie marche: per i gelati confezionati (e per i consumatori) è un mome…",
-        "link": "https://www.dissapore.com/notizie/i-gelati-del-supermercato-che-aumentano-di-prezzo-e-si-stanno-rimpicciolendo/",
-        "pubDate": "2026-07-01T10:59:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/gelati-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
