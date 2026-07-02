@@ -1,7 +1,106 @@
 {
-  "generated": "2026-07-02T08:56:50.453778+00:00",
+  "generated": "2026-07-02T14:01:39.826488+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "È morto Franco Bernabei, il fuoriclasse dietro alcuni dei vini più importanti d’Italia",
+        "description": "Enologo simbolo del Rinascimento del vino italiano, Franco Bernabei ha firmato etichette iconiche come Flaccianello, Fontalloro e Bucerchiale, contribuendo a ri…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/franco-bernabei-morto/",
+        "pubDate": "2026-07-02T13:50:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vi ricordate quando i cibi non scadevano mai? L’esempio che forse dovremmo seguire",
+        "description": "Negli Stati Uniti la semplificazione delle etichette con la data di scadenza ha scatenato un grande dibattito, perché ci si è resi conto di quanto spreco alimen…",
+        "link": "https://www.dissapore.com/notizie/vi-ricordate-quando-i-cibi-non-scadevano-mai-lesempio-che-forse-dovremmo-seguire/",
+        "pubDate": "2026-07-02T13:31:48+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/data-di-scadenza.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Valentina Ferragni lancia il nuovo accessorio perfetto per l’estate con il suo brand Valentina Ferragni Studio",
+        "description": "Valentina Ferragni sorprende ancora e per quest'estate delizia tutti i fan con un nuovo accessorio perfetto per ogni look: ecco di cosa si tratta.…",
+        "link": "https://www.stylosophy.it/articolo/valentina-ferragni-lancia-il-nuovo-accessorio-perfetto-per-lestate-con-il-suo-brand-valentina-ferragni-studio/252365/",
+        "pubDate": "2026-07-02T13:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Perché i pomodori non sanno più di pomodoro come una volta",
+        "description": "Sono più belli, più resistenti e durano più a lungo sugli scaffali. Ma per molti hanno perso la loro qualità più importante: il sapore. La scienza spiega perché…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-pomodori-non-sanno-piu-di-pomodoro/",
+        "pubDate": "2026-07-02T12:56:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Se mi fermo per il caldo non mangio”: il paradosso dei rider a 40 gradi",
+        "description": "Nel Lazio l’ordinanza anti-caldo vieta il lavoro all'aperto nelle ore più critiche. Ma per molti rider fermarsi significa perdere una fetta decisiva del reddito…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/rider-caldo-estate-2026-lazio/",
+        "pubDate": "2026-07-02T12:03:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le 5 spiagge più belle di Le Lavandou, un piccolo comune poco conosciuto nel sud della Francia",
+        "description": "Una delle località balneari più belle della Francia? Le Lavandou, una gemma dal fascino senza tempo! Ecco le spiagge più belle da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/le-5-spiagge-piu-belle-di-le-lavandou/251985/",
+        "pubDate": "2026-07-02T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Vicino al casello di Orte c’è un panino che salva i pranzi in autostrada",
+        "description": "Tra Lazio e Umbria, a pochi metri dal casello di Orte, una piccola bottega campana prepara sul momento un saltimbocca croccante e filante che rende finalmente p…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/panino-casello-orte-autostrada/",
+        "pubDate": "2026-07-02T10:58:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Zonazione, turismo in cantina, donne viticoltrici: ormai tutto è diventato marketing”. Parla Maria Teresa Mascarello",
+        "description": "Dalla scommessa sul dolcetto all'uso del cemento in cantina, la produttrice piemontese ha sempre fatto scelte controcorrente, anche quando non erano di moda. “I…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/intervista-maria-teresa-mascarello-barolo-dolcetto/",
+        "pubDate": "2026-07-02T10:28:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Anche nelle Langhe scattano i tagli alla produzione di vino. Barolo e Barbaresco (per ora) restano esclusi",
+        "description": "Riduzione delle rese del 10% per Langhe Nebbiolo Doc e Barbera d'Alba Doc. Il presidente del Consorzio Sergio Germano: \"Un segnale di responsabilità\". Preoccupa…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vendemmia-2026-langhe-tagli-rese-vino/",
+        "pubDate": "2026-07-02T10:17:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Campania chiedi una provola e ti portano un altro formaggio",
+        "description": "Sui Monti Lattari la parola \"provola\" non indica il formaggio che molti italiani immaginano: ad Agerola è una pasta filata freschissima, bianca o affumicata, si…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/provola-agerola/",
+        "pubDate": "2026-07-02T09:55:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questi oli per capelli nutrono la chioma in Estate a la rendono super setosa",
+        "description": "Per capelli leggeri, luminosi e idratati, ecco 5 oli che fanno la differenza. Da provare!…",
+        "link": "https://www.stylosophy.it/articolo/questi-oli-per-capelli-nutrono-la-chioma-in-estate-a-la-rendono-super-setosa/252162/",
+        "pubDate": "2026-07-02T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Su un’isola di Venezia i monaci fanno una confettura di rose da 170 anni",
         "description": "Si prepara ogni primavera sull'isola di San Lazzaro degli Armeni seguendo una tradizione arrivata dal Caucaso oltre tre secoli fa…",
@@ -48,15 +147,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Colpi di calore e monocolture rendono i vigneti sempre più fragili. La soluzione? Il “ritorno” al bosco",
-        "description": "Bosco e vigneto devono tornare a parlarsi per ridurre gli effetti dannosi del climate change. Si tratta di un approccio antropologico che, grazie allo scambio d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cambiamenti-climatici-effetti-vigneti/",
-        "pubDate": "2026-07-02T07:01:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Crostini alla scamorza: l’antipasto filante che conquista tutti",
         "description": "I crostini alla scamorza, preparati oggi nelle cucine di casa italiane come antipasto rapido e caldo, sono una ricetta semplice a base di pane, latte, scamorza,…",
         "link": "https://www.gustoblog.it/2026/07/02/crostini-alla-scamorza-lantipasto-filante-che-conquista-tutti/",
@@ -64,15 +154,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "In Spagna i gavettoni si fanno col vino: la strana festa dove scorrono 30mila litri di rosso della Rioja",
-        "description": "Nel piccolo comune di Haro migliaia di appassionati si danno appuntamento ogni 29 giugno per la \"batalla del vino\", una manifestazione popolare dalle antiche or…",
-        "link": "https://www.gamberorosso.it/notizie/vino/spagna-battaglia-vino-roja/",
-        "pubDate": "2026-07-02T06:02:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Relais di Biserno, ospitalità tra vigne e Costa degli Etruschi nel segno del turismo slow",
@@ -100,90 +181,36 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Saldi estivi: 10 pezzi must-have di Zara da mettere subito nel carrello",
-        "description": "I saldi estivi sono alle porte e, ammettiamolo, il tempismo è perfetto. Se c’è un momento ideale per fare un refresh del guardaroba senza troppi sensi di colpa,…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-zara-cosa-comprare-sconti-promozioni-vestiti-scarpe-borse-estate-2026-983171",
-        "pubDate": "2026-07-01T16:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_saldi_zara.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Dua Lipa avvistata a New York: il look “post viaggio di nozze” (con la borsa cult che vorremmo tutte)",
-        "description": "Neanche il tempo di riprenderci dal royal wedding dell&#8217;estate (o forse dell’anno?) ed ecco che Dua Lipa è già tornata a far parlare di sé. Dopo aver pronu…",
-        "link": "https://www.grazia.it/moda/get-the-look/dua-lipa-look-canotta-jeans-bianchi-borsa-chloe-paddington-outfit-post-viaggio-di-nozze-984012",
-        "pubDate": "2026-07-01T16:12:44+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/DUA-LIPA.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Minestra maritata, il piatto della tradizione che racconta l’anima della cucina italiana",
-        "description": "La minestra maritata, piatto della tradizione italiana legato soprattutto alla cucina del Sud, torna oggi, 1 luglio 2026, nelle ricerche degli appassionati di r…",
-        "link": "https://www.gustoblog.it/2026/07/01/minestra-maritata-il-piatto-della-tradizione-che-racconta-lanima-della-cucina-italiana/",
-        "pubDate": "2026-07-01T16:03:23+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il segreto dei giardinieri per un prato perfetto in estate: gli errori da evitare quando fa molto caldo",
-        "description": "Caldo, siccità e l'utilizzo frequente del giardino possono mettere a dura prova il tappeto erboso. Ecco come curare il prato in estate con le strategie più effi…",
-        "link": "https://www.stylosophy.it/articolo/il-segreto-dei-giardinieri-per-un-prato-perfetto-in-estate/252354/",
-        "pubDate": "2026-07-01T16:00:00+00:00",
+        "title": "Valentina Ferragni lancia il nuovo accessorio perfetto per l’estate con il suo brand Valentina Ferragni Studio",
+        "description": "Valentina Ferragni sorprende ancora e per quest'estate delizia tutti i fan con un nuovo accessorio perfetto per ogni look: ecco di cosa si tratta.…",
+        "link": "https://www.stylosophy.it/articolo/valentina-ferragni-lancia-il-nuovo-accessorio-perfetto-per-lestate-con-il-suo-brand-valentina-ferragni-studio/252365/",
+        "pubDate": "2026-07-02T13:30:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Ci sono quasi 9mila ettari di terreni agricoli in vendita in tutta Italia. Ecco come partecipare all’asta",
-        "description": "Dalla Sicilia al Trentino sono 253 i terreni a disposizione con il nuovo bando Ismea. Previste agevolazioni per i giovani imprenditori agricoli e maggiori tutel…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/banca-nazionale-terre-agricole-ismea-2026/",
-        "pubDate": "2026-07-01T15:57:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La vendevano urlando tra gli ombrelloni: perché la Bomba resiste da 60 anni",
-        "description": "Un semplice ghiacciolo al limone nato sulla Riviera romagnola è diventato un simbolo dell’estate italiana. E resiste da sessant'anni senza inseguire le mode…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-bomba-il-ghiacciolo-riviera-romagnola/",
-        "pubDate": "2026-07-01T15:27:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I sandali comodi e cool da sfoggiare quest’estate? Sono anche i preferiti di Anne Hathaway",
-        "description": "In cerca dei sandali perfetti per l’estate? Ce li suggerisce Anne Hathaway che, in una delle sue primissime apparizioni pubbliche a New York per il lancio di Th…",
-        "link": "https://www.grazia.it/moda/celebrity-style/anne-hathaway-sandali-rossi-vivaia-modello-emeline-comodi-infradito-tacco-midi-983981",
-        "pubDate": "2026-07-01T15:09:26+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/anne-hathaway-apertura.jpg",
+        "title": "Le 5 spiagge più belle di Le Lavandou, un piccolo comune poco conosciuto nel sud della Francia",
+        "description": "Una delle località balneari più belle della Francia? Le Lavandou, una gemma dal fascino senza tempo! Ecco le spiagge più belle da non perdere...…",
+        "link": "https://www.stylosophy.it/articolo/le-5-spiagge-piu-belle-di-le-lavandou/251985/",
+        "pubDate": "2026-07-02T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
-        "source": "Grazia"
+        "source": "Stylosophy"
       },
       {
-        "title": "Pisa e le Colline Pisane nel documento UE sulle Wine and Cultural Routes",
-        "description": "Pisa e la Strada del Vino delle Colline Pisane – Terre di Pisa entrano tra gli esempi europei di Wine and Cultural Routes. Il riconoscimento è contenuto nel doc…",
-        "link": "https://www.winemag.it/pisa-e-le-colline-pisane-nel-documento-ue-sulle-wine-and-cultural-routes/",
-        "pubDate": "2026-07-01T14:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Questi oli per capelli nutrono la chioma in Estate a la rendono super setosa",
+        "description": "Per capelli leggeri, luminosi e idratati, ecco 5 oli che fanno la differenza. Da provare!…",
+        "link": "https://www.stylosophy.it/articolo/questi-oli-per-capelli-nutrono-la-chioma-in-estate-a-la-rendono-super-setosa/252162/",
+        "pubDate": "2026-07-02T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
-      {
-        "title": "Costa migliaia di euro e profuma di incenso: il legno che cambia i distillati",
-        "description": "Si chiama Mizunara, è una quercia giapponese rara, porosa e costosissima. Dopo aver conquistato il whisky, ora firma anche una grappa piemontese…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mizunara-legno-giapponese-whisky-grappa/",
-        "pubDate": "2026-07-01T14:09:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Saldi estivi: 10 pezzi must-have di Zara da mettere subito nel carrello",
         "description": "I saldi estivi sono alle porte e, ammettiamolo, il tempismo è perfetto. Se c’è un momento ideale per fare un refresh del guardaroba senza troppi sensi di colpa,…",
@@ -336,36 +363,81 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_SALDI_DA-COMPRARE_ORA-PER_SETTEMBRE.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Vacanze a luglio in Italia: 5 destinazioni da visitare tra mare, montagna e borghi",
-        "description": "Luglio è il momento ideale per partire alla scoperta dell'Italia. Ecco cinque destinazioni perfette per chi cerca mare, natura, borghi autentici e paesaggi spet…",
-        "link": "https://www.stylosophy.it/articolo/vacanze-a-luglio-in-italia-5-destinazioni-da-visitare-tra-mare-montagna-e-borghi/252302/",
-        "pubDate": "2026-06-29T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Jennifer Lopez, Look super sexy con il body con tatuaggi e gli stivali in pelle firmati Jimmy Choo x Jean Paul Gaultier",
-        "description": "Per l'Obsessed Fest di Prime Video, Jennifer Lopez ha sfoggiato un look stiloso e super sexy.…",
-        "link": "https://www.stylosophy.it/articolo/jennifer-lopez-look-super-sexy-con-il-body-con-tatuaggi-e-gli-stivali-in-pelle-firmati-jimmy-choo-x-jean-paul-gaultier/252337/",
-        "pubDate": "2026-06-29T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Minimal ma trendy, il costume bicolore sta conquistando tutte le It girls",
-        "description": "Semplici ma ricercati, questi costumi bicolore sono il grande trend dell'Estate 2026. Approvati dalle fashion addicted!…",
-        "link": "https://www.stylosophy.it/articolo/minimal-ma-trendy-il-costume-bicolore-sta-conquistando-tutte-le-it-girls/251770/",
-        "pubDate": "2026-06-29T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "È morto Franco Bernabei, il fuoriclasse dietro alcuni dei vini più importanti d’Italia",
+        "description": "Enologo simbolo del Rinascimento del vino italiano, Franco Bernabei ha firmato etichette iconiche come Flaccianello, Fontalloro e Bucerchiale, contribuendo a ri…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/franco-bernabei-morto/",
+        "pubDate": "2026-07-02T13:50:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vi ricordate quando i cibi non scadevano mai? L’esempio che forse dovremmo seguire",
+        "description": "Negli Stati Uniti la semplificazione delle etichette con la data di scadenza ha scatenato un grande dibattito, perché ci si è resi conto di quanto spreco alimen…",
+        "link": "https://www.dissapore.com/notizie/vi-ricordate-quando-i-cibi-non-scadevano-mai-lesempio-che-forse-dovremmo-seguire/",
+        "pubDate": "2026-07-02T13:31:48+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/data-di-scadenza.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Perché i pomodori non sanno più di pomodoro come una volta",
+        "description": "Sono più belli, più resistenti e durano più a lungo sugli scaffali. Ma per molti hanno perso la loro qualità più importante: il sapore. La scienza spiega perché…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-pomodori-non-sanno-piu-di-pomodoro/",
+        "pubDate": "2026-07-02T12:56:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Se mi fermo per il caldo non mangio”: il paradosso dei rider a 40 gradi",
+        "description": "Nel Lazio l’ordinanza anti-caldo vieta il lavoro all'aperto nelle ore più critiche. Ma per molti rider fermarsi significa perdere una fetta decisiva del reddito…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/rider-caldo-estate-2026-lazio/",
+        "pubDate": "2026-07-02T12:03:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vicino al casello di Orte c’è un panino che salva i pranzi in autostrada",
+        "description": "Tra Lazio e Umbria, a pochi metri dal casello di Orte, una piccola bottega campana prepara sul momento un saltimbocca croccante e filante che rende finalmente p…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/panino-casello-orte-autostrada/",
+        "pubDate": "2026-07-02T10:58:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Zonazione, turismo in cantina, donne viticoltrici: ormai tutto è diventato marketing”. Parla Maria Teresa Mascarello",
+        "description": "Dalla scommessa sul dolcetto all'uso del cemento in cantina, la produttrice piemontese ha sempre fatto scelte controcorrente, anche quando non erano di moda. “I…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/intervista-maria-teresa-mascarello-barolo-dolcetto/",
+        "pubDate": "2026-07-02T10:28:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Anche nelle Langhe scattano i tagli alla produzione di vino. Barolo e Barbaresco (per ora) restano esclusi",
+        "description": "Riduzione delle rese del 10% per Langhe Nebbiolo Doc e Barbera d'Alba Doc. Il presidente del Consorzio Sergio Germano: \"Un segnale di responsabilità\". Preoccupa…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vendemmia-2026-langhe-tagli-rese-vino/",
+        "pubDate": "2026-07-02T10:17:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Campania chiedi una provola e ti portano un altro formaggio",
+        "description": "Sui Monti Lattari la parola \"provola\" non indica il formaggio che molti italiani immaginano: ad Agerola è una pasta filata freschissima, bianca o affumicata, si…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/provola-agerola/",
+        "pubDate": "2026-07-02T09:55:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Su un’isola di Venezia i monaci fanno una confettura di rose da 170 anni",
         "description": "Si prepara ogni primavera sull'isola di San Lazzaro degli Armeni seguendo una tradizione arrivata dal Caucaso oltre tre secoli fa…",
@@ -412,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Colpi di calore e monocolture rendono i vigneti sempre più fragili. La soluzione? Il “ritorno” al bosco",
-        "description": "Bosco e vigneto devono tornare a parlarsi per ridurre gli effetti dannosi del climate change. Si tratta di un approccio antropologico che, grazie allo scambio d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cambiamenti-climatici-effetti-vigneti/",
-        "pubDate": "2026-07-02T07:01:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Crostini alla scamorza: l’antipasto filante che conquista tutti",
         "description": "I crostini alla scamorza, preparati oggi nelle cucine di casa italiane come antipasto rapido e caldo, sono una ricetta semplice a base di pane, latte, scamorza,…",
         "link": "https://www.gustoblog.it/2026/07/02/crostini-alla-scamorza-lantipasto-filante-che-conquista-tutti/",
@@ -428,15 +491,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "In Spagna i gavettoni si fanno col vino: la strana festa dove scorrono 30mila litri di rosso della Rioja",
-        "description": "Nel piccolo comune di Haro migliaia di appassionati si danno appuntamento ogni 29 giugno per la \"batalla del vino\", una manifestazione popolare dalle antiche or…",
-        "link": "https://www.gamberorosso.it/notizie/vino/spagna-battaglia-vino-roja/",
-        "pubDate": "2026-07-02T06:02:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Relais di Biserno, ospitalità tra vigne e Costa degli Etruschi nel segno del turismo slow",
@@ -475,24 +529,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Ci sono quasi 9mila ettari di terreni agricoli in vendita in tutta Italia. Ecco come partecipare all’asta",
-        "description": "Dalla Sicilia al Trentino sono 253 i terreni a disposizione con il nuovo bando Ismea. Previste agevolazioni per i giovani imprenditori agricoli e maggiori tutel…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/banca-nazionale-terre-agricole-ismea-2026/",
-        "pubDate": "2026-07-01T15:57:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La vendevano urlando tra gli ombrelloni: perché la Bomba resiste da 60 anni",
-        "description": "Un semplice ghiacciolo al limone nato sulla Riviera romagnola è diventato un simbolo dell’estate italiana. E resiste da sessant'anni senza inseguire le mode…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-bomba-il-ghiacciolo-riviera-romagnola/",
-        "pubDate": "2026-07-01T15:27:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Pisa e le Colline Pisane nel documento UE sulle Wine and Cultural Routes",
         "description": "Pisa e la Strada del Vino delle Colline Pisane – Terre di Pisa entrano tra gli esempi europei di Wine and Cultural Routes. Il riconoscimento è contenuto nel doc…",
         "link": "https://www.winemag.it/pisa-e-le-colline-pisane-nel-documento-ue-sulle-wine-and-cultural-routes/",
@@ -502,47 +538,11 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Costa migliaia di euro e profuma di incenso: il legno che cambia i distillati",
-        "description": "Si chiama Mizunara, è una quercia giapponese rara, porosa e costosissima. Dopo aver conquistato il whisky, ora firma anche una grappa piemontese…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mizunara-legno-giapponese-whisky-grappa/",
-        "pubDate": "2026-07-01T14:09:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questo bar di Milano è tra i migliori d’Europa (ma i milanesi lo sanno da anni)",
-        "description": "Da oltre vent’anni Rita &#038; Cocktails è un punto di riferimento sui Navigli: oggi entra tra i migliori cocktail bar d’Europa, ma per Milano è un’istituzione …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/rita-cocktails-milano-50-best-bars/",
-        "pubDate": "2026-07-01T14:03:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Roma esiste una pizza che il resto d’Italia non capirà mai: quella coi gamberetti",
-        "description": "Fredda, con maionese, lattuga e gamberetti: da decenni domina i banconi delle tavole calde romane e continua a dividere più di qualsiasi altra pizza…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-gamberetti-roma/",
-        "pubDate": "2026-07-01T13:08:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "I gelati del supermercato che aumentano di prezzo e si stanno rimpicciolendo",
         "description": "Rincari energetici, shrinkflation, ma anche un'inspiegabile differenza di aumenti tra le varie marche: per i gelati confezionati (e per i consumatori) è un mome…",
         "link": "https://www.dissapore.com/notizie/i-gelati-del-supermercato-che-aumentano-di-prezzo-e-si-stanno-rimpicciolendo/",
         "pubDate": "2026-07-01T10:59:36+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/gelati-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Carlo Cracco e Matteo Baronetto aprono in Sardegna al Forte Village",
-        "description": "Carlo Cracco inaugura la sua nuova stagione sarda al Forte Village, e torna al passato con il suo ex sous chef, Matteo Baronetto, che lo affiancherà nell'avvent…",
-        "link": "https://www.dissapore.com/notizie/carlo-cracco-apre-in-sardegna-e-si-porta-dietro-matteo-baronetto/",
-        "pubDate": "2026-07-01T10:04:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/11/matteo-baronetto-e1715080359646.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
