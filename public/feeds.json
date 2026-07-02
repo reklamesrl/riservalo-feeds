@@ -1,7 +1,97 @@
 {
-  "generated": "2026-07-01T19:56:43.817871+00:00",
+  "generated": "2026-07-02T08:56:50.453778+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Su un’isola di Venezia i monaci fanno una confettura di rose da 170 anni",
+        "description": "Si prepara ogni primavera sull'isola di San Lazzaro degli Armeni seguendo una tradizione arrivata dal Caucaso oltre tre secoli fa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/confettura-rose-venezia-monaci/",
+        "pubDate": "2026-07-02T08:44:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La crisi del prezzo delle uova non era dovuta all’aviaria, ma a un accordo tra produttori",
+        "description": "L'accusa del Dipartimento di Giustizia degli Stati Uniti è di collusione tra i produttori, per gonfiare artificialmente richiesta e prezzi.\nL'articolo La crisi …",
+        "link": "https://www.dissapore.com/notizie/la-crisi-del-prezzo-delle-uova-non-era-dovuta-allaviaria-ma-a-un-accordo-tra-produttori/",
+        "pubDate": "2026-07-02T08:23:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/uova.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Milano è cambiata. Questa taverna greca no e continua a resistere",
+        "description": "Da quasi 40 anni Taverna Mykonos porta la cucina di famiglia greca sulla Martesana: moussaka, pastitsio e feta senza compromessi.…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/taverna-greca-milano-martesana/",
+        "pubDate": "2026-07-02T07:57:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Furto cantina Banfi Piemonte: rubate 3 mila bottiglie di Alta Langa",
+        "description": "Nella notte tra domenica 28 e lunedì 29 giugno, la cantina Banfi in Piemonte, a Strevi, in provincia di Alessandria, è stata colpita da un furto di rilevante en…",
+        "link": "https://www.winemag.it/furto-cantina-banfi-piemonte-strevi-rubate-3-mila-bottiglie-di-alta-langa-docg/",
+        "pubDate": "2026-07-02T07:56:13+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/il-presidente-di-Banfi-Rodolfo-Maralli-commenta-Furto-cantina-Banfi-Piemonte-rubate-3-mila-bottiglie-di-Alta-Langa-Docg.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "A Ostia non si va in spiaggia senza pizza bianca: ecco i forni migliori",
+        "description": "Croccante, unta al punto giusto e ancora calda: la guida ai migliori forni del litorale romano per la pizza bianca da portare in spiaggia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-forni-ostia-pizza-bianca/",
+        "pubDate": "2026-07-02T07:50:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Colpi di calore e monocolture rendono i vigneti sempre più fragili. La soluzione? Il “ritorno” al bosco",
+        "description": "Bosco e vigneto devono tornare a parlarsi per ridurre gli effetti dannosi del climate change. Si tratta di un approccio antropologico che, grazie allo scambio d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cambiamenti-climatici-effetti-vigneti/",
+        "pubDate": "2026-07-02T07:01:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Crostini alla scamorza: l’antipasto filante che conquista tutti",
+        "description": "I crostini alla scamorza, preparati oggi nelle cucine di casa italiane come antipasto rapido e caldo, sono una ricetta semplice a base di pane, latte, scamorza,…",
+        "link": "https://www.gustoblog.it/2026/07/02/crostini-alla-scamorza-lantipasto-filante-che-conquista-tutti/",
+        "pubDate": "2026-07-02T06:04:48+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "In Spagna i gavettoni si fanno col vino: la strana festa dove scorrono 30mila litri di rosso della Rioja",
+        "description": "Nel piccolo comune di Haro migliaia di appassionati si danno appuntamento ogni 29 giugno per la \"batalla del vino\", una manifestazione popolare dalle antiche or…",
+        "link": "https://www.gamberorosso.it/notizie/vino/spagna-battaglia-vino-roja/",
+        "pubDate": "2026-07-02T06:02:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Relais di Biserno, ospitalità tra vigne e Costa degli Etruschi nel segno del turismo slow",
+        "description": "Nel cuore della Costa degli Etruschi, tra i vigneti di Bibbona e a pochi chilometri da Bolgheri e Castagneto Carducci, il Relais di Biserno amplia l&#8217;offer…",
+        "link": "https://www.winemag.it/relais-di-biserno-ospitalita-tra-vigne-e-costa-degli-etruschi-nel-segno-del-turismo-slow/",
+        "pubDate": "2026-07-02T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Heineken Italia porta “Praise the Bar” a Roma: Trastevere protagonista della miniserie dedicata ai bar",
+        "description": "HEINEKEN Italia porta in Italia “Praise the Bar”, la prima miniserie digitale originale del Gruppo HEINEKEN dedicata ai pub e ai bar come luoghi di incontro, so…",
+        "link": "https://www.winemag.it/heineken-italia-porta-praise-the-bar-a-roma-trastevere-protagonista-della-miniserie-dedicata-ai-bar/",
+        "pubDate": "2026-07-02T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Acqua, Gesmundo: basta emergenze, servono invasi per garantire il futuro",
         "description": "Il segretario generale della Coldiretti, Vincenzo Gesmundo, è intervenuto oggi, 1 luglio 2026, a Roma, durante l’assemblea nazionale di Anbi, per chiedere al Go…",
@@ -91,96 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questo bar di Milano è tra i migliori d’Europa (ma i milanesi lo sanno da anni)",
-        "description": "Da oltre vent’anni Rita &#038; Cocktails è un punto di riferimento sui Navigli: oggi entra tra i migliori cocktail bar d’Europa, ma per Milano è un’istituzione …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/rita-cocktails-milano-50-best-bars/",
-        "pubDate": "2026-07-01T14:03:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Roma esiste una pizza che il resto d’Italia non capirà mai: quella coi gamberetti",
-        "description": "Fredda, con maionese, lattuga e gamberetti: da decenni domina i banconi delle tavole calde romane e continua a dividere più di qualsiasi altra pizza…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-gamberetti-roma/",
-        "pubDate": "2026-07-01T13:08:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Per decenni l’avevano quasi dimenticata, ora questo bianco emiliano sta tornando: ecco la spergola",
-        "description": "Riscoperta dopo essere quasi scomparsa, la Spergola dei Colli di Scandiano e di Canossa nasce sull’Appennino reggiano su terreni argillosi e gessosi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spergola-vino-emiliano-rinascita/",
-        "pubDate": "2026-07-01T13:04:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dal bikini all’abito lungo per cena: Paola Di Benedetto a Santorini sceglie il total white per i suoi Look dopo il matrimonio con Raoul Bellanova",
-        "description": "Paola Di Benedetto, anche dopo il matrimonio, sceglie il bianco per i suoi look in Grecia a Santorini.…",
-        "link": "https://www.stylosophy.it/articolo/dal-bikini-allabito-lungo-per-cena-paola-di-benedetto-a-santorini-sceglie-il-total-white-per-i-suoi-look-dopo-il-matrimonio-con-raoul-bellanova/252344/",
-        "pubDate": "2026-07-01T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Alla scoperta di Medolino, la località balneare più amata della Croazia dove trascorrere le vacanze estive",
-        "description": "Medolino è una delle località balneari più belle della Croazia, una vera gemma dove trascorrere le vacanze estive. Ecco tutto quello che c'è da sapere...…",
-        "link": "https://www.stylosophy.it/articolo/alla-scoperta-di-medolino-la-localita-balneare-piu-amata-della-croazia-dove-trascorrere-le-vacanze-estive/251977/",
-        "pubDate": "2026-07-01T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I gelati del supermercato che aumentano di prezzo e si stanno rimpicciolendo",
-        "description": "Rincari energetici, shrinkflation, ma anche un'inspiegabile differenza di aumenti tra le varie marche: per i gelati confezionati (e per i consumatori) è un mome…",
-        "link": "https://www.dissapore.com/notizie/i-gelati-del-supermercato-che-aumentano-di-prezzo-e-si-stanno-rimpicciolendo/",
-        "pubDate": "2026-07-01T10:59:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/gelati-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Carlo Cracco e Matteo Baronetto aprono in Sardegna al Forte Village",
-        "description": "Carlo Cracco inaugura la sua nuova stagione sarda al Forte Village, e torna al passato con il suo ex sous chef, Matteo Baronetto, che lo affiancherà nell'avvent…",
-        "link": "https://www.dissapore.com/notizie/carlo-cracco-apre-in-sardegna-e-si-porta-dietro-matteo-baronetto/",
-        "pubDate": "2026-07-01T10:04:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/11/matteo-baronetto-e1715080359646.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Luisa Ranieri non ha dubbi: il nero si conferma la scelta ideale anche per le sere d’estate",
-        "description": "Durante i mesi freddi lo sfoggiamo con nonchalance in ogni occasione, poi, chissà perché, finiamo per abbandonarlo al primo accenno di caldo: anche voi d’estate…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/luisa-ranieri-look-total-black-come-vestirsi-di-nero-in-estate-abbinamenti-idee-outfit-donna-983777",
-        "pubDate": "2026-07-01T10:02:34+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_neri.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "C’è un nuovo Consorzio del vino in Piemonte: il Nizza Docg ora ha il suo ente di tutela. Un iter durato oltre 20 anni",
-        "description": "Con il riconoscimento del Masaf, si punta a 5 milioni di bottiglie, sfruttando gli oltre 700 ettari potenziali. Stefano Chiarlo confermato alla presidenza: \"Si …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/nuovo-consorzio-vino-nizza-docg/",
-        "pubDate": "2026-07-01T09:43:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I blush liquidi più amati dell’Estate 2026, per un colorito sano e fresco",
-        "description": "Sono questi i blush liquidi più amati del momento, un vero must dell'Estate 2026 a prova di guance colorate e luminose. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/i-blush-liquidi-piu-amati-dellestate-2026-per-un-colorito-sano-e-fresco/252152/",
-        "pubDate": "2026-07-01T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
@@ -367,6 +367,96 @@
     ],
     "lifestyle": [
       {
+        "title": "Su un’isola di Venezia i monaci fanno una confettura di rose da 170 anni",
+        "description": "Si prepara ogni primavera sull'isola di San Lazzaro degli Armeni seguendo una tradizione arrivata dal Caucaso oltre tre secoli fa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/confettura-rose-venezia-monaci/",
+        "pubDate": "2026-07-02T08:44:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La crisi del prezzo delle uova non era dovuta all’aviaria, ma a un accordo tra produttori",
+        "description": "L'accusa del Dipartimento di Giustizia degli Stati Uniti è di collusione tra i produttori, per gonfiare artificialmente richiesta e prezzi.\nL'articolo La crisi …",
+        "link": "https://www.dissapore.com/notizie/la-crisi-del-prezzo-delle-uova-non-era-dovuta-allaviaria-ma-a-un-accordo-tra-produttori/",
+        "pubDate": "2026-07-02T08:23:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/uova.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Milano è cambiata. Questa taverna greca no e continua a resistere",
+        "description": "Da quasi 40 anni Taverna Mykonos porta la cucina di famiglia greca sulla Martesana: moussaka, pastitsio e feta senza compromessi.…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/taverna-greca-milano-martesana/",
+        "pubDate": "2026-07-02T07:57:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Furto cantina Banfi Piemonte: rubate 3 mila bottiglie di Alta Langa",
+        "description": "Nella notte tra domenica 28 e lunedì 29 giugno, la cantina Banfi in Piemonte, a Strevi, in provincia di Alessandria, è stata colpita da un furto di rilevante en…",
+        "link": "https://www.winemag.it/furto-cantina-banfi-piemonte-strevi-rubate-3-mila-bottiglie-di-alta-langa-docg/",
+        "pubDate": "2026-07-02T07:56:13+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/il-presidente-di-Banfi-Rodolfo-Maralli-commenta-Furto-cantina-Banfi-Piemonte-rubate-3-mila-bottiglie-di-Alta-Langa-Docg.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "A Ostia non si va in spiaggia senza pizza bianca: ecco i forni migliori",
+        "description": "Croccante, unta al punto giusto e ancora calda: la guida ai migliori forni del litorale romano per la pizza bianca da portare in spiaggia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-forni-ostia-pizza-bianca/",
+        "pubDate": "2026-07-02T07:50:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Colpi di calore e monocolture rendono i vigneti sempre più fragili. La soluzione? Il “ritorno” al bosco",
+        "description": "Bosco e vigneto devono tornare a parlarsi per ridurre gli effetti dannosi del climate change. Si tratta di un approccio antropologico che, grazie allo scambio d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cambiamenti-climatici-effetti-vigneti/",
+        "pubDate": "2026-07-02T07:01:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Crostini alla scamorza: l’antipasto filante che conquista tutti",
+        "description": "I crostini alla scamorza, preparati oggi nelle cucine di casa italiane come antipasto rapido e caldo, sono una ricetta semplice a base di pane, latte, scamorza,…",
+        "link": "https://www.gustoblog.it/2026/07/02/crostini-alla-scamorza-lantipasto-filante-che-conquista-tutti/",
+        "pubDate": "2026-07-02T06:04:48+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "In Spagna i gavettoni si fanno col vino: la strana festa dove scorrono 30mila litri di rosso della Rioja",
+        "description": "Nel piccolo comune di Haro migliaia di appassionati si danno appuntamento ogni 29 giugno per la \"batalla del vino\", una manifestazione popolare dalle antiche or…",
+        "link": "https://www.gamberorosso.it/notizie/vino/spagna-battaglia-vino-roja/",
+        "pubDate": "2026-07-02T06:02:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Relais di Biserno, ospitalità tra vigne e Costa degli Etruschi nel segno del turismo slow",
+        "description": "Nel cuore della Costa degli Etruschi, tra i vigneti di Bibbona e a pochi chilometri da Bolgheri e Castagneto Carducci, il Relais di Biserno amplia l&#8217;offer…",
+        "link": "https://www.winemag.it/relais-di-biserno-ospitalita-tra-vigne-e-costa-degli-etruschi-nel-segno-del-turismo-slow/",
+        "pubDate": "2026-07-02T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Heineken Italia porta “Praise the Bar” a Roma: Trastevere protagonista della miniserie dedicata ai bar",
+        "description": "HEINEKEN Italia porta in Italia “Praise the Bar”, la prima miniserie digitale originale del Gruppo HEINEKEN dedicata ai pub e ai bar come luoghi di incontro, so…",
+        "link": "https://www.winemag.it/heineken-italia-porta-praise-the-bar-a-roma-trastevere-protagonista-della-miniserie-dedicata-ai-bar/",
+        "pubDate": "2026-07-02T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Acqua, Gesmundo: basta emergenze, servono invasi per garantire il futuro",
         "description": "Il segretario generale della Coldiretti, Vincenzo Gesmundo, è intervenuto oggi, 1 luglio 2026, a Roma, durante l’assemblea nazionale di Anbi, per chiedere al Go…",
         "link": "https://www.gustoblog.it/2026/07/01/acqua-gesmundo-basta-emergenze-servono-invasi-per-garantire-il-futuro/",
@@ -439,15 +529,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Per decenni l’avevano quasi dimenticata, ora questo bianco emiliano sta tornando: ecco la spergola",
-        "description": "Riscoperta dopo essere quasi scomparsa, la Spergola dei Colli di Scandiano e di Canossa nasce sull’Appennino reggiano su terreni argillosi e gessosi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spergola-vino-emiliano-rinascita/",
-        "pubDate": "2026-07-01T13:04:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "I gelati del supermercato che aumentano di prezzo e si stanno rimpicciolendo",
         "description": "Rincari energetici, shrinkflation, ma anche un'inspiegabile differenza di aumenti tra le varie marche: per i gelati confezionati (e per i consumatori) è un mome…",
         "link": "https://www.dissapore.com/notizie/i-gelati-del-supermercato-che-aumentano-di-prezzo-e-si-stanno-rimpicciolendo/",
@@ -464,87 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2023/11/matteo-baronetto-e1715080359646.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "C’è un nuovo Consorzio del vino in Piemonte: il Nizza Docg ora ha il suo ente di tutela. Un iter durato oltre 20 anni",
-        "description": "Con il riconoscimento del Masaf, si punta a 5 milioni di bottiglie, sfruttando gli oltre 700 ettari potenziali. Stefano Chiarlo confermato alla presidenza: \"Si …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/nuovo-consorzio-vino-nizza-docg/",
-        "pubDate": "2026-07-01T09:43:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cosa cambia per i ristoranti con la nuove legge antifrode",
-        "description": "L'entrata in vigore della nuova legge tutela clienti e prodotti alimentari imponendo attenzione e trasparenza da parte dei ristoratori.\nL'articolo Cosa cambia p…",
-        "link": "https://www.dissapore.com/notizie/cosa-cambia-per-i-ristoranti-con-la-nuove-legge-antifrode/",
-        "pubDate": "2026-07-01T08:52:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/ristorante-menu-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dalle vie Romee alla Francigena: la viticoltura nasce lungo i cammini. In pellegrinaggio con il professor Scienza",
-        "description": "Il nuovo libro di Attilio Scienza è un viaggio enoico che mostra come il vino italiano non nasca da radici ferme, ma da attraversamenti e contaminazioni. Ecco c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/libro-attilio-scienza-pellegrinaggio-enoico-italiano/",
-        "pubDate": "2026-07-01T07:10:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Urban Assassineria apre a Milano: lo Spaghetto all’Assassina di Celso Laforgia arriva nel capoluogo lombardo",
-        "description": "Milano accoglie Urban Assassineria, il progetto gastronomico nato a Bari nel 2021 dall&#8217;iniziativa dello chef Celso Laforgia e di Michele Salvati. Il nuovo…",
-        "link": "https://www.winemag.it/urban-assassineria-apre-a-milano-lo-spaghetto-allassassina-di-celso-laforgia-arriva-nel-capoluogo-lombardo/",
-        "pubDate": "2026-07-01T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Chi pensa che a Eboli non succeda nulla dovrebbe fermarsi qui",
-        "description": "Dopo ventidue anni a Parma, Giovanni Sparano è tornato a casa per aprire un’osteria diventata uno degli indirizzi più interessanti della Campania per vino artig…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chi-pensa-che-a-eboli-non-succeda-nulla-dovrebbe-fermarsi-qui/",
-        "pubDate": "2026-07-01T06:34:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Crostini alla chietina, il sapore autentico dell’Abruzzo",
-        "description": "A Chieti, nelle cucine di casa e nelle trattorie abruzzesi, i crostini alla chietina tornano oggi, 1 luglio 2026, come antipasto semplice e di memoria, preparat…",
-        "link": "https://www.gustoblog.it/2026/07/01/crostini-alla-chietina-il-sapore-autentico-dellabruzzo/",
-        "pubDate": "2026-07-01T06:06:25+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Prima del matcha latte bevevamo tutti questa bibita verde",
-        "description": "Prima di smoothie, frappè e matcha c'era lui: il latte e menta, il bibitone verde delle estati italiane tra nonne, cartoni animati e pomeriggi afosi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/latte-menta-bibita-verde-estati-italiane/",
-        "pubDate": "2026-07-01T05:34:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Planteray Rum celebra luglio con tre appuntamenti dedicati ai grandi cocktail a base di rum",
-        "description": "Luglio porta con sé tre ricorrenze dedicate al rum e alla miscelazione internazionale. Per l&#8217;occasione, Planteray Rum, marchio prodotto da Maison Ferrand …",
-        "link": "https://www.winemag.it/planteray-rum-celebra-luglio-con-tre-appuntamenti-dedicati-ai-grandi-cocktail-a-base-di-rum/",
-        "pubDate": "2026-07-01T05:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "The RUFtop dell’Europa Palace Sanremo rilancia l’estate 2026 tra cucina d’autore, cene stellate ed esperienze sul territorio",
-        "description": "L’estate 2026 del The RUFtop, il ristorante panoramico dell’Europa Palace Sanremo, si apre con un’offerta rinnovata che punta su gastronomia, eventi e proposte …",
-        "link": "https://www.winemag.it/the-ruftop-delleuropa-palace-sanremo-rilancia-lestate-2026-tra-cucina-dautore-cene-stellate-ed-esperienze-sul-territorio/",
-        "pubDate": "2026-07-01T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
