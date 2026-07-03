@@ -1,7 +1,52 @@
 {
-  "generated": "2026-07-03T14:05:02.581667+00:00",
+  "generated": "2026-07-03T19:23:22.140175+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A Modena arrivano i tortellini del riscatto preparati dai detenuti",
+        "description": "A Modena apre domani la bottega che venderà tortellini, tortelloni, tortelli e ravioli fatti a mano dai detenuti del carcere Sant’Anna, un progetto nato per por…",
+        "link": "https://www.gustoblog.it/2026/07/03/a-modena-arrivano-i-tortellini-del-riscatto-preparati-dai-detenuti/",
+        "pubDate": "2026-07-03T18:04:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Cavatelli alle cime di rapa: il gusto autentico della Puglia in tavola",
+        "description": "A Bari, come in molte cucine di Puglia e del Sud Italia, i cavatelli alle cime di rapa si preparano soprattutto nei mesi freddi, quando le rape sono più tenere,…",
+        "link": "https://www.gustoblog.it/2026/07/03/cavatelli-alle-cime-di-rapa-il-gusto-autentico-della-puglia-in-tavola/",
+        "pubDate": "2026-07-03T16:03:08+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Come scegliere il condizionatore per una casa piccola: gli esperti spiegano gli errori da evitare",
+        "description": "La scelta dell'aria condizionata in una casa di piccole dimensioni richiede valutazioni tecniche, estetiche e progettuali. Gli esperti spiegano quali aspetti co…",
+        "link": "https://www.stylosophy.it/articolo/come-scegliere-il-condizionatore-per-una-casa-piccola-errori-da-evitare/252384/",
+        "pubDate": "2026-07-03T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Che senso ha la Giornata Mondiale del Cioccolato a luglio?",
+        "description": "Le origini della Giornata Mondiale del Cioccolato non sono manco così certe: e allora, non ci si poteva mettere tutti intorno a un tavolo e scegliere una data i…",
+        "link": "https://www.dissapore.com/notizie/che-senso-ha-la-giornata-mondiale-del-cioccolato-a-luglio/",
+        "pubDate": "2026-07-03T15:09:39+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/tavoletta-di-cioccolato.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Piccole novità, grandi idee di stile. Questa settimana la moda racconta leggerezza, artigianalità e dettagli che fanno la differenza. #FashionPills Fashion Pill…",
+        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-settimana-sergio-rossi-hibourama-ateliervm-gipsy-prada-borsa-bonnie-carolina-herrera-net-a-porter-pandora-lab-grown-diamonds-onitsuka-tiger-gymnarina-martino-midali-lino-984512",
+        "pubDate": "2026-07-03T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/Senza-titolo-185.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Dentro la storica pasticceria che custodisce il segreto delle Sise delle monache",
         "description": "Nate nel convento delle clarisse e tramandate da oltre un secolo, le Sise delle monache trovano nella storica pasticceria Emo Lullo la loro casa più celebre. Tr…",
@@ -10,6 +55,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Penelope Cruz, Olivia Wilde e le altre star meglio vestite della settimana",
+        "description": "Anche questa settimana le star non ci hanno deluso con i loro favolosi. In particolare Penelope Cruz e Olivia Wilde ci hanno regalato due abiti di cui dobbiamo …",
+        "link": "https://www.grazia.it/moda/celebrity-style/penelope-cruz-olivia-wilde-look-red-carpet-star-meglio-vestite-della-settimana-983931",
+        "pubDate": "2026-07-03T13:27:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_best_dressed.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Ilary Blasi, Look glamour e scintillante per la prima puntata di Tim Battiti Live FOTO",
@@ -21,7 +75,16 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Ad Assisi si mangiano alcuni dei panini più buoni d’Italia (ma quasi nessun turista lo sa)",
+        "title": "Le It shoes dell’estate? Sono “ibride” (a metà tra sneakers e sabot) e fanno parte della collezione New Balance x Miu Miu",
+        "description": "Dimenticate i classici sabot in suede o le solite sneakers da infilare prima di uscire di casa. La nuova &#8220;ossessione fashion&#8221; della bella stagione u…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/new-balance-miu-miu-sabot-mules-sneakers-estate-2026-984484",
+        "pubDate": "2026-07-03T12:04:52+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/look-street-style.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Ad Assisi è difficile mangiare bene. Questa bottega di famiglia è l’eccezione",
         "description": "A pochi minuti dal centro di Assisi, una famiglia umbra ha trasformato una storica norcineria in un indirizzo di culto: porchetta, salumi locali e focacce crocc…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/panini-assisi-porcellino-divino/",
         "pubDate": "2026-07-03T11:39:00+00:00",
@@ -66,6 +129,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "I saldi iniziano domani (ma online sono già attivi da diversi giorni), le vacanze si avvicinano e la voglia di rinfrescare il guardaroba con qualche pezzo nuovo…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-adesso-must-have-estate-2026-vestiti-borse-scarpe-accessori-shopping-consigli-acquisti-online-984436",
+        "pubDate": "2026-07-03T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_love_first_sight_1_luglio.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "5 prodotti beauty imperdibili se questa estate vuoi profumare di Cocco",
         "description": "Dolci, delicati e molto femminili, questi 6 prodotti al cocco sono perfetti per chi ama lasciare la scia. Imperdibili!…",
         "link": "https://www.stylosophy.it/articolo/5-prodotti-beauty-imperdibili-se-questa-estate-vuoi-profumare-di-cocco/252215/",
@@ -102,88 +174,43 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "L’ex Dom Pérignon sta cambiando Bellavista: e adesso si sente nel bicchiere",
-        "description": "Richard Geoffroy, storico chef de cave di Dom Pérignon, lavora da Bellavista dal 2021. Ma solo oggi, assaggiando le nuove cuvée, si inizia a capire davvero la d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/richard-geoffroy-bellavista-franciacorta/",
-        "pubDate": "2026-07-03T06:06:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "I costumi da sfoggiare a 50 anni? Ecco i modelli che vi suggeriamo di aggiungere subito alla shopping list",
+        "description": "L’estate sta entrando nel vivo, le ferie sono sempre più vicine e questo significa che è arrivato il momento di far spazio nell’armadio a qualche nuovo costume …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/costumi-da-bagno-per-donne-over-50-outfit-mare-estate-spiaggia-intero-bikini-984406",
+        "pubDate": "2026-07-03T07:55:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Costumi-da-avere-a-50-anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Come scegliere il condizionatore per una casa piccola: gli esperti spiegano gli errori da evitare",
+        "description": "La scelta dell'aria condizionata in una casa di piccole dimensioni richiede valutazioni tecniche, estetiche e progettuali. Gli esperti spiegano quali aspetti co…",
+        "link": "https://www.stylosophy.it/articolo/come-scegliere-il-condizionatore-per-una-casa-piccola-errori-da-evitare/252384/",
+        "pubDate": "2026-07-03T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
-        "title": "Cazzimperio, il sapore autentico della tradizione romana",
-        "description": "Il Cazzimperio, antipasto della tradizione italiana preparato con pane, uova, burro, alici e capperi, torna nelle cucine domestiche oggi, 3 luglio 2026, come ri…",
-        "link": "https://www.gustoblog.it/2026/07/03/cazzimperio-il-sapore-autentico-della-tradizione-romana/",
-        "pubDate": "2026-07-03T06:04:30+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Bonollo 1908 amplia la linea Creazioni di Gusto con il nuovo Liquore Verdello",
-        "description": "Per l&#8217;estate Bonollo 1908 presenta una novità nella gamma Creazioni di Gusto. Si tratta di Liquore Verdello, un liquore al limone ispirato alla tradizione…",
-        "link": "https://www.winemag.it/bonollo-1908-amplia-la-linea-creazioni-di-gusto-con-il-nuovo-liquore-verdello/",
-        "pubDate": "2026-07-03T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Morellino del Cuore, ecco i vini premiati dalla commissione di assaggio",
-        "description": "Il Consorzio Tutela Morellino di Scansano Docg ha annunciato oggi, giovedì 2 luglio 2026, in Toscana, i dieci vini scelti per la quarta edizione di Morellino de…",
-        "link": "https://www.gustoblog.it/2026/07/02/morellino-del-cuore-ecco-i-vini-premiati-dalla-commissione-di-assaggio/",
-        "pubDate": "2026-07-02T18:04:37+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Le recensioni riassunte con l’AI sono una realtà, ma fanno pena",
-        "description": "TripAdvisor lancia un sistema per riassumere le recensioni delle strutture che ne hanno più di 100, e anche noi abbiamo fatto il nostro esperimento.\nL'articolo …",
-        "link": "https://www.dissapore.com/locali/le-recensioni-riassunte-con-lai-sono-una-realta-ma-fanno-pena/",
-        "pubDate": "2026-07-02T17:12:27+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/06/ciacco-gelateria-milano-1.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Da paracadutista e pilota d’aerei a pioniere del gelato artigianale. La storia di Stefano Baglieri",
-        "description": "Ecco chi è il gelatiere siciliano che ha anticipato una nuova idea di gelato: più pulita, stagionale e contemporanea, passando dal bancone al laboratorio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-lartigianale-sicilia-nocciola-monferrato-agrimontana/",
-        "pubDate": "2026-07-02T17:01:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mango: 10 pezzi cool da comprare approfittando dei saldi estivi",
-        "description": "Mancano meno di 48 ore al via ufficiale dei saldi estivi, previsto per sabato 4 luglio, ma chi si muove all&#8217;ultimo minuto rischia di non trovare nulla o d…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/mango-saldi-estivi-cosa-comprare-vestiti-scarpe-borse-must-estate-2026-sconti-983210",
-        "pubDate": "2026-07-02T16:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_saldi_mango.jpg",
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Piccole novità, grandi idee di stile. Questa settimana la moda racconta leggerezza, artigianalità e dettagli che fanno la differenza. #FashionPills Fashion Pill…",
+        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-settimana-sergio-rossi-hibourama-ateliervm-gipsy-prada-borsa-bonnie-carolina-herrera-net-a-porter-pandora-lab-grown-diamonds-onitsuka-tiger-gymnarina-martino-midali-lino-984512",
+        "pubDate": "2026-07-03T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/Senza-titolo-185.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Cavatelli con pecorino e rucola: il primo piatto semplice dal gusto sorprendente",
-        "description": "I cavatelli con pecorino e rucola, piatto della cucina italiana firmato da Carmelo Scuderi, si preparano oggi nelle case e nelle trattorie del Sud con pochi ing…",
-        "link": "https://www.gustoblog.it/2026/07/02/cavatelli-con-pecorino-e-rucola-il-primo-piatto-semplice-dal-gusto-sorprendente/",
-        "pubDate": "2026-07-02T16:03:10+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Poltrone IKEA 2026: 5 sedute di design che trasformano il soggiorno con stile e comfort",
-        "description": "Dalle sedute in rattan ai modelli girevoli e alle iconiche sedie a dondolo, ecco le poltrone IKEA che uniscono estetica, funzionalità e comfort per arredare ogn…",
-        "link": "https://www.stylosophy.it/articolo/poltrone-ikea-2026-le-sedute-di-design-che-trasformano-il-soggiorno/252370/",
-        "pubDate": "2026-07-02T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "title": "Penelope Cruz, Olivia Wilde e le altre star meglio vestite della settimana",
+        "description": "Anche questa settimana le star non ci hanno deluso con i loro favolosi. In particolare Penelope Cruz e Olivia Wilde ci hanno regalato due abiti di cui dobbiamo …",
+        "link": "https://www.grazia.it/moda/celebrity-style/penelope-cruz-olivia-wilde-look-red-carpet-star-meglio-vestite-della-settimana-983931",
+        "pubDate": "2026-07-03T13:27:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_best_dressed.jpg",
         "cat": "Moda",
-        "source": "Stylosophy"
-      }
-    ],
-    "moda": [
+        "source": "Grazia"
+      },
       {
         "title": "Ilary Blasi, Look glamour e scintillante per la prima puntata di Tim Battiti Live FOTO",
         "description": "Per la prima puntata della nuova edizione di Tim Battiti Live, Ilary Blasi ha sfoggiato un completo di cristalli.…",
@@ -192,6 +219,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Le It shoes dell’estate? Sono “ibride” (a metà tra sneakers e sabot) e fanno parte della collezione New Balance x Miu Miu",
+        "description": "Dimenticate i classici sabot in suede o le solite sneakers da infilare prima di uscire di casa. La nuova &#8220;ossessione fashion&#8221; della bella stagione u…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/new-balance-miu-miu-sabot-mules-sneakers-estate-2026-984484",
+        "pubDate": "2026-07-03T12:04:52+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/look-street-style.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Tutto su Leros, l’isola Greca lontana dal turismo di massa perfetta per l’estate 2026",
@@ -203,6 +239,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
+        "description": "I saldi iniziano domani (ma online sono già attivi da diversi giorni), le vacanze si avvicinano e la voglia di rinfrescare il guardaroba con qualche pezzo nuovo…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-adesso-must-have-estate-2026-vestiti-borse-scarpe-accessori-shopping-consigli-acquisti-online-984436",
+        "pubDate": "2026-07-03T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_love_first_sight_1_luglio.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "5 prodotti beauty imperdibili se questa estate vuoi profumare di Cocco",
         "description": "Dolci, delicati e molto femminili, questi 6 prodotti al cocco sono perfetti per chi ama lasciare la scia. Imperdibili!…",
         "link": "https://www.stylosophy.it/articolo/5-prodotti-beauty-imperdibili-se-questa-estate-vuoi-profumare-di-cocco/252215/",
@@ -210,6 +255,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "I costumi da sfoggiare a 50 anni? Ecco i modelli che vi suggeriamo di aggiungere subito alla shopping list",
+        "description": "L’estate sta entrando nel vivo, le ferie sono sempre più vicine e questo significa che è arrivato il momento di far spazio nell’armadio a qualche nuovo costume …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/costumi-da-bagno-per-donne-over-50-outfit-mare-estate-spiaggia-intero-bikini-984406",
+        "pubDate": "2026-07-03T07:55:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Costumi-da-avere-a-50-anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Mango: 10 pezzi cool da comprare approfittando dei saldi estivi",
@@ -293,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Dua Lipa avvistata a New York: il look “post viaggio di nozze” (con la borsa cult che vorremmo tutte)",
-        "description": "Neanche il tempo di riprenderci dal royal wedding dell&#8217;estate (o forse dell’anno?) ed ecco che Dua Lipa è già tornata a far parlare di sé. Dopo aver pronu…",
-        "link": "https://www.grazia.it/moda/get-the-look/dua-lipa-look-canotta-jeans-bianchi-borsa-chloe-paddington-outfit-post-viaggio-di-nozze-984012",
-        "pubDate": "2026-07-01T16:12:44+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/DUA-LIPA.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Il segreto dei giardinieri per un prato perfetto in estate: gli errori da evitare quando fa molto caldo",
         "description": "Caldo, siccità e l'utilizzo frequente del giardino possono mettere a dura prova il tappeto erboso. Ecco come curare il prato in estate con le strategie più effi…",
         "link": "https://www.stylosophy.it/articolo/il-segreto-dei-giardinieri-per-un-prato-perfetto-in-estate/252354/",
@@ -311,15 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "I sandali comodi e cool da sfoggiare quest’estate? Sono anche i preferiti di Anne Hathaway",
-        "description": "In cerca dei sandali perfetti per l’estate? Ce li suggerisce Anne Hathaway che, in una delle sue primissime apparizioni pubbliche a New York per il lancio di Th…",
-        "link": "https://www.grazia.it/moda/celebrity-style/anne-hathaway-sandali-rossi-vivaia-modello-emeline-comodi-infradito-tacco-midi-983981",
-        "pubDate": "2026-07-01T15:09:26+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/anne-hathaway-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Dal bikini all’abito lungo per cena: Paola Di Benedetto a Santorini sceglie il total white per i suoi Look dopo il matrimonio con Raoul Bellanova",
         "description": "Paola Di Benedetto, anche dopo il matrimonio, sceglie il bianco per i suoi look in Grecia a Santorini.…",
         "link": "https://www.stylosophy.it/articolo/dal-bikini-allabito-lungo-per-cena-paola-di-benedetto-a-santorini-sceglie-il-total-white-per-i-suoi-look-dopo-il-matrimonio-con-raoul-bellanova/252344/",
@@ -327,45 +363,36 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Alla scoperta di Medolino, la località balneare più amata della Croazia dove trascorrere le vacanze estive",
-        "description": "Medolino è una delle località balneari più belle della Croazia, una vera gemma dove trascorrere le vacanze estive. Ecco tutto quello che c'è da sapere...…",
-        "link": "https://www.stylosophy.it/articolo/alla-scoperta-di-medolino-la-localita-balneare-piu-amata-della-croazia-dove-trascorrere-le-vacanze-estive/251977/",
-        "pubDate": "2026-07-01T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Luisa Ranieri non ha dubbi: il nero si conferma la scelta ideale anche per le sere d’estate",
-        "description": "Durante i mesi freddi lo sfoggiamo con nonchalance in ogni occasione, poi, chissà perché, finiamo per abbandonarlo al primo accenno di caldo: anche voi d’estate…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/luisa-ranieri-look-total-black-come-vestirsi-di-nero-in-estate-abbinamenti-idee-outfit-donna-983777",
-        "pubDate": "2026-07-01T10:02:34+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_neri.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Saldi estivi in arrivo! E questi sono i vestiti da aggiungere subito alla shopping list",
-        "description": "I saldi estivi stanno arrivando (in realtà online su molti e-commerce ci sono già!) e rappresentano l&#8217;occasione perfetta per rinnovare il guardaroba senza…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-2026-vestiti-modelli-da-comprare-midi-corti-lunghi-eleganti-da-giorno-cerimonia-zara-mango-981997",
-        "pubDate": "2026-07-01T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-1-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Fashion crush del mese: cosa comprare a Luglio",
-        "description": "L’inizio di Luglio segna l’arrivo di un altro momento tanto atteso, la partenza dei saldi estivi e questo significa che abbiamo una scusa in più per darci da fa…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-a-luglio-consigli-per-lo-shopping-fashion-crush-acquisti-zara-mango-983354",
-        "pubDate": "2026-07-01T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_DESKTOP_FASHION-_CRUSH_LUGLIO_2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "A Modena arrivano i tortellini del riscatto preparati dai detenuti",
+        "description": "A Modena apre domani la bottega che venderà tortellini, tortelloni, tortelli e ravioli fatti a mano dai detenuti del carcere Sant’Anna, un progetto nato per por…",
+        "link": "https://www.gustoblog.it/2026/07/03/a-modena-arrivano-i-tortellini-del-riscatto-preparati-dai-detenuti/",
+        "pubDate": "2026-07-03T18:04:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Cavatelli alle cime di rapa: il gusto autentico della Puglia in tavola",
+        "description": "A Bari, come in molte cucine di Puglia e del Sud Italia, i cavatelli alle cime di rapa si preparano soprattutto nei mesi freddi, quando le rape sono più tenere,…",
+        "link": "https://www.gustoblog.it/2026/07/03/cavatelli-alle-cime-di-rapa-il-gusto-autentico-della-puglia-in-tavola/",
+        "pubDate": "2026-07-03T16:03:08+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Che senso ha la Giornata Mondiale del Cioccolato a luglio?",
+        "description": "Le origini della Giornata Mondiale del Cioccolato non sono manco così certe: e allora, non ci si poteva mettere tutti intorno a un tavolo e scegliere una data i…",
+        "link": "https://www.dissapore.com/notizie/che-senso-ha-la-giornata-mondiale-del-cioccolato-a-luglio/",
+        "pubDate": "2026-07-03T15:09:39+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/tavoletta-di-cioccolato.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Dentro la storica pasticceria che custodisce il segreto delle Sise delle monache",
         "description": "Nate nel convento delle clarisse e tramandate da oltre un secolo, le Sise delle monache trovano nella storica pasticceria Emo Lullo la loro casa più celebre. Tr…",
@@ -376,7 +403,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Ad Assisi si mangiano alcuni dei panini più buoni d’Italia (ma quasi nessun turista lo sa)",
+        "title": "Ad Assisi è difficile mangiare bene. Questa bottega di famiglia è l’eccezione",
         "description": "A pochi minuti dal centro di Assisi, una famiglia umbra ha trasformato una storica norcineria in un indirizzo di culto: porchetta, salumi locali e focacce crocc…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/panini-assisi-porcellino-divino/",
         "pubDate": "2026-07-03T11:39:00+00:00",
@@ -516,33 +543,6 @@
         "link": "https://www.winemag.it/morto-franco-bernabei-enologo-del-rinascimento-del-vino-italiano/",
         "pubDate": "2026-07-02T15:23:40+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vi ricordate quando i cibi non scadevano mai? L’esempio che forse dovremmo seguire",
-        "description": "Negli Stati Uniti la semplificazione delle etichette con la data di scadenza ha scatenato un grande dibattito, perché ci si è resi conto di quanto spreco alimen…",
-        "link": "https://www.dissapore.com/notizie/vi-ricordate-quando-i-cibi-non-scadevano-mai-lesempio-che-forse-dovremmo-seguire/",
-        "pubDate": "2026-07-02T13:31:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/data-di-scadenza.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La crisi del prezzo delle uova non era dovuta all’aviaria, ma a un accordo tra produttori",
-        "description": "L'accusa del Dipartimento di Giustizia degli Stati Uniti è di collusione tra i produttori, per gonfiare artificialmente richiesta e prezzi.\nL'articolo La crisi …",
-        "link": "https://www.dissapore.com/notizie/la-crisi-del-prezzo-delle-uova-non-era-dovuta-allaviaria-ma-a-un-accordo-tra-produttori/",
-        "pubDate": "2026-07-02T08:23:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/uova.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Furto cantina Banfi Piemonte: rubate 3 mila bottiglie di Alta Langa",
-        "description": "Nella notte tra domenica 28 e lunedì 29 giugno, la cantina Banfi in Piemonte, a Strevi, in provincia di Alessandria, è stata colpita da un furto di rilevante en…",
-        "link": "https://www.winemag.it/furto-cantina-banfi-piemonte-strevi-rubate-3-mila-bottiglie-di-alta-langa-docg/",
-        "pubDate": "2026-07-02T07:56:13+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/il-presidente-di-Banfi-Rodolfo-Maralli-commenta-Furto-cantina-Banfi-Piemonte-rubate-3-mila-bottiglie-di-Alta-Langa-Docg.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
       }
