@@ -1,7 +1,61 @@
 {
-  "generated": "2026-07-02T19:24:56.463462+00:00",
+  "generated": "2026-07-03T09:18:28.586442+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "5 prodotti beauty imperdibili se questa estate vuoi profumare di Cocco",
+        "description": "Dolci, delicati e molto femminili, questi 6 prodotti al cocco sono perfetti per chi ama lasciare la scia. Imperdibili!…",
+        "link": "https://www.stylosophy.it/articolo/5-prodotti-beauty-imperdibili-se-questa-estate-vuoi-profumare-di-cocco/252215/",
+        "pubDate": "2026-07-03T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "In Italia ha aperto un hotel per scoby: i batteri della kombucha vanno in vacanza a Verona",
+        "description": "A Verona esiste uno Scoby Hotel dove batteri e lieviti della kombucha vengono nutriti, monitorati e fotografati ogni giorno mentre i proprietari sono in vacanza…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/hotel-scoby-verona-kombucha/",
+        "pubDate": "2026-07-03T08:56:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un funghicida usato anche nei meleti in Alto Adige potrebbe causare danni al cervello",
+        "description": "Un nuovo studio mette in discussione l'approvazione Europea del fluazinam, ponendo gravi dubbi sulla sua sicurezza che forse sono stati ignorati.\nL'articolo Un …",
+        "link": "https://www.dissapore.com/notizie/un-funghicida-usato-anche-nei-meleti-in-alto-adige-potrebbe-causare-danni-al-cervello/",
+        "pubDate": "2026-07-03T08:02:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pesticidi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Toscana fanno un Vermentino macerato che costa meno di 20 euro",
+        "description": "Nel Lucchese, una piccola cantina ha trasformato il vermentino in un orange wine macerato sulle bucce, sapido, mediterraneo e dal grande rapporto qualità-prezzo…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/orange-wine-vermentino-toscana-fattoria-del-teso/",
+        "pubDate": "2026-07-03T07:58:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’ex Dom Pérignon sta cambiando Bellavista: e adesso si sente nel bicchiere",
+        "description": "Richard Geoffroy, storico chef de cave di Dom Pérignon, lavora da Bellavista dal 2021. Ma solo oggi, assaggiando le nuove cuvée, si inizia a capire davvero la d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/richard-geoffroy-bellavista-franciacorta/",
+        "pubDate": "2026-07-03T06:06:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cazzimperio, il sapore autentico della tradizione romana",
+        "description": "Il Cazzimperio, antipasto della tradizione italiana preparato con pane, uova, burro, alici e capperi, torna nelle cucine domestiche oggi, 3 luglio 2026, come ri…",
+        "link": "https://www.gustoblog.it/2026/07/03/cazzimperio-il-sapore-autentico-della-tradizione-romana/",
+        "pubDate": "2026-07-03T06:04:30+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Morellino del Cuore, ecco i vini premiati dalla commissione di assaggio",
         "description": "Il Consorzio Tutela Morellino di Scansano Docg ha annunciato oggi, giovedì 2 luglio 2026, in Toscana, i dieci vini scelti per la quarta edizione di Morellino de…",
@@ -75,15 +129,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano",
-        "description": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano. Suoi alcuni vini diventati simbolo come Flaccianello della Pieve di Fontodi, Fontalloro di Fè…",
-        "link": "https://www.winemag.it/morto-franco-bernabei-enologo-del-rinascimento-del-vino-italiano/",
-        "pubDate": "2026-07-02T15:23:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "“Nelle prossime settimane ci giochiamo tutta l’annata”. Falsini analizza una vendemmia segnata dal caldo anomalo",
         "description": "L'enologo fa il punto sulle condizioni della vigna allo stato attuale. Difficile fare previsioni ma senz'altro i cambiamenti climatici stanno complicando la ges…",
         "link": "https://www.gamberorosso.it/notizie/vino/previsoni-vendemmia-2026-intervista-enologo-emiliano-falsini/",
@@ -136,54 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Le 5 spiagge più belle di Le Lavandou, un piccolo comune poco conosciuto nel sud della Francia",
-        "description": "Una delle località balneari più belle della Francia? Le Lavandou, una gemma dal fascino senza tempo! Ecco le spiagge più belle da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/le-5-spiagge-piu-belle-di-le-lavandou/251985/",
-        "pubDate": "2026-07-02T11:00:00+00:00",
+        "title": "5 prodotti beauty imperdibili se questa estate vuoi profumare di Cocco",
+        "description": "Dolci, delicati e molto femminili, questi 6 prodotti al cocco sono perfetti per chi ama lasciare la scia. Imperdibili!…",
+        "link": "https://www.stylosophy.it/articolo/5-prodotti-beauty-imperdibili-se-questa-estate-vuoi-profumare-di-cocco/252215/",
+        "pubDate": "2026-07-03T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Vicino al casello di Orte c’è un panino che salva i pranzi in autostrada",
-        "description": "Tra Lazio e Umbria, a pochi metri dal casello di Orte, una piccola bottega campana prepara sul momento un saltimbocca croccante e filante che rende finalmente p…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/panino-casello-orte-autostrada/",
-        "pubDate": "2026-07-02T10:58:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Zonazione, turismo in cantina, donne viticoltrici: ormai tutto è diventato marketing”. Parla Maria Teresa Mascarello",
-        "description": "Dalla scommessa sul dolcetto all'uso del cemento in cantina, la produttrice piemontese ha sempre fatto scelte controcorrente, anche quando non erano di moda. “I…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/intervista-maria-teresa-mascarello-barolo-dolcetto/",
-        "pubDate": "2026-07-02T10:28:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Anche nelle Langhe scattano i tagli alla produzione di vino. Barolo e Barbaresco (per ora) restano esclusi",
-        "description": "Riduzione delle rese del 10% per Langhe Nebbiolo Doc e Barbera d'Alba Doc. Il presidente del Consorzio Sergio Germano: \"Un segnale di responsabilità\". Preoccupa…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vendemmia-2026-langhe-tagli-rese-vino/",
-        "pubDate": "2026-07-02T10:17:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Kate Hudson sul set di “Hello & Paris” indossa il perfetto abito a fiori over 40 (e noi vi mostriamo alcune alternative chic da puntare subito)",
-        "description": "In questi giorni è impegnata a New York per le riprese del nuovo film “Hello &#38; Paris”, ma tra un ciak e l’altro Kate Hudson ci ha dato un ottimo spunto su c…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abito-a-fiori-donne-over-40-vestito-vestiti-floreali-eleganti-hm-donna-midi-kate-hudsona-hello-paris-javier-bardem-984082",
-        "pubDate": "2026-07-02T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_a_fiori_over_40.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Mango: 10 pezzi cool da comprare approfittando dei saldi estivi",
         "description": "Mancano meno di 48 ore al via ufficiale dei saldi estivi, previsto per sabato 4 luglio, ma chi si muove all&#8217;ultimo minuto rischia di non trovare nulla o d…",
@@ -354,18 +363,54 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Tutti i cappelli in rafia approvati dalle fashion addicted da accaparrarsi ASAP",
-        "description": "L'accessorio più glam e ricercato dell'Estate? Il cappello in rafia, un vero asso nella manica per dei look al top. Ecco i modelli più belli del momento da non …",
-        "link": "https://www.stylosophy.it/articolo/tutti-i-cappelli-in-rafia-approvati-dalle-fashion-addicted-da-accaparrarsi-asap/251783/",
-        "pubDate": "2026-06-30T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "In Italia ha aperto un hotel per scoby: i batteri della kombucha vanno in vacanza a Verona",
+        "description": "A Verona esiste uno Scoby Hotel dove batteri e lieviti della kombucha vengono nutriti, monitorati e fotografati ogni giorno mentre i proprietari sono in vacanza…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/hotel-scoby-verona-kombucha/",
+        "pubDate": "2026-07-03T08:56:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un funghicida usato anche nei meleti in Alto Adige potrebbe causare danni al cervello",
+        "description": "Un nuovo studio mette in discussione l'approvazione Europea del fluazinam, ponendo gravi dubbi sulla sua sicurezza che forse sono stati ignorati.\nL'articolo Un …",
+        "link": "https://www.dissapore.com/notizie/un-funghicida-usato-anche-nei-meleti-in-alto-adige-potrebbe-causare-danni-al-cervello/",
+        "pubDate": "2026-07-03T08:02:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pesticidi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Toscana fanno un Vermentino macerato che costa meno di 20 euro",
+        "description": "Nel Lucchese, una piccola cantina ha trasformato il vermentino in un orange wine macerato sulle bucce, sapido, mediterraneo e dal grande rapporto qualità-prezzo…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/orange-wine-vermentino-toscana-fattoria-del-teso/",
+        "pubDate": "2026-07-03T07:58:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’ex Dom Pérignon sta cambiando Bellavista: e adesso si sente nel bicchiere",
+        "description": "Richard Geoffroy, storico chef de cave di Dom Pérignon, lavora da Bellavista dal 2021. Ma solo oggi, assaggiando le nuove cuvée, si inizia a capire davvero la d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/richard-geoffroy-bellavista-franciacorta/",
+        "pubDate": "2026-07-03T06:06:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cazzimperio, il sapore autentico della tradizione romana",
+        "description": "Il Cazzimperio, antipasto della tradizione italiana preparato con pane, uova, burro, alici e capperi, torna nelle cucine domestiche oggi, 3 luglio 2026, come ri…",
+        "link": "https://www.gustoblog.it/2026/07/03/cazzimperio-il-sapore-autentico-della-tradizione-romana/",
+        "pubDate": "2026-07-03T06:04:30+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Morellino del Cuore, ecco i vini premiati dalla commissione di assaggio",
         "description": "Il Consorzio Tutela Morellino di Scansano Docg ha annunciato oggi, giovedì 2 luglio 2026, in Toscana, i dieci vini scelti per la quarta edizione di Morellino de…",
@@ -421,15 +466,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano",
-        "description": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano. Suoi alcuni vini diventati simbolo come Flaccianello della Pieve di Fontodi, Fontalloro di Fè…",
-        "link": "https://www.winemag.it/morto-franco-bernabei-enologo-del-rinascimento-del-vino-italiano/",
-        "pubDate": "2026-07-02T15:23:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "“Nelle prossime settimane ci giochiamo tutta l’annata”. Falsini analizza una vendemmia segnata dal caldo anomalo",
         "description": "L'enologo fa il punto sulle condizioni della vigna allo stato attuale. Difficile fare previsioni ma senz'altro i cambiamenti climatici stanno complicando la ges…",
         "link": "https://www.gamberorosso.it/notizie/vino/previsoni-vendemmia-2026-intervista-enologo-emiliano-falsini/",
@@ -475,33 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Vicino al casello di Orte c’è un panino che salva i pranzi in autostrada",
-        "description": "Tra Lazio e Umbria, a pochi metri dal casello di Orte, una piccola bottega campana prepara sul momento un saltimbocca croccante e filante che rende finalmente p…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/panino-casello-orte-autostrada/",
-        "pubDate": "2026-07-02T10:58:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Zonazione, turismo in cantina, donne viticoltrici: ormai tutto è diventato marketing”. Parla Maria Teresa Mascarello",
-        "description": "Dalla scommessa sul dolcetto all'uso del cemento in cantina, la produttrice piemontese ha sempre fatto scelte controcorrente, anche quando non erano di moda. “I…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/intervista-maria-teresa-mascarello-barolo-dolcetto/",
-        "pubDate": "2026-07-02T10:28:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Anche nelle Langhe scattano i tagli alla produzione di vino. Barolo e Barbaresco (per ora) restano esclusi",
-        "description": "Riduzione delle rese del 10% per Langhe Nebbiolo Doc e Barbera d'Alba Doc. Il presidente del Consorzio Sergio Germano: \"Un segnale di responsabilità\". Preoccupa…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vendemmia-2026-langhe-tagli-rese-vino/",
-        "pubDate": "2026-07-02T10:17:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La crisi del prezzo delle uova non era dovuta all’aviaria, ma a un accordo tra produttori",
         "description": "L'accusa del Dipartimento di Giustizia degli Stati Uniti è di collusione tra i produttori, per gonfiare artificialmente richiesta e prezzi.\nL'articolo La crisi …",
         "link": "https://www.dissapore.com/notizie/la-crisi-del-prezzo-delle-uova-non-era-dovuta-allaviaria-ma-a-un-accordo-tra-produttori/",
@@ -509,15 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/uova.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Furto cantina Banfi Piemonte: rubate 3 mila bottiglie di Alta Langa",
-        "description": "Nella notte tra domenica 28 e lunedì 29 giugno, la cantina Banfi in Piemonte, a Strevi, in provincia di Alessandria, è stata colpita da un furto di rilevante en…",
-        "link": "https://www.winemag.it/furto-cantina-banfi-piemonte-strevi-rubate-3-mila-bottiglie-di-alta-langa-docg/",
-        "pubDate": "2026-07-02T07:56:13+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/il-presidente-di-Banfi-Rodolfo-Maralli-commenta-Furto-cantina-Banfi-Piemonte-rubate-3-mila-bottiglie-di-Alta-Langa-Docg.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Crostini alla scamorza: l’antipasto filante che conquista tutti",
@@ -529,22 +529,22 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Relais di Biserno, ospitalità tra vigne e Costa degli Etruschi nel segno del turismo slow",
-        "description": "Nel cuore della Costa degli Etruschi, tra i vigneti di Bibbona e a pochi chilometri da Bolgheri e Castagneto Carducci, il Relais di Biserno amplia l&#8217;offer…",
-        "link": "https://www.winemag.it/relais-di-biserno-ospitalita-tra-vigne-e-costa-degli-etruschi-nel-segno-del-turismo-slow/",
-        "pubDate": "2026-07-02T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Acqua, Gesmundo: basta emergenze, servono invasi per garantire il futuro",
+        "description": "Il segretario generale della Coldiretti, Vincenzo Gesmundo, è intervenuto oggi, 1 luglio 2026, a Roma, durante l’assemblea nazionale di Anbi, per chiedere al Go…",
+        "link": "https://www.gustoblog.it/2026/07/01/acqua-gesmundo-basta-emergenze-servono-invasi-per-garantire-il-futuro/",
+        "pubDate": "2026-07-01T18:05:09+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
       },
       {
-        "title": "Heineken Italia porta “Praise the Bar” a Roma: Trastevere protagonista della miniserie dedicata ai bar",
-        "description": "HEINEKEN Italia porta in Italia “Praise the Bar”, la prima miniserie digitale originale del Gruppo HEINEKEN dedicata ai pub e ai bar come luoghi di incontro, so…",
-        "link": "https://www.winemag.it/heineken-italia-porta-praise-the-bar-a-roma-trastevere-protagonista-della-miniserie-dedicata-ai-bar/",
-        "pubDate": "2026-07-02T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Minestra maritata, il piatto della tradizione che racconta l’anima della cucina italiana",
+        "description": "La minestra maritata, piatto della tradizione italiana legato soprattutto alla cucina del Sud, torna oggi, 1 luglio 2026, nelle ricerche degli appassionati di r…",
+        "link": "https://www.gustoblog.it/2026/07/01/minestra-maritata-il-piatto-della-tradizione-che-racconta-lanima-della-cucina-italiana/",
+        "pubDate": "2026-07-01T16:03:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
       }
     ]
   }
