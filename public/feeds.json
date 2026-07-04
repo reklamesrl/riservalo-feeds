@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-04T13:26:45.102732+00:00",
+  "generated": "2026-07-04T19:14:00.565486+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Campagne europee in trasformazione: spariscono le stalle, crescono gli alveari",
+        "description": "Nel 2023, nelle aziende agricole dell’Unione europea, gli alveari censiti sono saliti a 9,4 milioni, con un aumento del 16% rispetto al 2020, mentre gli allevam…",
+        "link": "https://www.gustoblog.it/2026/07/04/campagne-europee-in-trasformazione-spariscono-le-stalle-crescono-gli-alveari/",
+        "pubDate": "2026-07-04T18:04:50+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La mania per le proteine sta mettendo sotto pressione l’industria lattiero casearia",
+        "description": "Negli Stati Uniti le grandi aziende si stanno attrezzando per produrre sempre più siero, la fonte di quasi tutte le proteine aggiunte ai cibi che acquistiamo.\nL…",
+        "link": "https://www.dissapore.com/notizie/la-mania-per-le-proteine-sta-mettendo-sotto-pressione-lindustria-lattiero-casearia/",
+        "pubDate": "2026-07-04T16:03:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/proteine-nel-caffe-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Fusilli alla salsiccia, il primo rustico che conquista tutti",
+        "description": "I fusilli alla salsiccia, piatto della cucina italiana preparato oggi nelle case e nelle trattorie del Sud per valorizzare pasta fresca, carne e pomodoro, racco…",
+        "link": "https://www.gustoblog.it/2026/07/04/fusilli-alla-salsiccia-il-primo-rustico-che-conquista-tutti/",
+        "pubDate": "2026-07-04T16:03:01+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Come far sembrare i soffitti più alti: 7 trucchi di interior design che funzionano davvero",
+        "description": "Dai colori alle tende, passando per l'illuminazione e la scelta degli arredi: ecco le strategie utilizzate dai professionisti per trasformare la percezione degl…",
+        "link": "https://www.stylosophy.it/articolo/come-far-sembrare-i-soffitti-piu-alti-trucchi-di-interior-design/252390/",
+        "pubDate": "2026-07-04T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Aurora Ramazzotti dice sì a Goffredo Cerza: ecco il Look sfoggiato per il matrimonio civile FOTO",
         "description": "Per il matrimonio civile con Goffredo Cerza, Aurora Ramazzotti ha sfoggiato un look casual ed informale con infradito e copricapo a rete.…",
@@ -37,6 +73,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Taylor Swift ha sposato Travis Kelce: tutti i dettagli del matrimonio più atteso d’America",
+        "description": "Dopo mesi di indiscrezioni, scommesse e aspettative, il grande giorno è finalmente arrivato. Taylor Swift e Travis Kelce hanno pronunciato il loro &#8220;sì&#82…",
+        "link": "https://www.grazia.it/moda/news-moda/taylor-swift-travis-kelce-matrimonio-new-york-madinson-square-garden-abito-da-sposa-invitati-984646",
+        "pubDate": "2026-07-04T09:57:32+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/ok-desk.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Come l’agricoltura rigenerativa può aiutare con il caldo record",
@@ -120,6 +165,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Comodi e chic, i pantaloni pareo sono il trend da cui farsi tentare quest’estate",
+        "description": "Il must-have dell&#8217;estate è tutto in un paio di pantaloni. Certo, non si tratta di un modello qualunque ma di un pantalone effetto pareo che reinterpreta p…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-pareo-donna-zara-eleganti-trend-estate-2026-must-have-982872",
+        "pubDate": "2026-07-04T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/DESK-pantaloni-pareo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "A Modena arrivano i tortellini del riscatto preparati dai detenuti",
         "description": "A Modena apre domani la bottega che venderà tortellini, tortelloni, tortelli e ravioli fatti a mano dai detenuti del carcere Sant’Anna, un progetto nato per por…",
         "link": "https://www.gustoblog.it/2026/07/03/a-modena-arrivano-i-tortellini-del-riscatto-preparati-dai-detenuti/",
@@ -127,63 +181,18 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Cavatelli alle cime di rapa: il gusto autentico della Puglia in tavola",
-        "description": "A Bari, come in molte cucine di Puglia e del Sud Italia, i cavatelli alle cime di rapa si preparano soprattutto nei mesi freddi, quando le rape sono più tenere,…",
-        "link": "https://www.gustoblog.it/2026/07/03/cavatelli-alle-cime-di-rapa-il-gusto-autentico-della-puglia-in-tavola/",
-        "pubDate": "2026-07-03T16:03:08+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Come scegliere il condizionatore per una casa piccola: gli esperti spiegano gli errori da evitare",
-        "description": "La scelta dell'aria condizionata in una casa di piccole dimensioni richiede valutazioni tecniche, estetiche e progettuali. Gli esperti spiegano quali aspetti co…",
-        "link": "https://www.stylosophy.it/articolo/come-scegliere-il-condizionatore-per-una-casa-piccola-errori-da-evitare/252384/",
-        "pubDate": "2026-07-03T16:00:00+00:00",
+        "title": "Come far sembrare i soffitti più alti: 7 trucchi di interior design che funzionano davvero",
+        "description": "Dai colori alle tende, passando per l'illuminazione e la scelta degli arredi: ecco le strategie utilizzate dai professionisti per trasformare la percezione degl…",
+        "link": "https://www.stylosophy.it/articolo/come-far-sembrare-i-soffitti-piu-alti-trucchi-di-interior-design/252390/",
+        "pubDate": "2026-07-04T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Che senso ha la Giornata Mondiale del Cioccolato a luglio?",
-        "description": "Le origini della Giornata Mondiale del Cioccolato non sono manco così certe: e allora, non ci si poteva mettere tutti intorno a un tavolo e scegliere una data i…",
-        "link": "https://www.dissapore.com/notizie/che-senso-ha-la-giornata-mondiale-del-cioccolato-a-luglio/",
-        "pubDate": "2026-07-03T15:09:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/02/tavoletta-di-cioccolato.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Piccole novità, grandi idee di stile. Questa settimana la moda racconta leggerezza, artigianalità e dettagli che fanno la differenza. #FashionPills Fashion Pill…",
-        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-settimana-sergio-rossi-hibourama-ateliervm-gipsy-prada-borsa-bonnie-carolina-herrera-net-a-porter-pandora-lab-grown-diamonds-onitsuka-tiger-gymnarina-martino-midali-lino-984512",
-        "pubDate": "2026-07-03T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/Senza-titolo-185.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Dentro la storica pasticceria che custodisce il segreto delle Sise delle monache",
-        "description": "Nate nel convento delle clarisse e tramandate da oltre un secolo, le Sise delle monache trovano nella storica pasticceria Emo Lullo la loro casa più celebre. Tr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sise-delle-monache-guardiagrele-emo-lullo/",
-        "pubDate": "2026-07-03T13:53:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Penelope Cruz, Olivia Wilde e le altre star meglio vestite della settimana",
-        "description": "Anche questa settimana le star non ci hanno deluso con i loro favolosi. In particolare Penelope Cruz e Olivia Wilde ci hanno regalato due abiti di cui dobbiamo …",
-        "link": "https://www.grazia.it/moda/celebrity-style/penelope-cruz-olivia-wilde-look-red-carpet-star-meglio-vestite-della-settimana-983931",
-        "pubDate": "2026-07-03T13:27:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_best_dressed.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Aurora Ramazzotti dice sì a Goffredo Cerza: ecco il Look sfoggiato per il matrimonio civile FOTO",
         "description": "Per il matrimonio civile con Goffredo Cerza, Aurora Ramazzotti ha sfoggiato un look casual ed informale con infradito e copricapo a rete.…",
@@ -194,6 +203,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Taylor Swift ha sposato Travis Kelce: tutti i dettagli del matrimonio più atteso d’America",
+        "description": "Dopo mesi di indiscrezioni, scommesse e aspettative, il grande giorno è finalmente arrivato. Taylor Swift e Travis Kelce hanno pronunciato il loro &#8220;sì&#82…",
+        "link": "https://www.grazia.it/moda/news-moda/taylor-swift-travis-kelce-matrimonio-new-york-madinson-square-garden-abito-da-sposa-invitati-984646",
+        "pubDate": "2026-07-04T09:57:32+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/ok-desk.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "SOS piedi secchi? Ecco 5 maschere da provare assolutamente",
         "description": "Il segreto per piedi morbidi, idratati e dall'aspetto sano? Le maschere riparatrici, un must da non perdere.…",
         "link": "https://www.stylosophy.it/articolo/sos-piedi-secchi-ecco-5-maschere-da-provare-assolutamente/252239/",
@@ -201,6 +219,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Comodi e chic, i pantaloni pareo sono il trend da cui farsi tentare quest’estate",
+        "description": "Il must-have dell&#8217;estate è tutto in un paio di pantaloni. Certo, non si tratta di un modello qualunque ma di un pantalone effetto pareo che reinterpreta p…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-pareo-donna-zara-eleganti-trend-estate-2026-must-have-982872",
+        "pubDate": "2026-07-04T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/DESK-pantaloni-pareo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Come scegliere il condizionatore per una casa piccola: gli esperti spiegano gli errori da evitare",
@@ -329,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Questi oli per capelli nutrono la chioma in Estate a la rendono super setosa",
-        "description": "Per capelli leggeri, luminosi e idratati, ecco 5 oli che fanno la differenza. Da provare!…",
-        "link": "https://www.stylosophy.it/articolo/questi-oli-per-capelli-nutrono-la-chioma-in-estate-a-la-rendono-super-setosa/252162/",
-        "pubDate": "2026-07-02T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Arrivano i saldi estivi e questi 10 pezzi di H&M vi svolteranno il look, parola di fashion editor",
         "description": "Mancano una manciata di giorni all&#8217;inizio ufficiale dei saldi estivi e la caccia all&#8217;affare perfetto si sposta sull&#8217;e-commerce di H&#38;M. La …",
         "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-hm-cosa-comprare-must-have-abiti-sandali-borse-bijoux-estate-2026-983192",
@@ -345,27 +363,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_saldi_HM.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Saldi fa rima con…scarpe. Tutte d’accordo, vero? Ecco i modelli di tendenza su cui investire ora",
-        "description": "Le scarpe durante i saldi estivi 2026 sono il primo reparto da tenere d&#8217;occhio! Se c&#8217;è infatti una categoria sulla quale vale davvero la pena invest…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-saldi-estivi-2026-quali-modelli-comprare-decolle-sandali-mocassini-ballerine-in-saldo-sconti-promozioni-982233",
-        "pubDate": "2026-07-02T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/ok-desk-3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Saldi estivi: 10 pezzi must-have di Zara da mettere subito nel carrello",
-        "description": "I saldi estivi sono alle porte e, ammettiamolo, il tempismo è perfetto. Se c’è un momento ideale per fare un refresh del guardaroba senza troppi sensi di colpa,…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/saldi-estivi-zara-cosa-comprare-sconti-promozioni-vestiti-scarpe-borse-estate-2026-983171",
-        "pubDate": "2026-07-01T16:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_saldi_zara.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Campagne europee in trasformazione: spariscono le stalle, crescono gli alveari",
+        "description": "Nel 2023, nelle aziende agricole dell’Unione europea, gli alveari censiti sono saliti a 9,4 milioni, con un aumento del 16% rispetto al 2020, mentre gli allevam…",
+        "link": "https://www.gustoblog.it/2026/07/04/campagne-europee-in-trasformazione-spariscono-le-stalle-crescono-gli-alveari/",
+        "pubDate": "2026-07-04T18:04:50+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La mania per le proteine sta mettendo sotto pressione l’industria lattiero casearia",
+        "description": "Negli Stati Uniti le grandi aziende si stanno attrezzando per produrre sempre più siero, la fonte di quasi tutte le proteine aggiunte ai cibi che acquistiamo.\nL…",
+        "link": "https://www.dissapore.com/notizie/la-mania-per-le-proteine-sta-mettendo-sotto-pressione-lindustria-lattiero-casearia/",
+        "pubDate": "2026-07-04T16:03:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/proteine-nel-caffe-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Fusilli alla salsiccia, il primo rustico che conquista tutti",
+        "description": "I fusilli alla salsiccia, piatto della cucina italiana preparato oggi nelle case e nelle trattorie del Sud per valorizzare pasta fresca, carne e pomodoro, racco…",
+        "link": "https://www.gustoblog.it/2026/07/04/fusilli-alla-salsiccia-il-primo-rustico-che-conquista-tutti/",
+        "pubDate": "2026-07-04T16:03:01+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Perché il Verduno Pelaverga è uno dei vini più contemporanei delle Langhe (ed è perfetto anche in estate)",
         "description": "Pochi muscoli ma tanto carattere, questo rosso piemontese dimostra come identità territoriale e contemporaneità possano convivere nello stesso calice, senza tem…",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Entrano per il gelato, escono con i fiori: il locale che sta conquistando la Puglia",
-        "description": "A Terlizzi una fiorista ha trasformato il suo negozio in un format insolito: bouquet, piante e gelati artigianali, compresi gusti ai petali di rosa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/gelateria-fioreria-puglia-fiorellina/",
-        "pubDate": "2026-07-03T10:32:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un funghicida usato anche nei meleti in Alto Adige potrebbe causare danni al cervello",
-        "description": "Un nuovo studio mette in discussione l'approvazione Europea del fluazinam, ponendo gravi dubbi sulla sua sicurezza che forse sono stati ignorati.\nL'articolo Un …",
-        "link": "https://www.dissapore.com/notizie/un-funghicida-usato-anche-nei-meleti-in-alto-adige-potrebbe-causare-danni-al-cervello/",
-        "pubDate": "2026-07-03T08:02:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pesticidi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cazzimperio, il sapore autentico della tradizione romana",
-        "description": "Il Cazzimperio, antipasto della tradizione italiana preparato con pane, uova, burro, alici e capperi, torna nelle cucine domestiche oggi, 3 luglio 2026, come ri…",
-        "link": "https://www.gustoblog.it/2026/07/03/cazzimperio-il-sapore-autentico-della-tradizione-romana/",
-        "pubDate": "2026-07-03T06:04:30+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
