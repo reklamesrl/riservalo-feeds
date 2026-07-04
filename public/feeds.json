@@ -1,7 +1,61 @@
 {
-  "generated": "2026-07-03T19:23:22.140175+00:00",
+  "generated": "2026-07-04T08:37:10.121734+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Hai mai visto il basilico viola? Non è finto e sa di liquirizia",
+        "description": "Nel mondo esistono circa 60 varietà di basilico e una delle più sorprendenti è viola: il colore dipende dalle antocianine e il sapore cambia radicalmente, con n…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/basilico-viola-che-cosa-e/",
+        "pubDate": "2026-07-04T07:55:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Romagna i lacci delle scarpe e gli spaghetti hanno lo stesso nome",
+        "description": "I curzul sono una pasta antica di Forlì, Cesena e Ravenna: spessi, ruvidi, tagliati a coltello e perfetti con scalogno o vongole. Una specialità romagnola quasi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/curzul-pasta-romagnola-lacci-scarpe/",
+        "pubDate": "2026-07-04T07:38:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In provincia di Caserta c’è un ristorante con Champagne di culto a prezzi sorprendenti",
+        "description": "Da Élevage Restaurant, a Trentola Ducenta, si mangiano piatti di ricerca firmati Simone Fracassi e si stappano grandi bottiglie francesi e italiane con ricarich…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/elevage-caserta-champagne-prezzi/",
+        "pubDate": "2026-07-04T06:46:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bruschetta alla salsiccia di fegato: il sapore rustico che conquista",
+        "description": "A Roma, sabato 4 luglio 2026, torna sulle tavole di casa una ricetta povera e diretta della tradizione italiana: la bruschetta alla salsiccia di fegato, prepara…",
+        "link": "https://www.gustoblog.it/2026/07/04/bruschetta-alla-salsiccia-di-fegato-il-sapore-rustico-che-conquista/",
+        "pubDate": "2026-07-04T06:04:04+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Per i 250 anni degli Stati Uniti c’è anche la torta",
+        "description": "Come ogni compleanno che si rispetti non può mancare il pezzo forte, con tanto di candeline (e polemiche) annesse. \nL'articolo Per i 250 anni degli Stati Uniti …",
+        "link": "https://www.dissapore.com/notizie/per-i-250-anni-degli-stati-uniti-ce-anche-la-torta/",
+        "pubDate": "2026-07-04T05:36:14+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/4-luglio-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il vino rosso più famoso della Liguria da bere fresco per i vostri menu estivi. Ecco le etichette che vi consigliamo",
+        "description": "Tra i vini rossi ideali per l'estate, freschi, sapidi e fruttati, da servire freschi, c'è senz'altro il Rossese, di cui abbiamo selezionato 6 etichette da abbin…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-rossi-freschi-liguria-rossese-estate/",
+        "pubDate": "2026-07-04T04:52:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "A Modena arrivano i tortellini del riscatto preparati dai detenuti",
         "description": "A Modena apre domani la bottega che venderà tortellini, tortelloni, tortelli e ravioli fatti a mano dai detenuti del carcere Sant’Anna, un progetto nato per por…",
@@ -84,7 +138,7 @@
         "source": "Grazia"
       },
       {
-        "title": "Ad Assisi è difficile mangiare bene. Questa bottega di famiglia è l’eccezione",
+        "title": "Questo panino con la porchetta vale da solo una deviazione in Umbria",
         "description": "A pochi minuti dal centro di Assisi, una famiglia umbra ha trasformato una storica norcineria in un indirizzo di culto: porchetta, salumi locali e focacce crocc…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/panini-assisi-porcellino-divino/",
         "pubDate": "2026-07-03T11:39:00+00:00",
@@ -127,60 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "In cerca di consigli per gli acquisti? Questi sono i nostri “love at first sight” della settimana",
-        "description": "I saldi iniziano domani (ma online sono già attivi da diversi giorni), le vacanze si avvicinano e la voglia di rinfrescare il guardaroba con qualche pezzo nuovo…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-adesso-must-have-estate-2026-vestiti-borse-scarpe-accessori-shopping-consigli-acquisti-online-984436",
-        "pubDate": "2026-07-03T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_love_first_sight_1_luglio.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "5 prodotti beauty imperdibili se questa estate vuoi profumare di Cocco",
-        "description": "Dolci, delicati e molto femminili, questi 6 prodotti al cocco sono perfetti per chi ama lasciare la scia. Imperdibili!…",
-        "link": "https://www.stylosophy.it/articolo/5-prodotti-beauty-imperdibili-se-questa-estate-vuoi-profumare-di-cocco/252215/",
-        "pubDate": "2026-07-03T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "In Italia ha aperto un hotel per scoby: i batteri della kombucha vanno in vacanza a Verona",
-        "description": "A Verona esiste uno Scoby Hotel dove batteri e lieviti della kombucha vengono nutriti, monitorati e fotografati ogni giorno mentre i proprietari sono in vacanza…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/hotel-scoby-verona-kombucha/",
-        "pubDate": "2026-07-03T08:56:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un funghicida usato anche nei meleti in Alto Adige potrebbe causare danni al cervello",
-        "description": "Un nuovo studio mette in discussione l'approvazione Europea del fluazinam, ponendo gravi dubbi sulla sua sicurezza che forse sono stati ignorati.\nL'articolo Un …",
-        "link": "https://www.dissapore.com/notizie/un-funghicida-usato-anche-nei-meleti-in-alto-adige-potrebbe-causare-danni-al-cervello/",
-        "pubDate": "2026-07-03T08:02:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pesticidi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Toscana fanno un Vermentino macerato che costa meno di 20 euro",
-        "description": "Nel Lucchese, una piccola cantina ha trasformato il vermentino in un orange wine macerato sulle bucce, sapido, mediterraneo e dal grande rapporto qualità-prezzo…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/orange-wine-vermentino-toscana-fattoria-del-teso/",
-        "pubDate": "2026-07-03T07:58:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I costumi da sfoggiare a 50 anni? Ecco i modelli che vi suggeriamo di aggiungere subito alla shopping list",
-        "description": "L’estate sta entrando nel vivo, le ferie sono sempre più vicine e questo significa che è arrivato il momento di far spazio nell’armadio a qualche nuovo costume …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/costumi-da-bagno-per-donne-over-50-outfit-mare-estate-spiaggia-intero-bikini-984406",
-        "pubDate": "2026-07-03T07:55:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Costumi-da-avere-a-50-anni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,60 @@
     ],
     "lifestyle": [
       {
+        "title": "Hai mai visto il basilico viola? Non è finto e sa di liquirizia",
+        "description": "Nel mondo esistono circa 60 varietà di basilico e una delle più sorprendenti è viola: il colore dipende dalle antocianine e il sapore cambia radicalmente, con n…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/basilico-viola-che-cosa-e/",
+        "pubDate": "2026-07-04T07:55:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Romagna i lacci delle scarpe e gli spaghetti hanno lo stesso nome",
+        "description": "I curzul sono una pasta antica di Forlì, Cesena e Ravenna: spessi, ruvidi, tagliati a coltello e perfetti con scalogno o vongole. Una specialità romagnola quasi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/curzul-pasta-romagnola-lacci-scarpe/",
+        "pubDate": "2026-07-04T07:38:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In provincia di Caserta c’è un ristorante con Champagne di culto a prezzi sorprendenti",
+        "description": "Da Élevage Restaurant, a Trentola Ducenta, si mangiano piatti di ricerca firmati Simone Fracassi e si stappano grandi bottiglie francesi e italiane con ricarich…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/elevage-caserta-champagne-prezzi/",
+        "pubDate": "2026-07-04T06:46:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bruschetta alla salsiccia di fegato: il sapore rustico che conquista",
+        "description": "A Roma, sabato 4 luglio 2026, torna sulle tavole di casa una ricetta povera e diretta della tradizione italiana: la bruschetta alla salsiccia di fegato, prepara…",
+        "link": "https://www.gustoblog.it/2026/07/04/bruschetta-alla-salsiccia-di-fegato-il-sapore-rustico-che-conquista/",
+        "pubDate": "2026-07-04T06:04:04+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Per i 250 anni degli Stati Uniti c’è anche la torta",
+        "description": "Come ogni compleanno che si rispetti non può mancare il pezzo forte, con tanto di candeline (e polemiche) annesse. \nL'articolo Per i 250 anni degli Stati Uniti …",
+        "link": "https://www.dissapore.com/notizie/per-i-250-anni-degli-stati-uniti-ce-anche-la-torta/",
+        "pubDate": "2026-07-04T05:36:14+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/4-luglio-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il vino rosso più famoso della Liguria da bere fresco per i vostri menu estivi. Ecco le etichette che vi consigliamo",
+        "description": "Tra i vini rossi ideali per l'estate, freschi, sapidi e fruttati, da servire freschi, c'è senz'altro il Rossese, di cui abbiamo selezionato 6 etichette da abbin…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-rossi-freschi-liguria-rossese-estate/",
+        "pubDate": "2026-07-04T04:52:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "A Modena arrivano i tortellini del riscatto preparati dai detenuti",
         "description": "A Modena apre domani la bottega che venderà tortellini, tortelloni, tortelli e ravioli fatti a mano dai detenuti del carcere Sant’Anna, un progetto nato per por…",
         "link": "https://www.gustoblog.it/2026/07/03/a-modena-arrivano-i-tortellini-del-riscatto-preparati-dai-detenuti/",
@@ -403,7 +457,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Ad Assisi è difficile mangiare bene. Questa bottega di famiglia è l’eccezione",
+        "title": "Questo panino con la porchetta vale da solo una deviazione in Umbria",
         "description": "A pochi minuti dal centro di Assisi, una famiglia umbra ha trasformato una storica norcineria in un indirizzo di culto: porchetta, salumi locali e focacce crocc…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/panini-assisi-porcellino-divino/",
         "pubDate": "2026-07-03T11:39:00+00:00",
@@ -457,24 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "In Toscana fanno un Vermentino macerato che costa meno di 20 euro",
-        "description": "Nel Lucchese, una piccola cantina ha trasformato il vermentino in un orange wine macerato sulle bucce, sapido, mediterraneo e dal grande rapporto qualità-prezzo…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/orange-wine-vermentino-toscana-fattoria-del-teso/",
-        "pubDate": "2026-07-03T07:58:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’ex Dom Pérignon sta cambiando Bellavista: e adesso si sente nel bicchiere",
-        "description": "Richard Geoffroy, storico chef de cave di Dom Pérignon, lavora da Bellavista dal 2021. Ma solo oggi, assaggiando le nuove cuvée, si inizia a capire davvero la d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/richard-geoffroy-bellavista-franciacorta/",
-        "pubDate": "2026-07-03T06:06:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cazzimperio, il sapore autentico della tradizione romana",
         "description": "Il Cazzimperio, antipasto della tradizione italiana preparato con pane, uova, burro, alici e capperi, torna nelle cucine domestiche oggi, 3 luglio 2026, come ri…",
         "link": "https://www.gustoblog.it/2026/07/03/cazzimperio-il-sapore-autentico-della-tradizione-romana/",
@@ -509,42 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/06/ciacco-gelateria-milano-1.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Da paracadutista e pilota d’aerei a pioniere del gelato artigianale. La storia di Stefano Baglieri",
-        "description": "Ecco chi è il gelatiere siciliano che ha anticipato una nuova idea di gelato: più pulita, stagionale e contemporanea, passando dal bancone al laboratorio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-lartigianale-sicilia-nocciola-monferrato-agrimontana/",
-        "pubDate": "2026-07-02T17:01:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cavatelli con pecorino e rucola: il primo piatto semplice dal gusto sorprendente",
-        "description": "I cavatelli con pecorino e rucola, piatto della cucina italiana firmato da Carmelo Scuderi, si preparano oggi nelle case e nelle trattorie del Sud con pochi ing…",
-        "link": "https://www.gustoblog.it/2026/07/02/cavatelli-con-pecorino-e-rucola-il-primo-piatto-semplice-dal-gusto-sorprendente/",
-        "pubDate": "2026-07-02T16:03:10+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Vicino a questo casello dell’A1 c’è una Fiorentina che vale la sosta",
-        "description": "A due rotatorie dall’uscita di Bettolle c’è un agri-ristoro che trasforma una semplice pausa in autostrada in un pranzo memorabile tra Chianina, lampredotto e a…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/tempio-chianina-bettolle-autostrada/",
-        "pubDate": "2026-07-02T15:37:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano",
-        "description": "Morto Franco Bernabei, enologo del Rinascimento del vino italiano. Suoi alcuni vini diventati simbolo come Flaccianello della Pieve di Fontodi, Fontalloro di Fè…",
-        "link": "https://www.winemag.it/morto-franco-bernabei-enologo-del-rinascimento-del-vino-italiano/",
-        "pubDate": "2026-07-02T15:23:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
