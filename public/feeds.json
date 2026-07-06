@@ -1,10 +1,109 @@
 {
-  "generated": "2026-07-06T15:33:42.392094+00:00",
+  "generated": "2026-07-06T19:57:38.921676+00:00",
   "feeds": {
     "offerte": [
       {
+        "title": "Il volo può attendere: Ferrari apre a Fiumicino il nuovo Spazio Bollicine tra Tegamini e Trentodoc",
+        "description": "Grandi bollicine al calice, focacce e specialità regionali: Ferrari Trento torna all'aeroporto di Fiumicino con un nuovo spazio dedicato al gusto italiano…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/spazio-ferrari-fiumicino-aeroporto/",
+        "pubDate": "2026-07-06T18:22:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Allevamenti, arriva il piano Ue per gestire meglio i rischi",
+        "description": "La Commissione europea presenterà domani, a Bruxelles, la nuova strategia Ue per la filiera zootecnica per aiutare gli allevatori a gestire meglio i rischi lega…",
+        "link": "https://www.gustoblog.it/2026/07/06/allevamenti-arriva-il-piano-ue-per-gestire-meglio-i-rischi/",
+        "pubDate": "2026-07-06T18:05:31+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "A Torino puoi fare l’aperitivo a bordo piscina dentro lo storico velodromo di Fausto Coppi",
+        "description": "Lo storico impianto sportivo continua a ospitare piscina, padel e beach volley, ma d'estate apre anche il Chiringuito di Al Velò con aperitivi, cene all'aperto …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/aperitivo-piscina-motovelodromo-torino/",
+        "pubDate": "2026-07-06T16:44:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo chef che ha cambiato il modo di mangiare nei bistrot d’Europa",
+        "description": "La morte di Bertrand Grébaut riporta al centro la storia di Septime, il bistrot parigino che ha ispirato una generazione di chef, trasformando per sempre l'alta…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bertrand-grebaut-septime-bistronomia/",
+        "pubDate": "2026-07-06T16:29:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha iniziato facendo sushi con pecorino e tartufo in casa. Oggi è diventato un ristorante",
+        "description": "Durante il lockdown Matteo Brunamonti ha iniziato a sperimentare roll con pecorino di Norcia, trota del Nera, Chianina e tartufo. Quella che sembrava un'idea fo…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/sushi-umbro-perugia/",
+        "pubDate": "2026-07-06T16:12:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il grano al sugo che racconta il sapore della tradizione",
+        "description": "Il grano al sugo, piatto della cucina italiana di tradizione contadina, torna oggi nelle cucine domestiche del Sud — dalla Sicilia interna alle tavole familiari…",
+        "link": "https://www.gustoblog.it/2026/07/06/il-grano-al-sugo-che-racconta-il-sapore-della-tradizione/",
+        "pubDate": "2026-07-06T16:03:25+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Le birre crafty sono un problema anche in UK: l’allarme del CAMRA",
+        "description": "Nei pub inglesi ormai 7 birre su 10 spacciate per artigianali sono prodotte da multinazionali, e il Campaign for Real Ale chiede un intervento del governo.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/le-birre-crafty-sono-un-problema-anche-in-uk-lallarme-del-camra/",
+        "pubDate": "2026-07-06T16:02:02+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/pub-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Leroy Merlin firma Cadix: il Ventilatore di design che è anche Lampadario",
+        "description": "Cadix, il ventilatore da soffitto con pale retrattili che unisce design, luce LED e tecnologia smart.…",
+        "link": "https://www.stylosophy.it/articolo/leroy-merlin-firma-cadix-il-ventilatore-di-design-che-e-anche-lampadario/252449/",
+        "pubDate": "2026-07-06T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "A Milano c’è una vera fabbrica del cioccolato che si può visitare",
+        "description": "In un'antica scuderia a pochi passi dai Navigli, il maestro cioccolatiere Enrico Rizzi accompagna i visitatori in un viaggio che parte dalla fava di cacao e arr…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fabbrica-cioccolato-milano-visita/",
+        "pubDate": "2026-07-06T15:57:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dior Haute Couture AI 2026/27: 5 cose da sapere sulla sfilata evento di Jonathan Anderson",
+        "description": "La Settimana dell&#8217;Alta Moda di Parigi entra subito nel vivo e gli occhi sono puntati su Dior. Nel pomeriggio di oggi, lunedì 6 luglio, Jonathan Anderson h…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/dior-sfilata-haute-couture-ai-2026-2027-5-cose-da-sapere-984993",
+        "pubDate": "2026-07-06T15:51:33+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/ok-desk-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "La cozza che non ha bisogno della depurazione: così una famiglia veneziana ha conquistato gli chef",
+        "description": "Per anni veniva venduta come una semplice \"cozza Italia\". Oggi Mitilla è diventata un marchio riconosciuto grazie alla famiglia Busetto, che da tre generazioni …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cozza-pellestrina-mitilla-chef/",
+        "pubDate": "2026-07-06T15:35:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Nel bistrot di Monteverde dove tutti parlano della selvaggina, il vero protagonista è il galletto",
-        "description": "Da Friccico il foie gras fatto in casa e la Lepre alla Royale sono diventati dei classici. Ma è il galletto alla brace, succoso e cotto alla perfezione, il piat…",
+        "description": "Da Friccico il foie gras fatto in casa e la Lepre alla Royale sono diventati dei classici. Ma è il galletto, succoso e cotto alla perfezione, il piatto che racc…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/friccico-monteverde-galletto-selvaggina/",
         "pubDate": "2026-07-06T15:23:54+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -19,15 +118,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Assovini Sicilia, Gabriella Favara eletta presidente: nuovo CdA tutto under 40",
-        "description": "Cambio al vertice di Assovini Sicilia. Gabriella Favara è la nuova presidente dell&#8217;associazione che riunisce cento aziende vitivinicole siciliane. La nomi…",
-        "link": "https://www.winemag.it/assovini-sicilia-gabriella-favara-eletta-presidente-nuovo-cda-tutto-under-40/",
-        "pubDate": "2026-07-06T14:41:58+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "I migliori Prosecco Superiore da comprare quest’estate (quasi tutti sotto i 20 euro)",
@@ -75,24 +165,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Brusco stop per la legge sul vino 100% made in Usa: si potrà continuare a miscelarlo con quello straniero",
-        "description": "Il disegno di legge che prevede la denominazione \"American\" in etichetta per i prodotti ottenuti solo con uve locali è stato accantonato dal Senato della Califo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/legge-vino-made-usa-stop-senato-california/",
-        "pubDate": "2026-07-06T11:09:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fitofarmaci illeciti, sequestrate oltre 9 tonnellate in tre regioni",
-        "description": "Sequestrate oltre 9,2 tonnellate di prodotti fitosanitari illegali, per un valore stimato di circa 372 mila euro. È il bilancio dell’operazione condotta dai mil…",
-        "link": "https://www.winemag.it/fitofarmaci-illeciti-sequestrate-oltre-9-tonnellate-in-tre-regioni/",
-        "pubDate": "2026-07-06T10:41:25+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "5 Consigli per proteggere i capelli al mare, a prova di chioma al top",
         "description": "SOS capelli secchi e spenti al mare? Ecco 5 consigli da seguire alla lettera, per un boost di idratazione e luminosità. Da non perdere!…",
         "link": "https://www.stylosophy.it/articolo/5-consigli-per-proteggere-i-capelli-al-mare-a-prova-di-chioma-al-top/252420/",
@@ -109,81 +181,27 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/mucche-che-mangiano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "La paninoteca di Roma sempre piena fino alle 3 di notte: panini extralarge e prezzi ancora popolari",
-        "description": "Hamburger, porchetta, pulled pork, fritti da condividere e tavoli pieni fino a notte fonda: sulla Portuense una paninoteca aperta dal 2004 continua a richiamare…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/paninoteca-portuense-aperta-fino-alle-3/",
-        "pubDate": "2026-07-06T10:00:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Guerra, tarallucci e vino: al CMB Armenia giudici e vini della Russia",
-        "description": "Il vino non ha bandiere. O almeno così si ripete, spesso con una certa comodità, quando la geopolitica bussa alla porta delle degustazioni. Ma il Concours Mondi…",
-        "link": "https://www.winemag.it/guerra-tarallucci-e-vino-al-cmb-armenia-giudici-e-vini-della-russia/",
-        "pubDate": "2026-07-06T08:55:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "In questa valle di montagna tutti si aspettano polenta. Invece servono una grande carbonara",
-        "description": "Tra le montagne della Val di Susa, dove ci si aspetterebbero polenta e selvaggina, uno chef romano ha costruito una delle cucine più sorprendenti del territorio…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/locanda-orsiera-val-susa-cucina-romana/",
-        "pubDate": "2026-07-06T07:37:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché ci meritiamo la classifica di TasteAtlas sulle migliori gelaterie del mondo",
-        "description": "È uscita l’ennesima classifica cazzara di TasteAtlas sulle migliori gelaterie del mondo. Cinque gelaterie a Roma, quattro a Firenze, una a Venezia: le prime die…",
-        "link": "https://www.dissapore.com/locali/perche-ci-meritiamo-la-classifica-di-tasteatlas-sulle-migliori-gelaterie-del-mondo/",
-        "pubDate": "2026-07-06T07:15:32+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/le-100-gelaterie-migliori-ditalia.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La California combatte lo spreco di cibo con una piccola modifica alle confezioni",
-        "description": "Una legge nuova di zecca elimina la dicitura sell-by, indicazione per i supermercati che troppo spesso provoca lo spreco di cibo.\nL'articolo La California comba…",
-        "link": "https://www.dissapore.com/notizie/la-california-combatte-lo-spreco-di-cibo-con-una-piccola-modifica-alle-confezioni/",
-        "pubDate": "2026-07-06T06:34:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/best-before.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Alici sperone, il sapore del mare che conquista la tavola",
-        "description": "Le alici sperone, ricetta italiana di tradizione domestica attribuita nel repertorio online a Carmelo Scuderi, si preparano oggi nelle cucine di casa con alici …",
-        "link": "https://www.gustoblog.it/2026/07/06/alici-sperone-il-sapore-del-mare-che-conquista-la-tavola/",
-        "pubDate": "2026-07-06T06:04:55+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "James Eadie Laphroaig 10 Years: solo 600 bottiglie per l’Italia",
-        "description": "James Eadie amplia la propria gamma con un raro imbottigliamento indipendente di Laphroaig 10 Years, maturato in refill ex bourbon casks. Si tratta di una relea…",
-        "link": "https://www.winemag.it/james-eadie-laphroaig-10-years-solo-600-bottiglie-per-litalia/",
-        "pubDate": "2026-07-06T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Firenze, SEVI lancia il primo omakase dedicato alla cucina peruviana contemporanea in Italia",
-        "description": "Firenze amplia la propria offerta gastronomica con una proposta inedita nel panorama della ristorazione italiana. SEVI introduce un omakase dedicato alla cucina…",
-        "link": "https://www.winemag.it/firenze-sevi-lancia-il-primo-omakase-dedicato-alla-cucina-peruviana-contemporanea-in-italia/",
-        "pubDate": "2026-07-06T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Leroy Merlin firma Cadix: il Ventilatore di design che è anche Lampadario",
+        "description": "Cadix, il ventilatore da soffitto con pale retrattili che unisce design, luce LED e tecnologia smart.…",
+        "link": "https://www.stylosophy.it/articolo/leroy-merlin-firma-cadix-il-ventilatore-di-design-che-e-anche-lampadario/252449/",
+        "pubDate": "2026-07-06T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Dior Haute Couture AI 2026/27: 5 cose da sapere sulla sfilata evento di Jonathan Anderson",
+        "description": "La Settimana dell&#8217;Alta Moda di Parigi entra subito nel vivo e gli occhi sono puntati su Dior. Nel pomeriggio di oggi, lunedì 6 luglio, Jonathan Anderson h…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/dior-sfilata-haute-couture-ai-2026-2027-5-cose-da-sapere-984993",
+        "pubDate": "2026-07-06T15:51:33+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/ok-desk-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Ludovica Valli lancia la prima collezione di costumi da bagno con il suo brand LUDÌ",
         "description": "Ludovica Valli, per quest'estate, lancia la sua prima collezione swimwear: qui per i dettagli.…",
@@ -210,6 +228,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Michelle Hunziker e quell’abito sfoggiato al party pre-wedding di Aurora Ramazzotti che ci sembra davvero perfetto per le sere d’estate",
+        "description": "Nel weekend appena trascorso tutti i riflettori sono stati puntati sulle nozze di Taylor Swift, ma questo fine settimana c’è stato un altro matrimonio che in It…",
+        "link": "https://www.grazia.it/moda/celebrity-style/michelle-hunziker-abito-blu-scollo-americana-matrimonio-aurora-ramazzotti-sicilia-984734",
+        "pubDate": "2026-07-06T09:24:12+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abito_sere_Estate.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Gonna + sandali: l’abbinamento più chic dell’estate in 7 combo da provare",
+        "description": "Di giorno con ballerine intrecciate e jelly shoes, di sera con slingback rasoterra e décolleté con kittens heels: quando si tratta di scegliere con quali scarpe…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-abbinare-gonna-e-sandali-corta-midi-lunga-rasoterra-tacco-idee-outfit-estate-984170",
+        "pubDate": "2026-07-06T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_7gonne_7_Sandali.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "IKEA rinnova la libreria KALLAX con il nuovo colore bordeaux: il modello di tendenza dell’estate 2026",
@@ -293,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Come scegliere il condizionatore per una casa piccola: gli esperti spiegano gli errori da evitare",
-        "description": "La scelta dell'aria condizionata in una casa di piccole dimensioni richiede valutazioni tecniche, estetiche e progettuali. Gli esperti spiegano quali aspetti co…",
-        "link": "https://www.stylosophy.it/articolo/come-scegliere-il-condizionatore-per-una-casa-piccola-errori-da-evitare/252384/",
-        "pubDate": "2026-07-03T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Piccole novità, grandi idee di stile. Questa settimana la moda racconta leggerezza, artigianalità e dettagli che fanno la differenza. #FashionPills Fashion Pill…",
         "link": "https://www.grazia.it/moda/news-moda/notizie-moda-settimana-sergio-rossi-hibourama-ateliervm-gipsy-prada-borsa-bonnie-carolina-herrera-net-a-porter-pandora-lab-grown-diamonds-onitsuka-tiger-gymnarina-martino-midali-lino-984512",
@@ -336,39 +363,93 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_love_first_sight_1_luglio.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "I costumi da sfoggiare a 50 anni? Ecco i modelli che vi suggeriamo di aggiungere subito alla shopping list",
-        "description": "L’estate sta entrando nel vivo, le ferie sono sempre più vicine e questo significa che è arrivato il momento di far spazio nell’armadio a qualche nuovo costume …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/costumi-da-bagno-per-donne-over-50-outfit-mare-estate-spiaggia-intero-bikini-984406",
-        "pubDate": "2026-07-03T07:55:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Costumi-da-avere-a-50-anni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Mango: 10 pezzi cool da comprare approfittando dei saldi estivi",
-        "description": "Mancano meno di 48 ore al via ufficiale dei saldi estivi, previsto per sabato 4 luglio, ma chi si muove all&#8217;ultimo minuto rischia di non trovare nulla o d…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/mango-saldi-estivi-cosa-comprare-vestiti-scarpe-borse-must-estate-2026-sconti-983210",
-        "pubDate": "2026-07-02T16:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_saldi_mango.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Kate Hudson sul set di “Hello & Paris” indossa il perfetto abito a fiori over 40 (e noi vi mostriamo alcune alternative chic da puntare subito)",
-        "description": "In questi giorni è impegnata a New York per le riprese del nuovo film “Hello &#38; Paris”, ma tra un ciak e l’altro Kate Hudson ci ha dato un ottimo spunto su c…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abito-a-fiori-donne-over-40-vestito-vestiti-floreali-eleganti-hm-donna-midi-kate-hudsona-hello-paris-javier-bardem-984082",
-        "pubDate": "2026-07-02T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_a_fiori_over_40.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
       {
+        "title": "Il volo può attendere: Ferrari apre a Fiumicino il nuovo Spazio Bollicine tra Tegamini e Trentodoc",
+        "description": "Grandi bollicine al calice, focacce e specialità regionali: Ferrari Trento torna all'aeroporto di Fiumicino con un nuovo spazio dedicato al gusto italiano…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/spazio-ferrari-fiumicino-aeroporto/",
+        "pubDate": "2026-07-06T18:22:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Allevamenti, arriva il piano Ue per gestire meglio i rischi",
+        "description": "La Commissione europea presenterà domani, a Bruxelles, la nuova strategia Ue per la filiera zootecnica per aiutare gli allevatori a gestire meglio i rischi lega…",
+        "link": "https://www.gustoblog.it/2026/07/06/allevamenti-arriva-il-piano-ue-per-gestire-meglio-i-rischi/",
+        "pubDate": "2026-07-06T18:05:31+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "A Torino puoi fare l’aperitivo a bordo piscina dentro lo storico velodromo di Fausto Coppi",
+        "description": "Lo storico impianto sportivo continua a ospitare piscina, padel e beach volley, ma d'estate apre anche il Chiringuito di Al Velò con aperitivi, cene all'aperto …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/aperitivo-piscina-motovelodromo-torino/",
+        "pubDate": "2026-07-06T16:44:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo chef che ha cambiato il modo di mangiare nei bistrot d’Europa",
+        "description": "La morte di Bertrand Grébaut riporta al centro la storia di Septime, il bistrot parigino che ha ispirato una generazione di chef, trasformando per sempre l'alta…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bertrand-grebaut-septime-bistronomia/",
+        "pubDate": "2026-07-06T16:29:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha iniziato facendo sushi con pecorino e tartufo in casa. Oggi è diventato un ristorante",
+        "description": "Durante il lockdown Matteo Brunamonti ha iniziato a sperimentare roll con pecorino di Norcia, trota del Nera, Chianina e tartufo. Quella che sembrava un'idea fo…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/sushi-umbro-perugia/",
+        "pubDate": "2026-07-06T16:12:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il grano al sugo che racconta il sapore della tradizione",
+        "description": "Il grano al sugo, piatto della cucina italiana di tradizione contadina, torna oggi nelle cucine domestiche del Sud — dalla Sicilia interna alle tavole familiari…",
+        "link": "https://www.gustoblog.it/2026/07/06/il-grano-al-sugo-che-racconta-il-sapore-della-tradizione/",
+        "pubDate": "2026-07-06T16:03:25+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Le birre crafty sono un problema anche in UK: l’allarme del CAMRA",
+        "description": "Nei pub inglesi ormai 7 birre su 10 spacciate per artigianali sono prodotte da multinazionali, e il Campaign for Real Ale chiede un intervento del governo.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/le-birre-crafty-sono-un-problema-anche-in-uk-lallarme-del-camra/",
+        "pubDate": "2026-07-06T16:02:02+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/03/pub-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "A Milano c’è una vera fabbrica del cioccolato che si può visitare",
+        "description": "In un'antica scuderia a pochi passi dai Navigli, il maestro cioccolatiere Enrico Rizzi accompagna i visitatori in un viaggio che parte dalla fava di cacao e arr…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fabbrica-cioccolato-milano-visita/",
+        "pubDate": "2026-07-06T15:57:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La cozza che non ha bisogno della depurazione: così una famiglia veneziana ha conquistato gli chef",
+        "description": "Per anni veniva venduta come una semplice \"cozza Italia\". Oggi Mitilla è diventata un marchio riconosciuto grazie alla famiglia Busetto, che da tre generazioni …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cozza-pellestrina-mitilla-chef/",
+        "pubDate": "2026-07-06T15:35:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Nel bistrot di Monteverde dove tutti parlano della selvaggina, il vero protagonista è il galletto",
-        "description": "Da Friccico il foie gras fatto in casa e la Lepre alla Royale sono diventati dei classici. Ma è il galletto alla brace, succoso e cotto alla perfezione, il piat…",
+        "description": "Da Friccico il foie gras fatto in casa e la Lepre alla Royale sono diventati dei classici. Ma è il galletto, succoso e cotto alla perfezione, il piatto che racc…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/friccico-monteverde-galletto-selvaggina/",
         "pubDate": "2026-07-06T15:23:54+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -383,15 +464,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Assovini Sicilia, Gabriella Favara eletta presidente: nuovo CdA tutto under 40",
-        "description": "Cambio al vertice di Assovini Sicilia. Gabriella Favara è la nuova presidente dell&#8217;associazione che riunisce cento aziende vitivinicole siciliane. La nomi…",
-        "link": "https://www.winemag.it/assovini-sicilia-gabriella-favara-eletta-presidente-nuovo-cda-tutto-under-40/",
-        "pubDate": "2026-07-06T14:41:58+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "I migliori Prosecco Superiore da comprare quest’estate (quasi tutti sotto i 20 euro)",
@@ -421,24 +493,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Brusco stop per la legge sul vino 100% made in Usa: si potrà continuare a miscelarlo con quello straniero",
-        "description": "Il disegno di legge che prevede la denominazione \"American\" in etichetta per i prodotti ottenuti solo con uve locali è stato accantonato dal Senato della Califo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/legge-vino-made-usa-stop-senato-california/",
-        "pubDate": "2026-07-06T11:09:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fitofarmaci illeciti, sequestrate oltre 9 tonnellate in tre regioni",
-        "description": "Sequestrate oltre 9,2 tonnellate di prodotti fitosanitari illegali, per un valore stimato di circa 372 mila euro. È il bilancio dell’operazione condotta dai mil…",
-        "link": "https://www.winemag.it/fitofarmaci-illeciti-sequestrate-oltre-9-tonnellate-in-tre-regioni/",
-        "pubDate": "2026-07-06T10:41:25+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "In Europa crescono gli allevamenti di api e diminuiscono quelli di animali da carne",
         "description": "Due dati Eurostat, pubblicati a pochi giorni di distanza, mostrano lo strano parallelismo tra gli allevamenti di carni e quelli di api. \nL'articolo In Europa cr…",
         "link": "https://www.dissapore.com/notizie/in-europa-crescono-gli-allevamenti-di-api-e-diminuiscono-quelli-di-animali-da-carne/",
@@ -446,33 +500,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/mucche-che-mangiano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "La paninoteca di Roma sempre piena fino alle 3 di notte: panini extralarge e prezzi ancora popolari",
-        "description": "Hamburger, porchetta, pulled pork, fritti da condividere e tavoli pieni fino a notte fonda: sulla Portuense una paninoteca aperta dal 2004 continua a richiamare…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/paninoteca-portuense-aperta-fino-alle-3/",
-        "pubDate": "2026-07-06T10:00:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Guerra, tarallucci e vino: al CMB Armenia giudici e vini della Russia",
-        "description": "Il vino non ha bandiere. O almeno così si ripete, spesso con una certa comodità, quando la geopolitica bussa alla porta delle degustazioni. Ma il Concours Mondi…",
-        "link": "https://www.winemag.it/guerra-tarallucci-e-vino-al-cmb-armenia-giudici-e-vini-della-russia/",
-        "pubDate": "2026-07-06T08:55:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "In questa valle di montagna tutti si aspettano polenta. Invece servono una grande carbonara",
-        "description": "Tra le montagne della Val di Susa, dove ci si aspetterebbero polenta e selvaggina, uno chef romano ha costruito una delle cucine più sorprendenti del territorio…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/locanda-orsiera-val-susa-cucina-romana/",
-        "pubDate": "2026-07-06T07:37:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Perché ci meritiamo la classifica di TasteAtlas sulle migliori gelaterie del mondo",
@@ -502,24 +529,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "James Eadie Laphroaig 10 Years: solo 600 bottiglie per l’Italia",
-        "description": "James Eadie amplia la propria gamma con un raro imbottigliamento indipendente di Laphroaig 10 Years, maturato in refill ex bourbon casks. Si tratta di una relea…",
-        "link": "https://www.winemag.it/james-eadie-laphroaig-10-years-solo-600-bottiglie-per-litalia/",
-        "pubDate": "2026-07-06T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Firenze, SEVI lancia il primo omakase dedicato alla cucina peruviana contemporanea in Italia",
-        "description": "Firenze amplia la propria offerta gastronomica con una proposta inedita nel panorama della ristorazione italiana. SEVI introduce un omakase dedicato alla cucina…",
-        "link": "https://www.winemag.it/firenze-sevi-lancia-il-primo-omakase-dedicato-alla-cucina-peruviana-contemporanea-in-italia/",
-        "pubDate": "2026-07-06T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Valle dei Templi, boom di richieste per i food tour: 173 agenzie puntano sulle aziende agricole",
         "description": "Ad Agrigento, nel Parco archeologico e paesaggistico della Valle dei Templi, il progetto Diodoros sta attirando nel 2026 nuovi visitatori da tutto il mondo con …",
         "link": "https://www.gustoblog.it/2026/07/05/valle-dei-templi-boom-di-richieste-per-i-food-tour-173-agenzie-puntano-sulle-aziende-agricole/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2019/08/brexit-1.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Fusilli con la mollica, il primo semplice che profuma di tradizione",
-        "description": "La ricetta dei fusilli con la mollica, proposta da Carmelo Scuderi e legata alla cucina domestica italiana, torna oggi, 5 luglio 2026, al centro dell’attenzione…",
-        "link": "https://www.gustoblog.it/2026/07/05/fusilli-con-la-mollica-il-primo-semplice-che-profuma-di-tradizione/",
-        "pubDate": "2026-07-05T16:03:07+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
