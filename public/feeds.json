@@ -1,7 +1,88 @@
 {
-  "generated": "2026-07-08T08:28:47.908184+00:00",
+  "generated": "2026-07-08T14:08:30.169884+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A Milano cambia il food delivery: ecco cosa succede agli ordini nelle ore più calde",
+        "description": "Dal 7 luglio al 23 settembre il Comune chiede alle piattaforme di ridurre o sospendere gli ordini tra le 12.30 e le 16 quando il rischio caldo è elevato. L'obie…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/milano-stop-consegne-food-delivery-caldo-rider/",
+        "pubDate": "2026-07-08T13:26:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa c’è da pensare di “Taste of Italy”, nuovo cooking show di Antonino Cannavacciuolo",
+        "description": "Arriva un nuovo cooking show su Sky: protagonisti sono Antonino Cannavacciuolo, Chiara Pavan e Anna Zhang. \nL'articolo Cosa c&#8217;è da pensare di &#8220;Taste…",
+        "link": "https://www.dissapore.com/tv/cosa-ce-da-pensare-di-taste-of-italy-nuovo-cooking-show-di-antonino-cannavacciuolo/",
+        "pubDate": "2026-07-08T11:30:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/PT7_MYSTERY-GREEN_3647.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sicilia, 4 borghi di mare fuori dai radar da scoprire a Luglio",
+        "description": "Poco conosciuti e proprio per questo decisamente suggestivi, questi 4 borghi di mare della Sicilia sono la meta ideale per un'Estate autentica e indimenticabile…",
+        "link": "https://www.stylosophy.it/articolo/sicilia-4-borghi-di-mare-fuori-dai-radar-da-scoprire-a-luglio/252507/",
+        "pubDate": "2026-07-08T11:05:59+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“Una bottiglia di vino su cinque oggi viene declassata: così crolla il valore”. L’allarme di Unione italiana vini",
+        "description": "Dalla sua assemblea nazionale, l'associazione vitivinicola torna a chiedere di fare scelte coraggiose per tagliare la produzione: \"L'immobilismo sta impattando …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/declassamenti-vino-allarme-assemblea-unione-italiana-vini/",
+        "pubDate": "2026-07-08T10:33:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è la Zampina di Sammichele di Bari, la salsiccia a spirale delle Murge senza maiale",
+        "description": "Nata sull'altopiano delle Murge, la zampina di Sammichele di Bari è una delle preparazioni più iconiche della Puglia. Si distingue da quasi tutte le altre salsi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/zampina-sammichele-bari-salsiccia-igp-senza-maiale/",
+        "pubDate": "2026-07-08T10:31:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È uno dei vini bianchi italiani più esportati al mondo, ma in Italia non si conosce abbastanza",
+        "description": "Per decenni è stato uno dei grandi bianchi italiani. Oggi esporta gran parte della produzione, mentre nel nostro Paese fatica ancora a trovare spazio. Eppure il…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/gavi-vino-bianco-piemontese-export-estero/",
+        "pubDate": "2026-07-08T10:28:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nei supermercati serviranno frigoriferi resistenti ai cambiamenti climatici",
+        "description": "LA GDO sta affrontando la crisi climatica, e i frigoriferi sono una delle questioni più complicate.\nL'articolo Nei supermercati serviranno frigoriferi resistent…",
+        "link": "https://www.dissapore.com/notizie/nei-supermercati-serviranno-frigoriferi-resistenti-ai-cambiamenti-climatici/",
+        "pubDate": "2026-07-08T10:14:26+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/plastica-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La strada della mozzarella di bufala: i caseifici dove fermarsi tra Salerno e Paestum",
+        "description": "Tra Pontecagnano, Battipaglia, Eboli, Paestum e Agropoli, la SS18 attraversa uno dei territori più importanti della Mozzarella di Bufala Campana DOP. Ecco i cas…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/strada-mozzarella-bufala-caseifici-ss18-salerno-paestum/",
+        "pubDate": "2026-07-08T09:21:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gambe e piedi gonfi per il caldo: consigli e rimedi naturali",
+        "description": "Ecco 5 rimedi e consigli infallibili per dire addio a gambe e piedi gonfi in Estate. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/gambe-e-piedi-gonfi-per-il-caldo-consigli-e-rimedi-naturali/252494/",
+        "pubDate": "2026-07-08T09:13:09+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Il gelato italiano ha bisogno di rappresentatività e definizioni: la parola a Marco Cavedagni",
         "description": "Figura centrale e autorevole del mondo del gelato, Marco Cavedagni spiega la necessità di un'associazione forte e di una definizione realistica per il mondo del…",
@@ -48,8 +129,8 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Menu fisso sempre uguale e niente caffè: ecco la trattoria di Cagliari amata da Gigi Riva",
-        "description": "A Cagliari un indirizzo storico di cucina di mare conserva intatto il suo rito: menu fisso, prezzi popolari, pareti dedicate al calcio e un tavolo diventato met…",
+        "title": "La trattoria di Cagliari dove Gigi Riva cenava ogni sera: menu fisso e niente caffè",
+        "description": "Da oltre trent'anni la Stella Marina di Montecristo propone lo stesso menu di pesce, prezzi popolari e una regola insolita: il caffè non è previsto. Tranne che …",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-trattoria-di-cagliari-amata-da-gigi-riva/",
         "pubDate": "2026-07-08T05:53:32+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -93,97 +174,34 @@
         "source": "Stylosophy"
       },
       {
-        "title": "A Suvereto sono iniziati gli espropri dei terreni per le energie rinnovabili. L’allarme delle cantine della zona",
-        "description": "Il ministero dell'Ambiente sta procedendo con il progetto che prevede un impianto di batterie e accumulatori da 100 megawatt. Il Consorzio della Docg Suvereto e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/suvereto-progetto-rinnovabili-allarme-docg-suvereto-val-di-cornia/",
-        "pubDate": "2026-07-07T15:02:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Verona misura gli impatti della crisi del vino: ogni -5% di export costa 261 milioni di euro a tutto il territorio",
-        "description": "Uno studio dell'Università di Verona stima i danni al settore: nello scenario peggiore (-20% di export) le perdite potrebbero raggiungere 1,3 miliardi di euro. …",
-        "link": "https://www.gamberorosso.it/notizie/vino/verona-calo-export-vino-scenari/",
-        "pubDate": "2026-07-07T14:40:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Brook Shields sta guidando una rivolta contro il ristorante dei creatori di South Park",
-        "description": "C'è un ristorante storico a Denver che è stato rilevato anni fa dai creatori di South Park, e che ora sta facendo arrabbiare Brook Shields. \nL'articolo Brook Sh…",
+        "title": "Brooke Shields sta guidando una rivolta contro il ristorante dei creatori di South Park",
+        "description": "C'è un ristorante storico a Denver che è stato rilevato anni fa dai creatori di South Park, e che ora sta facendo arrabbiare Brook Shields. \nL'articolo Brooke S…",
         "link": "https://www.dissapore.com/notizie/brook-shields-sta-guidando-una-rivolta-contro-il-ristorante-dei-creatori-di-south-park/",
         "pubDate": "2026-07-07T13:53:19+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/casa-bonita-denver-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Aurora Ramazzotti, cambio d’abito al suo matrimonio con il mini dress tempestato di paillettes",
-        "description": "Ecco che cosa ha indossato Aurora Ramazzotti come secondo abito al suo matrimonio con Goffredo Cerza.…",
-        "link": "https://www.stylosophy.it/articolo/aurora-ramazzotti-cambio-dabito-al-suo-matrimonio-con-il-mini-dress-tempestato-di-paillettes/252459/",
-        "pubDate": "2026-07-07T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Chanel Haute Couture Autunno Inverno 2026/2027: 5 cose da sapere sul secondo capitolo di Matthieu Blazy",
-        "description": "Con la sfilata Haute Couture Autunno Inverno 2026/2027, Matthieu Blazy firma la sua seconda collezione di alta moda per Chanel. Dopo un debutto accolto con entu…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/chanel-sfilata-haute-couture-autunno-inverno-2026-2027-985282",
-        "pubDate": "2026-07-07T12:53:01+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/ok-desk-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Elle Woods, l’iconica protagonista de “La rivincita delle bionde”, è tornata e questi sono 7 abiti rosa per l’estate che siamo sicure approverebbe!",
-        "description": "Uno dei personaggi più iconici degli anni Duemila, reso immortale da una strabiliante Reese Witherspoon nel cult del 2001 La rivincita delle bionde, è ufficialm…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/elle-woods-la-rivincita-delle-bionde-prequel-prime-video-serie-tv-reese-witherspoon-vestiti-rosa-985325",
-        "pubDate": "2026-07-07T12:46:27+00:00",
-        "image": "https://www.grazia.it/content/uploads/2021/01/la-rivincita-delle-bionde-evidenza.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Un giudice ha deciso che i cibi ultra processati non causano dipendenza",
-        "description": "Secondo la sentenza, è impossibile provare il nesso tra il consumo di junk food e i problemi di salute, ma altre cause sono in arrivo.\nL'articolo Un giudice ha …",
-        "link": "https://www.dissapore.com/notizie/un-giudice-ha-deciso-che-i-cibi-ultra-processati-non-causano-dipendenza/",
-        "pubDate": "2026-07-07T11:08:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/junk-food-burger-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Estate 2026: 5 destinazioni perfette per fuggire dal caldo",
-        "description": "Sono queste le destinazioni ideali per scappare dal caldo estivo e respirare una piacevole aria fresca. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/estate-2026-5-destinazioni-perfette-per-fuggire-dal-caldo/252477/",
-        "pubDate": "2026-07-07T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Elena Sofia Ricci sfoggia il completo perfetto da comprare ora (approfittando dei saldi) e sfruttare anche a Settembre",
-        "description": "Ma quanto sono chic i completi sartoriali in stile manlike? Tantissimo. E a darcene l’ennesima conferma è Elena Sofia Ricci, che ha incantato la riviera romagno…",
-        "link": "https://www.grazia.it/moda/celebrity-style/elena-sofia-ricci-completo-max-mara-tailleur-gilet-pantaloni-larghi-da-comprare-in-saldo-e-sfruttare-a-settembreapprofittando-dei-saldi-e-sfruttare-anche-a-settembre-global-series-2026-985169",
-        "pubDate": "2026-07-07T10:27:12+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/elena-sofia-ricci-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Troppo rame in vigna: il biologico deve cambiare strada”. Podere Casanova sperimenta il combinato anolyte-zeolite",
-        "description": "Susanna Ponzin e Isidoro Rebatto hanno avviato una sperimentazione per ridurre drasticamente l’utilizzo di rame, perché come spiegano: \"Resta un metallo pesante…",
-        "link": "https://www.gamberorosso.it/notizie/vino/podere-casanova-viticoltura-biologica-sperimentazione-zeolite/",
-        "pubDate": "2026-07-07T10:15:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Sicilia, 4 borghi di mare fuori dai radar da scoprire a Luglio",
+        "description": "Poco conosciuti e proprio per questo decisamente suggestivi, questi 4 borghi di mare della Sicilia sono la meta ideale per un'Estate autentica e indimenticabile…",
+        "link": "https://www.stylosophy.it/articolo/sicilia-4-borghi-di-mare-fuori-dai-radar-da-scoprire-a-luglio/252507/",
+        "pubDate": "2026-07-08T11:05:59+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Gambe e piedi gonfi per il caldo: consigli e rimedi naturali",
+        "description": "Ecco 5 rimedi e consigli infallibili per dire addio a gambe e piedi gonfi in Estate. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/gambe-e-piedi-gonfi-per-il-caldo-consigli-e-rimedi-naturali/252494/",
+        "pubDate": "2026-07-08T09:13:09+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Maisons du Monde, outdoor in sconto: la poltrona Hilaya è il pezzo da non perdere",
         "description": "Tra le offerte outdoor di Maisons du Monde spicca una poltrona dal design contemporaneo che unisce comfort e stile, perfetta per terrazzi e giardini.…",
@@ -338,24 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "IKEA rinnova la libreria KALLAX con il nuovo colore bordeaux: il modello di tendenza dell’estate 2026",
-        "description": "La celebre libreria modulare di IKEA si presenta con una nuova finitura bordeaux che segue le tendenze dell'interior design 2026, mantenendo lo stesso prezzo de…",
-        "link": "https://www.stylosophy.it/articolo/ikea-rinnova-la-libreria-kallax-con-il-nuovo-colore-bordeaux/252406/",
-        "pubDate": "2026-07-05T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Michelle Hunziker, in Giorgio Armani per il matrimonio della figlia Aurora: ecco il suo Look",
-        "description": "Michelle Hunziker, per il matrimonio della figlia Aurora, ha optato per un meraviglioso completo due pezzi firmato Giorgio Armani.…",
-        "link": "https://www.stylosophy.it/articolo/michelle-hunziker-in-giorgio-armani-per-il-matrimonio-della-figlia-aurora-ecco-il-suo-look/252412/",
-        "pubDate": "2026-07-05T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Borse estive bellissime e dove trovarle: ecco le varianti che eleveranno tutti i vostri look (anche da spiaggia)",
         "description": "In estate ci sono accessori che più di tutti raccontano l&#8217;arrivo dell&#8217;estate: le borse da spiaggia. Se pensate che siano soltanto contenitori capien…",
         "link": "https://www.grazia.it/moda/tendenze-moda/borse-estive-rafia-tela-borsa-paglia-crochet-shopper-da-spiaggia-mare-estate-2026-983248",
@@ -366,6 +366,69 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "A Milano cambia il food delivery: ecco cosa succede agli ordini nelle ore più calde",
+        "description": "Dal 7 luglio al 23 settembre il Comune chiede alle piattaforme di ridurre o sospendere gli ordini tra le 12.30 e le 16 quando il rischio caldo è elevato. L'obie…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/milano-stop-consegne-food-delivery-caldo-rider/",
+        "pubDate": "2026-07-08T13:26:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa c’è da pensare di “Taste of Italy”, nuovo cooking show di Antonino Cannavacciuolo",
+        "description": "Arriva un nuovo cooking show su Sky: protagonisti sono Antonino Cannavacciuolo, Chiara Pavan e Anna Zhang. \nL'articolo Cosa c&#8217;è da pensare di &#8220;Taste…",
+        "link": "https://www.dissapore.com/tv/cosa-ce-da-pensare-di-taste-of-italy-nuovo-cooking-show-di-antonino-cannavacciuolo/",
+        "pubDate": "2026-07-08T11:30:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/PT7_MYSTERY-GREEN_3647.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Una bottiglia di vino su cinque oggi viene declassata: così crolla il valore”. L’allarme di Unione italiana vini",
+        "description": "Dalla sua assemblea nazionale, l'associazione vitivinicola torna a chiedere di fare scelte coraggiose per tagliare la produzione: \"L'immobilismo sta impattando …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/declassamenti-vino-allarme-assemblea-unione-italiana-vini/",
+        "pubDate": "2026-07-08T10:33:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è la Zampina di Sammichele di Bari, la salsiccia a spirale delle Murge senza maiale",
+        "description": "Nata sull'altopiano delle Murge, la zampina di Sammichele di Bari è una delle preparazioni più iconiche della Puglia. Si distingue da quasi tutte le altre salsi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/zampina-sammichele-bari-salsiccia-igp-senza-maiale/",
+        "pubDate": "2026-07-08T10:31:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È uno dei vini bianchi italiani più esportati al mondo, ma in Italia non si conosce abbastanza",
+        "description": "Per decenni è stato uno dei grandi bianchi italiani. Oggi esporta gran parte della produzione, mentre nel nostro Paese fatica ancora a trovare spazio. Eppure il…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/gavi-vino-bianco-piemontese-export-estero/",
+        "pubDate": "2026-07-08T10:28:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nei supermercati serviranno frigoriferi resistenti ai cambiamenti climatici",
+        "description": "LA GDO sta affrontando la crisi climatica, e i frigoriferi sono una delle questioni più complicate.\nL'articolo Nei supermercati serviranno frigoriferi resistent…",
+        "link": "https://www.dissapore.com/notizie/nei-supermercati-serviranno-frigoriferi-resistenti-ai-cambiamenti-climatici/",
+        "pubDate": "2026-07-08T10:14:26+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/plastica-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La strada della mozzarella di bufala: i caseifici dove fermarsi tra Salerno e Paestum",
+        "description": "Tra Pontecagnano, Battipaglia, Eboli, Paestum e Agropoli, la SS18 attraversa uno dei territori più importanti della Mozzarella di Bufala Campana DOP. Ecco i cas…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/strada-mozzarella-bufala-caseifici-ss18-salerno-paestum/",
+        "pubDate": "2026-07-08T09:21:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il gelato italiano ha bisogno di rappresentatività e definizioni: la parola a Marco Cavedagni",
         "description": "Figura centrale e autorevole del mondo del gelato, Marco Cavedagni spiega la necessità di un'associazione forte e di una definizione realistica per il mondo del…",
@@ -412,8 +475,8 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Menu fisso sempre uguale e niente caffè: ecco la trattoria di Cagliari amata da Gigi Riva",
-        "description": "A Cagliari un indirizzo storico di cucina di mare conserva intatto il suo rito: menu fisso, prezzi popolari, pareti dedicate al calcio e un tavolo diventato met…",
+        "title": "La trattoria di Cagliari dove Gigi Riva cenava ogni sera: menu fisso e niente caffè",
+        "description": "Da oltre trent'anni la Stella Marina di Montecristo propone lo stesso menu di pesce, prezzi popolari e una regola insolita: il caffè non è previsto. Tranne che …",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/la-trattoria-di-cagliari-amata-da-gigi-riva/",
         "pubDate": "2026-07-08T05:53:32+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -448,26 +511,8 @@
         "source": "Gustoblog"
       },
       {
-        "title": "A Suvereto sono iniziati gli espropri dei terreni per le energie rinnovabili. L’allarme delle cantine della zona",
-        "description": "Il ministero dell'Ambiente sta procedendo con il progetto che prevede un impianto di batterie e accumulatori da 100 megawatt. Il Consorzio della Docg Suvereto e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/suvereto-progetto-rinnovabili-allarme-docg-suvereto-val-di-cornia/",
-        "pubDate": "2026-07-07T15:02:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Verona misura gli impatti della crisi del vino: ogni -5% di export costa 261 milioni di euro a tutto il territorio",
-        "description": "Uno studio dell'Università di Verona stima i danni al settore: nello scenario peggiore (-20% di export) le perdite potrebbero raggiungere 1,3 miliardi di euro. …",
-        "link": "https://www.gamberorosso.it/notizie/vino/verona-calo-export-vino-scenari/",
-        "pubDate": "2026-07-07T14:40:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Brook Shields sta guidando una rivolta contro il ristorante dei creatori di South Park",
-        "description": "C'è un ristorante storico a Denver che è stato rilevato anni fa dai creatori di South Park, e che ora sta facendo arrabbiare Brook Shields. \nL'articolo Brook Sh…",
+        "title": "Brooke Shields sta guidando una rivolta contro il ristorante dei creatori di South Park",
+        "description": "C'è un ristorante storico a Denver che è stato rilevato anni fa dai creatori di South Park, e che ora sta facendo arrabbiare Brook Shields. \nL'articolo Brooke S…",
         "link": "https://www.dissapore.com/notizie/brook-shields-sta-guidando-una-rivolta-contro-il-ristorante-dei-creatori-di-south-park/",
         "pubDate": "2026-07-07T13:53:19+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/casa-bonita-denver-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
@@ -484,24 +529,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Troppo rame in vigna: il biologico deve cambiare strada”. Podere Casanova sperimenta il combinato anolyte-zeolite",
-        "description": "Susanna Ponzin e Isidoro Rebatto hanno avviato una sperimentazione per ridurre drasticamente l’utilizzo di rame, perché come spiegano: \"Resta un metallo pesante…",
-        "link": "https://www.gamberorosso.it/notizie/vino/podere-casanova-viticoltura-biologica-sperimentazione-zeolite/",
-        "pubDate": "2026-07-07T10:15:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Il vino non si comunica in giacca e cravatta”. Parla la produttrice che riempie la cantina con dei concerti evento",
-        "description": "Federica Fina è produttrice a Marsala e presidente del Movimento del Turismo Sicilia. Oggi la cantina di famiglia fa 5 mila visitatori all’anno grazie anche al …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/federica-fina-enoturismo-cantina-marsala/",
-        "pubDate": "2026-07-07T09:05:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il prezzo del riso italiano cala, ma per noi che lo acquistiamo non cambia molto",
         "description": "Aumentano le importazioni dall'estero, perché il riso è più economico, ma si tratta soprattutto di dati di compravendita industriale. \nL'articolo Il prezzo del …",
         "link": "https://www.dissapore.com/notizie/il-prezzo-del-riso-italiano-cala-ma-per-noi-che-lo-acquistiamo-non-cambia-molto/",
@@ -515,33 +542,6 @@
         "description": "I crostini ai fegati di pollo, antipasto della tradizione italiana preparato oggi nelle cucine di casa e nelle trattorie regionali, tornano d’attualità per chi …",
         "link": "https://www.gustoblog.it/2026/07/07/crostini-ai-fegatini-di-pollo-il-sapore-autentico-della-tradizione-toscana/",
         "pubDate": "2026-07-07T06:05:12+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Un nuovo studio segnala che la cannabis potrebbe migliorarci la salute del fegato",
-        "description": "I test sui topi sembrano promettere che CBD e CBG - due molecole contenute nella cannabis - abbassino i livelli dei trigliceridi in chi ha il fegato grasso.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/un-nuovo-studio-segnala-che-la-cannabis-potrebbe-migliorarci-la-salute-del-fegato/",
-        "pubDate": "2026-07-07T06:01:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cbd-shop-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il volo può attendere: Ferrari apre a Fiumicino il nuovo Spazio Bollicine tra Tegamini e Trentodoc",
-        "description": "Grandi bollicine al calice, focacce e specialità regionali: Ferrari Trento torna all'aeroporto di Fiumicino con un nuovo spazio dedicato al gusto italiano…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/spazio-ferrari-fiumicino-aeroporto/",
-        "pubDate": "2026-07-06T18:22:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Allevamenti, arriva il piano Ue per gestire meglio i rischi",
-        "description": "La Commissione europea presenterà domani, a Bruxelles, la nuova strategia Ue per la filiera zootecnica per aiutare gli allevatori a gestire meglio i rischi lega…",
-        "link": "https://www.gustoblog.it/2026/07/06/allevamenti-arriva-il-piano-ue-per-gestire-meglio-i-rischi/",
-        "pubDate": "2026-07-06T18:05:31+00:00",
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
