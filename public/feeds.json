@@ -1,7 +1,79 @@
 {
-  "generated": "2026-07-09T15:10:34.699493+00:00",
+  "generated": "2026-07-09T19:46:40.241582+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Pizzaioli in cerca di tutele: la sfida per un futuro più sicuro",
+        "description": "I pizzaioli italiani e gli operatori del settore hanno chiesto, martedì 7 luglio 2026 a Roma, durante la seconda edizione di Pizza Convention alle Officine Farn…",
+        "link": "https://www.gustoblog.it/2026/07/09/pizzaioli-in-cerca-di-tutele-la-sfida-per-un-futuro-piu-sicuro/",
+        "pubDate": "2026-07-09T18:05:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Quando il cioccolato incontra il sottozero: il gelatiere che ha conquistato la Chocolate Valley toscana",
+        "description": "Tra Pistoia e Prato, Lorenzo Domeneghini ha portato la cultura del cioccolato dentro una gelateria contemporanea, costruita su precisione tecnica e materie prim…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/olmechi-cioccolato-gelato-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-07-09T17:51:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Siamo andati nel ristorante di pesce di Valter Lavitola: ecco come abbiamo mangiato",
+        "description": "Negli ultimi giorni il nome dell'ex faccendiere è tornato al centro della cronaca. Siamo entrati nel suo ristorante romano - dove c'era anche lui - per capire c…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/ristorante-valter-lavitola-roma-come-si-mangia/",
+        "pubDate": "2026-07-09T16:34:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Il vino non può più aspettare: se la filiera non risponde andiamo soli”. L’ultimatum Uiv per fermare il crollo prezzi",
+        "description": "Il segretario generale Paolo Castelletti spiega perché la sovrapproduzione sta portando verso il basso il valore del vino: \"La quantità ci frega\". Entro fine lu…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tavolo-vino-appello-unione-italiana-vini-contro-svalutazione/",
+        "pubDate": "2026-07-09T16:08:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Orecchiette con le cime di rapa, il sapore autentico della Puglia",
+        "description": "Le orecchiette con le rape, piatto simbolo della cucina pugliese, tornano sulle tavole italiane oggi, 9 luglio 2026, come ricetta semplice e domestica, preparat…",
+        "link": "https://www.gustoblog.it/2026/07/09/orecchiette-con-le-cime-di-rapa-il-sapore-autentico-della-puglia/",
+        "pubDate": "2026-07-09T16:03:27+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Zara Home: una collezione di stoviglie, biancheria e bicchieri perfetti per una Tavola estiva fresca ed elegante",
+        "description": "La nuova selezione Zara Home punta su materiali certificati, lavorazioni artigianali e dettagli ispirati alla tradizione mediterranea per apparecchiare con eleg…",
+        "link": "https://www.stylosophy.it/articolo/zara-home-collezione-di-stoviglie-biancheria-e-bicchieri-una-tavola-estiva/252546/",
+        "pubDate": "2026-07-09T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Vinitaly and the City raddoppia in Calabria: le tappe da non perdere a luglio e agosto",
+        "description": "Sibari e Reggio Calabria ospiteranno degustazioni, talk e momenti di confronto con i produttori, per far conoscere al pubblico i vini da vitigni autoctoni regio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-and-the-city-2026-sibari-reggio-calabria/",
+        "pubDate": "2026-07-09T15:39:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Matilde Gioli e quel vestito bianco che ci meritiamo di sfoggiare anche noi per tutta l’estate",
+        "description": "Dici estate e in automatico pensi a capi freschi dal fit rilassato, declinati su tessuti leggeri, come il lino e il cotone, e su nuance chiare. Ma, se c&#8217;è…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/vestito-bianco-abito-midi-matilde-gioli-borsa-valextra-look-chic-rimini-italian-global-series-festival-986104",
+        "pubDate": "2026-07-09T14:22:36+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/matilde-gioli-getty.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Un’università americana invita a mangiare la carne anche quando è diventata marrone",
         "description": "Quanto dura la carne? E possiamo ancora mangiarla quando ha cambiato il suo colore rosso? Secondo dei ricercatori di un'università americana, sì, e risparmierem…",
@@ -75,6 +147,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Charlize Theron ci ricorda che il blazer è un alleato imprescindibile del guardaroba femminile (anche a 50 anni)",
+        "description": "Due giorni fa a Parigi, mentre Chanel e Armani Privé presentavano le loro collezioni Haute Couture, nella Ville Lumiére andava in scena anche il photocall di “T…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/blazer-donne-over-50-anni-charlize-theron-the-odissey-saldo-gessati-eleganti-monopetto-doppiopetto-985965",
+        "pubDate": "2026-07-09T09:45:16+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Blazer_donne_over_50.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Viaggio in Sicilia: il progetto diffuso di arte contemporanea della cantina Planeta vince il premio Cultura + Impresa",
         "description": "L'azienda siciliana in questo 2026 ha chiamato in causa la nota artista contemporanea Monira Al Qadiri che, con l'opera Falconeri, proponendo una riflessione su…",
         "link": "https://www.gamberorosso.it/notizie/vino/viaggio-sicilia-progetto-arte-contemporanea-planeta-premio-cultura-impresa/",
@@ -93,15 +174,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Perché la sfogliatella napoletana è fatta così: i segreti che pochi conoscono",
-        "description": "Dai conventi della Costiera Amalfitana ai laboratori storici di Napoli, passando per Pintauro e Carraturo: come è nato il dolce simbolo della città, perché esis…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/segreti-sfogliatella-napoletana-riccia-frolla/",
-        "pubDate": "2026-07-09T09:22:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La Skincare effetto freddo perfetta per l’Estate: i migliori prodotti viso",
         "description": "Come combattere il caldo? Con la skincare effetto freddo, dall'azione rinfrescante e rigenerante. Ecco i prodotti più validi del momento da non perdere...…",
         "link": "https://www.stylosophy.it/articolo/la-skincare-effetto-freddo-perfetta-per-lestate-i-migliori-prodotti-viso/252524/",
@@ -109,81 +181,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Le 6 migliori gelaterie artigianali del Friuli Venezia Giulia del 2026",
-        "description": "Dove mangiare un ottimo gelato in Friuli Venezia Giulia nel 2026, una piccola classifica dedicata, tra artigiani presenti nella selezione nazionale di Dissapore…",
-        "link": "https://www.dissapore.com/locali/le-6-migliori-gelaterie-artigianali-del-friuli-venezia-giulia-del-2026/",
-        "pubDate": "2026-07-09T07:15:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/Fiore-di-latte-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Minestra al farro: il comfort food rustico che scalda la tavola",
-        "description": "La minestra al farro, piatto della cucina italiana legato alla tradizione contadina, si prepara oggi nelle case e nelle trattorie soprattutto nei mesi freddi, c…",
-        "link": "https://www.gustoblog.it/2026/07/09/minestra-al-farro-il-comfort-food-rustico-che-scalda-la-tavola/",
-        "pubDate": "2026-07-09T06:03:15+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Che cos’è il nocattolo, il dolce siciliano a forma di fiore nato nelle cucine dei baroni",
-        "description": "Mandorle, miele, cannella e una caratteristica forma a fiore: il nocattolo è il dolce simbolo di Nicosia, nell'entroterra siciliano. Nato, secondo la tradizione…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/nocattolo-dolce-siciliano-nicosia-storia/",
-        "pubDate": "2026-07-09T05:36:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fichi di settembre e Bavaria Blu: la ricetta degli “uccelletti scappati” firmata dallo chef Riccardo De Pra",
-        "description": "Settembre è il periodo dei fichi maturi, frutti simbolo del passaggio dall&#8217;estate all&#8217;autunno. È in questa fase della stagione che lo chef stellato …",
-        "link": "https://www.winemag.it/fichi-di-settembre-e-bavaria-blu-la-ricetta-degli-uccelletti-scappati-firmata-dallo-chef-riccardo-de-pra/",
-        "pubDate": "2026-07-09T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dopo il 24 luglio negli Usa possibili nuovi dazi al 15%. Futuri scenari (e consumi di vino) nell’America di Trump",
-        "description": "Dall'assemblea Uiv, Alfredo Conte spiega cosa accadrà allo scadere del regime tariffario temporaneo, in un contesto in cui anche il mercato americano è profonda…",
-        "link": "https://www.gamberorosso.it/notizie/vino/nuovi-dazi-usa-consumi-vino-luglio-2026/",
-        "pubDate": "2026-07-08T18:17:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ue e Messico, via libera al nuovo accordo che rafforza il partenariato",
-        "description": "Il Parlamento europeo ha approvato oggi a Strasburgo i due nuovi accordi tra Unione europea e Messico, pensati per rafforzare i legami politici e ampliare gli s…",
-        "link": "https://www.gustoblog.it/2026/07/08/ue-e-messico-via-libera-al-nuovo-accordo-che-rafforza-il-partenariato/",
-        "pubDate": "2026-07-08T18:04:43+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Zendaya lascia tutti senza fiato sul red carpet della première del film Odissea con una creazione iconica firmata Schiaparelli",
-        "description": "Ecco che cosa ha indossato Zendaya durante la première del film Odissea a Londra.…",
-        "link": "https://www.stylosophy.it/articolo/zendaya-lascia-tutti-senza-fiato-sul-red-carpet-della-premiere-del-film-odissea-con-una-creazione-iconica-firmata-schiaparelli/252521/",
-        "pubDate": "2026-07-08T16:15:00+00:00",
+        "title": "Zara Home: una collezione di stoviglie, biancheria e bicchieri perfetti per una Tavola estiva fresca ed elegante",
+        "description": "La nuova selezione Zara Home punta su materiali certificati, lavorazioni artigianali e dettagli ispirati alla tradizione mediterranea per apparecchiare con eleg…",
+        "link": "https://www.stylosophy.it/articolo/zara-home-collezione-di-stoviglie-biancheria-e-bicchieri-una-tavola-estiva/252546/",
+        "pubDate": "2026-07-09T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Lagane e ceci, il comfort food della tradizione che conquista tutti",
-        "description": "Le lagane e ceci, piatto della tradizione italiana preparato soprattutto nelle cucine del Sud, tornano sulle tavole di casa oggi, 8 luglio 2026, come ricetta po…",
-        "link": "https://www.gustoblog.it/2026/07/08/lagane-e-ceci-il-comfort-food-della-tradizione-che-conquista-tutti/",
-        "pubDate": "2026-07-08T16:03:15+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      }
-    ],
-    "moda": [
+        "title": "Matilde Gioli e quel vestito bianco che ci meritiamo di sfoggiare anche noi per tutta l’estate",
+        "description": "Dici estate e in automatico pensi a capi freschi dal fit rilassato, declinati su tessuti leggeri, come il lino e il cotone, e su nuance chiare. Ma, se c&#8217;è…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/vestito-bianco-abito-midi-matilde-gioli-borsa-valextra-look-chic-rimini-italian-global-series-festival-986104",
+        "pubDate": "2026-07-09T14:22:36+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/matilde-gioli-getty.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Georgina Rodriguez vola a Miami con la sua borsa super costosa: ecco di quale si tratta!",
         "description": "Georgina Rodriguez sfoggia a Miami la sua borsa super costosa con un look elegante e raffinato: qui per i dettagli.…",
@@ -203,6 +221,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Charlize Theron ci ricorda che il blazer è un alleato imprescindibile del guardaroba femminile (anche a 50 anni)",
+        "description": "Due giorni fa a Parigi, mentre Chanel e Armani Privé presentavano le loro collezioni Haute Couture, nella Ville Lumiére andava in scena anche il photocall di “T…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/blazer-donne-over-50-anni-charlize-theron-the-odissey-saldo-gessati-eleganti-monopetto-doppiopetto-985965",
+        "pubDate": "2026-07-09T09:45:16+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Blazer_donne_over_50.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "La Skincare effetto freddo perfetta per l’Estate: i migliori prodotti viso",
         "description": "Come combattere il caldo? Con la skincare effetto freddo, dall'azione rinfrescante e rigenerante. Ecco i prodotti più validi del momento da non perdere...…",
         "link": "https://www.stylosophy.it/articolo/la-skincare-effetto-freddo-perfetta-per-lestate-i-migliori-prodotti-viso/252524/",
@@ -210,6 +237,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Stanche dei soliti copricostumi? Questi sono gli abiti freschi e chic da indossare (sì, anche in spiaggia)",
+        "description": "Arriva l’estate e puntualmente, oltre a rinnovare la nostra collezione di bikini, ci viene voglia di scegliere anche dei nuovi copricostumi da portare con noi i…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-freschi-chic-spiaggia-caftani-pareo-crochet-mini-dress-uncinetto-lungo-estate-donna-985327",
+        "pubDate": "2026-07-09T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_abiti_spiaggia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Zendaya lascia tutti senza fiato sul red carpet della première del film Odissea con una creazione iconica firmata Schiaparelli",
@@ -327,45 +363,63 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/ok-desk-.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Elle Woods, l’iconica protagonista de “La rivincita delle bionde”, è tornata e questi sono 7 abiti rosa per l’estate che siamo sicure approverebbe!",
-        "description": "Uno dei personaggi più iconici degli anni Duemila, reso immortale da una strabiliante Reese Witherspoon nel cult del 2001 La rivincita delle bionde, è ufficialm…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/elle-woods-la-rivincita-delle-bionde-prequel-prime-video-serie-tv-reese-witherspoon-vestiti-rosa-985325",
-        "pubDate": "2026-07-07T12:46:27+00:00",
-        "image": "https://www.grazia.it/content/uploads/2021/01/la-rivincita-delle-bionde-evidenza.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Estate 2026: 5 destinazioni perfette per fuggire dal caldo",
-        "description": "Sono queste le destinazioni ideali per scappare dal caldo estivo e respirare una piacevole aria fresca. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/estate-2026-5-destinazioni-perfette-per-fuggire-dal-caldo/252477/",
-        "pubDate": "2026-07-07T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Elena Sofia Ricci sfoggia il completo perfetto da comprare ora (approfittando dei saldi) e sfruttare anche a Settembre",
-        "description": "Ma quanto sono chic i completi sartoriali in stile manlike? Tantissimo. E a darcene l’ennesima conferma è Elena Sofia Ricci, che ha incantato la riviera romagno…",
-        "link": "https://www.grazia.it/moda/celebrity-style/elena-sofia-ricci-completo-max-mara-tailleur-gilet-pantaloni-larghi-da-comprare-in-saldo-e-sfruttare-a-settembreapprofittando-dei-saldi-e-sfruttare-anche-a-settembre-global-series-2026-985169",
-        "pubDate": "2026-07-07T10:27:12+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/elena-sofia-ricci-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Come indossare la camicia bianca in modo super chic? Con gonna midi e sandali mule, come Deva Cassel in front row da Dior",
-        "description": "Già da un paio d’anni è una presenza fissa alle sfilate parigine e anche ieri l’abbiamo vista da Dior per assistere, nella cornice del Musée Rodin di Parigi, al…",
-        "link": "https://www.grazia.it/moda/get-the-look/camicia-bianca-come-indossare-con-gonna-midi-sandali-look-deva-cassel-front-row-dior-monica-bellucci-figlia-get-the-look-985182",
-        "pubDate": "2026-07-07T09:56:44+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Camicia_bianca.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Pizzaioli in cerca di tutele: la sfida per un futuro più sicuro",
+        "description": "I pizzaioli italiani e gli operatori del settore hanno chiesto, martedì 7 luglio 2026 a Roma, durante la seconda edizione di Pizza Convention alle Officine Farn…",
+        "link": "https://www.gustoblog.it/2026/07/09/pizzaioli-in-cerca-di-tutele-la-sfida-per-un-futuro-piu-sicuro/",
+        "pubDate": "2026-07-09T18:05:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Quando il cioccolato incontra il sottozero: il gelatiere che ha conquistato la Chocolate Valley toscana",
+        "description": "Tra Pistoia e Prato, Lorenzo Domeneghini ha portato la cultura del cioccolato dentro una gelateria contemporanea, costruita su precisione tecnica e materie prim…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/olmechi-cioccolato-gelato-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-07-09T17:51:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Siamo andati nel ristorante di pesce di Valter Lavitola: ecco come abbiamo mangiato",
+        "description": "Negli ultimi giorni il nome dell'ex faccendiere è tornato al centro della cronaca. Siamo entrati nel suo ristorante romano - dove c'era anche lui - per capire c…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/ristorante-valter-lavitola-roma-come-si-mangia/",
+        "pubDate": "2026-07-09T16:34:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Il vino non può più aspettare: se la filiera non risponde andiamo soli”. L’ultimatum Uiv per fermare il crollo prezzi",
+        "description": "Il segretario generale Paolo Castelletti spiega perché la sovrapproduzione sta portando verso il basso il valore del vino: \"La quantità ci frega\". Entro fine lu…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tavolo-vino-appello-unione-italiana-vini-contro-svalutazione/",
+        "pubDate": "2026-07-09T16:08:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Orecchiette con le cime di rapa, il sapore autentico della Puglia",
+        "description": "Le orecchiette con le rape, piatto simbolo della cucina pugliese, tornano sulle tavole italiane oggi, 9 luglio 2026, come ricetta semplice e domestica, preparat…",
+        "link": "https://www.gustoblog.it/2026/07/09/orecchiette-con-le-cime-di-rapa-il-sapore-autentico-della-puglia/",
+        "pubDate": "2026-07-09T16:03:27+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Vinitaly and the City raddoppia in Calabria: le tappe da non perdere a luglio e agosto",
+        "description": "Sibari e Reggio Calabria ospiteranno degustazioni, talk e momenti di confronto con i produttori, per far conoscere al pubblico i vini da vitigni autoctoni regio…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vinitaly-and-the-city-2026-sibari-reggio-calabria/",
+        "pubDate": "2026-07-09T15:39:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Un’università americana invita a mangiare la carne anche quando è diventata marrone",
         "description": "Quanto dura la carne? E possiamo ancora mangiarla quando ha cambiato il suo colore rosso? Secondo dei ricercatori di un'università americana, sì, e risparmierem…",
@@ -439,15 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Perché la sfogliatella napoletana è fatta così: i segreti che pochi conoscono",
-        "description": "Dai conventi della Costiera Amalfitana ai laboratori storici di Napoli, passando per Pintauro e Carraturo: come è nato il dolce simbolo della città, perché esis…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/segreti-sfogliatella-napoletana-riccia-frolla/",
-        "pubDate": "2026-07-09T09:22:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Le 6 migliori gelaterie artigianali del Friuli Venezia Giulia del 2026",
         "description": "Dove mangiare un ottimo gelato in Friuli Venezia Giulia nel 2026, una piccola classifica dedicata, tra artigiani presenti nella selezione nazionale di Dissapore…",
         "link": "https://www.dissapore.com/locali/le-6-migliori-gelaterie-artigianali-del-friuli-venezia-giulia-del-2026/",
@@ -466,15 +511,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Che cos’è il nocattolo, il dolce siciliano a forma di fiore nato nelle cucine dei baroni",
-        "description": "Mandorle, miele, cannella e una caratteristica forma a fiore: il nocattolo è il dolce simbolo di Nicosia, nell'entroterra siciliano. Nato, secondo la tradizione…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/nocattolo-dolce-siciliano-nicosia-storia/",
-        "pubDate": "2026-07-09T05:36:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Fichi di settembre e Bavaria Blu: la ricetta degli “uccelletti scappati” firmata dallo chef Riccardo De Pra",
         "description": "Settembre è il periodo dei fichi maturi, frutti simbolo del passaggio dall&#8217;estate all&#8217;autunno. È in questa fase della stagione che lo chef stellato …",
         "link": "https://www.winemag.it/fichi-di-settembre-e-bavaria-blu-la-ricetta-degli-uccelletti-scappati-firmata-dallo-chef-riccardo-de-pra/",
@@ -482,15 +518,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Dopo il 24 luglio negli Usa possibili nuovi dazi al 15%. Futuri scenari (e consumi di vino) nell’America di Trump",
-        "description": "Dall'assemblea Uiv, Alfredo Conte spiega cosa accadrà allo scadere del regime tariffario temporaneo, in un contesto in cui anche il mercato americano è profonda…",
-        "link": "https://www.gamberorosso.it/notizie/vino/nuovi-dazi-usa-consumi-vino-luglio-2026/",
-        "pubDate": "2026-07-08T18:17:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Ue e Messico, via libera al nuovo accordo che rafforza il partenariato",
@@ -511,38 +538,11 @@
         "source": "Gustoblog"
       },
       {
-        "title": "È morto Nando Buonocore, il gelatiere delle code infinite a Capri",
-        "description": "Con la sua gelateria, premiata dal Gambero Rosso, aveva trasformato una piccola attività di famiglia in uno dei simboli gastronomici di Capri. Celebri le cialde…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-nando-buonocore-gelateria-capri/",
-        "pubDate": "2026-07-08T14:41:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Terra Madre 2026 sarà come lo ha voluto Carlin Petrini, per le strade di Torino",
         "description": "L'edizione 2026 Terra Madre - Salone del Gusto realizzerà la visione di Petrini di una manifestazione in città e da vivere a piedi: l'appuntamento è a Torino da…",
         "link": "https://www.dissapore.com/eventi-enogastronomici/terra-madre-2026-sara-come-lo-ha-voluto-carlin-petrini-per-le-strade-di-torino/",
         "pubDate": "2026-07-08T14:11:31+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/terra-madre-stand.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa c’è da pensare di “Taste of Italy”, nuovo cooking show di Antonino Cannavacciuolo",
-        "description": "Arriva un nuovo cooking show su Sky: protagonisti sono Antonino Cannavacciuolo, Chiara Pavan e Anna Zhang. \nL'articolo Cosa c&#8217;è da pensare di &#8220;Taste…",
-        "link": "https://www.dissapore.com/tv/cosa-ce-da-pensare-di-taste-of-italy-nuovo-cooking-show-di-antonino-cannavacciuolo/",
-        "pubDate": "2026-07-08T11:30:53+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/PT7_MYSTERY-GREEN_3647.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nei supermercati serviranno frigoriferi resistenti ai cambiamenti climatici",
-        "description": "LA GDO sta affrontando la crisi climatica, e i frigoriferi sono una delle questioni più complicate.\nL'articolo Nei supermercati serviranno frigoriferi resistent…",
-        "link": "https://www.dissapore.com/notizie/nei-supermercati-serviranno-frigoriferi-resistenti-ai-cambiamenti-climatici/",
-        "pubDate": "2026-07-08T10:14:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/plastica-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
