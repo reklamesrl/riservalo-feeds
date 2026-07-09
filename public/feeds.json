@@ -1,7 +1,79 @@
 {
-  "generated": "2026-07-09T09:40:31.618776+00:00",
+  "generated": "2026-07-09T15:10:34.699493+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Un’università americana invita a mangiare la carne anche quando è diventata marrone",
+        "description": "Quanto dura la carne? E possiamo ancora mangiarla quando ha cambiato il suo colore rosso? Secondo dei ricercatori di un'università americana, sì, e risparmierem…",
+        "link": "https://www.dissapore.com/notizie/ununiversita-americana-invita-a-mangiare-la-carne-anche-quando-e-diventata-marrone/",
+        "pubDate": "2026-07-09T14:20:05+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Tagliare la produzione di vino? Non serve. Bisogna investire sulla domanda”. Federvini si smarca",
+        "description": "Il vice della Federazione, Piero Mastroberardino, coordinatore del Tavolo vino, dice di no allo stop ai nuovi vigneti richiesto dalle altre sigle di settore: \"I…",
+        "link": "https://www.gamberorosso.it/notizie/vino/sovrapproduzione-taglio-vino-intervista-federvini-pietro-mastroberardino/",
+        "pubDate": "2026-07-09T13:59:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Georgina Rodriguez vola a Miami con la sua borsa super costosa: ecco di quale si tratta!",
+        "description": "Georgina Rodriguez sfoggia a Miami la sua borsa super costosa con un look elegante e raffinato: qui per i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/georgina-rodriguez-vola-a-miami-con-la-sua-borsa-super-costosa-ecco-di-quale-si-tratta/252540/",
+        "pubDate": "2026-07-09T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Vent’anni fa mangiavamo tutti la stessa cosa davanti alla finale dei Mondiali",
+        "description": "Pizza al taglio, birra ghiacciata, Coca-Cola, panini, Maxibon e cene improvvisate: abbiamo chiesto alla redazione del Gambero Rosso cosa c'era in tavola la nott…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/venti-anni-fa-cosa-mangiavamo-finale-mondiali-2006/",
+        "pubDate": "2026-07-09T11:03:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutto su Sperlinga, un borgo siciliano segreto dove scappare dal caldo estivo",
+        "description": "Alla scoperta di Sperlinga, un delizioso borgo siciliano lontano dai radar e dal caldo  estivo. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/tutto-su-sperlinga-un-borgo-siciliano-segreto-dove-scappare-dal-caldo-estivo/252534/",
+        "pubDate": "2026-07-09T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Perché l’insalata di riso batte sempre la pasta fredda",
+        "description": "Non c'è storia: il vero re dei pranzi al mare resta l'insalata di riso. Colorata, abbondante e sempre diversa, è la protagonista indiscussa dell'estate italiana…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/insalata-di-riso-pasta-fredda-condiriso/",
+        "pubDate": "2026-07-09T10:43:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Differenza tra allergie e intolleranze: cosa insegna il caso Aldo Montano",
+        "description": "Abbiamo chiesto alla dottoressa Antonella Robbiani, specialista in allergologia e pneumologia del San Camillo di Milano cosa sono allergie e intolleranze e come…",
+        "link": "https://www.dissapore.com/notizie/differenza-tra-allergie-e-intolleranze-cosa-insegna-il-caso-aldo-montano/",
+        "pubDate": "2026-07-09T10:16:51+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/04/pasyq-ai-4-formaggi-ricetta.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La trattoria di Cagliari dove tutti fanno la fila e anche la fregula va prenotata",
+        "description": "Da Balena si mangia quasi solo il pesce del giorno, cucinato come a casa. Pasta e fregula si chiedono in anticipo, il vino è quello della casa e la fila raccont…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/trattoria-cagliari-pesce-cagliaritani-fila/",
+        "pubDate": "2026-07-09T09:59:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Viaggio in Sicilia: il progetto diffuso di arte contemporanea della cantina Planeta vince il premio Cultura + Impresa",
         "description": "L'azienda siciliana in questo 2026 ha chiamato in causa la nota artista contemporanea Monira Al Qadiri che, con l'opera Falconeri, proponendo una riflessione su…",
@@ -109,81 +181,27 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Tavolino, Cassapanca e Seduta, il mobile multitasking IKEA perfetto per interni ed esterni",
-        "description": "Compatto, resistente e progettato anche per gli spazi esterni, questo contenitore della collezione NÄMMARÖ unisce praticità e design diventando anche tavolino o…",
-        "link": "https://www.stylosophy.it/articolo/tavolino-cassapanca-e-seduta-il-mobile-multitasking-ikea/252516/",
-        "pubDate": "2026-07-08T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "È morto Nando Buonocore, il gelatiere delle code infinite a Capri",
-        "description": "Con la sua gelateria, premiata dal Gambero Rosso, aveva trasformato una piccola attività di famiglia in uno dei simboli gastronomici di Capri. Celebri le cialde…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-nando-buonocore-gelateria-capri/",
-        "pubDate": "2026-07-08T14:41:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Balenciaga Haute Couture: 5 highlights del debutto di Pierpaolo Piccioli",
-        "description": "La Balenciaga Haute Couture di Pierpaolo Piccioli rappresenta uno dei debutti più attesi della stagione e segna l&#8217;inizio di una nuova fase per la maison p…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/balenciaga-sfilata-haute-couture-debutto-pierpaolo-piccioli-highlights-985769",
-        "pubDate": "2026-07-08T14:12:45+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/ok-desk-3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Terra Madre 2026 sarà come lo ha voluto Carlin Petrini, per le strade di Torino",
-        "description": "L'edizione 2026 Terra Madre - Salone del Gusto realizzerà la visione di Petrini di una manifestazione in città e da vivere a piedi: l'appuntamento è a Torino da…",
-        "link": "https://www.dissapore.com/eventi-enogastronomici/terra-madre-2026-sara-come-lo-ha-voluto-carlin-petrini-per-le-strade-di-torino/",
-        "pubDate": "2026-07-08T14:11:31+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/terra-madre-stand.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Milano cambia il food delivery: ecco cosa succede agli ordini nelle ore più calde",
-        "description": "Dal 7 luglio al 23 settembre il Comune chiede alle piattaforme di ridurre o sospendere gli ordini tra le 12.30 e le 16 quando il rischio caldo è elevato. L'obie…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/milano-stop-consegne-food-delivery-caldo-rider/",
-        "pubDate": "2026-07-08T13:26:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cosa c’è da pensare di “Taste of Italy”, nuovo cooking show di Antonino Cannavacciuolo",
-        "description": "Arriva un nuovo cooking show su Sky: protagonisti sono Antonino Cannavacciuolo, Chiara Pavan e Anna Zhang. \nL'articolo Cosa c&#8217;è da pensare di &#8220;Taste…",
-        "link": "https://www.dissapore.com/tv/cosa-ce-da-pensare-di-taste-of-italy-nuovo-cooking-show-di-antonino-cannavacciuolo/",
-        "pubDate": "2026-07-08T11:30:53+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/PT7_MYSTERY-GREEN_3647.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Sicilia, 4 borghi di mare fuori dai radar da scoprire a Luglio",
-        "description": "Poco conosciuti e proprio per questo decisamente suggestivi, questi 4 borghi di mare della Sicilia sono la meta ideale per un'Estate autentica e indimenticabile…",
-        "link": "https://www.stylosophy.it/articolo/sicilia-4-borghi-di-mare-fuori-dai-radar-da-scoprire-a-luglio/252507/",
-        "pubDate": "2026-07-08T11:05:59+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Una bottiglia di vino su cinque oggi viene declassata: così crolla il valore”. L’allarme di Unione italiana vini",
-        "description": "Dalla sua assemblea nazionale, l'associazione vitivinicola torna a chiedere di fare scelte coraggiose per tagliare la produzione: \"L'immobilismo sta impattando …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/declassamenti-vino-allarme-assemblea-unione-italiana-vini/",
-        "pubDate": "2026-07-08T10:33:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Georgina Rodriguez vola a Miami con la sua borsa super costosa: ecco di quale si tratta!",
+        "description": "Georgina Rodriguez sfoggia a Miami la sua borsa super costosa con un look elegante e raffinato: qui per i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/georgina-rodriguez-vola-a-miami-con-la-sua-borsa-super-costosa-ecco-di-quale-si-tratta/252540/",
+        "pubDate": "2026-07-09T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Tutto su Sperlinga, un borgo siciliano segreto dove scappare dal caldo estivo",
+        "description": "Alla scoperta di Sperlinga, un delizioso borgo siciliano lontano dai radar e dal caldo  estivo. Da non perdere!…",
+        "link": "https://www.stylosophy.it/articolo/tutto-su-sperlinga-un-borgo-siciliano-segreto-dove-scappare-dal-caldo-estivo/252534/",
+        "pubDate": "2026-07-09T11:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "La Skincare effetto freddo perfetta per l’Estate: i migliori prodotti viso",
         "description": "Come combattere il caldo? Con la skincare effetto freddo, dall'azione rinfrescante e rigenerante. Ecco i prodotti più validi del momento da non perdere...…",
@@ -345,27 +363,63 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Camicia_bianca.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Macchie solari sul viso: la guida completa per prevenirle ed eliminarle",
-        "description": "Ecco 4 consigli fondamentali per prevenire ed eliminare le macchie solari sul viso. La guida completa!…",
-        "link": "https://www.stylosophy.it/articolo/macchie-solari-sul-viso-la-guida-completa-per-prevenirle-ed-eliminarle/252466/",
-        "pubDate": "2026-07-07T09:03:31+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Leroy Merlin firma Cadix: il Ventilatore di design che è anche Lampadario",
-        "description": "Cadix, il ventilatore da soffitto con pale retrattili che unisce design, luce LED e tecnologia smart.…",
-        "link": "https://www.stylosophy.it/articolo/leroy-merlin-firma-cadix-il-ventilatore-di-design-che-e-anche-lampadario/252449/",
-        "pubDate": "2026-07-06T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Un’università americana invita a mangiare la carne anche quando è diventata marrone",
+        "description": "Quanto dura la carne? E possiamo ancora mangiarla quando ha cambiato il suo colore rosso? Secondo dei ricercatori di un'università americana, sì, e risparmierem…",
+        "link": "https://www.dissapore.com/notizie/ununiversita-americana-invita-a-mangiare-la-carne-anche-quando-e-diventata-marrone/",
+        "pubDate": "2026-07-09T14:20:05+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Tagliare la produzione di vino? Non serve. Bisogna investire sulla domanda”. Federvini si smarca",
+        "description": "Il vice della Federazione, Piero Mastroberardino, coordinatore del Tavolo vino, dice di no allo stop ai nuovi vigneti richiesto dalle altre sigle di settore: \"I…",
+        "link": "https://www.gamberorosso.it/notizie/vino/sovrapproduzione-taglio-vino-intervista-federvini-pietro-mastroberardino/",
+        "pubDate": "2026-07-09T13:59:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vent’anni fa mangiavamo tutti la stessa cosa davanti alla finale dei Mondiali",
+        "description": "Pizza al taglio, birra ghiacciata, Coca-Cola, panini, Maxibon e cene improvvisate: abbiamo chiesto alla redazione del Gambero Rosso cosa c'era in tavola la nott…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/venti-anni-fa-cosa-mangiavamo-finale-mondiali-2006/",
+        "pubDate": "2026-07-09T11:03:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché l’insalata di riso batte sempre la pasta fredda",
+        "description": "Non c'è storia: il vero re dei pranzi al mare resta l'insalata di riso. Colorata, abbondante e sempre diversa, è la protagonista indiscussa dell'estate italiana…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/insalata-di-riso-pasta-fredda-condiriso/",
+        "pubDate": "2026-07-09T10:43:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Differenza tra allergie e intolleranze: cosa insegna il caso Aldo Montano",
+        "description": "Abbiamo chiesto alla dottoressa Antonella Robbiani, specialista in allergologia e pneumologia del San Camillo di Milano cosa sono allergie e intolleranze e come…",
+        "link": "https://www.dissapore.com/notizie/differenza-tra-allergie-e-intolleranze-cosa-insegna-il-caso-aldo-montano/",
+        "pubDate": "2026-07-09T10:16:51+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/04/pasyq-ai-4-formaggi-ricetta.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La trattoria di Cagliari dove tutti fanno la fila e anche la fregula va prenotata",
+        "description": "Da Balena si mangia quasi solo il pesce del giorno, cucinato come a casa. Pasta e fregula si chiedono in anticipo, il vino è quello della casa e la fila raccont…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/trattoria-cagliari-pesce-cagliaritani-fila/",
+        "pubDate": "2026-07-09T09:59:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Viaggio in Sicilia: il progetto diffuso di arte contemporanea della cantina Planeta vince il premio Cultura + Impresa",
         "description": "L'azienda siciliana in questo 2026 ha chiamato in causa la nota artista contemporanea Monira Al Qadiri che, con l'opera Falconeri, proponendo una riflessione su…",
@@ -475,15 +529,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "A Milano cambia il food delivery: ecco cosa succede agli ordini nelle ore più calde",
-        "description": "Dal 7 luglio al 23 settembre il Comune chiede alle piattaforme di ridurre o sospendere gli ordini tra le 12.30 e le 16 quando il rischio caldo è elevato. L'obie…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/milano-stop-consegne-food-delivery-caldo-rider/",
-        "pubDate": "2026-07-08T13:26:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cosa c’è da pensare di “Taste of Italy”, nuovo cooking show di Antonino Cannavacciuolo",
         "description": "Arriva un nuovo cooking show su Sky: protagonisti sono Antonino Cannavacciuolo, Chiara Pavan e Anna Zhang. \nL'articolo Cosa c&#8217;è da pensare di &#8220;Taste…",
         "link": "https://www.dissapore.com/tv/cosa-ce-da-pensare-di-taste-of-italy-nuovo-cooking-show-di-antonino-cannavacciuolo/",
@@ -493,33 +538,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Una bottiglia di vino su cinque oggi viene declassata: così crolla il valore”. L’allarme di Unione italiana vini",
-        "description": "Dalla sua assemblea nazionale, l'associazione vitivinicola torna a chiedere di fare scelte coraggiose per tagliare la produzione: \"L'immobilismo sta impattando …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/declassamenti-vino-allarme-assemblea-unione-italiana-vini/",
-        "pubDate": "2026-07-08T10:33:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cos’è la Zampina di Sammichele di Bari, la salsiccia a spirale delle Murge senza maiale",
-        "description": "Nata sull'altopiano delle Murge, la zampina di Sammichele di Bari è una delle preparazioni più iconiche della Puglia. Si distingue da quasi tutte le altre salsi…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/zampina-sammichele-bari-salsiccia-igp-senza-maiale/",
-        "pubDate": "2026-07-08T10:31:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "È uno dei vini bianchi italiani più esportati al mondo, ma in Italia non si conosce abbastanza",
-        "description": "Per decenni è stato uno dei grandi bianchi italiani. Oggi esporta gran parte della produzione, mentre nel nostro Paese fatica ancora a trovare spazio. Eppure il…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/gavi-vino-bianco-piemontese-export-estero/",
-        "pubDate": "2026-07-08T10:28:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Nei supermercati serviranno frigoriferi resistenti ai cambiamenti climatici",
         "description": "LA GDO sta affrontando la crisi climatica, e i frigoriferi sono una delle questioni più complicate.\nL'articolo Nei supermercati serviranno frigoriferi resistent…",
         "link": "https://www.dissapore.com/notizie/nei-supermercati-serviranno-frigoriferi-resistenti-ai-cambiamenti-climatici/",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/plastica-supermercato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il gelato italiano ha bisogno di rappresentatività e definizioni: la parola a Marco Cavedagni",
-        "description": "Figura centrale e autorevole del mondo del gelato, Marco Cavedagni spiega la necessità di un'associazione forte e di una definizione realistica per il mondo del…",
-        "link": "https://www.dissapore.com/locali/il-gelato-italiano-ha-bisogno-di-rappresentativita-e-definizioni-la-parola-a-marco-cavedagni/",
-        "pubDate": "2026-07-08T08:06:08+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/04/gelato-artigianale-paolo-brunelli.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Insalata di crudo: freschezza e gusto in un piatto irresistibile",
-        "description": "A tavola, in Italia, l’insalata di crudo firmata da Carmelo Scuderi porta oggi al centro della cucina di mare un piatto semplice e diretto, preparato con calama…",
-        "link": "https://www.gustoblog.it/2026/07/08/insalata-di-crudo-freschezza-e-gusto-in-un-piatto-irresistibile/",
-        "pubDate": "2026-07-08T06:03:14+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
