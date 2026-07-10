@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-09T19:46:40.241582+00:00",
+  "generated": "2026-07-10T09:35:24.002456+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il mercato di Roma dove la spesa si fa ancora come trent’anni fa",
+        "description": "Niente bancarelle per turisti né street food da fotografare. A Ostia Levante c'è un mercato rionale dove si viene ancora per fare davvero la spesa, tra pesce fr…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-capo-passero-ostia/",
+        "pubDate": "2026-07-10T08:45:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Foresta Forno ha aperto in Alpago, ed è per davvero pane di comunità",
+        "description": "Un forno di montagna, gestito da una coppia con due robusti curricola alle spalle. Un progetto che non cede di un cm sui valori, e che tiene assieme tutti. Fore…",
+        "link": "https://www.dissapore.com/locali/foresta-forno-ha-aperto-in-alpago-ed-e-per-davvero-pane-di-comunita/",
+        "pubDate": "2026-07-10T07:06:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/il-pane-di-foresta-forno-2.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La forza delle virtù nella vita di ogni giorno",
+        "description": "A Teramo, in Abruzzo, le Virtù tornano ogni anno sulle tavole il 1° maggio, quando famiglie e trattorie preparano questa minestra ricca di legumi, verdure, past…",
+        "link": "https://www.gustoblog.it/2026/07/10/la-forza-delle-virtu-nella-vita-di-ogni-giorno/",
+        "pubDate": "2026-07-10T06:03:25+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Pizzaioli in cerca di tutele: la sfida per un futuro più sicuro",
         "description": "I pizzaioli italiani e gli operatori del settore hanno chiesto, martedì 7 luglio 2026 a Roma, durante la seconda edizione di Pizza Convention alle Officine Farn…",
@@ -154,33 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Blazer_donne_over_50.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Viaggio in Sicilia: il progetto diffuso di arte contemporanea della cantina Planeta vince il premio Cultura + Impresa",
-        "description": "L'azienda siciliana in questo 2026 ha chiamato in causa la nota artista contemporanea Monira Al Qadiri che, con l'opera Falconeri, proponendo una riflessione su…",
-        "link": "https://www.gamberorosso.it/notizie/vino/viaggio-sicilia-progetto-arte-contemporanea-planeta-premio-cultura-impresa/",
-        "pubDate": "2026-07-09T09:39:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "È il cervello a decidere la qualità del vino (molto prima del palato). Ecco come si attiva",
-        "description": "Il cervello ha imparato, per ripetute esposizioni, che certi abbinamenti \"stanno insieme\" e quando li ritrova non processa due segnali separati, li unifica in u…",
-        "link": "https://www.gamberorosso.it/notizie/vino/neuromarketing-percezione-qualita-vino/",
-        "pubDate": "2026-07-09T09:29:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La Skincare effetto freddo perfetta per l’Estate: i migliori prodotti viso",
-        "description": "Come combattere il caldo? Con la skincare effetto freddo, dall'azione rinfrescante e rigenerante. Ecco i prodotti più validi del momento da non perdere...…",
-        "link": "https://www.stylosophy.it/articolo/la-skincare-effetto-freddo-perfetta-per-lestate-i-migliori-prodotti-viso/252524/",
-        "pubDate": "2026-07-09T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Il mercato di Roma dove la spesa si fa ancora come trent’anni fa",
+        "description": "Niente bancarelle per turisti né street food da fotografare. A Ostia Levante c'è un mercato rionale dove si viene ancora per fare davvero la spesa, tra pesce fr…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-capo-passero-ostia/",
+        "pubDate": "2026-07-10T08:45:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Foresta Forno ha aperto in Alpago, ed è per davvero pane di comunità",
+        "description": "Un forno di montagna, gestito da una coppia con due robusti curricola alle spalle. Un progetto che non cede di un cm sui valori, e che tiene assieme tutti. Fore…",
+        "link": "https://www.dissapore.com/locali/foresta-forno-ha-aperto-in-alpago-ed-e-per-davvero-pane-di-comunita/",
+        "pubDate": "2026-07-10T07:06:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/il-pane-di-foresta-forno-2.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La forza delle virtù nella vita di ogni giorno",
+        "description": "A Teramo, in Abruzzo, le Virtù tornano ogni anno sulle tavole il 1° maggio, quando famiglie e trattorie preparano questa minestra ricca di legumi, verdure, past…",
+        "link": "https://www.gustoblog.it/2026/07/10/la-forza-delle-virtu-nella-vita-di-ogni-giorno/",
+        "pubDate": "2026-07-10T06:03:25+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "Pizzaioli in cerca di tutele: la sfida per un futuro più sicuro",
         "description": "I pizzaioli italiani e gli operatori del settore hanno chiesto, martedì 7 luglio 2026 a Roma, durante la seconda edizione di Pizza Convention alle Officine Farn…",
         "link": "https://www.gustoblog.it/2026/07/09/pizzaioli-in-cerca-di-tutele-la-sfida-per-un-futuro-piu-sicuro/",
@@ -484,15 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "È il cervello a decidere la qualità del vino (molto prima del palato). Ecco come si attiva",
-        "description": "Il cervello ha imparato, per ripetute esposizioni, che certi abbinamenti \"stanno insieme\" e quando li ritrova non processa due segnali separati, li unifica in u…",
-        "link": "https://www.gamberorosso.it/notizie/vino/neuromarketing-percezione-qualita-vino/",
-        "pubDate": "2026-07-09T09:29:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Le 6 migliori gelaterie artigianali del Friuli Venezia Giulia del 2026",
         "description": "Dove mangiare un ottimo gelato in Friuli Venezia Giulia nel 2026, una piccola classifica dedicata, tra artigiani presenti nella selezione nazionale di Dissapore…",
         "link": "https://www.dissapore.com/locali/le-6-migliori-gelaterie-artigianali-del-friuli-venezia-giulia-del-2026/",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Lagane e ceci, il comfort food della tradizione che conquista tutti",
-        "description": "Le lagane e ceci, piatto della tradizione italiana preparato soprattutto nelle cucine del Sud, tornano sulle tavole di casa oggi, 8 luglio 2026, come ricetta po…",
-        "link": "https://www.gustoblog.it/2026/07/08/lagane-e-ceci-il-comfort-food-della-tradizione-che-conquista-tutti/",
-        "pubDate": "2026-07-08T16:03:15+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Terra Madre 2026 sarà come lo ha voluto Carlin Petrini, per le strade di Torino",
-        "description": "L'edizione 2026 Terra Madre - Salone del Gusto realizzerà la visione di Petrini di una manifestazione in città e da vivere a piedi: l'appuntamento è a Torino da…",
-        "link": "https://www.dissapore.com/eventi-enogastronomici/terra-madre-2026-sara-come-lo-ha-voluto-carlin-petrini-per-le-strade-di-torino/",
-        "pubDate": "2026-07-08T14:11:31+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/terra-madre-stand.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
