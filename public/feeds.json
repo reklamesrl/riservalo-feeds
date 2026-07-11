@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-10T19:27:09.230509+00:00",
+  "generated": "2026-07-11T07:56:22.061285+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Nella piazza più sottovalutata di Roma oggi si mangia e si beve bene",
+        "description": "Piazza Vittorio è diventata uno dei luoghi più vivi dell'estate romana: cinema all'aperto, vini naturali, chioschi, dj set e una comunità che ogni sera riempie …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/piazza-vittorio-estate-roma/",
+        "pubDate": "2026-07-11T07:47:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è la vastedda cu samucu, la focaccia siciliana con i fiori di sambuco",
+        "description": "Nata a Troina, sui Nebrodi, la vastedda cu samucu è una focaccia rustica preparata con tuma, salame, guanciale e fiori di sambuco. Una ricetta documentata da ol…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vastedda-cu-samucu-focaccia-siciliana-sambuco/",
+        "pubDate": "2026-07-11T07:22:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Zuppa di lenticchie cremosa: il comfort food sano e ricco di sapore",
+        "description": "A casa, nelle cucine italiane, la zuppa di lenticchie preparata con pancetta affumicata, verdure da soffritto e brodo vegetale torna in tavola soprattutto nei m…",
+        "link": "https://www.gustoblog.it/2026/07/11/zuppa-di-lenticchie-cremosa-il-comfort-food-sano-e-ricco-di-sapore/",
+        "pubDate": "2026-07-11T06:02:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Nel vecchio bar di periferia si nasconde una delle migliori pasticcere vegane di Roma",
+        "description": "Al Caffè Colombo, nella periferia sud della città, Virginia Dattolo prepara croissant francesi, pain au chocolat e viennoiserie vegane senza metterle in vetrina…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caffe-colombo-cornetti-vegani-roma/",
+        "pubDate": "2026-07-11T04:50:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Cappero Igp di Pantelleria, la scienza in campo per proteggerlo dai parassiti",
         "description": "A Pantelleria, nel 2026, un progetto di ricerca finanziato dallo European Biological Control Laboratory punta a proteggere il cappero Igp dalla cimice Bagrada h…",
@@ -145,42 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/DESK-recap-haute-couture-fall-2026-2.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "È la perla della Corsica, un Borgo di mare dalla bellezza mozzafiato",
-        "description": "Mare cristallino, spiagge incontaminate e un centro storico mozzafiato: questo borgo della Corsica è la meta perfetta per l'Estate. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/e-la-perla-della-corsica-un-borgo-di-mare-dalla-bellezza-mozzafiato/252572/",
-        "pubDate": "2026-07-10T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Sull’Etna c’è uno chalet che sembra uscito dalle Alpi: qui il piatto simbolo non cambia da quasi 50 anni",
-        "description": "Tra piste da sci, colate laviche e boschi dell'Etna, Concetto e Paola gestiscono da quasi mezzo secolo lo chalet Monte Conca. Ogni giorno accolgono oltre cento …",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/monte-conca-etna-chalet-linguaglossa/",
-        "pubDate": "2026-07-10T10:45:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La paninoteca di Genova con oltre 150 panini dove da 80 anni ti chiedono: “Fame o voglia?”",
-        "description": "Sotto i portici di Sottoripa, Gran Ristoro prepara panini dal 1946. Oltre 150 farciture, ingredienti insoliti e una domanda diventata il simbolo del locale: «Fa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gran-ristoro-genova-paninoteca-sottoripa/",
-        "pubDate": "2026-07-10T10:14:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chi coltiva il grano duro in Italia quest’anno andrà in perdita",
-        "description": "Confagricoltura spiega le ragioni dei produttori: prezzo al quintale sottocosto, produzione interna troppo bassa, mancanza di accordi nazionali.\nL'articolo Chi …",
-        "link": "https://www.dissapore.com/notizie/chi-coltiva-il-grano-duro-in-italia-questanno-andra-in-perdita/",
-        "pubDate": "2026-07-10T09:54:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/produzione-di-pasta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Nella piazza più sottovalutata di Roma oggi si mangia e si beve bene",
+        "description": "Piazza Vittorio è diventata uno dei luoghi più vivi dell'estate romana: cinema all'aperto, vini naturali, chioschi, dj set e una comunità che ogni sera riempie …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/piazza-vittorio-estate-roma/",
+        "pubDate": "2026-07-11T07:47:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che cos’è la vastedda cu samucu, la focaccia siciliana con i fiori di sambuco",
+        "description": "Nata a Troina, sui Nebrodi, la vastedda cu samucu è una focaccia rustica preparata con tuma, salame, guanciale e fiori di sambuco. Una ricetta documentata da ol…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vastedda-cu-samucu-focaccia-siciliana-sambuco/",
+        "pubDate": "2026-07-11T07:22:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Zuppa di lenticchie cremosa: il comfort food sano e ricco di sapore",
+        "description": "A casa, nelle cucine italiane, la zuppa di lenticchie preparata con pancetta affumicata, verdure da soffritto e brodo vegetale torna in tavola soprattutto nei m…",
+        "link": "https://www.gustoblog.it/2026/07/11/zuppa-di-lenticchie-cremosa-il-comfort-food-sano-e-ricco-di-sapore/",
+        "pubDate": "2026-07-11T06:02:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Nel vecchio bar di periferia si nasconde una delle migliori pasticcere vegane di Roma",
+        "description": "Al Caffè Colombo, nella periferia sud della città, Virginia Dattolo prepara croissant francesi, pain au chocolat e viennoiserie vegane senza metterle in vetrina…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caffe-colombo-cornetti-vegani-roma/",
+        "pubDate": "2026-07-11T04:50:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Cappero Igp di Pantelleria, la scienza in campo per proteggerlo dai parassiti",
         "description": "A Pantelleria, nel 2026, un progetto di ricerca finanziato dallo European Biological Control Laboratory punta a proteggere il cappero Igp dalla cimice Bagrada h…",
         "link": "https://www.gustoblog.it/2026/07/10/cappero-igp-di-pantelleria-la-scienza-in-campo-per-proteggerlo-dai-parassiti/",
@@ -466,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "La paninoteca di Genova con oltre 150 panini dove da 80 anni ti chiedono: “Fame o voglia?”",
-        "description": "Sotto i portici di Sottoripa, Gran Ristoro prepara panini dal 1946. Oltre 150 farciture, ingredienti insoliti e una domanda diventata il simbolo del locale: «Fa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gran-ristoro-genova-paninoteca-sottoripa/",
-        "pubDate": "2026-07-10T10:14:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Chi coltiva il grano duro in Italia quest’anno andrà in perdita",
         "description": "Confagricoltura spiega le ragioni dei produttori: prezzo al quintale sottocosto, produzione interna troppo bassa, mancanza di accordi nazionali.\nL'articolo Chi …",
         "link": "https://www.dissapore.com/notizie/chi-coltiva-il-grano-duro-in-italia-questanno-andra-in-perdita/",
@@ -482,15 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/produzione-di-pasta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il mercato di Roma dove la spesa si fa ancora come trent’anni fa",
-        "description": "Niente bancarelle per turisti né street food da fotografare. A Ostia Levante c'è un mercato rionale dove si viene ancora per fare davvero la spesa, tra pesce fr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-capo-passero-ostia/",
-        "pubDate": "2026-07-10T08:45:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Foresta Forno ha aperto in Alpago, ed è per davvero pane di comunità",
@@ -520,15 +538,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Quando il cioccolato incontra il sottozero: il gelatiere che ha conquistato la Chocolate Valley toscana",
-        "description": "Tra Pistoia e Prato, Lorenzo Domeneghini ha portato la cultura del cioccolato dentro una gelateria contemporanea, costruita su precisione tecnica e materie prim…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/olmechi-cioccolato-gelato-nocciola-monferrato-agrimontana/",
-        "pubDate": "2026-07-09T17:51:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Orecchiette con le cime di rapa, il sapore autentico della Puglia",
         "description": "Le orecchiette con le rape, piatto simbolo della cucina pugliese, tornano sulle tavole italiane oggi, 9 luglio 2026, come ricetta semplice e domestica, preparat…",
         "link": "https://www.gustoblog.it/2026/07/09/orecchiette-con-le-cime-di-rapa-il-sapore-autentico-della-puglia/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Un’università americana invita a mangiare la carne anche quando è diventata marrone",
-        "description": "Quanto dura la carne? E possiamo ancora mangiarla quando ha cambiato il suo colore rosso? Secondo dei ricercatori di un'università americana, sì, e risparmierem…",
-        "link": "https://www.dissapore.com/notizie/ununiversita-americana-invita-a-mangiare-la-carne-anche-quando-e-diventata-marrone/",
-        "pubDate": "2026-07-09T14:20:05+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
