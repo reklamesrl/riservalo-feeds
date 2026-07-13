@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-12T19:06:13.283778+00:00",
+  "generated": "2026-07-13T09:27:27.851823+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Piacere, Barbera. Sì, ma quale? La pazza estate del rosso piemontese",
+        "description": "Barbera sì, ma quale? Quella che riempie le sere d’estate dell’Astigiano con il Barbera Summer Festival 2026? Quella che, già Docg, si è fatta un Consorzio tutt…",
+        "link": "https://www.winemag.it/piacere-barbera-si-ma-quale-la-pazza-estate-del-rosso-piemontese/",
+        "pubDate": "2026-07-13T09:23:50+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I migliori oli corpo con glitter per un estate super glow",
+        "description": "Luminosi, femminili e super sexy, gli oli glitter sono il must dell'Estate, perfetti per aggiungere un tocco glow alla pelle. Ecco i più amati del momento da no…",
+        "link": "https://www.stylosophy.it/articolo/i-migliori-oli-corpo-con-glitter-per-un-estate-super-glow/252641/",
+        "pubDate": "2026-07-13T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Spaghetti all’abruzzese: il gusto autentico della tradizione",
+        "description": "Gli spaghetti all’abruzzese tornano al centro della cucina di casa oggi, in Italia, come piatto semplice della tradizione regionale preparato con pancetta, cipo…",
+        "link": "https://www.gustoblog.it/2026/07/13/spaghetti-allabruzzese-il-gusto-autentico-della-tradizione/",
+        "pubDate": "2026-07-13T06:03:03+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Cibo spazzatura, snack salati ogni settimana per quasi un italiano su due",
         "description": "Il 45% degli italiani consuma snack salati almeno una volta alla settimana, mentre tra i giovani la quota sale al 61%: lo dice l’Instant report Coldiretti-Censi…",
@@ -154,36 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_costumi_neri.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Cannarozzetti allo zafferano, il primo cremoso che profuma di tradizione",
-        "description": "A Roma, domenica 12 luglio 2026, torna d’attualità nelle cucine di casa una ricetta italiana semplice e saporita, i cannarozzetti allo zafferano, preparati con …",
-        "link": "https://www.gustoblog.it/2026/07/12/cannarozzetti-allo-zafferano-il-primo-cremoso-che-profuma-di-tradizione/",
-        "pubDate": "2026-07-12T06:02:45+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Tartufo italiano, nuova alleanza tra Masaf e Città del tartufo per valorizzare un’eccellenza nazionale",
-        "description": "Il Masaf e l’Associazione nazionale Città del tartufo hanno firmato oggi, 11 luglio 2026, a Roma, nella Biblioteca della Camera dei Deputati “Nilde Iotti”, un p…",
-        "link": "https://www.gustoblog.it/2026/07/11/tartufo-italiano-nuova-alleanza-tra-masaf-e-citta-del-tartufo-per-valorizzare-uneccellenza-nazionale/",
-        "pubDate": "2026-07-11T18:04:14+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Qual è il vero pericolo della legge sulla caccia",
-        "description": "La riforma della caccia non apre subito parchi e spiagge ai cacciatori, ma dà più potere alle Regioni e ridimensiona l’ISPRA: il vero rischio è nei cambiamenti …",
-        "link": "https://www.dissapore.com/alimentazione/qual-e-il-vero-pericolo-della-legge-sulla-caccia/",
-        "pubDate": "2026-07-11T17:29:15+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/01/caccia-e1715365063831.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "I migliori oli corpo con glitter per un estate super glow",
+        "description": "Luminosi, femminili e super sexy, gli oli glitter sono il must dell'Estate, perfetti per aggiungere un tocco glow alla pelle. Ecco i più amati del momento da no…",
+        "link": "https://www.stylosophy.it/articolo/i-migliori-oli-corpo-con-glitter-per-un-estate-super-glow/252641/",
+        "pubDate": "2026-07-13T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Come pulire la doccia in modo efficace: 3 trucchi per eliminare calcare sporco e muffa",
         "description": "Dal soffione al box doccia, ecco i metodi più pratici per mantenere il bagno ordinato e brillante usando soluzioni economiche e facili da applicare.…",
@@ -338,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Autoabbronzanti corpo: i migliori per una tintarella perfetta anche senza sole",
-        "description": "Per un colorito sano e uniforme senza prendere il sole, ecco 5 autoabbronzanti da non lasciarsi assolutamente sfuggire. Perfetti per l'estate!…",
-        "link": "https://www.stylosophy.it/articolo/autoabbronzanti-corpo-i-migliori-per-una-tintarella-perfetta-anche-senza-sole/252556/",
-        "pubDate": "2026-07-10T09:39:20+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Matilde Gioli e quel vestito bianco che ci meritiamo di sfoggiare anche noi per tutta l’estate",
         "description": "Dici estate e in automatico pensi a capi freschi dal fit rilassato, declinati su tessuti leggeri, come il lino e il cotone, e su nuance chiare. Ma, se c&#8217;è…",
         "link": "https://www.grazia.it/moda/tendenze-moda/vestito-bianco-abito-midi-matilde-gioli-borsa-valextra-look-chic-rimini-italian-global-series-festival-986104",
@@ -366,6 +366,24 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Piacere, Barbera. Sì, ma quale? La pazza estate del rosso piemontese",
+        "description": "Barbera sì, ma quale? Quella che riempie le sere d’estate dell’Astigiano con il Barbera Summer Festival 2026? Quella che, già Docg, si è fatta un Consorzio tutt…",
+        "link": "https://www.winemag.it/piacere-barbera-si-ma-quale-la-pazza-estate-del-rosso-piemontese/",
+        "pubDate": "2026-07-13T09:23:50+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spaghetti all’abruzzese: il gusto autentico della tradizione",
+        "description": "Gli spaghetti all’abruzzese tornano al centro della cucina di casa oggi, in Italia, come piatto semplice della tradizione regionale preparato con pancetta, cipo…",
+        "link": "https://www.gustoblog.it/2026/07/13/spaghetti-allabruzzese-il-gusto-autentico-della-tradizione/",
+        "pubDate": "2026-07-13T06:03:03+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Cibo spazzatura, snack salati ogni settimana per quasi un italiano su due",
         "description": "Il 45% degli italiani consuma snack salati almeno una volta alla settimana, mentre tra i giovani la quota sale al 61%: lo dice l’Instant report Coldiretti-Censi…",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/spiaggia-gentrificata-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Arriva la prima mappa cartografica per i Nebbioli dell’Alto Piemonte",
-        "description": "Uno nuovo strumento per le dieci denominazioni del Consorzio pensato per produttori, appassionati, operatori del settore ma anche per migliorare la comunicazion…",
-        "link": "https://www.gamberorosso.it/notizie/vino/mappa-cartografica-nebbioli-alto-piemonte/",
-        "pubDate": "2026-07-11T13:09:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Guerra, tarallucci e vino: al CMB Armenia giudici e vini della Russia",
-        "description": "CMB Armenia 2026: giudici e vini della Russia. La scelta del Concours Mondial de Bruxelles. Malumori tra giurati, non solo dell'Ucraina\nL'articolo Guerra, taral…",
-        "link": "https://www.winemag.it/cmb-armenia-giudici-e-vini-russia-concours-mondial-de-bruxelles/",
-        "pubDate": "2026-07-11T11:15:01+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
