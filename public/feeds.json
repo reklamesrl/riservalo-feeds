@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-13T19:23:28.645608+00:00",
+  "generated": "2026-07-14T08:05:37.774366+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Iginio Massari e i giovani che non hanno voglia di lavorare: ha ragione lui?",
+        "description": "Massari non trova giovani lavoratori, eppure la giornalista Matteini ha dimostrato che la sua azienda non sa fare un politica di annunci attraenti.\nL'articolo I…",
+        "link": "https://www.dissapore.com/notizie/iginio-massari-e-i-giovani-che-non-hanno-voglia-di-lavorare-ha-ragione-lui/",
+        "pubDate": "2026-07-14T07:20:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/01/iginio-massari-masterchef-italia.png?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Timballo ai finocchi, il piatto cremoso che conquista al primo assaggio",
+        "description": "A casa, soprattutto nelle cucine italiane dove si cercano piatti di stagione e senza carne, il timballo ai finocchi porta in tavola oggi, 14 luglio 2026, una ri…",
+        "link": "https://www.gustoblog.it/2026/07/14/timballo-ai-finocchi-il-piatto-cremoso-che-conquista-al-primo-assaggio/",
+        "pubDate": "2026-07-14T06:03:09+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il taglio delle rese sarebbe la soluzione della crisi del vino? Andatelo a dire ai conferitori delle cantine sociali",
+        "description": "Se nel 2026 non raccogliessimo neanche un chicco d'uva, avremmo vino sufficiente per coprire comunque l'intera vendemmia. \nL'articolo Il taglio delle rese sareb…",
+        "link": "https://www.dissapore.com/bere/il-taglio-delle-rese-sarebbe-la-soluzione-della-crisi-del-vino-andatelo-a-dire-ai-conferitori-delle-cantine-sociali/",
+        "pubDate": "2026-07-14T05:35:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/08/vino-botte-scaled-e1755460974865.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Estate sul Latemar: tornano la festa degli alpeggi e le baite in quota",
         "description": "La Schupfenfest, la festa degli alpeggi e delle baite del Latemar, torna domenica 2 agosto sui pendii di Obereggen e Pampeago, in Val d’Ega, per riportare in qu…",
@@ -151,33 +178,6 @@
         "description": "Secondo il report Roland Berger, l'industria mondiale degli alcolici sta affrontando un cambiamento strutturale simile a quello del tabacco: salutismo, nuove re…",
         "link": "https://www.gamberorosso.it/notizie/attualita/consumi-alcol-2025-calo-report-roland-berger/",
         "pubDate": "2026-07-13T10:08:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel casale del Seicento a pochi chilometri da Bergamo si mangia una pizza decisamente contemporanea",
-        "description": "A Trescore Balneario, LoRo affianca al ristorante gastronomico un bistrot dedicato ai lievitati: pizze, focacce e un percorso degustazione da 40 euro, tra grand…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/pizza-contemporanea-casale-bergamo-loro/",
-        "pubDate": "2026-07-13T09:56:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il caldo ha riportato nel vivo la questione dei rider, per cui ancora nulla è cambiato",
-        "description": "I rider fiorentini hanno annunciato uno sciopero per il 15 luglio, le rimostranze sono sempre legate alla paga e alla modalità di lavoro autonoma.\nL'articolo Il…",
-        "link": "https://www.dissapore.com/notizie/il-caldo-ha-riportato-nel-vivo-la-questione-dei-rider-per-cui-ancora-nulla-e-cambiato/",
-        "pubDate": "2026-07-13T09:49:53+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/rider-glovo-2.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ha contribuito a creare Internet in Italia. Poi ha cambiato vita per dare una seconda possibilità agli altri",
-        "description": "Ugo Bressanello ha lavorato alla nascita di Virgilio, Excite e con Tiscali. Nel 2005 si è fermato e ha fondato Domus de Luna: oggi il progetto coinvolge quasi 2…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/ugo-bressanello-internet-locanda-buoni-cattivi-cagliari/",
-        "pubDate": "2026-07-13T09:48:36+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Iginio Massari e i giovani che non hanno voglia di lavorare: ha ragione lui?",
+        "description": "Massari non trova giovani lavoratori, eppure la giornalista Matteini ha dimostrato che la sua azienda non sa fare un politica di annunci attraenti.\nL'articolo I…",
+        "link": "https://www.dissapore.com/notizie/iginio-massari-e-i-giovani-che-non-hanno-voglia-di-lavorare-ha-ragione-lui/",
+        "pubDate": "2026-07-14T07:20:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/01/iginio-massari-masterchef-italia.png?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Timballo ai finocchi, il piatto cremoso che conquista al primo assaggio",
+        "description": "A casa, soprattutto nelle cucine italiane dove si cercano piatti di stagione e senza carne, il timballo ai finocchi porta in tavola oggi, 14 luglio 2026, una ri…",
+        "link": "https://www.gustoblog.it/2026/07/14/timballo-ai-finocchi-il-piatto-cremoso-che-conquista-al-primo-assaggio/",
+        "pubDate": "2026-07-14T06:03:09+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il taglio delle rese sarebbe la soluzione della crisi del vino? Andatelo a dire ai conferitori delle cantine sociali",
+        "description": "Se nel 2026 non raccogliessimo neanche un chicco d'uva, avremmo vino sufficiente per coprire comunque l'intera vendemmia. \nL'articolo Il taglio delle rese sareb…",
+        "link": "https://www.dissapore.com/bere/il-taglio-delle-rese-sarebbe-la-soluzione-della-crisi-del-vino-andatelo-a-dire-ai-conferitori-delle-cantine-sociali/",
+        "pubDate": "2026-07-14T05:35:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/08/vino-botte-scaled-e1755460974865.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Estate sul Latemar: tornano la festa degli alpeggi e le baite in quota",
         "description": "La Schupfenfest, la festa degli alpeggi e delle baite del Latemar, torna domenica 2 agosto sui pendii di Obereggen e Pampeago, in Val d’Ega, per riportare in qu…",
         "link": "https://www.gustoblog.it/2026/07/13/estate-sul-latemar-tornano-la-festa-degli-alpeggi-e-le-baite-in-quota/",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Cibo spazzatura, snack salati ogni settimana per quasi un italiano su due",
-        "description": "Il 45% degli italiani consuma snack salati almeno una volta alla settimana, mentre tra i giovani la quota sale al 61%: lo dice l’Instant report Coldiretti-Censi…",
-        "link": "https://www.gustoblog.it/2026/07/12/cibo-spazzatura-snack-salati-ogni-settimana-per-quasi-un-italiano-su-due/",
-        "pubDate": "2026-07-12T18:04:33+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Ragù lucano, il sapore autentico della tradizione lucana",
-        "description": "Il ragù lucano, piatto della tradizione contadina della Basilicata, si prepara nelle case e nelle trattorie del Sud Italia soprattutto nei giorni di festa, quan…",
-        "link": "https://www.gustoblog.it/2026/07/12/ragu-lucano-il-sapore-autentico-della-tradizione-lucana/",
-        "pubDate": "2026-07-12T16:02:48+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il frigo del futuro ci aiuterà a organizzarlo meglio",
-        "description": "Un naso elettronico promette di rivoluzionare il modo in cui usiamo il frigo e facciamo la spesa. Senza dimenticare però le buone pratiche.\nL'articolo Il frigo …",
-        "link": "https://www.dissapore.com/notizie/il-frigo-del-futuro-ci-aiutera-a-organizzarlo-meglio/",
-        "pubDate": "2026-07-12T14:58:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/frigorifero-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
