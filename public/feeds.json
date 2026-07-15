@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-14T19:20:04.650044+00:00",
+  "generated": "2026-07-15T08:10:31.305311+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Fettuccine ai peperoni: il primo cremoso e colorato che conquista tutti",
+        "description": "Le fettuccine ai peperoni sono un primo piatto italiano preparato con pasta all’uovo, peperoni, cipolla e panna, ideale per un pranzo di famiglia o una cena inf…",
+        "link": "https://www.gustoblog.it/2026/07/15/fettuccine-ai-peperoni-il-primo-cremoso-e-colorato-che-conquista-tutti/",
+        "pubDate": "2026-07-15T06:03:19+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "HEINEKEN Italia lancia “valore acqua” in Puglia: progetto per ridurre lo stress idrico della falda della murgia",
+        "description": "HEINEKEN Italia avvia in Puglia il progetto “Valore Acqua”, iniziativa sviluppata insieme ad ARIF (Agenzia Regionale per le Attività Irrigue e Forestali) con l&…",
+        "link": "https://www.winemag.it/heineken-italia-lancia-valore-acqua-in-puglia-progetto-per-ridurre-lo-stress-idrico-della-falda-della-murgia/",
+        "pubDate": "2026-07-15T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/HEINEKEN-Italia-lancia-valore-acqua-in-Puglia-progetto-per-ridurre-lo-stress-idrico-della-falda-della-murgia-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spedizione a 1000 euro, consegna il vignaiolo in persona: il caso Grillo Iole",
+        "description": "Spedizione a 1000 euro, consegna il vignaiolo in persona: il caso Grillo Iole. Mattia Bianchini documenta tutto con 2 reel su Instagram\nL'articolo Spedizione a …",
+        "link": "https://www.winemag.it/spedizione-a-1000-euro-consegna-il-vignaiolo-in-persona-il-caso-grillo-iole/",
+        "pubDate": "2026-07-15T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Dazi vino europeo, USWTA a Washington: «Danneggiano gli americani»",
         "description": "I dazi sul vino europeo danneggerebbero imprese, lavoratori e cantine degli Stati Uniti. È il messaggio portato a Washington dalla U.S. Wine Trade Alliance, int…",
@@ -154,33 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli smalti nude (ma non banali) per chi desidera una pedicure semplice ed elegante",
-        "description": "Gli smalti nude per piedi più belli dell'Estate 2026, per una pedicure elegante ma non banale. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/gli-smalti-nude-ma-non-banali-per-chi-desidera-una-pedicure-semplice-ed-elegante/252683/",
-        "pubDate": "2026-07-14T09:22:48+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il ristorante tra le barche dove torniamo da anni per mangiare pesce",
-        "description": "A Fiumicino, nel cuore di un complesso nautico, Lele Usai firma una cucina di mare solida e costante: pesce dalle aste, cozze thai, fritti impeccabili e un riso…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/quarantunododici-fiumicino-ristorante-pesce-barche/",
-        "pubDate": "2026-07-14T07:57:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Iginio Massari e i giovani che non hanno voglia di lavorare: ha ragione lui?",
-        "description": "Massari non trova giovani lavoratori, eppure la giornalista Matteini ha dimostrato che la sua azienda non sa fare un politica di annunci attraenti.\nL'articolo I…",
-        "link": "https://www.dissapore.com/notizie/iginio-massari-e-i-giovani-che-non-hanno-voglia-di-lavorare-ha-ragione-lui/",
-        "pubDate": "2026-07-14T07:20:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/01/iginio-massari-masterchef-italia.png?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Fettuccine ai peperoni: il primo cremoso e colorato che conquista tutti",
+        "description": "Le fettuccine ai peperoni sono un primo piatto italiano preparato con pasta all’uovo, peperoni, cipolla e panna, ideale per un pranzo di famiglia o una cena inf…",
+        "link": "https://www.gustoblog.it/2026/07/15/fettuccine-ai-peperoni-il-primo-cremoso-e-colorato-che-conquista-tutti/",
+        "pubDate": "2026-07-15T06:03:19+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "HEINEKEN Italia lancia “valore acqua” in Puglia: progetto per ridurre lo stress idrico della falda della murgia",
+        "description": "HEINEKEN Italia avvia in Puglia il progetto “Valore Acqua”, iniziativa sviluppata insieme ad ARIF (Agenzia Regionale per le Attività Irrigue e Forestali) con l&…",
+        "link": "https://www.winemag.it/heineken-italia-lancia-valore-acqua-in-puglia-progetto-per-ridurre-lo-stress-idrico-della-falda-della-murgia/",
+        "pubDate": "2026-07-15T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/HEINEKEN-Italia-lancia-valore-acqua-in-Puglia-progetto-per-ridurre-lo-stress-idrico-della-falda-della-murgia-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spedizione a 1000 euro, consegna il vignaiolo in persona: il caso Grillo Iole",
+        "description": "Spedizione a 1000 euro, consegna il vignaiolo in persona: il caso Grillo Iole. Mattia Bianchini documenta tutto con 2 reel su Instagram\nL'articolo Spedizione a …",
+        "link": "https://www.winemag.it/spedizione-a-1000-euro-consegna-il-vignaiolo-in-persona-il-caso-grillo-iole/",
+        "pubDate": "2026-07-15T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Dazi vino europeo, USWTA a Washington: «Danneggiano gli americani»",
         "description": "I dazi sul vino europeo danneggerebbero imprese, lavoratori e cantine degli Stati Uniti. È il messaggio portato a Washington dalla U.S. Wine Trade Alliance, int…",
         "link": "https://www.winemag.it/dazi-vino-europeo-uswta-a-washington-danneggiano-gli-americani/",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Il taglio delle rese sarebbe la soluzione della crisi del vino? Andatelo a dire ai conferitori delle cantine sociali",
-        "description": "Se nel 2026 non raccogliessimo neanche un chicco d'uva, avremmo vino sufficiente per coprire comunque l'intera vendemmia. \nL'articolo Il taglio delle rese sareb…",
-        "link": "https://www.dissapore.com/bere/il-taglio-delle-rese-sarebbe-la-soluzione-della-crisi-del-vino-andatelo-a-dire-ai-conferitori-delle-cantine-sociali/",
-        "pubDate": "2026-07-14T05:35:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/08/vino-botte-scaled-e1755460974865.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Toscana con l’olio si faceva di tutto, tranne condire: oggi questi sono i 32 migliori extravergine",
-        "description": "Dagli Etruschi, che lo usavano per illuminare case e santuari e preparare profumi e unguenti, fino agli extravergine premiati con le Tre Foglie 2026/2027: stori…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-toscana-tre-foglie-2026-2027/",
-        "pubDate": "2026-07-14T05:14:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "90 anni di Champagne: il decreto del 1936 che blindò la denominazione",
-        "description": "AOC Champagne compie 90 anni: il decreto del 1936 che blindò la denominazione. Le celebrazioni del Syndicat Général des Vignerons Champagne\nL'articolo 90 anni d…",
-        "link": "https://www.winemag.it/90-anni-di-champagne-il-decreto-del-1936-che-blindo-la-denominazione/",
-        "pubDate": "2026-07-14T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/AOC-Champagne-compie-90-anni-il-decreto-del-1936-che-blindo-la-denominazione-Syndicat-General-des-Vignerons-de-la-Champagne-1-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
