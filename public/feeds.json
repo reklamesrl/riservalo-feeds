@@ -1,7 +1,61 @@
 {
-  "generated": "2026-07-15T19:10:49.332099+00:00",
+  "generated": "2026-07-16T08:13:28.892399+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Quando le fregnacce diventano notizia",
+        "description": "A tavola, nelle cucine di casa italiane, le fregnacce tornano protagoniste oggi, 16 luglio 2026, come piatto di pasta fresca ripiena preparato con farina, uova,…",
+        "link": "https://www.gustoblog.it/2026/07/16/quando-le-fregnacce-diventano-notizia/",
+        "pubDate": "2026-07-16T06:03:20+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "DegustaVigna 2026, Grosjean rilancia gli eventi tra i vigneti della Valle d’Aosta",
+        "description": "La famiglia Grosjean rinnova anche quest’anno l’appuntamento con DegustaVigna, il calendario di eventi ospitato nella propria azienda vitivinicola e dedicato al…",
+        "link": "https://www.winemag.it/degustavigna-2026-grosjean-rilancia-gli-eventi-tra-i-vigneti-della-valle-daosta/",
+        "pubDate": "2026-07-16T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Gianluca Carraro confermato presidente Consorzio Vini Colli Euganei",
+        "description": "Gianluca Carraro è stato confermato presidente del Consorzio tutela Vini Colli Euganei. Per Carraro si apre così il secondo mandato triennale consecutivo alla g…",
+        "link": "https://www.winemag.it/gianluca-carraro-confermato-presidente-consorzio-vini-colli-euganei/",
+        "pubDate": "2026-07-15T23:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vendemmia 2026 Australia ai minimi dal 2000: crollo uve rosse, prezzi non risalgono",
+        "description": "Vendemmia 2026 Australia ai minimi dal 2000: crollo uve rosse, prezzi non risalgono. Condizioni climatiche avverse e riduzione produzione\nL'articolo Vendemmia 2…",
+        "link": "https://www.winemag.it/vendemmia-2026-australia-ai-minimi-dal-2000-crollo-uve-rosse-prezzi-non-risalgono/",
+        "pubDate": "2026-07-15T22:31:57+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Vendemmia-2026-Australia-ai-minimi-dal-2000-crollo-uve-rosse-prezzi-non-risalgono-1-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cantina di Solopaca, Marco Giulioli (ex Guardiense) è il nuovo enologo consulente",
+        "description": "Cantina di Solopaca, Marco Giulioli (ex Guardiense) è il nuovo enologo consulente. Il presidente Carmine Coletta punta a rafforzare la cooperativa\nL'articolo Ca…",
+        "link": "https://www.winemag.it/cantina-di-solopaca-marco-giulioli-ex-guardiense-nuovo-enologo-consulente/",
+        "pubDate": "2026-07-15T22:15:17+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Alessandro Costa nuovo presidente del Consorzio Tutela Roero",
+        "description": "Alessandro Costa è il nuovo presidente del Consorzio Tutela Roero. Il produttore ed enologo piemontese raccoglie il testimone da Massimo Damonte, alla guida del…",
+        "link": "https://www.winemag.it/alessandro-costa-nuovo-presidente-del-consorzio-tutela-roero/",
+        "pubDate": "2026-07-15T20:30:03+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Alessandro-Costa-nuovo-presidente-del-Consorzio-Tutela-Roero.-Succede-a-Massimo-Damonte-alla-guida-dellorganismo-piemontese-dal-2023-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Olio extravergine d’estate: come proteggerlo da caldo, luce e ossigeno",
         "description": "Caldo, luce e ossigeno sono i principali fattori che, nell’estate 2026, possono compromettere la qualità dell’olio extravergine di oliva nelle case e nei ristor…",
@@ -48,13 +102,22 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Quanto fanno ingrassare i gelati più popolari dell’estate? Ecco la classifica",
-        "description": "Ecco la classifica dei gelati confezionati più calorici dell'estate, ovvero: quali sono i valori nutrizionali della nostra merenda da spiaggia preferita? \nL'art…",
-        "link": "https://www.dissapore.com/spesa/quanto-fanno-ingrassare-i-gelati-piu-popolari-dellestate-ecco-la-classifica/",
-        "pubDate": "2026-07-15T13:33:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelato-puffo-scaled.jpg?width=300&height=150&quality=75",
+        "title": "Ecco chi sono i dieci nuovi Maestri dell’Arte della Cucina Italiana. Per il settore vitivinicolo c’è Piero Antinori",
+        "description": "Seconda edizione del riconoscimento ai protagonisti dell'agroalimentare. Cerimonia a Palazzo Chigi con le nuove sezioni dedicate all'arte della pasta e della pa…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/premio-maestri-arte-cucina-italiana-2026/",
+        "pubDate": "2026-07-15T14:45:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
-        "source": "Dissapore"
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il posto sulla strada per la Costiera dove da 50 anni ci si ferma per mangiare il saltimbocca",
+        "description": "Il panino cotto nel forno a legna continua da 50 anni a segnare viaggi, ritorni e soste di passaggio davanti al mare…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/oasi-saltimbocca-baldino-vico-equense-costiera/",
+        "pubDate": "2026-07-15T13:47:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Dolce & Gabbana Alta Moda Taormina 2026: i 5 momenti che hanno definito la sfilata delle dee siciliane",
@@ -73,15 +136,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Pepsi sta perdendo la battaglia con coca cola, ed è colpa dei salutisti",
-        "description": "Dati recenti affermano che il gruppo perde il 2%, il motivo sembra un'eccessiva produzione di snack salati che stanno passando di moda e scarsa innovazione.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/pepsi-sta-perdendo-la-battaglia-con-coca-cola-ed-e-colpa-dei-salutisti/",
-        "pubDate": "2026-07-15T12:02:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/bevande-funzionali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       },
       {
         "title": "Nel look di Zendaya alla prémiere di “The Odissey” c’è un dettaglio di stile favoloso che possiamo sfoggiare tutte (e no, non stiamo parlando delle ali!)",
@@ -127,60 +181,6 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/07/Rete-delle-Bollicine-Siciliane-spumanti-e-itinerari-per-raccontare-la-Sicilia.-Il-progetto-Irvo-tra-charmat-metodo-classico-ed-enoturismo-2.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "La Moka è nata guardando una donna fare il bucato dietro un muretto",
-        "description": "Ad Alfonso Bialetti l’idea arrivò osservando il funzionamento di un antico sistema per lavare i panni. La figlia Tina racconta la nascita della caffettiera dive…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/moka-bialetti-nata-bucato-storia/",
-        "pubDate": "2026-07-15T10:33:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché alcuni chef spendono migliaia di euro per un coltello (e perché ne usano così tanti)",
-        "description": "Dal Santoku al Deba, passando per spelucchini e coltelli da disosso: ecco quali sono le lame più utilizzate nelle cucine professionali e perché ogni ingrediente…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/coltelli-chef-tipologie-verdure-pesce-carne/",
-        "pubDate": "2026-07-15T10:27:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il mercato di caffè, tè e cacao non è mai stato così fragile",
-        "description": "A confermarlo è un recente rapporto della FAO, dove sono messe in evidenza le principali criticità di queste tre importantissime filiere.\nL'articolo Il mercato …",
-        "link": "https://www.dissapore.com/notizie/il-mercato-di-caffe-te-e-cacao-non-e-mai-stato-cosi-fragile/",
-        "pubDate": "2026-07-15T10:17:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/caffe-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il cornetto vegano non è più la triste brioche vuota. E ormai lo fanno bene anche i bar di periferia",
-        "description": "Dalle grandi pasticcerie ai bar di periferia, sempre più locali dimostrano che i lieviti vegetali possono essere ottimi. Nel 2026, però, in troppe vetrine l’uni…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cornetto-vegano-buono-pasticcerie-bar/",
-        "pubDate": "2026-07-15T10:17:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La Doc Maremma Toscana pronta a bloccare i nuovi impianti di Vermentino: “Tagliare le rese dei vini non basta”",
-        "description": "Misura allo studio dal 2027. Il presidente Francesco Mazzei: \"Non taglieremo le rese perché servono misure di lungo periodo come il blocco dell'1% sulle autoriz…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/doc-maremma-toscana-stop-nuovi-impianti-vermentino/",
-        "pubDate": "2026-07-15T10:05:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Grecia con Burberry per celebrare la campagna eyewear Primavera-Estate 2026",
-        "description": "Burberry ha scelto la Grecia come meta dell&#8217;estate 2026. Per festeggiare la campagna eyewear Primavera-Estate, la grande casa di moda britannica fondata n…",
-        "link": "https://www.grazia.it/moda/news-moda/burberry-campagna-eyewear-primavera-estate-2026-986830",
-        "pubDate": "2026-07-15T08:29:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/DESK-Burberry-one-and-only-Athens.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,60 @@
     ],
     "lifestyle": [
       {
+        "title": "Quando le fregnacce diventano notizia",
+        "description": "A tavola, nelle cucine di casa italiane, le fregnacce tornano protagoniste oggi, 16 luglio 2026, come piatto di pasta fresca ripiena preparato con farina, uova,…",
+        "link": "https://www.gustoblog.it/2026/07/16/quando-le-fregnacce-diventano-notizia/",
+        "pubDate": "2026-07-16T06:03:20+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "DegustaVigna 2026, Grosjean rilancia gli eventi tra i vigneti della Valle d’Aosta",
+        "description": "La famiglia Grosjean rinnova anche quest’anno l’appuntamento con DegustaVigna, il calendario di eventi ospitato nella propria azienda vitivinicola e dedicato al…",
+        "link": "https://www.winemag.it/degustavigna-2026-grosjean-rilancia-gli-eventi-tra-i-vigneti-della-valle-daosta/",
+        "pubDate": "2026-07-16T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Gianluca Carraro confermato presidente Consorzio Vini Colli Euganei",
+        "description": "Gianluca Carraro è stato confermato presidente del Consorzio tutela Vini Colli Euganei. Per Carraro si apre così il secondo mandato triennale consecutivo alla g…",
+        "link": "https://www.winemag.it/gianluca-carraro-confermato-presidente-consorzio-vini-colli-euganei/",
+        "pubDate": "2026-07-15T23:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vendemmia 2026 Australia ai minimi dal 2000: crollo uve rosse, prezzi non risalgono",
+        "description": "Vendemmia 2026 Australia ai minimi dal 2000: crollo uve rosse, prezzi non risalgono. Condizioni climatiche avverse e riduzione produzione\nL'articolo Vendemmia 2…",
+        "link": "https://www.winemag.it/vendemmia-2026-australia-ai-minimi-dal-2000-crollo-uve-rosse-prezzi-non-risalgono/",
+        "pubDate": "2026-07-15T22:31:57+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Vendemmia-2026-Australia-ai-minimi-dal-2000-crollo-uve-rosse-prezzi-non-risalgono-1-660x365.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cantina di Solopaca, Marco Giulioli (ex Guardiense) è il nuovo enologo consulente",
+        "description": "Cantina di Solopaca, Marco Giulioli (ex Guardiense) è il nuovo enologo consulente. Il presidente Carmine Coletta punta a rafforzare la cooperativa\nL'articolo Ca…",
+        "link": "https://www.winemag.it/cantina-di-solopaca-marco-giulioli-ex-guardiense-nuovo-enologo-consulente/",
+        "pubDate": "2026-07-15T22:15:17+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Alessandro Costa nuovo presidente del Consorzio Tutela Roero",
+        "description": "Alessandro Costa è il nuovo presidente del Consorzio Tutela Roero. Il produttore ed enologo piemontese raccoglie il testimone da Massimo Damonte, alla guida del…",
+        "link": "https://www.winemag.it/alessandro-costa-nuovo-presidente-del-consorzio-tutela-roero/",
+        "pubDate": "2026-07-15T20:30:03+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Alessandro-Costa-nuovo-presidente-del-Consorzio-Tutela-Roero.-Succede-a-Massimo-Damonte-alla-guida-dellorganismo-piemontese-dal-2023-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Olio extravergine d’estate: come proteggerlo da caldo, luce e ossigeno",
         "description": "Caldo, luce e ossigeno sono i principali fattori che, nell’estate 2026, possono compromettere la qualità dell’olio extravergine di oliva nelle case e nei ristor…",
         "link": "https://www.gustoblog.it/2026/07/15/olio-extravergine-destate-come-proteggerlo-da-caldo-luce-e-ossigeno/",
@@ -385,22 +439,22 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Quanto fanno ingrassare i gelati più popolari dell’estate? Ecco la classifica",
-        "description": "Ecco la classifica dei gelati confezionati più calorici dell'estate, ovvero: quali sono i valori nutrizionali della nostra merenda da spiaggia preferita? \nL'art…",
-        "link": "https://www.dissapore.com/spesa/quanto-fanno-ingrassare-i-gelati-piu-popolari-dellestate-ecco-la-classifica/",
-        "pubDate": "2026-07-15T13:33:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelato-puffo-scaled.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
+        "title": "Ecco chi sono i dieci nuovi Maestri dell’Arte della Cucina Italiana. Per il settore vitivinicolo c’è Piero Antinori",
+        "description": "Seconda edizione del riconoscimento ai protagonisti dell'agroalimentare. Cerimonia a Palazzo Chigi con le nuove sezioni dedicate all'arte della pasta e della pa…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/premio-maestri-arte-cucina-italiana-2026/",
+        "pubDate": "2026-07-15T14:45:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
-        "title": "Pepsi sta perdendo la battaglia con coca cola, ed è colpa dei salutisti",
-        "description": "Dati recenti affermano che il gruppo perde il 2%, il motivo sembra un'eccessiva produzione di snack salati che stanno passando di moda e scarsa innovazione.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/pepsi-sta-perdendo-la-battaglia-con-coca-cola-ed-e-colpa-dei-salutisti/",
-        "pubDate": "2026-07-15T12:02:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/bevande-funzionali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
+        "title": "Il posto sulla strada per la Costiera dove da 50 anni ci si ferma per mangiare il saltimbocca",
+        "description": "Il panino cotto nel forno a legna continua da 50 anni a segnare viaggi, ritorni e soste di passaggio davanti al mare…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/oasi-saltimbocca-baldino-vico-equense-costiera/",
+        "pubDate": "2026-07-15T13:47:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Bonci apre a Dubai e cambia la sua pizza: hummus, babaganoush e niente maiale",
@@ -448,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il mercato di caffè, tè e cacao non è mai stato così fragile",
-        "description": "A confermarlo è un recente rapporto della FAO, dove sono messe in evidenza le principali criticità di queste tre importantissime filiere.\nL'articolo Il mercato …",
-        "link": "https://www.dissapore.com/notizie/il-mercato-di-caffe-te-e-cacao-non-e-mai-stato-cosi-fragile/",
-        "pubDate": "2026-07-15T10:17:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/caffe-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
         "title": "Il cornetto vegano non è più la triste brioche vuota. E ormai lo fanno bene anche i bar di periferia",
         "description": "Dalle grandi pasticcerie ai bar di periferia, sempre più locali dimostrano che i lieviti vegetali possono essere ottimi. Nel 2026, però, in troppe vetrine l’uni…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cornetto-vegano-buono-pasticcerie-bar/",
@@ -493,55 +538,10 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Meeting e feste aziendali senza alcol. Adesso l’Oms invita ad eliminare vino e cocktail anche dai momenti di socialità",
-        "description": "L’Organizzazione mondiale della sanità ha pubblicato una guida per eventi lavorativi “più sani e inclusivi” a base di succhi di frutta o acque aromatizzate: \"Al…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/meeting-feste-aziendali-senza-alcol-guida-oms/",
-        "pubDate": "2026-07-15T06:04:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Fettuccine ai peperoni: il primo cremoso e colorato che conquista tutti",
         "description": "Le fettuccine ai peperoni sono un primo piatto italiano preparato con pasta all’uovo, peperoni, cipolla e panna, ideale per un pranzo di famiglia o una cena inf…",
         "link": "https://www.gustoblog.it/2026/07/15/fettuccine-ai-peperoni-il-primo-cremoso-e-colorato-che-conquista-tutti/",
         "pubDate": "2026-07-15T06:03:19+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "HEINEKEN Italia lancia “valore acqua” in Puglia: progetto per ridurre lo stress idrico della falda della murgia",
-        "description": "HEINEKEN Italia avvia in Puglia il progetto “Valore Acqua”, iniziativa sviluppata insieme ad ARIF (Agenzia Regionale per le Attività Irrigue e Forestali) con l&…",
-        "link": "https://www.winemag.it/heineken-italia-lancia-valore-acqua-in-puglia-progetto-per-ridurre-lo-stress-idrico-della-falda-della-murgia/",
-        "pubDate": "2026-07-15T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/HEINEKEN-Italia-lancia-valore-acqua-in-Puglia-progetto-per-ridurre-lo-stress-idrico-della-falda-della-murgia-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Spedizione a 1000 euro, consegna il vignaiolo in persona: il caso Grillo Iole",
-        "description": "Spedizione a 1000 euro, consegna il vignaiolo in persona: il caso Grillo Iole. Mattia Bianchini documenta tutto con 2 reel su Instagram\nL'articolo Spedizione a …",
-        "link": "https://www.winemag.it/spedizione-a-1000-euro-consegna-il-vignaiolo-in-persona-il-caso-grillo-iole/",
-        "pubDate": "2026-07-15T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dazi vino europeo, USWTA a Washington: «Danneggiano gli americani»",
-        "description": "I dazi sul vino europeo danneggerebbero imprese, lavoratori e cantine degli Stati Uniti. È il messaggio portato a Washington dalla U.S. Wine Trade Alliance, int…",
-        "link": "https://www.winemag.it/dazi-vino-europeo-uswta-a-washington-danneggiano-gli-americani/",
-        "pubDate": "2026-07-14T18:38:10+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Olio, Aifo chiede al governo regole più dure contro le truffe",
-        "description": "Aifo, l’associazione italiana dei frantoiani oleari, ha chiesto oggi al ministero dell’Agricoltura e al Parlamento di aggiornare il sistema delle sanzioni sull’…",
-        "link": "https://www.gustoblog.it/2026/07/14/olio-aifo-chiede-al-governo-regole-piu-dure-contro-le-truffe/",
-        "pubDate": "2026-07-14T18:04:38+00:00",
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
