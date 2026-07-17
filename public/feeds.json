@@ -1,7 +1,52 @@
 {
-  "generated": "2026-07-16T19:11:17.527368+00:00",
+  "generated": "2026-07-17T08:09:47.523369+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Maccheroni alla molinara, la tradizione abruzzese che conquista la tavola",
+        "description": "I maccheroni alla molinara, piatto della tradizione italiana preparato con pasta fresca integrale e un ragù misto di vitello, agnello e maiale, tornano oggi al …",
+        "link": "https://www.gustoblog.it/2026/07/17/maccheroni-alla-molinara-la-tradizione-abruzzese-che-conquista-la-tavola/",
+        "pubDate": "2026-07-17T06:03:03+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Bressanone e Valle Isarco, il vino diventa motore del turismo esperienziale",
+        "description": "Secondo il più recente Rapporto sul Turismo Enogastronomico Italiano curato da Roberta Garibaldi, il vino è sempre più una motivazione di viaggio. I turisti cer…",
+        "link": "https://www.winemag.it/bressanone-e-valle-isarco-il-vino-diventa-motore-del-turismo-esperienziale/",
+        "pubDate": "2026-07-17T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Rillo chiama, Secondé risponde: Cantina del Taburno punta sul Metodo classico con l’enologo della Champagne",
+        "description": "Enzo Rillo chiama Nicolas Secondé risponde: Cantina del Taburno punta sul Metodo classico con l'enologo della Champagne. Nascerà il Consorzio\nL'articolo Rillo c…",
+        "link": "https://www.winemag.it/enzo-rillo-nicolas-seconde-cantina-del-taburno-spumanti-metodo-classico-enologo-champagne/",
+        "pubDate": "2026-07-17T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Enzo-Rillo-chiama-Nicolas-Seconde-risponde-Cantina-del-Taburno-punta-sul-Metodo-classico-con-enologo-della-Champagne.-Nascera-il-Consorzio-8.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Grand Hotel La Favorita di Sorrento lancia le guest shift al Bellavista Cocktail Bar",
+        "description": "Il Grand Hotel La Favorita di Sorrento inaugura un calendario di appuntamenti dedicati alla mixology d&#8217;autore. Protagonista dell&#8217;iniziativa è il Bel…",
+        "link": "https://www.winemag.it/grand-hotel-la-favorita-di-sorrento-lancia-le-guest-shift-al-bellavista-cocktail-bar/",
+        "pubDate": "2026-07-17T04:45:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Da gelateria artigianale a progetto d’impresa: la storia del brand che ha aperto (anche) nel centro di Vigevano",
+        "description": "Samuel Oldani racconta Fiabe di Gelato, un progetto che continua a crescere senza tradire la sua anima artigianale. Obiettivo: arrivare a 50 insegne entro il 20…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fiabe-di-gelato-gelateria-vigevano-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-07-16T19:53:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Da Puglia a Lombardia, le gelaterie che diventano ambasciatrici del gelato italiano",
         "description": "Il progetto Gelaterie Ambasciatrici del Gelato Italiano è arrivato ieri, mercoledì 15 luglio, a Triuggio, in provincia di Monza e Brianza, dove la gelateria L’I…",
@@ -37,6 +82,60 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Vino rosato: le Doc italiane rincorrono il trend, ma non basta. L’errore principale? Considerarlo un ripiego",
+        "description": "Sono sempre di più le denominazioni che inseriscono la tipologia nei disciplinari, ma non basta riconvertire vigneti precedentemente destinati al rosso. L'esemp…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/nuovi-rosati-italiani-mancanza-identita/",
+        "pubDate": "2026-07-16T15:45:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La musica di Danilo Rea ed Enrico Rava incontra il Brunello: tutti gli appuntamenti di Jazz and wine in Montalcino",
+        "description": "Dal 20 al 26 luglio la patria del Brunello diventerà la patria del jazz, ospitando nomi di grande respiro internazionale. Ecco il programma completo tra Castell…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/jazz-and-wine-montalcino-programma-2026/",
+        "pubDate": "2026-07-16T15:27:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tra i castagni della Tuscia apre un nuovo ristorante immerso nel bosco",
+        "description": "Dopo dieci anni alla guida di Rosso Vignale, Tiberio Proietti inaugura un format nell’ex casale di famiglia: una cucina legata al territorio con due menu degust…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/marcellina-cucina-agricola-tiberio-proietti-viterbo/",
+        "pubDate": "2026-07-16T14:07:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il cocktail che ogni anno fa consumare una tonnellata di menta",
+        "description": "Nato come rimedio medicinale oltre due secoli fa, il Mint Julep è diventato il drink simbolo del Kentucky Derby, dove ogni anno vengono serviti oltre 125mila bi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mint-julep-storia-cocktail-kentucky-derby/",
+        "pubDate": "2026-07-16T13:59:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Primo quadrimestre dell’anno ancora negativo per l’export di vino italiano: valori a -6,8%. Aprile in lieve ripresa in Usa",
+        "description": "Nei primi quattro mesi dell'anno sono stati esportati 640 milioni di litri (-3,7%) per 2,33 miliardi di euro. La spumantistica in recupero grazie al Prosecco Do…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-italiano-primo-quadrimestre-2026/",
+        "pubDate": "2026-07-16T13:58:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’Europa prova a salvare vino e olio dalla scure dei dazi di Trump",
+        "description": "Nella lista delle esenzioni richieste da Bruxelles ci sono i prodotti agroalimentari per un valore di 150 miliardi di euro. Ma secondo il funzionario Ue per il …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/dazi-usa-lista-europea-prodotti-salvare/",
+        "pubDate": "2026-07-16T13:22:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Hailey Bieber lancia una capsule collection di jeans con Gap",
@@ -82,105 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/barry-callebaut-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Esiste un manuale zen che insegna ai cuochi come raggiungere l’illuminazione",
-        "description": "Nel Tenzo Kyokun, scritto dal maestro Dogen nel XIII secolo, ogni gesto in cucina diventa una pratica spirituale: dalla pulizia del riso fino al modo di appende…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tenzo-kyokun-manuale-zen-cuoco/",
-        "pubDate": "2026-07-16T11:11:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Alessandro Costa è il nuovo presidente del Consorzio vini del Roero: “Segnale di fiducia verso le nuove generazioni”",
-        "description": "Quarta generazione della cantina Nino Costa, il 43enne raccoglie il testimone di Massimo Damonte. Sarà affiancato da 14 nuovi consiglieri…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/alessandro-costa-nuovo-presidente-consorzio-roero/",
-        "pubDate": "2026-07-16T11:09:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vanessa Paradis e quel dettaglio di stile che rende speciale e trés chic anche il look  più semplice!",
-        "description": "Con il caldo torrido dell&#8217;ultimo mese, la voglia di vestirsi, ammettiamolo, è ai minimi storici: l&#8217;idea di ragionare su possibili abbinamenti, con l…",
-        "link": "https://www.grazia.it/moda/celebrity-style/pantaloni-neri-larghi-top-seta-foulard-elevare-look-semplice-vanessa-paradis-986974",
-        "pubDate": "2026-07-16T11:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/vanessa-paradis-ape.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Continuiamo a investire in vino premium e hospitality”. Angelini Wines sfida la crisi e annuncia le prossime mosse",
-        "description": "Dopo l'acquisizione di Arnaldo Caprai in Umbria, il presidente Alberto Lusini spiega la strategia multibrand del gruppo presente su 7 territori. E al vino itali…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/angelini-wines-strategia-gruppo-investimenti-vino/",
-        "pubDate": "2026-07-16T10:32:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "5 Consigli indispensabili per mani belle e curate. Il 4 è davvero efficace!",
-        "description": "Ecco 5 consigli davvero utili per avere mani al top: curate, morbide e idratate. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-consigli-indispensabili-per-mani-belle-e-curate-il-4-e-davvero-efficace/252732/",
-        "pubDate": "2026-07-16T09:49:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ridurre il consumo di cibi ultra-processati può prevenire migliaia di morti",
-        "description": "Un nuovo studio dell'Università di Montreal evidenzia come quasi il 40% dei decessi per malattie cardiovascolari siano attribuibili al consumo di UPF. \nL'artico…",
-        "link": "https://www.dissapore.com/notizie/ridurre-il-consumo-di-cibi-ultra-processati-puo-prevenire-migliaia-di-morti/",
-        "pubDate": "2026-07-16T09:05:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cibi-ultra-processati-burger-UPF-junk-food-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nuovo spot istituzionale per il vino italiano. Concluse le riprese nella cantina Poggio Le Volpi",
-        "description": "A breve andrà in onda la seconda parte della campagna istituzionale voluta dal Ministero dell'Agricoltura e realizzata da Bibenda e dalla Fondazione italiana so…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/nuovo-spot-masaf-vino-italiano-riprese-cantina-poggio-le-volpi/",
-        "pubDate": "2026-07-16T09:01:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Europa arriveranno per la prima volta i mango speciali di Taiwan",
-        "description": "Una serie di contingenze internazionali, tra cui i bisticci con la Cina, hanno aperto l'esportazione dei mango più pregiati al mondo in Europa.\nL'articolo In Eu…",
-        "link": "https://www.dissapore.com/notizie/in-europa-arriveranno-per-la-prima-volta-i-mango-speciali-di-taiwan/",
-        "pubDate": "2026-07-16T08:12:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/mango-taiwanesi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Inizia (in anticipo) la vendemmia 2026 in Francia. Ma quest’anno non ci saranno stime ufficiali di raccolta",
-        "description": "Le ondate di calore sparigliano le carte ai produttori, provocando danni diffusi. La parola-chiave è prudenza, per questo non ci saranno le consuete previsioni …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-francia-2026-previsioni/",
-        "pubDate": "2026-07-16T07:07:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come si ottiene un vino rosato e quando è ammesso il taglio tra bianco e rosso",
-        "description": "La normativa europea di settore vieta espressamente questa pratica per produrre i vini generici, mentre con i prodotti a Dop e a Igp subentrano altre regole e p…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-rosato-come-si-ottiene/",
-        "pubDate": "2026-07-16T06:27:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Queste sono le 4 combo colore che renderanno più “fresh” la vostra estate, parola di fashion editor!",
-        "description": "Il diktat modaiolo dell&#8217;estate 2026? Puntare sul colore. O meglio, sui colori. Sì, perché se il caldo di queste settimane sembra non concederci tregua, il…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abbinamenti-colore-estate-2026-combo-da-provare-987147",
-        "pubDate": "2026-07-16T06:11:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_combo_colore_summer.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,51 @@
     ],
     "lifestyle": [
       {
+        "title": "Maccheroni alla molinara, la tradizione abruzzese che conquista la tavola",
+        "description": "I maccheroni alla molinara, piatto della tradizione italiana preparato con pasta fresca integrale e un ragù misto di vitello, agnello e maiale, tornano oggi al …",
+        "link": "https://www.gustoblog.it/2026/07/17/maccheroni-alla-molinara-la-tradizione-abruzzese-che-conquista-la-tavola/",
+        "pubDate": "2026-07-17T06:03:03+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Bressanone e Valle Isarco, il vino diventa motore del turismo esperienziale",
+        "description": "Secondo il più recente Rapporto sul Turismo Enogastronomico Italiano curato da Roberta Garibaldi, il vino è sempre più una motivazione di viaggio. I turisti cer…",
+        "link": "https://www.winemag.it/bressanone-e-valle-isarco-il-vino-diventa-motore-del-turismo-esperienziale/",
+        "pubDate": "2026-07-17T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Rillo chiama, Secondé risponde: Cantina del Taburno punta sul Metodo classico con l’enologo della Champagne",
+        "description": "Enzo Rillo chiama Nicolas Secondé risponde: Cantina del Taburno punta sul Metodo classico con l'enologo della Champagne. Nascerà il Consorzio\nL'articolo Rillo c…",
+        "link": "https://www.winemag.it/enzo-rillo-nicolas-seconde-cantina-del-taburno-spumanti-metodo-classico-enologo-champagne/",
+        "pubDate": "2026-07-17T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Enzo-Rillo-chiama-Nicolas-Seconde-risponde-Cantina-del-Taburno-punta-sul-Metodo-classico-con-enologo-della-Champagne.-Nascera-il-Consorzio-8.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Grand Hotel La Favorita di Sorrento lancia le guest shift al Bellavista Cocktail Bar",
+        "description": "Il Grand Hotel La Favorita di Sorrento inaugura un calendario di appuntamenti dedicati alla mixology d&#8217;autore. Protagonista dell&#8217;iniziativa è il Bel…",
+        "link": "https://www.winemag.it/grand-hotel-la-favorita-di-sorrento-lancia-le-guest-shift-al-bellavista-cocktail-bar/",
+        "pubDate": "2026-07-17T04:45:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Da gelateria artigianale a progetto d’impresa: la storia del brand che ha aperto (anche) nel centro di Vigevano",
+        "description": "Samuel Oldani racconta Fiabe di Gelato, un progetto che continua a crescere senza tradire la sua anima artigianale. Obiettivo: arrivare a 50 insegne entro il 20…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fiabe-di-gelato-gelateria-vigevano-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-07-16T19:53:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Da Puglia a Lombardia, le gelaterie che diventano ambasciatrici del gelato italiano",
         "description": "Il progetto Gelaterie Ambasciatrici del Gelato Italiano è arrivato ieri, mercoledì 15 luglio, a Triuggio, in provincia di Monza e Brianza, dove la gelateria L’I…",
         "link": "https://www.gustoblog.it/2026/07/16/da-puglia-a-lombardia-le-gelaterie-che-diventano-ambasciatrici-del-gelato-italiano/",
@@ -392,6 +437,60 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Vino rosato: le Doc italiane rincorrono il trend, ma non basta. L’errore principale? Considerarlo un ripiego",
+        "description": "Sono sempre di più le denominazioni che inseriscono la tipologia nei disciplinari, ma non basta riconvertire vigneti precedentemente destinati al rosso. L'esemp…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/nuovi-rosati-italiani-mancanza-identita/",
+        "pubDate": "2026-07-16T15:45:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La musica di Danilo Rea ed Enrico Rava incontra il Brunello: tutti gli appuntamenti di Jazz and wine in Montalcino",
+        "description": "Dal 20 al 26 luglio la patria del Brunello diventerà la patria del jazz, ospitando nomi di grande respiro internazionale. Ecco il programma completo tra Castell…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/jazz-and-wine-montalcino-programma-2026/",
+        "pubDate": "2026-07-16T15:27:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tra i castagni della Tuscia apre un nuovo ristorante immerso nel bosco",
+        "description": "Dopo dieci anni alla guida di Rosso Vignale, Tiberio Proietti inaugura un format nell’ex casale di famiglia: una cucina legata al territorio con due menu degust…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/marcellina-cucina-agricola-tiberio-proietti-viterbo/",
+        "pubDate": "2026-07-16T14:07:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il cocktail che ogni anno fa consumare una tonnellata di menta",
+        "description": "Nato come rimedio medicinale oltre due secoli fa, il Mint Julep è diventato il drink simbolo del Kentucky Derby, dove ogni anno vengono serviti oltre 125mila bi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mint-julep-storia-cocktail-kentucky-derby/",
+        "pubDate": "2026-07-16T13:59:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Primo quadrimestre dell’anno ancora negativo per l’export di vino italiano: valori a -6,8%. Aprile in lieve ripresa in Usa",
+        "description": "Nei primi quattro mesi dell'anno sono stati esportati 640 milioni di litri (-3,7%) per 2,33 miliardi di euro. La spumantistica in recupero grazie al Prosecco Do…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-italiano-primo-quadrimestre-2026/",
+        "pubDate": "2026-07-16T13:58:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’Europa prova a salvare vino e olio dalla scure dei dazi di Trump",
+        "description": "Nella lista delle esenzioni richieste da Bruxelles ci sono i prodotti agroalimentari per un valore di 150 miliardi di euro. Ma secondo il funzionario Ue per il …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/dazi-usa-lista-europea-prodotti-salvare/",
+        "pubDate": "2026-07-16T13:22:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Le 23 migliori gelaterie artigianali di Roma per il 2026",
@@ -446,105 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cibi-ultra-processati-burger-UPF-junk-food-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Nuovo spot istituzionale per il vino italiano. Concluse le riprese nella cantina Poggio Le Volpi",
-        "description": "A breve andrà in onda la seconda parte della campagna istituzionale voluta dal Ministero dell'Agricoltura e realizzata da Bibenda e dalla Fondazione italiana so…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/nuovo-spot-masaf-vino-italiano-riprese-cantina-poggio-le-volpi/",
-        "pubDate": "2026-07-16T09:01:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Europa arriveranno per la prima volta i mango speciali di Taiwan",
-        "description": "Una serie di contingenze internazionali, tra cui i bisticci con la Cina, hanno aperto l'esportazione dei mango più pregiati al mondo in Europa.\nL'articolo In Eu…",
-        "link": "https://www.dissapore.com/notizie/in-europa-arriveranno-per-la-prima-volta-i-mango-speciali-di-taiwan/",
-        "pubDate": "2026-07-16T08:12:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/mango-taiwanesi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Inizia (in anticipo) la vendemmia 2026 in Francia. Ma quest’anno non ci saranno stime ufficiali di raccolta",
-        "description": "Le ondate di calore sparigliano le carte ai produttori, provocando danni diffusi. La parola-chiave è prudenza, per questo non ci saranno le consuete previsioni …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-francia-2026-previsioni/",
-        "pubDate": "2026-07-16T07:07:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come si ottiene un vino rosato e quando è ammesso il taglio tra bianco e rosso",
-        "description": "La normativa europea di settore vieta espressamente questa pratica per produrre i vini generici, mentre con i prodotti a Dop e a Igp subentrano altre regole e p…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vino-rosato-come-si-ottiene/",
-        "pubDate": "2026-07-16T06:27:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quando le fregnacce diventano notizia",
-        "description": "A tavola, nelle cucine di casa italiane, le fregnacce tornano protagoniste oggi, 16 luglio 2026, come piatto di pasta fresca ripiena preparato con farina, uova,…",
-        "link": "https://www.gustoblog.it/2026/07/16/quando-le-fregnacce-diventano-notizia/",
-        "pubDate": "2026-07-16T06:03:20+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Tra la campagna romagnola e il mare c’è una pizzeria dove il menu lo decidono i raccolti",
-        "description": "A Sala di Cesenatico, la famiglia Vallorani coltiva la terra dal 1962. Oggi ortaggi, conserve e raccolti dell’azienda agricola diventano il punto di partenza de…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-family-cesenatico-azienda-agricola-mare/",
-        "pubDate": "2026-07-16T05:49:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "DegustaVigna 2026, Grosjean rilancia gli eventi tra i vigneti della Valle d’Aosta",
-        "description": "La famiglia Grosjean rinnova anche quest’anno l’appuntamento con DegustaVigna, il calendario di eventi ospitato nella propria azienda vitivinicola e dedicato al…",
-        "link": "https://www.winemag.it/degustavigna-2026-grosjean-rilancia-gli-eventi-tra-i-vigneti-della-valle-daosta/",
-        "pubDate": "2026-07-16T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Gianluca Carraro confermato presidente Consorzio Vini Colli Euganei",
-        "description": "Gianluca Carraro è stato confermato presidente del Consorzio tutela Vini Colli Euganei. Per Carraro si apre così il secondo mandato triennale consecutivo alla g…",
-        "link": "https://www.winemag.it/gianluca-carraro-confermato-presidente-consorzio-vini-colli-euganei/",
-        "pubDate": "2026-07-15T23:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vendemmia 2026 Australia ai minimi dal 2000: crollo uve rosse, prezzi non risalgono",
-        "description": "Vendemmia 2026 Australia ai minimi dal 2000: crollo uve rosse, prezzi non risalgono. Condizioni climatiche avverse e riduzione produzione\nL'articolo Vendemmia 2…",
-        "link": "https://www.winemag.it/vendemmia-2026-australia-ai-minimi-dal-2000-crollo-uve-rosse-prezzi-non-risalgono/",
-        "pubDate": "2026-07-15T22:31:57+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Vendemmia-2026-Australia-ai-minimi-dal-2000-crollo-uve-rosse-prezzi-non-risalgono-1-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cantina di Solopaca, Marco Giulioli (ex Guardiense) è il nuovo enologo consulente",
-        "description": "Cantina di Solopaca, Marco Giulioli (ex Guardiense) è il nuovo enologo consulente. Il presidente Carmine Coletta punta a rafforzare la cooperativa\nL'articolo Ca…",
-        "link": "https://www.winemag.it/cantina-di-solopaca-marco-giulioli-ex-guardiense-nuovo-enologo-consulente/",
-        "pubDate": "2026-07-15T22:15:17+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alessandro Costa nuovo presidente del Consorzio Tutela Roero",
-        "description": "Alessandro Costa è il nuovo presidente del Consorzio Tutela Roero. Il produttore ed enologo piemontese raccoglie il testimone da Massimo Damonte, alla guida del…",
-        "link": "https://www.winemag.it/alessandro-costa-nuovo-presidente-del-consorzio-tutela-roero/",
-        "pubDate": "2026-07-15T20:30:03+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Alessandro-Costa-nuovo-presidente-del-Consorzio-Tutela-Roero.-Succede-a-Massimo-Damonte-alla-guida-dellorganismo-piemontese-dal-2023-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
