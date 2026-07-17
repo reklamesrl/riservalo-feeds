@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-17T13:37:52.582567+00:00",
+  "generated": "2026-07-17T19:09:05.180096+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Lollobrigida: il governo punta a rivoluzionare l’agricoltura italiana",
+        "description": "Il ministro dell’Agricoltura, della Sovranità alimentare e delle Foreste, Francesco Lollobrigida, è intervenuto oggi a Lamezia Terme, in Calabria, a margine di …",
+        "link": "https://www.gustoblog.it/2026/07/17/lollobrigida-il-governo-punta-a-rivoluzionare-lagricoltura-italiana/",
+        "pubDate": "2026-07-17T18:05:03+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pane cotto: il sapore antico che torna in tavola",
+        "description": "A Pane cotto, piatto della cucina italiana di recupero preparato con pane raffermo, uova, porri, olio extravergine d’oliva e peperoncino, torna oggi nelle cucin…",
+        "link": "https://www.gustoblog.it/2026/07/17/pane-cotto-il-sapore-antico-che-torna-in-tavola/",
+        "pubDate": "2026-07-17T16:03:13+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Come pulire i filtri del condizionatore: la guida pratica per migliorare aria, consumi e prestazioni",
+        "description": "Una corretta manutenzione dei filtri del condizionatore migliora la qualità dell'aria, riduce i consumi e aiuta a evitare guasti. Ecco come intervenire nel modo…",
+        "link": "https://www.stylosophy.it/articolo/come-pulire-i-filtri-del-condizionatore-la-guida-pratica/252793/",
+        "pubDate": "2026-07-17T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Dallo spirito carioca alle capsule collection, passando per gli orologi più stilosi che rivoluzionano il modo di pagare, il blazer da non dimenticare in valigia…",
+        "link": "https://www.grazia.it/moda/news-moda/blazer-marella-swatch-orologio-locarno-farm-rio-pop-up-loewe-craft-prize-occhiali-lozza-lola-casademunt-borsa-shenze-milan-fashion-week-987541",
+        "pubDate": "2026-07-17T15:04:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/Senza-titolo-208.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Kylie Jenner sfoggia il bikini must dell’estate 2026 dall’effetto metallizzato",
         "description": "Kylie Jenner, sempre al passo con i tempi, per quest'estate, sceglie il bikini must di stagione.…",
@@ -21,6 +57,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "In cerca di pantaloni estivi comodi e freschi? Questi 7 modelli di tendenza saranno la nostra salvezza!",
+        "description": "In estate sembra quasi che l’unica opzione che abbiamo a disposizione per affrontare con nonchalance anche le giornate più calde sia quella di indossare esclusi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-estivi-comodi-freschi-leggeri-eleganti-zara-balloon-righe-gamba-larga-ampi-lino-estate-987580",
+        "pubDate": "2026-07-17T12:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Pantaloni_estivi_comodi.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Falesie dorate e mare cristallino: sono queste le spiagge più belle dell’Algarve",
         "description": "Sono queste le spiagge più belle dell'Algarve, un mix di natura incontaminata, paesaggi mozzafiato e mare blu. Da non perdere!…",
         "link": "https://www.stylosophy.it/articolo/falesie-dorate-e-mare-cristallino-sono-queste-le-spiagge-piu-belle-dellalgarve/252769/",
@@ -28,6 +73,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Benedetta Parodi insegna: il maxi dress marrone è la scelta migliore che possiamo fare quest’estate!",
+        "description": "Benedetta Parodi, conduttrice tv amatissima si sta gode una piccola pausa nella calda estate italiana. Sul suo profilo Instagram ha postato alcune foto di lei i…",
+        "link": "https://www.grazia.it/moda/celebrity-style/abito-lungo-marrone-benedetta-parodi-estate-987209",
+        "pubDate": "2026-07-17T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/benedetta-parodi-abito-marrone.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "James Watt vuole ricomprarsi BrewDog, ma è nei guai con l’autorità della privacy",
@@ -84,6 +138,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Jennifer Lopez, Anne Hathaway, Matilde Gioli e tutte le star meglio vestite della settimana",
+        "description": "Da Jennifer Lopez e Anne Hathaway, passando per le star italiane più eleganti del momento, questa settimana il mondo della moda ci ha regalato look memorabili t…",
+        "link": "https://www.grazia.it/moda/celebrity-style/jennifer-lopez-anne-hathaway-look-piu-belli-settimana-987329",
+        "pubDate": "2026-07-17T08:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_best_dressed-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Il taglio del maiale che in Toscana conoscono tutti (ma fuori quasi nessuno)",
         "description": "Si chiama scamerita ed è uno dei tagli più apprezzati della tradizione toscana. Costa meno della lonza, ma grazie alla sua marezzatura resta morbido e succoso, …",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scamerita-taglio-maiale-toscana/",
@@ -91,6 +154,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Hailey Bieber firma una capsule di jeans per GAP",
+        "description": "Il 16 luglio 2026 Hailey Bieber lancia con Gap The Hailey Jean, capsule di jeans oversize anni ’90 dal prezzo accessibile. Dall’orario del drop alla scelta del …",
+        "link": "https://www.grazia.it/moda/news-moda/hailey-bieber-gap-jeans-anni-90-987163",
+        "pubDate": "2026-07-17T06:07:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/hailey-bieber-gap.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Maccheroni alla molinara, la tradizione abruzzese che conquista la tavola",
@@ -109,81 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Bressanone e Valle Isarco, il vino diventa motore del turismo esperienziale",
-        "description": "Secondo il più recente Rapporto sul Turismo Enogastronomico Italiano curato da Roberta Garibaldi, il vino è sempre più una motivazione di viaggio. I turisti cer…",
-        "link": "https://www.winemag.it/bressanone-e-valle-isarco-il-vino-diventa-motore-del-turismo-esperienziale/",
-        "pubDate": "2026-07-17T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Rillo chiama, Secondé risponde: Cantina del Taburno punta sul Metodo classico con l’enologo della Champagne",
-        "description": "Enzo Rillo chiama Nicolas Secondé risponde: Cantina del Taburno punta sul Metodo classico con l'enologo della Champagne. Nascerà il Consorzio\nL'articolo Rillo c…",
-        "link": "https://www.winemag.it/enzo-rillo-nicolas-seconde-cantina-del-taburno-spumanti-metodo-classico-enologo-champagne/",
-        "pubDate": "2026-07-17T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Enzo-Rillo-chiama-Nicolas-Seconde-risponde-Cantina-del-Taburno-punta-sul-Metodo-classico-con-enologo-della-Champagne.-Nascera-il-Consorzio-8.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Grand Hotel La Favorita di Sorrento lancia le guest shift al Bellavista Cocktail Bar",
-        "description": "Il Grand Hotel La Favorita di Sorrento inaugura un calendario di appuntamenti dedicati alla mixology d&#8217;autore. Protagonista dell&#8217;iniziativa è il Bel…",
-        "link": "https://www.winemag.it/grand-hotel-la-favorita-di-sorrento-lancia-le-guest-shift-al-bellavista-cocktail-bar/",
-        "pubDate": "2026-07-17T04:45:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Da gelateria artigianale a progetto d’impresa: la storia del brand che ha aperto (anche) nel centro di Vigevano",
-        "description": "Samuel Oldani racconta Fiabe di Gelato, un progetto che continua a crescere senza tradire la sua anima artigianale. Obiettivo: arrivare a 50 insegne entro il 20…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fiabe-di-gelato-gelateria-vigevano-nocciola-monferrato-agrimontana/",
-        "pubDate": "2026-07-16T19:53:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Da Puglia a Lombardia, le gelaterie che diventano ambasciatrici del gelato italiano",
-        "description": "Il progetto Gelaterie Ambasciatrici del Gelato Italiano è arrivato ieri, mercoledì 15 luglio, a Triuggio, in provincia di Monza e Brianza, dove la gelateria L’I…",
-        "link": "https://www.gustoblog.it/2026/07/16/da-puglia-a-lombardia-le-gelaterie-che-diventano-ambasciatrici-del-gelato-italiano/",
-        "pubDate": "2026-07-16T18:05:08+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Come eliminare i cattivi odori in cucina: 5 rimedi naturali semplici ed efficaci",
-        "description": "Dal frigorifero al lavello, esistono rimedi naturali che aiutano a mantenere la cucina fresca e pulita senza ricorrere a prodotti specifici o deodoranti artific…",
-        "link": "https://www.stylosophy.it/articolo/come-eliminare-i-cattivi-odori-in-cucina-rimedi-naturali/252757/",
-        "pubDate": "2026-07-16T16:15:00+00:00",
+        "title": "Come pulire i filtri del condizionatore: la guida pratica per migliorare aria, consumi e prestazioni",
+        "description": "Una corretta manutenzione dei filtri del condizionatore migliora la qualità dell'aria, riduce i consumi e aiuta a evitare guasti. Ecco come intervenire nel modo…",
+        "link": "https://www.stylosophy.it/articolo/come-pulire-i-filtri-del-condizionatore-la-guida-pratica/252793/",
+        "pubDate": "2026-07-17T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Come cambia la pizza in teglia di Gabriele Bonci per arrivare a Dubai",
-        "description": "Polpette di carne halal, pizza in teglia al babaganoush e ambiente di design: ecco come è il nuovo Bonci Restaurant a Dubai\nL'articolo Come cambia la pizza in t…",
-        "link": "https://www.dissapore.com/notizie/come-cambia-la-pizza-in-teglia-di-gabriele-bonci-per-arrivare-a-dubai/",
-        "pubDate": "2026-07-16T16:04:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/2.Bonci-Dubai.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Dallo spirito carioca alle capsule collection, passando per gli orologi più stilosi che rivoluzionano il modo di pagare, il blazer da non dimenticare in valigia…",
+        "link": "https://www.grazia.it/moda/news-moda/blazer-marella-swatch-orologio-locarno-farm-rio-pop-up-loewe-craft-prize-occhiali-lozza-lola-casademunt-borsa-shenze-milan-fashion-week-987541",
+        "pubDate": "2026-07-17T15:04:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/Senza-titolo-208.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Acquasale, il piatto povero che racconta l’estate del Sud",
-        "description": "A luglio 2026, nelle cucine domestiche del Sud Italia, l’acquasale torna tra le ricette più cercate da chi vuole recuperare pane raffermo, uova e pochi ingredie…",
-        "link": "https://www.gustoblog.it/2026/07/16/acquasale-il-piatto-povero-che-racconta-lestate-del-sud/",
-        "pubDate": "2026-07-16T16:03:04+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      }
-    ],
-    "moda": [
       {
         "title": "Kylie Jenner sfoggia il bikini must dell’estate 2026 dall’effetto metallizzato",
         "description": "Kylie Jenner, sempre al passo con i tempi, per quest'estate, sceglie il bikini must di stagione.…",
@@ -192,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "In cerca di pantaloni estivi comodi e freschi? Questi 7 modelli di tendenza saranno la nostra salvezza!",
+        "description": "In estate sembra quasi che l’unica opzione che abbiamo a disposizione per affrontare con nonchalance anche le giornate più calde sia quella di indossare esclusi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-estivi-comodi-freschi-leggeri-eleganti-zara-balloon-righe-gamba-larga-ampi-lino-estate-987580",
+        "pubDate": "2026-07-17T12:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Pantaloni_estivi_comodi.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Falesie dorate e mare cristallino: sono queste le spiagge più belle dell’Algarve",
@@ -203,6 +230,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Benedetta Parodi insegna: il maxi dress marrone è la scelta migliore che possiamo fare quest’estate!",
+        "description": "Benedetta Parodi, conduttrice tv amatissima si sta gode una piccola pausa nella calda estate italiana. Sul suo profilo Instagram ha postato alcune foto di lei i…",
+        "link": "https://www.grazia.it/moda/celebrity-style/abito-lungo-marrone-benedetta-parodi-estate-987209",
+        "pubDate": "2026-07-17T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/benedetta-parodi-abito-marrone.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "I colori di smalto perfetti per le over 50. Di classe e sofisticati!",
         "description": "Sono questi i colori di smalto più indicati per le over 50, eleganti, raffinati e mai banali. Perfetti per minimizzare i segni del tempo!…",
         "link": "https://www.stylosophy.it/articolo/i-colori-di-smalto-perfetti-per-le-over-50-di-classe-e-sofisticati/252778/",
@@ -210,6 +246,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Jennifer Lopez, Anne Hathaway, Matilde Gioli e tutte le star meglio vestite della settimana",
+        "description": "Da Jennifer Lopez e Anne Hathaway, passando per le star italiane più eleganti del momento, questa settimana il mondo della moda ci ha regalato look memorabili t…",
+        "link": "https://www.grazia.it/moda/celebrity-style/jennifer-lopez-anne-hathaway-look-piu-belli-settimana-987329",
+        "pubDate": "2026-07-17T08:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_best_dressed-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Hailey Bieber firma una capsule di jeans per GAP",
+        "description": "Il 16 luglio 2026 Hailey Bieber lancia con Gap The Hailey Jean, capsule di jeans oversize anni ’90 dal prezzo accessibile. Dall’orario del drop alla scelta del …",
+        "link": "https://www.grazia.it/moda/news-moda/hailey-bieber-gap-jeans-anni-90-987163",
+        "pubDate": "2026-07-17T06:07:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/hailey-bieber-gap.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Come eliminare i cattivi odori in cucina: 5 rimedi naturali semplici ed efficaci",
@@ -309,63 +363,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/ok-apertuaDG-ALTA-MODA-TAORMINA-2026-PH-GO-RUNWAY-PR-LOOK-00.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Jennifer Lopez vola in Sicilia con il Look must di stagione firmato Dolce & Gabbana",
-        "description": "Ecco che cosa ha indossato Jennifer Lopez in Sicilia a Taormina: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/jennifer-lopez-vola-in-sicilia-con-il-look-must-di-stagione-firmato-dolce-gabbana/252708/",
-        "pubDate": "2026-07-15T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Nel look di Zendaya alla prémiere di “The Odissey” c’è un dettaglio di stile favoloso che possiamo sfoggiare tutte (e no, non stiamo parlando delle ali!)",
-        "description": "In queste ultime settimane ha fatto parlare di sé con i look sfoggiati in giro per il mondo durante il tour promozionale di “The Odissey” e anche ieri sera, all…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/orecchini-pendenti-lunghi-zendaya-odissea-new-york-chopard-pandora-argento-987110",
-        "pubDate": "2026-07-15T11:21:05+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Orecchini_pendenti_Zendaya.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In Grecia con Burberry per celebrare la campagna eyewear Primavera-Estate 2026",
-        "description": "Burberry ha scelto la Grecia come meta dell&#8217;estate 2026. Per festeggiare la campagna eyewear Primavera-Estate, la grande casa di moda britannica fondata n…",
-        "link": "https://www.grazia.it/moda/news-moda/burberry-campagna-eyewear-primavera-estate-2026-986830",
-        "pubDate": "2026-07-15T08:29:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/DESK-Burberry-one-and-only-Athens.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il must-have dell’estate? Gli occhiali da sole, ovviamente! 13 modelli chic & cool da aggiungere alla vostra wish-list!",
-        "description": "Qual è l&#8217;accessorio indispensabile numero uno dell&#8217;estate? C&#8217;è chi direbbe i ventagli &#8211; e come dare loro torto con 40 gradi all’ombra&#1…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-da-sole-donna-classici-tartarugati-colorati-firmati-estate-2026-986754",
-        "pubDate": "2026-07-15T06:03:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_occhiali_da_sole.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Come costruire il perfetto Capsule Wardrobe dell’estate? Ecco i capi e gli accessori (freschi e chic) da avere sempre a disposizione",
-        "description": "Specialmente d’estate, quando le temperature alle stelle non ci invogliano certo a fare infinite prove davanti allo specchio per trovare l&#8217;outfit perfetto…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/capsule-wardrobe-estate-guardaroba-chic-cosa-avere-donna-pochi-capi-accessori-freschi-leggeri-shopping-986294",
-        "pubDate": "2026-07-14T18:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/DESK_Capsule_Wardrobe_estate.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’abito perfetto per sposarsi a 50 anni? Eva Herzigova riscrive le regole dell’eleganza bridal  nel giorno del suo “sì”",
-        "description": "È convolata a nozze con il compagno di sempre, l’imprenditore Gregorio Marsiaj, e la mise che ha scelto per andare all’altare si è già aggiudicata un posto nell…",
-        "link": "https://www.grazia.it/moda/celebrity-style/abito-da-sposa-50-anni-vestito-eva-herzigova-matrimonio-civile-torino-986868",
-        "pubDate": "2026-07-14T12:07:05+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abito_per_sposarsi_a_50_anni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Lollobrigida: il governo punta a rivoluzionare l’agricoltura italiana",
+        "description": "Il ministro dell’Agricoltura, della Sovranità alimentare e delle Foreste, Francesco Lollobrigida, è intervenuto oggi a Lamezia Terme, in Calabria, a margine di …",
+        "link": "https://www.gustoblog.it/2026/07/17/lollobrigida-il-governo-punta-a-rivoluzionare-lagricoltura-italiana/",
+        "pubDate": "2026-07-17T18:05:03+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pane cotto: il sapore antico che torna in tavola",
+        "description": "A Pane cotto, piatto della cucina italiana di recupero preparato con pane raffermo, uova, porri, olio extravergine d’oliva e peperoncino, torna oggi nelle cucin…",
+        "link": "https://www.gustoblog.it/2026/07/17/pane-cotto-il-sapore-antico-che-torna-in-tavola/",
+        "pubDate": "2026-07-17T16:03:13+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "L’olio extravergine di oliva è uno soltanto: cosa cambia con lo stop alle miscele",
         "description": "Perché si è arrivati a imporre il divieto di miscelare olio extravergine d'oliva e olio d'oliva, e perché fino a ora si poteva fare.\nL'articolo L&#8217;olio ext…",
@@ -448,33 +466,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Bressanone e Valle Isarco, il vino diventa motore del turismo esperienziale",
-        "description": "Secondo il più recente Rapporto sul Turismo Enogastronomico Italiano curato da Roberta Garibaldi, il vino è sempre più una motivazione di viaggio. I turisti cer…",
-        "link": "https://www.winemag.it/bressanone-e-valle-isarco-il-vino-diventa-motore-del-turismo-esperienziale/",
-        "pubDate": "2026-07-17T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Rillo chiama, Secondé risponde: Cantina del Taburno punta sul Metodo classico con l’enologo della Champagne",
-        "description": "Enzo Rillo chiama Nicolas Secondé risponde: Cantina del Taburno punta sul Metodo classico con l'enologo della Champagne. Nascerà il Consorzio\nL'articolo Rillo c…",
-        "link": "https://www.winemag.it/enzo-rillo-nicolas-seconde-cantina-del-taburno-spumanti-metodo-classico-enologo-champagne/",
-        "pubDate": "2026-07-17T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Enzo-Rillo-chiama-Nicolas-Seconde-risponde-Cantina-del-Taburno-punta-sul-Metodo-classico-con-enologo-della-Champagne.-Nascera-il-Consorzio-8.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Grand Hotel La Favorita di Sorrento lancia le guest shift al Bellavista Cocktail Bar",
-        "description": "Il Grand Hotel La Favorita di Sorrento inaugura un calendario di appuntamenti dedicati alla mixology d&#8217;autore. Protagonista dell&#8217;iniziativa è il Bel…",
-        "link": "https://www.winemag.it/grand-hotel-la-favorita-di-sorrento-lancia-le-guest-shift-al-bellavista-cocktail-bar/",
-        "pubDate": "2026-07-17T04:45:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Da gelateria artigianale a progetto d’impresa: la storia del brand che ha aperto (anche) nel centro di Vigevano",
         "description": "Samuel Oldani racconta Fiabe di Gelato, un progetto che continua a crescere senza tradire la sua anima artigianale. Obiettivo: arrivare a 50 insegne entro il 20…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fiabe-di-gelato-gelateria-vigevano-nocciola-monferrato-agrimontana/",
@@ -545,6 +536,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le 23 migliori gelaterie artigianali di Roma per il 2026",
+        "description": "Le migliori gelaterie di Roma città nel 2026, tra quelle incluse nella classifica nazionale di Dissapore e le tante altre artigianali che meritano di fare la fi…",
+        "link": "https://www.dissapore.com/locali/le-23-migliori-gelaterie-artigianali-di-roma-per-il-2026/",
+        "pubDate": "2026-07-16T12:56:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/criollo-gelateria-roma-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
