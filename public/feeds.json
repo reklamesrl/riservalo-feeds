@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-18T13:15:34.061104+00:00",
+  "generated": "2026-07-18T19:03:49.995074+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Roma celebra due anni di successo per l’arrosticino abruzzese",
+        "description": "A Roma, nel cuore di Trastevere, il franchise ArroWsticino ha festeggiato in questi giorni i due anni di attività con un brindisi che è diventato anche l’occasi…",
+        "link": "https://www.gustoblog.it/2026/07/18/roma-celebra-due-anni-di-successo-per-larrosticino-abruzzese/",
+        "pubDate": "2026-07-18T18:04:46+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Lumache all’origano: il sapore autentico della tradizione",
+        "description": "A Carmelo Scuderi viene attribuita una ricetta italiana di casa, le lumache all’origano, preparata con lumache, pomodori pelati, aglio, peperoncino e origano, u…",
+        "link": "https://www.gustoblog.it/2026/07/18/lumache-allorigano-il-sapore-autentico-della-tradizione/",
+        "pubDate": "2026-07-18T16:02:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Parti per le vacanze? 5 consigli per lasciare Casa pulita e impeccabile",
+        "description": "Prima di chiudere la porta e partire, bastano pochi accorgimenti per lasciare la casa ordinata, pulita e sicura. Ecco cosa fare per ritrovare un ambiente piacev…",
+        "link": "https://www.stylosophy.it/articolo/parti-per-le-vacanze-consigli-per-lasciare-la-casa-pulita-e-impeccabile/252808/",
+        "pubDate": "2026-07-18T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La creatina si fa largo negli alimenti, con benefici anche per la salute mentale",
+        "description": "Li studi sui benefici della creatina sulla salute mentale non hanno ancora dato risultati solidi, ma l'industria alimentare vuole cavalcare il prossimo trend de…",
+        "link": "https://www.dissapore.com/notizie/la-creatina-si-fa-largo-negli-alimenti-con-benefici-anche-per-la-salute-mentale/",
+        "pubDate": "2026-07-18T14:31:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/creatina-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Ilary Blasi, a Saint-Tropez con il kimono e la borsa shopping griffata: il beach Look da copiare!",
         "description": "Ilary Blasi, anche per la spiaggia, non rinuncia allo stile più trendy e glamour sfoggiando un elegante kimono e una borsa shopping griffata.…",
@@ -64,6 +100,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/pub-birra-spina-scaled-e1778077757486.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Summer hats: i cappelli perfetti per l’estate di cui innamorarsi asap!",
+        "description": "In estate, soprattutto con le ultime temperature che sfiorano i 40 gradi all’ombra, non sono tanto i capi a fare davvero il look, quanto gli accessori. Piccoli,…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cappelli-donna-estate-moda-2026-paglia-tesa-larga-987222",
+        "pubDate": "2026-07-18T06:07:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_cappelli_estivi.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Maccheroni alla chitarra: il gusto autentico della tradizione abruzzese",
@@ -136,54 +181,18 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Come pulire i filtri del condizionatore: la guida pratica per migliorare aria, consumi e prestazioni",
-        "description": "Una corretta manutenzione dei filtri del condizionatore migliora la qualità dell'aria, riduce i consumi e aiuta a evitare guasti. Ecco come intervenire nel modo…",
-        "link": "https://www.stylosophy.it/articolo/come-pulire-i-filtri-del-condizionatore-la-guida-pratica/252793/",
-        "pubDate": "2026-07-17T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Dallo spirito carioca alle capsule collection, passando per gli orologi più stilosi che rivoluzionano il modo di pagare, il blazer da non dimenticare in valigia…",
-        "link": "https://www.grazia.it/moda/news-moda/blazer-marella-swatch-orologio-locarno-farm-rio-pop-up-loewe-craft-prize-occhiali-lozza-lola-casademunt-borsa-shenze-milan-fashion-week-987541",
-        "pubDate": "2026-07-17T15:04:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/Senza-titolo-208.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Violenta grandinata nei vigneti del Trentino: danni per 5 milioni di euro. Si teme per la vendemmia",
-        "description": "Colpiti 250 ettari di vigneto. Codipra: \"Siamo di fronte a una nuova normalità\". Coldiretti segnala che in una sola settimana si sono verificati 203 eventi estr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-2026-grandinata-vigneti-trentino/",
-        "pubDate": "2026-07-17T14:22:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Milano ha aperto un bar dove la cosa più rivoluzionaria è la normalità (e la michetta)",
-        "description": "Roberta Viale e Vincenzo Todaro aprono a NoLo un locale che unisce vini artigianali, michette e accoglienza. L'obiettivo non è stupire, ma riportare il bar alla…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/bar-normale-milano-nolo/",
-        "pubDate": "2026-07-17T14:21:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Kylie Jenner sfoggia il bikini must dell’estate 2026 dall’effetto metallizzato",
-        "description": "Kylie Jenner, sempre al passo con i tempi, per quest'estate, sceglie il bikini must di stagione.…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-sfoggia-il-bikini-must-dellestate-2026-dalleffetto-metallizzato/252788/",
-        "pubDate": "2026-07-17T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Parti per le vacanze? 5 consigli per lasciare Casa pulita e impeccabile",
+        "description": "Prima di chiudere la porta e partire, bastano pochi accorgimenti per lasciare la casa ordinata, pulita e sicura. Ecco cosa fare per ritrovare un ambiente piacev…",
+        "link": "https://www.stylosophy.it/articolo/parti-per-le-vacanze-consigli-per-lasciare-la-casa-pulita-e-impeccabile/252808/",
+        "pubDate": "2026-07-18T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Ilary Blasi, a Saint-Tropez con il kimono e la borsa shopping griffata: il beach Look da copiare!",
         "description": "Ilary Blasi, anche per la spiaggia, non rinuncia allo stile più trendy e glamour sfoggiando un elegante kimono e una borsa shopping griffata.…",
@@ -201,6 +210,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Summer hats: i cappelli perfetti per l’estate di cui innamorarsi asap!",
+        "description": "In estate, soprattutto con le ultime temperature che sfiorano i 40 gradi all’ombra, non sono tanto i capi a fare davvero il look, quanto gli accessori. Piccoli,…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cappelli-donna-estate-moda-2026-paglia-tesa-larga-987222",
+        "pubDate": "2026-07-18T06:07:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_cappelli_estivi.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Come pulire i filtri del condizionatore: la guida pratica per migliorare aria, consumi e prestazioni",
@@ -329,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "5 Consigli indispensabili per mani belle e curate. Il 4 è davvero efficace!",
-        "description": "Ecco 5 consigli davvero utili per avere mani al top: curate, morbide e idratate. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/5-consigli-indispensabili-per-mani-belle-e-curate-il-4-e-davvero-efficace/252732/",
-        "pubDate": "2026-07-16T09:49:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Queste sono le 4 combo colore che renderanno più “fresh” la vostra estate, parola di fashion editor!",
         "description": "Il diktat modaiolo dell&#8217;estate 2026? Puntare sul colore. O meglio, sui colori. Sì, perché se il caldo di queste settimane sembra non concederci tregua, il…",
         "link": "https://www.grazia.it/moda/tendenze-moda/abbinamenti-colore-estate-2026-combo-da-provare-987147",
@@ -354,18 +363,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/Gianni-Versace-mostra-1.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Dolce & Gabbana Alta Moda Taormina 2026: i 5 momenti che hanno definito la sfilata delle dee siciliane",
-        "description": "Dolce &#38; Gabbana ha presentato la nuova collezione Alta Moda 2026 a Taormina in uno show diventato subito una dichiarazione d&#8217;amore alla Sicilia, alle …",
-        "link": "https://www.grazia.it/moda/news-moda/dolce-gabbana-sfilata-alta-moda-taormina-2026-momenti-da-ricordare-leonie-cassel-monica-bellucci-jennifer-lopez-986973",
-        "pubDate": "2026-07-15T13:27:58+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/ok-apertuaDG-ALTA-MODA-TAORMINA-2026-PH-GO-RUNWAY-PR-LOOK-00.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Roma celebra due anni di successo per l’arrosticino abruzzese",
+        "description": "A Roma, nel cuore di Trastevere, il franchise ArroWsticino ha festeggiato in questi giorni i due anni di attività con un brindisi che è diventato anche l’occasi…",
+        "link": "https://www.gustoblog.it/2026/07/18/roma-celebra-due-anni-di-successo-per-larrosticino-abruzzese/",
+        "pubDate": "2026-07-18T18:04:46+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Lumache all’origano: il sapore autentico della tradizione",
+        "description": "A Carmelo Scuderi viene attribuita una ricetta italiana di casa, le lumache all’origano, preparata con lumache, pomodori pelati, aglio, peperoncino e origano, u…",
+        "link": "https://www.gustoblog.it/2026/07/18/lumache-allorigano-il-sapore-autentico-della-tradizione/",
+        "pubDate": "2026-07-18T16:02:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La creatina si fa largo negli alimenti, con benefici anche per la salute mentale",
+        "description": "Li studi sui benefici della creatina sulla salute mentale non hanno ancora dato risultati solidi, ma l'industria alimentare vuole cavalcare il prossimo trend de…",
+        "link": "https://www.dissapore.com/notizie/la-creatina-si-fa-largo-negli-alimenti-con-benefici-anche-per-la-salute-mentale/",
+        "pubDate": "2026-07-18T14:31:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/creatina-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Niko Romito e Jeremy Chan: annunciata un’accoppiata inedita per Buonissima 2026",
         "description": "Due appuntamenti - un pranzo e una cena - in una galleria d'arte: Buonissima 2026 annuncia il suo primo evento, con due chef radicali che si incontrano per una …",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sempre più persone pagano per cenare con perfetti sconosciuti",
-        "description": "Indirizzi comunicati all'ultimo momento, tavolate condivise con sconosciuti e menu che cambiano ogni sera: i supper club stanno crescendo anche in Italia e prop…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/supper-club-cene-segrete-sconosciuti-italia/",
-        "pubDate": "2026-07-17T12:39:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’olio extravergine di oliva è uno soltanto: cosa cambia con lo stop alle miscele",
-        "description": "Perché si è arrivati a imporre il divieto di miscelare olio extravergine d'oliva e olio d'oliva, e perché fino a ora si poteva fare.\nL'articolo L&#8217;olio ext…",
-        "link": "https://www.dissapore.com/spesa/lolio-extravergine-di-oliva-e-uno-soltanto-cosa-cambia-con-lo-stop-alle-miscele/",
-        "pubDate": "2026-07-17T12:12:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2016/09/olive-taggiasche.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "James Watt vuole ricomprarsi BrewDog, ma è nei guai con l’autorità della privacy",
-        "description": "Nuova puntata dell'eterna vicenda BrewDog: James Watt ci riprova, e pure stavolta non mancano le polemiche.\nL'articolo James Watt vuole ricomprarsi BrewDog, ma …",
-        "link": "https://www.dissapore.com/notizie/james-watt-vuole-ricomprarsi-brewdog-ma-e-nei-guai-con-lautorita-della-privacy/",
-        "pubDate": "2026-07-17T10:51:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/second-best-lattine-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
