@@ -1,7 +1,25 @@
 {
-  "generated": "2026-07-19T19:06:18.771519+00:00",
+  "generated": "2026-07-20T09:14:05.846613+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Tagliatelle al baccalà, il primo piatto di mare che sorprende",
+        "description": "Le tagliatelle al baccalà tornano oggi, 20 luglio 2026, sulle tavole italiane come ricetta di casa firmata da Carmelo Scuderi, un primo piatto di tradizione naz…",
+        "link": "https://www.gustoblog.it/2026/07/20/tagliatelle-al-baccala-il-primo-piatto-di-mare-che-sorprende/",
+        "pubDate": "2026-07-20T06:03:26+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Lachancea thermotolerans contro le basse acidità: la Scommessa di Santa Barbara",
+        "description": "Lachancea thermotolerans, il lievito contro le basse acidità dovute ai cambiamenti climatici: la Scommessa di Santa Barbara sul Verdicchio\nL'articolo Lachancea …",
+        "link": "https://www.winemag.it/lachancea-thermotolerans-contro-le-basse-acidita-la-scommessa-di-santa-barbara/",
+        "pubDate": "2026-07-20T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Ristorazione, stipendi medi a 1.700 euro al mese secondo l’Osservatorio Restworld",
         "description": "La retribuzione media nella ristorazione italiana resta ferma a 1.700 euro netti al mese nel 2026, secondo il Bollettino dell’Osservatorio Restworld sulla Risto…",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Lumache all’origano: il sapore autentico della tradizione",
-        "description": "A Carmelo Scuderi viene attribuita una ricetta italiana di casa, le lumache all’origano, preparata con lumache, pomodori pelati, aglio, peperoncino e origano, u…",
-        "link": "https://www.gustoblog.it/2026/07/18/lumache-allorigano-il-sapore-autentico-della-tradizione/",
-        "pubDate": "2026-07-18T16:02:45+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Parti per le vacanze? 5 consigli per lasciare Casa pulita e impeccabile",
-        "description": "Prima di chiudere la porta e partire, bastano pochi accorgimenti per lasciare la casa ordinata, pulita e sicura. Ecco cosa fare per ritrovare un ambiente piacev…",
-        "link": "https://www.stylosophy.it/articolo/parti-per-le-vacanze-consigli-per-lasciare-la-casa-pulita-e-impeccabile/252808/",
-        "pubDate": "2026-07-18T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Tagliatelle al baccalà, il primo piatto di mare che sorprende",
+        "description": "Le tagliatelle al baccalà tornano oggi, 20 luglio 2026, sulle tavole italiane come ricetta di casa firmata da Carmelo Scuderi, un primo piatto di tradizione naz…",
+        "link": "https://www.gustoblog.it/2026/07/20/tagliatelle-al-baccala-il-primo-piatto-di-mare-che-sorprende/",
+        "pubDate": "2026-07-20T06:03:26+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Lachancea thermotolerans contro le basse acidità: la Scommessa di Santa Barbara",
+        "description": "Lachancea thermotolerans, il lievito contro le basse acidità dovute ai cambiamenti climatici: la Scommessa di Santa Barbara sul Verdicchio\nL'articolo Lachancea …",
+        "link": "https://www.winemag.it/lachancea-thermotolerans-contro-le-basse-acidita-la-scommessa-di-santa-barbara/",
+        "pubDate": "2026-07-20T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Ristorazione, stipendi medi a 1.700 euro al mese secondo l’Osservatorio Restworld",
         "description": "La retribuzione media nella ristorazione italiana resta ferma a 1.700 euro netti al mese nel 2026, secondo il Bollettino dell’Osservatorio Restworld sulla Risto…",
         "link": "https://www.gustoblog.it/2026/07/19/ristorazione-stipendi-medi-a-1-700-euro-al-mese-secondo-losservatorio-restworld/",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cinta-senese-nei-boschi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il Giappone sta perdendo uno dei suoi locali più iconici",
-        "description": "Per decenni gli izakaya sono stati il luogo dove i colleghi si ritrovavano dopo il lavoro tra birra, sakè e piccoli piatti da condividere. Oggi chiudono a un ri…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/izakaya-crisi-giappone-locali-tradizionali/",
-        "pubDate": "2026-07-18T08:34:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mario Soldati raccontò il cibo agli italiani, ma non sapeva cucinare: “Al massimo si faceva un caffè»",
-        "description": "A 120 anni dalla nascita, il figlio Wolfango racconta il lato più privato dello scrittore che portò il cibo nella televisione italiana: le cuoche di casa, la po…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/wolfango-figlio-di-mario-soldati-ricordo/",
-        "pubDate": "2026-07-18T07:40:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
