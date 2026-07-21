@@ -1,7 +1,88 @@
 {
-  "generated": "2026-07-21T08:29:02.064861+00:00",
+  "generated": "2026-07-21T13:50:27.961399+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Bad Bunny a Milano, Hennessy firma il “tour nel tour” tra musica, mixology ed eventi esclusivi",
+        "description": "Milano ha ospitato la tappa italiana del “DeBÍ TiRAR MáS FOToS World Tour” di Bad Bunny. In occasione della due giorni di concerti, Hennessy, partner globale de…",
+        "link": "https://www.winemag.it/bad-bunny-a-milano-hennessy-firma-il-tour-nel-tour-tra-musica-mixology-ed-eventi-esclusivi/",
+        "pubDate": "2026-07-21T12:54:02+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Pistì lancia Lestivo Fotonico TOP: il panettone estivo con pesca candita e pistacchio",
+        "description": "Pistì punta sulla destagionalizzazione dei grandi lievitati e presenta Lestivo Fotonico TOP. Una novità pensata per portare il panettone oltre il tradizionale p…",
+        "link": "https://www.winemag.it/pisti-lancia-lestivo-fotonico-top-il-panettone-estivo-con-pesca-candita-e-pistacchio/",
+        "pubDate": "2026-07-21T12:09:18+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ha preso la pizza in teglia e l’ha trasformata in un piatto da ristorante",
+        "description": "A Magliano dei Marsi Federico Tangredi ha trasformato un pub in una pizzeria con un'idea insolita: servire la pizza in teglia direttamente al tavolo, in piccoli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-teglia-tavolo-jamboree-abruzzo/",
+        "pubDate": "2026-07-21T10:45:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli errori da evitare a tavola in Italia: la guida della BBC ci canzona",
+        "description": "Con un vademecum in sette punti per comportarsi bene nei ristoranti italiani, i media inglesi ci descrivono impietosamente. Ma c'è un fondo di verità. \nL'artico…",
+        "link": "https://www.dissapore.com/ristoranti/gli-errori-da-evitare-a-tavola-in-italia-la-guida-della-bbc-ci-canzona/",
+        "pubDate": "2026-07-21T10:32:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cappuccino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nasce la rete (e il manifesto) delle bollicine siciliane. Sull’isola sono 140 le cantine che producono spumanti",
+        "description": "La tipologia copre ormai quasi tutta la Sicilia: a crescere di più è il metodo classico dell'Etna. L'obiettivo del progetto dell'Irvo è  fare di questa categori…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/rete-vitivinicola-bollicine-siciliane/",
+        "pubDate": "2026-07-21T10:00:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un ricevimento di matrimonio in Salento è stato firmato da KFC",
+        "description": "In una villa privata gli sposi hanno offerto a mezzanotte le vasche di alette di pollo fritto al posto della tradizionale spaghettata.\nL'articolo Un ricevimento…",
+        "link": "https://www.dissapore.com/notizie/un-ricevimento-di-matrimonio-in-salento-e-stato-firmato-da-kfc/",
+        "pubDate": "2026-07-21T09:28:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/Matrimonio-KFC-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sono queste le spiagge più belle delle Marche per una fuga estiva indimenticabile",
+        "description": "Mare limpido, fondali trasparenti e sabbia bianca: ecco le 5 spiagge più belle delle Marche da visitare questa Estate...…",
+        "link": "https://www.stylosophy.it/articolo/spiagge-piu-belle-delle-marche-per-una-fuga-estiva-indimenticabile/252876/",
+        "pubDate": "2026-07-21T09:00:29+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Da balera a ristorante d’autore: la seconda vita di uno storico locale sul Garda",
+        "description": "Per decenni è stato una trattoria, una griglia e persino una balera. Oggi al Belvedere di Gargnano riparte con una giovane brigata guidata dallo chef Matteo Men…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/belvedere-gargnano-ristorante-lago-garda/",
+        "pubDate": "2026-07-21T07:58:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti dicono che bisogna mangiare più verdure. Lui ha trovato il modo di farlo davvero",
+        "description": "Alessandro Tortelli coltiva ortaggi, recupera le eccedenze dei produttori vicini e le trasforma in piatti che cambiano ogni giorno. A Bologna ha aperto un local…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/piazza-martino-bologna-cucina-vegetale/",
+        "pubDate": "2026-07-21T07:52:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "I food dissing social sono francamente diventati insopportabili",
         "description": "Il food dissing sui social ha assunto una deriva poco credibile, e ha frantumato la nostra pazienza.\nL'articolo I food dissing social sono francamente diventati…",
@@ -100,90 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/04/caffe.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Dalle cime delle Dolomiti alle coste della Sicilia: tre settimane all’insegna dell’enoturismo con Calici di Stelle",
-        "description": "L'iniziativa del Movimento turismo del vino torna dal 24 luglio al 16 agosto in tutta Italia. Un'edizione all'insegna del consumo responsabile con il claim: \"Br…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/programma-calici-di-stelle-2026/",
-        "pubDate": "2026-07-20T13:52:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Non inseguiamo i volumi: per i vini della Valpolicella inizia fase di normalizzazione”. Nel 2025 bottiglie giù del 3%",
-        "description": "In calo tutte le tipologie, dall'Amarone al Recioto. Il più prodotto dalle piccole aziende? Il Valpolicella Doc. Tra le grandi, invece, domina il Ripasso.  Ora …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/valpolicella-produzione-vino-2025/",
-        "pubDate": "2026-07-20T13:38:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Francesca Chillemi incanta tutti sul blu carpet del Giffoni Film Festival con un Look trendy FOTO",
-        "description": "Ecco che cosa ha indossato Francesca Chillemi per il Giffoni Film Festival.…",
-        "link": "https://www.stylosophy.it/articolo/francesca-chillemi-incanta-tutti-sul-blu-carpet-del-giffoni-film-festival-con-un-look-trendy-foto/252842/",
-        "pubDate": "2026-07-20T13:00:00+00:00",
+        "title": "Sono queste le spiagge più belle delle Marche per una fuga estiva indimenticabile",
+        "description": "Mare limpido, fondali trasparenti e sabbia bianca: ecco le 5 spiagge più belle delle Marche da visitare questa Estate...…",
+        "link": "https://www.stylosophy.it/articolo/spiagge-piu-belle-delle-marche-per-una-fuga-estiva-indimenticabile/252876/",
+        "pubDate": "2026-07-21T09:00:29+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "La guida Michelin del vino è appena uscita, e c’è già chi vuole starne fuori",
-        "description": "Si nota di più il vino premiato o quello che non vuole esserlo? Se poi a premiare è la Guida Michelin, che ha appena pubblicato la sua prima edizione dedicata a…",
-        "link": "https://www.dissapore.com/bere/la-guida-michelin-del-vino-e-appena-uscita-e-ce-gia-chi-vuole-starne-fuori/",
-        "pubDate": "2026-07-20T12:18:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/GrappoloMichelinBig.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Evitate il nero, ma non solo”: i tessuti alleati ( e quelli da bandire) dopo i 40 anni durante le “heat-waves”",
-        "description": "Con le ondate di calore sempre più intense, dopo i 40 la scelta dei tessuti diventa una questione di salute. Tra fibre occlusive e capi salva-pelle, ecco cosa c…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/tessuti-migliori-da-indossare-o-evitare-estate-abbigliamento-sopra-40-anni-987482",
-        "pubDate": "2026-07-20T11:03:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/nero-estate-tessuto-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Per trovare la vera notte di Milano bisogna smettere di cercarla in centro",
-        "description": "La movida milanese non è scomparsa: ha cambiato geografia, orari e abitudini. Dai cocktail bar ai chioschi dei panini, dai karaoke alle edicole trasformate in p…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/notte-milano-dove-mangiare-bere-fino-a-tardi/",
-        "pubDate": "2026-07-20T10:55:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come può la dieta dei nostri progenitori influenzare la nostra digestione",
-        "description": "I ricercatori hanno trovato nelle popolazioni andine molti geni per la digestione degli amidi, e si pensa che derivi dall'alimentazione di 10000 anni fa.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/come-puo-la-dieta-dei-nostri-progenitori-influenzare-la-nostra-digestione/",
-        "pubDate": "2026-07-20T10:52:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/patate-andine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dopo la pasta madre, è questo il prossimo grande cambiamento del pane",
-        "description": "Uno dei panificatori più influenti d'Italia installa un mulino a pietra nel laboratorio di Milano. Non è una nostalgia del passato, ma l'idea che la prossima ev…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/davide-longoni-mulino-panificio-pane/",
-        "pubDate": "2026-07-20T10:49:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo assaggiato 25 tonni in scatola del supermercato: questi sono i migliori",
-        "description": "Dalle grandi marche ai prodotti a marchio del supermercato, abbiamo messo a confronto 25 tonni in scatola con un blind test condotto insieme a un panel di esper…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tonno-scatola-supermercato-12-migliori-2026/",
-        "pubDate": "2026-07-20T10:38:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Dove andare in vacanza ad agosto con i bambini: le migliori mete in Italia tra mare, montagna e laghi",
         "description": "Dal mare con fondali bassi alle località di montagna più fresche, fino ai laghi e ai parchi divertimento: ecco le destinazioni italiane più adatte alle famiglie…",
@@ -311,15 +320,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Come pulire i filtri del condizionatore: la guida pratica per migliorare aria, consumi e prestazioni",
-        "description": "Una corretta manutenzione dei filtri del condizionatore migliora la qualità dell'aria, riduce i consumi e aiuta a evitare guasti. Ecco come intervenire nel modo…",
-        "link": "https://www.stylosophy.it/articolo/come-pulire-i-filtri-del-condizionatore-la-guida-pratica/252793/",
-        "pubDate": "2026-07-17T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Dallo spirito carioca alle capsule collection, passando per gli orologi più stilosi che rivoluzionano il modo di pagare, il blazer da non dimenticare in valigia…",
         "link": "https://www.grazia.it/moda/news-moda/blazer-marella-swatch-orologio-locarno-farm-rio-pop-up-loewe-craft-prize-occhiali-lozza-lola-casademunt-borsa-shenze-milan-fashion-week-987541",
@@ -366,6 +366,78 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Bad Bunny a Milano, Hennessy firma il “tour nel tour” tra musica, mixology ed eventi esclusivi",
+        "description": "Milano ha ospitato la tappa italiana del “DeBÍ TiRAR MáS FOToS World Tour” di Bad Bunny. In occasione della due giorni di concerti, Hennessy, partner globale de…",
+        "link": "https://www.winemag.it/bad-bunny-a-milano-hennessy-firma-il-tour-nel-tour-tra-musica-mixology-ed-eventi-esclusivi/",
+        "pubDate": "2026-07-21T12:54:02+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Pistì lancia Lestivo Fotonico TOP: il panettone estivo con pesca candita e pistacchio",
+        "description": "Pistì punta sulla destagionalizzazione dei grandi lievitati e presenta Lestivo Fotonico TOP. Una novità pensata per portare il panettone oltre il tradizionale p…",
+        "link": "https://www.winemag.it/pisti-lancia-lestivo-fotonico-top-il-panettone-estivo-con-pesca-candita-e-pistacchio/",
+        "pubDate": "2026-07-21T12:09:18+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ha preso la pizza in teglia e l’ha trasformata in un piatto da ristorante",
+        "description": "A Magliano dei Marsi Federico Tangredi ha trasformato un pub in una pizzeria con un'idea insolita: servire la pizza in teglia direttamente al tavolo, in piccoli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-teglia-tavolo-jamboree-abruzzo/",
+        "pubDate": "2026-07-21T10:45:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli errori da evitare a tavola in Italia: la guida della BBC ci canzona",
+        "description": "Con un vademecum in sette punti per comportarsi bene nei ristoranti italiani, i media inglesi ci descrivono impietosamente. Ma c'è un fondo di verità. \nL'artico…",
+        "link": "https://www.dissapore.com/ristoranti/gli-errori-da-evitare-a-tavola-in-italia-la-guida-della-bbc-ci-canzona/",
+        "pubDate": "2026-07-21T10:32:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cappuccino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nasce la rete (e il manifesto) delle bollicine siciliane. Sull’isola sono 140 le cantine che producono spumanti",
+        "description": "La tipologia copre ormai quasi tutta la Sicilia: a crescere di più è il metodo classico dell'Etna. L'obiettivo del progetto dell'Irvo è  fare di questa categori…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/rete-vitivinicola-bollicine-siciliane/",
+        "pubDate": "2026-07-21T10:00:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un ricevimento di matrimonio in Salento è stato firmato da KFC",
+        "description": "In una villa privata gli sposi hanno offerto a mezzanotte le vasche di alette di pollo fritto al posto della tradizionale spaghettata.\nL'articolo Un ricevimento…",
+        "link": "https://www.dissapore.com/notizie/un-ricevimento-di-matrimonio-in-salento-e-stato-firmato-da-kfc/",
+        "pubDate": "2026-07-21T09:28:20+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/Matrimonio-KFC-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Da balera a ristorante d’autore: la seconda vita di uno storico locale sul Garda",
+        "description": "Per decenni è stato una trattoria, una griglia e persino una balera. Oggi al Belvedere di Gargnano riparte con una giovane brigata guidata dallo chef Matteo Men…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/belvedere-gargnano-ristorante-lago-garda/",
+        "pubDate": "2026-07-21T07:58:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti dicono che bisogna mangiare più verdure. Lui ha trovato il modo di farlo davvero",
+        "description": "Alessandro Tortelli coltiva ortaggi, recupera le eccedenze dei produttori vicini e le trasforma in piatti che cambiano ogni giorno. A Bologna ha aperto un local…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/piazza-martino-bologna-cucina-vegetale/",
+        "pubDate": "2026-07-21T07:52:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "I food dissing social sono francamente diventati insopportabili",
         "description": "Il food dissing sui social ha assunto una deriva poco credibile, e ha frantumato la nostra pazienza.\nL'articolo I food dissing social sono francamente diventati…",
@@ -473,78 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "La guida Michelin del vino è appena uscita, e c’è già chi vuole starne fuori",
-        "description": "Si nota di più il vino premiato o quello che non vuole esserlo? Se poi a premiare è la Guida Michelin, che ha appena pubblicato la sua prima edizione dedicata a…",
-        "link": "https://www.dissapore.com/bere/la-guida-michelin-del-vino-e-appena-uscita-e-ce-gia-chi-vuole-starne-fuori/",
-        "pubDate": "2026-07-20T12:18:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/GrappoloMichelinBig.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Per trovare la vera notte di Milano bisogna smettere di cercarla in centro",
-        "description": "La movida milanese non è scomparsa: ha cambiato geografia, orari e abitudini. Dai cocktail bar ai chioschi dei panini, dai karaoke alle edicole trasformate in p…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/notte-milano-dove-mangiare-bere-fino-a-tardi/",
-        "pubDate": "2026-07-20T10:55:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come può la dieta dei nostri progenitori influenzare la nostra digestione",
-        "description": "I ricercatori hanno trovato nelle popolazioni andine molti geni per la digestione degli amidi, e si pensa che derivi dall'alimentazione di 10000 anni fa.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/come-puo-la-dieta-dei-nostri-progenitori-influenzare-la-nostra-digestione/",
-        "pubDate": "2026-07-20T10:52:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/patate-andine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dopo la pasta madre, è questo il prossimo grande cambiamento del pane",
-        "description": "Uno dei panificatori più influenti d'Italia installa un mulino a pietra nel laboratorio di Milano. Non è una nostalgia del passato, ma l'idea che la prossima ev…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/davide-longoni-mulino-panificio-pane/",
-        "pubDate": "2026-07-20T10:49:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo assaggiato 25 tonni in scatola del supermercato: questi sono i migliori",
-        "description": "Dalle grandi marche ai prodotti a marchio del supermercato, abbiamo messo a confronto 25 tonni in scatola con un blind test condotto insieme a un panel di esper…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tonno-scatola-supermercato-12-migliori-2026/",
-        "pubDate": "2026-07-20T10:38:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Institute of Masters of Wine, IWSC torna tra i sostenitori ufficiali",
-        "description": "IWSC torna tra i sostenitori ufficiali dell’Institute of Masters of Wine. Le due organizzazioni rinnovano una collaborazione avviata nel 2018 e incentrata, in p…",
-        "link": "https://www.winemag.it/institute-of-masters-of-wine-iwsc-torna-tra-i-sostenitori-ufficiali/",
-        "pubDate": "2026-07-20T10:34:07+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Institute-of-Masters-of-Wine-IWSC-torna-tra-i-sostenitori-ufficiali-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "In Friuli c’è un cocktail bar che ha ribaltato il menu degustazione",
-        "description": "A Zoppola, in provincia di Pordenone, Il Salotto Mixology &#038; Food ha costruito un percorso di \"cucina liquida\" in cui cocktail e piatti vengono progettati i…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/cocktail-bar-friuli-menu-degustazione-il-salotto/",
-        "pubDate": "2026-07-20T10:10:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’undicesima Notte dei Maestri del Lievito Madre: a Parma il panettone si mangia anche d’estate",
-        "description": "Un programma ricco di degustazioni ed eventi per il 20 luglio presso il complesso Monumentale della Pilotta \nL'articolo L&#8217;undicesima Notte dei Maestri del…",
-        "link": "https://www.dissapore.com/notizie/lundicesima-notte-dei-maestri-del-lievito-madre-a-parma-il-panettone-si-mangia-anche-destate/",
-        "pubDate": "2026-07-20T09:17:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/NOTTE-MLM-PARMA-21-LUGLIO-2025-410.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
