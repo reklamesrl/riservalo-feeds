@@ -1,7 +1,97 @@
 {
-  "generated": "2026-07-22T08:29:20.086904+00:00",
+  "generated": "2026-07-22T13:54:14.572369+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Arisa, al mare con il bikini di super tendenza: che sexy!",
+        "description": "Arisa, tra un impegno di lavoro e un altro, si concede un po' di relax al mare con il bikini di super tendenza.…",
+        "link": "https://www.stylosophy.it/articolo/arisa-al-mare-con-il-bikini-di-super-tendenza-che-sexy/252905/",
+        "pubDate": "2026-07-22T13:01:42+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Champagne, resa di mercato a 8.800 kg/ha per la vendemmia 2026. Il CIVC punta a ridurre le scorte",
+        "description": "Il Comité interprofessionnel du vin de Champagne (CIVC) ha fissato a 8.800 chilogrammi di uva per ettaro la quantità destinata al mercato per la campagna 2026-2…",
+        "link": "https://www.winemag.it/champagne-resa-di-mercato-a-8-800-kg-ha-per-la-vendemmia-2026-il-civc-punta-a-ridurre-le-scorte/",
+        "pubDate": "2026-07-22T12:34:16+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dal Cin acquisisce Fusión Vínica e rafforza la presenza in Spagna con Dal Cin Iberica",
+        "description": "Dal Cin S.p.A., azienda specializzata nella ricerca applicata e nella produzione di additivi e coadiuvanti per l&#8217;enologia, rafforza la propria presenza su…",
+        "link": "https://www.winemag.it/dal-cin-acquisisce-fusion-vinica-e-rafforza-la-presenza-in-spagna-con-dal-cin-iberica/",
+        "pubDate": "2026-07-22T12:32:13+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Dal-Cin-acquisisce-Fusion-Vinica-e-rafforza-la-presenza-in-Spagna-con-Dal-Cin-Iberica-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Finarella a Torino, la pizza romana tonda che rispetta la sua “tradizione”",
+        "description": "Aperta da un paio di mesi, Finarella è la nuova pizza romana di Torino. La nostra recensione. \nL'articolo Finarella a Torino, la pizza romana tonda che rispetta…",
+        "link": "https://www.dissapore.com/pizzerie/finarella-a-torino-recensione/",
+        "pubDate": "2026-07-22T11:30:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pizzeria-finarella-torino.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Non possiamo restare in silenzio quando gli chef israeliani rubano il nostro cibo”. Parla Fadi Kattan",
+        "description": "Lo chef palestinese, protagonista del Padiglione del Qatar alla Biennale di Venezia, racconta il suo progetto gastronomico, il rapporto tra arte e cucina, la si…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/fadi-kattan-intervista-padiglione-qatar-biennale-venezia/",
+        "pubDate": "2026-07-22T11:01:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Positano chiude una storica sartoria. Al suo posto nasce un ristorante che racconta il territorio",
+        "description": "Dopo decenni di attività, la storica sartoria La Collinetta ha chiuso i battenti. I figli hanno scelto di ripartire dalla cucina con Ohimà, un ristorante che un…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ohima-positano-sartoria-ristorante/",
+        "pubDate": "2026-07-22T10:36:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non possiamo più entrare in spiaggia”. L’inchiesta del Guardian sul mare occupato dai lidi",
+        "description": "Un reportage del quotidiano britannico racconta il caso italiano delle concessioni balneari: quasi metà delle coste sabbiose è affidata a operatori privati, con…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/guardian-spiagge-lidi-privati-italia/",
+        "pubDate": "2026-07-22T10:25:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Prepariamoci a un’invasione di prodotti a base di peperoncino",
+        "description": "Una recente analisi di mercato mostra una crescita esponenziale del mercato del peperoncino, e i fattori sono molteplici.\nL'articolo Prepariamoci a un&#8217;inv…",
+        "link": "https://www.dissapore.com/notizie/prepariamoci-a-uninvasione-di-prodotti-a-base-di-peperoncino/",
+        "pubDate": "2026-07-22T09:37:58+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/snack-al-peperoncino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Color Correcting: cos’è e come usarlo per dire addio alle imperfezioni",
+        "description": "Tutto sul Color Correcting, la tecnica make up più amata dalle donne. Ecco in cosa consiste e come realizzarla...…",
+        "link": "https://www.stylosophy.it/articolo/color-correcting-cose-e-come-usarlo-per-dire-addio-alle-imperfezioni/252893/",
+        "pubDate": "2026-07-22T09:23:12+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Nelle Marche guai a chiamarla cozza: perché il mosciolo è tutta un’altra cosa",
+        "description": "È il simbolo gastronomico della Riviera del Conero, cresce spontaneamente sugli scogli ed è raccolto ancora oggi con tecniche tradizionali. Ecco perché nelle Ma…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mosciolo-conero-differenza-cozza/",
+        "pubDate": "2026-07-22T09:09:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La fame nel mondo è in calo per il terzo anno consecutivo",
         "description": "L'ultimo rapporto delle Nazioni Unite riporta segnali positivi da tutti i fronti, ma la strada è ancora lunga e l'incerta situazione internazionale potrebbe met…",
@@ -12,6 +102,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "A Palermo esiste una bevanda che bisogna bere prima che esploda",
+        "description": "Agrumi, selz e bicarbonato danno vita a uno dei digestivi più curiosi della tradizione siciliana. Nato negli anni Trenta, ancora oggi si può assaggiare in uno s…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/autista-digestivo-palermo-ricetta/",
+        "pubDate": "2026-07-22T07:42:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Sugo alla diavola: il condimento piccante che accende la tavola",
         "description": "Il sugo alla diavola, ricetta italiana attribuita a Carmelo Scuderi, torna oggi nelle cucine di casa come condimento robusto per la pasta, preparato con carne m…",
         "link": "https://www.gustoblog.it/2026/07/22/sugo-alla-diavola-il-condimento-piccante-che-accende-la-tavola/",
@@ -19,6 +118,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "In tre mesi il commercio mondiale di vino ha perso 600 milioni di euro",
+        "description": "Con un -38% nel primo trimestre del 2026 gli Stati Uniti trascinano al ribasso gli acquisti vitivinicoli. Secondo l'analisi dell'Oive, escludendo il mercato Usa…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/commercio-mondiale-vino-primo-trimestre-2026-dati-oive/",
+        "pubDate": "2026-07-22T05:07:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Disaronno Group, Bilancio di Sostenibilità 2025: decarbonizzazione, filiera responsabile e valorizzazione delle persone",
@@ -73,117 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Uno degli chef più apprezzati del Lazio cambia tutto: ecco il suo nuovo ristorante",
-        "description": "A un anno dalla chiusura forzata di Essenza, lo chef inaugura BSN a Terracina: una brasserie contemporanea dove l'esperienza dell'alta cucina incontra un format…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/bsn-brasserie-simone-nardoni-terracina/",
-        "pubDate": "2026-07-21T14:48:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Andare al mare costa sempre di più: perché un ombrellone è diventato così caro",
-        "description": "Secondo Codacons, Federconsumatori e Altroconsumo, gli stabilimenti balneari aumentano i prezzi molto più del resto del turismo. Dal noleggio dell'ombrellone ai…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/quanto-costa-giornata-mare-ombrellone-2026/",
-        "pubDate": "2026-07-21T14:39:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La storia della famiglia Parmigiani, che non può marchiare il formaggio con il suo nome",
-        "description": "Un negozio di salumi e formaggi del Lodigiano si faceva fare delle forme di formaggio duro personalizzate, ma per il Consorzio del Parmigiano Reggiano il nome e…",
-        "link": "https://www.dissapore.com/notizie/la-storia-della-famiglia-parmigiani-che-non-puo-marchiare-il-formaggio-con-il-suo-nome/",
-        "pubDate": "2026-07-21T14:33:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/formaggio-parmigiani2.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa mangiavano davvero Ulisse, Polifemo e gli altri protagonisti dell’Odissea",
-        "description": "Con l'arrivo al cinema dell'Odissea di Christopher Nolan torna la curiosità per la tavola degli antichi Greci: pane, carne, vino, formaggi e il banchetto che sa…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cosa-mangiavano-ulisse-greci-odissea/",
-        "pubDate": "2026-07-21T14:32:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Apre una nuova super caffetteria a Roma: il progetto di uno dei migliori fornai della Capitale",
-        "description": "Dopo il successo di Forno Conti, Sergio Conti inaugura Cafè Conti &#038; Co. all'Esquilino: grandi lievitati, specialty coffee, brunch, cucina d'autore e, da se…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cafe-conti-apertura-esquilino-roma/",
-        "pubDate": "2026-07-21T14:10:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il mare dell’Odissea? È color del vino. Il motivo lo abbiamo capito rileggendo Omero e guardando il film di Nolan",
-        "description": "Nel poema omerico, così come nel colossal americano, il viaggio di Ulisse sembra disegnare un atlante alimentare del Mediterraneo in cui mare e vino condividono…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-color-mare-odissea-omero-christopher-nolan/",
-        "pubDate": "2026-07-21T13:23:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Bad Bunny a Milano, Hennessy firma il “tour nel tour” tra musica, mixology ed eventi esclusivi",
-        "description": "Milano ha ospitato la tappa italiana del “DeBÍ TiRAR MáS FOToS World Tour” di Bad Bunny. In occasione della due giorni di concerti, Hennessy, partner globale de…",
-        "link": "https://www.winemag.it/bad-bunny-a-milano-hennessy-firma-il-tour-nel-tour-tra-musica-mixology-ed-eventi-esclusivi/",
-        "pubDate": "2026-07-21T12:54:02+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“Gli spari non mi hanno sorpreso: continui furti e minacce, piazza Trilussa è cambiata”",
-        "description": "L'aggressione al sommelier di Trastevere riaccende il dibattito sulla sicurezza del quartiere. Andrea Massari, chef di Baby Bao, racconta anni di furti, scippi,…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/aggressione-sommelier-trastevere-furti-minacce-ristoratore/",
-        "pubDate": "2026-07-21T12:38:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pistì lancia Lestivo Fotonico TOP: il panettone estivo con pesca candita e pistacchio",
-        "description": "Pistì punta sulla destagionalizzazione dei grandi lievitati e presenta Lestivo Fotonico TOP. Una novità pensata per portare il panettone oltre il tradizionale p…",
-        "link": "https://www.winemag.it/pisti-lancia-lestivo-fotonico-top-il-panettone-estivo-con-pesca-candita-e-pistacchio/",
-        "pubDate": "2026-07-21T12:09:18+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Ha preso la pizza in teglia e l’ha trasformata in un piatto da ristorante",
-        "description": "A Magliano dei Marsi Federico Tangredi ha trasformato un pub in una pizzeria con un'idea insolita: servire la pizza in teglia direttamente al tavolo, in piccoli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-teglia-tavolo-jamboree-abruzzo/",
-        "pubDate": "2026-07-21T10:45:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Piaget x Mytheresa: l’alta gioielleria da indossare ogni giorno finalmente a portata di click",
-        "description": "La piattaforma digital di lusso Mytheresa incontra la maestria senza tempo di Piaget per un lancio che unisce l&#8217;alta manifattura svizzera all&#8217;e-comm…",
-        "link": "https://www.grazia.it/moda/news-moda/piaget-x-mytheresa-selezione-alta-gioielleria-orologeria-988232",
-        "pubDate": "2026-07-21T10:34:12+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/mytheresa-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Gli errori da evitare a tavola in Italia: la guida della BBC ci canzona",
-        "description": "Con un vademecum in sette punti per comportarsi bene nei ristoranti italiani, i media inglesi ci descrivono impietosamente. Ma c'è un fondo di verità. \nL'artico…",
-        "link": "https://www.dissapore.com/ristoranti/gli-errori-da-evitare-a-tavola-in-italia-la-guida-della-bbc-ci-canzona/",
-        "pubDate": "2026-07-21T10:32:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cappuccino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Arisa, al mare con il bikini di super tendenza: che sexy!",
+        "description": "Arisa, tra un impegno di lavoro e un altro, si concede un po' di relax al mare con il bikini di super tendenza.…",
+        "link": "https://www.stylosophy.it/articolo/arisa-al-mare-con-il-bikini-di-super-tendenza-che-sexy/252905/",
+        "pubDate": "2026-07-22T13:01:42+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Color Correcting: cos’è e come usarlo per dire addio alle imperfezioni",
+        "description": "Tutto sul Color Correcting, la tecnica make up più amata dalle donne. Ecco in cosa consiste e come realizzarla...…",
+        "link": "https://www.stylosophy.it/articolo/color-correcting-cose-e-come-usarlo-per-dire-addio-alle-imperfezioni/252893/",
+        "pubDate": "2026-07-22T09:23:12+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Come illuminare una cucina buia con meno di 10 euro: la soluzione IKEA che cambia l’ambiente",
         "description": "Basta una semplice striscia LED installata nel punto giusto per migliorare l'illuminazione del piano di lavoro e dare alla cucina un aspetto più moderno senza a…",
@@ -338,24 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Parti per le vacanze? 5 consigli per lasciare Casa pulita e impeccabile",
-        "description": "Prima di chiudere la porta e partire, bastano pochi accorgimenti per lasciare la casa ordinata, pulita e sicura. Ecco cosa fare per ritrovare un ambiente piacev…",
-        "link": "https://www.stylosophy.it/articolo/parti-per-le-vacanze-consigli-per-lasciare-la-casa-pulita-e-impeccabile/252808/",
-        "pubDate": "2026-07-18T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ilary Blasi, a Saint-Tropez con il kimono e la borsa shopping griffata: il beach Look da copiare!",
-        "description": "Ilary Blasi, anche per la spiaggia, non rinuncia allo stile più trendy e glamour sfoggiando un elegante kimono e una borsa shopping griffata.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-a-saint-tropez-con-il-kimono-e-la-borsa-shopping-griffata-il-beach-look-da-copiare/252798/",
-        "pubDate": "2026-07-18T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Summer hats: i cappelli perfetti per l’estate di cui innamorarsi asap!",
         "description": "In estate, soprattutto con le ultime temperature che sfiorano i 40 gradi all’ombra, non sono tanto i capi a fare davvero il look, quanto gli accessori. Piccoli,…",
         "link": "https://www.grazia.it/moda/tendenze-moda/cappelli-donna-estate-moda-2026-paglia-tesa-larga-987222",
@@ -367,6 +367,78 @@
     ],
     "lifestyle": [
       {
+        "title": "Champagne, resa di mercato a 8.800 kg/ha per la vendemmia 2026. Il CIVC punta a ridurre le scorte",
+        "description": "Il Comité interprofessionnel du vin de Champagne (CIVC) ha fissato a 8.800 chilogrammi di uva per ettaro la quantità destinata al mercato per la campagna 2026-2…",
+        "link": "https://www.winemag.it/champagne-resa-di-mercato-a-8-800-kg-ha-per-la-vendemmia-2026-il-civc-punta-a-ridurre-le-scorte/",
+        "pubDate": "2026-07-22T12:34:16+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dal Cin acquisisce Fusión Vínica e rafforza la presenza in Spagna con Dal Cin Iberica",
+        "description": "Dal Cin S.p.A., azienda specializzata nella ricerca applicata e nella produzione di additivi e coadiuvanti per l&#8217;enologia, rafforza la propria presenza su…",
+        "link": "https://www.winemag.it/dal-cin-acquisisce-fusion-vinica-e-rafforza-la-presenza-in-spagna-con-dal-cin-iberica/",
+        "pubDate": "2026-07-22T12:32:13+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Dal-Cin-acquisisce-Fusion-Vinica-e-rafforza-la-presenza-in-Spagna-con-Dal-Cin-Iberica-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Finarella a Torino, la pizza romana tonda che rispetta la sua “tradizione”",
+        "description": "Aperta da un paio di mesi, Finarella è la nuova pizza romana di Torino. La nostra recensione. \nL'articolo Finarella a Torino, la pizza romana tonda che rispetta…",
+        "link": "https://www.dissapore.com/pizzerie/finarella-a-torino-recensione/",
+        "pubDate": "2026-07-22T11:30:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pizzeria-finarella-torino.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Non possiamo restare in silenzio quando gli chef israeliani rubano il nostro cibo”. Parla Fadi Kattan",
+        "description": "Lo chef palestinese, protagonista del Padiglione del Qatar alla Biennale di Venezia, racconta il suo progetto gastronomico, il rapporto tra arte e cucina, la si…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/fadi-kattan-intervista-padiglione-qatar-biennale-venezia/",
+        "pubDate": "2026-07-22T11:01:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Positano chiude una storica sartoria. Al suo posto nasce un ristorante che racconta il territorio",
+        "description": "Dopo decenni di attività, la storica sartoria La Collinetta ha chiuso i battenti. I figli hanno scelto di ripartire dalla cucina con Ohimà, un ristorante che un…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ohima-positano-sartoria-ristorante/",
+        "pubDate": "2026-07-22T10:36:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Non possiamo più entrare in spiaggia”. L’inchiesta del Guardian sul mare occupato dai lidi",
+        "description": "Un reportage del quotidiano britannico racconta il caso italiano delle concessioni balneari: quasi metà delle coste sabbiose è affidata a operatori privati, con…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/guardian-spiagge-lidi-privati-italia/",
+        "pubDate": "2026-07-22T10:25:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Prepariamoci a un’invasione di prodotti a base di peperoncino",
+        "description": "Una recente analisi di mercato mostra una crescita esponenziale del mercato del peperoncino, e i fattori sono molteplici.\nL'articolo Prepariamoci a un&#8217;inv…",
+        "link": "https://www.dissapore.com/notizie/prepariamoci-a-uninvasione-di-prodotti-a-base-di-peperoncino/",
+        "pubDate": "2026-07-22T09:37:58+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/snack-al-peperoncino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nelle Marche guai a chiamarla cozza: perché il mosciolo è tutta un’altra cosa",
+        "description": "È il simbolo gastronomico della Riviera del Conero, cresce spontaneamente sugli scogli ed è raccolto ancora oggi con tecniche tradizionali. Ecco perché nelle Ma…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mosciolo-conero-differenza-cozza/",
+        "pubDate": "2026-07-22T09:09:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "La fame nel mondo è in calo per il terzo anno consecutivo",
         "description": "L'ultimo rapporto delle Nazioni Unite riporta segnali positivi da tutti i fronti, ma la strada è ancora lunga e l'incerta situazione internazionale potrebbe met…",
         "link": "https://www.dissapore.com/notizie/la-fame-nel-mondo-e-in-calo-per-il-terzo-anno-consecutivo/",
@@ -376,6 +448,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "A Palermo esiste una bevanda che bisogna bere prima che esploda",
+        "description": "Agrumi, selz e bicarbonato danno vita a uno dei digestivi più curiosi della tradizione siciliana. Nato negli anni Trenta, ancora oggi si può assaggiare in uno s…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/autista-digestivo-palermo-ricetta/",
+        "pubDate": "2026-07-22T07:42:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Sugo alla diavola: il condimento piccante che accende la tavola",
         "description": "Il sugo alla diavola, ricetta italiana attribuita a Carmelo Scuderi, torna oggi nelle cucine di casa come condimento robusto per la pasta, preparato con carne m…",
         "link": "https://www.gustoblog.it/2026/07/22/sugo-alla-diavola-il-condimento-piccante-che-accende-la-tavola/",
@@ -383,6 +464,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "In tre mesi il commercio mondiale di vino ha perso 600 milioni di euro",
+        "description": "Con un -38% nel primo trimestre del 2026 gli Stati Uniti trascinano al ribasso gli acquisti vitivinicoli. Secondo l'analisi dell'Oive, escludendo il mercato Usa…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/commercio-mondiale-vino-primo-trimestre-2026-dati-oive/",
+        "pubDate": "2026-07-22T05:07:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Disaronno Group, Bilancio di Sostenibilità 2025: decarbonizzazione, filiera responsabile e valorizzazione delle persone",
@@ -453,96 +543,6 @@
         "link": "https://www.dissapore.com/notizie/la-storia-della-famiglia-parmigiani-che-non-puo-marchiare-il-formaggio-con-il-suo-nome/",
         "pubDate": "2026-07-21T14:33:50+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/formaggio-parmigiani2.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa mangiavano davvero Ulisse, Polifemo e gli altri protagonisti dell’Odissea",
-        "description": "Con l'arrivo al cinema dell'Odissea di Christopher Nolan torna la curiosità per la tavola degli antichi Greci: pane, carne, vino, formaggi e il banchetto che sa…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cosa-mangiavano-ulisse-greci-odissea/",
-        "pubDate": "2026-07-21T14:32:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Apre una nuova super caffetteria a Roma: il progetto di uno dei migliori fornai della Capitale",
-        "description": "Dopo il successo di Forno Conti, Sergio Conti inaugura Cafè Conti &#038; Co. all'Esquilino: grandi lievitati, specialty coffee, brunch, cucina d'autore e, da se…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cafe-conti-apertura-esquilino-roma/",
-        "pubDate": "2026-07-21T14:10:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il mare dell’Odissea? È color del vino. Il motivo lo abbiamo capito rileggendo Omero e guardando il film di Nolan",
-        "description": "Nel poema omerico, così come nel colossal americano, il viaggio di Ulisse sembra disegnare un atlante alimentare del Mediterraneo in cui mare e vino condividono…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-color-mare-odissea-omero-christopher-nolan/",
-        "pubDate": "2026-07-21T13:23:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Bad Bunny a Milano, Hennessy firma il “tour nel tour” tra musica, mixology ed eventi esclusivi",
-        "description": "Milano ha ospitato la tappa italiana del “DeBÍ TiRAR MáS FOToS World Tour” di Bad Bunny. In occasione della due giorni di concerti, Hennessy, partner globale de…",
-        "link": "https://www.winemag.it/bad-bunny-a-milano-hennessy-firma-il-tour-nel-tour-tra-musica-mixology-ed-eventi-esclusivi/",
-        "pubDate": "2026-07-21T12:54:02+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“Gli spari non mi hanno sorpreso: continui furti e minacce, piazza Trilussa è cambiata”",
-        "description": "L'aggressione al sommelier di Trastevere riaccende il dibattito sulla sicurezza del quartiere. Andrea Massari, chef di Baby Bao, racconta anni di furti, scippi,…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/aggressione-sommelier-trastevere-furti-minacce-ristoratore/",
-        "pubDate": "2026-07-21T12:38:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pistì lancia Lestivo Fotonico TOP: il panettone estivo con pesca candita e pistacchio",
-        "description": "Pistì punta sulla destagionalizzazione dei grandi lievitati e presenta Lestivo Fotonico TOP. Una novità pensata per portare il panettone oltre il tradizionale p…",
-        "link": "https://www.winemag.it/pisti-lancia-lestivo-fotonico-top-il-panettone-estivo-con-pesca-candita-e-pistacchio/",
-        "pubDate": "2026-07-21T12:09:18+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Ha preso la pizza in teglia e l’ha trasformata in un piatto da ristorante",
-        "description": "A Magliano dei Marsi Federico Tangredi ha trasformato un pub in una pizzeria con un'idea insolita: servire la pizza in teglia direttamente al tavolo, in piccoli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-teglia-tavolo-jamboree-abruzzo/",
-        "pubDate": "2026-07-21T10:45:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli errori da evitare a tavola in Italia: la guida della BBC ci canzona",
-        "description": "Con un vademecum in sette punti per comportarsi bene nei ristoranti italiani, i media inglesi ci descrivono impietosamente. Ma c'è un fondo di verità. \nL'artico…",
-        "link": "https://www.dissapore.com/ristoranti/gli-errori-da-evitare-a-tavola-in-italia-la-guida-della-bbc-ci-canzona/",
-        "pubDate": "2026-07-21T10:32:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cappuccino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nasce la rete (e il manifesto) delle bollicine siciliane. Sull’isola sono 140 le cantine che producono spumanti",
-        "description": "La tipologia copre ormai quasi tutta la Sicilia: a crescere di più è il metodo classico dell'Etna. L'obiettivo del progetto dell'Irvo è  fare di questa categori…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/rete-vitivinicola-bollicine-siciliane/",
-        "pubDate": "2026-07-21T10:00:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un ricevimento di matrimonio in Salento è stato firmato da KFC",
-        "description": "In una villa privata gli sposi hanno offerto a mezzanotte le vasche di alette di pollo fritto al posto della tradizionale spaghettata.\nL'articolo Un ricevimento…",
-        "link": "https://www.dissapore.com/notizie/un-ricevimento-di-matrimonio-in-salento-e-stato-firmato-da-kfc/",
-        "pubDate": "2026-07-21T09:28:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/Matrimonio-KFC-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
