@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-23T19:18:01.535754+00:00",
+  "generated": "2026-07-24T08:27:26.857728+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Gli scienziati pensano che la galassia abbia il sapore di lampone",
+        "description": "Una ricerca recente ha scoperto uno zucchero a 4 molecole di carbonio, presente sulla terra nei lamponi, e potrebbe essere all'origine della vita.\nL'articolo Gl…",
+        "link": "https://www.dissapore.com/notizie/gli-scienziati-pensano-che-la-galassia-abbia-il-sapore-di-lampone/",
+        "pubDate": "2026-07-24T07:52:27+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/osservatorio-astronomico-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Caffè freddo, la Gen Z guida il boom estivo: cresce la domanda tra locali, retail e ricette fai da te",
+        "description": "Con l&#8217;arrivo dell&#8217;estate cambia anche il modo di consumare il caffè. Se l&#8217;espresso resta un appuntamento fisso per molti italiani, nei mesi pi…",
+        "link": "https://www.winemag.it/caffe-freddo-la-gen-z-guida-il-boom-estivo-cresce-la-domanda-tra-locali-retail-e-ricette-fai-da-te/",
+        "pubDate": "2026-07-24T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Frittata al basilico: il piatto semplice che profuma d’estate",
+        "description": "A casa, in una cucina italiana di ogni giorno, la frittata al basilico si prepara in pochi minuti con uova, basilico fresco, pecorino, peperoncino, olio extrave…",
+        "link": "https://www.gustoblog.it/2026/07/24/frittata-al-basilico-il-piatto-semplice-che-profuma-destate/",
+        "pubDate": "2026-07-24T06:03:30+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Da Vittorio festeggia 60 anni e ricorda a tutti qual è il vero lusso",
+        "description": "La festa per il sessantesimo di Da Vittorio è un manifesto di ospitalità in cui il protagonista, ancora una volta, non è il ristorante ma l’ospite e il suo sorr…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/da-vittorio-compie-60-anni-il-vero-lusso/",
+        "pubDate": "2026-07-23T20:55:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Bambini e nuovi cibi: come aiutarli a scoprire i sapori senza capricci",
         "description": "L’85,4% dei bambini italiani presenta un livello intermedio di neofobia alimentare, cioè una certa riluttanza ad assaggiare cibi nuovi o sconosciuti, ma un perc…",
@@ -30,6 +66,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "La grandine colpisce le vigne marchigiane: si chiederà lo stato calamità. Velenosi: “Polizze necessarie ma care”",
+        "description": "Il consorzio dei Vini Piceni pronto a chiedere interventi a sostegno dei produttori. L'imprenditrice Angela Velenosi spiega come stia diventando necessario atti…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/grandine-vigneti-marche-angela-velenosi/",
+        "pubDate": "2026-07-23T16:12:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Capretto al forno con muscari: il sapore autentico della tradizione",
         "description": "Il capretto al forno con i muscari torna sulle tavole della cucina italiana oggi, 23 luglio 2026, nelle case e nelle trattorie del Sud, dove questa ricetta cont…",
         "link": "https://www.gustoblog.it/2026/07/23/capretto-al-forno-con-muscari-il-sapore-autentico-della-tradizione/",
@@ -55,6 +100,24 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "In arrivo superpoteri per i consorzi del vino: spunta anche l’indicazione dei prezzi. Cosa cambia con il nuovo decreto",
+        "description": "La bozza del decreto ministeriale su cui si sta confrontando la filiera vitivinicola inserisce tra i compiti dei consorzi anche la sostenibilità e l'enoturismo.…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/novita-decreto-ministeriale-consorzi-vino-cosa-cambia/",
+        "pubDate": "2026-07-23T15:20:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Inizia dalla Sicilia la vendemmia italiana 2026 tra incendi, crisi climatica e sovrapproduzione",
+        "description": "Le grandi cooperative - Cantine Ermes e Cantine Settesoli - portano in cantina i primi grappoli con temperature vicine ai 40 gradi in una stagione caratterizzat…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/inizio-vendemmia-2026-sicilia/",
+        "pubDate": "2026-07-23T14:16:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Le 17 migliori gelaterie artigianali del Veneto nel 2026",
@@ -118,69 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Nel vino vince chi è più grande: in Italia mancano gruppi sopra il miliardo”. Mack & Schühle rilancia l’aggregazione",
-        "description": "Per l'ad del gruppo Fedele Angelillo la dimensione aziendale è cruciale per far crescere l'industria vitivinicola italiana come avviene all'estero. Anche così s…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/mack-schuhle-investimenti-vino/",
-        "pubDate": "2026-07-23T09:44:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le formiche “aggiungono acidità” al dessert stellato, che però in Corea è un piatto da galera",
-        "description": "In Corea uno chef rischia la galera per aver servito un dessert con formiche, e le autorità se ne sono accorte perché il piatto dello stellato faceva hype. \nL'a…",
-        "link": "https://www.dissapore.com/notizie/le-formiche-aggiungono-acidita-al-dessert-stellato-che-pero-in-corea-e-un-piatto-da-galera/",
-        "pubDate": "2026-07-23T09:40:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/sushi-con-insetti-scaled-e1748687559209.jpeg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Concours Mondial Bruxelles, i vini russi da territori occupati diventano un caso",
-        "description": "Si allarga a macchia d&#8217;olio il caso dei vini russi premiati al Concours Mondial de Bruxelles 2026 in Armenia. Le rivelazioni effettuate da Winemag e ripre…",
-        "link": "https://www.winemag.it/concours-mondial-de-bruxelles-vini-russi-territori-occupati-crimea-diventano-un-caso/",
-        "pubDate": "2026-07-23T09:39:57+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Qui le 7 spiagge più amate d’Italia, tappa fissa per un’Estate unica",
-        "description": "Mare cristallino, sabbia fina e tanto relax: sono queste le 7 spiagge più belle d'Italia da visitare questa Estate.…",
-        "link": "https://www.stylosophy.it/articolo/7-spiagge-piu-amate-ditalia-tappa-fissa-per-unestate-unica/252922/",
-        "pubDate": "2026-07-23T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ryanair punta sul turismo enogastronomico: cinque destinazioni europee da scoprire con voli dall’Italia",
-        "description": "Ryanair lancia un tour gastronomico estivo dedicato ai viaggiatori italiani. L’iniziativa, presentata il 22 luglio, propone cinque destinazioni regionali europe…",
-        "link": "https://www.winemag.it/ryanair-punta-sul-turismo-enogastronomico-cinque-destinazioni-europee-da-scoprire-con-voli-dallitalia/",
-        "pubDate": "2026-07-23T08:56:06+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "L’Umbria è ancora troppo sottovalutata. Questo viaggio spiega perché",
-        "description": "Dai Monti Sibillini al Lago Trasimeno passando per Norcia, Spoleto, Foligno e Perugia: un itinerario tra montagne, forni, trattorie, vignaioli, boschi e piccoli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/viaggio-umbria-sibillini-trasimeno-borghi-dove-mangiare/",
-        "pubDate": "2026-07-23T07:54:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Marco Pierre White, Gordon Ramsay e Heston Blumenthal si sono riuniti per un documentario",
-        "description": "Il documentario si chiamerà \"The Rise of the Rockstar Chef\" e racconterà di un periodo leggendario della gastronomia britannica e mondiale.\nL'articolo Marco Pie…",
-        "link": "https://www.dissapore.com/notizie/marco-pierre-white-gordon-ramsay-e-heston-blumenthal-si-sono-riuniti-per-un-documentario/",
-        "pubDate": "2026-07-23T07:32:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/ramsay-blumenthal-white-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Gli scienziati pensano che la galassia abbia il sapore di lampone",
+        "description": "Una ricerca recente ha scoperto uno zucchero a 4 molecole di carbonio, presente sulla terra nei lamponi, e potrebbe essere all'origine della vita.\nL'articolo Gl…",
+        "link": "https://www.dissapore.com/notizie/gli-scienziati-pensano-che-la-galassia-abbia-il-sapore-di-lampone/",
+        "pubDate": "2026-07-24T07:52:27+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/osservatorio-astronomico-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Caffè freddo, la Gen Z guida il boom estivo: cresce la domanda tra locali, retail e ricette fai da te",
+        "description": "Con l&#8217;arrivo dell&#8217;estate cambia anche il modo di consumare il caffè. Se l&#8217;espresso resta un appuntamento fisso per molti italiani, nei mesi pi…",
+        "link": "https://www.winemag.it/caffe-freddo-la-gen-z-guida-il-boom-estivo-cresce-la-domanda-tra-locali-retail-e-ricette-fai-da-te/",
+        "pubDate": "2026-07-24T07:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Frittata al basilico: il piatto semplice che profuma d’estate",
+        "description": "A casa, in una cucina italiana di ogni giorno, la frittata al basilico si prepara in pochi minuti con uova, basilico fresco, pecorino, peperoncino, olio extrave…",
+        "link": "https://www.gustoblog.it/2026/07/24/frittata-al-basilico-il-piatto-semplice-che-profuma-destate/",
+        "pubDate": "2026-07-24T06:03:30+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Da Vittorio festeggia 60 anni e ricorda a tutti qual è il vero lusso",
+        "description": "La festa per il sessantesimo di Da Vittorio è un manifesto di ospitalità in cui il protagonista, ancora una volta, non è il ristorante ma l’ospite e il suo sorr…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/da-vittorio-compie-60-anni-il-vero-lusso/",
+        "pubDate": "2026-07-23T20:55:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Bambini e nuovi cibi: come aiutarli a scoprire i sapori senza capricci",
         "description": "L’85,4% dei bambini italiani presenta un livello intermedio di neofobia alimentare, cioè una certa riluttanza ad assaggiare cibi nuovi o sconosciuti, ma un perc…",
         "link": "https://www.gustoblog.it/2026/07/23/bambini-e-nuovi-cibi-come-aiutarli-a-scoprire-i-sapori-senza-capricci/",
@@ -394,6 +430,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "La grandine colpisce le vigne marchigiane: si chiederà lo stato calamità. Velenosi: “Polizze necessarie ma care”",
+        "description": "Il consorzio dei Vini Piceni pronto a chiedere interventi a sostegno dei produttori. L'imprenditrice Angela Velenosi spiega come stia diventando necessario atti…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/grandine-vigneti-marche-angela-velenosi/",
+        "pubDate": "2026-07-23T16:12:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Capretto al forno con muscari: il sapore autentico della tradizione",
         "description": "Il capretto al forno con i muscari torna sulle tavole della cucina italiana oggi, 23 luglio 2026, nelle case e nelle trattorie del Sud, dove questa ricetta cont…",
         "link": "https://www.gustoblog.it/2026/07/23/capretto-al-forno-con-muscari-il-sapore-autentico-della-tradizione/",
@@ -410,6 +455,24 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "In arrivo superpoteri per i consorzi del vino: spunta anche l’indicazione dei prezzi. Cosa cambia con il nuovo decreto",
+        "description": "La bozza del decreto ministeriale su cui si sta confrontando la filiera vitivinicola inserisce tra i compiti dei consorzi anche la sostenibilità e l'enoturismo.…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/novita-decreto-ministeriale-consorzi-vino-cosa-cambia/",
+        "pubDate": "2026-07-23T15:20:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Inizia dalla Sicilia la vendemmia italiana 2026 tra incendi, crisi climatica e sovrapproduzione",
+        "description": "Le grandi cooperative - Cantine Ermes e Cantine Settesoli - portano in cantina i primi grappoli con temperature vicine ai 40 gradi in una stagione caratterizzat…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/inizio-vendemmia-2026-sicilia/",
+        "pubDate": "2026-07-23T14:16:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Le 17 migliori gelaterie artigianali del Veneto nel 2026",
@@ -482,69 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Ryanair punta sul turismo enogastronomico: cinque destinazioni europee da scoprire con voli dall’Italia",
-        "description": "Ryanair lancia un tour gastronomico estivo dedicato ai viaggiatori italiani. L’iniziativa, presentata il 22 luglio, propone cinque destinazioni regionali europe…",
-        "link": "https://www.winemag.it/ryanair-punta-sul-turismo-enogastronomico-cinque-destinazioni-europee-da-scoprire-con-voli-dallitalia/",
-        "pubDate": "2026-07-23T08:56:06+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "L’Umbria è ancora troppo sottovalutata. Questo viaggio spiega perché",
-        "description": "Dai Monti Sibillini al Lago Trasimeno passando per Norcia, Spoleto, Foligno e Perugia: un itinerario tra montagne, forni, trattorie, vignaioli, boschi e piccoli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/viaggio-umbria-sibillini-trasimeno-borghi-dove-mangiare/",
-        "pubDate": "2026-07-23T07:54:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Marco Pierre White, Gordon Ramsay e Heston Blumenthal si sono riuniti per un documentario",
-        "description": "Il documentario si chiamerà \"The Rise of the Rockstar Chef\" e racconterà di un periodo leggendario della gastronomia britannica e mondiale.\nL'articolo Marco Pie…",
-        "link": "https://www.dissapore.com/notizie/marco-pierre-white-gordon-ramsay-e-heston-blumenthal-si-sono-riuniti-per-un-documentario/",
-        "pubDate": "2026-07-23T07:32:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/ramsay-blumenthal-white-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I vini che piacciono agli americani? Non sono quelli che immaginiamo. Cosa ho imparato grazie alle wine moms",
-        "description": "La Master of wine Sarah Heller confessa i suoi pregiudizi sul gusto americano. Ma poi è andata a vivere a Seattle, dove ha messo tutti d'accordo con un Barolo V…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/gusto-americano-vini-italiani/",
-        "pubDate": "2026-07-23T06:04:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pastuccia, la tradizione che conquista il palato",
-        "description": "La Pastuccia, piatto della tradizione italiana preparato con farina di grano duro, salsiccia, uova e uva passa, torna in cucina oggi, 23 luglio 2026, come ricet…",
-        "link": "https://www.gustoblog.it/2026/07/23/pastuccia-la-tradizione-che-conquista-il-palato/",
-        "pubDate": "2026-07-23T06:03:18+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Matrimonio nel Salento, a mezzanotte arrivano i bucket di KFC: addio alla classica spaghettata",
-        "description": "C&#8217;è chi conclude il ricevimento con la tradizionale spaghettata di mezzanotte e chi sceglie un finale diverso. È quanto accaduto il 16 luglio a Sternatia,…",
-        "link": "https://www.winemag.it/matrimonio-nel-salento-a-mezzanotte-arrivano-i-bucket-di-kfc-addio-alla-classica-spaghettata/",
-        "pubDate": "2026-07-23T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "È cresciuto nel bar dei genitori. Oggi il suo caffè arriva in tutta Roma",
-        "description": "Dal bancone del bar dei genitori a una torrefazione che rifornisce bakery e caffetterie di Roma: la storia di Fabrizio Rinaldi, che ha fatto dello specialty cof…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fabrizio-rinaldi-torrefazione-ciampino-caffe-specialty-roma/",
-        "pubDate": "2026-07-23T05:34:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
