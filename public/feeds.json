@@ -1,7 +1,16 @@
 {
-  "generated": "2026-07-25T13:26:28.283244+00:00",
+  "generated": "2026-07-25T19:06:43.502886+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Una Casa perfetta per il tuo gatto: ti sveliamo come renderla sicura e confortevole",
+        "description": "Una casa davvero cat friendly non è solo accogliente, ma è progettata per proteggere il tuo gatto, rispettare le sue abitudini e migliorare la convivenza quotid…",
+        "link": "https://www.stylosophy.it/articolo/una-casa-perfetta-per-il-tuo-gatto-ti-sveliamo-come-renderla-sicura-e-confortevole/252914/",
+        "pubDate": "2026-07-25T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Nestlé sta negoziando sulle etichette per non spaventare i consumatori e non è un bene",
         "description": "Con un'attività di lobbying sul governo statunitense, Nestlé vuole semplificare i nomi degli ingredienti, rendendoli più facili da identificare.\nL'articolo Nest…",
@@ -172,18 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo assaggiato i migliori oli della Sicilia. Questi sono quelli che meritano davvero",
-        "description": "Dopo una campagna che ha segnato la ripresa dell'olivicoltura siciliana, il Gambero Rosso ha selezionato gli extravergine premiati con le Tre Foglie: ecco le bo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/migliori-oli-sicilia-tre-foglie-2026/",
-        "pubDate": "2026-07-24T14:49:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Una Casa perfetta per il tuo gatto: ti sveliamo come renderla sicura e confortevole",
+        "description": "Una casa davvero cat friendly non è solo accogliente, ma è progettata per proteggere il tuo gatto, rispettare le sue abitudini e migliorare la convivenza quotid…",
+        "link": "https://www.stylosophy.it/articolo/una-casa-perfetta-per-il-tuo-gatto-ti-sveliamo-come-renderla-sicura-e-confortevole/252914/",
+        "pubDate": "2026-07-25T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Belen Rodriguez sfoggia il bikini di super tendenza per questa stagione: da copiare subito!",
         "description": "Belen Rodriguez, sempre al passo con i tempi, sfoggia il bikini di super tendenza per questa stagione.…",
@@ -324,15 +333,6 @@
         "description": "Dalle città d'arte alle spiagge dell'Adriatico, passando per il Lago di Garda e le Dolomiti: ecco perché il Veneto continua a essere la destinazione italiana pr…",
         "link": "https://www.stylosophy.it/articolo/questa-e-la-regione-italiana-che-attira-piu-turisti-stranieri-in-estate/252866/",
         "pubDate": "2026-07-22T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Arisa, al mare con il bikini di super tendenza: che sexy!",
-        "description": "Arisa, tra un impegno di lavoro e un altro, si concede un po' di relax al mare con il bikini di super tendenza.…",
-        "link": "https://www.stylosophy.it/articolo/arisa-al-mare-con-il-bikini-di-super-tendenza-che-sexy/252905/",
-        "pubDate": "2026-07-22T13:01:42+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
