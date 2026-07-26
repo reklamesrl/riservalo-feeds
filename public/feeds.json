@@ -1,7 +1,25 @@
 {
-  "generated": "2026-07-25T19:06:43.502886+00:00",
+  "generated": "2026-07-26T08:25:51.114286+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il nuovo logo della Coca Cola non convince del tutto",
+        "description": "Il nuovo font ha un aspetto troppo vintage, assomiglia a quello delle sigarette e rischia anche di confondere i consumatori.\nL'articolo Il nuovo logo della Coca…",
+        "link": "https://www.dissapore.com/notizie/il-nuovo-logo-della-coca-cola-non-convince-del-tutto/",
+        "pubDate": "2026-07-26T07:25:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/coca-cola.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "BBQ International Day 2026, un italiano su due sceglie la bevanda in base a ciò che mette sulla griglia",
+        "description": "In vista del BBQ International Day, in programma il 1° agosto 2026, emerge un cambiamento nelle abitudini degli italiani durante le grigliate estive. Per un ita…",
+        "link": "https://www.winemag.it/bbq-international-day-2026-un-italiano-su-due-sceglie-la-bevanda-in-base-a-cio-che-mette-sulla-griglia/",
+        "pubDate": "2026-07-26T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/BBQ-International-Day-2026-un-italiano-su-due-sceglie-la-bevanda-in-base-a-cio-che-mette-sulla-griglia-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Una Casa perfetta per il tuo gatto: ti sveliamo come renderla sicura e confortevole",
         "description": "Una casa davvero cat friendly non è solo accogliente, ma è progettata per proteggere il tuo gatto, rispettare le sue abitudini e migliorare la convivenza quotid…",
@@ -76,7 +94,7 @@
       },
       {
         "title": "Per decenni questo vino sembrava destinato a sparire. Oggi è una delle sorprese dell’estate",
-        "description": "La Spergola era a un passo dall'estinzione. Oggi, grazie al lavoro dei produttori delle colline reggiane, è tornata protagonista con vini fermi, Charmat e Metod…",
+        "description": "La Spergola era a un passo dall'estinzione. Oggi, grazie al lavoro dei produttori delle colline reggiane, è tornata protagonista con vini fermi, frizzanti, Char…",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-spumanti-spergola-2026/",
         "pubDate": "2026-07-25T07:09:04+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Agosto in Puglia cosa vedere tra borghi, spiagge e luoghi per rilassarsi",
-        "description": "Dai borghi della Valle d’Itria alle spiagge del Salento, passando per masserie e angoli tranquilli: ecco cosa vedere in Puglia ad agosto.…",
-        "link": "https://www.stylosophy.it/articolo/agosto-in-puglia-cosa-vedere-tra-borghi-spiagge-e-luoghi-per-rilassarsi/252970/",
-        "pubDate": "2026-07-24T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "I nuovi dazi di Trump riguardano anche il vino italiano. Cosa c’è da sapere sulle nuove tariffe Usa",
-        "description": "Le nuove tariffe sono fissate tra il 10% e il 12,5%. Uiv avverte: \"Sono migliorative, ma rischiamo che ne arrivino altre dopo le indagini del Governo americano …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/nuovi-dazi-usa-vino-italiano-luglio-2026/",
-        "pubDate": "2026-07-24T15:14:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Il nuovo logo della Coca Cola non convince del tutto",
+        "description": "Il nuovo font ha un aspetto troppo vintage, assomiglia a quello delle sigarette e rischia anche di confondere i consumatori.\nL'articolo Il nuovo logo della Coca…",
+        "link": "https://www.dissapore.com/notizie/il-nuovo-logo-della-coca-cola-non-convince-del-tutto/",
+        "pubDate": "2026-07-26T07:25:54+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/coca-cola.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "BBQ International Day 2026, un italiano su due sceglie la bevanda in base a ciò che mette sulla griglia",
+        "description": "In vista del BBQ International Day, in programma il 1° agosto 2026, emerge un cambiamento nelle abitudini degli italiani durante le grigliate estive. Per un ita…",
+        "link": "https://www.winemag.it/bbq-international-day-2026-un-italiano-su-due-sceglie-la-bevanda-in-base-a-cio-che-mette-sulla-griglia/",
+        "pubDate": "2026-07-26T05:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/BBQ-International-Day-2026-un-italiano-su-due-sceglie-la-bevanda-in-base-a-cio-che-mette-sulla-griglia-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Nestlé sta negoziando sulle etichette per non spaventare i consumatori e non è un bene",
         "description": "Con un'attività di lobbying sul governo statunitense, Nestlé vuole semplificare i nomi degli ingredienti, rendendoli più facili da identificare.\nL'articolo Nest…",
         "link": "https://www.dissapore.com/notizie/nestle-sta-negoziando-sulle-etichette-per-non-spaventare-i-consumatori/",
@@ -413,7 +431,7 @@
       },
       {
         "title": "Per decenni questo vino sembrava destinato a sparire. Oggi è una delle sorprese dell’estate",
-        "description": "La Spergola era a un passo dall'estinzione. Oggi, grazie al lavoro dei produttori delle colline reggiane, è tornata protagonista con vini fermi, Charmat e Metod…",
+        "description": "La Spergola era a un passo dall'estinzione. Oggi, grazie al lavoro dei produttori delle colline reggiane, è tornata protagonista con vini fermi, frizzanti, Char…",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-spumanti-spergola-2026/",
         "pubDate": "2026-07-25T07:09:04+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -524,24 +542,6 @@
         "description": "Succede al Montelago Celtic Festival, dove oltre 40mila persone si ritrovano tra tende, musica dal vivo, 25 stand gastronomici, idromele, street food e speciali…",
         "link": "https://www.gamberorosso.it/notizie/attualita/montelago-celtic-festival-cosa-mangiare-idromele/",
         "pubDate": "2026-07-24T14:39:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mura / Murai è la nuova Dop del vino ungherese",
-        "description": "Mura / Murai la nuova Dop del vino ungherese al confine con la Croazia. Una denominazione più restrittiva di Zala con bianchi, Siller, rossi\nL'articolo Mura / M…",
-        "link": "https://www.winemag.it/mura-murai-e-la-nuova-dop-del-vino-ungherese/",
-        "pubDate": "2026-07-24T14:37:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La legge sulla doggy bag è saltata (per ora). E il motivo non è quello che pensate",
-        "description": "Sembrava fatta, invece il provvedimento è stato rinviato. Dietro lo stop c'è una questione che va oltre la politica: il rapporto degli italiani con gli avanzi a…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/doggy-bag-stop-norma-ristoranti/",
-        "pubDate": "2026-07-24T14:27:48+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
