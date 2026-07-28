@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-27T19:26:50.383534+00:00",
+  "generated": "2026-07-28T08:33:58.346960+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Quell’oliera sul tavolo del ristorante è vietata. La multa può arrivare a 8mila euro",
+        "description": "Nei pubblici esercizi l’olio servito al tavolo deve essere in un contenitore etichettato, non manomettibile e impossibile da riempire di nuovo. Per chi non risp…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/oliera-ristorante-vietata-legge-multe/",
+        "pubDate": "2026-07-28T05:06:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Progeo Molini porta le farine Tre Grazie a Refettorio Modena, partnership con Food for Soul",
+        "description": "Le farine Tre Grazie di Progeo Molini entrano nelle cucine di Refettorio Modena, il progetto di Food for Soul, l&#8217;organizzazione non profit fondata da Mass…",
+        "link": "https://www.winemag.it/progeo-molini-porta-le-farine-tre-grazie-a-refettorio-modena-partnership-con-food-for-soul/",
+        "pubDate": "2026-07-28T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "ITS Agrorisorse e Unionbirrai: la filiera della birra artigianale entra nell’alta formazione tecnica",
+        "description": "La filiera della birra artigianale trova spazio nei percorsi di alta formazione tecnica. All’ITS Academy Agrorisorse di Lodi si è concluso un percorso formativo…",
+        "link": "https://www.winemag.it/its-agrorisorse-e-unionbirrai-la-filiera-della-birra-artigianale-entra-nellalta-formazione-tecnica/",
+        "pubDate": "2026-07-28T04:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Coteaux du Giennois, l’alternativa qualità-prezzo a Sancerre e Pouilly-Fumé",
+        "description": "Coteaux du Giennois, l'alternativa qualità-prezzo a Sancerre e Pouilly-Fumé. La piccola denominazione del Centro Loira si fa largo sui mercati. Il nostro focus …",
+        "link": "https://www.winemag.it/coteaux-du-giennois-alternativa-qualita-prezzo-sancerre-pouilly-fume/",
+        "pubDate": "2026-07-27T22:05:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Coteaux-du-Giennois-alternativa-qualita-prezzo-a-Sancerre-e-Pouilly-Fume.-La-piccola-denominazione-del-Centro-Loira-si-fa-largo-sui-mercati-centre-loire-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Dimenticate il beige: la sfumatura ‘lusso silenzioso’ perfetta a 50 anni",
         "description": "A 50 anni il classico beige può spegnere il viso e appiattire ogni outfit. Il greige freddo promette un lusso silenzioso che ringiovanisce il guardaroba senza s…",
@@ -30,6 +66,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Alla periferia di Roma c’è una pizza gigante da dividere al centro del tavolo. E si cena con meno di 20 euro",
+        "description": "Angelo Iezzi ha rivoluzionato la pizza al taglio romana negli anni Ottanta. Oggi, lontano dai riflettori, prepara la sua Super Fina dentro un circolo sportivo a…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/angelo-iezzi-pizza-romana-super-fina-roma/",
+        "pubDate": "2026-07-27T14:54:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Ora per MasterChef Italia sarà un problema trovare degli ospiti adeguati",
         "description": "La recente carrambata di MasterChef Australia con Meghan Markle e il principe Harry sarà difficile da superare, polemiche incluse.\nL'articolo Ora per MasterChef…",
         "link": "https://www.dissapore.com/notizie/ora-per-masterchef-italia-sara-un-problema-trovare-degli-ospiti-adeguati/",
@@ -37,6 +82,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/meghan-masterchef-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Nel bosco della Majella c’è un posto dove si dorme tra gli alberi",
+        "description": "A Roccamorice, nel Parco della Majella, quattro giovani abruzzesi hanno recuperato un campeggio mai davvero entrato in funzione. Oggi è un glamping immerso nel …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/dimore-montane-glamping-majella/",
+        "pubDate": "2026-07-27T13:42:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Cosa dice la BBC nel suo reportage sull’obesità infantile in Italia",
@@ -75,8 +129,8 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Qui la cena comincia su una barca e finisce con i canti dei pescatori",
-        "description": "A Rovigno basta salire su una tradizionale batana per vivere una delle esperienze più autentiche dell'Istria: cena in taverna, vini locali e le bitinade, gli st…",
+        "title": "C’è una cena che si raggiunge soltanto dal mare",
+        "description": "Succede a Rovigno, dove una tradizionale batana accompagna gli ospiti in una taverna sul mare tra pesce, vini locali e le antiche bitinade, i canti eseguiti anc…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/rovigno-cena-batana-bitinade/",
         "pubDate": "2026-07-27T11:02:24+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -127,60 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Un’epidemia legata alla lattuga sta rovinando la dieta dei bambini americani",
-        "description": "La Cyclospora sta costringendo in bagno decine di migliaia di Americani, e c'è chi per precauzione sta eliminando frutta e verdura dalla dieta, soprattutto da q…",
-        "link": "https://www.dissapore.com/notizie/unepidemia-parassitaria-legata-alla-lattuga-sta-rovinando-la-dieta-dei-bambini-americani/",
-        "pubDate": "2026-07-27T08:52:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2019/04/meat-e1783606826461.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pareo lovers all’ascolto: ecco i modelli da non lasciarsi scappare per l’estate!",
-        "description": "Nel podio degli accessori immancabili da spiaggia &#8211; oltre agli occhiali da sole e ai summer hat &#8211; c&#8217;è senza dubbio il pareo. Se negli anni il …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pareo-donna-lungo-corto-look-estate-2026-988564",
-        "pubDate": "2026-07-27T08:35:49+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_pareo_estate.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Oltre le spiagge: viaggio nella Sardegna più selvaggia, dalla Barbagia all’Ogliastra",
-        "description": "Da Nuoro al Supramonte, da Mamoiada e Orgosolo fino alle coste dell’Ogliastra: un viaggio tra pani pastorali, Cannonau, maschere rituali, arte contemporanea, cu…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/barbagia-ogliastra-itinerario-dove-mangiare/",
-        "pubDate": "2026-07-27T07:37:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Autunno in Istria: tartufi, vino, prosciutto e distillati: il volto enogastronomico della penisola",
-        "description": "L’autunno rappresenta uno dei periodi più interessanti per visitare l’Istria. Terminata la stagione balneare, l’attenzione si sposta verso l’entroterra, dove bo…",
-        "link": "https://www.winemag.it/autunno-in-istria-tartufi-vino-prosciutto-e-distillati-raccontano-il-volto-enogastronomico-della-penisola/",
-        "pubDate": "2026-07-27T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Qui ci sono 1200 vini, ma i prezzi non sono quelli che vi aspettate",
-        "description": "Magazzino 52 occupa un vecchio deposito di opere d’arte nel centro della città. Oggi al loro posto ci sono scaffali di bottiglie, una cucina di mercato e una ca…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/magazzino-52-torino-ristorante-vini/",
-        "pubDate": "2026-07-27T05:52:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I popcorn salveranno i cinema?",
-        "description": "Il business dei contenitori da collezione sta aumentando l'interesse degli spettatori – e gli incassi dei cinema.\nL'articolo I popcorn salveranno i cinema? prov…",
-        "link": "https://www.dissapore.com/notizie/i-popcorn-salveranno-i-cinema/",
-        "pubDate": "2026-07-27T05:48:58+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pop-corn-dune-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Quell’oliera sul tavolo del ristorante è vietata. La multa può arrivare a 8mila euro",
+        "description": "Nei pubblici esercizi l’olio servito al tavolo deve essere in un contenitore etichettato, non manomettibile e impossibile da riempire di nuovo. Per chi non risp…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/oliera-ristorante-vietata-legge-multe/",
+        "pubDate": "2026-07-28T05:06:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Progeo Molini porta le farine Tre Grazie a Refettorio Modena, partnership con Food for Soul",
+        "description": "Le farine Tre Grazie di Progeo Molini entrano nelle cucine di Refettorio Modena, il progetto di Food for Soul, l&#8217;organizzazione non profit fondata da Mass…",
+        "link": "https://www.winemag.it/progeo-molini-porta-le-farine-tre-grazie-a-refettorio-modena-partnership-con-food-for-soul/",
+        "pubDate": "2026-07-28T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "ITS Agrorisorse e Unionbirrai: la filiera della birra artigianale entra nell’alta formazione tecnica",
+        "description": "La filiera della birra artigianale trova spazio nei percorsi di alta formazione tecnica. All’ITS Academy Agrorisorse di Lodi si è concluso un percorso formativo…",
+        "link": "https://www.winemag.it/its-agrorisorse-e-unionbirrai-la-filiera-della-birra-artigianale-entra-nellalta-formazione-tecnica/",
+        "pubDate": "2026-07-28T04:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Coteaux du Giennois, l’alternativa qualità-prezzo a Sancerre e Pouilly-Fumé",
+        "description": "Coteaux du Giennois, l'alternativa qualità-prezzo a Sancerre e Pouilly-Fumé. La piccola denominazione del Centro Loira si fa largo sui mercati. Il nostro focus …",
+        "link": "https://www.winemag.it/coteaux-du-giennois-alternativa-qualita-prezzo-sancerre-pouilly-fume/",
+        "pubDate": "2026-07-27T22:05:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Coteaux-du-Giennois-alternativa-qualita-prezzo-a-Sancerre-e-Pouilly-Fume.-La-piccola-denominazione-del-Centro-Loira-si-fa-largo-sui-mercati-centre-loire-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Freccianera punta sul formato mini: arriva la Special Box da 12 Brut25 con tote bag in omaggio",
         "description": "L&#8217;estate premia la spontaneità e anche il brindisi si adatta a un modo di vivere più dinamico. Per chi sceglie escursioni, giornate in barca, viaggi in ca…",
         "link": "https://www.winemag.it/freccianera-punta-sul-formato-mini-arriva-la-special-box-da-12-brut25-con-tote-bag-in-omaggio/",
@@ -376,6 +412,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Alla periferia di Roma c’è una pizza gigante da dividere al centro del tavolo. E si cena con meno di 20 euro",
+        "description": "Angelo Iezzi ha rivoluzionato la pizza al taglio romana negli anni Ottanta. Oggi, lontano dai riflettori, prepara la sua Super Fina dentro un circolo sportivo a…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/angelo-iezzi-pizza-romana-super-fina-roma/",
+        "pubDate": "2026-07-27T14:54:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Ora per MasterChef Italia sarà un problema trovare degli ospiti adeguati",
         "description": "La recente carrambata di MasterChef Australia con Meghan Markle e il principe Harry sarà difficile da superare, polemiche incluse.\nL'articolo Ora per MasterChef…",
         "link": "https://www.dissapore.com/notizie/ora-per-masterchef-italia-sara-un-problema-trovare-degli-ospiti-adeguati/",
@@ -383,6 +428,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/meghan-masterchef-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Nel bosco della Majella c’è un posto dove si dorme tra gli alberi",
+        "description": "A Roccamorice, nel Parco della Majella, quattro giovani abruzzesi hanno recuperato un campeggio mai davvero entrato in funzione. Oggi è un glamping immerso nel …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/dimore-montane-glamping-majella/",
+        "pubDate": "2026-07-27T13:42:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Cosa dice la BBC nel suo reportage sull’obesità infantile in Italia",
@@ -412,8 +466,8 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Qui la cena comincia su una barca e finisce con i canti dei pescatori",
-        "description": "A Rovigno basta salire su una tradizionale batana per vivere una delle esperienze più autentiche dell'Istria: cena in taverna, vini locali e le bitinade, gli st…",
+        "title": "C’è una cena che si raggiunge soltanto dal mare",
+        "description": "Succede a Rovigno, dove una tradizionale batana accompagna gli ospiti in una taverna sul mare tra pesce, vini locali e le antiche bitinade, i canti eseguiti anc…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/rovigno-cena-batana-bitinade/",
         "pubDate": "2026-07-27T11:02:24+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -491,60 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pop-corn-dune-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "La cozza più famosa del Delta del Po è finita al centro di un giallo",
-        "description": "Dopo i dati diffusi dalla Cia di Rovigo sulla perdita del 99% della produzione della cozza di Scardovari Dop, il presidente del Consorzio ridimensiona l'allarme…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cozza-scardovari-allarme-produzione-consorzio/",
-        "pubDate": "2026-07-27T05:01:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Serrae Villa Fiesole presenta il menu estivo 2026 firmato dallo chef Antonello Sardi",
-        "description": "Con l&#8217;arrivo della stagione estiva, Serrae Villa Fiesole rinnova il proprio menu degustazione. Il ristorante una Stella Michelin dell’FH55 Hotel Villa Fie…",
-        "link": "https://www.winemag.it/serrae-villa-fiesole-presenta-il-menu-estivo-2026-firmato-dallo-chef-antonello-sardi/",
-        "pubDate": "2026-07-27T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "L’Etna può diventare una regione spumantistica di livello internazionale?",
-        "description": "L'Etna può diventare una regione spumantistica di livello internazionale? L'esperienza di Nicosia e dell'Associazione spumanti dell'Etna\nL'articolo L&#8217;Etna…",
-        "link": "https://www.winemag.it/etna-puo-diventare-regione-spumantistica-di-livello-internazionale-nicosia-associazione-spumanti-etna-bolle-in-vigna/",
-        "pubDate": "2026-07-26T22:15:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/07/Etna-puo-diventare-una-regione-spumantistica-di-livello-internazionale-vigne-in-bolla-tenute-nicosia-2026-editoriale-davide-bortone-10.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Sira Kong, nuovo appuntamento il 31 luglio al Patria Palace Lecce con i bartender di Drink Kong",
-        "description": "Dopo il debutto del 7 luglio, Sira Kong prosegue la programmazione estiva al Patria Palace Lecce. Venerdì 31 luglio, dalle 19, il Sira Rooftop Bar ospiterà un n…",
-        "link": "https://www.winemag.it/sira-kong-nuovo-appuntamento-il-31-luglio-al-patria-palace-lecce-con-i-bartender-di-drink-kong/",
-        "pubDate": "2026-07-26T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il vero problema dei cibi ultra processati è che non sono definiti",
-        "description": "Se gli studi sui cibi ultraprocessati dicono tutto e il suo contrario, e se sarà difficile fare norme per contenerne gli effetti negativi, è perché una definizi…",
-        "link": "https://www.dissapore.com/spesa/il-vero-problema-dei-cibi-ultra-processati-e-che-non-sono-definiti/",
-        "pubDate": "2026-07-26T15:11:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/cibo-ultra-processato.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il pecorino siciliano con lo zafferano che cambia completamente colore",
-        "description": "Pasta giallo intenso, grani di pepe nero e zafferano aggiunto direttamente nel latte: il Piacentinu Ennese è uno dei formaggi più insoliti d'Italia e custodisce…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/il-pecorino-siciliano-con-lo-zafferano-che-cambia-completamente-colore/",
-        "pubDate": "2026-07-26T12:52:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
