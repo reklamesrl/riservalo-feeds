@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-29T14:09:55.391234+00:00",
+  "generated": "2026-07-29T19:16:09.847150+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "H&M x WARDROBE.NYC: la capsule che riscrive il concetto di “guardaroba capsula” (e dimostra che i veri essential non passano mai di moda)",
+        "description": "In un momento in cui il calendario della moda corre sempre più veloce, H&#38;M, per la sua nuova collab, ha scelto una direzione diversa. La nuova capsule del c…",
+        "link": "https://www.grazia.it/moda/news-moda/hm-x-wardrobe-nyc-collaborazione-capsule-wardrobe-989149",
+        "pubDate": "2026-07-29T17:04:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_capsule_wardrobe_HM.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Agosto in Liguria: cosa vedere tra borghi, spiagge e luoghi imperdibili",
+        "description": "Dalle località più famose ai borghi affacciati sul mare, ecco cosa visitare in Liguria ad agosto tra spiagge, panorami e tappe perfette per una vacanza estiva.…",
+        "link": "https://www.stylosophy.it/articolo/agosto-in-liguria-cosa-vedere-tra-borghi-spiagge-e-luoghi-imperdibili/253197/",
+        "pubDate": "2026-07-29T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La storia del ragazzo che ha fatto causa alle multinazionali del cibo",
+        "description": "Bryce Martinez si è ritrovato a soffrire di diabete ad appena 16 anni: la colpa è davvero tutta sua o di un ambiente alimentare disfunzionale? \nL'articolo La st…",
+        "link": "https://www.dissapore.com/notizie/la-storia-del-ragazzo-che-ha-fatto-causa-alle-multinazionali-del-cibo/",
+        "pubDate": "2026-07-29T15:53:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/junk-food-scaled-e1783416135285.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Vendemmia DOC Sicilia 2026, raccolta al via: stagione favorita dalle piogge e uve con ottimo potenziale qualitativo",
+        "description": "Prende il via a occidente la vendemmia 2026 dei produttori del Consorzio di Tutela Vini DOC Sicilia. La raccolta si svilupperà nell&#8217;arco di circa 90 giorn…",
+        "link": "https://www.winemag.it/vendemmia-doc-sicilia-2026-raccolta-al-via-stagione-favorita-dalle-piogge-e-uve-con-ottimo-potenziale-qualitativo/",
+        "pubDate": "2026-07-29T15:42:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "La maison di Champagne Louis Roederer sbarca in Borgogna: acquistato Domaine Pierre Damoy",
         "description": "Louis Roederer festeggia i 250 anni comprando 8 ettari di Grand Cru. Così i principali gruppi internazionali provano a differenziare l'offerta con vigneti iconi…",
@@ -30,6 +66,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Vendemmia 2026, Brachetto d’Acqui Docg in anticipo: raccolta entro metà agosto",
+        "description": "La vendemmia 2026 del Brachetto d’Acqui Docg dovrebbe iniziare entro la prima metà di agosto, con circa una settimana di anticipo rispetto al 2025. Le prospetti…",
+        "link": "https://www.winemag.it/vendemmia-2026-brachetto-dacqui-docg-in-anticipo-raccolta-entro-meta-agosto/",
+        "pubDate": "2026-07-29T12:47:08+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Gli italiani mangiano sempre meno pasta “normale”",
         "description": "Cresce il consumo della pasta alternativa in Italia. Spaghetti sì, ma di Kamut. Un'analisi di Unione Italiana Food riporta i numeri del reparto \"paste speciali\"…",
         "link": "https://www.dissapore.com/notizie/gli-italiani-mangiano-sempre-meno-pasta-normale/",
@@ -37,6 +82,33 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/scaffale-di-paste-speciali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Export vini Dop europei in calo: Italia, -6,2% nel primo quadrimestre 2026",
+        "description": "L’export dei vini Dop europei chiude il primo quadrimestre 2026 in calo nei principali Paesi produttori. Secondo il nuovo report di Nomisma Wine Monitor, tra ge…",
+        "link": "https://www.winemag.it/export-vini-dop-europei-in-calo-italia-6-2-primo-quadrimestre-2026/",
+        "pubDate": "2026-07-29T12:24:34+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vendemmia 2026 in Sicilia, Assovini: attese uve sane e di qualità",
+        "description": "La vendemmia 2026 in Sicilia prende il via negli ultimi giorni di luglio dalle aree occidentali dell’isola, con la raccolta delle varietà precoci a bacca bianca…",
+        "link": "https://www.winemag.it/vendemmia-2026-in-sicilia-raccolta-al-via-attese-uve-sane-e-di-qualita/",
+        "pubDate": "2026-07-29T12:08:01+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Forster Ungeheuer Riesling del 1811 all’asta su Catawiki",
+        "description": "Forster Ungeheuer Riesling del 1811 all’asta su Catawiki: stima fino a 13 mila euro\nL'articolo Forster Ungeheuer Riesling del 1811 all’asta su Catawiki proviene…",
+        "link": "https://www.winemag.it/forster-ungeheuer-riesling-1811-allasta-su-catawiki-stima-fino-a-13-mila-euro/",
+        "pubDate": "2026-07-29T11:59:35+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "“Il vino passi all’azione: stop a nuovi vigneti, riduzione rese e anche estirpi mirati”. Cotarella invita la filiera all’unità",
@@ -57,6 +129,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Kaia Gerber ci ricorda che il classico “little black dress” è una scelta sempre azzeccata (sì, anche in piena estate)",
+        "description": "Il tour promozionale di “The Shards”, la nuova serie di Ryan Murphy che debutterà su Disney + il prossimo 6 agosto, è appena iniziato e Kaia Gerber ci ha già re…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-neri-tubino-nero-donna-kaia-gerber-the-shards-serie-990160",
+        "pubDate": "2026-07-29T09:35:07+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_neri_chic.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Vendemmia imprevedibile: l’Italia sospende le consuete stime 2026 così come ha già fatto la Francia",
         "description": "Annullata la tradizionale conferenza stampa al Masaf ai primi di settembre. Uiv e Assoenologi, intanto, chiedono di anticipare a metà novembre la dichiarazione …",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-2026-sospese-stime-uiv-assoenologi-ismea/",
@@ -75,6 +156,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Cosa mettere in valigia per le vacanze? La checklist ideale, meta per meta",
+        "description": "Out of office: impostato. Itinerario di viaggio: pianificato. Non resta che pensare alla valigia. Facile a dirsi, un po&#8217; meno a farsi. Già, perché ogni es…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-mettere-in-valigia-per-le-vacanze-in-base-alla-meta-mare-montagna-citta-d-arte-borghi-on-the-road-989702",
+        "pubDate": "2026-07-29T09:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_mete_vacanze.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Si può tostare il caffè con l’energia solare?",
         "description": "Il processo di torrefazione richiede molta energia, ma c'è chi sta lavorando a delle alternative.\nL'articolo Si può tostare il caffè con l&#8217;energia solare?…",
         "link": "https://www.dissapore.com/notizie/si-puo-tostare-il-caffe-con-lenergia-solare/",
@@ -91,99 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dormire nelle ex celle dei frati e mangiare cucina toscana: il convento trasformato in hotel",
-        "description": "A Cortona un antico monastero è diventato un boutique hotel, ma conserva la sua anima più autentica: orto, selvaggina, piccoli produttori e una cucina che trasf…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/monastero-cortona-cucina-monaci/",
-        "pubDate": "2026-07-29T07:33:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A 1600 metri il rifugio dove si mangia una delle cucine più sorprendenti delle Alpi",
-        "description": "In alta Valle Maira, a 1600 metri di quota, Visaisa unisce ospitalità, ricerca gastronomica e paesaggi spettacolari. Tra piatti sorprendenti, pizza con farine l…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/visaisa-rifugio-valle-maira-cucina/",
-        "pubDate": "2026-07-29T06:01:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Joe Bastianich porta i suoi hamburger a Torino e a Roma",
-        "description": "Due nuove aperture italiane annunciate per il nuovo progetto di Joe Bastianich, JB Burger, in due location molto diverse.\nL'articolo Joe Bastianich porta i suoi…",
-        "link": "https://www.dissapore.com/notizie/joe-bastianich-porta-i-suoi-hamburger-a-torino-e-a-roma/",
-        "pubDate": "2026-07-28T18:19:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/jbb-fiordaliso-25-650x1300-1-e1785262664322.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gli abiti lingerie sono il passe-partout dell’estate: ecco 8 idee cool per indossarli h24",
-        "description": "Quando l&#8217;estate chiama, i lingerie dress rispondono. La bella stagione del resto porta con sé un&#8217;irrefrenabile voglia di scoprirsi, di giocare con t…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-lingerie-come-indossare-idee-look-abbinamenti-estate-vestito-sottoveste-zara-989041",
-        "pubDate": "2026-07-28T18:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_slipdress.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Hai troppe scarpe e zero spazio? 5 idee per un guardaroba più organizzato",
-        "description": "Organizzare le scarpe in modo intelligente permette di recuperare spazio e mantenere l'armadio sempre in ordine. Ecco le soluzioni più efficaci per sfruttare og…",
-        "link": "https://www.stylosophy.it/articolo/hai-troppe-scarpe-e-zero-spazio-idee-per-un-guardaroba-piu-organizzato/253102/",
-        "pubDate": "2026-07-28T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Sono una consulente d’immagine e questi sono i 3 colori che sconsiglio alle donne over 60 se vogliono apparire più fresche e riposate”",
-        "description": "Dopo i 60 anni bastano tre sfumature sbagliate per far sembrare il viso più stanco e segnato. Gli stylist rivelano quali colori dell’abbigliamento penalizzano e…",
-        "link": "https://www.grazia.it/moda/colori-da-evitare-dopo-60-anni-abbigliamento-per-sembrare-piu-giovane-988621",
-        "pubDate": "2026-07-28T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/colori-da-evitare-60-anni-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Come salvare la vite dal caldo: le soluzioni naturali che funzionano",
-        "description": "In Emilia-Romagna il progetto Climaviter sta dimostrando che l'uso di prodotti naturali di copertura per proteggere le uve dal caldo è molto efficace. Ma occorr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/climaviter-esperimenti-vite-contro-cambiamenti-climatici-emilia-romagna/",
-        "pubDate": "2026-07-28T14:59:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cosa deve cambiare nell’industria alimentare per farci ingerire meno microplastiche",
-        "description": "Uno studio su scala mondiale ha dimostrato come le plastiche finiscano nel cibo anche attraverso le confezioni: fare prevenzione si può, anche a casa.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/cosa-deve-cambiare-nellindustria-alimentare-per-farci-ingerire-meno-microplastiche/",
-        "pubDate": "2026-07-28T14:31:31+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/plastiche-bento-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Giulia De Lellis, anche al mare non rinuncia allo stile più trendy e glamour con il completo multicolor firmato Emilio Pucci",
-        "description": "Giulia De Lellis, da grande amante della moda, anche in vacanza al mare sfoggia look stilosi e curati.…",
-        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-anche-al-mare-non-rinuncia-allo-stile-piu-trendy-e-glamour-con-il-completo-multicolor-firmato-emilio-pucci/253062/",
-        "pubDate": "2026-07-28T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Chi ha vinto la seconda semifinale della Pizza Bit Competition 2026",
-        "description": "La tappa romagnola della competizione per nominare il Dallagiovanna Pizza Ambassador 2026 ha nominato tre nuovi finalisti, che si sfideranno nella finalissima d…",
-        "link": "https://www.dissapore.com/notizie/chi-ha-vinto-la-seconda-semifinale-della-pizza-bit-competition-2026/",
-        "pubDate": "2026-07-28T12:01:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pizzabit-dallagiovanna-cervia.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "H&M x WARDROBE.NYC: la capsule che riscrive il concetto di “guardaroba capsula” (e dimostra che i veri essential non passano mai di moda)",
+        "description": "In un momento in cui il calendario della moda corre sempre più veloce, H&#38;M, per la sua nuova collab, ha scelto una direzione diversa. La nuova capsule del c…",
+        "link": "https://www.grazia.it/moda/news-moda/hm-x-wardrobe-nyc-collaborazione-capsule-wardrobe-989149",
+        "pubDate": "2026-07-29T17:04:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_capsule_wardrobe_HM.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Agosto in Liguria: cosa vedere tra borghi, spiagge e luoghi imperdibili",
+        "description": "Dalle località più famose ai borghi affacciati sul mare, ecco cosa visitare in Liguria ad agosto tra spiagge, panorami e tappe perfette per una vacanza estiva.…",
+        "link": "https://www.stylosophy.it/articolo/agosto-in-liguria-cosa-vedere-tra-borghi-spiagge-e-luoghi-imperdibili/253197/",
+        "pubDate": "2026-07-29T16:15:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Chiara Ferragni sfoggia la borsa perfetta per l’estate che costa meno di 500 euro!",
         "description": "Ecco qui di seguito la borsa sfoggiata da Chiara Ferragni che costa meno di 500 euro.…",
@@ -194,6 +212,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Kaia Gerber ci ricorda che il classico “little black dress” è una scelta sempre azzeccata (sì, anche in piena estate)",
+        "description": "Il tour promozionale di “The Shards”, la nuova serie di Ryan Murphy che debutterà su Disney + il prossimo 6 agosto, è appena iniziato e Kaia Gerber ci ha già re…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-neri-tubino-nero-donna-kaia-gerber-the-shards-serie-990160",
+        "pubDate": "2026-07-29T09:35:07+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_neri_chic.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Pelle grassa d’estate: 5 consigli utilissimi per una corretta skincare",
         "description": "SOS pelle grassa in estate? Ecco 5 consigli da non perdere per una skincare su misura...…",
         "link": "https://www.stylosophy.it/articolo/pelle-grassa-destate-5-consigli-utilissimi-per-una-corretta-skincare/253147/",
@@ -201,6 +228,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa mettere in valigia per le vacanze? La checklist ideale, meta per meta",
+        "description": "Out of office: impostato. Itinerario di viaggio: pianificato. Non resta che pensare alla valigia. Facile a dirsi, un po&#8217; meno a farsi. Già, perché ogni es…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-mettere-in-valigia-per-le-vacanze-in-base-alla-meta-mare-montagna-citta-d-arte-borghi-on-the-road-989702",
+        "pubDate": "2026-07-29T09:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_mete_vacanze.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Gli abiti lingerie sono il passe-partout dell’estate: ecco 8 idee cool per indossarli h24",
@@ -327,45 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Kylie Jenner lancia la sua nuova collezione di profumi Mood Stones",
-        "description": "Kylie Jenner lancia la sua nuova collezione di profumi Mood Stones: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-la-sua-nuova-collezione-di-profumi-mood-stones/252989/",
-        "pubDate": "2026-07-26T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Camicia oversize summer edition: 5 idee per abbinarla con stile da mattina a sera",
-        "description": "È una grande partner in crime durante le mezze stagioni, per stratificare i look e affrontare con nonchalance gli sbalzi di temperatura, ma la camicia oversize …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/camicia-oversize-come-indossare-abbinamenti-gonna-pantaloni-estate-idee-outfit-donna-mix-match-988860",
-        "pubDate": "2026-07-26T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_camicia_over.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "La valigia forse è ancora da chiudere, ma la wishlist estiva è già pronta: ecco le novità moda da non perdere. #FashionPills Fashion Pills: lunedì e la creator …",
-        "link": "https://www.grazia.it/moda/news-moda/vans-negozio-brera-pdpaola-gioielli-bugaboo-stella-mccartney-hm-livia-natura-collezione-travel-genny-resort-saleri-studio-989034",
-        "pubDate": "2026-07-24T14:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/Senza-titolo-216.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Come abbinare i pantaloni beige quest’estate? Ecco 5 idee da Instagram da cui potete lasciarvi ispirare",
-        "description": "Abbiamo scommesso sul loro grande potenziale già all’inizio della primavera (quando abbiamo iniziato a fare una bella scorta di modelli freschi e leggeri) e nea…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-beige-come-indossare-in-estate-eleganti-casual-abbinamenti-giorno-sera-donna-989142",
-        "pubDate": "2026-07-24T12:05:07+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Come_indossare_pantaloni_beige.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La storia del ragazzo che ha fatto causa alle multinazionali del cibo",
+        "description": "Bryce Martinez si è ritrovato a soffrire di diabete ad appena 16 anni: la colpa è davvero tutta sua o di un ambiente alimentare disfunzionale? \nL'articolo La st…",
+        "link": "https://www.dissapore.com/notizie/la-storia-del-ragazzo-che-ha-fatto-causa-alle-multinazionali-del-cibo/",
+        "pubDate": "2026-07-29T15:53:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/junk-food-scaled-e1783416135285.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Vendemmia DOC Sicilia 2026, raccolta al via: stagione favorita dalle piogge e uve con ottimo potenziale qualitativo",
+        "description": "Prende il via a occidente la vendemmia 2026 dei produttori del Consorzio di Tutela Vini DOC Sicilia. La raccolta si svilupperà nell&#8217;arco di circa 90 giorn…",
+        "link": "https://www.winemag.it/vendemmia-doc-sicilia-2026-raccolta-al-via-stagione-favorita-dalle-piogge-e-uve-con-ottimo-potenziale-qualitativo/",
+        "pubDate": "2026-07-29T15:42:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "La maison di Champagne Louis Roederer sbarca in Borgogna: acquistato Domaine Pierre Damoy",
         "description": "Louis Roederer festeggia i 250 anni comprando 8 ettari di Grand Cru. Così i principali gruppi internazionali provano a differenziare l'offerta con vigneti iconi…",
@@ -385,6 +403,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Vendemmia 2026, Brachetto d’Acqui Docg in anticipo: raccolta entro metà agosto",
+        "description": "La vendemmia 2026 del Brachetto d’Acqui Docg dovrebbe iniziare entro la prima metà di agosto, con circa una settimana di anticipo rispetto al 2025. Le prospetti…",
+        "link": "https://www.winemag.it/vendemmia-2026-brachetto-dacqui-docg-in-anticipo-raccolta-entro-meta-agosto/",
+        "pubDate": "2026-07-29T12:47:08+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Gli italiani mangiano sempre meno pasta “normale”",
         "description": "Cresce il consumo della pasta alternativa in Italia. Spaghetti sì, ma di Kamut. Un'analisi di Unione Italiana Food riporta i numeri del reparto \"paste speciali\"…",
         "link": "https://www.dissapore.com/notizie/gli-italiani-mangiano-sempre-meno-pasta-normale/",
@@ -392,6 +419,33 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/scaffale-di-paste-speciali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Export vini Dop europei in calo: Italia, -6,2% nel primo quadrimestre 2026",
+        "description": "L’export dei vini Dop europei chiude il primo quadrimestre 2026 in calo nei principali Paesi produttori. Secondo il nuovo report di Nomisma Wine Monitor, tra ge…",
+        "link": "https://www.winemag.it/export-vini-dop-europei-in-calo-italia-6-2-primo-quadrimestre-2026/",
+        "pubDate": "2026-07-29T12:24:34+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vendemmia 2026 in Sicilia, Assovini: attese uve sane e di qualità",
+        "description": "La vendemmia 2026 in Sicilia prende il via negli ultimi giorni di luglio dalle aree occidentali dell’isola, con la raccolta delle varietà precoci a bacca bianca…",
+        "link": "https://www.winemag.it/vendemmia-2026-in-sicilia-raccolta-al-via-attese-uve-sane-e-di-qualita/",
+        "pubDate": "2026-07-29T12:08:01+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Forster Ungeheuer Riesling del 1811 all’asta su Catawiki",
+        "description": "Forster Ungeheuer Riesling del 1811 all’asta su Catawiki: stima fino a 13 mila euro\nL'articolo Forster Ungeheuer Riesling del 1811 all’asta su Catawiki proviene…",
+        "link": "https://www.winemag.it/forster-ungeheuer-riesling-1811-allasta-su-catawiki-stima-fino-a-13-mila-euro/",
+        "pubDate": "2026-07-29T11:59:35+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "“Il vino passi all’azione: stop a nuovi vigneti, riduzione rese e anche estirpi mirati”. Cotarella invita la filiera all’unità",
@@ -457,92 +511,38 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Io, Barolo 2026: a Castiglione Falletto torna la grande degustazione con oltre 30 produttori",
+        "description": "Sabato 12 settembre 2026 torna Io, Barolo, il grande evento di degustazione organizzato dalla Strada del Barolo e grandi vini di Langa. La manifestazione si svo…",
+        "link": "https://www.winemag.it/io-barolo-2026-a-castiglione-falletto-torna-la-grande-degustazione-con-oltre-30-produttori/",
+        "pubDate": "2026-07-29T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Carlsberg mappa il DNA del luppolo: la ricerca punta a rendere la birra più resiliente al cambiamento climatico",
+        "description": "In vista della Giornata Mondiale della Birra, in programma il 7 agosto, Carlsberg Italia richiama l&#8217;attenzione su un risultato scientifico raggiunto dal C…",
+        "link": "https://www.winemag.it/carlsberg-mappa-il-dna-del-luppolo-la-ricerca-punta-a-rendere-la-birra-piu-resiliente-al-cambiamento-climatico/",
+        "pubDate": "2026-07-29T04:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "L’Italia del calcio, incoerente come tutte le altre Italie. Quella del vino compresa",
+        "description": "L'Italia del calcio, incoerente come tutte le altre Italie. Quella del vino compresa.\nL'articolo L&#8217;Italia del calcio, incoerente come tutte le altre Itali…",
+        "link": "https://www.winemag.it/litalia-del-calcio-incoerente-come-tutte-le-altre-italie-quella-del-vino-compresa/",
+        "pubDate": "2026-07-28T20:16:07+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Joe Bastianich porta i suoi hamburger a Torino e a Roma",
         "description": "Due nuove aperture italiane annunciate per il nuovo progetto di Joe Bastianich, JB Burger, in due location molto diverse.\nL'articolo Joe Bastianich porta i suoi…",
         "link": "https://www.dissapore.com/notizie/joe-bastianich-porta-i-suoi-hamburger-a-torino-e-a-roma/",
         "pubDate": "2026-07-28T18:19:10+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/jbb-fiordaliso-25-650x1300-1-e1785262664322.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Come salvare la vite dal caldo: le soluzioni naturali che funzionano",
-        "description": "In Emilia-Romagna il progetto Climaviter sta dimostrando che l'uso di prodotti naturali di copertura per proteggere le uve dal caldo è molto efficace. Ma occorr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/climaviter-esperimenti-vite-contro-cambiamenti-climatici-emilia-romagna/",
-        "pubDate": "2026-07-28T14:59:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cosa deve cambiare nell’industria alimentare per farci ingerire meno microplastiche",
-        "description": "Uno studio su scala mondiale ha dimostrato come le plastiche finiscano nel cibo anche attraverso le confezioni: fare prevenzione si può, anche a casa.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/cosa-deve-cambiare-nellindustria-alimentare-per-farci-ingerire-meno-microplastiche/",
-        "pubDate": "2026-07-28T14:31:31+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/plastiche-bento-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Chi ha vinto la seconda semifinale della Pizza Bit Competition 2026",
-        "description": "La tappa romagnola della competizione per nominare il Dallagiovanna Pizza Ambassador 2026 ha nominato tre nuovi finalisti, che si sfideranno nella finalissima d…",
-        "link": "https://www.dissapore.com/notizie/chi-ha-vinto-la-seconda-semifinale-della-pizza-bit-competition-2026/",
-        "pubDate": "2026-07-28T12:01:52+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pizzabit-dallagiovanna-cervia.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Andare a letto a stomaco vuoto potrebbe migliorarci la vita",
-        "description": "Un nuovo studio scientifico mette in correlazione gli orari in cui mangiamo al declino cognitivo degli anziani.\nL'articolo Andare a letto a stomaco vuoto potreb…",
-        "link": "https://www.dissapore.com/notizie/andare-a-letto-a-stomaco-vuoto-potrebbe-migliorarci-la-vita/",
-        "pubDate": "2026-07-28T11:34:53+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/patatine-sul-divano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il vino del 1964 che aveva già dimostrato perché Emidio Pepe era un gigante",
-        "description": "Nel 2015 il Gambero Rosso mise a confronto dieci annate di Emidio Pepe, dal 1964 al 2010. Il risultato fu molto più di una degustazione: la dimostrazione che il…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/dieci-bottiglie-emidio-pepe-verticale-storica/",
-        "pubDate": "2026-07-28T10:27:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "È morto Emidio Pepe, il vignaiolo che aveva capito il futuro del vino cinquant’anni prima degli altri",
-        "description": "A 94 anni si è spento uno dei grandi patriarchi del vino italiano. Fu tra i primi a credere che Montepulciano e Trebbiano d'Abruzzo potessero sfidare i decenni,…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morto-emidio-pepe-eredita-vino/",
-        "pubDate": "2026-07-28T10:17:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ora per MasterChef Italia sarà un problema trovare degli ospiti adeguati",
-        "description": "La recente carrambata di MasterChef Australia con Meghan Markle e il principe Harry sarà difficile da superare, polemiche incluse.\nL'articolo Ora per MasterChef…",
-        "link": "https://www.dissapore.com/notizie/ora-per-masterchef-italia-sara-un-problema-trovare-degli-ospiti-adeguati/",
-        "pubDate": "2026-07-27T14:43:30+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/meghan-masterchef-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa dice la BBC nel suo reportage sull’obesità infantile in Italia",
-        "description": "Siamo ai primi posti per l'obesità infantile, abbiamo appena promulgato una legge intelligente sulla questione e nelle scuole ci sono programmi controversi, tra…",
-        "link": "https://www.dissapore.com/notizie/cosa-dice-la-bbc-nel-suo-reportage-sullobesita-infantile-in-italia/",
-        "pubDate": "2026-07-27T13:40:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/mangiare-pasta-scaled-e1784413375304.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La vendemmia in Italia è già iniziata: le previsioni",
-        "description": "Le temperature record hanno imposto raccolte decisamente precoci, ma molti operatore del settore sono ottimisti sulla qualità.\nL'articolo La vendemmia in Italia…",
-        "link": "https://www.dissapore.com/notizie/la-vendemmia-in-italia-e-gia-iniziata-le-previsioni/",
-        "pubDate": "2026-07-27T11:14:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2020/09/vigneto.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
