@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-30T08:26:34.886534+00:00",
+  "generated": "2026-07-30T14:01:51.429642+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Anche Hailey Bieber segue il trend del momento: ecco il suo bikini metallizzato con effetto laminato",
+        "description": "Per quest'estate, Hailey Bieber sceglie il bikini must di stagione, dall'effetto metallizzato.…",
+        "link": "https://www.stylosophy.it/articolo/anche-hailey-bieber-segue-il-trend-del-momento-ecco-il-suo-bikini-metallizzato-con-effetto-laminato/253209/",
+        "pubDate": "2026-07-30T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa vogliamo bere con la grigliata?",
+        "description": "Un’ indagine condotta da Sodastream e BBQ4All, in vista del BBQ International Day che si festeggia il primo agosto, ci racconta come stanno cambiando le nostre …",
+        "link": "https://www.dissapore.com/notizie/cosa-vogliamo-bere-con-la-grigliata/",
+        "pubDate": "2026-07-30T11:34:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/barbecue-griglia-birra-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "4 mete europee belle e low cost da visitare assolutamente nel mese di Agosto",
+        "description": "SOS viaggio last minute? Ecco 4 mete europee da visitare nel mese di Agosto, per una vacanza unica e rigenerante.…",
+        "link": "https://www.stylosophy.it/articolo/4-mete-europee-belle-e-low-cost-da-visitare-nel-mese-di-agosto/253077/",
+        "pubDate": "2026-07-30T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Forse la ricetta della Coca Cola è nata a Firenze",
         "description": "Durante una manutenzione della farmacia del convento di San Marco a Firenze è stata ritrovata la ricetta di un elisir molto simile alla Coca Cola.\nL'articolo Fo…",
@@ -10,24 +37,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/convento-san-marco-firenze-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Dreher celebra l’estate in Puglia tra festival, musica e iniziative nei punti vendita",
-        "description": "Dreher rafforza il legame con la provincia di Taranto e con la Puglia partecipando a due appuntamenti dell’estate 2026. Il brand, che produce la propria birra n…",
-        "link": "https://www.winemag.it/dreher-celebra-lestate-in-puglia-tra-festival-musica-e-iniziative-nei-punti-vendita/",
-        "pubDate": "2026-07-30T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Como 1907, Gin Mare è Official Supplier per la Serie A 2026/27",
-        "description": "Gin Mare entra nel mondo del calcio italiano. Il brand di spirits sarà Official Supplier del Como 1907 per la stagione di Serie A 2026/27. L&#8217;accordo preve…",
-        "link": "https://www.winemag.it/como-1907-gin-mare-e-official-supplier-per-la-serie-a-2026-27/",
-        "pubDate": "2026-07-30T04:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "H&M x WARDROBE.NYC: la capsule che riscrive il concetto di “guardaroba capsula” (e dimostra che i veri essential non passano mai di moda)",
@@ -66,15 +75,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Vendemmia DOC Sicilia 2026, raccolta al via: stagione favorita dalle piogge e uve con ottimo potenziale qualitativo",
-        "description": "Prende il via a occidente la vendemmia 2026 dei produttori del Consorzio di Tutela Vini DOC Sicilia. La raccolta si svilupperà nell&#8217;arco di circa 90 giorn…",
-        "link": "https://www.winemag.it/vendemmia-doc-sicilia-2026-raccolta-al-via-stagione-favorita-dalle-piogge-e-uve-con-ottimo-potenziale-qualitativo/",
-        "pubDate": "2026-07-29T15:42:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "La trattoria romana più sorprendente dell’anno non fa cucina romana",
         "description": "Raimondo, nel quartiere Garbatella, ci ha conquistato. Una \"rosteria\" che mette al centro affumicature, verdure, lunghe cotture e condivisione. Nessuna rincorsa…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/raimondo-trattoria-roma-senza-carbonara/",
@@ -111,15 +111,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Vendemmia 2026, Brachetto d’Acqui Docg in anticipo: raccolta entro metà agosto",
-        "description": "La vendemmia 2026 del Brachetto d’Acqui Docg dovrebbe iniziare entro la prima metà di agosto, con circa una settimana di anticipo rispetto al 2025. Le prospetti…",
-        "link": "https://www.winemag.it/vendemmia-2026-brachetto-dacqui-docg-in-anticipo-raccolta-entro-meta-agosto/",
-        "pubDate": "2026-07-29T12:47:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Gli italiani mangiano sempre meno pasta “normale”",
         "description": "Cresce il consumo della pasta alternativa in Italia. Spaghetti sì, ma di Kamut. Un'analisi di Unione Italiana Food riporta i numeri del reparto \"paste speciali\"…",
         "link": "https://www.dissapore.com/notizie/gli-italiani-mangiano-sempre-meno-pasta-normale/",
@@ -127,33 +118,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/scaffale-di-paste-speciali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Export vini Dop europei in calo: Italia, -6,2% nel primo quadrimestre 2026",
-        "description": "L’export dei vini Dop europei chiude il primo quadrimestre 2026 in calo nei principali Paesi produttori. Secondo il nuovo report di Nomisma Wine Monitor, tra ge…",
-        "link": "https://www.winemag.it/export-vini-dop-europei-in-calo-italia-6-2-primo-quadrimestre-2026/",
-        "pubDate": "2026-07-29T12:24:34+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vendemmia 2026 in Sicilia, Assovini: attese uve sane e di qualità",
-        "description": "La vendemmia 2026 in Sicilia prende il via negli ultimi giorni di luglio dalle aree occidentali dell’isola, con la raccolta delle varietà precoci a bacca bianca…",
-        "link": "https://www.winemag.it/vendemmia-2026-in-sicilia-raccolta-al-via-attese-uve-sane-e-di-qualita/",
-        "pubDate": "2026-07-29T12:08:01+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Forster Ungeheuer Riesling del 1811 all’asta su Catawiki",
-        "description": "Forster Ungeheuer Riesling del 1811 all’asta su Catawiki: stima fino a 13 mila euro\nL'articolo Forster Ungeheuer Riesling del 1811 all’asta su Catawiki proviene…",
-        "link": "https://www.winemag.it/forster-ungeheuer-riesling-1811-allasta-su-catawiki-stima-fino-a-13-mila-euro/",
-        "pubDate": "2026-07-29T11:59:35+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "“Il vino passi all’azione: stop a nuovi vigneti, riduzione rese e anche estirpi mirati”. Cotarella invita la filiera all’unità",
@@ -181,9 +145,63 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Abiti_neri_chic.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      },
+      {
+        "title": "Vendemmia imprevedibile: l’Italia sospende le consuete stime 2026 così come ha già fatto la Francia",
+        "description": "Annullata la tradizionale conferenza stampa al Masaf ai primi di settembre. Uiv e Assoenologi, intanto, chiedono di anticipare a metà novembre la dichiarazione …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-2026-sospese-stime-uiv-assoenologi-ismea/",
+        "pubDate": "2026-07-29T09:18:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pelle grassa d’estate: 5 consigli utilissimi per una corretta skincare",
+        "description": "SOS pelle grassa in estate? Ecco 5 consigli da non perdere per una skincare su misura...…",
+        "link": "https://www.stylosophy.it/articolo/pelle-grassa-destate-5-consigli-utilissimi-per-una-corretta-skincare/253147/",
+        "pubDate": "2026-07-29T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa mettere in valigia per le vacanze? La checklist ideale, meta per meta",
+        "description": "Out of office: impostato. Itinerario di viaggio: pianificato. Non resta che pensare alla valigia. Facile a dirsi, un po&#8217; meno a farsi. Già, perché ogni es…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-mettere-in-valigia-per-le-vacanze-in-base-alla-meta-mare-montagna-citta-d-arte-borghi-on-the-road-989702",
+        "pubDate": "2026-07-29T09:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_mete_vacanze.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Si può tostare il caffè con l’energia solare?",
+        "description": "Il processo di torrefazione richiede molta energia, ma c'è chi sta lavorando a delle alternative.\nL'articolo Si può tostare il caffè con l&#8217;energia solare?…",
+        "link": "https://www.dissapore.com/notizie/si-puo-tostare-il-caffe-con-lenergia-solare/",
+        "pubDate": "2026-07-29T08:43:31+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/torrefazione-caffe-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Anche Hailey Bieber segue il trend del momento: ecco il suo bikini metallizzato con effetto laminato",
+        "description": "Per quest'estate, Hailey Bieber sceglie il bikini must di stagione, dall'effetto metallizzato.…",
+        "link": "https://www.stylosophy.it/articolo/anche-hailey-bieber-segue-il-trend-del-momento-ecco-il-suo-bikini-metallizzato-con-effetto-laminato/253209/",
+        "pubDate": "2026-07-30T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "4 mete europee belle e low cost da visitare assolutamente nel mese di Agosto",
+        "description": "SOS viaggio last minute? Ecco 4 mete europee da visitare nel mese di Agosto, per una vacanza unica e rigenerante.…",
+        "link": "https://www.stylosophy.it/articolo/4-mete-europee-belle-e-low-cost-da-visitare-nel-mese-di-agosto/253077/",
+        "pubDate": "2026-07-30T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "H&M x WARDROBE.NYC: la capsule che riscrive il concetto di “guardaroba capsula” (e dimostra che i veri essential non passano mai di moda)",
         "description": "In un momento in cui il calendario della moda corre sempre più veloce, H&#38;M, per la sua nuova collab, ha scelto una direzione diversa. La nuova capsule del c…",
@@ -338,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Dolci e gourmand, i profumi al cocco sono i protagonisti dell’Estate 2026",
-        "description": "Dolci, avvolgenti e femminili, i profumi al cocco sono il vero must have dell'Estate. Ecco i più amati del momento da non lasciarsi sfuggire...…",
-        "link": "https://www.stylosophy.it/articolo/dolci-e-gourmand-i-profumi-al-cocco-sono-i-protagonisti-dellestate-2026/253017/",
-        "pubDate": "2026-07-27T09:38:49+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Pareo lovers all’ascolto: ecco i modelli da non lasciarsi scappare per l’estate!",
         "description": "Nel podio degli accessori immancabili da spiaggia &#8211; oltre agli occhiali da sole e ai summer hat &#8211; c&#8217;è senza dubbio il pareo. Se negli anni il …",
         "link": "https://www.grazia.it/moda/tendenze-moda/pareo-donna-lungo-corto-look-estate-2026-988564",
@@ -354,18 +363,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_pareo_estate.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Stai per dipingere il soggiorno? I Colori delle Pareti da scegliere e quali evitare per un living elegante e luminoso",
-        "description": "La tinta delle pareti cambia il modo in cui percepiamo gli spazi e valorizza l'arredamento. Ecco quali colori funzionano davvero nel soggiorno e quali è meglio …",
-        "link": "https://www.stylosophy.it/articolo/stai-per-dipingere-il-soggiorno-i-colori-delle-pareti-da-scegliere-e-quali-evitare/252990/",
-        "pubDate": "2026-07-26T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Cosa vogliamo bere con la grigliata?",
+        "description": "Un’ indagine condotta da Sodastream e BBQ4All, in vista del BBQ International Day che si festeggia il primo agosto, ci racconta come stanno cambiando le nostre …",
+        "link": "https://www.dissapore.com/notizie/cosa-vogliamo-bere-con-la-grigliata/",
+        "pubDate": "2026-07-30T11:34:01+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/barbecue-griglia-birra-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Forse la ricetta della Coca Cola è nata a Firenze",
         "description": "Durante una manutenzione della farmacia del convento di San Marco a Firenze è stata ritrovata la ricetta di un elisir molto simile alla Coca Cola.\nL'articolo Fo…",
@@ -374,24 +383,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/convento-san-marco-firenze-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Dreher celebra l’estate in Puglia tra festival, musica e iniziative nei punti vendita",
-        "description": "Dreher rafforza il legame con la provincia di Taranto e con la Puglia partecipando a due appuntamenti dell’estate 2026. Il brand, che produce la propria birra n…",
-        "link": "https://www.winemag.it/dreher-celebra-lestate-in-puglia-tra-festival-musica-e-iniziative-nei-punti-vendita/",
-        "pubDate": "2026-07-30T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Como 1907, Gin Mare è Official Supplier per la Serie A 2026/27",
-        "description": "Gin Mare entra nel mondo del calcio italiano. Il brand di spirits sarà Official Supplier del Como 1907 per la stagione di Serie A 2026/27. L&#8217;accordo preve…",
-        "link": "https://www.winemag.it/como-1907-gin-mare-e-official-supplier-per-la-serie-a-2026-27/",
-        "pubDate": "2026-07-30T04:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Stellario Verzera è il nuovo presidente della Doc Faro. La Doc messinese scommette sulle nuove generazioni",
@@ -410,15 +401,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/junk-food-scaled-e1783416135285.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Vendemmia DOC Sicilia 2026, raccolta al via: stagione favorita dalle piogge e uve con ottimo potenziale qualitativo",
-        "description": "Prende il via a occidente la vendemmia 2026 dei produttori del Consorzio di Tutela Vini DOC Sicilia. La raccolta si svilupperà nell&#8217;arco di circa 90 giorn…",
-        "link": "https://www.winemag.it/vendemmia-doc-sicilia-2026-raccolta-al-via-stagione-favorita-dalle-piogge-e-uve-con-ottimo-potenziale-qualitativo/",
-        "pubDate": "2026-07-29T15:42:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "La trattoria romana più sorprendente dell’anno non fa cucina romana",
@@ -448,15 +430,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Vendemmia 2026, Brachetto d’Acqui Docg in anticipo: raccolta entro metà agosto",
-        "description": "La vendemmia 2026 del Brachetto d’Acqui Docg dovrebbe iniziare entro la prima metà di agosto, con circa una settimana di anticipo rispetto al 2025. Le prospetti…",
-        "link": "https://www.winemag.it/vendemmia-2026-brachetto-dacqui-docg-in-anticipo-raccolta-entro-meta-agosto/",
-        "pubDate": "2026-07-29T12:47:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Gli italiani mangiano sempre meno pasta “normale”",
         "description": "Cresce il consumo della pasta alternativa in Italia. Spaghetti sì, ma di Kamut. Un'analisi di Unione Italiana Food riporta i numeri del reparto \"paste speciali\"…",
         "link": "https://www.dissapore.com/notizie/gli-italiani-mangiano-sempre-meno-pasta-normale/",
@@ -464,33 +437,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/scaffale-di-paste-speciali-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Export vini Dop europei in calo: Italia, -6,2% nel primo quadrimestre 2026",
-        "description": "L’export dei vini Dop europei chiude il primo quadrimestre 2026 in calo nei principali Paesi produttori. Secondo il nuovo report di Nomisma Wine Monitor, tra ge…",
-        "link": "https://www.winemag.it/export-vini-dop-europei-in-calo-italia-6-2-primo-quadrimestre-2026/",
-        "pubDate": "2026-07-29T12:24:34+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vendemmia 2026 in Sicilia, Assovini: attese uve sane e di qualità",
-        "description": "La vendemmia 2026 in Sicilia prende il via negli ultimi giorni di luglio dalle aree occidentali dell’isola, con la raccolta delle varietà precoci a bacca bianca…",
-        "link": "https://www.winemag.it/vendemmia-2026-in-sicilia-raccolta-al-via-attese-uve-sane-e-di-qualita/",
-        "pubDate": "2026-07-29T12:08:01+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Forster Ungeheuer Riesling del 1811 all’asta su Catawiki",
-        "description": "Forster Ungeheuer Riesling del 1811 all’asta su Catawiki: stima fino a 13 mila euro\nL'articolo Forster Ungeheuer Riesling del 1811 all’asta su Catawiki proviene…",
-        "link": "https://www.winemag.it/forster-ungeheuer-riesling-1811-allasta-su-catawiki-stima-fino-a-13-mila-euro/",
-        "pubDate": "2026-07-29T11:59:35+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "“Il vino passi all’azione: stop a nuovi vigneti, riduzione rese e anche estirpi mirati”. Cotarella invita la filiera all’unità",
@@ -545,6 +491,60 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 1600 metri il rifugio dove si mangia una delle cucine più sorprendenti delle Alpi",
+        "description": "In alta Valle Maira, a 1600 metri di quota, Visaisa unisce ospitalità, ricerca gastronomica e paesaggi spettacolari. Tra piatti sorprendenti, pizza con farine l…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/visaisa-rifugio-valle-maira-cucina/",
+        "pubDate": "2026-07-29T06:01:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Joe Bastianich porta i suoi hamburger a Torino e a Roma",
+        "description": "Due nuove aperture italiane annunciate per il nuovo progetto di Joe Bastianich, JB Burger, in due location molto diverse.\nL'articolo Joe Bastianich porta i suoi…",
+        "link": "https://www.dissapore.com/notizie/joe-bastianich-porta-i-suoi-hamburger-a-torino-e-a-roma/",
+        "pubDate": "2026-07-28T18:19:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/jbb-fiordaliso-25-650x1300-1-e1785262664322.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Come salvare la vite dal caldo: le soluzioni naturali che funzionano",
+        "description": "In Emilia-Romagna il progetto Climaviter sta dimostrando che l'uso di prodotti naturali di copertura per proteggere le uve dal caldo è molto efficace. Ma occorr…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/climaviter-esperimenti-vite-contro-cambiamenti-climatici-emilia-romagna/",
+        "pubDate": "2026-07-28T14:59:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa deve cambiare nell’industria alimentare per farci ingerire meno microplastiche",
+        "description": "Uno studio su scala mondiale ha dimostrato come le plastiche finiscano nel cibo anche attraverso le confezioni: fare prevenzione si può, anche a casa.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/cosa-deve-cambiare-nellindustria-alimentare-per-farci-ingerire-meno-microplastiche/",
+        "pubDate": "2026-07-28T14:31:31+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/plastiche-bento-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Chi ha vinto la seconda semifinale della Pizza Bit Competition 2026",
+        "description": "La tappa romagnola della competizione per nominare il Dallagiovanna Pizza Ambassador 2026 ha nominato tre nuovi finalisti, che si sfideranno nella finalissima d…",
+        "link": "https://www.dissapore.com/notizie/chi-ha-vinto-la-seconda-semifinale-della-pizza-bit-competition-2026/",
+        "pubDate": "2026-07-28T12:01:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/pizzabit-dallagiovanna-cervia.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Andare a letto a stomaco vuoto potrebbe migliorarci la vita",
+        "description": "Un nuovo studio scientifico mette in correlazione gli orari in cui mangiamo al declino cognitivo degli anziani.\nL'articolo Andare a letto a stomaco vuoto potreb…",
+        "link": "https://www.dissapore.com/notizie/andare-a-letto-a-stomaco-vuoto-potrebbe-migliorarci-la-vita/",
+        "pubDate": "2026-07-28T11:34:53+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/patatine-sul-divano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
