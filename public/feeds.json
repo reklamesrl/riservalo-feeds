@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-30T19:26:04.209745+00:00",
+  "generated": "2026-07-31T08:49:30.140482+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Milano ad agosto: aperture e chiusure estive di Chihuahua Tacos, Bartolomeo, Le Biciclette e UFO Milano",
+        "description": "Milano continua a offrire opportunità per mangiare fuori anche nel mese di agosto. Tra locali che scelgono di restare aperti e altri che osservano una pausa est…",
+        "link": "https://www.winemag.it/milano-ad-agosto-aperture-e-chiusure-estive-di-chihuahua-tacos-bartolomeo-le-biciclette-e-ufo-milano/",
+        "pubDate": "2026-07-31T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Milano, The ORGANICS SkyGarden resta aperto tutto agosto con vista su Porta Nuova",
+        "description": "Milano non si svuota del tutto ad agosto e The ORGANICS SkyGarden conferma la propria apertura per l&#8217;intero mese. La terrazza al 13° piano dell&#8217;Hyat…",
+        "link": "https://www.winemag.it/milano-the-organics-skygarden-resta-aperto-tutto-agosto-con-vista-su-porta-nuova/",
+        "pubDate": "2026-07-31T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Università di Palermo, il 31 luglio i primi 20 laureati in Scienze Gastronomiche",
+        "description": "L&#8217;Università degli Studi di Palermo si prepara a celebrare un traguardo per la propria offerta formativa. Venerdì 31 luglio 2026, alle ore 9, nell&#8217;A…",
+        "link": "https://www.winemag.it/universita-di-palermo-il-31-luglio-i-primi-20-laureati-in-scienze-gastronomiche/",
+        "pubDate": "2026-07-31T04:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Questa borsa anni 90 che sarebbe piaciuta molto a Carolyn Bessette è in saldo (e la potete mettere sempre e con tutto)!",
         "description": "Molti di noi l&#8217;hanno scoperta (o riscoperta) in questi mesi, complice la serie tv prodotta da Ryan Murphy, &#8220;Love Story&#8221; su Disney Plus, ma Car…",
@@ -10,6 +37,15 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/carolyn-bessette-borsa-ape.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      },
+      {
+        "title": "La Coca-Cola ha un antenato fiorentino: trovata la ricetta dei frati nell’antica farmacia di San Marco",
+        "description": "Nel riordinare l'archivio è stato ritrovato un foglietto che fa riferimento a \"un elixir vinoso ricostituente\" del Settecento. Gli ingredienti sono gli stessi s…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/ricetta-toscana-coca-cola-antica-farmacia-san-marco/",
+        "pubDate": "2026-07-30T16:57:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Come organizzare il ripostiglio: 5 strategie intelligenti per ottimizzare lo spazio e trovare tutto subito",
@@ -30,6 +66,15 @@
         "source": "Grazia"
       },
       {
+        "title": "Il grande caldo incombe sulla vendemmia 2026. In un’Italia senza stime nazionali, ecco le previsioni dei consorzi",
+        "description": "Raccolta anticipata, qualità più che buona, volumi stabili (o poco sopra la media). Dal Piemonte alla Sicilia, il sondaggio del settimanale Tre Bicchieri fotogr…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-2026-sondaggio-consorzi-gambero-rosso/",
+        "pubDate": "2026-07-30T15:30:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Il Gruppo Campari vende due suoi marchi",
         "description": "Campari ha venduto due marchi storici, uno di Cognac e uno di Tequila, proseguendo col suo piano di razionalizzazione. \nL'articolo Il Gruppo Campari vende due s…",
         "link": "https://www.dissapore.com/notizie/il-gruppo-campari-vende-due-suoi-marchi/",
@@ -46,6 +91,24 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Veronafiere ha un nuovo direttore generale. La società che organizza il Vinitaly ha scelto Giovanni Sacripante",
+        "description": "Il suo predecessore si era dimesso lo scorso gennaio e la carica era stata ricoperta ad interim da Gianni Bruno. Per il nuovo Dg si tratta di un ritorno in fier…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/veronafiere-nuovo-direttore-generale-giovanni-sacripante/",
+        "pubDate": "2026-07-30T15:05:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questo piccolo borgo gli abitanti aprono perfino i boschi di famiglia agli sconosciuti",
+        "description": "A Scopoli, in Umbria, Holydays è molto più di un festival: gli abitanti accolgono tanti giovani nel paese, i volontari cucinano, accendono i bracieri e trasform…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/holydays-scopoli-festival-borgo-umbria/",
+        "pubDate": "2026-07-30T15:03:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "In arrivo una serie tv dedicata alla vita di Giorgio Armani diretta da Ferzan Ozpetek",
@@ -115,69 +178,6 @@
         "description": "Niente additivi, lieviti industriali o sostanze chimiche di sintesi. Un gruppo di produttori ha presentato la richiesta che punta a tutelare il vino naturale, m…",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/prima-denominazione-vino-naturale-galles-vitigni-piwi/",
         "pubDate": "2026-07-30T09:40:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Jennifer Lopez e quel coordinato in pizzo (perfetto per donne over 50 e non solo) che anche noi vogliamo assolutamente sfoggiare quest’estate",
-        "description": "Qualche settimana fa è stata la protagonista assoluta del super party che ha chiuso i tre giorni di show di Dolce&#38;Gabbana dedicati all’Alta Moda, ma anche l…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/completi-in-pizzo-donne-over-50-completi-sangallo-floreale-eleganti-jennifer-lopez-bianco-blusa-top-gonna-shorts-990481",
-        "pubDate": "2026-07-30T09:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Coordinati_in_pizzo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Trastevere non è cambiata ieri: il problema è iniziato molti anni fa”",
-        "description": "Cristina Bowerman vive e lavora nel rione da oltre vent'anni. Ripercorre la trasformazione del quartiere, parla di movida, turismo, sicurezza e spiega perché, s…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cristina-bowerman-trastevere-movida-sicurezza/",
-        "pubDate": "2026-07-30T09:08:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Il ricarico del vino al ristorante va ripensato: bisogna sommare, non moltiplicare”. La proposta di Ricci Curbastro",
-        "description": "Il produttore franciacortino rilancia una questione già presente nel dibattito sulla ristorazione: sostituire il tradizionale moltiplicatore con un margine fiss…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/ricarichi-vino-ristorante-margine-fisso-proposta-ricci-curbastro/",
-        "pubDate": "2026-07-30T09:08:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "4 mete europee belle e low cost da visitare assolutamente nel mese di Agosto",
-        "description": "SOS viaggio last minute? Ecco 4 mete europee da visitare nel mese di Agosto, per una vacanza unica e rigenerante.…",
-        "link": "https://www.stylosophy.it/articolo/4-mete-europee-belle-e-low-cost-da-visitare-nel-mese-di-agosto/253077/",
-        "pubDate": "2026-07-30T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La chef che lascia decidere il menu al mare apre un nuovo ristorante",
-        "description": "Dopo oltre dieci anni alla guida della Trattoria del Marinaio, Carlotta Andreacchio inaugura Onde Lente, nel centro storico di Messina: un laboratorio di cucina…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/onde-lente-messina-carlotta-andreacchio/",
-        "pubDate": "2026-07-30T08:59:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Forse la ricetta della Coca Cola è nata a Firenze",
-        "description": "Durante una manutenzione della farmacia del convento di San Marco a Firenze è stata ritrovata la ricetta di un elisir molto simile alla Coca Cola.\nL'articolo Fo…",
-        "link": "https://www.dissapore.com/notizie/forse-la-ricetta-della-coca-cola-e-nata-a-firenze/",
-        "pubDate": "2026-07-30T08:20:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/convento-san-marco-firenze-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La cucina più sottovalutata d’Europa è a due ore dall’Italia",
-        "description": "Tra konobe a conduzione familiare, cotture sotto campane di terracotta, prosciutto stagionato alla bora, tartufi, pesce dell'Adriatico e carni cotte sotto la ca…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/cucina-istriana-trattorie-croazia-konobe/",
-        "pubDate": "2026-07-30T07:49:48+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,51 @@
     ],
     "lifestyle": [
       {
+        "title": "Milano ad agosto: aperture e chiusure estive di Chihuahua Tacos, Bartolomeo, Le Biciclette e UFO Milano",
+        "description": "Milano continua a offrire opportunità per mangiare fuori anche nel mese di agosto. Tra locali che scelgono di restare aperti e altri che osservano una pausa est…",
+        "link": "https://www.winemag.it/milano-ad-agosto-aperture-e-chiusure-estive-di-chihuahua-tacos-bartolomeo-le-biciclette-e-ufo-milano/",
+        "pubDate": "2026-07-31T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Milano, The ORGANICS SkyGarden resta aperto tutto agosto con vista su Porta Nuova",
+        "description": "Milano non si svuota del tutto ad agosto e The ORGANICS SkyGarden conferma la propria apertura per l&#8217;intero mese. La terrazza al 13° piano dell&#8217;Hyat…",
+        "link": "https://www.winemag.it/milano-the-organics-skygarden-resta-aperto-tutto-agosto-con-vista-su-porta-nuova/",
+        "pubDate": "2026-07-31T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Università di Palermo, il 31 luglio i primi 20 laureati in Scienze Gastronomiche",
+        "description": "L&#8217;Università degli Studi di Palermo si prepara a celebrare un traguardo per la propria offerta formativa. Venerdì 31 luglio 2026, alle ore 9, nell&#8217;A…",
+        "link": "https://www.winemag.it/universita-di-palermo-il-31-luglio-i-primi-20-laureati-in-scienze-gastronomiche/",
+        "pubDate": "2026-07-31T04:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La Coca-Cola ha un antenato fiorentino: trovata la ricetta dei frati nell’antica farmacia di San Marco",
+        "description": "Nel riordinare l'archivio è stato ritrovato un foglietto che fa riferimento a \"un elixir vinoso ricostituente\" del Settecento. Gli ingredienti sono gli stessi s…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/ricetta-toscana-coca-cola-antica-farmacia-san-marco/",
+        "pubDate": "2026-07-30T16:57:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il grande caldo incombe sulla vendemmia 2026. In un’Italia senza stime nazionali, ecco le previsioni dei consorzi",
+        "description": "Raccolta anticipata, qualità più che buona, volumi stabili (o poco sopra la media). Dal Piemonte alla Sicilia, il sondaggio del settimanale Tre Bicchieri fotogr…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-2026-sondaggio-consorzi-gambero-rosso/",
+        "pubDate": "2026-07-30T15:30:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Il Gruppo Campari vende due suoi marchi",
         "description": "Campari ha venduto due marchi storici, uno di Cognac e uno di Tequila, proseguendo col suo piano di razionalizzazione. \nL'articolo Il Gruppo Campari vende due s…",
         "link": "https://www.dissapore.com/notizie/il-gruppo-campari-vende-due-suoi-marchi/",
@@ -383,6 +428,24 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Veronafiere ha un nuovo direttore generale. La società che organizza il Vinitaly ha scelto Giovanni Sacripante",
+        "description": "Il suo predecessore si era dimesso lo scorso gennaio e la carica era stata ricoperta ad interim da Gianni Bruno. Per il nuovo Dg si tratta di un ritorno in fier…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/veronafiere-nuovo-direttore-generale-giovanni-sacripante/",
+        "pubDate": "2026-07-30T15:05:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questo piccolo borgo gli abitanti aprono perfino i boschi di famiglia agli sconosciuti",
+        "description": "A Scopoli, in Umbria, Holydays è molto più di un festival: gli abitanti accolgono tanti giovani nel paese, i volontari cucinano, accendono i bracieri e trasform…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/holydays-scopoli-festival-borgo-umbria/",
+        "pubDate": "2026-07-30T15:03:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Non era mai successo: in Franciacorta la vendemmia è già iniziata",
@@ -475,73 +538,10 @@
         "source": "Dissapore"
       },
       {
-        "title": "La cucina più sottovalutata d’Europa è a due ore dall’Italia",
-        "description": "Tra konobe a conduzione familiare, cotture sotto campane di terracotta, prosciutto stagionato alla bora, tartufi, pesce dell'Adriatico e carni cotte sotto la ca…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/cucina-istriana-trattorie-croazia-konobe/",
-        "pubDate": "2026-07-30T07:49:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli incendi minacciano alcuni dei vini più famosi d’Europa",
-        "description": "Le fiamme stanno lambendo Bordeaux e la Sierra de Gredos, due delle aree vinicole più prestigiose d'Europa. Per ora molte vigne sono salve, ma il fumo potrebbe …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/incendi-vigneti-bordeaux-gredos/",
-        "pubDate": "2026-07-30T07:41:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché tutti stanno cuocendo l’anguria nel microonde quest’estate",
-        "description": "Dal carpaccio al tataki vegetale, il trucco nato nelle cucine d'autore è diventato virale sui social. Bastano un forno a microonde e quaranta minuti per trasfor…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/anguria-microonde-carpaccio/",
-        "pubDate": "2026-07-30T07:20:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La prima guida dei vini? La scrisse il bottigliere del Papa con le degustazioni fatte lungo le strade dei pellegrini",
-        "description": "Sante Lancerio, nel XVI secolo, scrisse una guida vitivinicola ante litteram a dimostrazione di come i vigneti fossero una componente fondamentale lungo le vie …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/pellegrinaggi-prima-guida-vini-sante-lancerio/",
-        "pubDate": "2026-07-30T06:07:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dreher celebra l’estate in Puglia tra festival, musica e iniziative nei punti vendita",
         "description": "Dreher rafforza il legame con la provincia di Taranto e con la Puglia partecipando a due appuntamenti dell’estate 2026. Il brand, che produce la propria birra n…",
         "link": "https://www.winemag.it/dreher-celebra-lestate-in-puglia-tra-festival-musica-e-iniziative-nei-punti-vendita/",
         "pubDate": "2026-07-30T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Como 1907, Gin Mare è Official Supplier per la Serie A 2026/27",
-        "description": "Gin Mare entra nel mondo del calcio italiano. Il brand di spirits sarà Official Supplier del Como 1907 per la stagione di Serie A 2026/27. L&#8217;accordo preve…",
-        "link": "https://www.winemag.it/como-1907-gin-mare-e-official-supplier-per-la-serie-a-2026-27/",
-        "pubDate": "2026-07-30T04:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La storia del ragazzo che ha fatto causa alle multinazionali del cibo",
-        "description": "Bryce Martinez si è ritrovato a soffrire di diabete ad appena 16 anni: la colpa è davvero tutta sua o di un ambiente alimentare disfunzionale? \nL'articolo La st…",
-        "link": "https://www.dissapore.com/notizie/la-storia-del-ragazzo-che-ha-fatto-causa-alle-multinazionali-del-cibo/",
-        "pubDate": "2026-07-29T15:53:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/junk-food-scaled-e1783416135285.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vendemmia 2026 Doc Sicilia, raccolta al via: il punto della situazione",
-        "description": "Prende il via a occidente la vendemmia 2026 dei produttori del Consorzio di Tutela Vini DOC Sicilia. La raccolta si svilupperà nell&#8217;arco di circa 90 giorn…",
-        "link": "https://www.winemag.it/vendemmia-doc-sicilia-2026-raccolta-al-via-stagione-favorita-dalle-piogge-e-uve-con-ottimo-potenziale-qualitativo/",
-        "pubDate": "2026-07-29T15:42:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
