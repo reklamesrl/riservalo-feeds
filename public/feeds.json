@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-31T19:25:04.742948+00:00",
+  "generated": "2026-08-01T08:20:51.134887+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "In questa cantina si fa il picnic tra i vigneti mentre tramonta il sole",
+        "description": "Tra il lago Trasimeno e la Valdichiana, la cantina Madrevite organizza picnic al tramonto tra i filari con vino, cucina del territorio, concerti e uno dei panor…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/picnic-vigneti-madrevite-trasimeno/",
+        "pubDate": "2026-08-01T06:39:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sotto questa antica neviera di 16 metri oggi si cena tra vini e cucina pugliese",
+        "description": "Nelle campagne di Ceglie Messapica una famiglia ha recuperato una neviera del 1782, profonda sedici metri, trasformandola in un ristorante immerso tra vigneti, …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/neviera-elia-ristorante-neviera-puglia/",
+        "pubDate": "2026-08-01T06:35:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Classy Cocktails lancia Spicy Tropical Tommy’s, il primo ready-to-drink con Cointreau Spicy",
+        "description": "L&#8217;estate 2026 segna l&#8217;arrivo di un nuovo cocktail ready-to-drink che punta sui profili aromatici speziati. Si chiama Spicy Tropical Tommy&#8217;s ed…",
+        "link": "https://www.winemag.it/classy-cocktails-lancia-spicy-tropical-tommys-il-primo-ready-to-drink-con-cointreau-spicy/",
+        "pubDate": "2026-08-01T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Agosto in Sicilia: i borghi, le spiagge e i luoghi da visitare durante l’estate",
         "description": "Dalle spiagge più celebri ai borghi ricchi di storia, passando per parchi naturali e siti archeologici: ecco cosa vedere in Sicilia durante una vacanza ad agost…",
@@ -154,33 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_best_dressed_31_luglio.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Milano ad agosto: aperture e chiusure estive di Chihuahua Tacos, Bartolomeo, Le Biciclette e UFO Milano",
-        "description": "Milano continua a offrire opportunità per mangiare fuori anche nel mese di agosto. Tra locali che scelgono di restare aperti e altri che osservano una pausa est…",
-        "link": "https://www.winemag.it/milano-ad-agosto-aperture-e-chiusure-estive-di-chihuahua-tacos-bartolomeo-le-biciclette-e-ufo-milano/",
-        "pubDate": "2026-07-31T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Milano, The ORGANICS SkyGarden resta aperto tutto agosto con vista su Porta Nuova",
-        "description": "Milano non si svuota del tutto ad agosto e The ORGANICS SkyGarden conferma la propria apertura per l&#8217;intero mese. La terrazza al 13° piano dell&#8217;Hyat…",
-        "link": "https://www.winemag.it/milano-the-organics-skygarden-resta-aperto-tutto-agosto-con-vista-su-porta-nuova/",
-        "pubDate": "2026-07-31T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Università di Palermo, il 31 luglio i primi 20 laureati in Scienze Gastronomiche",
-        "description": "L&#8217;Università degli Studi di Palermo si prepara a celebrare un traguardo per la propria offerta formativa. Venerdì 31 luglio 2026, alle ore 9, nell&#8217;A…",
-        "link": "https://www.winemag.it/universita-di-palermo-il-31-luglio-i-primi-20-laureati-in-scienze-gastronomiche/",
-        "pubDate": "2026-07-31T04:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "In questa cantina si fa il picnic tra i vigneti mentre tramonta il sole",
+        "description": "Tra il lago Trasimeno e la Valdichiana, la cantina Madrevite organizza picnic al tramonto tra i filari con vino, cucina del territorio, concerti e uno dei panor…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/picnic-vigneti-madrevite-trasimeno/",
+        "pubDate": "2026-08-01T06:39:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sotto questa antica neviera di 16 metri oggi si cena tra vini e cucina pugliese",
+        "description": "Nelle campagne di Ceglie Messapica una famiglia ha recuperato una neviera del 1782, profonda sedici metri, trasformandola in un ristorante immerso tra vigneti, …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/neviera-elia-ristorante-neviera-puglia/",
+        "pubDate": "2026-08-01T06:35:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Classy Cocktails lancia Spicy Tropical Tommy’s, il primo ready-to-drink con Cointreau Spicy",
+        "description": "L&#8217;estate 2026 segna l&#8217;arrivo di un nuovo cocktail ready-to-drink che punta sui profili aromatici speziati. Si chiama Spicy Tropical Tommy&#8217;s ed…",
+        "link": "https://www.winemag.it/classy-cocktails-lancia-spicy-tropical-tommys-il-primo-ready-to-drink-con-cointreau-spicy/",
+        "pubDate": "2026-08-01T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Le 10 migliori gelaterie artigianali della Liguria nel 2026",
         "description": "Le gelaterie artigianali che meritano sul mare e nell'entroterra ligure. Le 10 insegne che vi consigliamo dopo aver attraversato la Regione Liguria alla ricerca…",
         "link": "https://www.dissapore.com/locali/le-10-migliori-gelaterie-artigianali-della-liguria-nel-2026/",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "In questo piccolo borgo gli abitanti aprono perfino i boschi di famiglia agli sconosciuti",
-        "description": "A Scopoli, in Umbria, Holydays è molto più di un festival: gli abitanti accolgono tanti giovani nel paese, i volontari cucinano, accendono i bracieri e trasform…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/holydays-scopoli-festival-borgo-umbria/",
-        "pubDate": "2026-07-30T15:03:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non era mai successo: in Franciacorta la vendemmia è già iniziata",
-        "description": "L'andamento meteo ha costretto i viticoltori a raccogliere tempestivamente le uve che, per la siccità e le temperature record a maggio e giugno, hanno accelerat…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/franciacorta-vendemmia-2026-anticipo/",
-        "pubDate": "2026-07-30T13:25:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cosa vogliamo bere con la grigliata?",
-        "description": "Un’ indagine condotta da Sodastream e BBQ4All, in vista del BBQ International Day che si festeggia il primo agosto, ci racconta come stanno cambiando le nostre …",
-        "link": "https://www.dissapore.com/notizie/cosa-vogliamo-bere-con-la-grigliata/",
-        "pubDate": "2026-07-30T11:34:01+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/barbecue-griglia-birra-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
