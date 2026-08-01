@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-01T13:20:56.056713+00:00",
+  "generated": "2026-08-01T19:07:34.127203+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Lampada IKEA Tertial: perché dal 1998 continua a essere una delle più acquistate",
+        "description": "La lampada Tertial di IKEA è diventata un punto di riferimento per chi cerca un'illuminazione pratica e versatile. Scopri perché questo modello continua a esser…",
+        "link": "https://www.stylosophy.it/articolo/lampada-ikea-tertial-perche-dal-1998-continua-a-essere-una-delle-piu-acquistate/253048/",
+        "pubDate": "2026-08-01T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Il bikini con stampa camouflage di Kylie Jenner è quello che devi comprare se ti piace lo stile mimetico FOTO",
         "description": "Kylie Jenner indossa un bikini con stampa camouflage parte della sua capsule collection con Frankies Bikinis.…",
@@ -37,6 +46,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "In questa cantina si fa il picnic tra i vigneti mentre tramonta il sole",
+        "description": "Tra il lago Trasimeno e la Valdichiana, la cantina Madrevite organizza picnic al tramonto tra i filari con vino, cucina del territorio, concerti e uno dei panor…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/picnic-vigneti-madrevite-trasimeno/",
+        "pubDate": "2026-08-01T06:39:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sotto questa antica neviera di 16 metri oggi si cena tra vini e cucina pugliese",
+        "description": "Nelle campagne di Ceglie Messapica una famiglia ha recuperato una neviera del 1782, profonda sedici metri, trasformandola in un ristorante immerso tra vigneti, …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/neviera-elia-ristorante-neviera-puglia/",
+        "pubDate": "2026-08-01T06:35:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Classy Cocktails lancia Spicy Tropical Tommy’s, il primo ready-to-drink con Cointreau Spicy",
@@ -154,36 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/agatha-christie-guardaroba-apertura.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Come evitare di spellarsi dopo una scottatura: 5 consigli per un’abbronzatura perfetta",
-        "description": "5 Consigli infallibili per non spellarsi dopo una scottatura solare. Sono questi i segreti per un'abbronzatura perfetta!…",
-        "link": "https://www.stylosophy.it/articolo/come-evitare-di-spellarsi-dopo-una-scottatura-5-consigli-per-unabbronzatura-perfetta/252978/",
-        "pubDate": "2026-07-31T09:00:00+00:00",
+        "title": "Lampada IKEA Tertial: perché dal 1998 continua a essere una delle più acquistate",
+        "description": "La lampada Tertial di IKEA è diventata un punto di riferimento per chi cerca un'illuminazione pratica e versatile. Scopri perché questo modello continua a esser…",
+        "link": "https://www.stylosophy.it/articolo/lampada-ikea-tertial-perche-dal-1998-continua-a-essere-una-delle-piu-acquistate/253048/",
+        "pubDate": "2026-08-01T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Questo pane siciliano è tornato a vivere grazie a mezzo chilo di semi",
-        "description": "La segale irmana era ormai ridotta a pochi semi conservati da un anziano contadino. Oggi, grazie all'azienda Serafica e a una rete di artigiani, è tornata a div…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-immanu-segale-irmana-etna/",
-        "pubDate": "2026-07-31T07:43:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il miglior Pinot Bianco qualità-prezzo d’Italia nasce da una cantina di 100 famiglie",
-        "description": "Nel cuore del Collio, vicino a Gorizia, la Cantina Produttori di Cormòns riunisce cento famiglie di viticoltori e firma il Pinot Bianco premiato dal Gambero Ros…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/miglior-pinot-bianco-qualita-prezzo-collio-cormons/",
-        "pubDate": "2026-07-31T07:19:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Il bikini con stampa camouflage di Kylie Jenner è quello che devi comprare se ti piace lo stile mimetico FOTO",
         "description": "Kylie Jenner indossa un bikini con stampa camouflage parte della sua capsule collection con Frankies Bikinis.…",
@@ -354,15 +363,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Chiara Ferragni sfoggia la borsa perfetta per l’estate che costa meno di 500 euro!",
-        "description": "Ecco qui di seguito la borsa sfoggiata da Chiara Ferragni che costa meno di 500 euro.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-sfoggia-la-borsa-perfetta-per-lestate-che-costa-meno-di-500-euro/253180/",
-        "pubDate": "2026-07-29T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
@@ -383,6 +383,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2022/03/kfc-pollo-fritto.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "In questa cantina si fa il picnic tra i vigneti mentre tramonta il sole",
+        "description": "Tra il lago Trasimeno e la Valdichiana, la cantina Madrevite organizza picnic al tramonto tra i filari con vino, cucina del territorio, concerti e uno dei panor…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/picnic-vigneti-madrevite-trasimeno/",
+        "pubDate": "2026-08-01T06:39:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sotto questa antica neviera di 16 metri oggi si cena tra vini e cucina pugliese",
+        "description": "Nelle campagne di Ceglie Messapica una famiglia ha recuperato una neviera del 1782, profonda sedici metri, trasformandola in un ristorante immerso tra vigneti, …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/neviera-elia-ristorante-neviera-puglia/",
+        "pubDate": "2026-08-01T06:35:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Classy Cocktails lancia Spicy Tropical Tommy’s, il primo ready-to-drink con Cointreau Spicy",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/cabo-wabo-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "IRVO rafforza l’organico con 12 nuove assunzioni",
-        "description": "L’Istituto Regionale del Vino e dell’Olio (IRVO) amplia il proprio organico con 12 nuovi dipendenti. Le assunzioni rafforzano le attività dell’ente pubblico del…",
-        "link": "https://www.winemag.it/irvo-rafforza-lorganico-con-12-nuove-assunzioni/",
-        "pubDate": "2026-07-30T15:10:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Veronafiere ha un nuovo direttore generale. La società che organizza il Vinitaly ha scelto Giovanni Sacripante",
-        "description": "Il suo predecessore si era dimesso lo scorso gennaio e la carica era stata ricoperta ad interim da Gianni Bruno. Per il nuovo Dg si tratta di un ritorno in fier…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/veronafiere-nuovo-direttore-generale-giovanni-sacripante/",
-        "pubDate": "2026-07-30T15:05:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
