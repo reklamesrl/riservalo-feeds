@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-03T09:45:32.628053+00:00",
+  "generated": "2026-08-03T14:38:55.313442+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Colli Ripani scommette sui vini dealcolati con la linea “A cuor leggero”",
+        "description": "La nuova linea comprende un rosso, un bianco e una bollicina da vitigni autctoni ed è pensata per le nuove generazioni che si avvicinano per la prima volta al m…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/colli-ripani-vini-dealcolati-linea-a-cuor-leggero/",
+        "pubDate": "2026-08-03T14:17:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vicino a un lago turchese c’è un agriturismo a 900 metri dove quasi tutto arriva dalla fattoria di famiglia",
+        "description": "A pochi chilometri dal lago di Fiastra, tra i Monti Sibillini, la famiglia Fabrizi alleva gli animali, coltiva gli orti e produce ricotte, pecorini e salumi. Al…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/agriturismo-le-casette-lago-fiastra-sibillini/",
+        "pubDate": "2026-08-03T14:14:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’inflazione rallenta sugli alimentari",
+        "description": "Secondo i più recenti dati Istat l'inflazione di luglio è in calo: i consumatori apprezzano, ma le associazioni di categoria non sono convinte.\nL'articolo L&#82…",
+        "link": "https://www.dissapore.com/notizie/linflazione-rallenta-sugli-alimentari/",
+        "pubDate": "2026-08-03T13:41:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/03/spesa-plastica.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Un viaggio nell’Italia dell’inclusione: torna «Giorgione – Insieme è più buono»",
+        "description": "Dal 21 agosto, ogni venerdì alle 21 su Gambero Rosso TV, la seconda stagione del programma dedicato alle realtà che trasformano formazione, lavoro e partecipazi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-tv-insieme-e-piu-buono-seconda-serie/",
+        "pubDate": "2026-08-03T13:34:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Giulia De Lellis sfoggia la Chanel bag perfetta per l’estate: très chic!",
+        "description": "Giulia De Lellis, anche in estate, non rinuncia allo stile più trendy e glamour sfoggiando la Chanel bag perfetta per questa stagione.…",
+        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-sfoggia-la-chanel-bag-perfetta-per-lestate-tres-chic/253255/",
+        "pubDate": "2026-08-03T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "I solfiti del vino ci rendono più pericolosi alla guida? Ma soprattutto, conta saperlo?",
+        "description": "Uno studio universitario ha correlato la quantità di solfiti nel vino alla sicurezza al volante. Il risultato? Titoli fuorvianti. \nL'articolo I solfiti del vino…",
+        "link": "https://www.dissapore.com/bere/i-solfiti-del-vino-ci-rendono-piu-pericolosi-alla-guida-ma-soprattutto-conta-saperlo/",
+        "pubDate": "2026-08-03T11:25:44+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/vendemmia-uva-mano-scaled-e1785142399596.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Questo rooftop di Napoli serve uno degli aperitivi con la vista più spettacolare della città",
+        "description": "A Napoli c'è un rooftop con vista sul Golfo dove l'aperitivo costa tra 18 e 20 euro ed è accompagnato da tapas e specialità della cucina campana…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/aperitivo-rooftop-napoli-vista-golfo/",
+        "pubDate": "2026-08-03T10:49:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il direttore dell’OMS dice che è ora di piantarla con le cause legali delle aziende di ultra processati",
+        "description": "Dopo un'inchiesta internazionale guidata da The Guardian, il segretario generale dell'OMS interviene sulle aziende che producono cibo ultra processato.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/il-direttore-delloms-dice-che-e-ora-di-piantarla-con-le-cause-legali-delle-aziende-di-ultra-processati/",
+        "pubDate": "2026-08-03T09:59:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/bambino-ultra-processati-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Maschere, lozioni e creme all’avocado per una bodycare che nutre e ripara",
         "description": "Celebre per la sua azione idratante, lenitiva ed emolliente, l'avocado è il protagonista di moltissimi prodotti beauty! Ecco i più amati del momento da non lasc…",
@@ -12,6 +84,24 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Il pane a forma di barca ripieno di formaggio e uovo: la ricetta georgiana che conquista al primo morso",
+        "description": "Si chiama khachapuri adjaruli e arriva in tavola bollente, con formaggio fuso, burro e un tuorlo ancora cremoso da mescolare prima dell’assaggio. Ecco la ricett…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/khachapuri-adjaruli-ricetta-pane-georgiano/",
+        "pubDate": "2026-08-03T07:38:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non è un budino né una torta: il dolce toscano di latte e uova che si taglia a fette",
+        "description": "Il lattaiolo nasce dalla cucina contadina e trasforma latte, uova, zucchero e poca farina in un dolce morbido, compatto e dalla crosticina dorata. Dall’Emilia-R…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lattaiolo-dolce-toscano-latte-uova/",
+        "pubDate": "2026-08-03T07:31:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Il segretario alla salute americano lancia un cooking show",
         "description": "RFK Junior ci spiega cos'è il cibo vero, dimenticandosi però che per la maggioranza degli americani la dieta che promuove non è accessibile.\nL'articolo Il segre…",
         "link": "https://www.dissapore.com/notizie/il-segretario-alla-salute-americano-lancia-un-cooking-show/",
@@ -19,6 +109,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/01/shutterstock_2456684711-scaled-e1767966826874.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Vino al calice a Londra: perché cresce e cosa può imparare l’Italia",
+        "description": "Nel Regno Unito le vendite di vino rallentano, ma nella capitale cresce la mescita di qualità: decine di etichette, tecnologie di conservazione e calici che arr…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/londra-vino-al-calice-italia/",
+        "pubDate": "2026-08-03T07:19:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cinque soste che valgono il viaggio lungo la Via Francigena italiana",
+        "description": "Dal rifugio valdostano alle osterie della Tuscia, passando per bakery artigiane e trattorie di tradizione: cinque indirizzi dove fermarsi a mangiare bene lungo …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-via-francigena-italia/",
+        "pubDate": "2026-08-03T07:04:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Dal 12 agosto 2026 nuove regole per capsule e cialde di caffè: saranno considerate imballaggi",
@@ -73,117 +181,18 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Chiara Ferragni, per quest’estate sceglie il bikini con stampa pitonata FOTO",
-        "description": "Chiara Ferragni, per quest'estate, indossa il bikini con stampa pitonata: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-per-questestate-sceglie-il-bikini-con-stampa-pitonata-foto/253228/",
-        "pubDate": "2026-08-02T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Meno alcol, più leggerezza. Debutto per Tavernellow, il primo spumante con 3% di alcol di casa Caviro",
-        "description": "l nuovo vino parzialmente dealcolato, bianco e rosè, è la scommessa del Gruppo sul vino a bassa gradazione: bollicine leggere e contemporanee per un nuovo modo …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/tavernellow-primo-spumante-dealcolato-caviro/",
-        "pubDate": "2026-08-02T12:26:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pinot nero della California è in crisi",
-        "description": "La California brucia, e non per gli incendi estivi: la produzione di pinot nero è a picco, e molte aziende vanno letteralmente in fumo. \nL'articolo Il pinot ner…",
-        "link": "https://www.dissapore.com/notizie/il-pinot-nero-della-california-e-in-crisi/",
-        "pubDate": "2026-08-02T09:31:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/uva-rossa-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gli stick labbra con protezione solare per dire addio a secchezza e screpolature",
-        "description": "L'alleato beauty dell'Estate? Gli stick labbra con protezione solare, un ottimo alleato per proteggersi dal sole. Ecco i più validi del momento da non perdere..…",
-        "link": "https://www.stylosophy.it/articolo/gli-stick-labbra-con-protezione-solare/253123/",
-        "pubDate": "2026-08-02T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Tanti cavoli dell’healty food, vogliamo il food porn”. A Roma apre il fast food vegetale che sfida tutti i pregiudizi",
-        "description": "Plnt! è un locale che ricorda i diner americani, con burger e panini carichi e gustosi, pancake e toast per la colazione. Tutto vegetale…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-il-fast-food-vegetale-che-sfida-tutti-i-pregiudizi/",
-        "pubDate": "2026-08-02T08:53:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel borgo di cui tutti parlano c’è una bottega che sembra uscita da un’altra epoca",
-        "description": "Nel cuore di Santo Stefano di Sessanio, una piccola bottega è diventata una tappa obbligata per chi visita il borgo: pane caldo, salumi, formaggi e tanti prodot…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/abruzzo-bottega-altra-epoca/",
-        "pubDate": "2026-08-02T07:49:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vinalia 2026, a Guardia Sanframondi sette giorni tra vino, cultura e gastronomia",
-        "description": "Dal 4 al 10 agosto il centro storico di Guardia Sanframondi ospita la 33esima edizione di Vinalia, la rassegna dedicata al vino e all&#8217;enogastronomia che q…",
-        "link": "https://www.winemag.it/vinalia-2026-a-guardia-sanframondi-sette-giorni-tra-vino-cultura-e-gastronomia/",
-        "pubDate": "2026-08-02T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“Che buono questo Pinot Nero”. C’è un solo posto al mondo dove questa frase è un insulto",
-        "description": "Per Yves Confuron un grande vino non racconta mai il vitigno. Ecco perché la verticale del cru di Vosne-Romanée ha lasciato il segno nel tempo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/che-buono-questo-pinot-nero-insulto-borgogna/",
-        "pubDate": "2026-08-02T06:26:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Versilia c’è un bar dove il menu è quasi l’ultima cosa che conta",
-        "description": "Tra modernariato, giocattoli d'epoca e oggetti raccolti in decenni di viaggi, il Bar de Lo Studio di Marina di Pietrasanta è un luogo da visitare come una galle…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bar-de-lo-studio-marina-pietrasanta/",
-        "pubDate": "2026-08-02T06:02:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli occhiali più cool dell’estate? Hanno la montatura colorata (e un effetto ghiaccio irresistibile)",
-        "description": "Dimenticate i soliti occhiali neri o tartarugati: questa estate l&#8217;accessorio da avere sul viso è colorato, luminoso e con un’allure quasi &#8220;glaciale&…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-colorati-montatura-colorata-trend-estate-sunglasses-effetto-ghiaccio-988677",
-        "pubDate": "2026-08-02T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_occhiali_colorati.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Grappaturismo in Trentino, l’87% delle distillerie apre ai visitatori: cresce il turismo della grappa",
-        "description": "Il grappaturismo si conferma una risorsa per il turismo del Trentino. È quanto emerge da un’indagine condotta dall’Istituto Tutela Grappa del Trentino tra le az…",
-        "link": "https://www.winemag.it/grappaturismo-in-trentino-l87-delle-distillerie-apre-ai-visitatori-cresce-il-turismo-della-grappa/",
-        "pubDate": "2026-08-02T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La leggenda del cannellone e la campana che dà il benvenuto: il convento sul mare che da oltre otto secoli accoglie i viaggiatori",
-        "description": "Prima una grotta, poi un convento di cappuccini, poi un Istituto Nautico. Oggi il ristorante gastronomico dell'Anantara mette a tavola la cucina campana in un r…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/la-leggenda-convento-sul-mare-amalfi/",
-        "pubDate": "2026-08-02T04:17:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Giulia De Lellis sfoggia la Chanel bag perfetta per l’estate: très chic!",
+        "description": "Giulia De Lellis, anche in estate, non rinuncia allo stile più trendy e glamour sfoggiando la Chanel bag perfetta per questa stagione.…",
+        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-sfoggia-la-chanel-bag-perfetta-per-lestate-tres-chic/253255/",
+        "pubDate": "2026-08-03T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Maschere, lozioni e creme all’avocado per una bodycare che nutre e ripara",
         "description": "Celebre per la sua azione idratante, lenitiva ed emolliente, l'avocado è il protagonista di moltissimi prodotti beauty! Ecco i più amati del momento da non lasc…",
@@ -320,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Come evitare di spellarsi dopo una scottatura: 5 consigli per un’abbronzatura perfetta",
-        "description": "5 Consigli infallibili per non spellarsi dopo una scottatura solare. Sono questi i segreti per un'abbronzatura perfetta!…",
-        "link": "https://www.stylosophy.it/articolo/come-evitare-di-spellarsi-dopo-una-scottatura-5-consigli-per-unabbronzatura-perfetta/252978/",
-        "pubDate": "2026-07-31T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Zendaya, Kaia Gerber, Sadie Sink e tutte le star meglio vestite della settimana",
         "description": "La settimana dei red carpet ha regalato una nuova sfilata di look (secondo noi) destinati a far parlare. Da Los Angeles a New York, Zendaya, Kaia Gerber e altri…",
         "link": "https://www.grazia.it/moda/celebrity-style/zendaya-kaia-gerber-abito-look-red-carpet-star-meglio-vestite-della-settimana-990451",
@@ -367,6 +367,87 @@
     ],
     "lifestyle": [
       {
+        "title": "Colli Ripani scommette sui vini dealcolati con la linea “A cuor leggero”",
+        "description": "La nuova linea comprende un rosso, un bianco e una bollicina da vitigni autctoni ed è pensata per le nuove generazioni che si avvicinano per la prima volta al m…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/colli-ripani-vini-dealcolati-linea-a-cuor-leggero/",
+        "pubDate": "2026-08-03T14:17:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vicino a un lago turchese c’è un agriturismo a 900 metri dove quasi tutto arriva dalla fattoria di famiglia",
+        "description": "A pochi chilometri dal lago di Fiastra, tra i Monti Sibillini, la famiglia Fabrizi alleva gli animali, coltiva gli orti e produce ricotte, pecorini e salumi. Al…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/agriturismo-le-casette-lago-fiastra-sibillini/",
+        "pubDate": "2026-08-03T14:14:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’inflazione rallenta sugli alimentari",
+        "description": "Secondo i più recenti dati Istat l'inflazione di luglio è in calo: i consumatori apprezzano, ma le associazioni di categoria non sono convinte.\nL'articolo L&#82…",
+        "link": "https://www.dissapore.com/notizie/linflazione-rallenta-sugli-alimentari/",
+        "pubDate": "2026-08-03T13:41:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/03/spesa-plastica.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Un viaggio nell’Italia dell’inclusione: torna «Giorgione – Insieme è più buono»",
+        "description": "Dal 21 agosto, ogni venerdì alle 21 su Gambero Rosso TV, la seconda stagione del programma dedicato alle realtà che trasformano formazione, lavoro e partecipazi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-tv-insieme-e-piu-buono-seconda-serie/",
+        "pubDate": "2026-08-03T13:34:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I solfiti del vino ci rendono più pericolosi alla guida? Ma soprattutto, conta saperlo?",
+        "description": "Uno studio universitario ha correlato la quantità di solfiti nel vino alla sicurezza al volante. Il risultato? Titoli fuorvianti. \nL'articolo I solfiti del vino…",
+        "link": "https://www.dissapore.com/bere/i-solfiti-del-vino-ci-rendono-piu-pericolosi-alla-guida-ma-soprattutto-conta-saperlo/",
+        "pubDate": "2026-08-03T11:25:44+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/vendemmia-uva-mano-scaled-e1785142399596.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Questo rooftop di Napoli serve uno degli aperitivi con la vista più spettacolare della città",
+        "description": "A Napoli c'è un rooftop con vista sul Golfo dove l'aperitivo costa tra 18 e 20 euro ed è accompagnato da tapas e specialità della cucina campana…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/aperitivo-rooftop-napoli-vista-golfo/",
+        "pubDate": "2026-08-03T10:49:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il direttore dell’OMS dice che è ora di piantarla con le cause legali delle aziende di ultra processati",
+        "description": "Dopo un'inchiesta internazionale guidata da The Guardian, il segretario generale dell'OMS interviene sulle aziende che producono cibo ultra processato.\nL'artico…",
+        "link": "https://www.dissapore.com/notizie/il-direttore-delloms-dice-che-e-ora-di-piantarla-con-le-cause-legali-delle-aziende-di-ultra-processati/",
+        "pubDate": "2026-08-03T09:59:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/bambino-ultra-processati-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il pane a forma di barca ripieno di formaggio e uovo: la ricetta georgiana che conquista al primo morso",
+        "description": "Si chiama khachapuri adjaruli e arriva in tavola bollente, con formaggio fuso, burro e un tuorlo ancora cremoso da mescolare prima dell’assaggio. Ecco la ricett…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/khachapuri-adjaruli-ricetta-pane-georgiano/",
+        "pubDate": "2026-08-03T07:38:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non è un budino né una torta: il dolce toscano di latte e uova che si taglia a fette",
+        "description": "Il lattaiolo nasce dalla cucina contadina e trasforma latte, uova, zucchero e poca farina in un dolce morbido, compatto e dalla crosticina dorata. Dall’Emilia-R…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lattaiolo-dolce-toscano-latte-uova/",
+        "pubDate": "2026-08-03T07:31:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Il segretario alla salute americano lancia un cooking show",
         "description": "RFK Junior ci spiega cos'è il cibo vero, dimenticandosi però che per la maggioranza degli americani la dieta che promuove non è accessibile.\nL'articolo Il segre…",
         "link": "https://www.dissapore.com/notizie/il-segretario-alla-salute-americano-lancia-un-cooking-show/",
@@ -374,6 +455,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/01/shutterstock_2456684711-scaled-e1767966826874.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Vino al calice a Londra: perché cresce e cosa può imparare l’Italia",
+        "description": "Nel Regno Unito le vendite di vino rallentano, ma nella capitale cresce la mescita di qualità: decine di etichette, tecnologie di conservazione e calici che arr…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/londra-vino-al-calice-italia/",
+        "pubDate": "2026-08-03T07:19:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cinque soste che valgono il viaggio lungo la Via Francigena italiana",
+        "description": "Dal rifugio valdostano alle osterie della Tuscia, passando per bakery artigiane e trattorie di tradizione: cinque indirizzi dove fermarsi a mangiare bene lungo …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-via-francigena-italia/",
+        "pubDate": "2026-08-03T07:04:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Dal 12 agosto 2026 nuove regole per capsule e cialde di caffè: saranno considerate imballaggi",
@@ -443,105 +542,6 @@
         "description": "Plnt! è un locale che ricorda i diner americani, con burger e panini carichi e gustosi, pancake e toast per la colazione. Tutto vegetale…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-il-fast-food-vegetale-che-sfida-tutti-i-pregiudizi/",
         "pubDate": "2026-08-02T08:53:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel borgo di cui tutti parlano c’è una bottega che sembra uscita da un’altra epoca",
-        "description": "Nel cuore di Santo Stefano di Sessanio, una piccola bottega è diventata una tappa obbligata per chi visita il borgo: pane caldo, salumi, formaggi e tanti prodot…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/abruzzo-bottega-altra-epoca/",
-        "pubDate": "2026-08-02T07:49:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vinalia 2026, a Guardia Sanframondi sette giorni tra vino, cultura e gastronomia",
-        "description": "Dal 4 al 10 agosto il centro storico di Guardia Sanframondi ospita la 33esima edizione di Vinalia, la rassegna dedicata al vino e all&#8217;enogastronomia che q…",
-        "link": "https://www.winemag.it/vinalia-2026-a-guardia-sanframondi-sette-giorni-tra-vino-cultura-e-gastronomia/",
-        "pubDate": "2026-08-02T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“Che buono questo Pinot Nero”. C’è un solo posto al mondo dove questa frase è un insulto",
-        "description": "Per Yves Confuron un grande vino non racconta mai il vitigno. Ecco perché la verticale del cru di Vosne-Romanée ha lasciato il segno nel tempo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/che-buono-questo-pinot-nero-insulto-borgogna/",
-        "pubDate": "2026-08-02T06:26:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Versilia c’è un bar dove il menu è quasi l’ultima cosa che conta",
-        "description": "Tra modernariato, giocattoli d'epoca e oggetti raccolti in decenni di viaggi, il Bar de Lo Studio di Marina di Pietrasanta è un luogo da visitare come una galle…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bar-de-lo-studio-marina-pietrasanta/",
-        "pubDate": "2026-08-02T06:02:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Grappaturismo in Trentino, l’87% delle distillerie apre ai visitatori: cresce il turismo della grappa",
-        "description": "Il grappaturismo si conferma una risorsa per il turismo del Trentino. È quanto emerge da un’indagine condotta dall’Istituto Tutela Grappa del Trentino tra le az…",
-        "link": "https://www.winemag.it/grappaturismo-in-trentino-l87-delle-distillerie-apre-ai-visitatori-cresce-il-turismo-della-grappa/",
-        "pubDate": "2026-08-02T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La leggenda del cannellone e la campana che dà il benvenuto: il convento sul mare che da oltre otto secoli accoglie i viaggiatori",
-        "description": "Prima una grotta, poi un convento di cappuccini, poi un Istituto Nautico. Oggi il ristorante gastronomico dell'Anantara mette a tavola la cucina campana in un r…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/la-leggenda-convento-sul-mare-amalfi/",
-        "pubDate": "2026-08-02T04:17:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sulla costa ionica della Calabria c’è un chiosco dove i panini di pesce valgono il viaggio",
-        "description": "Con polpo, gambero o tonno, i pianini di Sapore di Mare sono diventati una tappa fissa dell'estate sulla spiaggia di Monasterace Marina…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/calabria-chiosco-pesce-vale-il-viaggio/",
-        "pubDate": "2026-08-02T02:52:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha conquistato il mondo con i suoi profumi tropicali: ecco perché il Sauvignon sta tornando sui suoi passi, in Italia e nel mondo",
-        "description": "Dopo gli anni dei profumi tropicali e degli aromi esplosivi, il Sauvignon cerca nuovi equilibri e maggiori aderenze territoriali. Il caso di una storica cantina…",
-        "link": "https://www.gamberorosso.it/notizie/vino/ecco-perche-il-sauvignon-sta-tornando-sui-suoi-passi-italia-e-mondo/",
-        "pubDate": "2026-08-01T21:50:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sembra che ci sia una possibilità per lo zucchero italiano",
-        "description": "Coprob Italia Zuccheri fa sapere che le rese di barbabietole, crollate vertginosamente l'anno scorso, stanno migliorando, e crea incentivi per il 2027.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/sembra-che-ci-sia-una-possibilita-per-lo-zucchero-italiano/",
-        "pubDate": "2026-08-01T11:22:37+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/zuccherificio.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La ricetta segreta del pollo fritto KFC non vale poi così tanto",
-        "description": "Per gli appunti personali del colonnello Sanders all'asta sono stati sborsati “soltanto” trentamila dollari.\nL'articolo La ricetta segreta del pollo fritto KFC …",
-        "link": "https://www.dissapore.com/notizie/la-ricetta-segreta-del-pollo-fritto-kfc-non-vale-poi-cosi-tanto/",
-        "pubDate": "2026-08-01T09:12:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/03/kfc-pollo-fritto.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In questa cantina si fa il picnic tra i vigneti mentre tramonta il sole",
-        "description": "Tra il lago Trasimeno e la Valdichiana, la cantina Madrevite organizza picnic al tramonto tra i filari con vino, cucina del territorio, concerti e uno dei panor…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/picnic-vigneti-madrevite-trasimeno/",
-        "pubDate": "2026-08-01T06:39:05+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
