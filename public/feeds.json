@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-03T14:38:55.313442+00:00",
+  "generated": "2026-08-03T19:37:00.656469+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Cantina Rauscedo festeggia 75 anni con il primo Bilancio di Sostenibilità",
+        "description": "Cantina Rauscedo celebra i 75 anni dalla fondazione e apre una nuova fase, tra investimenti produttivi, sostenibilità e rilancio del marchio sui mercati interna…",
+        "link": "https://www.winemag.it/cantina-rauscedo-festeggia-75-anni-con-primo-bilancio-di-sostenibilita/",
+        "pubDate": "2026-08-03T17:16:35+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I Balzi Rossi di Mosca, teatro dell’attentato, c’entrano con i Balzi Rossi di Ventimiglia?",
+        "description": "Il ristorante di Mosca colpito da un attentato ha in comune il nome con il ristorante di Ventimiglia, I Balzi Rossi. \nL'articolo I Balzi Rossi di Mosca, teatro …",
+        "link": "https://www.dissapore.com/notizie/che-legame-ce-tra-i-balzi-rossi-di-ventimiglia-e-il-ristorante-di-mosca-teatro-dellattentato/",
+        "pubDate": "2026-08-03T16:00:37+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/balzi-rossi-mosca.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Budapest: 6 esperienze da vivere per scoprire il lato più affascinante della capitale Ungherese",
+        "description": "Dai quartieri storici alle terme più famose d’Europa, Budapest è una destinazione completa che unisce cultura relax e divertimento.…",
+        "link": "https://www.stylosophy.it/articolo/budapest-6-esperienze-da-vivere-per-scoprire-il-lato-piu-affascinante-della-capitale-ungherese/253240/",
+        "pubDate": "2026-08-03T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Colli Ripani scommette sui vini dealcolati con la linea “A cuor leggero”",
         "description": "La nuova linea comprende un rosso, un bianco e una bollicina da vitigni autctoni ed è pensata per le nuove generazioni che si avvicinano per la prima volta al m…",
@@ -64,6 +91,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come indossare le Birkenstock Arizona? 5 abbinamenti (dallo street style) da provare quest’estate",
+        "description": "Non vediamo l’ora che arrivi il caldo per rispolverarle, ma dobbiamo ammetterlo: trovare nuovi modi di abbinarle senza cadere sempre negli stessi look comincia …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/birkenstock-arizona-come-abbinare-estate-look-con-pantaloni-camicia-vestito-991129",
+        "pubDate": "2026-08-03T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_Birkenstock.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Il direttore dell’OMS dice che è ora di piantarla con le cause legali delle aziende di ultra processati",
@@ -129,6 +165,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Fashion crush del mese: cosa comprare ad Agosto",
+        "description": "Agosto, il mese in cui finalmente si rallenta dopo un anno impegnativo, ci si prende una pausa dalla solita routine e ci si prepara a partire. Ma tra valigie da…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-ad-agosto-fashion-crush-shopping-abiti-costumi-sandali-estate-donna-990520",
+        "pubDate": "2026-08-03T06:08:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_FASHION-_CRUSH_AGOSTO_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Dal 12 agosto 2026 nuove regole per capsule e cialde di caffè: saranno considerate imballaggi",
         "description": "Dal 12 agosto 2026 entrerà in vigore anche in Italia il Packaging and Packaging Waste Regulation (PPWR), il Regolamento UE 2025/40 che introduce nuove disposizi…",
         "link": "https://www.winemag.it/dal-12-agosto-2026-nuove-regole-per-capsule-e-cialde-di-caffe-saranno-considerate-imballaggi/",
@@ -136,54 +181,18 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "MEC ottiene la certificazione per la Parità di Genere UNI/PdR 125:2022",
-        "description": "MEC S.p.A., azienda attiva nella lavorazione e distribuzione di carni, ha ottenuto la certificazione UNI/PdR 125:2022 per la Parità di Genere. Il riconoscimento…",
-        "link": "https://www.winemag.it/mec-ottiene-la-certificazione-per-la-parita-di-genere-uni-pdr-1252022/",
-        "pubDate": "2026-08-03T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Note di Grappa 2026: a Santa Massenza la grappa fra mixology, musica e distillerie aperte",
-        "description": "A Santa Massenza, nel cuore della Valle dei Laghi, torna l&#8217;appuntamento dedicato alla grappa artigianale trentina. Venerdì 7 agosto, dalle 19.30 alle 24, …",
-        "link": "https://www.winemag.it/note-di-grappa-2026-a-santa-massenza-la-grappa-fra-mixology-musica-e-distillerie-aperte/",
-        "pubDate": "2026-08-03T04:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il Riesling della Mosella è in crisi: vigneti eroici e cantine a rischio",
-        "description": "Il Riesling della Mosella perde l’11% nell’export nei primi quattro mesi del 2026. Il dato di Nomisma Wine Monitor, pubblicato da Winemag, segnala una flessione…",
-        "link": "https://www.winemag.it/riesling-della-mosella-in-crisi-vigneti-eroici-e-cantine-a-rischio/",
-        "pubDate": "2026-08-02T22:10:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/08/Il-Riesling-della-Mosella-e-in-crisi-vigneti-eroici-e-cantine-a-rischio-5-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Federe per cuscini IKEA: i modelli più belli per rinnovare il divano con stile",
-        "description": "Cambiare le federe dei cuscini è uno dei modi più semplici per trasformare il soggiorno. Le nuove proposte IKEA puntano su fantasie, tessuti naturali e colori c…",
-        "link": "https://www.stylosophy.it/articolo/federe-per-cuscini-ikea-i-modelli-piu-belli-per-rinnovare-il-divano-con-stile/253052/",
-        "pubDate": "2026-08-02T16:00:00+00:00",
+        "title": "Budapest: 6 esperienze da vivere per scoprire il lato più affascinante della capitale Ungherese",
+        "description": "Dai quartieri storici alle terme più famose d’Europa, Budapest è una destinazione completa che unisce cultura relax e divertimento.…",
+        "link": "https://www.stylosophy.it/articolo/budapest-6-esperienze-da-vivere-per-scoprire-il-lato-piu-affascinante-della-capitale-ungherese/253240/",
+        "pubDate": "2026-08-03T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "I vegetali surgelati hanno più nutrienti di quelli freschi? Gli americani sembrano esserne convinti",
-        "description": "Molti nutrizionisti americani raccomandano l'acquisto di surgelati perché più ricchi di micronutrienti rispetto agli ortaggi freschi del supermercato.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/i-vegetali-surgelati-hanno-piu-nutrienti-di-quelli-freschi-gli-americani-sembrano-esserne-convinti/",
-        "pubDate": "2026-08-02T14:13:12+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "Giulia De Lellis sfoggia la Chanel bag perfetta per l’estate: très chic!",
         "description": "Giulia De Lellis, anche in estate, non rinuncia allo stile più trendy e glamour sfoggiando la Chanel bag perfetta per questa stagione.…",
@@ -194,6 +203,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Come indossare le Birkenstock Arizona? 5 abbinamenti (dallo street style) da provare quest’estate",
+        "description": "Non vediamo l’ora che arrivi il caldo per rispolverarle, ma dobbiamo ammetterlo: trovare nuovi modi di abbinarle senza cadere sempre negli stessi look comincia …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/birkenstock-arizona-come-abbinare-estate-look-con-pantaloni-camicia-vestito-991129",
+        "pubDate": "2026-08-03T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_Birkenstock.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Maschere, lozioni e creme all’avocado per una bodycare che nutre e ripara",
         "description": "Celebre per la sua azione idratante, lenitiva ed emolliente, l'avocado è il protagonista di moltissimi prodotti beauty! Ecco i più amati del momento da non lasc…",
         "link": "https://www.stylosophy.it/articolo/maschere-lozioni-e-creme-allavocado-per-una-bodycare-che-nutre-e-ripara/253135/",
@@ -201,6 +219,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion crush del mese: cosa comprare ad Agosto",
+        "description": "Agosto, il mese in cui finalmente si rallenta dopo un anno impegnativo, ci si prende una pausa dalla solita routine e ci si prepara a partire. Ma tra valigie da…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-ad-agosto-fashion-crush-shopping-abiti-costumi-sandali-estate-donna-990520",
+        "pubDate": "2026-08-03T06:08:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_FASHION-_CRUSH_AGOSTO_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Federe per cuscini IKEA: i modelli più belli per rinnovare il divano con stile",
@@ -293,15 +320,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Se cerchi un mini dress rock-chic per l’estate, quello di Diletta Leotta può fare al caso tuo: scoprilo qui!",
-        "description": "Il mini dress indossato da Diletta Leotta è quello che devi guardare se stai cercando un abito corto dallo stile rock ma glamour.…",
-        "link": "https://www.stylosophy.it/articolo/se-cerchi-un-mini-dress-rock-chic-per-lestate-quello-di-diletta-leotta-puo-fare-al-caso-tuo-scoprilo-qui/253219/",
-        "pubDate": "2026-07-31T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
         "description": "Valigia pronta e voglia d’estate: tra la collab più attesa, il nuovo souvenir della boutique più bella del mondo e un’experience in store tutta da scoprire. E p…",
         "link": "https://www.grazia.it/moda/news-moda/adidas-original-sport-zanellato-cestaia-collanine-colorate-festa-foresta-levanto-issimo-collezione-edoardo-gallorini-stromboli-sneakers-chloe-nugnes-990892",
@@ -345,27 +363,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/carolyn-bessette-borsa-ape.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Valentina Ferragni racconta VFS: «Così ho trasformato una passione silenziosa nel brand che sognavo»",
-        "description": "Ci sono progetti che nascono da un&#8217;intuizione improvvisa. Altri, invece, maturano lentamente, quasi in silenzio, fino a trovare il momento giusto per pren…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/vfs-gioielli-intervista-valentina-ferragni-uali-990006",
-        "pubDate": "2026-07-30T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/VFS-Studio-ferragni-DESK.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In arrivo una serie tv dedicata alla vita di Giorgio Armani diretta da Ferzan Ozpetek",
-        "description": "La vita e il mito di Giorgio Armani diventano una serie tv biografica di fascia alta firmata da Ferzan Özpetek e prodotta da Lux Vide con la maison Armani. Un p…",
-        "link": "https://www.grazia.it/moda/news-moda/giorgio-armani-in-arrivo-serie-tv-regia-ferzan-ozpetek-lux-vide-990709",
-        "pubDate": "2026-07-30T13:27:08+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/giorgio-armani-studio.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Cantina Rauscedo festeggia 75 anni con il primo Bilancio di Sostenibilità",
+        "description": "Cantina Rauscedo celebra i 75 anni dalla fondazione e apre una nuova fase, tra investimenti produttivi, sostenibilità e rilancio del marchio sui mercati interna…",
+        "link": "https://www.winemag.it/cantina-rauscedo-festeggia-75-anni-con-primo-bilancio-di-sostenibilita/",
+        "pubDate": "2026-08-03T17:16:35+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I Balzi Rossi di Mosca, teatro dell’attentato, c’entrano con i Balzi Rossi di Ventimiglia?",
+        "description": "Il ristorante di Mosca colpito da un attentato ha in comune il nome con il ristorante di Ventimiglia, I Balzi Rossi. \nL'articolo I Balzi Rossi di Mosca, teatro …",
+        "link": "https://www.dissapore.com/notizie/che-legame-ce-tra-i-balzi-rossi-di-ventimiglia-e-il-ristorante-di-mosca-teatro-dellattentato/",
+        "pubDate": "2026-08-03T16:00:37+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/balzi-rossi-mosca.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Colli Ripani scommette sui vini dealcolati con la linea “A cuor leggero”",
         "description": "La nuova linea comprende un rosso, un bianco e una bollicina da vitigni autctoni ed è pensata per le nuove generazioni che si avvicinano per la prima volta al m…",
@@ -524,24 +542,6 @@
         "description": "l nuovo vino parzialmente dealcolato, bianco e rosè, è la scommessa del Gruppo sul vino a bassa gradazione: bollicine leggere e contemporanee per un nuovo modo …",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/tavernellow-primo-spumante-dealcolato-caviro/",
         "pubDate": "2026-08-02T12:26:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pinot nero della California è in crisi",
-        "description": "La California brucia, e non per gli incendi estivi: la produzione di pinot nero è a picco, e molte aziende vanno letteralmente in fumo. \nL'articolo Il pinot ner…",
-        "link": "https://www.dissapore.com/notizie/il-pinot-nero-della-california-e-in-crisi/",
-        "pubDate": "2026-08-02T09:31:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/uva-rossa-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Tanti cavoli dell’healty food, vogliamo il food porn”. A Roma apre il fast food vegetale che sfida tutti i pregiudizi",
-        "description": "Plnt! è un locale che ricorda i diner americani, con burger e panini carichi e gustosi, pancake e toast per la colazione. Tutto vegetale…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/roma-apre-il-fast-food-vegetale-che-sfida-tutti-i-pregiudizi/",
-        "pubDate": "2026-08-02T08:53:20+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
