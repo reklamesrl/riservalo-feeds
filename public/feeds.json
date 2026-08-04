@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-03T19:37:00.656469+00:00",
+  "generated": "2026-08-04T08:36:14.401640+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Mangeremo granchio blu in latta per salvare gli allevamenti di molluschi?",
+        "description": "Nemmeno il gran caldo sembra nuocere al granchio blu, e il Consorzio Cooperative Pescatori del Polesine ci prova con la polpa del crostaceo pronta all'uso.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/mangeremo-granchio-blu-in-latta-per-salvare-gli-allevamenti-di-molluschi/",
+        "pubDate": "2026-08-04T07:49:12+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/granchio-blu-scatoletta-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Hospitality 2027, a Riva del Garda focus su benessere e turismo open air",
+        "description": "La 51ª edizione di Hospitality – Il Salone dell&#8217;Accoglienza si terrà a Riva del Garda dall&#8217;1 al 4 febbraio 2027. La manifestazione, organizzata da R…",
+        "link": "https://www.winemag.it/hospitality-2027-a-riva-del-garda-focus-su-benessere-e-turismo-open-air/",
+        "pubDate": "2026-08-04T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Crisi Mosella, Martin Foradori Hofstätter: «Germania non promuove suoi vini»",
+        "description": "Crisi Riesling Mosella winemag Martin Foradori Hofstätter «Germania non promuove suoi vini». Il produttore altoatesino è lì attivo con Dr. Fischer (foto ©peterb…",
+        "link": "https://www.winemag.it/riesling-crisi-mosella-martin-foradori-hofstatter-germania-non-promuove-suoi-vini/",
+        "pubDate": "2026-08-04T01:30:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2025/03/Dr.-Fischer-Zero-Riesling-Sparkling-la-novita-di-Hofstatter-sotto-la-lente-d-ingrandimento.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Cantina Rauscedo festeggia 75 anni con il primo Bilancio di Sostenibilità",
         "description": "Cantina Rauscedo celebra i 75 anni dalla fondazione e apre una nuova fase, tra investimenti produttivi, sostenibilità e rilancio del marchio sui mercati interna…",
@@ -28,6 +55,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Stop ai nuovi vigneti, no agli estirpi: le proposte dei vignaioli indipendenti per il vino italiano",
+        "description": "Dalla revisione delle rese al blocco temporaneo delle autorizzazioni per nuovi impianti, fino al no agli estirpi: Rita Babini, presidente Fivi, spiega quali mis…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/stop-nuovi-vigneti-no-estirpi-proposte-fivi-vino/",
+        "pubDate": "2026-08-03T15:30:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Colli Ripani scommette sui vini dealcolati con la linea “A cuor leggero”",
@@ -145,42 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/01/shutterstock_2456684711-scaled-e1767966826874.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Vino al calice a Londra: perché cresce e cosa può imparare l’Italia",
-        "description": "Nel Regno Unito le vendite di vino rallentano, ma nella capitale cresce la mescita di qualità: decine di etichette, tecnologie di conservazione e calici che arr…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/londra-vino-al-calice-italia/",
-        "pubDate": "2026-08-03T07:19:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cinque soste che valgono il viaggio lungo la Via Francigena italiana",
-        "description": "Dal rifugio valdostano alle osterie della Tuscia, passando per bakery artigiane e trattorie di tradizione: cinque indirizzi dove fermarsi a mangiare bene lungo …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-via-francigena-italia/",
-        "pubDate": "2026-08-03T07:04:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fashion crush del mese: cosa comprare ad Agosto",
-        "description": "Agosto, il mese in cui finalmente si rallenta dopo un anno impegnativo, ci si prende una pausa dalla solita routine e ci si prepara a partire. Ma tra valigie da…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-ad-agosto-fashion-crush-shopping-abiti-costumi-sandali-estate-donna-990520",
-        "pubDate": "2026-08-03T06:08:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_FASHION-_CRUSH_AGOSTO_2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Dal 12 agosto 2026 nuove regole per capsule e cialde di caffè: saranno considerate imballaggi",
-        "description": "Dal 12 agosto 2026 entrerà in vigore anche in Italia il Packaging and Packaging Waste Regulation (PPWR), il Regolamento UE 2025/40 che introduce nuove disposizi…",
-        "link": "https://www.winemag.it/dal-12-agosto-2026-nuove-regole-per-capsule-e-cialde-di-caffe-saranno-considerate-imballaggi/",
-        "pubDate": "2026-08-03T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Mangeremo granchio blu in latta per salvare gli allevamenti di molluschi?",
+        "description": "Nemmeno il gran caldo sembra nuocere al granchio blu, e il Consorzio Cooperative Pescatori del Polesine ci prova con la polpa del crostaceo pronta all'uso.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/mangeremo-granchio-blu-in-latta-per-salvare-gli-allevamenti-di-molluschi/",
+        "pubDate": "2026-08-04T07:49:12+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/granchio-blu-scatoletta-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Hospitality 2027, a Riva del Garda focus su benessere e turismo open air",
+        "description": "La 51ª edizione di Hospitality – Il Salone dell&#8217;Accoglienza si terrà a Riva del Garda dall&#8217;1 al 4 febbraio 2027. La manifestazione, organizzata da R…",
+        "link": "https://www.winemag.it/hospitality-2027-a-riva-del-garda-focus-su-benessere-e-turismo-open-air/",
+        "pubDate": "2026-08-04T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Crisi Mosella, Martin Foradori Hofstätter: «Germania non promuove suoi vini»",
+        "description": "Crisi Riesling Mosella winemag Martin Foradori Hofstätter «Germania non promuove suoi vini». Il produttore altoatesino è lì attivo con Dr. Fischer (foto ©peterb…",
+        "link": "https://www.winemag.it/riesling-crisi-mosella-martin-foradori-hofstatter-germania-non-promuove-suoi-vini/",
+        "pubDate": "2026-08-04T01:30:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2025/03/Dr.-Fischer-Zero-Riesling-Sparkling-la-novita-di-Hofstatter-sotto-la-lente-d-ingrandimento.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Cantina Rauscedo festeggia 75 anni con il primo Bilancio di Sostenibilità",
         "description": "Cantina Rauscedo celebra i 75 anni dalla fondazione e apre una nuova fase, tra investimenti produttivi, sostenibilità e rilancio del marchio sui mercati interna…",
         "link": "https://www.winemag.it/cantina-rauscedo-festeggia-75-anni-con-primo-bilancio-di-sostenibilita/",
@@ -383,6 +410,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/balzi-rossi-mosca.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Stop ai nuovi vigneti, no agli estirpi: le proposte dei vignaioli indipendenti per il vino italiano",
+        "description": "Dalla revisione delle rese al blocco temporaneo delle autorizzazioni per nuovi impianti, fino al no agli estirpi: Rita Babini, presidente Fivi, spiega quali mis…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/stop-nuovi-vigneti-no-estirpi-proposte-fivi-vino/",
+        "pubDate": "2026-08-03T15:30:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Colli Ripani scommette sui vini dealcolati con la linea “A cuor leggero”",
@@ -509,42 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Note di Grappa 2026: a Santa Massenza la grappa fra mixology, musica e distillerie aperte",
-        "description": "A Santa Massenza, nel cuore della Valle dei Laghi, torna l&#8217;appuntamento dedicato alla grappa artigianale trentina. Venerdì 7 agosto, dalle 19.30 alle 24, …",
-        "link": "https://www.winemag.it/note-di-grappa-2026-a-santa-massenza-la-grappa-fra-mixology-musica-e-distillerie-aperte/",
-        "pubDate": "2026-08-03T04:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il Riesling della Mosella è in crisi: vigneti eroici e cantine a rischio",
-        "description": "Il Riesling della Mosella perde l’11% nell’export nei primi quattro mesi del 2026. Il dato di Nomisma Wine Monitor, pubblicato da Winemag, segnala una flessione…",
-        "link": "https://www.winemag.it/riesling-della-mosella-in-crisi-vigneti-eroici-e-cantine-a-rischio/",
-        "pubDate": "2026-08-02T22:10:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/08/Il-Riesling-della-Mosella-e-in-crisi-vigneti-eroici-e-cantine-a-rischio-5-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I vegetali surgelati hanno più nutrienti di quelli freschi? Gli americani sembrano esserne convinti",
-        "description": "Molti nutrizionisti americani raccomandano l'acquisto di surgelati perché più ricchi di micronutrienti rispetto agli ortaggi freschi del supermercato.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/i-vegetali-surgelati-hanno-piu-nutrienti-di-quelli-freschi-gli-americani-sembrano-esserne-convinti/",
-        "pubDate": "2026-08-02T14:13:12+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Meno alcol, più leggerezza. Debutto per Tavernellow, il primo spumante con 3% di alcol di casa Caviro",
-        "description": "l nuovo vino parzialmente dealcolato, bianco e rosè, è la scommessa del Gruppo sul vino a bassa gradazione: bollicine leggere e contemporanee per un nuovo modo …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/tavernellow-primo-spumante-dealcolato-caviro/",
-        "pubDate": "2026-08-02T12:26:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
