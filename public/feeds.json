@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-05T08:35:55.917466+00:00",
+  "generated": "2026-08-05T14:08:47.326452+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Quali sono le drammatiche conseguenze di El Nino sull’alimentazione",
+        "description": "L'ONU avverte: il fenomeno climatico che sta interessando il mondo avrà conseguenze devastanti sulla sicurezza alimentare, mettendo in ginocchio milioni di pers…",
+        "link": "https://www.dissapore.com/notizie/quali-sono-le-drammatiche-conseguenze-di-el-nino-sullalimentazione/",
+        "pubDate": "2026-08-05T14:00:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/campo-arido.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sfoglia croccante con crema allo yogurt e albicocche, il dolce fresco dell’estate",
+        "description": "La pasta sfoglia con crema di yogurt e albicocche porta in tavola, in circa 20 minuti di preparazione, più 20 minuti di cottura e il tempo di raffreddamento, un…",
+        "link": "https://www.gustoblog.it/2026/08/05/sfoglia-croccante-con-crema-allo-yogurt-e-albicocche-il-dolce-fresco-dellestate/",
+        "pubDate": "2026-08-05T13:02:57+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Chiara Ferragni detta tendenza anche in estate: scopri qui il nuovo must di stagione da indossare con i tuoi beach look!",
+        "description": "Chiara Ferragni, da grande amante della moda qual è e sempre al passo con i tempi, lancia un nuovo modo di indossare pareo e bandana usando un solo capo.…",
+        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-detta-tendenza-anche-in-estate-scopri-qui-il-nuovo-must-di-stagione-da-indossare-con-i-tuoi-beach-look/253279/",
+        "pubDate": "2026-08-05T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Adesso la mania per le proteine toglie pure il latte in formula ai neonati",
+        "description": "Previsioni di mercato prevedono un aumento significativo del prezzo del latte artificiale nei prossimi mesi, colpa del siero di latte che è troppo caro.\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/adesso-la-mania-per-le-proteine-toglie-pure-il-latte-in-formula-ai-neonati/",
+        "pubDate": "2026-08-05T12:29:57+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/proteine-al-supermercato.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "C’è una speculazione sui raccolti devastati dal caldo?",
+        "description": "L'andamento dei prezzi dei prodotti agricoli è paradossale: la merce scarseggia, la spesa è sempre più cara ma gli agricoltori prendono sempre meno soldi, e Col…",
+        "link": "https://www.dissapore.com/notizie/ce-una-speculazione-sui-raccolti-devastati-dal-caldo/",
+        "pubDate": "2026-08-05T09:27:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/agricoltura-clado-piante-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "5 scrub corpo fai da te per una pelle liscia e levigata a prova di Estate",
+        "description": "Sono questi i migliori scrub corpo fai da te dell'Estate, per una bodycare al top!…",
+        "link": "https://www.stylosophy.it/articolo/5-scrub-corpo-fai-da-te-per-una-pelle-liscia-e-levigata-a-prova-di-estate/253158/",
+        "pubDate": "2026-08-05T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Dalla scoperta della kombucha alla prima fiera NoLo. Storia della Sobreria, la community degli analcolici curiosi",
+        "description": "Attraverso fiere, eventi e rubriche social, Sofia Girelli e Riccardo Astolfi promuovono una nuova ritualità della socialità analcolica, puntando a far crescere …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/sobreria-community-analcolici-curiosi/",
+        "pubDate": "2026-08-05T07:03:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Halaesa conquista consumatori e investitori: 20 milioni per l’avocado siciliano",
         "description": "A Santo Stefano di Camastra, in Sicilia, la Società Agricola Halaesa ha chiuso nel 2026 un finanziamento da 20 milioni di euro con un pool di banche guidato da …",
@@ -118,72 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Il prezzo dell’olio d’oliva salirà ancora a causa del clima",
-        "description": "Brutte notizie in vista per l'olio di oliva, ma le associazioni agricole di tutta Europa esprimono preoccupazione.\nL'articolo Il prezzo dell&#8217;olio d&#8217;…",
-        "link": "https://www.dissapore.com/notizie/il-prezzo-dellolio-doliva-salira-ancora-a-causa-del-clima/",
-        "pubDate": "2026-08-04T11:23:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/olive-raccolta-mani-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Jennifer Lopez è in Italia! Ecco cosa ha messo in valigia per le sue vacanze in stile Dolce Vita",
-        "description": "All’inizio dell’estate l’avevamo avvistata in Sicilia, dove era arrivata per partecipare al grande evento di Alta Moda di Dolce&#38;Gabbana. A distanza di setti…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/jennifer-lopez-vacanze-in-italia-look-stile-dolce-vita-roma-siena-venezia-991379",
-        "pubDate": "2026-08-04T11:10:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Jennifer_Lopez.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il cammino di 108 chilometri nato per salvare 18 borghi dallo spopolamento",
-        "description": "Tra Abruzzo e Lazio, il Cammino dei Briganti compie dieci anni e modifica una delle sue tappe più spettacolari. Un anello di 108 chilometri tra montagne, paesi …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/cammino-dei-briganti-108-chilometri-borghi-abruzzo-lazio/",
-        "pubDate": "2026-08-04T11:03:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le mucche soffrono il caldo e i formaggi italiani sono in difficoltà",
-        "description": "Gli allevatori segnalano che la produzione sta scendendo per il caldo, eppure questo è un anno record per il latte italiano, e non è del tutto una buona notizia…",
-        "link": "https://www.dissapore.com/notizie/le-mucche-soffrono-il-caldo-e-i-formaggi-italiani-sono-in-difficolta/",
-        "pubDate": "2026-08-04T09:53:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/latte-e1775860906362.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Puglia nasce uno dei primi impianti per vini dealcolati 100% Made in Italy",
-        "description": "Dallo stabilimento di Laterza parte la sfida di dealcolazione di Mack &#038; Schühle che combina membrane altamente selettive e distillazione sottovuoto a basse…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/puglia-impianto-vini-dealcolati-mack-schuhle/",
-        "pubDate": "2026-08-04T09:22:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I borghi italiani poco conosciuti che vale assolutamente la pena visitare questa Estate",
-        "description": "Sono questi i borghi italiani da visitare questa Estate, lontani dal turismo di massa e decisamente caratteristici. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/i-borghi-italiani-poco-conosciuti-che-vale-la-pena-visitare-questa-estate/253088/",
-        "pubDate": "2026-08-04T09:00:00+00:00",
+        "title": "Chiara Ferragni detta tendenza anche in estate: scopri qui il nuovo must di stagione da indossare con i tuoi beach look!",
+        "description": "Chiara Ferragni, da grande amante della moda qual è e sempre al passo con i tempi, lancia un nuovo modo di indossare pareo e bandana usando un solo capo.…",
+        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-detta-tendenza-anche-in-estate-scopri-qui-il-nuovo-must-di-stagione-da-indossare-con-i-tuoi-beach-look/253279/",
+        "pubDate": "2026-08-05T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "“Il no alcol? Crescerà come il gluten free. Il sommelier? Il vero nemico del vino”. Le provocazioni di Francesco Venezia",
-        "description": "Ha lavorato nei teatri, si è comprato la prima PlayStation pelando patate e oggi racconta il vino a oltre 50mila persone sui social. Venezia spiega perché il se…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/francesco-venezia-intervista-consumi-vino/",
-        "pubDate": "2026-08-04T08:05:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
+        "title": "5 scrub corpo fai da te per una pelle liscia e levigata a prova di Estate",
+        "description": "Sono questi i migliori scrub corpo fai da te dell'Estate, per una bodycare al top!…",
+        "link": "https://www.stylosophy.it/articolo/5-scrub-corpo-fai-da-te-per-una-pelle-liscia-e-levigata-a-prova-di-estate/253158/",
+        "pubDate": "2026-08-05T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Come organizzare il frigorifero in estate: 5 consigli per conservare meglio gli alimenti ed evitare sprechi",
         "description": "Con il caldo estivo basta cambiare poche abitudini per avere un frigorifero più ordinato, migliorare la conservazione degli alimenti e ridurre gli sprechi quoti…",
@@ -302,15 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Gli stick labbra con protezione solare per dire addio a secchezza e screpolature",
-        "description": "L'alleato beauty dell'Estate? Gli stick labbra con protezione solare, un ottimo alleato per proteggersi dal sole. Ecco i più validi del momento da non perdere..…",
-        "link": "https://www.stylosophy.it/articolo/gli-stick-labbra-con-protezione-solare/253123/",
-        "pubDate": "2026-08-02T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Gli occhiali più cool dell’estate? Hanno la montatura colorata (e un effetto ghiaccio irresistibile)",
         "description": "Dimenticate i soliti occhiali neri o tartarugati: questa estate l&#8217;accessorio da avere sul viso è colorato, luminoso e con un’allure quasi &#8220;glaciale&…",
         "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-colorati-montatura-colorata-trend-estate-sunglasses-effetto-ghiaccio-988677",
@@ -318,15 +327,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_occhiali_colorati.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Lampada IKEA Tertial: perché dal 1998 continua a essere una delle più acquistate",
-        "description": "La lampada Tertial di IKEA è diventata un punto di riferimento per chi cerca un'illuminazione pratica e versatile. Scopri perché questo modello continua a esser…",
-        "link": "https://www.stylosophy.it/articolo/lampada-ikea-tertial-perche-dal-1998-continua-a-essere-una-delle-piu-acquistate/253048/",
-        "pubDate": "2026-08-01T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       },
       {
         "title": "Ciabattine eleganti: i sandali bassi e chic che fanno tendenza",
@@ -366,6 +366,51 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Quali sono le drammatiche conseguenze di El Nino sull’alimentazione",
+        "description": "L'ONU avverte: il fenomeno climatico che sta interessando il mondo avrà conseguenze devastanti sulla sicurezza alimentare, mettendo in ginocchio milioni di pers…",
+        "link": "https://www.dissapore.com/notizie/quali-sono-le-drammatiche-conseguenze-di-el-nino-sullalimentazione/",
+        "pubDate": "2026-08-05T14:00:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/campo-arido.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sfoglia croccante con crema allo yogurt e albicocche, il dolce fresco dell’estate",
+        "description": "La pasta sfoglia con crema di yogurt e albicocche porta in tavola, in circa 20 minuti di preparazione, più 20 minuti di cottura e il tempo di raffreddamento, un…",
+        "link": "https://www.gustoblog.it/2026/08/05/sfoglia-croccante-con-crema-allo-yogurt-e-albicocche-il-dolce-fresco-dellestate/",
+        "pubDate": "2026-08-05T13:02:57+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Adesso la mania per le proteine toglie pure il latte in formula ai neonati",
+        "description": "Previsioni di mercato prevedono un aumento significativo del prezzo del latte artificiale nei prossimi mesi, colpa del siero di latte che è troppo caro.\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/adesso-la-mania-per-le-proteine-toglie-pure-il-latte-in-formula-ai-neonati/",
+        "pubDate": "2026-08-05T12:29:57+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/proteine-al-supermercato.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "C’è una speculazione sui raccolti devastati dal caldo?",
+        "description": "L'andamento dei prezzi dei prodotti agricoli è paradossale: la merce scarseggia, la spesa è sempre più cara ma gli agricoltori prendono sempre meno soldi, e Col…",
+        "link": "https://www.dissapore.com/notizie/ce-una-speculazione-sui-raccolti-devastati-dal-caldo/",
+        "pubDate": "2026-08-05T09:27:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/agricoltura-clado-piante-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dalla scoperta della kombucha alla prima fiera NoLo. Storia della Sobreria, la community degli analcolici curiosi",
+        "description": "Attraverso fiere, eventi e rubriche social, Sofia Girelli e Riccardo Astolfi promuovono una nuova ritualità della socialità analcolica, puntando a far crescere …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/sobreria-community-analcolici-curiosi/",
+        "pubDate": "2026-08-05T07:03:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Halaesa conquista consumatori e investitori: 20 milioni per l’avocado siciliano",
         "description": "A Santo Stefano di Camastra, in Sicilia, la Società Agricola Halaesa ha chiuso nel 2026 un finanziamento da 20 milioni di euro con un pool di banche guidato da …",
@@ -500,51 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Financial Times: “L’olio spagnolo è superiore a quello italiano”. Perché non siamo d’accordo",
-        "description": "Il quotidiano economico britannico sostiene che l'extravergine spagnolo sia nettamente superiore a quello italiano. Una tesi che riapre un vecchio dibattito e c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/financial-times-olio-spagnolo-superiore-italiano/",
-        "pubDate": "2026-08-04T07:59:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mangeremo granchio blu in latta per salvare gli allevamenti di molluschi?",
-        "description": "Nemmeno il gran caldo sembra nuocere al granchio blu, e il Consorzio Cooperative Pescatori del Polesine ci prova con la polpa del crostaceo pronta all'uso.\nL'ar…",
-        "link": "https://www.dissapore.com/notizie/mangeremo-granchio-blu-in-latta-per-salvare-gli-allevamenti-di-molluschi/",
-        "pubDate": "2026-08-04T07:49:12+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/granchio-blu-scatoletta-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Hospitality 2027, a Riva del Garda focus su benessere e turismo open air",
-        "description": "La 51ª edizione di Hospitality – Il Salone dell&#8217;Accoglienza si terrà a Riva del Garda dall&#8217;1 al 4 febbraio 2027. La manifestazione, organizzata da R…",
-        "link": "https://www.winemag.it/hospitality-2027-a-riva-del-garda-focus-su-benessere-e-turismo-open-air/",
-        "pubDate": "2026-08-04T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Crisi Mosella, Martin Foradori Hofstätter: «Germania non promuove suoi vini»",
-        "description": "Crisi Riesling Mosella winemag Martin Foradori Hofstätter «Germania non promuove suoi vini». Il produttore altoatesino è lì attivo con Dr. Fischer (foto ©peterb…",
-        "link": "https://www.winemag.it/riesling-crisi-mosella-martin-foradori-hofstatter-germania-non-promuove-suoi-vini/",
-        "pubDate": "2026-08-04T01:30:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2025/03/Dr.-Fischer-Zero-Riesling-Sparkling-la-novita-di-Hofstatter-sotto-la-lente-d-ingrandimento.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cantina Rauscedo festeggia 75 anni con il primo Bilancio di Sostenibilità",
-        "description": "Cantina Rauscedo celebra i 75 anni dalla fondazione e apre una nuova fase, tra investimenti produttivi, sostenibilità e rilancio del marchio sui mercati interna…",
-        "link": "https://www.winemag.it/cantina-rauscedo-festeggia-75-anni-con-primo-bilancio-di-sostenibilita/",
-        "pubDate": "2026-08-03T17:16:35+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
