@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-06T23:59:05.809336+00:00",
+  "generated": "2026-08-07T07:15:21.631838+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Coltiva Italia incassa il sì della Camera: 1,1 miliardi per olio, cereali e carni bovine",
+        "description": "La Camera dei deputati ha approvato oggi a Montecitorio il disegno di legge Coltiva Italia, un provvedimento da 1,140 miliardi di euro per sostenere agricoltura…",
+        "link": "https://www.gustoblog.it/2026/08/07/coltiva-italia-incassa-il-si-della-camera-11-miliardi-per-olio-cereali-e-carni-bovine/",
+        "pubDate": "2026-08-07T06:03:30+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La Medusa Grand Hotel, ospitalità e turismo slow per scoprire la storia della Costa del Vesuvio",
+        "description": "La Medusa Grand Hotel di Castellammare di Stabia propone un modello di ospitalità che mette al centro il territorio, la sua storia e il suo patrimonio culturale…",
+        "link": "https://www.winemag.it/la-medusa-grand-hotel-ospitalita-e-turismo-slow-per-scoprire-la-storia-della-costa-del-vesuvio/",
+        "pubDate": "2026-08-07T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Calamari ripieni, il gusto del mare in un piatto irresistibile",
         "description": "A Roma, oggi 6 agosto 2026, torna sulle tavole di casa una ricetta di mare molto amata, i calamari ripieni, preparati con acciughe, uova, pangrattato, aglio e p…",
@@ -160,24 +178,6 @@
         "description": "Dalla Doc Orvieto al Pinot Grigio delle Venezie passando per Prosecco e Garda è una corsa alla sperimentazione e alla modifica dei disciplinari. Obiettivo: inte…",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vini-low-nat-basso-grado-naturale-sfida-denominazioni/",
         "pubDate": "2026-08-06T10:07:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Stanno distribuendo un test in spiaggia per renderci più consapevoli sull’olio",
-        "description": "Per l'estate il progetto di formazione di CREA ha creato un opuscolo distribuito nelle spiagge con giochi enigmistici sul mondo dell'olio e l'olivocoltura.\nL'ar…",
-        "link": "https://www.dissapore.com/notizie/stanno-distribuendo-un-test-in-spiaggia-per-renderci-piu-consapevoli-sullolio/",
-        "pubDate": "2026-08-06T09:21:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/fine-test-oleario.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La prossima sfida no alcol è il mini dealcolatore da casa. Vason Group guarda al futuro",
-        "description": "Per l'azienda veneta gli impianti di dealcolazione hanno ancora tante possibilità davanti: dalla dealcolazione istantanea in casa o al ristorante alla nascita d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vason-group-nuovi-dealcoltori-portatili/",
-        "pubDate": "2026-08-06T09:11:25+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Coltiva Italia incassa il sì della Camera: 1,1 miliardi per olio, cereali e carni bovine",
+        "description": "La Camera dei deputati ha approvato oggi a Montecitorio il disegno di legge Coltiva Italia, un provvedimento da 1,140 miliardi di euro per sostenere agricoltura…",
+        "link": "https://www.gustoblog.it/2026/08/07/coltiva-italia-incassa-il-si-della-camera-11-miliardi-per-olio-cereali-e-carni-bovine/",
+        "pubDate": "2026-08-07T06:03:30+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La Medusa Grand Hotel, ospitalità e turismo slow per scoprire la storia della Costa del Vesuvio",
+        "description": "La Medusa Grand Hotel di Castellammare di Stabia propone un modello di ospitalità che mette al centro il territorio, la sua storia e il suo patrimonio culturale…",
+        "link": "https://www.winemag.it/la-medusa-grand-hotel-ospitalita-e-turismo-slow-per-scoprire-la-storia-della-costa-del-vesuvio/",
+        "pubDate": "2026-08-07T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Calamari ripieni, il gusto del mare in un piatto irresistibile",
         "description": "A Roma, oggi 6 agosto 2026, torna sulle tavole di casa una ricetta di mare molto amata, i calamari ripieni, preparati con acciughe, uova, pangrattato, aglio e p…",
         "link": "https://www.gustoblog.it/2026/08/06/calamari-ripieni-il-gusto-del-mare-in-un-piatto-irresistibile/",
@@ -524,24 +542,6 @@
         "description": "Ad agosto la Tenuta di San Pietro a Pettine, a Trevi, propone un’esperienza gastronomica che punta sulla dimensione raccolta e sul legame con il territorio. Al …",
         "link": "https://www.winemag.it/san-pietro-a-pettine-ad-agosto-cene-al-tramonto-tra-tartufo-e-cucina-umbra/",
         "pubDate": "2026-08-06T07:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Consorcio vola a 126 milioni: l’Italia traina la crescita con ricavi a +6%",
-        "description": "Il gruppo iberico Consorcio ha chiuso il 2025 con un fatturato lordo superiore a 126 milioni di euro, spinto soprattutto dalla crescita in Italia e in Spagna, i…",
-        "link": "https://www.gustoblog.it/2026/08/06/consorcio-vola-a-126-milioni-litalia-traina-la-crescita-con-ricavi-a-6/",
-        "pubDate": "2026-08-06T06:02:52+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Aquagranda, il parco acquatico coperto più alto d’Europa amplia l’offerta family di Livigno",
-        "description": "Aquagranda rafforza il posizionamento di Livigno come destinazione per il turismo family e sportivo. Situato a 1.816 metri di altitudine, il centro ospita il pa…",
-        "link": "https://www.winemag.it/aquagranda-il-parco-acquatico-coperto-piu-alto-deuropa-amplia-lofferta-family-di-livigno/",
-        "pubDate": "2026-08-06T05:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
