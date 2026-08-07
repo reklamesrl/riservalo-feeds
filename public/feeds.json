@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-07T13:03:14.279286+00:00",
+  "generated": "2026-08-07T18:56:35.208126+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il borgo più spettacolare della Costa dei Trabocchi conquista tutti: tra vicoli, panorami e spiagge da sogno",
+        "description": "Affacciato sulla Costa dei Trabocchi, Rocca San Giovanni unisce storia medievale, scorci panoramici e alcune delle spiagge più suggestive dell'Abruzzo, diventan…",
+        "link": "https://www.stylosophy.it/articolo/il-borgo-piu-spettacolare-della-costa-dei-trabocchi/253309/",
+        "pubDate": "2026-08-07T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Scabeccio, cos’è davvero: la tecnica antica per conservare il pesce che cambia nome in tutta Italia",
+        "description": "Nato sulle barche dei pescatori per conservare il pesce senza frigorifero, oggi è uno dei simboli dell’estate mediterranea. Dalla Liguria alla Sardegna, passand…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scabeccio-cose-origini-varianti-regionali/",
+        "pubDate": "2026-08-07T14:59:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli occhiali Meta non piacciono ai ristoratori inglesi, che sono i primi a vietarli",
+        "description": "Gli occhiali Meta sono paragonabili a degli smartphone o pongono questioni di violazione della privacy? Molti ristoratori inglesi si stanno ponendo la questione…",
+        "link": "https://www.dissapore.com/notizie/gli-occhiali-meta-non-piacciono-ai-ristoratori-inglesi-che-sono-i-primi-a-vietarli/",
+        "pubDate": "2026-08-07T14:01:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/occhiali-meta.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La pizza più buona di Capri non l’ho mangiata in una pizzeria. E nemmeno in un ristorante",
+        "description": "Un antico forno a legna, un custode volontario e un gesto di ospitalità irripetibile. Così, nel cuore di Cetrella, è nato uno dei ricordi più intensi di Capri…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-eremo-cetrella-capri-monte-solaro/",
+        "pubDate": "2026-08-07T13:19:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Torta fredda al limone senza lattosio: il dolce fresco e leggero dell’estate",
         "description": "La torta fredda al limone senza lattosio è un dolce facile da preparare in casa, in circa 15 minuti più 3 ore di riposo in frigorifero, pensato per 8 persone e …",
@@ -28,6 +64,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/cory-doctorow-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "A Roma è nato il Gladio: il nuovo street food ispirato alla spada dei legionari",
+        "description": "Dopo anni nei grandi hotel di Londra, due fratelli romani tornano a casa e lanciano il Gladio: una pizza farcita ispirata alla spada dei legionari…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/gladio-romano-street-food-pizza-spada-roma/",
+        "pubDate": "2026-08-07T11:11:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Bordeaux si prospetta la vendemmia più precoce di sempre. Ma la qualità non è compromessa",
+        "description": "Caldo record, siccità e incendi fanno temere il peggio, ma i grandi Châteaux rassicurano: finora le uve non hanno subito danni…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bordeaux-vendemmia-piu-precoce-sempre-qualita-uve/",
+        "pubDate": "2026-08-07T10:14:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "I profumi marini più gettonati dell’Estate 2026, freschi e leggeri",
@@ -127,63 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/ok-apertura-havaianas-.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Uno dei ristoranti coreani più autentici di Roma è a due passi da Termini",
-        "description": "Banchan, kimchi, bacchette di metallo e piatti da condividere: un viaggio nella vera cucina coreana senza uscire da Roma…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/gainn-ristorante-coreano-roma/",
-        "pubDate": "2026-08-06T13:45:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Sul palco bevevo vino rosé”: il Lambrusco e gli altri vini che amava Francesco Guccini",
-        "description": "Dalle osterie di Bologna ai concerti, passando per Modena e Pàvana: il racconto del vino che ha accompagnato tutta la sua vita…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/francesco-guccini-vino-lambrusco/",
-        "pubDate": "2026-08-06T13:30:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gigi Hadid e quella gonna midi nera che rende chic anche i look più easy (e che ora vogliamo tutte)",
-        "description": "Nelle ultime ore non si parla d’altro che del suo presunto matrimonio con Bradley Cooper, che secondo le ultime indiscrezioni sembra essersi svolto in gran segr…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-midi-nera-satin-seta-gonne-pizzo-gigi-hadid-sposata-bradley-cooper-fidanzati-991611",
-        "pubDate": "2026-08-06T13:27:16+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Gonna_midi_nera_Gigi_Hadid.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "No, la Coca-Cola non è nata a Firenze",
-        "description": "L'ipotesi aveva fatto il giro del mondo, ma a contraddirla è un dettaglio telefonico.\nL'articolo No, la Coca-Cola non è nata a Firenze proviene da Dissapore.…",
-        "link": "https://www.dissapore.com/notizie/no-la-coca-cola-non-e-nata-a-firenze/",
-        "pubDate": "2026-08-06T13:24:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/01/coca-cola-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Copenaghen Fashion Week: 7 look pazzeschi di street style da copiare subito",
-        "description": "Si sta per concludere la Copenaghen Fashion Week e, non è certo un segreto, le foto di street style che arrivano dalla Danimarca sono sempre una fonte preziosa …",
-        "link": "https://www.grazia.it/moda/streetstyle/copenaghen-fashion-week-look-street-style-idee-abbinamenti-trend-da-copiare-991658",
-        "pubDate": "2026-08-06T13:20:01+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/copenaghen-street-style.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Macedonia alla crema, il dessert fresco e goloso che conquista tutti",
-        "description": "La macedonia alla crema torna in tavola oggi, nelle cucine di casa italiane, come dessert facile ed economico per chiudere un pranzo o una cena con frutta fresc…",
-        "link": "https://www.gustoblog.it/2026/08/06/macedonia-alla-crema-il-dessert-fresco-e-goloso-che-conquista-tutti/",
-        "pubDate": "2026-08-06T13:03:07+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ],
     "moda": [
+      {
+        "title": "Il borgo più spettacolare della Costa dei Trabocchi conquista tutti: tra vicoli, panorami e spiagge da sogno",
+        "description": "Affacciato sulla Costa dei Trabocchi, Rocca San Giovanni unisce storia medievale, scorci panoramici e alcune delle spiagge più suggestive dell'Abruzzo, diventan…",
+        "link": "https://www.stylosophy.it/articolo/il-borgo-piu-spettacolare-della-costa-dei-trabocchi/253309/",
+        "pubDate": "2026-08-07T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Samira Lui sfoggia il beach look perfetto per l’estate: scoprilo qui!",
         "description": "Samira Lui, da grande amante della moda e sempre al passo con i tempi, sfoggia il beach look perfetto per l'estate.…",
@@ -329,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Dua Lipa e Callum Turner, primo red carpet da marito e moglie: i Look glamour alla première del film One Night Only",
-        "description": "Dua Lipa e Callum Turner hanno incantato tutti sul red carpet della première del film 'One Night Only': ecco i loro look.…",
-        "link": "https://www.stylosophy.it/articolo/dua-lipa-e-callum-turner-primo-red-carpet-da-marito-e-moglie-i-look-glamour-alla-premiere-del-film-one-night-only/253271/",
-        "pubDate": "2026-08-04T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Jennifer Lopez è in Italia! Ecco cosa ha messo in valigia per le sue vacanze in stile Dolce Vita",
         "description": "All’inizio dell’estate l’avevamo avvistata in Sicilia, dove era arrivata per partecipare al grande evento di Alta Moda di Dolce&#38;Gabbana. A distanza di setti…",
         "link": "https://www.grazia.it/moda/tendenze-moda/jennifer-lopez-vacanze-in-italia-look-stile-dolce-vita-roma-siena-venezia-991379",
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Scabeccio, cos’è davvero: la tecnica antica per conservare il pesce che cambia nome in tutta Italia",
+        "description": "Nato sulle barche dei pescatori per conservare il pesce senza frigorifero, oggi è uno dei simboli dell’estate mediterranea. Dalla Liguria alla Sardegna, passand…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scabeccio-cose-origini-varianti-regionali/",
+        "pubDate": "2026-08-07T14:59:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli occhiali Meta non piacciono ai ristoratori inglesi, che sono i primi a vietarli",
+        "description": "Gli occhiali Meta sono paragonabili a degli smartphone o pongono questioni di violazione della privacy? Molti ristoratori inglesi si stanno ponendo la questione…",
+        "link": "https://www.dissapore.com/notizie/gli-occhiali-meta-non-piacciono-ai-ristoratori-inglesi-che-sono-i-primi-a-vietarli/",
+        "pubDate": "2026-08-07T14:01:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/occhiali-meta.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La pizza più buona di Capri non l’ho mangiata in una pizzeria. E nemmeno in un ristorante",
+        "description": "Un antico forno a legna, un custode volontario e un gesto di ospitalità irripetibile. Così, nel cuore di Cetrella, è nato uno dei ricordi più intensi di Capri…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-eremo-cetrella-capri-monte-solaro/",
+        "pubDate": "2026-08-07T13:19:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Torta fredda al limone senza lattosio: il dolce fresco e leggero dell’estate",
         "description": "La torta fredda al limone senza lattosio è un dolce facile da preparare in casa, in circa 15 minuti più 3 ore di riposo in frigorifero, pensato per 8 persone e …",
         "link": "https://www.gustoblog.it/2026/08/07/torta-fredda-al-limone-senza-lattosio-il-dolce-fresco-e-leggero-dellestate/",
@@ -383,6 +410,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/cory-doctorow-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "A Roma è nato il Gladio: il nuovo street food ispirato alla spada dei legionari",
+        "description": "Dopo anni nei grandi hotel di Londra, due fratelli romani tornano a casa e lanciano il Gladio: una pizza farcita ispirata alla spada dei legionari…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/gladio-romano-street-food-pizza-spada-roma/",
+        "pubDate": "2026-08-07T11:11:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Bordeaux si prospetta la vendemmia più precoce di sempre. Ma la qualità non è compromessa",
+        "description": "Caldo record, siccità e incendi fanno temere il peggio, ma i grandi Châteaux rassicurano: finora le uve non hanno subito danni…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bordeaux-vendemmia-piu-precoce-sempre-qualita-uve/",
+        "pubDate": "2026-08-07T10:14:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Abbiamo assaggiato 14 bresaole del supermercato: queste sono le 6 migliori",
@@ -500,51 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "“Credo nelle potenzialità dei vini a bassa gradazione, ma guai ad inseguire le mode”. Il monito di Riccardo Cotarella",
-        "description": "Per l'enologo umbro non bisogna pensare che basso grado significhi automaticamente maggiore qualità o salubrità. Intanto slitta in avanti il progetto di produrr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/cotarella-vini-bassa-gradazione-naturale-dealcolati/",
-        "pubDate": "2026-08-06T11:21:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tutti gli dicevano di non aprire a Tor Bella Monaca. Oggi la sua pizza richiama clienti da tutta Roma",
-        "description": "Marco Quintili ha aperto quando tutti gli dicevano che era una follia. Oggi la sua pizza \"tecnicamente napoletana\" è diventata una destinazione…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/marco-quintili-pizzeria-tor-bella-monaca/",
-        "pubDate": "2026-08-06T11:00:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il “Gelato di tradizione italiana” è stato presentato in Senato",
-        "description": "Confartigianato, Cna e Conpait hanno presentato in Senato una proposta per definire il \"Gelato di tradizione italiana\": riuscirà finalmente a riempire il vuoto …",
-        "link": "https://www.dissapore.com/notizie/il-gelato-di-tradizione-italiana-e-stato-presentato-in-senato/",
-        "pubDate": "2026-08-06T10:48:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/06/gelato-in-carapina-scaled-e1762343215922.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Guccini qui mangiava i tortellini in brodo”: dentro la storica trattoria di Bologna amata dal cantautore",
-        "description": "La Trattoria Da Vito è il locale dove il cantautore passava le notti con Lucio Dalla, De André, Gaber e Umberto Eco. E ancora oggi sembra rimasta identica…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/trattoria-guccini-bologna-da-vito/",
-        "pubDate": "2026-08-06T10:46:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La pizza di Spider-Man esiste davvero. Ed è il cibo che racconta meglio New York",
-        "description": "La fetta piegata a metà accompagna Peter Parker da oltre vent’anni: è un cibo nato dall’emigrazione italiana e trasformato in simbolo di New York…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-spider-man-new-york-slice/",
-        "pubDate": "2026-08-06T10:40:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
