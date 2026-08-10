@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-10T13:07:43.274013+00:00",
+  "generated": "2026-08-10T18:57:03.502095+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il pezzo low cost IKEA che ti aiuterà a creare un perfetto angolo stireria a casa tua",
+        "description": "Il celebre carrello RÅSKOG può diventare una piccola postazione mobile per tenere in ordine ferro, spray e accessori per la stiratura anche quando lo spazio in …",
+        "link": "https://www.stylosophy.it/articolo/il-pezzo-low-cost-ikea-che-ti-aiutera-a-creare-un-perfetto-angolo-stireria/253349/",
+        "pubDate": "2026-08-10T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il vecchio mobile della nonna può diventare il pezzo più bello della tua casa moderna",
+        "description": "Mobili vintage e design contemporaneo possono convivere e rendere gli ambienti unici. Ecco le regole da seguire per trovare il giusto equilibrio...…",
+        "link": "https://www.stylosophy.it/articolo/il-vecchio-mobile-della-nonna-puo-diventare-il-pezzo-piu-bello-della-tua-casa-moderna/253339/",
+        "pubDate": "2026-08-10T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "C’è una casa nella pineta di Cervia dove si mangia ancora la Romagna di una volta",
+        "description": "Prima di diventare un ristorante, Casa delle Aie era il luogo dove i pignaroli lavoravano le pigne raccolte nella pineta. Oggi, a pochi minuti dalle spiagge di …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/casa-delle-aie-cervia-ristorante-pineta-cucina-romagnola/",
+        "pubDate": "2026-08-10T14:52:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Grandine, temporali e trombe d’aria devastano le vigne piemontesi: vendemmia a rischio",
+        "description": "La situazione più grave si registra in Alto Piemonte con danni nei vigneti fino al 90%. La furia della supercella, con nubifragi e vento, ha invece colpito le L…",
+        "link": "https://www.gamberorosso.it/notizie/vino/grandine-temporali-piemonte-rischio-vendemmia-2026/",
+        "pubDate": "2026-08-10T14:30:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Melone marinato con menta e lime, il dessert fresco che profuma d’estate",
         "description": "Il melone marinato con menta e lime arriva in tavola in estate, nelle cucine di casa e nei pranzi all’aperto, come dessert fresco, antipasto leggero o secondo v…",
@@ -21,15 +57,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Luigi Terzago, addio all’ex presidente nazionale FISAR",
-        "description": "È morto Luigi Terzago, ex presidente nazionale della FISAR. Terzago era entrato nella Federazione Italiana Sommelier Albergatori e Ristoratori nel 2004, come de…",
-        "link": "https://www.winemag.it/luigi-terzago-addio-allex-presidente-nazionale-fisar/",
-        "pubDate": "2026-08-10T12:25:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Alle Falkland è scoppiata un’altra guerra: stavolta il nemico sono 50mila tonnellate di salmoni",
         "description": "Gli abitanti chiedono un referendum per avere voce in capitolo rispetto al destino ambientale dell'arcipelago.\nL'articolo Alle Falkland è scoppiata un’altra gue…",
         "link": "https://www.dissapore.com/notizie/alle-falkland-e-scoppiata-unaltra-guerra-stavolta-il-nemico-sono-50mila-tonnellate-di-salmoni/",
@@ -37,6 +64,51 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/allevamento-salmone.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Ho attraversato la Sicilia da ovest a est: ecco dove ho mangiato e bevuto meglio",
+        "description": "Dalle colline di Alcamo al mare di Sciacca, dalla Val di Noto a Catania e all’Etna: un viaggio attraverso paesaggi, vini, mercati, trattorie e ristoranti che ra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/viaggio-sicilia-dove-mangiare-bere-alcamo-sciacca-noto-catania/",
+        "pubDate": "2026-08-10T11:18:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel cuore della Majella c’è un “autogrill montagnolo” dove la comanda te la scrivi da solo",
+        "description": "A un chilometro da Campo di Giove, La Baita di Eva è nata come punto vendita di panini e formaggi dell’azienda agricola Agrivella. Poi sono arrivati i primi pia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baita-eva-majella-autogrill-montagnolo-campo-di-giove/",
+        "pubDate": "2026-08-10T11:09:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Puoi essere esigente senza maltrattare le persone”: la chef che da 6 anni lavora con la stessa brigata",
+        "description": "Monika Filipinska, chef del ristorante Novecento di Dievole, ha costruito una brigata che torna a lavorare con lei stagione dopo stagione da sei anni…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/monika-filipinska-chef-dievole-brigata-ristorante/",
+        "pubDate": "2026-08-10T11:01:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ho trovato un distributore automatico pieno di formaggi: scegli cheddar e brie sullo schermo",
+        "description": "L'ho incontrato per caso durante un viaggio: si paga sul touchscreen e si comprano formaggi, latte fresco, yogurt e burro prodotti nella fattoria. Dietro le mac…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scozia-distributore-automatico-formaggi/",
+        "pubDate": "2026-08-10T10:52:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Estirpi, riconversioni e nuove autorizzazioni: al vino serve un piano strategico”. Centinaio scrive a Lollobrigida",
+        "description": "Il senatore leghista suggerisce le azioni da compiere al Ministro dell'Agricoltura. Tra le proposte c'è la gestione dei vigneti abbandonati con la possibilità d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/estirpi-riconversioni-piano-vino-centinaio-lettera-lollobrigida/",
+        "pubDate": "2026-08-10T10:39:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "L’Ozempic in pillole arriva in Unione Europea",
@@ -55,6 +127,24 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Sandali_comodi.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      },
+      {
+        "title": "Diventare enologo per un giorno: una cantina di Montalcino trasforma l’enoturismo in un’esperienza unica",
+        "description": "Dal safari fotografico alle lezioni di cucina, dalla degustazione in musica all'immersione nella storia. A Fattoria del Colle e Casato Prime Donne il vino è sol…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cinelli-colombini-casato-prime-donne-fattoria-del-colle/",
+        "pubDate": "2026-08-10T09:31:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Pensavo fossero cime di rapa”: ho scoperto per caso una verdura antica quasi introvabile",
+        "description": "Sembrano cime di rapa, ma sono un'antica forma di cavolo broccolo quasi assente dalla grande distribuzione. Li ho trovati per caso in una minuscola gastronomia …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mugnoli-selvatici-cosa-sono-verdura-antica/",
+        "pubDate": "2026-08-10T09:26:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Niacinamide, il segreto beauty non solo della pelle ma anche dei Capelli: proprietà e prodotti da provare",
@@ -91,99 +181,27 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Altro che panino: in Sardegna in spiaggia si mangiano queste 4 focacce tradizionali",
-        "description": "Altro che panino: dalla fainè alla costedda, quattro focacce tradizionali sarde perfette da portare in spiaggia durante l'estate…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/focacce-sarde-spiaggia-panino-estate/",
-        "pubDate": "2026-08-10T04:56:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Wanderlust 2026, arriva il nuovo Village del benessere: tappe a Venezia, Milano e Roma",
-        "description": "Il benessere si conferma un&#8217;esperienza che coinvolge corpo, mente e relazioni. È da questa evoluzione che nasce il nuovo Wanderlust Village, la principale…",
-        "link": "https://www.winemag.it/wanderlust-2026-arriva-il-nuovo-village-del-benessere-tappe-a-venezia-milano-e-roma/",
-        "pubDate": "2026-08-10T03:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le notti bollenti… dell’uva. La vendemmia anticipata, spiegata bene",
-        "description": "Le notti bollenti… dell'uva. La vendemmia anticipata 2026 spiegata bene. Sulla raccolta incidono le alte temperature notturne: ecco perché\nL'articolo Le notti b…",
-        "link": "https://www.winemag.it/le-notti-bollenti-delluva-la-vendemmia-anticipata-2026-spiegata-bene/",
-        "pubDate": "2026-08-10T02:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/08/Taglio-rese-e-stoccaggio-Verdicchio-dei-Castelli-di-Jesi-Doc-vendemmia-2026.-Le-misure-sono-state-approvate-da-assemblea-Istituto-marchigiano-di-tutela-vini-Imt-michele-bernetti.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Triglie alla rosetana: il sapore autentico della tradizione marinara",
-        "description": "A Roseto degli Abruzzi, sulla costa teramana, le triglie alla rosetana raccontano ancora oggi una cucina di mare nata nelle case dei pescatori, preparata con tr…",
-        "link": "https://www.gustoblog.it/2026/08/09/triglie-alla-rosetana-il-sapore-autentico-della-tradizione-marinara/",
-        "pubDate": "2026-08-09T19:03:03+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Hai tante piante in casa? Questi accessori IKEA ti semplificano davvero la vita",
-        "description": "Dal nebulizzatore alla mini serra, gli accessori IKEA che aiutano a prendersi cura delle piante e rendono più semplice il giardinaggio indoor.…",
-        "link": "https://www.stylosophy.it/articolo/hai-tante-piante-in-casa-questi-accessori-ikea-ti-semplificano-davvero-la-vita/253323/",
-        "pubDate": "2026-08-09T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Crisi vino, la ricetta (in tre mosse) di Centinaio: «Ho scritto a Lollobrigida»",
-        "description": "Gestione dell’offerta di vino, nuove superfici vitabili e recupero dei vigneti abbandonati. Sono i temi al centro della lettera inviata da Gian Marco Centinaio …",
-        "link": "https://www.winemag.it/crisi-vino-la-ricetta-in-tre-mosse-di-centinaio-ho-scritto-a-lollobrigida/",
-        "pubDate": "2026-08-09T15:51:01+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le 14 migliori gelaterie delle Marche del 2026",
-        "description": "Il gelato imperdibile delle Marche, al mare Adriatico alle cime dell'Appennino, rigorosamente artigianale. Gli indirizzi da non perdere in tutta la Regione, tes…",
-        "link": "https://www.dissapore.com/locali/le-14-migliori-gelaterie-delle-marche-del-2026/",
-        "pubDate": "2026-08-09T15:44:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelateria-Quattrini-Falconara-Marittima.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Burger di spinaci, l’idea verde che conquista tutti",
-        "description": "I burger di spinaci arrivano in tavola oggi, nelle cucine di casa, come alternativa vegetale ai classici hamburger di carne, pensata per quattro persone e adatt…",
-        "link": "https://www.gustoblog.it/2026/08/09/burger-di-spinaci-lidea-verde-che-conquista-tutti/",
-        "pubDate": "2026-08-09T13:02:43+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Hailey Bieber sfoggia il trend dell’estate con il bikini effetto velluto FOTO",
-        "description": "Hailey Bieber, sempre al passo con i tempi, segue il trend dell'estate sfoggiando il bikini effetto velluto.…",
-        "link": "https://www.stylosophy.it/articolo/hailey-bieber-sfoggia-il-trend-dellestate-con-il-bikini-effetto-velluto-foto/253317/",
-        "pubDate": "2026-08-09T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Anche le mele si raccolgono in anticipo",
-        "description": "Non solo uva e pomodori: anche la raccolta del frutto italiano più esportato al mondo quest'anno sarà precoce, e in Trentino è già iniziata.\nL'articolo Anche le…",
-        "link": "https://www.dissapore.com/notizie/anche-le-mele-si-raccolgono-in-anticipo/",
-        "pubDate": "2026-08-09T12:36:41+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/mele-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Il pezzo low cost IKEA che ti aiuterà a creare un perfetto angolo stireria a casa tua",
+        "description": "Il celebre carrello RÅSKOG può diventare una piccola postazione mobile per tenere in ordine ferro, spray e accessori per la stiratura anche quando lo spazio in …",
+        "link": "https://www.stylosophy.it/articolo/il-pezzo-low-cost-ikea-che-ti-aiutera-a-creare-un-perfetto-angolo-stireria/253349/",
+        "pubDate": "2026-08-10T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il vecchio mobile della nonna può diventare il pezzo più bello della tua casa moderna",
+        "description": "Mobili vintage e design contemporaneo possono convivere e rendere gli ambienti unici. Ecco le regole da seguire per trovare il giusto equilibrio...…",
+        "link": "https://www.stylosophy.it/articolo/il-vecchio-mobile-della-nonna-puo-diventare-il-pezzo-piu-bello-della-tua-casa-moderna/253339/",
+        "pubDate": "2026-08-10T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Anne Hathaway incanta tutti alla première del film The End of Oak Street con il pancino in bella vista VIDEO",
         "description": "Anne Hathaway si è mostrata in tutta la sua bellezza alla première del film The End of Oak Street: ecco il suo look.…",
@@ -302,15 +320,6 @@
         "source": "Grazia"
       },
       {
-        "title": "I profumi marini più gettonati dell’Estate 2026, freschi e leggeri",
-        "description": "Sono questi i profumi marini più amati dell'Estate, un vero must della bella stagione dall'allure fresca e leggera. Da non perdere!…",
-        "link": "https://www.stylosophy.it/articolo/i-profumi-marini-piu-gettonati-dellestate-2026-freschi-e-leggeri/253174/",
-        "pubDate": "2026-08-07T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Charlize Theron, Dua Lipa, Kaia Gerber e tutte le star meglio vestite della settimana",
         "description": "La stagione delle première continua a regalare momenti di moda memorabili. Tra red carpet internazionali e photocall esclusivi, le celeb confermano ancora una v…",
         "link": "https://www.grazia.it/moda/celebrity-style/charlize-theron-dua-lipa-kaia-gerber-look-abiti-red-carpet-star-meglio-vestite-settimana-991513",
@@ -318,15 +327,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/ok-apertura.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Lavanda in vaso sana e rigogliosa: non commettere questi 3 errori",
-        "description": "Una lavanda sana è il risultato di poche attenzioni ma mirate. Riconoscere in tempo i segnali di sofferenza permette di intervenire prima che la pianta muoia.…",
-        "link": "https://www.stylosophy.it/articolo/lavanda-in-vaso-sana-e-rigogliosa-non-commettere-questi-errori/253298/",
-        "pubDate": "2026-08-06T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       },
       {
         "title": "Havaianas cambia passo: le nuovissime Kitten Heel conquistano la Copenhagen Fashion Week (e anche noi)",
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "C’è una casa nella pineta di Cervia dove si mangia ancora la Romagna di una volta",
+        "description": "Prima di diventare un ristorante, Casa delle Aie era il luogo dove i pignaroli lavoravano le pigne raccolte nella pineta. Oggi, a pochi minuti dalle spiagge di …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/casa-delle-aie-cervia-ristorante-pineta-cucina-romagnola/",
+        "pubDate": "2026-08-10T14:52:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Grandine, temporali e trombe d’aria devastano le vigne piemontesi: vendemmia a rischio",
+        "description": "La situazione più grave si registra in Alto Piemonte con danni nei vigneti fino al 90%. La furia della supercella, con nubifragi e vento, ha invece colpito le L…",
+        "link": "https://www.gamberorosso.it/notizie/vino/grandine-temporali-piemonte-rischio-vendemmia-2026/",
+        "pubDate": "2026-08-10T14:30:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Melone marinato con menta e lime, il dessert fresco che profuma d’estate",
         "description": "Il melone marinato con menta e lime arriva in tavola in estate, nelle cucine di casa e nei pranzi all’aperto, come dessert fresco, antipasto leggero o secondo v…",
         "link": "https://www.gustoblog.it/2026/08/10/melone-marinato-con-menta-e-lime-il-dessert-fresco-che-profuma-destate/",
@@ -374,15 +392,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Luigi Terzago, addio all’ex presidente nazionale FISAR",
-        "description": "È morto Luigi Terzago, ex presidente nazionale della FISAR. Terzago era entrato nella Federazione Italiana Sommelier Albergatori e Ristoratori nel 2004, come de…",
-        "link": "https://www.winemag.it/luigi-terzago-addio-allex-presidente-nazionale-fisar/",
-        "pubDate": "2026-08-10T12:25:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Alle Falkland è scoppiata un’altra guerra: stavolta il nemico sono 50mila tonnellate di salmoni",
@@ -394,6 +403,51 @@
         "source": "Dissapore"
       },
       {
+        "title": "Ho attraversato la Sicilia da ovest a est: ecco dove ho mangiato e bevuto meglio",
+        "description": "Dalle colline di Alcamo al mare di Sciacca, dalla Val di Noto a Catania e all’Etna: un viaggio attraverso paesaggi, vini, mercati, trattorie e ristoranti che ra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/viaggio-sicilia-dove-mangiare-bere-alcamo-sciacca-noto-catania/",
+        "pubDate": "2026-08-10T11:18:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel cuore della Majella c’è un “autogrill montagnolo” dove la comanda te la scrivi da solo",
+        "description": "A un chilometro da Campo di Giove, La Baita di Eva è nata come punto vendita di panini e formaggi dell’azienda agricola Agrivella. Poi sono arrivati i primi pia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baita-eva-majella-autogrill-montagnolo-campo-di-giove/",
+        "pubDate": "2026-08-10T11:09:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Puoi essere esigente senza maltrattare le persone”: la chef che da 6 anni lavora con la stessa brigata",
+        "description": "Monika Filipinska, chef del ristorante Novecento di Dievole, ha costruito una brigata che torna a lavorare con lei stagione dopo stagione da sei anni…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/monika-filipinska-chef-dievole-brigata-ristorante/",
+        "pubDate": "2026-08-10T11:01:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ho trovato un distributore automatico pieno di formaggi: scegli cheddar e brie sullo schermo",
+        "description": "L'ho incontrato per caso durante un viaggio: si paga sul touchscreen e si comprano formaggi, latte fresco, yogurt e burro prodotti nella fattoria. Dietro le mac…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scozia-distributore-automatico-formaggi/",
+        "pubDate": "2026-08-10T10:52:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Estirpi, riconversioni e nuove autorizzazioni: al vino serve un piano strategico”. Centinaio scrive a Lollobrigida",
+        "description": "Il senatore leghista suggerisce le azioni da compiere al Ministro dell'Agricoltura. Tra le proposte c'è la gestione dei vigneti abbandonati con la possibilità d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/estirpi-riconversioni-piano-vino-centinaio-lettera-lollobrigida/",
+        "pubDate": "2026-08-10T10:39:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "L’Ozempic in pillole arriva in Unione Europea",
         "description": "Il primo paese dell'UE a lanciare il nuovo formato del farmaco è la Germania, ma altri seguiranno nel 2026.\nL'articolo L&#8217;Ozempic in pillole arriva in Unio…",
         "link": "https://www.dissapore.com/notizie/lozempic-in-pillole-arriva-in-unione-europea/",
@@ -401,6 +455,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/wegovy-ozempic-pillole-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Diventare enologo per un giorno: una cantina di Montalcino trasforma l’enoturismo in un’esperienza unica",
+        "description": "Dal safari fotografico alle lezioni di cucina, dalla degustazione in musica all'immersione nella storia. A Fattoria del Colle e Casato Prime Donne il vino è sol…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cinelli-colombini-casato-prime-donne-fattoria-del-colle/",
+        "pubDate": "2026-08-10T09:31:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Pensavo fossero cime di rapa”: ho scoperto per caso una verdura antica quasi introvabile",
+        "description": "Sembrano cime di rapa, ma sono un'antica forma di cavolo broccolo quasi assente dalla grande distribuzione. Li ho trovati per caso in una minuscola gastronomia …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mugnoli-selvatici-cosa-sono-verdura-antica/",
+        "pubDate": "2026-08-10T09:26:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Sarà il costo dei burrito a far cadere l’amministrazione Trump?",
@@ -430,24 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Wanderlust 2026, arriva il nuovo Village del benessere: tappe a Venezia, Milano e Roma",
-        "description": "Il benessere si conferma un&#8217;esperienza che coinvolge corpo, mente e relazioni. È da questa evoluzione che nasce il nuovo Wanderlust Village, la principale…",
-        "link": "https://www.winemag.it/wanderlust-2026-arriva-il-nuovo-village-del-benessere-tappe-a-venezia-milano-e-roma/",
-        "pubDate": "2026-08-10T03:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le notti bollenti… dell’uva. La vendemmia anticipata, spiegata bene",
-        "description": "Le notti bollenti… dell'uva. La vendemmia anticipata 2026 spiegata bene. Sulla raccolta incidono le alte temperature notturne: ecco perché\nL'articolo Le notti b…",
-        "link": "https://www.winemag.it/le-notti-bollenti-delluva-la-vendemmia-anticipata-2026-spiegata-bene/",
-        "pubDate": "2026-08-10T02:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/08/Taglio-rese-e-stoccaggio-Verdicchio-dei-Castelli-di-Jesi-Doc-vendemmia-2026.-Le-misure-sono-state-approvate-da-assemblea-Istituto-marchigiano-di-tutela-vini-Imt-michele-bernetti.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Triglie alla rosetana: il sapore autentico della tradizione marinara",
         "description": "A Roseto degli Abruzzi, sulla costa teramana, le triglie alla rosetana raccontano ancora oggi una cucina di mare nata nelle case dei pescatori, preparata con tr…",
         "link": "https://www.gustoblog.it/2026/08/09/triglie-alla-rosetana-il-sapore-autentico-della-tradizione-marinara/",
@@ -455,15 +509,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Crisi vino, la ricetta (in tre mosse) di Centinaio: «Ho scritto a Lollobrigida»",
-        "description": "Gestione dell’offerta di vino, nuove superfici vitabili e recupero dei vigneti abbandonati. Sono i temi al centro della lettera inviata da Gian Marco Centinaio …",
-        "link": "https://www.winemag.it/crisi-vino-la-ricetta-in-tre-mosse-di-centinaio-ho-scritto-a-lollobrigida/",
-        "pubDate": "2026-08-09T15:51:01+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "Le 14 migliori gelaterie delle Marche del 2026",
@@ -493,58 +538,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "La focaccia che i turisti non conoscono: qui vanno i veri genovesi",
-        "description": "Non è tra gli indirizzi più fotografati della città, ma ogni giorno richiama una lunga fila di clienti abituali. Nel centro storico di Genova c'è un forno dove …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/genova-focaccia-e-dintorni-focaccia-migliore-locals/",
-        "pubDate": "2026-08-09T07:52:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "title": "Via Pasteria accelera: nuovo hub produttivo e brand in arrivo",
+        "description": "Via Pasteria, la catena milanese di pasta fresca trafilata al bronzo fondata il 21 luglio 2022 in via Crespi, zona Porta Genova, accelera nel 2026 con un centro…",
+        "link": "https://www.gustoblog.it/2026/08/09/via-pasteria-accelera-nuovo-hub-produttivo-e-brand-in-arrivo/",
+        "pubDate": "2026-08-09T06:02:33+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La “mezza con panna”: perché a Messina nessuno ordina una semplice granita al caffè",
-        "description": "Granita al caffè preparata con la cuccumella, panna fresca e brioscia col tuppo: a Messina è un rito identitario che ora punta a ottenere un disciplinare uffici…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mezza-con-panna-granita-messina-disciplinare/",
-        "pubDate": "2026-08-09T07:51:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il bar di periferia che sta cambiando un quartiere di Perugia",
-        "description": "Colazioni, brunch, vini naturali, libri e concerti: Ai Loggi usa il cibo per ricostruire relazioni in una delle periferie più popolose di Perugia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ai-loggi-bar-periferia-perugia-rigenerazione/",
-        "pubDate": "2026-08-09T07:46:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sono tornati in Sardegna e stanno salvando i vigneti abbandonati: ora ne fanno vino",
-        "description": "Vecchie vigne, vitigni locali e giovani tornati sull'isola: nel Montiferru una cooperativa trasforma l'abbandono agricolo in un nuovo futuro…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mussura-giovani-vigneti-abbandonati-sardegna/",
-        "pubDate": "2026-08-09T07:43:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pizzaiolo non è una professione riconosciuta. Una legge vuole cambiare tutto",
-        "description": "Presentato in Senato il Ddl che istituisce il registro nazionale dei pizzaioli e porta l'insegnamento della pizza negli alberghieri…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ddl-pizzaiolo-professione-riconosciuta-registro-nazionale/",
-        "pubDate": "2026-08-09T07:36:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In questa fattoria toscana gli ospiti finiscono per diventare di famiglia",
-        "description": "A pochi chilometri da Prato, Villa Rucellai è ancora una casa di famiglia, una fattoria e un luogo dove gli ospiti condividono pranzi, vendemmie, raccolte delle…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/villa-rucellai-fattoria-toscana-famiglia/",
-        "pubDate": "2026-08-09T06:21:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "source": "Gustoblog"
       }
     ]
   }
