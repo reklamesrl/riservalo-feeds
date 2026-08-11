@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-10T18:57:03.502095+00:00",
+  "generated": "2026-08-11T07:07:05.051819+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Pesca, 3 milioni per aiutare le imprese colpite dai danni del clima",
+        "description": "Il Consiglio dei ministri ha approvato il 4 agosto, su proposta del Masaf, il rifinanziamento da 3 milioni di euro per il 2026 del Fondo di solidarietà nazional…",
+        "link": "https://www.gustoblog.it/2026/08/11/pesca-3-milioni-per-aiutare-le-imprese-colpite-dai-danni-del-clima/",
+        "pubDate": "2026-08-11T06:03:13+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pret A Manger Roma Termini: nuova apertura",
+        "description": "Pret A Manger rafforza la propria presenza in Italia con l’apertura di un nuovo punto vendita nella stazione di Roma Termini. Il locale si trova al piano terra,…",
+        "link": "https://www.winemag.it/pret-a-manger-apre-a-roma-termini/",
+        "pubDate": "2026-08-11T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Tacchino con le castagne: il secondo delle feste dal sapore autentico",
+        "description": "A tavola, nelle cucine italiane d’autunno e d’inverno, il tacchino con le castagne torna come piatto della festa: una ricetta di famiglia, preparata con tacchin…",
+        "link": "https://www.gustoblog.it/2026/08/10/tacchino-con-le-castagne-il-secondo-delle-feste-dal-sapore-autentico/",
+        "pubDate": "2026-08-10T19:02:48+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La spiaggia dove mangiare ostriche e frutti di mare appena pescati a prezzi che in Italia sembrano impossibili",
+        "description": "Succede a Cancale, in Bretagna, dove ogni giorno gli allevatori vendono le ostriche al mercato affacciato direttamente sui parchi ostricoli. Si comprano appena …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spiaggia-cancale-ostriche-crudi-francia/",
+        "pubDate": "2026-08-10T17:07:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il pezzo low cost IKEA che ti aiuterà a creare un perfetto angolo stireria a casa tua",
         "description": "Il celebre carrello RÅSKOG può diventare una piccola postazione mobile per tenere in ordine ferro, spray e accessori per la stiratura anche quando lo spazio in …",
@@ -57,6 +93,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Luigi Terzago, addio all’ex presidente nazionale FISAR",
+        "description": "È morto Luigi Terzago, ex presidente nazionale della FISAR. Terzago era entrato nella Federazione Italiana Sommelier Albergatori e Ristoratori nel 2004, come de…",
+        "link": "https://www.winemag.it/luigi-terzago-addio-allex-presidente-nazionale-fisar/",
+        "pubDate": "2026-08-10T12:25:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Alle Falkland è scoppiata un’altra guerra: stavolta il nemico sono 50mila tonnellate di salmoni",
         "description": "Gli abitanti chiedono un referendum per avere voce in capitolo rispetto al destino ambientale dell'arcipelago.\nL'articolo Alle Falkland è scoppiata un’altra gue…",
         "link": "https://www.dissapore.com/notizie/alle-falkland-e-scoppiata-unaltra-guerra-stavolta-il-nemico-sono-50mila-tonnellate-di-salmoni/",
@@ -93,8 +138,8 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Ho trovato un distributore automatico pieno di formaggi: scegli cheddar e brie sullo schermo",
-        "description": "L'ho incontrato per caso durante un viaggio: si paga sul touchscreen e si comprano formaggi, latte fresco, yogurt e burro prodotti nella fattoria. Dietro le mac…",
+        "title": "Il negozio di formaggi sperduto nel nulla dove mangiare grandi forme d’Europa",
+        "description": "L'ho incontrato per caso durante un viaggio in Scozia: si entra in una cella frigorifera, si assaggia e si sceglie quello che si vuole acquistare. E nel caseifi…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scozia-distributore-automatico-formaggi/",
         "pubDate": "2026-08-10T10:52:28+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -136,51 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Pensavo fossero cime di rapa”: ho scoperto per caso una verdura antica quasi introvabile",
-        "description": "Sembrano cime di rapa, ma sono un'antica forma di cavolo broccolo quasi assente dalla grande distribuzione. Li ho trovati per caso in una minuscola gastronomia …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mugnoli-selvatici-cosa-sono-verdura-antica/",
-        "pubDate": "2026-08-10T09:26:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Niacinamide, il segreto beauty non solo della pelle ma anche dei Capelli: proprietà e prodotti da provare",
-        "description": "La Niacinamide è un potente elisir di bellezza per la pelle ma non solo, anche per i Capelli. Scopriamo insieme proprietà, benefici e prodotti da provare...…",
-        "link": "https://www.stylosophy.it/articolo/niacinamide-per-i-capelli-proprieta-e-prodotti-da-provare/200037/",
-        "pubDate": "2026-08-10T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Sarà il costo dei burrito a far cadere l’amministrazione Trump?",
-        "description": "Su X è in corso un \"dibattito sul burrito\" tra i repubblicani: il tema vero è il costo della vita negli USA che potrebbe influire sulle elezioni.\nL'articolo Sar…",
-        "link": "https://www.dissapore.com/notizie/sara-il-costo-dei-burrito-a-far-cadere-lamministrazione-trump/",
-        "pubDate": "2026-08-10T08:13:30+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burrito-da-asporto-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I costumi da sfoggiare a 50 anni? Ecco i modelli che vi suggeriamo di aggiungere subito alla shopping list",
-        "description": "L’estate sta entrando nel vivo, le ferie sono sempre più vicine e questo significa che è arrivato il momento di far spazio nell’armadio a qualche nuovo costume …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/costumi-da-bagno-per-donne-over-50-anni-intero-bikini-look-mare-estate-spiaggia-984406",
-        "pubDate": "2026-08-10T06:59:49+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/jlo-costume-da-bagno-50-anni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Olio in crisi, scorte bloccate nei frantoi: Calabria e Puglia chiedono aiuto",
-        "description": "L’olio d’oliva italiano entra nell’estate 2026 con oltre 200mila tonnellate della passata campagna ferme tra frantoi e cooperative, soprattutto in Puglia e Cala…",
-        "link": "https://www.gustoblog.it/2026/08/10/olio-in-crisi-scorte-bloccate-nei-frantoi-calabria-e-puglia-chiedono-aiuto/",
-        "pubDate": "2026-08-10T06:03:09+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Pesca, 3 milioni per aiutare le imprese colpite dai danni del clima",
+        "description": "Il Consiglio dei ministri ha approvato il 4 agosto, su proposta del Masaf, il rifinanziamento da 3 milioni di euro per il 2026 del Fondo di solidarietà nazional…",
+        "link": "https://www.gustoblog.it/2026/08/11/pesca-3-milioni-per-aiutare-le-imprese-colpite-dai-danni-del-clima/",
+        "pubDate": "2026-08-11T06:03:13+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pret A Manger Roma Termini: nuova apertura",
+        "description": "Pret A Manger rafforza la propria presenza in Italia con l’apertura di un nuovo punto vendita nella stazione di Roma Termini. Il locale si trova al piano terra,…",
+        "link": "https://www.winemag.it/pret-a-manger-apre-a-roma-termini/",
+        "pubDate": "2026-08-11T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Tacchino con le castagne: il secondo delle feste dal sapore autentico",
+        "description": "A tavola, nelle cucine italiane d’autunno e d’inverno, il tacchino con le castagne torna come piatto della festa: una ricetta di famiglia, preparata con tacchin…",
+        "link": "https://www.gustoblog.it/2026/08/10/tacchino-con-le-castagne-il-secondo-delle-feste-dal-sapore-autentico/",
+        "pubDate": "2026-08-10T19:02:48+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La spiaggia dove mangiare ostriche e frutti di mare appena pescati a prezzi che in Italia sembrano impossibili",
+        "description": "Succede a Cancale, in Bretagna, dove ogni giorno gli allevatori vendono le ostriche al mercato affacciato direttamente sui parchi ostricoli. Si comprano appena …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spiaggia-cancale-ostriche-crudi-francia/",
+        "pubDate": "2026-08-10T17:07:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "C’è una casa nella pineta di Cervia dove si mangia ancora la Romagna di una volta",
         "description": "Prima di diventare un ristorante, Casa delle Aie era il luogo dove i pignaroli lavoravano le pigne raccolte nella pineta. Oggi, a pochi minuti dalle spiagge di …",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/casa-delle-aie-cervia-ristorante-pineta-cucina-romagnola/",
@@ -392,6 +428,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Luigi Terzago, addio all’ex presidente nazionale FISAR",
+        "description": "È morto Luigi Terzago, ex presidente nazionale della FISAR. Terzago era entrato nella Federazione Italiana Sommelier Albergatori e Ristoratori nel 2004, come de…",
+        "link": "https://www.winemag.it/luigi-terzago-addio-allex-presidente-nazionale-fisar/",
+        "pubDate": "2026-08-10T12:25:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "Alle Falkland è scoppiata un’altra guerra: stavolta il nemico sono 50mila tonnellate di salmoni",
@@ -430,8 +475,8 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Ho trovato un distributore automatico pieno di formaggi: scegli cheddar e brie sullo schermo",
-        "description": "L'ho incontrato per caso durante un viaggio: si paga sul touchscreen e si comprano formaggi, latte fresco, yogurt e burro prodotti nella fattoria. Dietro le mac…",
+        "title": "Il negozio di formaggi sperduto nel nulla dove mangiare grandi forme d’Europa",
+        "description": "L'ho incontrato per caso durante un viaggio in Scozia: si entra in una cella frigorifera, si assaggia e si sceglie quello che si vuole acquistare. E nel caseifi…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/scozia-distributore-automatico-formaggi/",
         "pubDate": "2026-08-10T10:52:28+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
@@ -493,58 +538,13 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Altro che panino: in Sardegna in spiaggia si mangiano queste 4 focacce tradizionali",
-        "description": "Altro che panino: dalla fainè alla costedda, quattro focacce tradizionali sarde perfette da portare in spiaggia durante l'estate…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/focacce-sarde-spiaggia-panino-estate/",
-        "pubDate": "2026-08-10T04:56:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Triglie alla rosetana: il sapore autentico della tradizione marinara",
-        "description": "A Roseto degli Abruzzi, sulla costa teramana, le triglie alla rosetana raccontano ancora oggi una cucina di mare nata nelle case dei pescatori, preparata con tr…",
-        "link": "https://www.gustoblog.it/2026/08/09/triglie-alla-rosetana-il-sapore-autentico-della-tradizione-marinara/",
-        "pubDate": "2026-08-09T19:03:03+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Le 14 migliori gelaterie delle Marche del 2026",
-        "description": "Il gelato imperdibile delle Marche, al mare Adriatico alle cime dell'Appennino, rigorosamente artigianale. Gli indirizzi da non perdere in tutta la Regione, tes…",
-        "link": "https://www.dissapore.com/locali/le-14-migliori-gelaterie-delle-marche-del-2026/",
-        "pubDate": "2026-08-09T15:44:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/gelateria-Quattrini-Falconara-Marittima.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Burger di spinaci, l’idea verde che conquista tutti",
-        "description": "I burger di spinaci arrivano in tavola oggi, nelle cucine di casa, come alternativa vegetale ai classici hamburger di carne, pensata per quattro persone e adatt…",
-        "link": "https://www.gustoblog.it/2026/08/09/burger-di-spinaci-lidea-verde-che-conquista-tutti/",
-        "pubDate": "2026-08-09T13:02:43+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Anche le mele si raccolgono in anticipo",
-        "description": "Non solo uva e pomodori: anche la raccolta del frutto italiano più esportato al mondo quest'anno sarà precoce, e in Trentino è già iniziata.\nL'articolo Anche le…",
-        "link": "https://www.dissapore.com/notizie/anche-le-mele-si-raccolgono-in-anticipo/",
-        "pubDate": "2026-08-09T12:36:41+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/mele-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Via Pasteria accelera: nuovo hub produttivo e brand in arrivo",
-        "description": "Via Pasteria, la catena milanese di pasta fresca trafilata al bronzo fondata il 21 luglio 2022 in via Crespi, zona Porta Genova, accelera nel 2026 con un centro…",
-        "link": "https://www.gustoblog.it/2026/08/09/via-pasteria-accelera-nuovo-hub-produttivo-e-brand-in-arrivo/",
-        "pubDate": "2026-08-09T06:02:33+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
+        "title": "Wanderlust 2026, arriva il nuovo Village del benessere: tappe a Venezia, Milano e Roma",
+        "description": "Il benessere si conferma un&#8217;esperienza che coinvolge corpo, mente e relazioni. È da questa evoluzione che nasce il nuovo Wanderlust Village, la principale…",
+        "link": "https://www.winemag.it/wanderlust-2026-arriva-il-nuovo-village-del-benessere-tappe-a-venezia-milano-e-roma/",
+        "pubDate": "2026-08-10T03:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       }
     ]
   }
