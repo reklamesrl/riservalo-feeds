@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-13T13:10:39.431675+00:00",
+  "generated": "2026-08-13T19:02:35.645431+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Una delle pizzerie più ambite di Milano cambia volto. E ora si potrà mangiare anche senza prenotare",
+        "description": "Confine approfitta della pausa estiva per rifare cucina e bar. Alla riapertura arriveranno posti al bancone senza prenotazione, mentre resta il menu degustazion…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/confine-milano-pizzeria-riapertura-senza-prenotazione/",
+        "pubDate": "2026-08-13T15:15:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel paese del Lazio dove le bufale sono più degli abitanti si fa una mozzarella ancora mozzata a mano",
+        "description": "Nella Valle dell’Amaseno ci sono circa 14mila bufale e una tradizione casearia antichissima. Qui una famiglia partita con appena 10 animali oggi ne alleva 800 e…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/amaseno-mozzarella-bufala-lazio/",
+        "pubDate": "2026-08-13T15:09:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il cibo ultra processato sta per avere una definizione",
+        "description": "Il Dipartimento della salute e quell' dell'agricoltura statunitensi hanno presentato ufficialmente una proposta di definizione per gli alimenti ultra-processati…",
+        "link": "https://www.dissapore.com/notizie/il-cibo-ultra-processato-sta-per-avere-una-definizione/",
+        "pubDate": "2026-08-13T15:01:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/junk-food-burger-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Come Pulire la Lavatrice: consigli e rimedi per eliminare il cattivo odore",
+        "description": "Se il bucato non è più profumato come una volta significa che non avete riservato la giusta cura alla vostra Lavatrice. Ecco dunque una guida per rimediare subi…",
+        "link": "https://www.stylosophy.it/articolo/come-pulire-la-lavatrice-consigli-eliminare-il-cattivo-odore/180941/",
+        "pubDate": "2026-08-13T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Appena fuori dall’autostrada c’è una granita di ricotta di bufala che vale il viaggio",
+        "description": "Vicino all'uscita di Milazzo, sulla Messina-Palermo, una famiglia che alleva 400 bufale prepara una granita di ricotta con capperi caramellati alla Malvasia. Ed…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/granita-ricotta-bufala-tenuta-anasita-milazzo/",
+        "pubDate": "2026-08-13T14:54:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La caramella delle nonne compie 100 anni. Perché si chiama Rossana e chi l’ha inventata",
+        "description": "Nata nel 1926 in casa Perugina, con il suo incarto rosso e il cuore cremoso al latte e nocciole ha attraversato generazioni di italiani. Il nome arriva da Cyran…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rossana-100-anni-storia-caramella/",
+        "pubDate": "2026-08-13T14:47:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’ascesa dei Crémant e la disfatta del Bordeaux. Chi sale e chi scende nelle vendite estere",
+        "description": "Nel primo quadrimestre 2026 i vini Dop europei appaiono in difficoltà sui mercati esteri con qualche eccezione. Tra i bianchi italiani segno più per Sicilia e T…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vini-dop-europei-primo-quadrimestre-2026-cremant-champagne/",
+        "pubDate": "2026-08-13T14:15:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il polpo è troppo intelligente per essere allevato?",
+        "description": "Il più grande allevamento di polpi europeo, e uno dei pochissimi esperimenti di allevamento nel mondo ha appena chiuso e i motivi sono un mistero.\nL'articolo Il…",
+        "link": "https://www.dissapore.com/notizie/il-polpo-e-troppo-intelligente-per-essere-allevato/",
+        "pubDate": "2026-08-13T13:34:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/polpo-pescato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Semifreddo all’arancia: il dolce fresco e profumato che conquista al primo assaggio",
         "description": "Il semifreddo all’arancia, dolce freddo senza uova preparato con panna montata, agrumi, mandorle tostate e copertura di cioccolato fondente, torna utile oggi ne…",
@@ -10,6 +82,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Giulia De Lellis sfoggia lo slip dress must di questa stagione FOTO",
+        "description": "Giulia De Lellis non rinuncia allo stile più trendy e glamour e sfoggia l'abito a sottoveste in satin e pizzo perfetto per questa stagione.…",
+        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-sfoggia-lo-slip-dress-must-di-questa-stagione-foto/253411/",
+        "pubDate": "2026-08-13T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
       },
       {
         "title": "In partenza per le vacanze? Ecco gli abiti estivi da mettere in valigia all’ultimo",
@@ -21,6 +102,24 @@
         "source": "Grazia"
       },
       {
+        "title": "Questo grande bianco nasce da vecchie vigne a piede franco e costa solo 16 euro",
+        "description": "Il San Martino della Battaglia Ottocento 2024 di Pratello nasce da vecchie vigne a piede franco sul Lago di Garda. Costa circa 16 euro, ha ottenuto 93 punti ed …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/ottocento-pratello-san-martino-battaglia-vino/",
+        "pubDate": "2026-08-13T09:20:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Primitivo si beve troppo caldo. Perché questo grande rosso pugliese può finire in frigo",
+        "description": "Il Monte Diavoli 2021 di Masseria Cuturi, già tra i 50 Vini Rari del Gambero Rosso, è stato premiato come miglior Primitivo di Manduria DOP a Carosino…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/primitivo-temperatura-servizio-frigo/",
+        "pubDate": "2026-08-13T09:13:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Un caciocavallo sta facendo arrabbiare i tifosi dell’Avellino",
         "description": "L'Avellino presenta una collezione di maglie dedicate al territorio, che però non convincono troppo i tifosi. O forse sì. \nL'articolo Un caciocavallo sta facend…",
         "link": "https://www.dissapore.com/notizie/un-caciocavallo-sta-facendo-arrabbiare-i-tifosi-dellavellino/",
@@ -28,6 +127,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/maglie-avellino-calcio.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "La finestra sull’Unesco: tra le colline del Prosecco Superiore c’è uno spazio dove il vino diventa esperienza",
+        "description": "A Col San Martino, il Merotto Space rappresenta il punto di incontro tra la cantina, i vigneti e chi desidera conoscere da vicino l'universo del Conegliano Vald…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/merotto-space-prosecco-superiore-enoturismo/",
+        "pubDate": "2026-08-13T08:57:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questi spaghetti sono dolci, con ketchup alla banana e hot dog. Nelle Filippine sono un piatto tradizionale",
+        "description": "I Filipino spaghetti mescolano salsa di pomodoro dolce, carne macinata, hot dog e il celebre banana ketchup. Dietro uno dei comfort food più amati del Paese c'è…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/filipino-spaghetti-dolci-ketchup-banana-hot-dog/",
+        "pubDate": "2026-08-13T07:27:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Caldo e siccità travolgono l’agricoltura: crollano ortaggi, frutta, olio e latte",
@@ -43,15 +160,6 @@
         "description": "Damiano Ferraro si è formato tra Svizzera, Londra e Le Gavroche dei fratelli Roux. Poi il ritorno a Montallegro, nell'Agrigentino, dove con la moglie Adriana Ba…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/damiano-ferraro-capitolo-primo-montallegro-sicilia/",
         "pubDate": "2026-08-13T05:57:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Solo due forni in Sicilia producono questo biscotto speziato (che va inzuppato nella granita al limone)",
-        "description": "Si chiama biscotto castriciano e si produce nel borgo messinese di Castroreale. La ricetta segreta si deve alle suore clarisse e ogni anno ad agosto ha una sagr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biscotto-castriciano-castroreale-granita-al-limone/",
-        "pubDate": "2026-08-13T05:34:41+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -73,117 +181,27 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Ndocca, la tradizione che sorprende e conquista",
-        "description": "La ’ndocca, piatto della tradizione contadina italiana preparato con le parti meno nobili del maiale, torna sulle tavole soprattutto nei mesi freddi, quando nel…",
-        "link": "https://www.gustoblog.it/2026/08/12/ndocca-la-tradizione-che-sorprende-e-conquista/",
-        "pubDate": "2026-08-12T19:03:20+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Macchie scure in estate: come trattarle e renderle meno visibili",
-        "description": "Sole, caldo e irritazioni possono accentuare l’iperpigmentazione: ecco come costruire una routine estiva efficace, senza stressare la pelle.…",
-        "link": "https://www.stylosophy.it/articolo/macchie-scure-in-estate-come-trattarle-e-renderle-meno-visibili-destate/253383/",
-        "pubDate": "2026-08-12T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La raccolta notturna è la nuova normalità dell’agricoltura",
-        "description": "Le temperature estreme rendono il lavoro nei campi impossibile negli orari canonici, e l'agricoltura sta cambiando di conseguenza.\nL'articolo La raccolta nottur…",
-        "link": "https://www.dissapore.com/notizie/la-raccolta-notturna-e-la-nuova-normalita-dellagricoltura/",
-        "pubDate": "2026-08-12T14:00:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/raccolto-notturno-agricoltura-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gnocchi allo zafferano, il primo cremoso che porta il sole in tavola",
-        "description": "Gli gnocchi allo zafferano tornano in tavola oggi, nelle cucine di casa e nei menu più attenti alla stagionalità, come primo piatto cremoso pensato per quattro …",
-        "link": "https://www.gustoblog.it/2026/08/12/gnocchi-allo-zafferano-il-primo-cremoso-che-porta-il-sole-in-tavola/",
-        "pubDate": "2026-08-12T13:03:08+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Georgina Rodriguez ha detto sì al suo Cristiano Ronaldo: ecco il dolce scatto sui social!",
-        "description": "Georgina Rodriguez e Cristiano Ronaldo sono convolati a nozze in gran segreto nella giornata di ieri, martedì 11 agosto 2026.…",
-        "link": "https://www.stylosophy.it/articolo/georgina-rodriguez-ha-detto-si-al-suo-cristiano-ronaldo-ecco-il-dolce-scatto-sui-social/253387/",
-        "pubDate": "2026-08-12T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Una delle pizze più basse di Roma apre a settembre a Casalbertone",
-        "description": "L’Elementare di Mirko Rizzo e Federico Feliziani continua a crescere nella Capitale. Il 5 settembre apre a Casalbertone una pizzeria da 60 coperti con i grandi …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/lelementare-nuova-pizzeria-casalbertone-roma/",
-        "pubDate": "2026-08-12T11:52:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’orto entra nel cocktail e si fa trend: dove provarlo",
-        "description": "Se il vegetale al centro è ormai un classico, nei ristoranti di fine dining e tra le tapas delle vinerie, è il momento di esplorare gli ortaggi nella mixology. …",
-        "link": "https://www.dissapore.com/bere/lorto-entra-nel-cocktail-e-si-fa-trend-dove-provarlo/",
-        "pubDate": "2026-08-12T11:45:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/assemblato-signature-cocktail-Aperitage-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A due passi da San Marco c’è la trattoria dove mangiano ancora i gondolieri di Venezia",
-        "description": "È aperta dal 1973, si nasconde sotto un ponte nel centro di Venezia e continua a essere frequentata dai gondolieri. Alla Rivetta si mangiano sarde in saor, moec…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/trattoria-gondolieri-venezia-san-marco/",
-        "pubDate": "2026-08-12T11:45:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’espansione di Compagnia del Gusto in Uk: l’acquisizione di Jascots rafforzerà la distribuzione dei vini italiani",
-        "description": "Il gruppo gestirà la distribuzione dell'attuale portafoglio internazionale del wine merchants nell'on-trade e utilizzerà la rete acquisita per portare sul merca…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/compagnia-del-gusto-acquisizione-distributore-vini-jascots/",
-        "pubDate": "2026-08-12T11:06:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come indossare i pantaloncini track: 5 look dallo street style da cui lasciarsi ispirare",
-        "description": "Quest’inverno c’erano i modelli lunghi a spopolare per le strade delle capitali europee, a distanza di qualche mese i track pants sono tornati nuovamente sotto …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-pantaloncini-track-pants-tuta-donna-estate-abbinamenti-sportivi-eleganti-992326",
-        "pubDate": "2026-08-12T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_track_pants.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Prima che diventasse una moda, sull’Etna facevano già Metodo Classico con il nerello mascalese",
-        "description": "Murgo ha iniziato a sperimentare il Metodo Classico da nerello mascalese tra la fine degli anni Ottanta e i primi Novanta. Oggi quella scelta arriva fino a una …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/murgo-metodo-classico-etna-nerello-mascalese/",
-        "pubDate": "2026-08-12T09:47:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vino, orto, animali. Da Alois Lageder l’enoturismo è un’immersione nella natura",
-        "description": "A Magrè sulla Strada del Vino, la cantina dei fratelli Lageder ha trasformato le visite guidate in un percorso che parte dai filari e arriva a tavola, mostrando…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/alto-adige-cantina-alois-lageder-enoturismo/",
-        "pubDate": "2026-08-12T08:51:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Come Pulire la Lavatrice: consigli e rimedi per eliminare il cattivo odore",
+        "description": "Se il bucato non è più profumato come una volta significa che non avete riservato la giusta cura alla vostra Lavatrice. Ecco dunque una guida per rimediare subi…",
+        "link": "https://www.stylosophy.it/articolo/come-pulire-la-lavatrice-consigli-eliminare-il-cattivo-odore/180941/",
+        "pubDate": "2026-08-13T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Giulia De Lellis sfoggia lo slip dress must di questa stagione FOTO",
+        "description": "Giulia De Lellis non rinuncia allo stile più trendy e glamour e sfoggia l'abito a sottoveste in satin e pizzo perfetto per questa stagione.…",
+        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-sfoggia-lo-slip-dress-must-di-questa-stagione-foto/253411/",
+        "pubDate": "2026-08-13T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "In partenza per le vacanze? Ecco gli abiti estivi da mettere in valigia all’ultimo",
         "description": "Le vacanze sono praticamente arrivate, ci sono ancora gli ultimi bagagli da preparare e la domanda che ci ronza in testa è sempre la stessa: cosa mettere in val…",
@@ -284,18 +302,18 @@
         "source": "Grazia"
       },
       {
-        "title": "Il pezzo low cost IKEA che ti aiuterà a creare un perfetto angolo stireria a casa tua",
-        "description": "Il celebre carrello RÅSKOG può diventare una piccola postazione mobile per tenere in ordine ferro, spray e accessori per la stiratura anche quando lo spazio in …",
-        "link": "https://www.stylosophy.it/articolo/il-pezzo-low-cost-ikea-che-ti-aiutera-a-creare-un-perfetto-angolo-stireria/253349/",
+        "title": "Il vecchio mobile della nonna può diventare il pezzo più bello della tua casa moderna",
+        "description": "Mobili vintage e design contemporaneo possono convivere e rendere gli ambienti unici. Ecco le regole da seguire per trovare il giusto equilibrio...…",
+        "link": "https://www.stylosophy.it/articolo/il-vecchio-mobile-della-nonna-puo-diventare-il-pezzo-piu-bello-della-tua-casa-moderna/253339/",
         "pubDate": "2026-08-10T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Il vecchio mobile della nonna può diventare il pezzo più bello della tua casa moderna",
-        "description": "Mobili vintage e design contemporaneo possono convivere e rendere gli ambienti unici. Ecco le regole da seguire per trovare il giusto equilibrio...…",
-        "link": "https://www.stylosophy.it/articolo/il-vecchio-mobile-della-nonna-puo-diventare-il-pezzo-piu-bello-della-tua-casa-moderna/253339/",
+        "title": "Il pezzo low cost IKEA che ti aiuterà a creare un perfetto angolo stireria a casa tua",
+        "description": "Il celebre carrello RÅSKOG può diventare una piccola postazione mobile per tenere in ordine ferro, spray e accessori per la stiratura anche quando lo spazio in …",
+        "link": "https://www.stylosophy.it/articolo/il-pezzo-low-cost-ikea-che-ti-aiutera-a-creare-un-perfetto-angolo-stireria/253349/",
         "pubDate": "2026-08-10T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
@@ -320,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Niacinamide, il segreto beauty non solo della pelle ma anche dei Capelli: proprietà e prodotti da provare",
-        "description": "La Niacinamide è un potente elisir di bellezza per la pelle ma non solo, anche per i Capelli. Scopriamo insieme proprietà, benefici e prodotti da provare...…",
-        "link": "https://www.stylosophy.it/articolo/niacinamide-per-i-capelli-proprieta-e-prodotti-da-provare/200037/",
-        "pubDate": "2026-08-10T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "I costumi da sfoggiare a 50 anni? Ecco i modelli che vi suggeriamo di aggiungere subito alla shopping list",
         "description": "L’estate sta entrando nel vivo, le ferie sono sempre più vicine e questo significa che è arrivato il momento di far spazio nell’armadio a qualche nuovo costume …",
         "link": "https://www.grazia.it/moda/tendenze-moda/costumi-da-bagno-per-donne-over-50-anni-intero-bikini-look-mare-estate-spiaggia-984406",
@@ -336,15 +345,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/jlo-costume-da-bagno-50-anni.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Hai tante piante in casa? Questi accessori IKEA ti semplificano davvero la vita",
-        "description": "Dal nebulizzatore alla mini serra, gli accessori IKEA che aiutano a prendersi cura delle piante e rendono più semplice il giardinaggio indoor.…",
-        "link": "https://www.stylosophy.it/articolo/hai-tante-piante-in-casa-questi-accessori-ikea-ti-semplificano-davvero-la-vita/253323/",
-        "pubDate": "2026-08-09T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       },
       {
         "title": "Estate in montagna? Questi sono i capi e gli accessori da mettere subito in valigia",
@@ -367,6 +367,69 @@
     ],
     "lifestyle": [
       {
+        "title": "Una delle pizzerie più ambite di Milano cambia volto. E ora si potrà mangiare anche senza prenotare",
+        "description": "Confine approfitta della pausa estiva per rifare cucina e bar. Alla riapertura arriveranno posti al bancone senza prenotazione, mentre resta il menu degustazion…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/confine-milano-pizzeria-riapertura-senza-prenotazione/",
+        "pubDate": "2026-08-13T15:15:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel paese del Lazio dove le bufale sono più degli abitanti si fa una mozzarella ancora mozzata a mano",
+        "description": "Nella Valle dell’Amaseno ci sono circa 14mila bufale e una tradizione casearia antichissima. Qui una famiglia partita con appena 10 animali oggi ne alleva 800 e…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/amaseno-mozzarella-bufala-lazio/",
+        "pubDate": "2026-08-13T15:09:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il cibo ultra processato sta per avere una definizione",
+        "description": "Il Dipartimento della salute e quell' dell'agricoltura statunitensi hanno presentato ufficialmente una proposta di definizione per gli alimenti ultra-processati…",
+        "link": "https://www.dissapore.com/notizie/il-cibo-ultra-processato-sta-per-avere-una-definizione/",
+        "pubDate": "2026-08-13T15:01:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/junk-food-burger-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Appena fuori dall’autostrada c’è una granita di ricotta di bufala che vale il viaggio",
+        "description": "Vicino all'uscita di Milazzo, sulla Messina-Palermo, una famiglia che alleva 400 bufale prepara una granita di ricotta con capperi caramellati alla Malvasia. Ed…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/granita-ricotta-bufala-tenuta-anasita-milazzo/",
+        "pubDate": "2026-08-13T14:54:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La caramella delle nonne compie 100 anni. Perché si chiama Rossana e chi l’ha inventata",
+        "description": "Nata nel 1926 in casa Perugina, con il suo incarto rosso e il cuore cremoso al latte e nocciole ha attraversato generazioni di italiani. Il nome arriva da Cyran…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rossana-100-anni-storia-caramella/",
+        "pubDate": "2026-08-13T14:47:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’ascesa dei Crémant e la disfatta del Bordeaux. Chi sale e chi scende nelle vendite estere",
+        "description": "Nel primo quadrimestre 2026 i vini Dop europei appaiono in difficoltà sui mercati esteri con qualche eccezione. Tra i bianchi italiani segno più per Sicilia e T…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vini-dop-europei-primo-quadrimestre-2026-cremant-champagne/",
+        "pubDate": "2026-08-13T14:15:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il polpo è troppo intelligente per essere allevato?",
+        "description": "Il più grande allevamento di polpi europeo, e uno dei pochissimi esperimenti di allevamento nel mondo ha appena chiuso e i motivi sono un mistero.\nL'articolo Il…",
+        "link": "https://www.dissapore.com/notizie/il-polpo-e-troppo-intelligente-per-essere-allevato/",
+        "pubDate": "2026-08-13T13:34:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/polpo-pescato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Semifreddo all’arancia: il dolce fresco e profumato che conquista al primo assaggio",
         "description": "Il semifreddo all’arancia, dolce freddo senza uova preparato con panna montata, agrumi, mandorle tostate e copertura di cioccolato fondente, torna utile oggi ne…",
         "link": "https://www.gustoblog.it/2026/08/13/semifreddo-allarancia-il-dolce-fresco-e-profumato-che-conquista-al-primo-assaggio/",
@@ -376,6 +439,24 @@
         "source": "Gustoblog"
       },
       {
+        "title": "Questo grande bianco nasce da vecchie vigne a piede franco e costa solo 16 euro",
+        "description": "Il San Martino della Battaglia Ottocento 2024 di Pratello nasce da vecchie vigne a piede franco sul Lago di Garda. Costa circa 16 euro, ha ottenuto 93 punti ed …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/ottocento-pratello-san-martino-battaglia-vino/",
+        "pubDate": "2026-08-13T09:20:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Primitivo si beve troppo caldo. Perché questo grande rosso pugliese può finire in frigo",
+        "description": "Il Monte Diavoli 2021 di Masseria Cuturi, già tra i 50 Vini Rari del Gambero Rosso, è stato premiato come miglior Primitivo di Manduria DOP a Carosino…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/primitivo-temperatura-servizio-frigo/",
+        "pubDate": "2026-08-13T09:13:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Un caciocavallo sta facendo arrabbiare i tifosi dell’Avellino",
         "description": "L'Avellino presenta una collezione di maglie dedicate al territorio, che però non convincono troppo i tifosi. O forse sì. \nL'articolo Un caciocavallo sta facend…",
         "link": "https://www.dissapore.com/notizie/un-caciocavallo-sta-facendo-arrabbiare-i-tifosi-dellavellino/",
@@ -383,6 +464,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/maglie-avellino-calcio.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "La finestra sull’Unesco: tra le colline del Prosecco Superiore c’è uno spazio dove il vino diventa esperienza",
+        "description": "A Col San Martino, il Merotto Space rappresenta il punto di incontro tra la cantina, i vigneti e chi desidera conoscere da vicino l'universo del Conegliano Vald…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/merotto-space-prosecco-superiore-enoturismo/",
+        "pubDate": "2026-08-13T08:57:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questi spaghetti sono dolci, con ketchup alla banana e hot dog. Nelle Filippine sono un piatto tradizionale",
+        "description": "I Filipino spaghetti mescolano salsa di pomodoro dolce, carne macinata, hot dog e il celebre banana ketchup. Dietro uno dei comfort food più amati del Paese c'è…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/filipino-spaghetti-dolci-ketchup-banana-hot-dog/",
+        "pubDate": "2026-08-13T07:27:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Caldo e siccità travolgono l’agricoltura: crollano ortaggi, frutta, olio e latte",
@@ -398,15 +497,6 @@
         "description": "Damiano Ferraro si è formato tra Svizzera, Londra e Le Gavroche dei fratelli Roux. Poi il ritorno a Montallegro, nell'Agrigentino, dove con la moglie Adriana Ba…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/damiano-ferraro-capitolo-primo-montallegro-sicilia/",
         "pubDate": "2026-08-13T05:57:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Solo due forni in Sicilia producono questo biscotto speziato (che va inzuppato nella granita al limone)",
-        "description": "Si chiama biscotto castriciano e si produce nel borgo messinese di Castroreale. La ricetta segreta si deve alle suore clarisse e ogni anno ad agosto ha una sagr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biscotto-castriciano-castroreale-granita-al-limone/",
-        "pubDate": "2026-08-13T05:34:41+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -448,15 +538,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Una delle pizze più basse di Roma apre a settembre a Casalbertone",
-        "description": "L’Elementare di Mirko Rizzo e Federico Feliziani continua a crescere nella Capitale. Il 5 settembre apre a Casalbertone una pizzeria da 60 coperti con i grandi …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/lelementare-nuova-pizzeria-casalbertone-roma/",
-        "pubDate": "2026-08-12T11:52:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "L’orto entra nel cocktail e si fa trend: dove provarlo",
         "description": "Se il vegetale al centro è ormai un classico, nei ristoranti di fine dining e tra le tapas delle vinerie, è il momento di esplorare gli ortaggi nella mixology. …",
         "link": "https://www.dissapore.com/bere/lorto-entra-nel-cocktail-e-si-fa-trend-dove-provarlo/",
@@ -464,87 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/assemblato-signature-cocktail-Aperitage-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "A due passi da San Marco c’è la trattoria dove mangiano ancora i gondolieri di Venezia",
-        "description": "È aperta dal 1973, si nasconde sotto un ponte nel centro di Venezia e continua a essere frequentata dai gondolieri. Alla Rivetta si mangiano sarde in saor, moec…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/trattoria-gondolieri-venezia-san-marco/",
-        "pubDate": "2026-08-12T11:45:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’espansione di Compagnia del Gusto in Uk: l’acquisizione di Jascots rafforzerà la distribuzione dei vini italiani",
-        "description": "Il gruppo gestirà la distribuzione dell'attuale portafoglio internazionale del wine merchants nell'on-trade e utilizzerà la rete acquisita per portare sul merca…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/compagnia-del-gusto-acquisizione-distributore-vini-jascots/",
-        "pubDate": "2026-08-12T11:06:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Prima che diventasse una moda, sull’Etna facevano già Metodo Classico con il nerello mascalese",
-        "description": "Murgo ha iniziato a sperimentare il Metodo Classico da nerello mascalese tra la fine degli anni Ottanta e i primi Novanta. Oggi quella scelta arriva fino a una …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/murgo-metodo-classico-etna-nerello-mascalese/",
-        "pubDate": "2026-08-12T09:47:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vino, orto, animali. Da Alois Lageder l’enoturismo è un’immersione nella natura",
-        "description": "A Magrè sulla Strada del Vino, la cantina dei fratelli Lageder ha trasformato le visite guidate in un percorso che parte dai filari e arriva a tavola, mostrando…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/alto-adige-cantina-alois-lageder-enoturismo/",
-        "pubDate": "2026-08-12T08:51:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I caciocavalli stagionano in antiche grotte. Ora arriva un negozio interamente dedicato a loro",
-        "description": "Ad Avellino apre il 20 agosto la nuova Caciocavalleria della famiglia Di Cecca. Arriva dall’Alta Irpinia, dove i formaggi maturano nelle grotte di Calitri, e po…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caciocavalli-grotte-caciocavalleria-avellino/",
-        "pubDate": "2026-08-12T08:44:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Parigi c’è un bistrot dove mangiare i grandi classici francesi a prezzi ancora umani",
-        "description": "A due passi dall’Arco di Trionfo, Bistro Blandine riunisce in una sola carta soupe à l’oignon, œufs mayonnaise, cordon bleu, bœuf bourguignon, tarte Tatin e Par…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/bistrot-parigi-classici-francesi-prezzi-bistro-blandine/",
-        "pubDate": "2026-08-12T08:39:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’abito più spettacolare di “Diamanti” è fatto con le carte delle Rossana: ci sono voluti 160 metri di tessuto",
-        "description": "Il film di Ferzan Özpetek è tra i titoli più visti su Netflix. Uno dei suoi costumi più memorabili è stato realizzato con gli incarti delle storiche caramelle R…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/diamanti-abito-carte-caramelle-rossana/",
-        "pubDate": "2026-08-12T07:54:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Granchio blu, dall’emergenza alla risorsa: la sfida tra contenimento, cosmetica e ricerca biochimica",
-        "description": "Il granchio blu continua a mettere sotto pressione allevamenti di vongole, peschiere e lagune italiane nell’estate 2026, soprattutto tra Veneto, Emilia-Romagna …",
-        "link": "https://www.gustoblog.it/2026/08/12/granchio-blu-dallemergenza-alla-risorsa-la-sfida-tra-contenimento-cosmetica-e-ricerca-biochimica/",
-        "pubDate": "2026-08-12T06:03:16+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Triglie ripiene: il secondo di mare semplice e ricco di sapore",
-        "description": "Le triglie ripiene, piatto della cucina italiana di mare, si preparano in casa con pesce fresco, pangrattato, aglio, rosmarino, olio extravergine d’oliva e limo…",
-        "link": "https://www.gustoblog.it/2026/08/11/triglie-ripiene-il-secondo-di-mare-semplice-e-ricco-di-sapore/",
-        "pubDate": "2026-08-11T19:02:56+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
