@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-13T07:26:21.811171+00:00",
+  "generated": "2026-08-13T13:10:39.431675+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Semifreddo all’arancia: il dolce fresco e profumato che conquista al primo assaggio",
+        "description": "Il semifreddo all’arancia, dolce freddo senza uova preparato con panna montata, agrumi, mandorle tostate e copertura di cioccolato fondente, torna utile oggi ne…",
+        "link": "https://www.gustoblog.it/2026/08/13/semifreddo-allarancia-il-dolce-fresco-e-profumato-che-conquista-al-primo-assaggio/",
+        "pubDate": "2026-08-13T13:02:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "In partenza per le vacanze? Ecco gli abiti estivi da mettere in valigia all’ultimo",
+        "description": "Le vacanze sono praticamente arrivate, ci sono ancora gli ultimi bagagli da preparare e la domanda che ci ronza in testa è sempre la stessa: cosa mettere in val…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-estivi-da-infilare-in-valigia-all-ultimo-minuto-vacanze-freschi-chic-estate-zara-mango-992430",
+        "pubDate": "2026-08-13T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Vestiti_vacanze.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Un caciocavallo sta facendo arrabbiare i tifosi dell’Avellino",
+        "description": "L'Avellino presenta una collezione di maglie dedicate al territorio, che però non convincono troppo i tifosi. O forse sì. \nL'articolo Un caciocavallo sta facend…",
+        "link": "https://www.dissapore.com/notizie/un-caciocavallo-sta-facendo-arrabbiare-i-tifosi-dellavellino/",
+        "pubDate": "2026-08-13T09:07:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/maglie-avellino-calcio.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Caldo e siccità travolgono l’agricoltura: crollano ortaggi, frutta, olio e latte",
         "description": "L’agricoltura italiana è sotto pressione nell’estate 2026, dal Nord alle aree interne del Centro-Sud, perché caldo prolungato, siccità e rincari di carburanti e…",
@@ -10,6 +37,33 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Ha speso anche i soldi del viaggio di nozze per aprire un ristorante nel suo paese in Sicilia",
+        "description": "Damiano Ferraro si è formato tra Svizzera, Londra e Le Gavroche dei fratelli Roux. Poi il ritorno a Montallegro, nell'Agrigentino, dove con la moglie Adriana Ba…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/damiano-ferraro-capitolo-primo-montallegro-sicilia/",
+        "pubDate": "2026-08-13T05:57:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Solo due forni in Sicilia producono questo biscotto speziato (che va inzuppato nella granita al limone)",
+        "description": "Si chiama biscotto castriciano e si produce nel borgo messinese di Castroreale. La ricetta segreta si deve alle suore clarisse e ogni anno ad agosto ha una sagr…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biscotto-castriciano-castroreale-granita-al-limone/",
+        "pubDate": "2026-08-13T05:34:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Borse estive bellissime e dove trovarle: ecco le varianti che eleveranno tutti i vostri look (anche da spiaggia)",
+        "description": "In estate ci sono accessori che più di tutti raccontano l&#8217;arrivo dell&#8217;estate: le borse da spiaggia. Se pensate che siano soltanto contenitori capien…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/borse-estive-da-spiaggia-da-mare-rafia-tela-borsa-paglia-crochet-shopper-estate-2026-983248",
+        "pubDate": "2026-08-13T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/borsa-estate-spiaggia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Colli Bolognesi, il 9 settembre torna a Bologna la Mostra Assaggio",
@@ -127,63 +181,27 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "I caciocavalli stagionano in antiche grotte. Ora arriva un negozio interamente dedicato a loro",
-        "description": "Ad Avellino apre il 20 agosto la nuova Caciocavalleria della famiglia Di Cecca. Arriva dall’Alta Irpinia, dove i formaggi maturano nelle grotte di Calitri, e po…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caciocavalli-grotte-caciocavalleria-avellino/",
-        "pubDate": "2026-08-12T08:44:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Parigi c’è un bistrot dove mangiare i grandi classici francesi a prezzi ancora umani",
-        "description": "A due passi dall’Arco di Trionfo, Bistro Blandine riunisce in una sola carta soupe à l’oignon, œufs mayonnaise, cordon bleu, bœuf bourguignon, tarte Tatin e Par…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/bistrot-parigi-classici-francesi-prezzi-bistro-blandine/",
-        "pubDate": "2026-08-12T08:39:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’abito più spettacolare di “Diamanti” è fatto con le carte delle Rossana: ci sono voluti 160 metri di tessuto",
-        "description": "Il film di Ferzan Özpetek è tra i titoli più visti su Netflix. Uno dei suoi costumi più memorabili è stato realizzato con gli incarti delle storiche caramelle R…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/diamanti-abito-carte-caramelle-rossana/",
-        "pubDate": "2026-08-12T07:54:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo quasi due anni riapre una storica fraschetta dei Castelli Romani: cosa cambia e cosa resta",
-        "description": "Dal 14 agosto Hosteria Amedeo torna a Monte Porzio Catone dopo una lunga ristrutturazione: nuovi spazi e cucina ridisegnata, mentre restano trippa, coratella, a…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/hosteria-amedeo-riapre-monte-porzio-catone/",
-        "pubDate": "2026-08-12T06:51:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sedano, carota e cipolla? Non sempre: ecco come cambia il soffritto nel resto del mondo",
-        "description": "Dal burro francese al pomodoro spagnolo, fino alla Holy Trinity della Louisiana e al wok cinese con aglio e zenzero: le basi aromatiche cambiano ingredienti, gr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/soffritto-nel-mondo-francia-spagna-cina-louisiana/",
-        "pubDate": "2026-08-12T06:30:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Granchio blu, dall’emergenza alla risorsa: la sfida tra contenimento, cosmetica e ricerca biochimica",
-        "description": "Il granchio blu continua a mettere sotto pressione allevamenti di vongole, peschiere e lagune italiane nell’estate 2026, soprattutto tra Veneto, Emilia-Romagna …",
-        "link": "https://www.gustoblog.it/2026/08/12/granchio-blu-dallemergenza-alla-risorsa-la-sfida-tra-contenimento-cosmetica-e-ricerca-biochimica/",
-        "pubDate": "2026-08-12T06:03:16+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ],
     "moda": [
+      {
+        "title": "In partenza per le vacanze? Ecco gli abiti estivi da mettere in valigia all’ultimo",
+        "description": "Le vacanze sono praticamente arrivate, ci sono ancora gli ultimi bagagli da preparare e la domanda che ci ronza in testa è sempre la stessa: cosa mettere in val…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-estivi-da-infilare-in-valigia-all-ultimo-minuto-vacanze-freschi-chic-estate-zara-mango-992430",
+        "pubDate": "2026-08-13T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Vestiti_vacanze.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Borse estive bellissime e dove trovarle: ecco le varianti che eleveranno tutti i vostri look (anche da spiaggia)",
+        "description": "In estate ci sono accessori che più di tutti raccontano l&#8217;arrivo dell&#8217;estate: le borse da spiaggia. Se pensate che siano soltanto contenitori capien…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/borse-estive-da-spiaggia-da-mare-rafia-tela-borsa-paglia-crochet-shopper-estate-2026-983248",
+        "pubDate": "2026-08-13T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/borsa-estate-spiaggia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Macchie scure in estate: come trattarle e renderle meno visibili",
         "description": "Sole, caldo e irritazioni possono accentuare l’iperpigmentazione: ecco come costruire una routine estiva efficace, senza stressare la pelle.…",
@@ -345,27 +363,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_maxi_abiti_estate.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Francesca Chillemi ci ricorda perché gli abiti bianchi sono uno dei grandi must dell’estate (e noi vi mostriamo 7 modelli super chic da puntare al volo)",
-        "description": "Sono uno dei capi estivi per eccellenza, uno di quei modelli che rispolveriamo all’inizio della stagione e che ci teniamo addosso fino a Settembre: specialmente…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/francesca-chillemi-look-vestito-bianco-abiti-bianchi-zara-mango-eleganti-midi-attrice-viola-come-il-mare-991867",
-        "pubDate": "2026-08-07T09:31:35+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Abito_bianco_Francesca_Chillemi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Charlize Theron, Dua Lipa, Kaia Gerber e tutte le star meglio vestite della settimana",
-        "description": "La stagione delle première continua a regalare momenti di moda memorabili. Tra red carpet internazionali e photocall esclusivi, le celeb confermano ancora una v…",
-        "link": "https://www.grazia.it/moda/celebrity-style/charlize-theron-dua-lipa-kaia-gerber-look-abiti-red-carpet-star-meglio-vestite-settimana-991513",
-        "pubDate": "2026-08-07T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/ok-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Semifreddo all’arancia: il dolce fresco e profumato che conquista al primo assaggio",
+        "description": "Il semifreddo all’arancia, dolce freddo senza uova preparato con panna montata, agrumi, mandorle tostate e copertura di cioccolato fondente, torna utile oggi ne…",
+        "link": "https://www.gustoblog.it/2026/08/13/semifreddo-allarancia-il-dolce-fresco-e-profumato-che-conquista-al-primo-assaggio/",
+        "pubDate": "2026-08-13T13:02:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Un caciocavallo sta facendo arrabbiare i tifosi dell’Avellino",
+        "description": "L'Avellino presenta una collezione di maglie dedicate al territorio, che però non convincono troppo i tifosi. O forse sì. \nL'articolo Un caciocavallo sta facend…",
+        "link": "https://www.dissapore.com/notizie/un-caciocavallo-sta-facendo-arrabbiare-i-tifosi-dellavellino/",
+        "pubDate": "2026-08-13T09:07:47+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/maglie-avellino-calcio.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Caldo e siccità travolgono l’agricoltura: crollano ortaggi, frutta, olio e latte",
         "description": "L’agricoltura italiana è sotto pressione nell’estate 2026, dal Nord alle aree interne del Centro-Sud, perché caldo prolungato, siccità e rincari di carburanti e…",
@@ -374,6 +392,24 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Ha speso anche i soldi del viaggio di nozze per aprire un ristorante nel suo paese in Sicilia",
+        "description": "Damiano Ferraro si è formato tra Svizzera, Londra e Le Gavroche dei fratelli Roux. Poi il ritorno a Montallegro, nell'Agrigentino, dove con la moglie Adriana Ba…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/damiano-ferraro-capitolo-primo-montallegro-sicilia/",
+        "pubDate": "2026-08-13T05:57:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Solo due forni in Sicilia producono questo biscotto speziato (che va inzuppato nella granita al limone)",
+        "description": "Si chiama biscotto castriciano e si produce nel borgo messinese di Castroreale. La ricetta segreta si deve alle suore clarisse e ogni anno ad agosto ha una sagr…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biscotto-castriciano-castroreale-granita-al-limone/",
+        "pubDate": "2026-08-13T05:34:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Colli Bolognesi, il 9 settembre torna a Bologna la Mostra Assaggio",
@@ -493,24 +529,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dopo quasi due anni riapre una storica fraschetta dei Castelli Romani: cosa cambia e cosa resta",
-        "description": "Dal 14 agosto Hosteria Amedeo torna a Monte Porzio Catone dopo una lunga ristrutturazione: nuovi spazi e cucina ridisegnata, mentre restano trippa, coratella, a…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/hosteria-amedeo-riapre-monte-porzio-catone/",
-        "pubDate": "2026-08-12T06:51:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sedano, carota e cipolla? Non sempre: ecco come cambia il soffritto nel resto del mondo",
-        "description": "Dal burro francese al pomodoro spagnolo, fino alla Holy Trinity della Louisiana e al wok cinese con aglio e zenzero: le basi aromatiche cambiano ingredienti, gr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/soffritto-nel-mondo-francia-spagna-cina-louisiana/",
-        "pubDate": "2026-08-12T06:30:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Granchio blu, dall’emergenza alla risorsa: la sfida tra contenimento, cosmetica e ricerca biochimica",
         "description": "Il granchio blu continua a mettere sotto pressione allevamenti di vongole, peschiere e lagune italiane nell’estate 2026, soprattutto tra Veneto, Emilia-Romagna …",
         "link": "https://www.gustoblog.it/2026/08/12/granchio-blu-dallemergenza-alla-risorsa-la-sfida-tra-contenimento-cosmetica-e-ricerca-biochimica/",
@@ -524,24 +542,6 @@
         "description": "Le triglie ripiene, piatto della cucina italiana di mare, si preparano in casa con pesce fresco, pangrattato, aglio, rosmarino, olio extravergine d’oliva e limo…",
         "link": "https://www.gustoblog.it/2026/08/11/triglie-ripiene-il-secondo-di-mare-semplice-e-ricco-di-sapore/",
         "pubDate": "2026-08-11T19:02:56+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "C’è un caffè di Barcellona che ha qualcosa da dire sul gelato",
-        "description": "Il nuovo trend Instagram mostra gelati dalle forme insolite, sono nati in un caffè sperimentale di Barcellona, e sono il frutto di un'idea che avrà seguito.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/ce-un-caffe-di-barcellona-che-ha-qualcosa-da-dire-sul-gelato/",
-        "pubDate": "2026-08-11T14:46:43+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pasta con le fragole: l’abbinamento sorprendente che conquista la tavola",
-        "description": "La pasta con le fragole, conosciuta in Polonia come makaron z truskawkami, è tornata al centro della curiosità gastronomica nell’estate 2025 dopo le parole dell…",
-        "link": "https://www.gustoblog.it/2026/08/11/pasta-con-le-fragole-labbinamento-sorprendente-che-conquista-la-tavola/",
-        "pubDate": "2026-08-11T13:03:02+00:00",
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
