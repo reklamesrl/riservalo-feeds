@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-14T07:24:00.698354+00:00",
+  "generated": "2026-08-14T13:05:29.905729+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Insalata di fichi, olive e cipolla rossa: il gusto fresco che sorprende",
+        "description": "A metà agosto, nelle cucine di casa e sulle tavole estive italiane, l’insalata di fichi, olive e cipolla rossa torna come piatto freddo rapido per due persone, …",
+        "link": "https://www.gustoblog.it/2026/08/14/insalata-di-fichi-olive-e-cipolla-rossa-il-gusto-fresco-che-sorprende/",
+        "pubDate": "2026-08-14T13:02:50+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Dakota Johnson e quelle ballerine nere che anche noi vogliamo assolutamente mettere in wishlist",
+        "description": "In estate non serve strafare per riuscire a essere impeccabili h24, senza bisogno di impegnarsi troppo. Soprattutto in quelle giornate in cui il caldo si fa sen…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-nere-accollate-eleganti-in-pelle-zara-punta-donna-dakota-johnson-992498",
+        "pubDate": "2026-08-14T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Ballerine_nere_Dakota_Johnson.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Il caldo sta sciogliendo il Parmigiano Reggiano",
+        "description": "Le banche del formaggio aumentano i consumi energetici per tenere al fresco il mezzo milione di forme di Parmigiano Reggiano che custodiscono a garanzia dei pre…",
+        "link": "https://www.dissapore.com/notizie/il-caldo-sta-sciogliendo-il-parmigiano-reggiano/",
+        "pubDate": "2026-08-14T09:28:25+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Fa più paura la crisi del vino o chi la deve risolvere?",
+        "description": "Fa più paura la crisi del vino o chi la deve risolvere? Senza un cambiamento reale nella classe dirigente, proprio mentre anche il sostegno pubblico rischia di …",
+        "link": "https://www.winemag.it/fa-piu-paura-la-crisi-del-vino-o-chi-la-deve-risolvere/",
+        "pubDate": "2026-08-14T09:08:54+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il wine relais sul Lago di Garda dove ritrovare il contatto con la natura",
+        "description": "Centro benessere nella campagna gardesana, Osteriia con i prodotti dell'orto e vino del territorio: le esperienze enoturistiche di Natiia Wine Relais sono all'i…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-natiia-wine-relais-lago-garda/",
+        "pubDate": "2026-08-14T09:01:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’enoteca di Milano dove bevevano Montanelli e Buzzati è ancora identica a 120 anni fa",
+        "description": "In via Solferino dal 1906: arredi originali, mille vini e una cantina di 500 metri quadrati. Ora Enoteca Cotti comincia una nuova vita…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/enoteca-cotti-milano-via-solferino/",
+        "pubDate": "2026-08-14T08:23:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In un piccolo paese bresciano c’è una pizzeria con 80 Champagne e pizze al Bagòss",
+        "description": "A San Faustino di Bione, Rock 1978 è la pizzeria della famiglia Zanoni: impasti contemporanei, prodotti bresciani e una cantina con 80 Champagne…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rock-1978-pizzeria-val-sabbia-fratelli-zanoni/",
+        "pubDate": "2026-08-14T08:07:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Coca-Cola con una pallina di gelato che gli americani bevono da oltre un secolo",
+        "description": "Si chiama Coke Float, nasce dalla cultura delle soda fountain e oggi è tornata popolare grazie ai social…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/coke-float-coca-cola-gelato-storia/",
+        "pubDate": "2026-08-14T07:05:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alle porte di Firenze c’è un vino rarissimo che nasce dalla muffa nobile. Se ne fanno appena mille bottiglie",
+        "description": "A Rosano, lungo la valle dell’Arno, Fattoria Petreto produce Pourriture Noble soltanto nelle annate favorevoli alla botrytis. Sauvignon Gris, Sémillon e Sauvign…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vino-muffa-nobile-firenze-fattoria-petreto/",
+        "pubDate": "2026-08-14T06:04:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Liquori e spirits italiani sfidano la crisi con export, cocktail e premiscelati",
         "description": "Nel 2025 l’industria italiana di liquori e spirits ha retto meglio dei concorrenti alla frenata globale dei consumi, chiudendo con 1,7 miliardi di euro di expor…",
@@ -10,6 +91,24 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Sulla strada per l’Argentario c’è una pasticceria dove i lievitati finiscono prima di mezzogiorno",
+        "description": "Ad Albinia, poco prima di Orbetello, Paolo Rufo prepara ogni mattina croissant, saccottini, choux e grandi lievitati. Millevoglie è diventata una tappa per chi …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-millevoglie-albinia-argentario-lievitati/",
+        "pubDate": "2026-08-14T05:38:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Costume intero: come abbinarlo con stile (e sfoggiarlo anche lontano dalla spiaggia)",
+        "description": "Concorderete con noi: niente urla “estate” più del costume da bagno. Sinonimo di vacanze, weekend fuori porta e giornate pieds dans l&#8217;eau, resta lui il re…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/costume-intero-come-abbinare-indossare-in-citta-look-abbinamenti-outfit-estivi-979851",
+        "pubDate": "2026-08-14T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_costume_intero.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Ciabotta, il sapore autentico della tradizione contadina",
@@ -75,15 +174,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "L’ascesa dei Crémant e la disfatta del Bordeaux. Chi sale e chi scende nelle vendite estere",
-        "description": "Nel primo quadrimestre 2026 i vini Dop europei appaiono in difficoltà sui mercati esteri con qualche eccezione. Tra i bianchi italiani segno più per Sicilia e T…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vini-dop-europei-primo-quadrimestre-2026-cremant-champagne/",
-        "pubDate": "2026-08-13T14:15:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il polpo è troppo intelligente per essere allevato?",
         "description": "Il più grande allevamento di polpi europeo, e uno dei pochissimi esperimenti di allevamento nel mondo ha appena chiuso e i motivi sono un mistero.\nL'articolo Il…",
         "link": "https://www.dissapore.com/notizie/il-polpo-e-troppo-intelligente-per-essere-allevato/",
@@ -91,99 +181,27 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/polpo-pescato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Semifreddo all’arancia: il dolce fresco e profumato che conquista al primo assaggio",
-        "description": "Il semifreddo all’arancia, dolce freddo senza uova preparato con panna montata, agrumi, mandorle tostate e copertura di cioccolato fondente, torna utile oggi ne…",
-        "link": "https://www.gustoblog.it/2026/08/13/semifreddo-allarancia-il-dolce-fresco-e-profumato-che-conquista-al-primo-assaggio/",
-        "pubDate": "2026-08-13T13:02:51+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Giulia De Lellis sfoggia lo slip dress must di questa stagione FOTO",
-        "description": "Giulia De Lellis non rinuncia allo stile più trendy e glamour e sfoggia l'abito a sottoveste in satin e pizzo perfetto per questa stagione.…",
-        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-sfoggia-lo-slip-dress-must-di-questa-stagione-foto/253411/",
-        "pubDate": "2026-08-13T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "In partenza per le vacanze? Ecco gli abiti estivi da mettere in valigia all’ultimo",
-        "description": "Le vacanze sono praticamente arrivate, ci sono ancora gli ultimi bagagli da preparare e la domanda che ci ronza in testa è sempre la stessa: cosa mettere in val…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-estivi-da-infilare-in-valigia-all-ultimo-minuto-vacanze-freschi-chic-estate-zara-mango-992430",
-        "pubDate": "2026-08-13T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Vestiti_vacanze.jpg",
+        "title": "Dakota Johnson e quelle ballerine nere che anche noi vogliamo assolutamente mettere in wishlist",
+        "description": "In estate non serve strafare per riuscire a essere impeccabili h24, senza bisogno di impegnarsi troppo. Soprattutto in quelle giornate in cui il caldo si fa sen…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-nere-accollate-eleganti-in-pelle-zara-punta-donna-dakota-johnson-992498",
+        "pubDate": "2026-08-14T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Ballerine_nere_Dakota_Johnson.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Questo grande bianco nasce da vecchie vigne a piede franco e costa solo 16 euro",
-        "description": "Il San Martino della Battaglia Ottocento 2024 di Pratello nasce da vecchie vigne a piede franco sul Lago di Garda. Costa circa 16 euro, ha ottenuto 93 punti ed …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/ottocento-pratello-san-martino-battaglia-vino/",
-        "pubDate": "2026-08-13T09:20:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Costume intero: come abbinarlo con stile (e sfoggiarlo anche lontano dalla spiaggia)",
+        "description": "Concorderete con noi: niente urla “estate” più del costume da bagno. Sinonimo di vacanze, weekend fuori porta e giornate pieds dans l&#8217;eau, resta lui il re…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/costume-intero-come-abbinare-indossare-in-citta-look-abbinamenti-outfit-estivi-979851",
+        "pubDate": "2026-08-14T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_costume_intero.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Il Primitivo si beve troppo caldo. Perché questo grande rosso pugliese può finire in frigo",
-        "description": "Il Monte Diavoli 2021 di Masseria Cuturi, già tra i 50 Vini Rari del Gambero Rosso, è stato premiato come miglior Primitivo di Manduria DOP a Carosino…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/primitivo-temperatura-servizio-frigo/",
-        "pubDate": "2026-08-13T09:13:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un caciocavallo sta facendo arrabbiare i tifosi dell’Avellino",
-        "description": "L'Avellino presenta una collezione di maglie dedicate al territorio, che però non convincono troppo i tifosi. O forse sì. \nL'articolo Un caciocavallo sta facend…",
-        "link": "https://www.dissapore.com/notizie/un-caciocavallo-sta-facendo-arrabbiare-i-tifosi-dellavellino/",
-        "pubDate": "2026-08-13T09:07:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/maglie-avellino-calcio.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La finestra sull’Unesco: tra le colline del Prosecco Superiore c’è uno spazio dove il vino diventa esperienza",
-        "description": "A Col San Martino, il Merotto Space rappresenta il punto di incontro tra la cantina, i vigneti e chi desidera conoscere da vicino l'universo del Conegliano Vald…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/merotto-space-prosecco-superiore-enoturismo/",
-        "pubDate": "2026-08-13T08:57:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questi spaghetti sono dolci, con ketchup alla banana e hot dog. Nelle Filippine sono un piatto tradizionale",
-        "description": "I Filipino spaghetti mescolano salsa di pomodoro dolce, carne macinata, hot dog e il celebre banana ketchup. Dietro uno dei comfort food più amati del Paese c'è…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/filipino-spaghetti-dolci-ketchup-banana-hot-dog/",
-        "pubDate": "2026-08-13T07:27:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Caldo e siccità travolgono l’agricoltura: crollano ortaggi, frutta, olio e latte",
-        "description": "L’agricoltura italiana è sotto pressione nell’estate 2026, dal Nord alle aree interne del Centro-Sud, perché caldo prolungato, siccità e rincari di carburanti e…",
-        "link": "https://www.gustoblog.it/2026/08/13/caldo-e-siccita-travolgono-lagricoltura-crollano-ortaggi-frutta-olio-e-latte/",
-        "pubDate": "2026-08-13T06:03:28+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Ha speso anche i soldi del viaggio di nozze per aprire un ristorante nel suo paese in Sicilia",
-        "description": "Damiano Ferraro si è formato tra Svizzera, Londra e Le Gavroche dei fratelli Roux. Poi il ritorno a Montallegro, nell'Agrigentino, dove con la moglie Adriana Ba…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/damiano-ferraro-capitolo-primo-montallegro-sicilia/",
-        "pubDate": "2026-08-13T05:57:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Come Pulire la Lavatrice: consigli e rimedi per eliminare il cattivo odore",
         "description": "Se il bucato non è più profumato come una volta significa che non avete riservato la giusta cura alla vostra Lavatrice. Ecco dunque una guida per rimediare subi…",
@@ -345,27 +363,81 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/jlo-costume-da-bagno-50-anni.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Estate in montagna? Questi sono i capi e gli accessori da mettere subito in valigia",
-        "description": "La montagna d&#8217;estate è una delle destinazioni più amate, ma preparare la valigia richiede un po&#8217; di strategia. Le temperature infatti possono cambia…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/capi-per-la-montagna-valigia-estate-vacanza-abbigliamento-scarpe-accessori-990988",
-        "pubDate": "2026-08-09T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_abbigliamenti_montagna.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "10 maxi abiti perfetti per tutta estate, day&night",
-        "description": "L’abito lungo è da sempre l’espressione naturale dello stile estivo. Versatile, elegante e sempre attuale, il maxi dress è il passe-partout ideale per creare ou…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/maxi-abiti-lunghi-eleganti-casual-da-giorno-sere-longdress-estate-2026-989685",
-        "pubDate": "2026-08-08T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_maxi_abiti_estate.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Insalata di fichi, olive e cipolla rossa: il gusto fresco che sorprende",
+        "description": "A metà agosto, nelle cucine di casa e sulle tavole estive italiane, l’insalata di fichi, olive e cipolla rossa torna come piatto freddo rapido per due persone, …",
+        "link": "https://www.gustoblog.it/2026/08/14/insalata-di-fichi-olive-e-cipolla-rossa-il-gusto-fresco-che-sorprende/",
+        "pubDate": "2026-08-14T13:02:50+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il caldo sta sciogliendo il Parmigiano Reggiano",
+        "description": "Le banche del formaggio aumentano i consumi energetici per tenere al fresco il mezzo milione di forme di Parmigiano Reggiano che custodiscono a garanzia dei pre…",
+        "link": "https://www.dissapore.com/notizie/il-caldo-sta-sciogliendo-il-parmigiano-reggiano/",
+        "pubDate": "2026-08-14T09:28:25+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Fa più paura la crisi del vino o chi la deve risolvere?",
+        "description": "Fa più paura la crisi del vino o chi la deve risolvere? Senza un cambiamento reale nella classe dirigente, proprio mentre anche il sostegno pubblico rischia di …",
+        "link": "https://www.winemag.it/fa-piu-paura-la-crisi-del-vino-o-chi-la-deve-risolvere/",
+        "pubDate": "2026-08-14T09:08:54+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il wine relais sul Lago di Garda dove ritrovare il contatto con la natura",
+        "description": "Centro benessere nella campagna gardesana, Osteriia con i prodotti dell'orto e vino del territorio: le esperienze enoturistiche di Natiia Wine Relais sono all'i…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-natiia-wine-relais-lago-garda/",
+        "pubDate": "2026-08-14T09:01:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’enoteca di Milano dove bevevano Montanelli e Buzzati è ancora identica a 120 anni fa",
+        "description": "In via Solferino dal 1906: arredi originali, mille vini e una cantina di 500 metri quadrati. Ora Enoteca Cotti comincia una nuova vita…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/enoteca-cotti-milano-via-solferino/",
+        "pubDate": "2026-08-14T08:23:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In un piccolo paese bresciano c’è una pizzeria con 80 Champagne e pizze al Bagòss",
+        "description": "A San Faustino di Bione, Rock 1978 è la pizzeria della famiglia Zanoni: impasti contemporanei, prodotti bresciani e una cantina con 80 Champagne…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rock-1978-pizzeria-val-sabbia-fratelli-zanoni/",
+        "pubDate": "2026-08-14T08:07:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Coca-Cola con una pallina di gelato che gli americani bevono da oltre un secolo",
+        "description": "Si chiama Coke Float, nasce dalla cultura delle soda fountain e oggi è tornata popolare grazie ai social…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/coke-float-coca-cola-gelato-storia/",
+        "pubDate": "2026-08-14T07:05:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alle porte di Firenze c’è un vino rarissimo che nasce dalla muffa nobile. Se ne fanno appena mille bottiglie",
+        "description": "A Rosano, lungo la valle dell’Arno, Fattoria Petreto produce Pourriture Noble soltanto nelle annate favorevoli alla botrytis. Sauvignon Gris, Sémillon e Sauvign…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vino-muffa-nobile-firenze-fattoria-petreto/",
+        "pubDate": "2026-08-14T06:04:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Liquori e spirits italiani sfidano la crisi con export, cocktail e premiscelati",
         "description": "Nel 2025 l’industria italiana di liquori e spirits ha retto meglio dei concorrenti alla frenata globale dei consumi, chiudendo con 1,7 miliardi di euro di expor…",
@@ -374,6 +446,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Sulla strada per l’Argentario c’è una pasticceria dove i lievitati finiscono prima di mezzogiorno",
+        "description": "Ad Albinia, poco prima di Orbetello, Paolo Rufo prepara ogni mattina croissant, saccottini, choux e grandi lievitati. Millevoglie è diventata una tappa per chi …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-millevoglie-albinia-argentario-lievitati/",
+        "pubDate": "2026-08-14T05:38:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Ciabotta, il sapore autentico della tradizione contadina",
@@ -430,15 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "L’ascesa dei Crémant e la disfatta del Bordeaux. Chi sale e chi scende nelle vendite estere",
-        "description": "Nel primo quadrimestre 2026 i vini Dop europei appaiono in difficoltà sui mercati esteri con qualche eccezione. Tra i bianchi italiani segno più per Sicilia e T…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vini-dop-europei-primo-quadrimestre-2026-cremant-champagne/",
-        "pubDate": "2026-08-13T14:15:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il polpo è troppo intelligente per essere allevato?",
         "description": "Il più grande allevamento di polpi europeo, e uno dei pochissimi esperimenti di allevamento nel mondo ha appena chiuso e i motivi sono un mistero.\nL'articolo Il…",
         "link": "https://www.dissapore.com/notizie/il-polpo-e-troppo-intelligente-per-essere-allevato/",
@@ -457,24 +529,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Questo grande bianco nasce da vecchie vigne a piede franco e costa solo 16 euro",
-        "description": "Il San Martino della Battaglia Ottocento 2024 di Pratello nasce da vecchie vigne a piede franco sul Lago di Garda. Costa circa 16 euro, ha ottenuto 93 punti ed …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/ottocento-pratello-san-martino-battaglia-vino/",
-        "pubDate": "2026-08-13T09:20:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Primitivo si beve troppo caldo. Perché questo grande rosso pugliese può finire in frigo",
-        "description": "Il Monte Diavoli 2021 di Masseria Cuturi, già tra i 50 Vini Rari del Gambero Rosso, è stato premiato come miglior Primitivo di Manduria DOP a Carosino…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/primitivo-temperatura-servizio-frigo/",
-        "pubDate": "2026-08-13T09:13:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Un caciocavallo sta facendo arrabbiare i tifosi dell’Avellino",
         "description": "L'Avellino presenta una collezione di maglie dedicate al territorio, che però non convincono troppo i tifosi. O forse sì. \nL'articolo Un caciocavallo sta facend…",
         "link": "https://www.dissapore.com/notizie/un-caciocavallo-sta-facendo-arrabbiare-i-tifosi-dellavellino/",
@@ -484,24 +538,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "La finestra sull’Unesco: tra le colline del Prosecco Superiore c’è uno spazio dove il vino diventa esperienza",
-        "description": "A Col San Martino, il Merotto Space rappresenta il punto di incontro tra la cantina, i vigneti e chi desidera conoscere da vicino l'universo del Conegliano Vald…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/merotto-space-prosecco-superiore-enoturismo/",
-        "pubDate": "2026-08-13T08:57:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questi spaghetti sono dolci, con ketchup alla banana e hot dog. Nelle Filippine sono un piatto tradizionale",
-        "description": "I Filipino spaghetti mescolano salsa di pomodoro dolce, carne macinata, hot dog e il celebre banana ketchup. Dietro uno dei comfort food più amati del Paese c'è…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/filipino-spaghetti-dolci-ketchup-banana-hot-dog/",
-        "pubDate": "2026-08-13T07:27:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Caldo e siccità travolgono l’agricoltura: crollano ortaggi, frutta, olio e latte",
         "description": "L’agricoltura italiana è sotto pressione nell’estate 2026, dal Nord alle aree interne del Centro-Sud, perché caldo prolungato, siccità e rincari di carburanti e…",
         "link": "https://www.gustoblog.it/2026/08/13/caldo-e-siccita-travolgono-lagricoltura-crollano-ortaggi-frutta-olio-e-latte/",
@@ -509,42 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Ha speso anche i soldi del viaggio di nozze per aprire un ristorante nel suo paese in Sicilia",
-        "description": "Damiano Ferraro si è formato tra Svizzera, Londra e Le Gavroche dei fratelli Roux. Poi il ritorno a Montallegro, nell'Agrigentino, dove con la moglie Adriana Ba…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/damiano-ferraro-capitolo-primo-montallegro-sicilia/",
-        "pubDate": "2026-08-13T05:57:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Colli Bolognesi, il 9 settembre torna a Bologna la Mostra Assaggio",
-        "description": "Il 9 settembre torna a Bologna la Mostra Assaggio Vini Colli Bolognesi, l&#8217;evento dedicato alla scoperta delle denominazioni del territorio promosso dal Co…",
-        "link": "https://www.winemag.it/colli-bolognesi-il-9-settembre-torna-a-bologna-la-mostra-assaggio/",
-        "pubDate": "2026-08-13T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Ndocca, la tradizione che sorprende e conquista",
-        "description": "La ’ndocca, piatto della tradizione contadina italiana preparato con le parti meno nobili del maiale, torna sulle tavole soprattutto nei mesi freddi, quando nel…",
-        "link": "https://www.gustoblog.it/2026/08/12/ndocca-la-tradizione-che-sorprende-e-conquista/",
-        "pubDate": "2026-08-12T19:03:20+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La raccolta notturna è la nuova normalità dell’agricoltura",
-        "description": "Le temperature estreme rendono il lavoro nei campi impossibile negli orari canonici, e l'agricoltura sta cambiando di conseguenza.\nL'articolo La raccolta nottur…",
-        "link": "https://www.dissapore.com/notizie/la-raccolta-notturna-e-la-nuova-normalita-dellagricoltura/",
-        "pubDate": "2026-08-12T14:00:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/raccolto-notturno-agricoltura-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
