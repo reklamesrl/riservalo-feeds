@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-13T19:02:35.645431+00:00",
+  "generated": "2026-08-14T07:24:00.698354+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Liquori e spirits italiani sfidano la crisi con export, cocktail e premiscelati",
+        "description": "Nel 2025 l’industria italiana di liquori e spirits ha retto meglio dei concorrenti alla frenata globale dei consumi, chiudendo con 1,7 miliardi di euro di expor…",
+        "link": "https://www.gustoblog.it/2026/08/14/liquori-e-spirits-italiani-sfidano-la-crisi-con-export-cocktail-e-premiscelati/",
+        "pubDate": "2026-08-14T06:03:06+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Ciabotta, il sapore autentico della tradizione contadina",
+        "description": "La ciabotta, piatto contadino della tradizione italiana preparato con zucchine, fagiolini, patate, pomodori, peperoni, sedano, carote e cipolle, torna nelle cuc…",
+        "link": "https://www.gustoblog.it/2026/08/13/ciabotta-il-sapore-autentico-della-tradizione-contadina/",
+        "pubDate": "2026-08-13T19:03:00+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Una delle pizzerie più ambite di Milano cambia volto. E ora si potrà mangiare anche senza prenotare",
         "description": "Confine approfitta della pausa estiva per rifare cucina e bar. Alla riapertura arriveranno posti al bancone senza prenotazione, mentre resta il menu degustazion…",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Borse estive bellissime e dove trovarle: ecco le varianti che eleveranno tutti i vostri look (anche da spiaggia)",
-        "description": "In estate ci sono accessori che più di tutti raccontano l&#8217;arrivo dell&#8217;estate: le borse da spiaggia. Se pensate che siano soltanto contenitori capien…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/borse-estive-da-spiaggia-da-mare-rafia-tela-borsa-paglia-crochet-shopper-estate-2026-983248",
-        "pubDate": "2026-08-13T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/borsa-estate-spiaggia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Colli Bolognesi, il 9 settembre torna a Bologna la Mostra Assaggio",
-        "description": "Il 9 settembre torna a Bologna la Mostra Assaggio Vini Colli Bolognesi, l&#8217;evento dedicato alla scoperta delle denominazioni del territorio promosso dal Co…",
-        "link": "https://www.winemag.it/colli-bolognesi-il-9-settembre-torna-a-bologna-la-mostra-assaggio/",
-        "pubDate": "2026-08-13T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Liquori e spirits italiani sfidano la crisi con export, cocktail e premiscelati",
+        "description": "Nel 2025 l’industria italiana di liquori e spirits ha retto meglio dei concorrenti alla frenata globale dei consumi, chiudendo con 1,7 miliardi di euro di expor…",
+        "link": "https://www.gustoblog.it/2026/08/14/liquori-e-spirits-italiani-sfidano-la-crisi-con-export-cocktail-e-premiscelati/",
+        "pubDate": "2026-08-14T06:03:06+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Ciabotta, il sapore autentico della tradizione contadina",
+        "description": "La ciabotta, piatto contadino della tradizione italiana preparato con zucchine, fagiolini, patate, pomodori, peperoni, sedano, carote e cipolle, torna nelle cuc…",
+        "link": "https://www.gustoblog.it/2026/08/13/ciabotta-il-sapore-autentico-della-tradizione-contadina/",
+        "pubDate": "2026-08-13T19:03:00+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "Una delle pizzerie più ambite di Milano cambia volto. E ora si potrà mangiare anche senza prenotare",
         "description": "Confine approfitta della pausa estiva per rifare cucina e bar. Alla riapertura arriveranno posti al bancone senza prenotazione, mentre resta il menu degustazion…",
         "link": "https://www.gamberorosso.it/notizie/attualita/confine-milano-pizzeria-riapertura-senza-prenotazione/",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/notizie/la-raccolta-notturna-e-la-nuova-normalita-dellagricoltura/",
         "pubDate": "2026-08-12T14:00:16+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/raccolto-notturno-agricoltura-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gnocchi allo zafferano, il primo cremoso che porta il sole in tavola",
-        "description": "Gli gnocchi allo zafferano tornano in tavola oggi, nelle cucine di casa e nei menu più attenti alla stagionalità, come primo piatto cremoso pensato per quattro …",
-        "link": "https://www.gustoblog.it/2026/08/12/gnocchi-allo-zafferano-il-primo-cremoso-che-porta-il-sole-in-tavola/",
-        "pubDate": "2026-08-12T13:03:08+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "L’orto entra nel cocktail e si fa trend: dove provarlo",
-        "description": "Se il vegetale al centro è ormai un classico, nei ristoranti di fine dining e tra le tapas delle vinerie, è il momento di esplorare gli ortaggi nella mixology. …",
-        "link": "https://www.dissapore.com/bere/lorto-entra-nel-cocktail-e-si-fa-trend-dove-provarlo/",
-        "pubDate": "2026-08-12T11:45:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/assemblato-signature-cocktail-Aperitage-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
