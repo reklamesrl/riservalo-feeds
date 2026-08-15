@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-15T12:36:35.090457+00:00",
+  "generated": "2026-08-15T18:28:30.137562+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Lasagne estive vegetariane: pomodori confit e basilico per un piatto irresistibile",
+        "description": "A Ferragosto 2026, nelle cucine di casa e nelle tavole all’aperto di tutta Italia, le lasagne estive vegetariane con pomodori confit e basilico tornano come alt…",
+        "link": "https://www.gustoblog.it/2026/08/15/lasagne-estive-vegetariane-pomodori-confit-e-basilico-per-un-piatto-irresistibile/",
+        "pubDate": "2026-08-15T13:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "A Genova ha aperto lo street food dei pescatori dove il menu cambia con quello che finisce nelle reti",
+        "description": "Il progetto Alalunga di Davide Busca e Mauro Mantero cresce con una nuova apertura nel cuore del centro storico. Qui il pesce arriva direttamente dalle reti dei…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/alalunga-genova-street-food-pescatori/",
+        "pubDate": "2026-08-15T10:52:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Dai campi al mare, il punto sui danni del caldo al settore agroalimentare",
         "description": "Un'indagine condotta de Legacoop tratteggia una situazione preoccupante da nord a sud, che impone un intervento pubblico coordinato.\nL'articolo Dai campi al mar…",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Sulla spiaggia di un piccolo paese calabrese c’è un cocktail bar dove si bevono gin tonic sorprendenti",
-        "description": "A Monasterace Marina tre amici hanno trasformato uno stabilimento balneare in un indirizzo per appassionati di gin e miscelazione…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/momapiu-monasterace-cocktail-bar-gin-tonic-calabria/",
-        "pubDate": "2026-08-14T13:01:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Certi vini costano troppo, bisogna avere il coraggio di non comprarli”. Parla uno dei grandi distributori italiani",
-        "description": "Luca Cuzziol interviene sul caso dei rincari e dei ricarichi del vino: produttori, distributori e ristoratori hanno tutti una parte di responsabilità. E chiede …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/luca-cuzziol-prezzi-ricarichi-vino-ristoranti/",
-        "pubDate": "2026-08-14T12:27:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Lasagne estive vegetariane: pomodori confit e basilico per un piatto irresistibile",
+        "description": "A Ferragosto 2026, nelle cucine di casa e nelle tavole all’aperto di tutta Italia, le lasagne estive vegetariane con pomodori confit e basilico tornano come alt…",
+        "link": "https://www.gustoblog.it/2026/08/15/lasagne-estive-vegetariane-pomodori-confit-e-basilico-per-un-piatto-irresistibile/",
+        "pubDate": "2026-08-15T13:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "A Genova ha aperto lo street food dei pescatori dove il menu cambia con quello che finisce nelle reti",
+        "description": "Il progetto Alalunga di Davide Busca e Mauro Mantero cresce con una nuova apertura nel cuore del centro storico. Qui il pesce arriva direttamente dalle reti dei…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/alalunga-genova-street-food-pescatori/",
+        "pubDate": "2026-08-15T10:52:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Dai campi al mare, il punto sui danni del caldo al settore agroalimentare",
         "description": "Un'indagine condotta de Legacoop tratteggia una situazione preoccupante da nord a sud, che impone un intervento pubblico coordinato.\nL'articolo Dai campi al mar…",
         "link": "https://www.dissapore.com/notizie/dai-campi-al-mare-il-punto-sui-danni-del-caldo-al-settore-agroalimentare/",
@@ -511,15 +529,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "“Certi vini costano troppo, bisogna avere il coraggio di non comprarli”. Parla uno dei grandi distributori italiani",
-        "description": "Luca Cuzziol interviene sul caso dei rincari e dei ricarichi del vino: produttori, distributori e ristoratori hanno tutti una parte di responsabilità. E chiede …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/luca-cuzziol-prezzi-ricarichi-vino-ristoranti/",
-        "pubDate": "2026-08-14T12:27:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il caldo sta sciogliendo il Parmigiano Reggiano",
         "description": "Le banche del formaggio aumentano i consumi energetici per tenere al fresco il mezzo milione di forme di Parmigiano Reggiano che custodiscono a garanzia dei pre…",
         "link": "https://www.dissapore.com/notizie/il-caldo-sta-sciogliendo-il-parmigiano-reggiano/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Liquori e spirits italiani sfidano la crisi con export, cocktail e premiscelati",
-        "description": "Nel 2025 l’industria italiana di liquori e spirits ha retto meglio dei concorrenti alla frenata globale dei consumi, chiudendo con 1,7 miliardi di euro di expor…",
-        "link": "https://www.gustoblog.it/2026/08/14/liquori-e-spirits-italiani-sfidano-la-crisi-con-export-cocktail-e-premiscelati/",
-        "pubDate": "2026-08-14T06:03:06+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
