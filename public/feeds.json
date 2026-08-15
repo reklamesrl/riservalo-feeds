@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-14T18:53:39.066901+00:00",
+  "generated": "2026-08-15T06:37:13.306196+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Dove mangiare sulle Dolomiti: masi autentici, sapori locali e cucina d’autore",
+        "description": "Nelle Dolomiti e in Alto Adige, nell’estate 2026, viaggiatori e appassionati di cucina salgono in quota per mangiare nei masi contadini, nelle baite e nei risto…",
+        "link": "https://www.gustoblog.it/2026/08/15/dove-mangiare-sulle-dolomiti-masi-autentici-sapori-locali-e-cucina-dautore/",
+        "pubDate": "2026-08-15T06:02:49+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Chiocce e patate: la strana alleanza che sorprende la campagna",
+        "description": "Le chiocce e patate, piatto di cucina domestica italiana preparato con zucchine, patate, cipolla, olio e prezzemolo, tornano in tavola oggi nelle case dove si c…",
+        "link": "https://www.gustoblog.it/2026/08/14/chiocce-e-patate-la-strana-alleanza-che-sorprende-la-campagna/",
+        "pubDate": "2026-08-14T19:02:44+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Rossetto fucsia: il colore dell’estate che illumina ogni incarnato (basta scegliere la tonalità giusta)!",
         "description": "Intramontabile, audace e sorprendentemente versatile, il rossetto fucsia torna protagonista dell’estate. Scopri come valorizzarlo al meglio, in base alla tua ca…",
@@ -163,24 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_costume_intero.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Ciabotta, il sapore autentico della tradizione contadina",
-        "description": "La ciabotta, piatto contadino della tradizione italiana preparato con zucchine, fagiolini, patate, pomodori, peperoni, sedano, carote e cipolle, torna nelle cuc…",
-        "link": "https://www.gustoblog.it/2026/08/13/ciabotta-il-sapore-autentico-della-tradizione-contadina/",
-        "pubDate": "2026-08-13T19:03:00+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il cibo ultra processato sta per avere una definizione",
-        "description": "Il Dipartimento della salute e quell' dell'agricoltura statunitensi hanno presentato ufficialmente una proposta di definizione per gli alimenti ultra-processati…",
-        "link": "https://www.dissapore.com/notizie/il-cibo-ultra-processato-sta-per-avere-una-definizione/",
-        "pubDate": "2026-08-13T15:01:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/junk-food-burger-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Dove mangiare sulle Dolomiti: masi autentici, sapori locali e cucina d’autore",
+        "description": "Nelle Dolomiti e in Alto Adige, nell’estate 2026, viaggiatori e appassionati di cucina salgono in quota per mangiare nei masi contadini, nelle baite e nei risto…",
+        "link": "https://www.gustoblog.it/2026/08/15/dove-mangiare-sulle-dolomiti-masi-autentici-sapori-locali-e-cucina-dautore/",
+        "pubDate": "2026-08-15T06:02:49+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Chiocce e patate: la strana alleanza che sorprende la campagna",
+        "description": "Le chiocce e patate, piatto di cucina domestica italiana preparato con zucchine, patate, cipolla, olio e prezzemolo, tornano in tavola oggi nelle case dove si c…",
+        "link": "https://www.gustoblog.it/2026/08/14/chiocce-e-patate-la-strana-alleanza-che-sorprende-la-campagna/",
+        "pubDate": "2026-08-14T19:02:44+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "Come scegliere il vino al ristorante (e non spendere più del necessario)",
         "description": "Dal budget al sommelier, pochi accorgimenti aiutano a orientarsi anche davanti a centinaia di etichette…",
         "link": "https://www.gamberorosso.it/notizie/attualita/come-scegliere-vino-ristorante-carta-vini/",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/notizie/il-polpo-e-troppo-intelligente-per-essere-allevato/",
         "pubDate": "2026-08-13T13:34:11+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/polpo-pescato-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Semifreddo all’arancia: il dolce fresco e profumato che conquista al primo assaggio",
-        "description": "Il semifreddo all’arancia, dolce freddo senza uova preparato con panna montata, agrumi, mandorle tostate e copertura di cioccolato fondente, torna utile oggi ne…",
-        "link": "https://www.gustoblog.it/2026/08/13/semifreddo-allarancia-il-dolce-fresco-e-profumato-che-conquista-al-primo-assaggio/",
-        "pubDate": "2026-08-13T13:02:51+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Un caciocavallo sta facendo arrabbiare i tifosi dell’Avellino",
-        "description": "L'Avellino presenta una collezione di maglie dedicate al territorio, che però non convincono troppo i tifosi. O forse sì. \nL'articolo Un caciocavallo sta facend…",
-        "link": "https://www.dissapore.com/notizie/un-caciocavallo-sta-facendo-arrabbiare-i-tifosi-dellavellino/",
-        "pubDate": "2026-08-13T09:07:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/maglie-avellino-calcio.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
