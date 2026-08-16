@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-16T12:38:08.567918+00:00",
+  "generated": "2026-08-16T18:28:03.357156+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Omero conosceva già i vini dell’Etna. Lo dimostra la “mappa enologica” seguita da Ulisse (che abbiamo ricostruito)",
+        "description": "Molti dei vini della Sicilia, della Campania e del Lazio provenienti dalle località indicate da Omero hanno le stesse caratteristiche di quelli bevuti da Ulisse…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/odissea-vini-bevuti-ulisse-etna-malvasia-salina/",
+        "pubDate": "2026-08-16T14:34:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Salerno c’è un panino che profuma di aceto e si prepara da secoli",
+        "description": "Nel centro storico una salumeria nata nel 1919 prepara tutto l’anno ’o panin’ ca meveza, il piatto simbolo della festa patronale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panino-milza-salerno-botteghelle65-san-matteo/",
+        "pubDate": "2026-08-16T14:32:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pomodori ripieni di cous cous, la ricetta fresca e colorata perfetta per l’estate",
+        "description": "I pomodori ripieni di cous cous sono una ricetta estiva facile ed economica da preparare in casa, in circa 15 minuti, quando il caldo scoraggia l’uso del forno …",
+        "link": "https://www.gustoblog.it/2026/08/16/pomodori-ripieni-di-cous-cous-la-ricetta-fresca-e-colorata-perfetta-per-lestate/",
+        "pubDate": "2026-08-16T13:02:53+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Diletta Leotta osa al mare con il costume intero con dettaglio cut-out FOTO",
+        "description": "Diletta Leotta, anche al mare, non rinuncia allo stile più trendy e glamour sfoggiando il costume intero con dettagli cut-out.…",
+        "link": "https://www.stylosophy.it/articolo/diletta-leotta-osa-al-mare-con-il-costume-intero-con-dettaglio-cut-out-foto/253443/",
+        "pubDate": "2026-08-16T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Croccanti fuori e gommose dentro: sono le butter rice cakes che stanno spopolando sui social",
+        "description": "Dalla Cina a TikTok, i piccoli dolci di riso glutinoso conquistano per il contrasto tra crosta caramellata e cuore elastico…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/butter-rice-cakes-dolci-virali-cosa-sono-ricetta/",
+        "pubDate": "2026-08-16T11:09:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Una delle cantine più antiche del mondo si trova dentro ad un monastero (e si può visitare)",
+        "description": "Da luogo inaccessibile a destinazione internazionale: Abbazia di Novacella è una delle realtà più affascinanti dell'Alto Adige, dove si possono fare pic nic in …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/abbazia-novacella-alto-adige-enoturismo/",
+        "pubDate": "2026-08-16T10:07:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Gli Stati Uniti stanno diventando sempre più sobri",
         "description": "L'abuso di alcol negli Stati Uniti è in calo, nonostante i messaggi contraddittori del governo e l'assenza di prevenzione.\nL'articolo Gli Stati Uniti stanno div…",
@@ -127,63 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/Mixue.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Quando Disneyland aprì facevano 38 gradi e non c’era nemmeno una fontanella per bere",
-        "description": "Caldo, folla, cibo esaurito e niente acqua gratuita: il debutto del parco passò alla storia come \"Black Sunday\"…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/inaugurazione-disneyland-senza-acqua/",
-        "pubDate": "2026-08-15T09:32:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dalla botte più grande al mondo alla cantina dentro un’antica neviera: l’enoturismo diffuso di Tommasi",
-        "description": "Si parte dalla Valpolicella e si arriva fino al Salento: Tommasi Family Estates ha creato un percorso ad hoc in ogni cantina per raccontare l'Italia del vino. A…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-tommasi-wine-hospitality-valpolicella-botte-magnifica/",
-        "pubDate": "2026-08-15T09:03:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Weekend a Bibione tra mare, terme e natura: cosa fare e vedere",
-        "description": "Una destinazione del Veneto dove spiaggia, benessere e attività all’aria aperta convivono. Dalle terme al Faro di Punta Tagliamento, ecco cosa mettere in progra…",
-        "link": "https://www.stylosophy.it/articolo/weekend-a-bibione-tra-mare-terme-e-natura-cosa-fare-e-vedere/253366/",
-        "pubDate": "2026-08-15T09:00:00+00:00",
+        "title": "Diletta Leotta osa al mare con il costume intero con dettaglio cut-out FOTO",
+        "description": "Diletta Leotta, anche al mare, non rinuncia allo stile più trendy e glamour sfoggiando il costume intero con dettagli cut-out.…",
+        "link": "https://www.stylosophy.it/articolo/diletta-leotta-osa-al-mare-con-il-costume-intero-con-dettaglio-cut-out-foto/253443/",
+        "pubDate": "2026-08-16T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Ha 100 anni e il suo ristorante di sushi è quasi impossibile da prenotare. La Michelin lo escluse dalla guida",
-        "description": "Jiro Ono è un'icona. Se dovessimo immaginare il maestro giapponese del sushi per eccellenza, probabilmente avrebbe proprio il suo volto. Cent'anni di vita e olt…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/jiro-ono-100-anni-sushi-ristorante-tokyo/",
-        "pubDate": "2026-08-15T08:34:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La famiglia lavora il tartufo umbro dal 1948. Oggi la figlia lo porta nel suo ristorante",
-        "description": "A San Pietro a Pettine, vicino Trevi, Alice Caporicci porta in cucina una storia familiare iniziata nel 1948 intorno al tartufo umbro. Una tavola contemporanea …",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/san-pietro-a-pettine-ristorante-trevi-alice-caporicci/",
-        "pubDate": "2026-08-15T08:01:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’intelligenza artificiale prepara anche gli hamburger",
-        "description": "Della serie, invenzioni di cui non sentivamo il bisogno: dagli Stati Uniti arriva l'AI che ci insegna a fare i panini.\nL'articolo L&#8217;intelligenza artificia…",
-        "link": "https://www.dissapore.com/notizie/lintelligenza-artificiale-prepara-anche-gli-hamburger/",
-        "pubDate": "2026-08-15T07:04:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-scaled-e1786735192221.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "Il trucco dei make up artist per evitare che il correttore si sciolga o segni il contorno occhi",
         "description": "Con il caldo anche il miglior correttore può segnare il contorno occhi. Ecco il metodo usato dai professionisti e i prodotti più idratanti per un effetto natura…",
@@ -338,15 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Kylie Jenner, cosa ha indossato per il suo compleanno in rosa FOTO",
-        "description": "Ecco qui di seguito che cosa ha indossato Kylie Jenner per la sua festa di compleanno.…",
-        "link": "https://www.stylosophy.it/articolo/kylie-jenner-cosa-ha-indossato-per-il-suo-compleanno-in-rosa-foto/253359/",
-        "pubDate": "2026-08-11T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Margot Robbie e quel top lingerie che è già il capo più desiderato dell’estate",
         "description": "Non solo gonne e abiti sottoveste: in una stagione come questa, in cui i capi di underwear sono sempre più i protagonisti dei nostri look quotidiani, anche i to…",
         "link": "https://www.grazia.it/moda/tendenze-moda/top-lingerie-sottoveste-intimissimi-sottogiacca-eleganti-seta-pizzo-zara-margot-robbie-992216",
@@ -366,6 +366,51 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Omero conosceva già i vini dell’Etna. Lo dimostra la “mappa enologica” seguita da Ulisse (che abbiamo ricostruito)",
+        "description": "Molti dei vini della Sicilia, della Campania e del Lazio provenienti dalle località indicate da Omero hanno le stesse caratteristiche di quelli bevuti da Ulisse…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/odissea-vini-bevuti-ulisse-etna-malvasia-salina/",
+        "pubDate": "2026-08-16T14:34:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Salerno c’è un panino che profuma di aceto e si prepara da secoli",
+        "description": "Nel centro storico una salumeria nata nel 1919 prepara tutto l’anno ’o panin’ ca meveza, il piatto simbolo della festa patronale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panino-milza-salerno-botteghelle65-san-matteo/",
+        "pubDate": "2026-08-16T14:32:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pomodori ripieni di cous cous, la ricetta fresca e colorata perfetta per l’estate",
+        "description": "I pomodori ripieni di cous cous sono una ricetta estiva facile ed economica da preparare in casa, in circa 15 minuti, quando il caldo scoraggia l’uso del forno …",
+        "link": "https://www.gustoblog.it/2026/08/16/pomodori-ripieni-di-cous-cous-la-ricetta-fresca-e-colorata-perfetta-per-lestate/",
+        "pubDate": "2026-08-16T13:02:53+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Croccanti fuori e gommose dentro: sono le butter rice cakes che stanno spopolando sui social",
+        "description": "Dalla Cina a TikTok, i piccoli dolci di riso glutinoso conquistano per il contrasto tra crosta caramellata e cuore elastico…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/butter-rice-cakes-dolci-virali-cosa-sono-ricetta/",
+        "pubDate": "2026-08-16T11:09:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Una delle cantine più antiche del mondo si trova dentro ad un monastero (e si può visitare)",
+        "description": "Da luogo inaccessibile a destinazione internazionale: Abbazia di Novacella è una delle realtà più affascinanti dell'Alto Adige, dove si possono fare pic nic in …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/abbazia-novacella-alto-adige-enoturismo/",
+        "pubDate": "2026-08-16T10:07:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Gli Stati Uniti stanno diventando sempre più sobri",
         "description": "L'abuso di alcol negli Stati Uniti è in calo, nonostante i messaggi contraddittori del governo e l'assenza di prevenzione.\nL'articolo Gli Stati Uniti stanno div…",
@@ -475,33 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dalla botte più grande al mondo alla cantina dentro un’antica neviera: l’enoturismo diffuso di Tommasi",
-        "description": "Si parte dalla Valpolicella e si arriva fino al Salento: Tommasi Family Estates ha creato un percorso ad hoc in ogni cantina per raccontare l'Italia del vino. A…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-tommasi-wine-hospitality-valpolicella-botte-magnifica/",
-        "pubDate": "2026-08-15T09:03:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha 100 anni e il suo ristorante di sushi è quasi impossibile da prenotare. La Michelin lo escluse dalla guida",
-        "description": "Jiro Ono è un'icona. Se dovessimo immaginare il maestro giapponese del sushi per eccellenza, probabilmente avrebbe proprio il suo volto. Cent'anni di vita e olt…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/jiro-ono-100-anni-sushi-ristorante-tokyo/",
-        "pubDate": "2026-08-15T08:34:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La famiglia lavora il tartufo umbro dal 1948. Oggi la figlia lo porta nel suo ristorante",
-        "description": "A San Pietro a Pettine, vicino Trevi, Alice Caporicci porta in cucina una storia familiare iniziata nel 1948 intorno al tartufo umbro. Una tavola contemporanea …",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/san-pietro-a-pettine-ristorante-trevi-alice-caporicci/",
-        "pubDate": "2026-08-15T08:01:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "L’intelligenza artificiale prepara anche gli hamburger",
         "description": "Della serie, invenzioni di cui non sentivamo il bisogno: dagli Stati Uniti arriva l'AI che ci insegna a fare i panini.\nL'articolo L&#8217;intelligenza artificia…",
         "link": "https://www.dissapore.com/notizie/lintelligenza-artificiale-prepara-anche-gli-hamburger/",
@@ -509,15 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-scaled-e1786735192221.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "In questa pizzeria la pizza si beve: arriva la bibita analcolica fatta con l’impasto",
-        "description": "Ad Andria Alterego sperimenta un kvass a base di pizza fermentata, pensato come alternativa analcolica a birra e bibite industriali…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/kvass-pizza-bevanda-analcolica-alterego-andria/",
-        "pubDate": "2026-08-15T06:49:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Dove mangiare sulle Dolomiti: masi autentici, sapori locali e cucina d’autore",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "In Corea, gli appassionati si godono l’ultima carne di cane legale prima del divieto",
-        "description": "Lo stufato di cane è tradizionalmente mangiato nel periodo più caldo dell'estate, e questo sarà l'ultimo anno in cui sarà possibile assaggiarlo. Tra ristoratori…",
-        "link": "https://www.dissapore.com/notizie/in-corea-gli-appassionati-si-godono-lultima-carne-di-cane-legale-prima-del-divieto/",
-        "pubDate": "2026-08-14T13:27:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/stufato-capra-nera-corea-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
