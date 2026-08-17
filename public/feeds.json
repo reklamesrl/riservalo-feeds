@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-17T06:55:04.749762+00:00",
+  "generated": "2026-08-17T12:42:41.302406+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La nuova acquisizione di Ferrero: i cereali salutari Purely Elizabeth",
+        "description": "Sempre più protagonista sul mercato americano e leader nel settore dei prodotti da colazione, Ferrero conclude un'altra acquisizione: un marchio di cereali salu…",
+        "link": "https://www.dissapore.com/notizie/la-nuova-acquisizione-di-ferrero-i-cereali-salutari-purely-elizabeth/",
+        "pubDate": "2026-08-17T11:32:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/purely-elizabeth-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Spagna vietati i dehors a bar e ristoranti: fa troppo caldo",
+        "description": "Nuove regole per i ristoranti e i bar in Spagna, che non potranno aprire i dehors nelle giornate di troppo caldo. \nL'articolo In Spagna vietati i dehors a bar e…",
+        "link": "https://www.dissapore.com/notizie/in-spagna-vietati-i-dehors-a-bar-e-ristoranti-fa-troppo-caldo/",
+        "pubDate": "2026-08-17T10:11:14+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Borse di perline: sono proprio loro l’accessorio più trendy dell’estate",
+        "description": "Non solo tote bag in paglia da sfoggiare sia in spiaggia che in città, c’è un altro accessorio su cui possiamo contare quest’estate per dare una marcia in più a…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/borse-di-perline-colorate-perle-anni-90-tendenza-estate-donna-zara-parfois-mango-992582",
+        "pubDate": "2026-08-17T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Borse_di_perline.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Ritorno a scuola e al lavoro: 5 prodotti IKEA per organizzare casa a settembre",
+        "description": "Dalla zona studio all’ingresso, settembre è il momento giusto per ripensare gli spazi domestici. Con pochi elementi ben scelti la casa può diventare più ordinat…",
+        "link": "https://www.stylosophy.it/articolo/ritorno-a-scuola-e-al-lavoro-prodotti-ikea-per-organizzare-casa-a-settembre/253375/",
+        "pubDate": "2026-08-17T09:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Su un tornante verso la Costiera c’è un chiosco dentro una botte con spritz a 6 euro e vista su Napoli",
+        "description": "A Pimonte, lungo la Statale 366 verso Agerola, Michele Miniero ha trasformato un piccolo podere in un chiosco a forma di botte con taglieri locali, spritz a 6 e…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chiosco-michele-miniero-pimonte-costiera-amalfitana/",
+        "pubDate": "2026-08-17T07:19:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il rarissimo formaggio siciliano nato per salvare il latte dal caldo: oggi lo fanno solo 5 produttori",
+        "description": "È l’unica DOP italiana a pasta filata prodotta con latte di pecora e nasce da un’antica tecnica di recupero delle cagliate. Nella Valle del Belìce la Vastedda v…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vastedda-valle-belice-formaggio-pecora-pasta-filata/",
+        "pubDate": "2026-08-17T06:36:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il bistrot di soli dieci posti dove si mangia un agnello panato da leccarsi le dita",
+        "description": "Cantina Chiesamadre a Santo Stefano di Sessanio propone una cucina semplice ma non banale accompagnata da una attenta selezione di vini naturali. E nelle sere d…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cantina-chiesamadre-santo-stefano-sessiano-agnello-panato/",
+        "pubDate": "2026-08-17T06:12:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non solo il nero! Ecco i tessuti da evitare durante le “heat-waves” se avete più di 40 anni",
+        "description": "Con le ondate di calore sempre più intense, dopo i 40 la scelta dei tessuti diventa una questione di salute. Tra fibre occlusive e capi salva-pelle, ecco cosa c…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/tessuti-da-evitare-estate-abbigliamento-donna-sopra-40-anni-quali-scegliere-durante-ondate-di-calore-987482",
+        "pubDate": "2026-08-17T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/nero-estate-tessuto-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Tiella, il piatto che racconta il Mediterraneo",
         "description": "A tavola, nelle case italiane e soprattutto nelle cucine del Sud, la tiella di verdure torna oggi come piatto semplice e domestico, preparato con melanzane, pat…",
@@ -109,81 +181,36 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Birra, nuove regole in arrivo: cosa potrebbe cambiare per produttori e consumatori",
-        "description": "Il Governo ha aperto nell’estate 2026, a Roma, il cantiere per cambiare le regole sulla produzione della birra in Italia, dopo il chiarimento del Mimit sull’uso…",
-        "link": "https://www.gustoblog.it/2026/08/16/birra-nuove-regole-in-arrivo-cosa-potrebbe-cambiare-per-produttori-e-consumatori/",
-        "pubDate": "2026-08-16T06:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Sì, il vino rosso si può bere freddo: 10 bottiglie sotto i 20 euro perfette per l’estate",
-        "description": "Dal Ciliegiolo al Primitivo, dieci rossi del Centro-Sud da servire tra 12 e 16 gradi senza spendere più di 20 euro…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-rossi-freschi-estate-centro-sud-sotto-20-euro/",
-        "pubDate": "2026-08-16T05:37:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "7 modi per indossare il foulard d’estate",
-        "description": "Esistono accessori che, con la loro sola presenza nel fashion heritage, definiscono un preciso momento dell&#8217;anno. Uno di questi è senza dubbio il foulard.…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-foulard-modi-di-portarlo-collo-capelli-cintura-top-bandana-abbinamenti-estate-2026-981946",
-        "pubDate": "2026-08-16T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_foulard_inspo_look.jpg",
+        "title": "Borse di perline: sono proprio loro l’accessorio più trendy dell’estate",
+        "description": "Non solo tote bag in paglia da sfoggiare sia in spiaggia che in città, c’è un altro accessorio su cui possiamo contare quest’estate per dare una marcia in più a…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/borse-di-perline-colorate-perle-anni-90-tendenza-estate-donna-zara-parfois-mango-992582",
+        "pubDate": "2026-08-17T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Borse_di_perline.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Rape strascinate, il contorno rustico che conquista la tavola",
-        "description": "A Matera, nelle cucine di casa e nelle trattorie che custodiscono la cucina lucana, le rape strascinate tornano in tavola soprattutto nei mesi freddi, quando qu…",
-        "link": "https://www.gustoblog.it/2026/08/15/rape-strascinate-il-contorno-rustico-che-conquista-la-tavola/",
-        "pubDate": "2026-08-15T19:02:42+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Lasagne estive vegetariane: pomodori confit e basilico per un piatto irresistibile",
-        "description": "A Ferragosto 2026, nelle cucine di casa e nelle tavole all’aperto di tutta Italia, le lasagne estive vegetariane con pomodori confit e basilico tornano come alt…",
-        "link": "https://www.gustoblog.it/2026/08/15/lasagne-estive-vegetariane-pomodori-confit-e-basilico-per-un-piatto-irresistibile/",
-        "pubDate": "2026-08-15T13:02:40+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Chanel Totti sfoggia il bikini ‘duo in uno’, il must di stagione FOTO",
-        "description": "Chanel Totti sfoggia il bikini 'duo in uno' dall'effetto layering: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chanel-totti-sfoggia-il-bikini-duo-in-uno-il-must-di-stagione-foto/253435/",
-        "pubDate": "2026-08-15T13:00:00+00:00",
+        "title": "Ritorno a scuola e al lavoro: 5 prodotti IKEA per organizzare casa a settembre",
+        "description": "Dalla zona studio all’ingresso, settembre è il momento giusto per ripensare gli spazi domestici. Con pochi elementi ben scelti la casa può diventare più ordinat…",
+        "link": "https://www.stylosophy.it/articolo/ritorno-a-scuola-e-al-lavoro-prodotti-ikea-per-organizzare-casa-a-settembre/253375/",
+        "pubDate": "2026-08-17T09:30:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "A Genova ha aperto lo street food dei pescatori dove il menu cambia con quello che finisce nelle reti",
-        "description": "Il progetto Alalunga di Davide Busca e Mauro Mantero cresce con una nuova apertura nel cuore del centro storico. Qui il pesce arriva direttamente dalle reti dei…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/alalunga-genova-street-food-pescatori/",
-        "pubDate": "2026-08-15T10:52:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Non solo il nero! Ecco i tessuti da evitare durante le “heat-waves” se avete più di 40 anni",
+        "description": "Con le ondate di calore sempre più intense, dopo i 40 la scelta dei tessuti diventa una questione di salute. Tra fibre occlusive e capi salva-pelle, ecco cosa c…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/tessuti-da-evitare-estate-abbigliamento-donna-sopra-40-anni-quali-scegliere-durante-ondate-di-calore-987482",
+        "pubDate": "2026-08-17T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/nero-estate-tessuto-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Dai campi al mare, il punto sui danni del caldo al settore agroalimentare",
-        "description": "Un'indagine condotta de Legacoop tratteggia una situazione preoccupante da nord a sud, che impone un intervento pubblico coordinato.\nL'articolo Dai campi al mar…",
-        "link": "https://www.dissapore.com/notizie/dai-campi-al-mare-il-punto-sui-danni-del-caldo-al-settore-agroalimentare/",
-        "pubDate": "2026-08-15T10:22:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/campi-mais-caldo-clima-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      }
-    ],
-    "moda": [
       {
         "title": "Diletta Leotta osa al mare con il costume intero con dettaglio cut-out FOTO",
         "description": "Diletta Leotta, anche al mare, non rinuncia allo stile più trendy e glamour sfoggiando il costume intero con dettagli cut-out.…",
@@ -336,36 +363,54 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/00_Desktop_accesori-mare.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Come accedere a La Pelosa e tutte le regole da rispettare sulla spiaggia più bella ed esclusiva della Sardegna",
-        "description": "Acque turchesi, sabbia chiarissima e uno scenario da cartolina: La Pelosa è un angolo di paradiso con regole da rispettare. Scopri cosa sapere prima di organizz…",
-        "link": "https://www.stylosophy.it/articolo/come-accedere-a-la-pelosa-e-tutte-le-regole/234341/",
-        "pubDate": "2026-08-11T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Margot Robbie e quel top lingerie che è già il capo più desiderato dell’estate",
-        "description": "Non solo gonne e abiti sottoveste: in una stagione come questa, in cui i capi di underwear sono sempre più i protagonisti dei nostri look quotidiani, anche i to…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/top-lingerie-sottoveste-intimissimi-sottogiacca-eleganti-seta-pizzo-zara-margot-robbie-992216",
-        "pubDate": "2026-08-11T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Top_lingerie_Margot_Robbie.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Come vestirsi a Ferragosto? Ecco i capi e i look su cui puntare (in base alla meta)",
-        "description": "Modalità Ferragosto: ON. C’è chi punta dritto verso il mare, chi preferisce un bel pic nic in campagna, chi ha già pianificato un tour tra monumenti e musei e c…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-a-ferragosto-look-abbinamenti-montagna-mare-citta-d-arte-campagna-outfit-991069",
-        "pubDate": "2026-08-11T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_ferragosto.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La nuova acquisizione di Ferrero: i cereali salutari Purely Elizabeth",
+        "description": "Sempre più protagonista sul mercato americano e leader nel settore dei prodotti da colazione, Ferrero conclude un'altra acquisizione: un marchio di cereali salu…",
+        "link": "https://www.dissapore.com/notizie/la-nuova-acquisizione-di-ferrero-i-cereali-salutari-purely-elizabeth/",
+        "pubDate": "2026-08-17T11:32:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/purely-elizabeth-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In Spagna vietati i dehors a bar e ristoranti: fa troppo caldo",
+        "description": "Nuove regole per i ristoranti e i bar in Spagna, che non potranno aprire i dehors nelle giornate di troppo caldo. \nL'articolo In Spagna vietati i dehors a bar e…",
+        "link": "https://www.dissapore.com/notizie/in-spagna-vietati-i-dehors-a-bar-e-ristoranti-fa-troppo-caldo/",
+        "pubDate": "2026-08-17T10:11:14+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Su un tornante verso la Costiera c’è un chiosco dentro una botte con spritz a 6 euro e vista su Napoli",
+        "description": "A Pimonte, lungo la Statale 366 verso Agerola, Michele Miniero ha trasformato un piccolo podere in un chiosco a forma di botte con taglieri locali, spritz a 6 e…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chiosco-michele-miniero-pimonte-costiera-amalfitana/",
+        "pubDate": "2026-08-17T07:19:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il rarissimo formaggio siciliano nato per salvare il latte dal caldo: oggi lo fanno solo 5 produttori",
+        "description": "È l’unica DOP italiana a pasta filata prodotta con latte di pecora e nasce da un’antica tecnica di recupero delle cagliate. Nella Valle del Belìce la Vastedda v…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vastedda-valle-belice-formaggio-pecora-pasta-filata/",
+        "pubDate": "2026-08-17T06:36:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il bistrot di soli dieci posti dove si mangia un agnello panato da leccarsi le dita",
+        "description": "Cantina Chiesamadre a Santo Stefano di Sessanio propone una cucina semplice ma non banale accompagnata da una attenta selezione di vini naturali. E nelle sere d…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cantina-chiesamadre-santo-stefano-sessiano-agnello-panato/",
+        "pubDate": "2026-08-17T06:12:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Tiella, il piatto che racconta il Mediterraneo",
         "description": "A tavola, nelle case italiane e soprattutto nelle cucine del Sud, la tiella di verdure torna oggi come piatto semplice e domestico, preparato con melanzane, pat…",
@@ -466,15 +511,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Sì, il vino rosso si può bere freddo: 10 bottiglie sotto i 20 euro perfette per l’estate",
-        "description": "Dal Ciliegiolo al Primitivo, dieci rossi del Centro-Sud da servire tra 12 e 16 gradi senza spendere più di 20 euro…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vini-rossi-freschi-estate-centro-sud-sotto-20-euro/",
-        "pubDate": "2026-08-16T05:37:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Rape strascinate, il contorno rustico che conquista la tavola",
         "description": "A Matera, nelle cucine di casa e nelle trattorie che custodiscono la cucina lucana, le rape strascinate tornano in tavola soprattutto nei mesi freddi, quando qu…",
         "link": "https://www.gustoblog.it/2026/08/15/rape-strascinate-il-contorno-rustico-che-conquista-la-tavola/",
@@ -493,15 +529,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "A Genova ha aperto lo street food dei pescatori dove il menu cambia con quello che finisce nelle reti",
-        "description": "Il progetto Alalunga di Davide Busca e Mauro Mantero cresce con una nuova apertura nel cuore del centro storico. Qui il pesce arriva direttamente dalle reti dei…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/alalunga-genova-street-food-pescatori/",
-        "pubDate": "2026-08-15T10:52:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dai campi al mare, il punto sui danni del caldo al settore agroalimentare",
         "description": "Un'indagine condotta de Legacoop tratteggia una situazione preoccupante da nord a sud, che impone un intervento pubblico coordinato.\nL'articolo Dai campi al mar…",
         "link": "https://www.dissapore.com/notizie/dai-campi-al-mare-il-punto-sui-danni-del-caldo-al-settore-agroalimentare/",
@@ -518,33 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/Mixue.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Quando Disneyland aprì facevano 38 gradi e non c’era nemmeno una fontanella per bere",
-        "description": "Caldo, folla, cibo esaurito e niente acqua gratuita: il debutto del parco passò alla storia come \"Black Sunday\"…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/inaugurazione-disneyland-senza-acqua/",
-        "pubDate": "2026-08-15T09:32:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’intelligenza artificiale prepara anche gli hamburger",
-        "description": "Della serie, invenzioni di cui non sentivamo il bisogno: dagli Stati Uniti arriva l'AI che ci insegna a fare i panini.\nL'articolo L&#8217;intelligenza artificia…",
-        "link": "https://www.dissapore.com/notizie/lintelligenza-artificiale-prepara-anche-gli-hamburger/",
-        "pubDate": "2026-08-15T07:04:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-scaled-e1786735192221.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dove mangiare sulle Dolomiti: masi autentici, sapori locali e cucina d’autore",
-        "description": "Nelle Dolomiti e in Alto Adige, nell’estate 2026, viaggiatori e appassionati di cucina salgono in quota per mangiare nei masi contadini, nelle baite e nei risto…",
-        "link": "https://www.gustoblog.it/2026/08/15/dove-mangiare-sulle-dolomiti-masi-autentici-sapori-locali-e-cucina-dautore/",
-        "pubDate": "2026-08-15T06:02:49+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
