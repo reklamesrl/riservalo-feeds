@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-16T18:28:03.357156+00:00",
+  "generated": "2026-08-17T06:55:04.749762+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Tiella, il piatto che racconta il Mediterraneo",
+        "description": "A tavola, nelle case italiane e soprattutto nelle cucine del Sud, la tiella di verdure torna oggi come piatto semplice e domestico, preparato con melanzane, pat…",
+        "link": "https://www.gustoblog.it/2026/08/16/tiella-il-piatto-che-racconta-il-mediterraneo/",
+        "pubDate": "2026-08-16T19:02:48+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Omero conosceva già i vini dell’Etna. Lo dimostra la “mappa enologica” seguita da Ulisse (che abbiamo ricostruito)",
         "description": "Molti dei vini della Sicilia, della Campania e del Lazio provenienti dalle località indicate da Omero hanno le stesse caratteristiche di quelli bevuti da Ulisse…",
@@ -170,15 +179,6 @@
         "link": "https://www.dissapore.com/notizie/dai-campi-al-mare-il-punto-sui-danni-del-caldo-al-settore-agroalimentare/",
         "pubDate": "2026-08-15T10:22:29+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/campi-mais-caldo-clima-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La più grande catena di fast food al mondo lancia i pub low cost",
-        "description": "Mixue Ice Cream and Tea investe in una catena di pub low cost, mentre tutto il resto del mondo vira verso l'analcolico: chi avrà ragione?\nL'articolo La più gran…",
-        "link": "https://www.dissapore.com/notizie/la-piu-grande-catena-di-fast-food-al-mondo-lancia-i-pub-low-cost/",
-        "pubDate": "2026-08-15T10:06:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/Mixue.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
       }
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Tiella, il piatto che racconta il Mediterraneo",
+        "description": "A tavola, nelle case italiane e soprattutto nelle cucine del Sud, la tiella di verdure torna oggi come piatto semplice e domestico, preparato con melanzane, pat…",
+        "link": "https://www.gustoblog.it/2026/08/16/tiella-il-piatto-che-racconta-il-mediterraneo/",
+        "pubDate": "2026-08-16T19:02:48+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "Omero conosceva già i vini dell’Etna. Lo dimostra la “mappa enologica” seguita da Ulisse (che abbiamo ricostruito)",
         "description": "Molti dei vini della Sicilia, della Campania e del Lazio provenienti dalle località indicate da Omero hanno le stesse caratteristiche di quelli bevuti da Ulisse…",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/odissea-vini-bevuti-ulisse-etna-malvasia-salina/",
@@ -533,15 +542,6 @@
         "description": "Nelle Dolomiti e in Alto Adige, nell’estate 2026, viaggiatori e appassionati di cucina salgono in quota per mangiare nei masi contadini, nelle baite e nei risto…",
         "link": "https://www.gustoblog.it/2026/08/15/dove-mangiare-sulle-dolomiti-masi-autentici-sapori-locali-e-cucina-dautore/",
         "pubDate": "2026-08-15T06:02:49+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Chiocce e patate: la strana alleanza che sorprende la campagna",
-        "description": "Le chiocce e patate, piatto di cucina domestica italiana preparato con zucchine, patate, cipolla, olio e prezzemolo, tornano in tavola oggi nelle case dove si c…",
-        "link": "https://www.gustoblog.it/2026/08/14/chiocce-e-patate-la-strana-alleanza-che-sorprende-la-campagna/",
-        "pubDate": "2026-08-14T19:02:44+00:00",
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
