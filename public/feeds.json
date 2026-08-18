@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-18T12:44:52.236884+00:00",
+  "generated": "2026-08-18T18:37:26.022735+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Perché ci piace bere vino? La risposta potrebbe essere iniziata 10 milioni di anni fa",
+        "description": "Dalla frutta fermentata mangiata dai primati ai banchetti delle società antiche: diverse ricerche indagano quanto l’alcol abbia accompagnato l’evoluzione biolog…",
+        "link": "https://www.gamberorosso.it/notizie/vino/alcol-evoluzione-scimmia-ubriaca-uomo/",
+        "pubDate": "2026-08-18T14:33:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le coltivazioni italiane sotto attacco degli insetti",
+        "description": "Oltre a temperature record e all'emergenza idrica, l'agricoltura italiana deve affrontare un altro problema causato dal cambiamento climatico, la proliferazione…",
+        "link": "https://www.dissapore.com/notizie/le-coltivazioni-italiane-sotto-attacco-degli-insetti/",
+        "pubDate": "2026-08-18T13:27:13+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/xylella-ulivi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Pipirrana, la ricetta fresca dell’estate spagnola",
+        "description": "La pipirrana spagnola, insalata fredda nata nel Sud della Spagna e preparata oggi in molte cucine italiane, torna sulle tavole estive come ricetta rapida e econ…",
+        "link": "https://www.gustoblog.it/2026/08/18/pipirrana-la-ricetta-fresca-dellestate-spagnola/",
+        "pubDate": "2026-08-18T13:02:58+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Kylie Jenner lancia una capsule collection di scarpe insieme a Gia Borghini",
+        "description": "Kylie Jenner lancia una capsule collection di scarpe insieme a Gia Borghini: qui per i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-una-capsule-collection-di-scarpe-insieme-a-gia-borghini/253447/",
+        "pubDate": "2026-08-18T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Lo chef che spopolava in tv 30 anni fa oggi è virale sui social (e forse aveva capito tutto)",
+        "description": "Emeril Lagasse spopolava nella tv americana degli anni Novanta. Oggi i suoi vecchi video conquistano una nuova generazione sui social…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/emeril-lagasse-video-virali-social-cucina/",
+        "pubDate": "2026-08-18T11:52:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Da cava abbandonata a cantina d’autore: il luogo più sorprendente da visitare a Bolgheri",
+        "description": "Nata dal recupero di un'ex cava, Cantina Meraviglia oggi è una destinazione dove architettura, vino e paesaggio si intrecciano in armonia. Ecco tutte le esperie…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cantina-meraviglia-bolgheri/",
+        "pubDate": "2026-08-18T10:14:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Ricordate quando il vino non era in crisi? Bene, ora il presidente dell’UIV apre agli estirpi",
         "description": "Frescobaldi apre agli espianti dei vigneti per affrontare la crisi del vino italiano, ma il piano solleva dubbi, contraddizioni e mancano soluzioni concrete.\nL'…",
@@ -19,6 +73,15 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Chemisier_a_righe.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      },
+      {
+        "title": "La Sicilia è tra le mete più amate e scelte dai turisti. E le cantine adesso ci credono",
+        "description": "Le cantine tendono a offrire generalmente da una a quattro esperienze diverse con proposte di varie fasce di prezzo. I punti di forza sono il prodotto e l'attra…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/sicilia-crescita-enoturismo-dati-nomisma/",
+        "pubDate": "2026-08-18T09:07:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Vacanze a settembre 2026: le migliori destinazioni in Italia per mare, relax e cultura",
@@ -102,15 +165,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Il lido dove si mangia come al ristorante: pesce del Gargano e persino una carta degli oli",
-        "description": "Affacciato sulla spiaggia del Pizzomunno a Vieste, Lido Vesta ha costruito una cucina di mare contemporanea e una sorprendente attenzione per l'extravergine…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/lido-vesta-vieste-carta-oli/",
-        "pubDate": "2026-08-18T04:52:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Zucchine al formaggio: il contorno filante che conquista tutti",
         "description": "Le zucchine al formaggio, preparate in casa con pochi ingredienti della cucina italiana, tornano utili oggi, 17 agosto 2026, come contorno rapido e sostanzioso …",
         "link": "https://www.gustoblog.it/2026/08/17/zucchine-al-formaggio-il-contorno-filante-che-conquista-tutti/",
@@ -127,63 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/max-mariola-spiaggia-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "A pochi chilometri dalla Costa Smeralda c’è un’alternativa più economica: mare, surf e ristoranti senza conti da capogiro",
-        "description": "A Porto Pollo, in Gallura, il lusso di Porto Cervo lascia spazio a windsurf, spiagge selvagge e locali informali. Dal Maestrale al Tiki Beach Bar, qui sta nasce…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/porto-pollo-alternativa-economica-costa-smeralda/",
-        "pubDate": "2026-08-17T14:55:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Lo stomaco è pieno prima di mangiare”. Siamo andati al ristorante al 101° piano sopra New York",
-        "description": "Peak si trova dentro 30 Hudson Yards, con Manhattan oltre le vetrate. Siamo saliti per pranzo e poi scesi sulla terrazza Edge, sospesa nel vuoto…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/peak-new-york-ristorante-101-piano/",
-        "pubDate": "2026-08-17T14:46:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Barchette di cetrioli fresche e sfiziose",
-        "description": "Le barchette di cetrioli tornano in tavola nell’estate 2026 come antipasto freddo, economico e rapido, preparato in casa in circa 10 minuti con cetrioli lunghi,…",
-        "link": "https://www.gustoblog.it/2026/08/17/barchette-di-cetrioli-fresche-e-sfiziose/",
-        "pubDate": "2026-08-17T13:03:21+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La pizzeria sul mare nel borgo sardo dove si parla ancora ligure: pizze, fritti e cucina tabarchina",
-        "description": "A Cussorgia, a pochi chilometri da Calasetta, AcquaSale porta in tavola pizza, fritti di pesce e cucina tabarchina. Un locale estivo affacciato sul mare, nel te…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/acquasale-pizzeria-calasetta-cussorgia-sardegna/",
-        "pubDate": "2026-08-17T12:48:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La nuova acquisizione di Ferrero: i cereali salutari Purely Elizabeth",
-        "description": "Sempre più protagonista sul mercato americano e leader nel settore dei prodotti da colazione, Ferrero conclude un'altra acquisizione: un marchio di cereali salu…",
-        "link": "https://www.dissapore.com/notizie/la-nuova-acquisizione-di-ferrero-i-cereali-salutari-purely-elizabeth/",
-        "pubDate": "2026-08-17T11:32:42+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/purely-elizabeth-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Spagna vietati i dehors a bar e ristoranti: fa troppo caldo",
-        "description": "Nuove regole per i ristoranti e i bar in Spagna, che non potranno aprire i dehors nelle giornate di troppo caldo. \nL'articolo In Spagna vietati i dehors a bar e…",
-        "link": "https://www.dissapore.com/notizie/in-spagna-vietati-i-dehors-a-bar-e-ristoranti-fa-troppo-caldo/",
-        "pubDate": "2026-08-17T10:11:14+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Kylie Jenner lancia una capsule collection di scarpe insieme a Gia Borghini",
+        "description": "Kylie Jenner lancia una capsule collection di scarpe insieme a Gia Borghini: qui per i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-una-capsule-collection-di-scarpe-insieme-a-gia-borghini/253447/",
+        "pubDate": "2026-08-18T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Il segreto per look freschi e chic sia in spiaggia che in città? Quest’estate puntate tutto sugli chemisier a righe",
         "description": "Così freschi e leggeri da diventare i perfetti alleati di stile in spiaggia, così versatili e chic da trasformarsi in un vero jolly anche in città: gli chemisie…",
@@ -354,18 +363,54 @@
         "image": "https://www.grazia.it/content/uploads/2026/07/borsa-estate-spiaggia.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Macchie scure in estate: come trattarle e renderle meno visibili",
-        "description": "Sole, caldo e irritazioni possono accentuare l’iperpigmentazione: ecco come costruire una routine estiva efficace, senza stressare la pelle.…",
-        "link": "https://www.stylosophy.it/articolo/macchie-scure-in-estate-come-trattarle-e-renderle-meno-visibili-destate/253383/",
-        "pubDate": "2026-08-12T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Perché ci piace bere vino? La risposta potrebbe essere iniziata 10 milioni di anni fa",
+        "description": "Dalla frutta fermentata mangiata dai primati ai banchetti delle società antiche: diverse ricerche indagano quanto l’alcol abbia accompagnato l’evoluzione biolog…",
+        "link": "https://www.gamberorosso.it/notizie/vino/alcol-evoluzione-scimmia-ubriaca-uomo/",
+        "pubDate": "2026-08-18T14:33:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le coltivazioni italiane sotto attacco degli insetti",
+        "description": "Oltre a temperature record e all'emergenza idrica, l'agricoltura italiana deve affrontare un altro problema causato dal cambiamento climatico, la proliferazione…",
+        "link": "https://www.dissapore.com/notizie/le-coltivazioni-italiane-sotto-attacco-degli-insetti/",
+        "pubDate": "2026-08-18T13:27:13+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/xylella-ulivi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Pipirrana, la ricetta fresca dell’estate spagnola",
+        "description": "La pipirrana spagnola, insalata fredda nata nel Sud della Spagna e preparata oggi in molte cucine italiane, torna sulle tavole estive come ricetta rapida e econ…",
+        "link": "https://www.gustoblog.it/2026/08/18/pipirrana-la-ricetta-fresca-dellestate-spagnola/",
+        "pubDate": "2026-08-18T13:02:58+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Lo chef che spopolava in tv 30 anni fa oggi è virale sui social (e forse aveva capito tutto)",
+        "description": "Emeril Lagasse spopolava nella tv americana degli anni Novanta. Oggi i suoi vecchi video conquistano una nuova generazione sui social…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/emeril-lagasse-video-virali-social-cucina/",
+        "pubDate": "2026-08-18T11:52:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Da cava abbandonata a cantina d’autore: il luogo più sorprendente da visitare a Bolgheri",
+        "description": "Nata dal recupero di un'ex cava, Cantina Meraviglia oggi è una destinazione dove architettura, vino e paesaggio si intrecciano in armonia. Ecco tutte le esperie…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cantina-meraviglia-bolgheri/",
+        "pubDate": "2026-08-18T10:14:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Ricordate quando il vino non era in crisi? Bene, ora il presidente dell’UIV apre agli estirpi",
         "description": "Frescobaldi apre agli espianti dei vigneti per affrontare la crisi del vino italiano, ma il piano solleva dubbi, contraddizioni e mancano soluzioni concrete.\nL'…",
@@ -374,6 +419,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2022/04/Il-Vinitaly-e%CC%80-un-paradigma-superato-Intervista-a-Matteo-Ascheri-Presidente-del-Consorzio-di-Tutela-di-Barolo-e-Barbaresco--scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "La Sicilia è tra le mete più amate e scelte dai turisti. E le cantine adesso ci credono",
+        "description": "Le cantine tendono a offrire generalmente da una a quattro esperienze diverse con proposte di varie fasce di prezzo. I punti di forza sono il prodotto e l'attra…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/sicilia-crescita-enoturismo-dati-nomisma/",
+        "pubDate": "2026-08-18T09:07:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "In un paesino di Puglia (quasi) come in Francia, il comune riapre un caffè chiuso dopo 138 anni",
@@ -439,15 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il lido dove si mangia come al ristorante: pesce del Gargano e persino una carta degli oli",
-        "description": "Affacciato sulla spiaggia del Pizzomunno a Vieste, Lido Vesta ha costruito una cucina di mare contemporanea e una sorprendente attenzione per l'extravergine…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/lido-vesta-vieste-carta-oli/",
-        "pubDate": "2026-08-18T04:52:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Zucchine al formaggio: il contorno filante che conquista tutti",
         "description": "Le zucchine al formaggio, preparate in casa con pochi ingredienti della cucina italiana, tornano utili oggi, 17 agosto 2026, come contorno rapido e sostanzioso …",
         "link": "https://www.gustoblog.it/2026/08/17/zucchine-al-formaggio-il-contorno-filante-che-conquista-tutti/",
@@ -466,24 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "A pochi chilometri dalla Costa Smeralda c’è un’alternativa più economica: mare, surf e ristoranti senza conti da capogiro",
-        "description": "A Porto Pollo, in Gallura, il lusso di Porto Cervo lascia spazio a windsurf, spiagge selvagge e locali informali. Dal Maestrale al Tiki Beach Bar, qui sta nasce…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/porto-pollo-alternativa-economica-costa-smeralda/",
-        "pubDate": "2026-08-17T14:55:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Lo stomaco è pieno prima di mangiare”. Siamo andati al ristorante al 101° piano sopra New York",
-        "description": "Peak si trova dentro 30 Hudson Yards, con Manhattan oltre le vetrate. Siamo saliti per pranzo e poi scesi sulla terrazza Edge, sospesa nel vuoto…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/peak-new-york-ristorante-101-piano/",
-        "pubDate": "2026-08-17T14:46:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Barchette di cetrioli fresche e sfiziose",
         "description": "Le barchette di cetrioli tornano in tavola nell’estate 2026 come antipasto freddo, economico e rapido, preparato in casa in circa 10 minuti con cetrioli lunghi,…",
         "link": "https://www.gustoblog.it/2026/08/17/barchette-di-cetrioli-fresche-e-sfiziose/",
@@ -491,15 +518,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "La pizzeria sul mare nel borgo sardo dove si parla ancora ligure: pizze, fritti e cucina tabarchina",
-        "description": "A Cussorgia, a pochi chilometri da Calasetta, AcquaSale porta in tavola pizza, fritti di pesce e cucina tabarchina. Un locale estivo affacciato sul mare, nel te…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/acquasale-pizzeria-calasetta-cussorgia-sardegna/",
-        "pubDate": "2026-08-17T12:48:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "La nuova acquisizione di Ferrero: i cereali salutari Purely Elizabeth",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Pomodori ripieni di cous cous, la ricetta fresca e colorata perfetta per l’estate",
-        "description": "I pomodori ripieni di cous cous sono una ricetta estiva facile ed economica da preparare in casa, in circa 15 minuti, quando il caldo scoraggia l’uso del forno …",
-        "link": "https://www.gustoblog.it/2026/08/16/pomodori-ripieni-di-cous-cous-la-ricetta-fresca-e-colorata-perfetta-per-lestate/",
-        "pubDate": "2026-08-16T13:02:53+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Gli Stati Uniti stanno diventando sempre più sobri",
-        "description": "L'abuso di alcol negli Stati Uniti è in calo, nonostante i messaggi contraddittori del governo e l'assenza di prevenzione.\nL'articolo Gli Stati Uniti stanno div…",
-        "link": "https://www.dissapore.com/notizie/gli-stati-uniti-stanno-diventando-sempre-piu-sobri/",
-        "pubDate": "2026-08-16T09:57:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/red-cup-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
