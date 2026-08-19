@@ -1,7 +1,106 @@
 {
-  "generated": "2026-08-19T06:42:35.312866+00:00",
+  "generated": "2026-08-19T12:46:25.555871+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Pantaloni balloon: 5 idee per abbinarli con stile da qui fino alla fine dell’estate",
+        "description": "Hanno iniziato a spopolare dappertutto all’inizio della primavera e a distanza di mesi poco o nulla è cambiato: i pantaloni balloon sono ancora uno dei capi più…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-i-pantaloni-baloon-idee-outfit-donna-estate-a-chi-stanno-bene-zara-scarpe-per-992634",
+        "pubDate": "2026-08-19T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_pantaloni_balloon.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Presto cambieranno le regole per i prodotti che si dichiarano vegan",
+        "description": "Le nuove direttive europee contro il greenwashing cambieranno le regole per le etichettature dei prodotti che si dichiarano sostenibili e amici del Pianeta. \nL'…",
+        "link": "https://www.dissapore.com/notizie/presto-cambieranno-le-regole-per-i-prodotti-che-si-dichiarano-vegan/",
+        "pubDate": "2026-08-19T09:20:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/01/coca-cola-tappi.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Terra abbronzante in polvere: i migliori bronzer per un effetto naturale",
+        "description": "Quando l'abbronzatura vera tarda ad arrivare, il bronzer giusto può scaldare l'incarnato in pochi gesti. Ecco le formule in polvere da conoscere e come sceglier…",
+        "link": "https://www.stylosophy.it/articolo/terra-abbronzante-in-polvere-i-migliori-bronzer-per-un-effetto-naturale/253423/",
+        "pubDate": "2026-08-19T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Chi è stato Gilberto Mora, Presidente della Compagnia del Cioccolato",
+        "description": "Chi è stato Gilberto Mora, una vita nella cultura e nella divulgazione del cacao. \nL'articolo Chi è stato Gilberto Mora, Presidente della Compagnia del Cioccola…",
+        "link": "https://www.dissapore.com/notizie/chi-e-stato-gilberto-mora-presidente-della-compagnia-del-cioccolato/",
+        "pubDate": "2026-08-19T08:53:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/Gilberto-Mora-e1787073084384.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Lasciò il Soave quando tutti gli dicevano che era una follia. A 78 anni Roberto Anselmi rifarebbe tutto",
+        "description": "Roberto Anselmi compie 78 anni. Ha trasformato la cantina del padre in un'azienda vitivinicola conosciuta nel mondo, rivoluzionato il lavoro in vigna e nel 1999…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/roberto-anselmi-78-anni-storia-soave-vini/",
+        "pubDate": "2026-08-19T08:47:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sull’Etna c’è un treno che attraversa i vigneti e porta nelle cantine per assaggiare i vini del vulcano",
+        "description": "Il viaggio parte da Linguaglossa e arriva a Randazzo sulla Circumetnea, poi prosegue in Wine Bus con due cantine, quattro vini Etna DOC e prodotti locali. Il bi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/treno-vini-etna-percorso-prezzi/",
+        "pubDate": "2026-08-19T08:34:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Lipari un grano antico è rinato da 20 spighe conservate per quarant’anni",
+        "description": "Antonello Cincotta ha recuperato il Margherito partendo da venti spighe conservate dal nonno. Oggi a Lipari coltiva dieci ettari e produce farina, pasta e birra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/grano-margherito-lipari-20-spighe-cincotta/",
+        "pubDate": "2026-08-19T07:56:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante sul mare di Trani dove mangi pesce e bevi cocktail (e le sdraio sono gratis)",
+        "description": "Sul molo Sant’Antuono, Il Vecchio e il Mare vive dalla colazione al dopocena tra cucina di pesce, cocktail creati al tavolo scegliendo le botaniche, degustazion…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/trani-il-vecchio-e-il-mare-cocktail-botanical-box/",
+        "pubDate": "2026-08-19T07:23:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel paese di 3mila abitanti c’è un ristorante con oltre 900 vini, amato dai vignaioli",
+        "description": "Simone Maglioni aprì La Tana degli Orsi a Pratovecchio nel 1987. Negli anni Novanta cominciò a organizzare degustazioni con i vignaioli e trasformò un piccolo r…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tana-degli-orsi-pratovecchio-vino-degustazioni/",
+        "pubDate": "2026-08-19T07:15:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fa gelato da oltre vent’anni ed è tra i migliori d’Italia: “Il segreto è non seguire le mode”",
+        "description": "Gianfrancesco Cutelli ha aperto De' Coltelli a Pisa nel 2004. Siciliano di nascita, costruisce gelati e granite partendo da stagionalità, piccoli produttori e r…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gianfrancesco-cutelli-segreti-buon-gelato/",
+        "pubDate": "2026-08-19T06:42:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le vecchie osterie francesi sul fiume dove si mangiano rane, si beve vino e si gioca a bocce",
+        "description": "Nate come osterie popolari fuori città, le guinguettes sono tornate di moda. A Lione sopravvivono quelle storiche tra rane, vino e pétanque…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/guinguettes-lione-osterie-saona-cosce-rana/",
+        "pubDate": "2026-08-19T06:18:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "4 hotel sulle isole dove la cucina racconta davvero il territorio",
         "description": "Nel turismo di alta gamma delle isole italiane, la cucina è diventata nel 2026 uno dei criteri decisivi nella scelta di un hotel: accade in Sardegna, e in parti…",
@@ -10,6 +109,24 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Stanche dei soliti copricostumi? Questi sono gli abiti freschi e chic da indossare (sì, anche in spiaggia)",
+        "description": "Arriva l’estate e puntualmente, oltre a rinnovare la nostra collezione di bikini, ci viene voglia di scegliere anche dei nuovi copricostumi da portare con noi i…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-donna-leggeri-freschi-spiaggia-eleganti-caftani-crochet-mini-dress-uncinetto-lungo-estate-donna-985327",
+        "pubDate": "2026-08-19T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_abiti_spiaggia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "11 ristoranti sul mare da provare in Sardegna in estate, da Porto Cervo a Pula",
+        "description": "Fine dining, bistrot, cucine di resort e insegne familiari: undici indirizzi lungo l'isola per scoprire modi molto diversi di cucinare la Sardegna…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/ristoranti-sardegna-estate/",
+        "pubDate": "2026-08-19T04:43:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Caggionetti, il caso che accende il dibattito",
@@ -64,126 +181,36 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Da cava abbandonata a cantina d’autore: il luogo più sorprendente da visitare a Bolgheri",
-        "description": "Nata dal recupero di un'ex cava, Cantina Meraviglia oggi è una destinazione dove architettura, vino e paesaggio si intrecciano in armonia. Ecco tutte le esperie…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cantina-meraviglia-bolgheri/",
-        "pubDate": "2026-08-18T10:14:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ricordate quando il vino non era in crisi? Bene, ora il presidente dell’UIV apre agli estirpi",
-        "description": "Frescobaldi apre agli espianti dei vigneti per affrontare la crisi del vino italiano, ma il piano solleva dubbi, contraddizioni e mancano soluzioni concrete.\nL'…",
-        "link": "https://www.dissapore.com/bere/ricordate-quando-il-vino-non-era-in-crisi-bene-ora-il-presidente-delluiv-apre-agli-estirpi/",
-        "pubDate": "2026-08-18T10:14:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/04/Il-Vinitaly-e%CC%80-un-paradigma-superato-Intervista-a-Matteo-Ascheri-Presidente-del-Consorzio-di-Tutela-di-Barolo-e-Barbaresco--scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il segreto per look freschi e chic sia in spiaggia che in città? Quest’estate puntate tutto sugli chemisier a righe",
-        "description": "Così freschi e leggeri da diventare i perfetti alleati di stile in spiaggia, così versatili e chic da trasformarsi in un vero jolly anche in città: gli chemisie…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/chemisier-a-righe-verticali-orizzontali-vestito-zara-donna-a-camicia-estate-992616",
-        "pubDate": "2026-08-18T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Chemisier_a_righe.jpg",
+        "title": "Pantaloni balloon: 5 idee per abbinarli con stile da qui fino alla fine dell’estate",
+        "description": "Hanno iniziato a spopolare dappertutto all’inizio della primavera e a distanza di mesi poco o nulla è cambiato: i pantaloni balloon sono ancora uno dei capi più…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-i-pantaloni-baloon-idee-outfit-donna-estate-a-chi-stanno-bene-zara-scarpe-per-992634",
+        "pubDate": "2026-08-19T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_pantaloni_balloon.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "La Sicilia è tra le mete più amate e scelte dai turisti. E le cantine adesso ci credono",
-        "description": "Le cantine tendono a offrire generalmente da una a quattro esperienze diverse con proposte di varie fasce di prezzo. I punti di forza sono il prodotto e l'attra…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/sicilia-crescita-enoturismo-dati-nomisma/",
-        "pubDate": "2026-08-18T09:07:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vacanze a settembre 2026: le migliori destinazioni in Italia per mare, relax e cultura",
-        "description": "Settembre è uno dei mesi migliori per viaggiare in Italia: meno folla, temperature più piacevoli e spesso prezzi più convenienti. Ecco dove andare.…",
-        "link": "https://www.stylosophy.it/articolo/vacanze-a-settembre-2026-le-migliori-destinazioni-in-italia/253403/",
-        "pubDate": "2026-08-18T09:00:00+00:00",
+        "title": "Terra abbronzante in polvere: i migliori bronzer per un effetto naturale",
+        "description": "Quando l'abbronzatura vera tarda ad arrivare, il bronzer giusto può scaldare l'incarnato in pochi gesti. Ecco le formule in polvere da conoscere e come sceglier…",
+        "link": "https://www.stylosophy.it/articolo/terra-abbronzante-in-polvere-i-migliori-bronzer-per-un-effetto-naturale/253423/",
+        "pubDate": "2026-08-19T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "In un paesino di Puglia (quasi) come in Francia, il comune riapre un caffè chiuso dopo 138 anni",
-        "description": "A Pietramontecorvino chiude l'unico caffè e dopo 6 mesi riapre con un progetto comunitario e senza scopo di lucro, il che potrebbe non essere un bene.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/in-un-paesino-di-puglia-quasi-come-in-francia-il-comune-riapre-un-caffe-chiuso-dopo-138-anni/",
-        "pubDate": "2026-08-18T08:49:43+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Sedano e bottarga: il semplicissimo piatto sardo che a San Francisco costa 29 dollari",
-        "description": "Bottarga di muggine, sedano e olio extravergine: uno degli antipasti più semplici della Sardegna è arrivato fino a San Francisco, dove viene servito a 29 dollar…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sedano-bottarga-antipasto-sardo-san-francisco/",
-        "pubDate": "2026-08-18T08:13:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Berlino si può mangiare currywurst e bere birra a 203 metri di altezza",
-        "description": "Tim Raue porta la cucina berlinese sulla Fernsehturm: currywurst, birra e vista sulla città a oltre 200 metri di altezza…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/currywurst-tim-raue-torre-televisione-berlino/",
-        "pubDate": "2026-08-18T07:52:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Francia si vendemmia già da luglio. Il caldo sta cambiando anche l’ora dell’aperitivo",
-        "description": "Dalle vigne francesi ai dehors dedicati agli aperitivi, le ondate di calore anticipano i raccolti e riducono i fatturati. E molte perdite restano fuori dalle as…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caldo-vendemmia-anticipata-ristoranti-aperitivo/",
-        "pubDate": "2026-08-18T07:49:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il ristorante toscano famoso per le frollature estreme apre un’osteria con ragù di capra e piccione della nonna",
-        "description": "Dal 1° settembre Edoardo Tilli raddoppia Podere Belvedere con 15-16 coperti e una cucina più immediata, costruita sulle stesse materie prime del ristorante…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/podere-belvedere-osteria-edoardo-tilli/",
-        "pubDate": "2026-08-18T07:32:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ho lavorato nelle cucine dei ristoranti a 42 gradi. E il caldo non è il solo problema",
-        "description": "Forni, griglie e friggitrici possono trasformare le cucine professionali in ambienti estremamente caldi. Il racconto di chi ci ha lavorato e la richiesta di ric…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caldo-cucine-ristoranti-cuochi-lavoro-usurante/",
-        "pubDate": "2026-08-18T06:36:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il dolce campano ripieno di ricotta e cioccolato che sembra una gigantesca crostata",
-        "description": "Frolla, ricotta e un cuore di crema al cioccolato: a San Gregorio Magno la Pizza Dolce accompagna feste e ricorrenze ed è legata alla tradizione pastorale del p…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-dolce-san-gregorio-magno-ricetta/",
-        "pubDate": "2026-08-18T06:20:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gonna + sandali: l’abbinamento più chic dell’estate in 7 combo da provare",
-        "description": "Di giorno con ballerine intrecciate e jelly shoes, di sera con slingback rasoterra e décolleté con kittens heels: quando si tratta di scegliere con quali scarpe…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-e-sandali-come-abbinare-indossare-gonna-corta-midi-lunga-tacco-look-outfit-estate-984170",
-        "pubDate": "2026-08-18T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_desktop_7gonne_7_Sandali.jpg",
+        "title": "Stanche dei soliti copricostumi? Questi sono gli abiti freschi e chic da indossare (sì, anche in spiaggia)",
+        "description": "Arriva l’estate e puntualmente, oltre a rinnovare la nostra collezione di bikini, ci viene voglia di scegliere anche dei nuovi copricostumi da portare con noi i…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-donna-leggeri-freschi-spiaggia-eleganti-caftani-crochet-mini-dress-uncinetto-lungo-estate-donna-985327",
+        "pubDate": "2026-08-19T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_abiti_spiaggia.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      }
-    ],
-    "moda": [
+      },
       {
         "title": "Kylie Jenner lancia una capsule collection di scarpe insieme a Gia Borghini",
         "description": "Kylie Jenner lancia una capsule collection di scarpe insieme a Gia Borghini: qui per i dettagli.…",
@@ -336,36 +363,90 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Giulia De Lellis sfoggia lo slip dress must di questa stagione FOTO",
-        "description": "Giulia De Lellis non rinuncia allo stile più trendy e glamour e sfoggia l'abito a sottoveste in satin e pizzo perfetto per questa stagione.…",
-        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-sfoggia-lo-slip-dress-must-di-questa-stagione-foto/253411/",
-        "pubDate": "2026-08-13T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "In partenza per le vacanze? Ecco gli abiti estivi da mettere in valigia all’ultimo",
-        "description": "Le vacanze sono praticamente arrivate, ci sono ancora gli ultimi bagagli da preparare e la domanda che ci ronza in testa è sempre la stessa: cosa mettere in val…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-estivi-da-infilare-in-valigia-all-ultimo-minuto-vacanze-freschi-chic-estate-zara-mango-992430",
-        "pubDate": "2026-08-13T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Vestiti_vacanze.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Borse estive bellissime e dove trovarle: ecco le varianti che eleveranno tutti i vostri look (anche da spiaggia)",
-        "description": "In estate ci sono accessori che più di tutti raccontano l&#8217;arrivo dell&#8217;estate: le borse da spiaggia. Se pensate che siano soltanto contenitori capien…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/borse-estive-da-spiaggia-da-mare-rafia-tela-borsa-paglia-crochet-shopper-estate-2026-983248",
-        "pubDate": "2026-08-13T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/borsa-estate-spiaggia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Presto cambieranno le regole per i prodotti che si dichiarano vegan",
+        "description": "Le nuove direttive europee contro il greenwashing cambieranno le regole per le etichettature dei prodotti che si dichiarano sostenibili e amici del Pianeta. \nL'…",
+        "link": "https://www.dissapore.com/notizie/presto-cambieranno-le-regole-per-i-prodotti-che-si-dichiarano-vegan/",
+        "pubDate": "2026-08-19T09:20:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/01/coca-cola-tappi.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Chi è stato Gilberto Mora, Presidente della Compagnia del Cioccolato",
+        "description": "Chi è stato Gilberto Mora, una vita nella cultura e nella divulgazione del cacao. \nL'articolo Chi è stato Gilberto Mora, Presidente della Compagnia del Cioccola…",
+        "link": "https://www.dissapore.com/notizie/chi-e-stato-gilberto-mora-presidente-della-compagnia-del-cioccolato/",
+        "pubDate": "2026-08-19T08:53:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/Gilberto-Mora-e1787073084384.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Lasciò il Soave quando tutti gli dicevano che era una follia. A 78 anni Roberto Anselmi rifarebbe tutto",
+        "description": "Roberto Anselmi compie 78 anni. Ha trasformato la cantina del padre in un'azienda vitivinicola conosciuta nel mondo, rivoluzionato il lavoro in vigna e nel 1999…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/roberto-anselmi-78-anni-storia-soave-vini/",
+        "pubDate": "2026-08-19T08:47:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sull’Etna c’è un treno che attraversa i vigneti e porta nelle cantine per assaggiare i vini del vulcano",
+        "description": "Il viaggio parte da Linguaglossa e arriva a Randazzo sulla Circumetnea, poi prosegue in Wine Bus con due cantine, quattro vini Etna DOC e prodotti locali. Il bi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/treno-vini-etna-percorso-prezzi/",
+        "pubDate": "2026-08-19T08:34:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Lipari un grano antico è rinato da 20 spighe conservate per quarant’anni",
+        "description": "Antonello Cincotta ha recuperato il Margherito partendo da venti spighe conservate dal nonno. Oggi a Lipari coltiva dieci ettari e produce farina, pasta e birra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/grano-margherito-lipari-20-spighe-cincotta/",
+        "pubDate": "2026-08-19T07:56:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante sul mare di Trani dove mangi pesce e bevi cocktail (e le sdraio sono gratis)",
+        "description": "Sul molo Sant’Antuono, Il Vecchio e il Mare vive dalla colazione al dopocena tra cucina di pesce, cocktail creati al tavolo scegliendo le botaniche, degustazion…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/trani-il-vecchio-e-il-mare-cocktail-botanical-box/",
+        "pubDate": "2026-08-19T07:23:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel paese di 3mila abitanti c’è un ristorante con oltre 900 vini, amato dai vignaioli",
+        "description": "Simone Maglioni aprì La Tana degli Orsi a Pratovecchio nel 1987. Negli anni Novanta cominciò a organizzare degustazioni con i vignaioli e trasformò un piccolo r…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tana-degli-orsi-pratovecchio-vino-degustazioni/",
+        "pubDate": "2026-08-19T07:15:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fa gelato da oltre vent’anni ed è tra i migliori d’Italia: “Il segreto è non seguire le mode”",
+        "description": "Gianfrancesco Cutelli ha aperto De' Coltelli a Pisa nel 2004. Siciliano di nascita, costruisce gelati e granite partendo da stagionalità, piccoli produttori e r…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gianfrancesco-cutelli-segreti-buon-gelato/",
+        "pubDate": "2026-08-19T06:42:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le vecchie osterie francesi sul fiume dove si mangiano rane, si beve vino e si gioca a bocce",
+        "description": "Nate come osterie popolari fuori città, le guinguettes sono tornate di moda. A Lione sopravvivono quelle storiche tra rane, vino e pétanque…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/guinguettes-lione-osterie-saona-cosce-rana/",
+        "pubDate": "2026-08-19T06:18:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "4 hotel sulle isole dove la cucina racconta davvero il territorio",
         "description": "Nel turismo di alta gamma delle isole italiane, la cucina è diventata nel 2026 uno dei criteri decisivi nella scelta di un hotel: accade in Sardegna, e in parti…",
@@ -374,6 +455,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "11 ristoranti sul mare da provare in Sardegna in estate, da Porto Cervo a Pula",
+        "description": "Fine dining, bistrot, cucine di resort e insegne familiari: undici indirizzi lungo l'isola per scoprire modi molto diversi di cucinare la Sardegna…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/ristoranti-sardegna-estate/",
+        "pubDate": "2026-08-19T04:43:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Caggionetti, il caso che accende il dibattito",
@@ -421,15 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Da cava abbandonata a cantina d’autore: il luogo più sorprendente da visitare a Bolgheri",
-        "description": "Nata dal recupero di un'ex cava, Cantina Meraviglia oggi è una destinazione dove architettura, vino e paesaggio si intrecciano in armonia. Ecco tutte le esperie…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cantina-meraviglia-bolgheri/",
-        "pubDate": "2026-08-18T10:14:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Ricordate quando il vino non era in crisi? Bene, ora il presidente dell’UIV apre agli estirpi",
         "description": "Frescobaldi apre agli espianti dei vigneti per affrontare la crisi del vino italiano, ma il piano solleva dubbi, contraddizioni e mancano soluzioni concrete.\nL'…",
         "link": "https://www.dissapore.com/bere/ricordate-quando-il-vino-non-era-in-crisi-bene-ora-il-presidente-delluiv-apre-agli-estirpi/",
@@ -439,15 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "La Sicilia è tra le mete più amate e scelte dai turisti. E le cantine adesso ci credono",
-        "description": "Le cantine tendono a offrire generalmente da una a quattro esperienze diverse con proposte di varie fasce di prezzo. I punti di forza sono il prodotto e l'attra…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/sicilia-crescita-enoturismo-dati-nomisma/",
-        "pubDate": "2026-08-18T09:07:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "In un paesino di Puglia (quasi) come in Francia, il comune riapre un caffè chiuso dopo 138 anni",
         "description": "A Pietramontecorvino chiude l'unico caffè e dopo 6 mesi riapre con un progetto comunitario e senza scopo di lucro, il che potrebbe non essere un bene.\nL'articol…",
         "link": "https://www.dissapore.com/notizie/in-un-paesino-di-puglia-quasi-come-in-francia-il-comune-riapre-un-caffe-chiuso-dopo-138-anni/",
@@ -455,60 +527,6 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Sedano e bottarga: il semplicissimo piatto sardo che a San Francisco costa 29 dollari",
-        "description": "Bottarga di muggine, sedano e olio extravergine: uno degli antipasti più semplici della Sardegna è arrivato fino a San Francisco, dove viene servito a 29 dollar…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sedano-bottarga-antipasto-sardo-san-francisco/",
-        "pubDate": "2026-08-18T08:13:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Berlino si può mangiare currywurst e bere birra a 203 metri di altezza",
-        "description": "Tim Raue porta la cucina berlinese sulla Fernsehturm: currywurst, birra e vista sulla città a oltre 200 metri di altezza…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/currywurst-tim-raue-torre-televisione-berlino/",
-        "pubDate": "2026-08-18T07:52:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Francia si vendemmia già da luglio. Il caldo sta cambiando anche l’ora dell’aperitivo",
-        "description": "Dalle vigne francesi ai dehors dedicati agli aperitivi, le ondate di calore anticipano i raccolti e riducono i fatturati. E molte perdite restano fuori dalle as…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caldo-vendemmia-anticipata-ristoranti-aperitivo/",
-        "pubDate": "2026-08-18T07:49:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il ristorante toscano famoso per le frollature estreme apre un’osteria con ragù di capra e piccione della nonna",
-        "description": "Dal 1° settembre Edoardo Tilli raddoppia Podere Belvedere con 15-16 coperti e una cucina più immediata, costruita sulle stesse materie prime del ristorante…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/podere-belvedere-osteria-edoardo-tilli/",
-        "pubDate": "2026-08-18T07:32:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ho lavorato nelle cucine dei ristoranti a 42 gradi. E il caldo non è il solo problema",
-        "description": "Forni, griglie e friggitrici possono trasformare le cucine professionali in ambienti estremamente caldi. Il racconto di chi ci ha lavorato e la richiesta di ric…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caldo-cucine-ristoranti-cuochi-lavoro-usurante/",
-        "pubDate": "2026-08-18T06:36:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il dolce campano ripieno di ricotta e cioccolato che sembra una gigantesca crostata",
-        "description": "Frolla, ricotta e un cuore di crema al cioccolato: a San Gregorio Magno la Pizza Dolce accompagna feste e ricorrenze ed è legata alla tradizione pastorale del p…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-dolce-san-gregorio-magno-ricetta/",
-        "pubDate": "2026-08-18T06:20:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Zucchine al formaggio: il contorno filante che conquista tutti",
@@ -525,24 +543,6 @@
         "link": "https://www.dissapore.com/tv/quanto-costa-vivere-il-sogno-immobiliare-con-max-mariola-non-carbonare-ma-solide-realta/",
         "pubDate": "2026-08-17T16:37:59+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/max-mariola-spiaggia-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Barchette di cetrioli fresche e sfiziose",
-        "description": "Le barchette di cetrioli tornano in tavola nell’estate 2026 come antipasto freddo, economico e rapido, preparato in casa in circa 10 minuti con cetrioli lunghi,…",
-        "link": "https://www.gustoblog.it/2026/08/17/barchette-di-cetrioli-fresche-e-sfiziose/",
-        "pubDate": "2026-08-17T13:03:21+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La nuova acquisizione di Ferrero: i cereali salutari Purely Elizabeth",
-        "description": "Sempre più protagonista sul mercato americano e leader nel settore dei prodotti da colazione, Ferrero conclude un'altra acquisizione: un marchio di cereali salu…",
-        "link": "https://www.dissapore.com/notizie/la-nuova-acquisizione-di-ferrero-i-cereali-salutari-purely-elizabeth/",
-        "pubDate": "2026-08-17T11:32:42+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/purely-elizabeth-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
