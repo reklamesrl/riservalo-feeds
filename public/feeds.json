@@ -1,7 +1,106 @@
 {
-  "generated": "2026-08-20T06:45:07.916340+00:00",
+  "generated": "2026-08-20T12:49:11.013633+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Masters of Wine 2026: sette nuovi ingressi, Portogallo e Ungheria entrano nella mappa dei MW",
+        "description": "L’Institute of Masters of Wine (IMW) annuncia sette nuovi Masters of Wine nel 2026. Alice Archer (Regno Unito), Owain Hughes (Regno Unito), Weiran Liu (Cina), G…",
+        "link": "https://www.winemag.it/masters-of-wine-2026-sette-nuovi-ingressi-portogallo-e-ungheria-entrano-nella-mappa-dei-mw/",
+        "pubDate": "2026-08-20T10:05:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I coltivatori di cacao in Africa faticano a rispettare i regolamenti europei anti deforestazione",
+        "description": "Il Regolamento dell'Unione Europea sulla Deforestazione prevede tracciabilità del prodotto fino alla singola particella di terra, ma metterlo in pratica nei pae…",
+        "link": "https://www.dissapore.com/notizie/i-coltivatori-di-cacao-in-africa-faticano-a-rispettare-i-regolamenti-europei-anti-deforestazione/",
+        "pubDate": "2026-08-20T10:03:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/cacao-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il pizzo non va (mai) in vacanza! Ecco i top più romantici dell’estate da puntare subito",
+        "description": "Sono uno dei capi più femminili e chic che possiamo avere nell’armadio e se in questa stagione possono trovare spazio nel guardaroba quotidiano a fianco di abit…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/top-romantici-in-pizzo-sangallo-lingerie-seta-ricami-trafori-estate-donna-992700",
+        "pubDate": "2026-08-20T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Top_romantici_in_pizzo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Vendemmia 2026, in Alto Adige è la più precoce della storia",
+        "description": "La vendemmia 2026 è già iniziata in diverse zone dell’Alto Adige. Le temperature elevate dell’estate, unite a una primavera eccezionalmente calda, hanno acceler…",
+        "link": "https://www.winemag.it/vendemmia-2026-in-alto-adige-e-la-piu-precoce-della-storia/",
+        "pubDate": "2026-08-20T09:40:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ristrutturare il bagno: costi, scelte intelligenti e segreti per non sforare il budget",
+        "description": "Per rinnovare il bagno ed evitare spese impreviste serve un piano ben studiato. Scopri come orientarti tra materiali, manodopera e soluzioni smart per ottenere …",
+        "link": "https://www.stylosophy.it/articolo/ristrutturare-il-bagno-costi-scelte-intelligenti-e-segreti-per-non-sforare-il-budget/236948/",
+        "pubDate": "2026-08-20T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "L’Oltrepò su misura. Un pomeriggio a Canneto Pavese da Cantine Giorgi",
+        "description": "Nell’Oltrepò Pavese tra enoteca, cantina e vigneti, la famiglia Giorgi trasforma l'accoglienza in un'esperienza cucita di volta in volta su chi arriva. Tra le c…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/oltrepo-pavese-cantine-giorgi-enoturismo/",
+        "pubDate": "2026-08-20T08:29:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo smesso di mangiare l’insalata di pollo e paghiamo 15 euro per la Caesar Salad",
+        "description": "Per anni l’insalata di pollo è stata il piatto estivo di recupero per eccellenza. Poi la Caesar Salad ha trasformato pollo e lattuga in un classico internaziona…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/declino-insalata-pollo-italiana-caesar-salad/",
+        "pubDate": "2026-08-20T08:09:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Quel pregiudizio che esclude i bambini dalle visite in cantina. Perché l’enoturismo è così poco family friendly",
+        "description": "La disattenzione verso gli enoturisti con bambini emerge anche dai pochi dati a disposizione. Eppure si può sviluppare un modello di visita che forma i consumat…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cantine-italiane-family-friendly/",
+        "pubDate": "2026-08-20T07:02:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante sul mare dove Carlo Conti e Leonardo Pieraccioni tornano a mangiare il pesce",
+        "description": "Fabio Simpatia è arrivato in Toscana ventenne e oggi gestisce il Vistamare a Rosignano Solvay, frequentato anche da Carlo Conti e Leonardo Pieraccioni…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-carlo-conti-leonardo-pieraccioni-vistamare-rosignano/",
+        "pubDate": "2026-08-20T06:52:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Firenze una piccola cevicheria è diventata un ristorante peruviano con soli 4 posti davanti allo chef",
+        "description": "Francys Salazar è arrivato a Firenze da Lima da ragazzo e qui ha aperto Sevi: ceviche, cucina Chifa e Nikkei, cotture al kamado e un pairing di cocktail che rac…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/sevi-firenze-ristorante-peruviano-francys-salazar/",
+        "pubDate": "2026-08-20T06:19:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Top canotta + gonna”: la combo più furba dell’estate in 7 look da copiare",
+        "description": "Da una parte la canotta, uno dei pezzi chiave del guardaroba per la spiaggia che assicura look easy e disinvolti anche in città. Dall’altra la gonna, uno dei ca…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-top-canotta-e-gonna-outfit-canottiera-sotto-camicia-estate-978108",
+        "pubDate": "2026-08-20T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/tank-top-gonna-abbinamenti.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Papatilli o pepatelli, i biscotti speziati che raccontano la tradizione abruzzese",
         "description": "I papatilli, chiamati anche pepatelli, sono un dolce tradizionale italiano preparato soprattutto in casa durante il periodo natalizio, in particolare nelle aree…",
@@ -82,108 +181,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_pantaloni_balloon.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Il pizzo non va (mai) in vacanza! Ecco i top più romantici dell’estate da puntare subito",
+        "description": "Sono uno dei capi più femminili e chic che possiamo avere nell’armadio e se in questa stagione possono trovare spazio nel guardaroba quotidiano a fianco di abit…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/top-romantici-in-pizzo-sangallo-lingerie-seta-ricami-trafori-estate-donna-992700",
+        "pubDate": "2026-08-20T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Top_romantici_in_pizzo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Nasce il servizio di consegna vino negli Stati Uniti in 24 ore a prova di enoturista",
-        "description": "Lanciato da un'azienda toscana, è pensato come un hub direttamente sul suolo americano. Così l'enoturista che visita le cantine può acquistare le bottiglie senz…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/fieramente-consegna-vino-stati-uniti-24/",
-        "pubDate": "2026-08-19T09:24:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Presto cambieranno le regole per i prodotti che si dichiarano vegan",
-        "description": "Le nuove direttive europee contro il greenwashing cambieranno le regole per le etichettature dei prodotti che si dichiarano sostenibili e amici del Pianeta. \nL'…",
-        "link": "https://www.dissapore.com/notizie/presto-cambieranno-le-regole-per-i-prodotti-che-si-dichiarano-vegan/",
-        "pubDate": "2026-08-19T09:20:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/01/coca-cola-tappi.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Terra abbronzante in polvere: i migliori bronzer per un effetto naturale",
-        "description": "Quando l'abbronzatura vera tarda ad arrivare, il bronzer giusto può scaldare l'incarnato in pochi gesti. Ecco le formule in polvere da conoscere e come sceglier…",
-        "link": "https://www.stylosophy.it/articolo/terra-abbronzante-in-polvere-i-migliori-bronzer-per-un-effetto-naturale/253423/",
-        "pubDate": "2026-08-19T09:00:00+00:00",
+        "title": "Ristrutturare il bagno: costi, scelte intelligenti e segreti per non sforare il budget",
+        "description": "Per rinnovare il bagno ed evitare spese impreviste serve un piano ben studiato. Scopri come orientarti tra materiali, manodopera e soluzioni smart per ottenere …",
+        "link": "https://www.stylosophy.it/articolo/ristrutturare-il-bagno-costi-scelte-intelligenti-e-segreti-per-non-sforare-il-budget/236948/",
+        "pubDate": "2026-08-20T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Chi è stato Gilberto Mora, Presidente della Compagnia del Cioccolato",
-        "description": "Chi è stato Gilberto Mora, una vita nella cultura e nella divulgazione del cacao. \nL'articolo Chi è stato Gilberto Mora, Presidente della Compagnia del Cioccola…",
-        "link": "https://www.dissapore.com/notizie/chi-e-stato-gilberto-mora-presidente-della-compagnia-del-cioccolato/",
-        "pubDate": "2026-08-19T08:53:34+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/Gilberto-Mora-e1787073084384.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "“Top canotta + gonna”: la combo più furba dell’estate in 7 look da copiare",
+        "description": "Da una parte la canotta, uno dei pezzi chiave del guardaroba per la spiaggia che assicura look easy e disinvolti anche in città. Dall’altra la gonna, uno dei ca…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-top-canotta-e-gonna-outfit-canottiera-sotto-camicia-estate-978108",
+        "pubDate": "2026-08-20T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/tank-top-gonna-abbinamenti.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Lasciò il Soave quando tutti gli dicevano che era una follia. A 78 anni Roberto Anselmi rifarebbe tutto",
-        "description": "Roberto Anselmi compie 78 anni. Ha trasformato la cantina del padre in un'azienda vitivinicola conosciuta nel mondo, rivoluzionato il lavoro in vigna e nel 1999…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/roberto-anselmi-78-anni-storia-soave-vini/",
-        "pubDate": "2026-08-19T08:47:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sull’Etna c’è un treno che attraversa i vigneti e porta nelle cantine per assaggiare i vini del vulcano",
-        "description": "Il viaggio parte da Linguaglossa e arriva a Randazzo sulla Circumetnea, poi prosegue in Wine Bus con due cantine, quattro vini Etna DOC e prodotti locali. Il bi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/treno-vini-etna-percorso-prezzi/",
-        "pubDate": "2026-08-19T08:34:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Lipari un grano antico è rinato da 20 spighe conservate per quarant’anni",
-        "description": "Antonello Cincotta ha recuperato il Margherito partendo da venti spighe conservate dal nonno. Oggi a Lipari coltiva dieci ettari e produce farina, pasta e birra…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/grano-margherito-lipari-20-spighe-cincotta/",
-        "pubDate": "2026-08-19T07:56:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il ristorante sul mare di Trani dove mangi pesce e bevi cocktail (e le sdraio sono gratis)",
-        "description": "Sul molo Sant’Antuono, Il Vecchio e il Mare vive dalla colazione al dopocena tra cucina di pesce, cocktail creati al tavolo scegliendo le botaniche, degustazion…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/trani-il-vecchio-e-il-mare-cocktail-botanical-box/",
-        "pubDate": "2026-08-19T07:23:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel paese di 3mila abitanti c’è un ristorante con oltre 900 vini, amato dai vignaioli",
-        "description": "Simone Maglioni aprì La Tana degli Orsi a Pratovecchio nel 1987. Negli anni Novanta cominciò a organizzare degustazioni con i vignaioli e trasformò un piccolo r…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tana-degli-orsi-pratovecchio-vino-degustazioni/",
-        "pubDate": "2026-08-19T07:15:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fa gelato da oltre vent’anni ed è tra i migliori d’Italia: “Il segreto è non seguire le mode”",
-        "description": "Gianfrancesco Cutelli ha aperto De' Coltelli a Pisa nel 2004. Siciliano di nascita, costruisce gelati e granite partendo da stagionalità, piccoli produttori e r…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gianfrancesco-cutelli-segreti-buon-gelato/",
-        "pubDate": "2026-08-19T06:42:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "4 hotel sulle isole dove la cucina racconta davvero il territorio",
-        "description": "Nel turismo di alta gamma delle isole italiane, la cucina è diventata nel 2026 uno dei criteri decisivi nella scelta di un hotel: accade in Sardegna, e in parti…",
-        "link": "https://www.gustoblog.it/2026/08/19/4-hotel-sulle-isole-dove-la-cucina-racconta-davvero-il-territorio/",
-        "pubDate": "2026-08-19T06:02:54+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      }
-    ],
-    "moda": [
       {
         "title": "Chiara Ferragni sfoggia i pantaloni di super tendenza per questa stagione FOTO",
         "description": "Chiara Ferragni sfoggia i pantaloni firmati Etro di super tendenza per questa stagione: qui per i dettagli.…",
@@ -336,36 +363,81 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/EVI_Come_vestirsi_a_60_anni.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Rossetto fucsia: il colore dell’estate che illumina ogni incarnato (basta scegliere la tonalità giusta)!",
-        "description": "Intramontabile, audace e sorprendentemente versatile, il rossetto fucsia torna protagonista dell’estate. Scopri come valorizzarlo al meglio, in base alla tua ca…",
-        "link": "https://www.stylosophy.it/articolo/rossetto-fucsia-scegliere-la-tonalita-giusta/235179/",
-        "pubDate": "2026-08-14T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Dakota Johnson e quelle ballerine nere che anche noi vogliamo assolutamente mettere in wishlist",
-        "description": "In estate non serve strafare per riuscire a essere impeccabili h24, senza bisogno di impegnarsi troppo. Soprattutto in quelle giornate in cui il caldo si fa sen…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/ballerine-nere-accollate-eleganti-in-pelle-zara-punta-donna-dakota-johnson-992498",
-        "pubDate": "2026-08-14T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Ballerine_nere_Dakota_Johnson.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Costume intero: come abbinarlo con stile (e sfoggiarlo anche lontano dalla spiaggia)",
-        "description": "Concorderete con noi: niente urla “estate” più del costume da bagno. Sinonimo di vacanze, weekend fuori porta e giornate pieds dans l&#8217;eau, resta lui il re…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/costume-intero-come-abbinare-indossare-in-citta-look-abbinamenti-outfit-estivi-979851",
-        "pubDate": "2026-08-14T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_costume_intero.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Masters of Wine 2026: sette nuovi ingressi, Portogallo e Ungheria entrano nella mappa dei MW",
+        "description": "L’Institute of Masters of Wine (IMW) annuncia sette nuovi Masters of Wine nel 2026. Alice Archer (Regno Unito), Owain Hughes (Regno Unito), Weiran Liu (Cina), G…",
+        "link": "https://www.winemag.it/masters-of-wine-2026-sette-nuovi-ingressi-portogallo-e-ungheria-entrano-nella-mappa-dei-mw/",
+        "pubDate": "2026-08-20T10:05:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I coltivatori di cacao in Africa faticano a rispettare i regolamenti europei anti deforestazione",
+        "description": "Il Regolamento dell'Unione Europea sulla Deforestazione prevede tracciabilità del prodotto fino alla singola particella di terra, ma metterlo in pratica nei pae…",
+        "link": "https://www.dissapore.com/notizie/i-coltivatori-di-cacao-in-africa-faticano-a-rispettare-i-regolamenti-europei-anti-deforestazione/",
+        "pubDate": "2026-08-20T10:03:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/cacao-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Vendemmia 2026, in Alto Adige è la più precoce della storia",
+        "description": "La vendemmia 2026 è già iniziata in diverse zone dell’Alto Adige. Le temperature elevate dell’estate, unite a una primavera eccezionalmente calda, hanno acceler…",
+        "link": "https://www.winemag.it/vendemmia-2026-in-alto-adige-e-la-piu-precoce-della-storia/",
+        "pubDate": "2026-08-20T09:40:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "L’Oltrepò su misura. Un pomeriggio a Canneto Pavese da Cantine Giorgi",
+        "description": "Nell’Oltrepò Pavese tra enoteca, cantina e vigneti, la famiglia Giorgi trasforma l'accoglienza in un'esperienza cucita di volta in volta su chi arriva. Tra le c…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/oltrepo-pavese-cantine-giorgi-enoturismo/",
+        "pubDate": "2026-08-20T08:29:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo smesso di mangiare l’insalata di pollo e paghiamo 15 euro per la Caesar Salad",
+        "description": "Per anni l’insalata di pollo è stata il piatto estivo di recupero per eccellenza. Poi la Caesar Salad ha trasformato pollo e lattuga in un classico internaziona…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/declino-insalata-pollo-italiana-caesar-salad/",
+        "pubDate": "2026-08-20T08:09:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Quel pregiudizio che esclude i bambini dalle visite in cantina. Perché l’enoturismo è così poco family friendly",
+        "description": "La disattenzione verso gli enoturisti con bambini emerge anche dai pochi dati a disposizione. Eppure si può sviluppare un modello di visita che forma i consumat…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cantine-italiane-family-friendly/",
+        "pubDate": "2026-08-20T07:02:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante sul mare dove Carlo Conti e Leonardo Pieraccioni tornano a mangiare il pesce",
+        "description": "Fabio Simpatia è arrivato in Toscana ventenne e oggi gestisce il Vistamare a Rosignano Solvay, frequentato anche da Carlo Conti e Leonardo Pieraccioni…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristorante-carlo-conti-leonardo-pieraccioni-vistamare-rosignano/",
+        "pubDate": "2026-08-20T06:52:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Firenze una piccola cevicheria è diventata un ristorante peruviano con soli 4 posti davanti allo chef",
+        "description": "Francys Salazar è arrivato a Firenze da Lima da ragazzo e qui ha aperto Sevi: ceviche, cucina Chifa e Nikkei, cotture al kamado e un pairing di cocktail che rac…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/sevi-firenze-ristorante-peruviano-francys-salazar/",
+        "pubDate": "2026-08-20T06:19:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Papatilli o pepatelli, i biscotti speziati che raccontano la tradizione abruzzese",
         "description": "I papatilli, chiamati anche pepatelli, sono un dolce tradizionale italiano preparato soprattutto in casa durante il periodo natalizio, in particolare nelle aree…",
@@ -466,82 +538,10 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Sull’Etna c’è un treno che attraversa i vigneti e porta nelle cantine per assaggiare i vini del vulcano",
-        "description": "Il viaggio parte da Linguaglossa e arriva a Randazzo sulla Circumetnea, poi prosegue in Wine Bus con due cantine, quattro vini Etna DOC e prodotti locali. Il bi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/treno-vini-etna-percorso-prezzi/",
-        "pubDate": "2026-08-19T08:34:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Lipari un grano antico è rinato da 20 spighe conservate per quarant’anni",
-        "description": "Antonello Cincotta ha recuperato il Margherito partendo da venti spighe conservate dal nonno. Oggi a Lipari coltiva dieci ettari e produce farina, pasta e birra…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/grano-margherito-lipari-20-spighe-cincotta/",
-        "pubDate": "2026-08-19T07:56:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il ristorante sul mare di Trani dove mangi pesce e bevi cocktail (e le sdraio sono gratis)",
-        "description": "Sul molo Sant’Antuono, Il Vecchio e il Mare vive dalla colazione al dopocena tra cucina di pesce, cocktail creati al tavolo scegliendo le botaniche, degustazion…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/trani-il-vecchio-e-il-mare-cocktail-botanical-box/",
-        "pubDate": "2026-08-19T07:23:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel paese di 3mila abitanti c’è un ristorante con oltre 900 vini, amato dai vignaioli",
-        "description": "Simone Maglioni aprì La Tana degli Orsi a Pratovecchio nel 1987. Negli anni Novanta cominciò a organizzare degustazioni con i vignaioli e trasformò un piccolo r…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tana-degli-orsi-pratovecchio-vino-degustazioni/",
-        "pubDate": "2026-08-19T07:15:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fa gelato da oltre vent’anni ed è tra i migliori d’Italia: “Il segreto è non seguire le mode”",
-        "description": "Gianfrancesco Cutelli ha aperto De' Coltelli a Pisa nel 2004. Siciliano di nascita, costruisce gelati e granite partendo da stagionalità, piccoli produttori e r…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gianfrancesco-cutelli-segreti-buon-gelato/",
-        "pubDate": "2026-08-19T06:42:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "4 hotel sulle isole dove la cucina racconta davvero il territorio",
         "description": "Nel turismo di alta gamma delle isole italiane, la cucina è diventata nel 2026 uno dei criteri decisivi nella scelta di un hotel: accade in Sardegna, e in parti…",
         "link": "https://www.gustoblog.it/2026/08/19/4-hotel-sulle-isole-dove-la-cucina-racconta-davvero-il-territorio/",
         "pubDate": "2026-08-19T06:02:54+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Caggionetti, il caso che accende il dibattito",
-        "description": "A Caggionetti, dolce tradizionale italiano preparato soprattutto nel periodo delle feste in Abruzzo e nel Centro-Sud, sono dedicati oggi, 18 agosto 2026, gli ap…",
-        "link": "https://www.gustoblog.it/2026/08/18/caggionetti-il-caso-che-accende-il-dibattito/",
-        "pubDate": "2026-08-18T19:02:51+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Le coltivazioni italiane sotto attacco degli insetti",
-        "description": "Oltre a temperature record e all'emergenza idrica, l'agricoltura italiana deve affrontare un altro problema causato dal cambiamento climatico, la proliferazione…",
-        "link": "https://www.dissapore.com/notizie/le-coltivazioni-italiane-sotto-attacco-degli-insetti/",
-        "pubDate": "2026-08-18T13:27:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/xylella-ulivi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pipirrana, la ricetta fresca dell’estate spagnola",
-        "description": "La pipirrana spagnola, insalata fredda nata nel Sud della Spagna e preparata oggi in molte cucine italiane, torna sulle tavole estive come ricetta rapida e econ…",
-        "link": "https://www.gustoblog.it/2026/08/18/pipirrana-la-ricetta-fresca-dellestate-spagnola/",
-        "pubDate": "2026-08-18T13:02:58+00:00",
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
