@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-20T18:38:17.583081+00:00",
+  "generated": "2026-08-21T06:46:20.157254+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Torrone aquilano, il dolce simbolo della tradizione abruzzese",
+        "description": "A L’Aquila, soprattutto nei mesi freddi e nelle cucine di casa, il torrone aquilano resta uno dei dolci preparati per le feste perché unisce miele, zucchero, ci…",
+        "link": "https://www.gustoblog.it/2026/08/20/torrone-aquilano-il-dolce-simbolo-della-tradizione-abruzzese/",
+        "pubDate": "2026-08-20T19:02:50+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Dove mangiare nelle Citta murate del Veneto",
         "description": "Un itinerario gastronomico, tra fine dining e trattorie, attraverso le splendide Città Murate venete. Dove mangiare bene a Cittadella, Montagnana, Asolo, Castel…",
@@ -172,15 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/06/tank-top-gonna-abbinamenti.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Papatilli o pepatelli, i biscotti speziati che raccontano la tradizione abruzzese",
-        "description": "I papatilli, chiamati anche pepatelli, sono un dolce tradizionale italiano preparato soprattutto in casa durante il periodo natalizio, in particolare nelle aree…",
-        "link": "https://www.gustoblog.it/2026/08/19/papatilli-o-pepatelli-i-biscotti-speziati-che-raccontano-la-tradizione-abruzzese/",
-        "pubDate": "2026-08-19T19:02:48+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Torrone aquilano, il dolce simbolo della tradizione abruzzese",
+        "description": "A L’Aquila, soprattutto nei mesi freddi e nelle cucine di casa, il torrone aquilano resta uno dei dolci preparati per le feste perché unisce miele, zucchero, ci…",
+        "link": "https://www.gustoblog.it/2026/08/20/torrone-aquilano-il-dolce-simbolo-della-tradizione-abruzzese/",
+        "pubDate": "2026-08-20T19:02:50+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "Dove mangiare nelle Citta murate del Veneto",
         "description": "Un itinerario gastronomico, tra fine dining e trattorie, attraverso le splendide Città Murate venete. Dove mangiare bene a Cittadella, Montagnana, Asolo, Castel…",
         "link": "https://www.dissapore.com/ristoranti/dove-mangiare-nelle-citta-murate-del-veneto/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Presto cambieranno le regole per i prodotti che si dichiarano vegan",
-        "description": "Le nuove direttive europee contro il greenwashing cambieranno le regole per le etichettature dei prodotti che si dichiarano sostenibili e amici del Pianeta. \nL'…",
-        "link": "https://www.dissapore.com/notizie/presto-cambieranno-le-regole-per-i-prodotti-che-si-dichiarano-vegan/",
-        "pubDate": "2026-08-19T09:20:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/01/coca-cola-tappi.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
