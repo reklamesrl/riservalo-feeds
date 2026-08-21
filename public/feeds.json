@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-21T06:46:20.157254+00:00",
+  "generated": "2026-08-21T12:46:59.126801+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "I medici americani fanno causa alle nuove linee guide alimentari",
+        "description": "Un'associazione di medici americani ha chiesto il ritiro delle nuove linee guida alimentari governative, secondo loro frutto di conflitti d'interesse e attività…",
+        "link": "https://www.dissapore.com/notizie/i-medici-americani-fanno-causa-alle-nuove-linee-guide-alimentari/",
+        "pubDate": "2026-08-21T10:34:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Kaia Gerber ci svela il modo perfetto per indossare la gonna midi quest’estate (e non è la sola)",
+        "description": "Dall’inizio dell’estate abbiamo visto diverse celeb cedere al fascino della gonna midi e trasformarla nel pezzo chiave dei loro look estivi. Nelle ultime settim…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-gonna-midi-kaia-gerber-abbinamenti-estate-street-style-992740",
+        "pubDate": "2026-08-21T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_-gonna_midi_Kaia_Gerber.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Skincare estiva? Inizia da qui: le creme solari che proteggono e combattono i segni del tempo",
+        "description": "Il sole fa bene all’umore ma è il primo nemico della pelle. Ecco perché scegliere la protezione solare giusta può fare la differenza… anche in fatto di rughe.…",
+        "link": "https://www.stylosophy.it/articolo/skincare-estiva-le-creme-solari-che-proteggono-e-combattono-i-segni-del-tempo/229006/",
+        "pubDate": "2026-08-21T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Costa 16 euro e nasce in una cantina scavata 14 metri sotto il tufo: il bianco della Maremma che ci ha sorpreso",
+        "description": "Isolina 2024 di Sassotondo ha ottenuto 91 punti ed è entrato nella guida BereBene 2026. Nasce da trebbiano, sauvignon e greco nella Maremma vulcanica…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-vini-bianchi-maremma-isolina-sassotondo/",
+        "pubDate": "2026-08-21T08:42:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’ultima generazione di pescatori che resiste nella Sorrento del turismo di massa",
+        "description": "A Marina Grande, Porta Marina Seafood porta in tavola il pescato della famiglia in un borgo sempre più turistico, tra cucina semplice, tavoli sul mare e prezzi …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/porta-marina-seafood-pescatori-sorrento/",
+        "pubDate": "2026-08-21T06:50:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Ho fatto l’alberghiero e poi sono entrato nelle cucine vere: ecco cosa la scuola non mi aveva insegnato”",
+        "description": "A parlare è un ex studente dell’alberghiero che ha poi lavorato in diverse cucine, in Italia e all’estero. Dalla distanza tra i laboratori e il lavoro vero agli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/alberghiero-cucine-stage-esperienza-studente/",
+        "pubDate": "2026-08-21T06:46:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lungo la Via Francigena ci sono ristoranti che valgono il viaggio: 3 indirizzi tra Inghilterra, Francia e Svizzera",
+        "description": "Dalla partenza davanti alla Cattedrale di Canterbury fino alle Alpi svizzere, la Via Francigena attraversa alcuni dei territori gastronomici più interessanti d’…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/via-francigena-ristoranti-inghilterra-francia-svizzera/",
+        "pubDate": "2026-08-21T06:02:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Pantaloni beige: ecco come abbinarli quest’estate in 5 look stilosi (visti su Instagram)",
+        "description": "Abbiamo scommesso sul loro grande potenziale già all’inizio della primavera (quando abbiamo iniziato a fare una bella scorta di modelli freschi e leggeri) e nea…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-beige-come-abbinare-d-estate-look-eleganti-casual-abbinamenti-giorno-sera-donna-989142",
+        "pubDate": "2026-08-21T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Come_indossare_pantaloni_beige.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Le focacce sarde che pochi conoscono: una è piena di pomodoro, l’altra nasconde patate, formaggio e menta",
+        "description": "Su mustazzeddu nel Sulcis e sa coccoi prena in Ogliastra: due antiche focacce nate dal recupero dell’impasto del pane e diventate specialità dell’isola…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/focacce-sarde-mustazzeddu-coccoi-prena/",
+        "pubDate": "2026-08-21T04:44:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Torrone aquilano, il dolce simbolo della tradizione abruzzese",
         "description": "A L’Aquila, soprattutto nei mesi freddi e nelle cucine di casa, il torrone aquilano resta uno dei dolci preparati per le feste perché unisce miele, zucchero, ci…",
@@ -84,24 +165,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "La polpetta veneziana diventata leggenda: costa 2,50 euro e si mangia in un bacaro di 130 anni",
-        "description": "Alla Vedova è trattoria e bacaro da circa 130 anni. A Cannaregio si viene soprattutto per le celebri polpette calde, da accompagnare con un’ombra di vino…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/alla-vedova-venezia-polpette-bacaro/",
-        "pubDate": "2026-08-20T10:16:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Masters of Wine 2026: sette nuovi ingressi, Portogallo e Ungheria entrano nella mappa dei MW",
-        "description": "L’Institute of Masters of Wine (IMW) annuncia sette nuovi Masters of Wine nel 2026. Alice Archer (Regno Unito), Owain Hughes (Regno Unito), Weiran Liu (Cina), G…",
-        "link": "https://www.winemag.it/masters-of-wine-2026-sette-nuovi-ingressi-portogallo-e-ungheria-entrano-nella-mappa-dei-mw/",
-        "pubDate": "2026-08-20T10:05:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "I coltivatori di cacao in Africa faticano a rispettare i regolamenti europei anti deforestazione",
         "description": "Il Regolamento dell'Unione Europea sulla Deforestazione prevede tracciabilità del prodotto fino alla singola particella di terra, ma metterlo in pratica nei pae…",
         "link": "https://www.dissapore.com/notizie/i-coltivatori-di-cacao-in-africa-faticano-a-rispettare-i-regolamenti-europei-anti-deforestazione/",
@@ -118,72 +181,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Top_romantici_in_pizzo.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Kaia Gerber ci svela il modo perfetto per indossare la gonna midi quest’estate (e non è la sola)",
+        "description": "Dall’inizio dell’estate abbiamo visto diverse celeb cedere al fascino della gonna midi e trasformarla nel pezzo chiave dei loro look estivi. Nelle ultime settim…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-gonna-midi-kaia-gerber-abbinamenti-estate-street-style-992740",
+        "pubDate": "2026-08-21T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_-gonna_midi_Kaia_Gerber.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Da visitatori a community del vino: perché adesso anche le cantine italiane scommettono sui wine club",
-        "description": "Non più semplici programmi fedeltà, ma strumenti per costruire relazioni durature con gli appassionati. Tra esperienze esclusive, ospitalità e accesso a etichet…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/wine-club-cantine-italiane-dievole-borro-ruffino/",
-        "pubDate": "2026-08-20T09:41:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vendemmia 2026, in Alto Adige è la più precoce della storia",
-        "description": "La vendemmia 2026 è già iniziata in diverse zone dell’Alto Adige. Le temperature elevate dell’estate, unite a una primavera eccezionalmente calda, hanno acceler…",
-        "link": "https://www.winemag.it/vendemmia-2026-in-alto-adige-e-la-piu-precoce-della-storia/",
-        "pubDate": "2026-08-20T09:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Ristrutturare il bagno: costi, scelte intelligenti e segreti per non sforare il budget",
-        "description": "Per rinnovare il bagno ed evitare spese impreviste serve un piano ben studiato. Scopri come orientarti tra materiali, manodopera e soluzioni smart per ottenere …",
-        "link": "https://www.stylosophy.it/articolo/ristrutturare-il-bagno-costi-scelte-intelligenti-e-segreti-per-non-sforare-il-budget/236948/",
-        "pubDate": "2026-08-20T09:00:00+00:00",
+        "title": "Skincare estiva? Inizia da qui: le creme solari che proteggono e combattono i segni del tempo",
+        "description": "Il sole fa bene all’umore ma è il primo nemico della pelle. Ecco perché scegliere la protezione solare giusta può fare la differenza… anche in fatto di rughe.…",
+        "link": "https://www.stylosophy.it/articolo/skincare-estiva-le-creme-solari-che-proteggono-e-combattono-i-segni-del-tempo/229006/",
+        "pubDate": "2026-08-21T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "L’Oltrepò su misura. Un pomeriggio a Canneto Pavese da Cantine Giorgi",
-        "description": "Nell’Oltrepò Pavese tra enoteca, cantina e vigneti, la famiglia Giorgi trasforma l'accoglienza in un'esperienza cucita di volta in volta su chi arriva. Tra le c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/oltrepo-pavese-cantine-giorgi-enoturismo/",
-        "pubDate": "2026-08-20T08:29:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo smesso di mangiare l’insalata di pollo e paghiamo 15 euro per la Caesar Salad",
-        "description": "Per anni l’insalata di pollo è stata il piatto estivo di recupero per eccellenza. Poi la Caesar Salad ha trasformato pollo e lattuga in un classico internaziona…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/declino-insalata-pollo-italiana-caesar-salad/",
-        "pubDate": "2026-08-20T08:09:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quel pregiudizio che esclude i bambini dalle visite in cantina. Perché l’enoturismo è così poco family friendly",
-        "description": "La disattenzione verso gli enoturisti con bambini emerge anche dai pochi dati a disposizione. Eppure si può sviluppare un modello di visita che forma i consumat…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cantine-italiane-family-friendly/",
-        "pubDate": "2026-08-20T07:02:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Top canotta + gonna”: la combo più furba dell’estate in 7 look da copiare",
-        "description": "Da una parte la canotta, uno dei pezzi chiave del guardaroba per la spiaggia che assicura look easy e disinvolti anche in città. Dall’altra la gonna, uno dei ca…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-top-canotta-e-gonna-outfit-canottiera-sotto-camicia-estate-978108",
-        "pubDate": "2026-08-20T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/tank-top-gonna-abbinamenti.jpg",
+        "title": "Pantaloni beige: ecco come abbinarli quest’estate in 5 look stilosi (visti su Instagram)",
+        "description": "Abbiamo scommesso sul loro grande potenziale già all’inizio della primavera (quando abbiamo iniziato a fare una bella scorta di modelli freschi e leggeri) e nea…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-beige-come-abbinare-d-estate-look-eleganti-casual-abbinamenti-giorno-sera-donna-989142",
+        "pubDate": "2026-08-21T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Come_indossare_pantaloni_beige.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      }
-    ],
-    "moda": [
+      },
       {
         "title": "Annalisa, in tour con il Look super sexy: body bianco con frange, calze a rete e stivali in pelle",
         "description": "Annalisa, per l'ultima tappa del suo tour estivo, ha scelto un look molto sexy con body bianco con frange, calze a rete e stivali in pelle.…",
@@ -336,36 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "7 modi per indossare il foulard d’estate",
-        "description": "Esistono accessori che, con la loro sola presenza nel fashion heritage, definiscono un preciso momento dell&#8217;anno. Uno di questi è senza dubbio il foulard.…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-foulard-modi-di-portarlo-collo-capelli-cintura-top-bandana-abbinamenti-estate-2026-981946",
-        "pubDate": "2026-08-16T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/00_desktop_foulard_inspo_look.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Chanel Totti sfoggia il bikini ‘duo in uno’, il must di stagione FOTO",
-        "description": "Chanel Totti sfoggia il bikini 'duo in uno' dall'effetto layering: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chanel-totti-sfoggia-il-bikini-duo-in-uno-il-must-di-stagione-foto/253435/",
-        "pubDate": "2026-08-15T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Come vestirsi bene a 60 anni senza spendere troppo: i capi e gli accessori da avere nell’armadio per costruire look semplici e chic",
-        "description": "Si pensa sempre che, superata una certa età, anche il guardaroba debba adeguarsi a regole precise ma chi lo ha stabilito che lo stile debba necessariamente segu…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-bene-a-60-anni-spendendo-poco-estate-look-donna-over-60-cosa-comprare-977229",
-        "pubDate": "2026-08-15T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/EVI_Come_vestirsi_a_60_anni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "I medici americani fanno causa alle nuove linee guide alimentari",
+        "description": "Un'associazione di medici americani ha chiesto il ritiro delle nuove linee guida alimentari governative, secondo loro frutto di conflitti d'interesse e attività…",
+        "link": "https://www.dissapore.com/notizie/i-medici-americani-fanno-causa-alle-nuove-linee-guide-alimentari/",
+        "pubDate": "2026-08-21T10:34:11+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Costa 16 euro e nasce in una cantina scavata 14 metri sotto il tufo: il bianco della Maremma che ci ha sorpreso",
+        "description": "Isolina 2024 di Sassotondo ha ottenuto 91 punti ed è entrato nella guida BereBene 2026. Nasce da trebbiano, sauvignon e greco nella Maremma vulcanica…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-vini-bianchi-maremma-isolina-sassotondo/",
+        "pubDate": "2026-08-21T08:42:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’ultima generazione di pescatori che resiste nella Sorrento del turismo di massa",
+        "description": "A Marina Grande, Porta Marina Seafood porta in tavola il pescato della famiglia in un borgo sempre più turistico, tra cucina semplice, tavoli sul mare e prezzi …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/porta-marina-seafood-pescatori-sorrento/",
+        "pubDate": "2026-08-21T06:50:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Ho fatto l’alberghiero e poi sono entrato nelle cucine vere: ecco cosa la scuola non mi aveva insegnato”",
+        "description": "A parlare è un ex studente dell’alberghiero che ha poi lavorato in diverse cucine, in Italia e all’estero. Dalla distanza tra i laboratori e il lavoro vero agli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/alberghiero-cucine-stage-esperienza-studente/",
+        "pubDate": "2026-08-21T06:46:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lungo la Via Francigena ci sono ristoranti che valgono il viaggio: 3 indirizzi tra Inghilterra, Francia e Svizzera",
+        "description": "Dalla partenza davanti alla Cattedrale di Canterbury fino alle Alpi svizzere, la Via Francigena attraversa alcuni dei territori gastronomici più interessanti d’…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/via-francigena-ristoranti-inghilterra-francia-svizzera/",
+        "pubDate": "2026-08-21T06:02:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le focacce sarde che pochi conoscono: una è piena di pomodoro, l’altra nasconde patate, formaggio e menta",
+        "description": "Su mustazzeddu nel Sulcis e sa coccoi prena in Ogliastra: due antiche focacce nate dal recupero dell’impasto del pane e diventate specialità dell’isola…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/focacce-sarde-mustazzeddu-coccoi-prena/",
+        "pubDate": "2026-08-21T04:44:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Torrone aquilano, il dolce simbolo della tradizione abruzzese",
         "description": "A L’Aquila, soprattutto nei mesi freddi e nelle cucine di casa, il torrone aquilano resta uno dei dolci preparati per le feste perché unisce miele, zucchero, ci…",
@@ -439,24 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "La polpetta veneziana diventata leggenda: costa 2,50 euro e si mangia in un bacaro di 130 anni",
-        "description": "Alla Vedova è trattoria e bacaro da circa 130 anni. A Cannaregio si viene soprattutto per le celebri polpette calde, da accompagnare con un’ombra di vino…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/alla-vedova-venezia-polpette-bacaro/",
-        "pubDate": "2026-08-20T10:16:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Masters of Wine 2026: sette nuovi ingressi, Portogallo e Ungheria entrano nella mappa dei MW",
-        "description": "L’Institute of Masters of Wine (IMW) annuncia sette nuovi Masters of Wine nel 2026. Alice Archer (Regno Unito), Owain Hughes (Regno Unito), Weiran Liu (Cina), G…",
-        "link": "https://www.winemag.it/masters-of-wine-2026-sette-nuovi-ingressi-portogallo-e-ungheria-entrano-nella-mappa-dei-mw/",
-        "pubDate": "2026-08-20T10:05:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "I coltivatori di cacao in Africa faticano a rispettare i regolamenti europei anti deforestazione",
         "description": "Il Regolamento dell'Unione Europea sulla Deforestazione prevede tracciabilità del prodotto fino alla singola particella di terra, ma metterlo in pratica nei pae…",
         "link": "https://www.dissapore.com/notizie/i-coltivatori-di-cacao-in-africa-faticano-a-rispettare-i-regolamenti-europei-anti-deforestazione/",
@@ -464,51 +500,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/cacao-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Da visitatori a community del vino: perché adesso anche le cantine italiane scommettono sui wine club",
-        "description": "Non più semplici programmi fedeltà, ma strumenti per costruire relazioni durature con gli appassionati. Tra esperienze esclusive, ospitalità e accesso a etichet…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/wine-club-cantine-italiane-dievole-borro-ruffino/",
-        "pubDate": "2026-08-20T09:41:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vendemmia 2026, in Alto Adige è la più precoce della storia",
-        "description": "La vendemmia 2026 è già iniziata in diverse zone dell’Alto Adige. Le temperature elevate dell’estate, unite a una primavera eccezionalmente calda, hanno acceler…",
-        "link": "https://www.winemag.it/vendemmia-2026-in-alto-adige-e-la-piu-precoce-della-storia/",
-        "pubDate": "2026-08-20T09:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "L’Oltrepò su misura. Un pomeriggio a Canneto Pavese da Cantine Giorgi",
-        "description": "Nell’Oltrepò Pavese tra enoteca, cantina e vigneti, la famiglia Giorgi trasforma l'accoglienza in un'esperienza cucita di volta in volta su chi arriva. Tra le c…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/oltrepo-pavese-cantine-giorgi-enoturismo/",
-        "pubDate": "2026-08-20T08:29:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo smesso di mangiare l’insalata di pollo e paghiamo 15 euro per la Caesar Salad",
-        "description": "Per anni l’insalata di pollo è stata il piatto estivo di recupero per eccellenza. Poi la Caesar Salad ha trasformato pollo e lattuga in un classico internaziona…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/declino-insalata-pollo-italiana-caesar-salad/",
-        "pubDate": "2026-08-20T08:09:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quel pregiudizio che esclude i bambini dalle visite in cantina. Perché l’enoturismo è così poco family friendly",
-        "description": "La disattenzione verso gli enoturisti con bambini emerge anche dai pochi dati a disposizione. Eppure si può sviluppare un modello di visita che forma i consumat…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/enoturismo-cantine-italiane-family-friendly/",
-        "pubDate": "2026-08-20T07:02:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Papatilli o pepatelli, i biscotti speziati che raccontano la tradizione abruzzese",
@@ -545,6 +536,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Presto cambieranno le regole per i prodotti che si dichiarano vegan",
+        "description": "Le nuove direttive europee contro il greenwashing cambieranno le regole per le etichettature dei prodotti che si dichiarano sostenibili e amici del Pianeta. \nL'…",
+        "link": "https://www.dissapore.com/notizie/presto-cambieranno-le-regole-per-i-prodotti-che-si-dichiarano-vegan/",
+        "pubDate": "2026-08-19T09:20:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/01/coca-cola-tappi.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
       }
     ]
   }
