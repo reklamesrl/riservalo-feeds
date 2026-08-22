@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-21T18:35:45.257431+00:00",
+  "generated": "2026-08-22T06:39:19.175767+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Le 5 migliori gelaterie della Sardegna nel 2026",
+        "description": "Le gelaterie artigianali che si distinguono in Sardegna per ricette autentiche, gusto, creatività e ricerca, rigorosamente testate dalla redazione di Dissapore.…",
+        "link": "https://www.dissapore.com/locali/le-5-migliori-gelaterie-della-sardegna-nel-2026/",
+        "pubDate": "2026-08-22T05:10:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/I-FenuO-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva",
+        "description": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva. Il dato attuale riguarda la sola Igp Vi de la Terra Mallorca.\nL'articolo Vendemmia 202…",
+        "link": "https://www.winemag.it/vendemmia-2026-anticipata-a-maiorca-raccolti-gia-15-829-quintali-di-uva-igp-vi-de-la-terra-mallorca/",
+        "pubDate": "2026-08-22T01:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cassata sulmonese: il dolce abruzzese che conquista al primo assaggio",
+        "description": "A Sulmona, in Abruzzo, la cassata sulmonese resta uno dei dolci più riconoscibili della tradizione locale: si prepara soprattutto nelle case e nelle pasticcerie…",
+        "link": "https://www.gustoblog.it/2026/08/21/cassata-sulmonese-il-dolce-abruzzese-che-conquista-al-primo-assaggio/",
+        "pubDate": "2026-08-21T19:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Bucharest Food Week 2026: oltre 100 ristoranti per la prima edizione",
         "description": "Bucarest prova a raccontarsi attraverso la tavola. Dal 14 al 20 settembre 2026 la capitale rumena ospiterà la prima edizione della Bucharest Food Week, manifest…",
@@ -66,7 +93,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dove nasce il grande olio In Abruzzo si produce olio da tremila anni: ecco gli extravergini migliori premiati con le Tre Foglie: storia, cultivar e protagonisti della nuova guida",
+        "title": "In Abruzzo si produce olio da tremila anni: ecco gli extravergini migliori premiati con le Tre Foglie",
         "description": "Dritta, Gentile di Chieti, Toccolana e Intosso raccontano una delle regioni olivicole più antiche d’Italia. Ecco gli extravergini premiati con le Tre Foglie 202…",
         "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-abruzzo-tre-foglie-2026-2027/",
         "pubDate": "2026-08-21T11:48:50+00:00",
@@ -154,33 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lungo la Via Francigena ci sono ristoranti che valgono il viaggio: 3 indirizzi tra Inghilterra, Francia e Svizzera",
-        "description": "Dalla partenza davanti alla Cattedrale di Canterbury fino alle Alpi svizzere, la Via Francigena attraversa alcuni dei territori gastronomici più interessanti d’…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/via-francigena-ristoranti-inghilterra-francia-svizzera/",
-        "pubDate": "2026-08-21T06:02:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Pantaloni beige: ecco come abbinarli quest’estate in 5 look stilosi (visti su Instagram)",
-        "description": "Abbiamo scommesso sul loro grande potenziale già all’inizio della primavera (quando abbiamo iniziato a fare una bella scorta di modelli freschi e leggeri) e nea…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-beige-come-abbinare-d-estate-look-eleganti-casual-abbinamenti-giorno-sera-donna-989142",
-        "pubDate": "2026-08-21T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Come_indossare_pantaloni_beige.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Torrone aquilano, il dolce simbolo della tradizione abruzzese",
-        "description": "A L’Aquila, soprattutto nei mesi freddi e nelle cucine di casa, il torrone aquilano resta uno dei dolci preparati per le feste perché unisce miele, zucchero, ci…",
-        "link": "https://www.gustoblog.it/2026/08/20/torrone-aquilano-il-dolce-simbolo-della-tradizione-abruzzese/",
-        "pubDate": "2026-08-20T19:02:50+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ],
     "moda": [
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "Le 5 migliori gelaterie della Sardegna nel 2026",
+        "description": "Le gelaterie artigianali che si distinguono in Sardegna per ricette autentiche, gusto, creatività e ricerca, rigorosamente testate dalla redazione di Dissapore.…",
+        "link": "https://www.dissapore.com/locali/le-5-migliori-gelaterie-della-sardegna-nel-2026/",
+        "pubDate": "2026-08-22T05:10:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/I-FenuO-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva",
+        "description": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva. Il dato attuale riguarda la sola Igp Vi de la Terra Mallorca.\nL'articolo Vendemmia 202…",
+        "link": "https://www.winemag.it/vendemmia-2026-anticipata-a-maiorca-raccolti-gia-15-829-quintali-di-uva-igp-vi-de-la-terra-mallorca/",
+        "pubDate": "2026-08-22T01:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cassata sulmonese: il dolce abruzzese che conquista al primo assaggio",
+        "description": "A Sulmona, in Abruzzo, la cassata sulmonese resta uno dei dolci più riconoscibili della tradizione locale: si prepara soprattutto nelle case e nelle pasticcerie…",
+        "link": "https://www.gustoblog.it/2026/08/21/cassata-sulmonese-il-dolce-abruzzese-che-conquista-al-primo-assaggio/",
+        "pubDate": "2026-08-21T19:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "Bucharest Food Week 2026: oltre 100 ristoranti per la prima edizione",
         "description": "Bucarest prova a raccontarsi attraverso la tavola. Dal 14 al 20 settembre 2026 la capitale rumena ospiterà la prima edizione della Bucharest Food Week, manifest…",
         "link": "https://www.winemag.it/bucharest-food-week-2026-oltre-100-ristoranti-per-la-prima-edizione/",
@@ -421,7 +448,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dove nasce il grande olio In Abruzzo si produce olio da tremila anni: ecco gli extravergini migliori premiati con le Tre Foglie: storia, cultivar e protagonisti della nuova guida",
+        "title": "In Abruzzo si produce olio da tremila anni: ecco gli extravergini migliori premiati con le Tre Foglie",
         "description": "Dritta, Gentile di Chieti, Toccolana e Intosso raccontano una delle regioni olivicole più antiche d’Italia. Ecco gli extravergini premiati con le Tre Foglie 202…",
         "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-abruzzo-tre-foglie-2026-2027/",
         "pubDate": "2026-08-21T11:48:50+00:00",
@@ -516,33 +543,6 @@
         "link": "https://www.dissapore.com/ristoranti/dove-mangiare-nelle-citta-murate-del-veneto/",
         "pubDate": "2026-08-20T15:01:05+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/IMG-20260620-WA0020.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pesto al cocco: la ricetta cremosa che sorprende al primo assaggio",
-        "description": "Il pesto al cocco è una ricetta facile ed economica da preparare oggi in casa, in circa 15 minuti, per portare in tavola un condimento cremoso per 4 persone, pe…",
-        "link": "https://www.gustoblog.it/2026/08/20/pesto-al-cocco-la-ricetta-cremosa-che-sorprende-al-primo-assaggio/",
-        "pubDate": "2026-08-20T13:03:21+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Masters of Wine 2026: sette nuovi ingressi, Portogallo e Ungheria entrano nella mappa dei MW",
-        "description": "L’Institute of Masters of Wine (IMW) annuncia sette nuovi Masters of Wine nel 2026. Alice Archer (Regno Unito), Owain Hughes (Regno Unito), Weiran Liu (Cina), G…",
-        "link": "https://www.winemag.it/masters-of-wine-2026-sette-nuovi-ingressi-portogallo-e-ungheria-entrano-nella-mappa-dei-mw/",
-        "pubDate": "2026-08-20T10:05:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I coltivatori di cacao in Africa faticano a rispettare i regolamenti europei anti deforestazione",
-        "description": "Il Regolamento dell'Unione Europea sulla Deforestazione prevede tracciabilità del prodotto fino alla singola particella di terra, ma metterlo in pratica nei pae…",
-        "link": "https://www.dissapore.com/notizie/i-coltivatori-di-cacao-in-africa-faticano-a-rispettare-i-regolamenti-europei-anti-deforestazione/",
-        "pubDate": "2026-08-20T10:03:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/cacao-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
