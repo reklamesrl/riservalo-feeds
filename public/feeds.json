@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-22T06:39:19.175767+00:00",
+  "generated": "2026-08-22T12:38:13.177613+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Un Borgo con una vista panoramica unica su Firenze. Che Sogno!",
+        "description": "Un antico Borgo ricco di storia e bellezza a pochi minuti da Firenze, con una caratteristica sensazionale: una vista panoramica unica sulla Città, sull'incanto …",
+        "link": "https://www.stylosophy.it/articolo/un-borgo-con-una-vista-panoramica-su-firenze/170187/",
+        "pubDate": "2026-08-22T09:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Quest’antica uva siciliana stava per scomparire. Ora è tornata a produrre vino: appena 478 bottiglie",
+        "description": "L'Inzolia nera è uno dei vitigni reliquia recuperati dalla Regione Siciliana. Enzo Agrò l'ha piantata ad Agrigento, davanti alla Valle dei Templi: dalla prima v…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/inzolia-nera-vitigno-reliquia-sicilia/",
+        "pubDate": "2026-08-22T08:43:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’hamburgeria di Gordon Ramsay a Washington impesta le case dei vicini",
+        "description": "Della serie, cucine da incubo: i fumi del fast food a firma Ramsay rendono l'aria irrespirabile, con sconcerto e protesta dei condomini.\nL'articolo L&#8217;hamb…",
+        "link": "https://www.dissapore.com/notizie/lhamburgeria-di-gordon-ramsay-a-washington-impesta-le-case-dei-vicini/",
+        "pubDate": "2026-08-22T08:08:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Quattro liceali cercavano il miglior cheesesteak di Philadelphia. La loro classifica cambiò la vita di un ristoratore",
+        "description": "Nel 2001 quattro studenti visitarono 23 locali con il critico Craig LaBan. Il vincitore fu John’s Roast Pork, chiosco di South Philadelphia aperto dal 1930…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/johns-roast-pork-cheesesteak-philadelphia/",
+        "pubDate": "2026-08-22T08:05:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A New York c’è una Fiat Panda rossa trasformata in caffetteria: serve espresso dal bagagliaio",
+        "description": "Asher von Stein ha scoperto la Panda durante un viaggio in Sicilia, ne ha comprata una rossa in Italia e l’ha trasformata in Vagante, una piccola caffetteria mo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fiat-panda-caffetteria-new-york-vagante/",
+        "pubDate": "2026-08-22T07:32:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dopo 10 anni vende la sua gelateria a Helsinki e torna in Abruzzo per ricominciare da zero",
+        "description": "Valerio Venti ha aperto Jädelino a Helsinki nel 2013 e vi ha lavorato per quasi dieci anni. Nel 2022 ha venduto l'attività ed è tornato nella Marsica, dove ha a…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/valerio-venti-gelateria-helsinki-micama-avezzano/",
+        "pubDate": "2026-08-22T05:36:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Le 5 migliori gelaterie della Sardegna nel 2026",
         "description": "Le gelaterie artigianali che si distinguono in Sardegna per ricette autentiche, gusto, creatività e ricerca, rigorosamente testate dalla redazione di Dissapore.…",
@@ -12,13 +66,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva",
-        "description": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva. Il dato attuale riguarda la sola Igp Vi de la Terra Mallorca.\nL'articolo Vendemmia 202…",
-        "link": "https://www.winemag.it/vendemmia-2026-anticipata-a-maiorca-raccolti-gia-15-829-quintali-di-uva-igp-vi-de-la-terra-mallorca/",
-        "pubDate": "2026-08-22T01:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Come vestirsi bene a 50 anni: i capi e gli accessori da puntare per uno stile fresco e raffinato",
+        "description": "Svincolarsi dalle convenzioni, lasciarsi guidare dai propri gusti piuttosto che dalle tendenze del momento, avere a disposizione nell’armadio un paio di capi e …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-bene-a-50-anni-estate-donna-look-idee-stile-vestiti-scarpe-borse-accessori-outfit-981066",
+        "pubDate": "2026-08-22T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/DESK_Come_Vestirsi_a_50_anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Cassata sulmonese: il dolce abruzzese che conquista al primo assaggio",
@@ -28,15 +82,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Bucharest Food Week 2026: oltre 100 ristoranti per la prima edizione",
-        "description": "Bucarest prova a raccontarsi attraverso la tavola. Dal 14 al 20 settembre 2026 la capitale rumena ospiterà la prima edizione della Bucharest Food Week, manifest…",
-        "link": "https://www.winemag.it/bucharest-food-week-2026-oltre-100-ristoranti-per-la-prima-edizione/",
-        "pubDate": "2026-08-21T16:08:09+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "“Sta cambiando il modo di pensare all’abbinamento”. Il sommelier di Piazzetta Milù racconta il pairing del futuro",
@@ -136,54 +181,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "La Svizzera si mobilita per salvare l’Aromat, il condimento nazionale che rischia di essere prodotto all’estero",
-        "description": "Si chiama Aromat, nasce a Thayngen nel 1952 ed è il barattolo giallo che da generazioni gli svizzeri mettono su uova, rösti e patate. Dopo l'accordo tra Unileve…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/aromat-condimento-svizzera-petizione-mccormick/",
-        "pubDate": "2026-08-21T08:59:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Costa 16 euro e nasce in una cantina scavata 14 metri sotto il tufo: il bianco della Maremma che ci ha sorpreso",
-        "description": "Isolina 2024 di Sassotondo ha ottenuto 91 punti ed è entrato nella guida BereBene 2026. Nasce da trebbiano, sauvignon e greco nella Maremma vulcanica…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-vini-bianchi-maremma-isolina-sassotondo/",
-        "pubDate": "2026-08-21T08:42:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "DOC Etna, viticoltori raddoppiati e spumanti in crescita",
-        "description": "La DOC Etna continua a crescere e amplia la propria filiera. Dal 2012 al 2025 i viticoltori rivendicanti sono passati da 202 a 509, mentre le certificazioni son…",
-        "link": "https://www.winemag.it/doc-etna-viticoltori-raddoppiati-e-spumanti-in-crescita/",
-        "pubDate": "2026-08-21T08:19:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "L’ultima generazione di pescatori che resiste nella Sorrento del turismo di massa",
-        "description": "A Marina Grande, Porta Marina Seafood porta in tavola il pescato della famiglia in un borgo sempre più turistico, tra cucina semplice, tavoli sul mare e prezzi …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/porta-marina-seafood-pescatori-sorrento/",
-        "pubDate": "2026-08-21T06:50:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Ho fatto l’alberghiero e poi sono entrato nelle cucine vere: ecco cosa la scuola non mi aveva insegnato”",
-        "description": "A parlare è un ex studente dell’alberghiero che ha poi lavorato in diverse cucine, in Italia e all’estero. Dalla distanza tra i laboratori e il lavoro vero agli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/alberghiero-cucine-stage-esperienza-studente/",
-        "pubDate": "2026-08-21T06:46:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Un Borgo con una vista panoramica unica su Firenze. Che Sogno!",
+        "description": "Un antico Borgo ricco di storia e bellezza a pochi minuti da Firenze, con una caratteristica sensazionale: una vista panoramica unica sulla Città, sull'incanto …",
+        "link": "https://www.stylosophy.it/articolo/un-borgo-con-una-vista-panoramica-su-firenze/170187/",
+        "pubDate": "2026-08-22T09:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Come vestirsi bene a 50 anni: i capi e gli accessori da puntare per uno stile fresco e raffinato",
+        "description": "Svincolarsi dalle convenzioni, lasciarsi guidare dai propri gusti piuttosto che dalle tendenze del momento, avere a disposizione nell’armadio un paio di capi e …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-bene-a-50-anni-estate-donna-look-idee-stile-vestiti-scarpe-borse-accessori-outfit-981066",
+        "pubDate": "2026-08-22T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/06/DESK_Come_Vestirsi_a_50_anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Arisa, al mare in topless: il post social super sexy per il suo compleanno!",
         "description": "Arisa ha compiuto gli anni e ci ha tenuto a celebrarlo al meglio con un post sui social in cui appare molto sexy.…",
@@ -345,27 +363,54 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Non solo il nero! Ecco i tessuti da evitare durante le “heat-waves” se avete più di 40 anni",
-        "description": "Con le ondate di calore sempre più intense, dopo i 40 la scelta dei tessuti diventa una questione di salute. Tra fibre occlusive e capi salva-pelle, ecco cosa c…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/tessuti-da-evitare-estate-abbigliamento-donna-sopra-40-anni-quali-scegliere-durante-ondate-di-calore-987482",
-        "pubDate": "2026-08-17T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/nero-estate-tessuto-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Diletta Leotta osa al mare con il costume intero con dettaglio cut-out FOTO",
-        "description": "Diletta Leotta, anche al mare, non rinuncia allo stile più trendy e glamour sfoggiando il costume intero con dettagli cut-out.…",
-        "link": "https://www.stylosophy.it/articolo/diletta-leotta-osa-al-mare-con-il-costume-intero-con-dettaglio-cut-out-foto/253443/",
-        "pubDate": "2026-08-16T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Quest’antica uva siciliana stava per scomparire. Ora è tornata a produrre vino: appena 478 bottiglie",
+        "description": "L'Inzolia nera è uno dei vitigni reliquia recuperati dalla Regione Siciliana. Enzo Agrò l'ha piantata ad Agrigento, davanti alla Valle dei Templi: dalla prima v…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/inzolia-nera-vitigno-reliquia-sicilia/",
+        "pubDate": "2026-08-22T08:43:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’hamburgeria di Gordon Ramsay a Washington impesta le case dei vicini",
+        "description": "Della serie, cucine da incubo: i fumi del fast food a firma Ramsay rendono l'aria irrespirabile, con sconcerto e protesta dei condomini.\nL'articolo L&#8217;hamb…",
+        "link": "https://www.dissapore.com/notizie/lhamburgeria-di-gordon-ramsay-a-washington-impesta-le-case-dei-vicini/",
+        "pubDate": "2026-08-22T08:08:34+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Quattro liceali cercavano il miglior cheesesteak di Philadelphia. La loro classifica cambiò la vita di un ristoratore",
+        "description": "Nel 2001 quattro studenti visitarono 23 locali con il critico Craig LaBan. Il vincitore fu John’s Roast Pork, chiosco di South Philadelphia aperto dal 1930…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/johns-roast-pork-cheesesteak-philadelphia/",
+        "pubDate": "2026-08-22T08:05:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A New York c’è una Fiat Panda rossa trasformata in caffetteria: serve espresso dal bagagliaio",
+        "description": "Asher von Stein ha scoperto la Panda durante un viaggio in Sicilia, ne ha comprata una rossa in Italia e l’ha trasformata in Vagante, una piccola caffetteria mo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fiat-panda-caffetteria-new-york-vagante/",
+        "pubDate": "2026-08-22T07:32:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dopo 10 anni vende la sua gelateria a Helsinki e torna in Abruzzo per ricominciare da zero",
+        "description": "Valerio Venti ha aperto Jädelino a Helsinki nel 2013 e vi ha lavorato per quasi dieci anni. Nel 2022 ha venduto l'attività ed è tornato nella Marsica, dove ha a…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/valerio-venti-gelateria-helsinki-micama-avezzano/",
+        "pubDate": "2026-08-22T05:36:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Le 5 migliori gelaterie della Sardegna nel 2026",
         "description": "Le gelaterie artigianali che si distinguono in Sardegna per ricette autentiche, gusto, creatività e ricerca, rigorosamente testate dalla redazione di Dissapore.…",
@@ -376,15 +421,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva",
-        "description": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva. Il dato attuale riguarda la sola Igp Vi de la Terra Mallorca.\nL'articolo Vendemmia 202…",
-        "link": "https://www.winemag.it/vendemmia-2026-anticipata-a-maiorca-raccolti-gia-15-829-quintali-di-uva-igp-vi-de-la-terra-mallorca/",
-        "pubDate": "2026-08-22T01:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Cassata sulmonese: il dolce abruzzese che conquista al primo assaggio",
         "description": "A Sulmona, in Abruzzo, la cassata sulmonese resta uno dei dolci più riconoscibili della tradizione locale: si prepara soprattutto nelle case e nelle pasticcerie…",
         "link": "https://www.gustoblog.it/2026/08/21/cassata-sulmonese-il-dolce-abruzzese-che-conquista-al-primo-assaggio/",
@@ -392,15 +428,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Bucharest Food Week 2026: oltre 100 ristoranti per la prima edizione",
-        "description": "Bucarest prova a raccontarsi attraverso la tavola. Dal 14 al 20 settembre 2026 la capitale rumena ospiterà la prima edizione della Bucharest Food Week, manifest…",
-        "link": "https://www.winemag.it/bucharest-food-week-2026-oltre-100-ristoranti-per-la-prima-edizione/",
-        "pubDate": "2026-08-21T16:08:09+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "“Sta cambiando il modo di pensare all’abbinamento”. Il sommelier di Piazzetta Milù racconta il pairing del futuro",
@@ -484,51 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Costa 16 euro e nasce in una cantina scavata 14 metri sotto il tufo: il bianco della Maremma che ci ha sorpreso",
-        "description": "Isolina 2024 di Sassotondo ha ottenuto 91 punti ed è entrato nella guida BereBene 2026. Nasce da trebbiano, sauvignon e greco nella Maremma vulcanica…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-vini-bianchi-maremma-isolina-sassotondo/",
-        "pubDate": "2026-08-21T08:42:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "DOC Etna, viticoltori raddoppiati e spumanti in crescita",
-        "description": "La DOC Etna continua a crescere e amplia la propria filiera. Dal 2012 al 2025 i viticoltori rivendicanti sono passati da 202 a 509, mentre le certificazioni son…",
-        "link": "https://www.winemag.it/doc-etna-viticoltori-raddoppiati-e-spumanti-in-crescita/",
-        "pubDate": "2026-08-21T08:19:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "L’ultima generazione di pescatori che resiste nella Sorrento del turismo di massa",
-        "description": "A Marina Grande, Porta Marina Seafood porta in tavola il pescato della famiglia in un borgo sempre più turistico, tra cucina semplice, tavoli sul mare e prezzi …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/porta-marina-seafood-pescatori-sorrento/",
-        "pubDate": "2026-08-21T06:50:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Ho fatto l’alberghiero e poi sono entrato nelle cucine vere: ecco cosa la scuola non mi aveva insegnato”",
-        "description": "A parlare è un ex studente dell’alberghiero che ha poi lavorato in diverse cucine, in Italia e all’estero. Dalla distanza tra i laboratori e il lavoro vero agli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/alberghiero-cucine-stage-esperienza-studente/",
-        "pubDate": "2026-08-21T06:46:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lungo la Via Francigena ci sono ristoranti che valgono il viaggio: 3 indirizzi tra Inghilterra, Francia e Svizzera",
-        "description": "Dalla partenza davanti alla Cattedrale di Canterbury fino alle Alpi svizzere, la Via Francigena attraversa alcuni dei territori gastronomici più interessanti d’…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/via-francigena-ristoranti-inghilterra-francia-svizzera/",
-        "pubDate": "2026-08-21T06:02:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Torrone aquilano, il dolce simbolo della tradizione abruzzese",
         "description": "A L’Aquila, soprattutto nei mesi freddi e nelle cucine di casa, il torrone aquilano resta uno dei dolci preparati per le feste perché unisce miele, zucchero, ci…",
         "link": "https://www.gustoblog.it/2026/08/20/torrone-aquilano-il-dolce-simbolo-della-tradizione-abruzzese/",
@@ -543,6 +525,24 @@
         "link": "https://www.dissapore.com/ristoranti/dove-mangiare-nelle-citta-murate-del-veneto/",
         "pubDate": "2026-08-20T15:01:05+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/IMG-20260620-WA0020.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Pesto al cocco: la ricetta cremosa che sorprende al primo assaggio",
+        "description": "Il pesto al cocco è una ricetta facile ed economica da preparare oggi in casa, in circa 15 minuti, per portare in tavola un condimento cremoso per 4 persone, pe…",
+        "link": "https://www.gustoblog.it/2026/08/20/pesto-al-cocco-la-ricetta-cremosa-che-sorprende-al-primo-assaggio/",
+        "pubDate": "2026-08-20T13:03:21+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "I coltivatori di cacao in Africa faticano a rispettare i regolamenti europei anti deforestazione",
+        "description": "Il Regolamento dell'Unione Europea sulla Deforestazione prevede tracciabilità del prodotto fino alla singola particella di terra, ma metterlo in pratica nei pae…",
+        "link": "https://www.dissapore.com/notizie/i-coltivatori-di-cacao-in-africa-faticano-a-rispettare-i-regolamenti-europei-anti-deforestazione/",
+        "pubDate": "2026-08-20T10:03:24+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/cacao-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
