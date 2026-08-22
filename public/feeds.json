@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-22T12:38:13.177613+00:00",
+  "generated": "2026-08-22T18:30:10.133990+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La Corsica ha il suo aperitivo: si beve da oltre un secolo e pochi italiani lo conoscono",
+        "description": "Si chiama Cap Corse Mattei, nasce nel 1872 da vino corso, china, agrumi ed erbe aromatiche. Si beve liscio o miscelato e racconta una storia che attraversa Bast…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cap-corse-mattei-aperitivo-corsica/",
+        "pubDate": "2026-08-22T13:03:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lasagne senza cottura: la ricetta furba che salva l’estate",
+        "description": "Le lasagne senza cottura tornano sulle tavole d’estate come ricetta pratica per 4 persone, da preparare in casa, al mare o in montagna in circa 30 minuti di lav…",
+        "link": "https://www.gustoblog.it/2026/08/22/lasagne-senza-cottura-la-ricetta-furba-che-salva-lestate/",
+        "pubDate": "2026-08-22T13:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Elodie, super sexy in topless: lo scatto che ha fatto impazzire i fan!",
+        "description": "Elodie fa sognare i fan con uno scatto di sé super sexy in topless.…",
+        "link": "https://www.stylosophy.it/articolo/elodie-super-sexy-in-topless-lo-scatto-che-ha-fatto-impazzire-i-fan/253482/",
+        "pubDate": "2026-08-22T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "In Alto Adige la macelleria dove puoi comprare una bistecca anche alle due di notte",
+        "description": "A Valdaora, in Alto Adige, Thomas Mair ha trasformato la sua macelleria in un’insegna sempre aperta: costate, würstel e salsicce si acquistano a ogni ora da un …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/distributore-carne-bistecche-meatery-alto-adige/",
+        "pubDate": "2026-08-22T12:32:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Un Borgo con una vista panoramica unica su Firenze. Che Sogno!",
         "description": "Un antico Borgo ricco di storia e bellezza a pochi minuti da Firenze, con una caratteristica sensazionale: una vista panoramica unica sulla Città, sull'incanto …",
@@ -75,6 +111,15 @@
         "source": "Grazia"
       },
       {
+        "title": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva",
+        "description": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva. Il dato attuale riguarda la sola Igp Vi de la Terra Mallorca.\nL'articolo Vendemmia 202…",
+        "link": "https://www.winemag.it/vendemmia-2026-anticipata-a-maiorca-raccolti-gia-15-829-quintali-di-uva-igp-vi-de-la-terra-mallorca/",
+        "pubDate": "2026-08-22T01:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Cassata sulmonese: il dolce abruzzese che conquista al primo assaggio",
         "description": "A Sulmona, in Abruzzo, la cassata sulmonese resta uno dei dolci più riconoscibili della tradizione locale: si prepara soprattutto nelle case e nelle pasticcerie…",
         "link": "https://www.gustoblog.it/2026/08/21/cassata-sulmonese-il-dolce-abruzzese-che-conquista-al-primo-assaggio/",
@@ -82,6 +127,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Bucharest Food Week 2026: oltre 100 ristoranti per la prima edizione",
+        "description": "Bucarest prova a raccontarsi attraverso la tavola. Dal 14 al 20 settembre 2026 la capitale rumena ospiterà la prima edizione della Bucharest Food Week, manifest…",
+        "link": "https://www.winemag.it/bucharest-food-week-2026-oltre-100-ristoranti-per-la-prima-edizione/",
+        "pubDate": "2026-08-21T16:08:09+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "“Sta cambiando il modo di pensare all’abbinamento”. Il sommelier di Piazzetta Milù racconta il pairing del futuro",
@@ -127,63 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il campeggio sul lago di Dobbiaco che nasconde un fine dining e una cantina da 12mila bottiglie",
-        "description": "La famiglia Panzenberger ha trasformato il campeggio sul lago di Dobbiaco in un progetto con chalet panoramici, cucina d'autore e una sorprendente collezione di…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/hebbo-dobbiaco-ristorante-cantina-12mila-bottiglie/",
-        "pubDate": "2026-08-21T12:10:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Abruzzo si produce olio da tremila anni: ecco gli extravergini migliori premiati con le Tre Foglie",
-        "description": "Dritta, Gentile di Chieti, Toccolana e Intosso raccontano una delle regioni olivicole più antiche d’Italia. Ecco gli extravergini premiati con le Tre Foglie 202…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-oli-abruzzo-tre-foglie-2026-2027/",
-        "pubDate": "2026-08-21T11:48:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I medici americani fanno causa alle nuove linee guide alimentari",
-        "description": "Un'associazione di medici americani ha chiesto il ritiro delle nuove linee guida alimentari governative, secondo loro frutto di conflitti d'interesse e attività…",
-        "link": "https://www.dissapore.com/notizie/i-medici-americani-fanno-causa-alle-nuove-linee-guide-alimentari/",
-        "pubDate": "2026-08-21T10:34:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Kaia Gerber ci svela il modo perfetto per indossare la gonna midi quest’estate (e non è la sola)",
-        "description": "Dall’inizio dell’estate abbiamo visto diverse celeb cedere al fascino della gonna midi e trasformarla nel pezzo chiave dei loro look estivi. Nelle ultime settim…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-gonna-midi-kaia-gerber-abbinamenti-estate-street-style-992740",
-        "pubDate": "2026-08-21T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_-gonna_midi_Kaia_Gerber.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Lascia la banca per fare vino a Châteauneuf-du-Pape. Oggi la sua bottiglia è tra le 10 migliori al mondo",
-        "description": "Isabel Ferrando arrivò a Châteauneuf-du-Pape nel 2002 dopo una carriera nel settore bancario. Oggi guida con la figlia Guillemette una delle realtà più riconosc…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/isabel-ferrando-chateauneuf-du-pape-st-prefert/",
-        "pubDate": "2026-08-21T09:48:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Skincare estiva? Inizia da qui: le creme solari che proteggono e combattono i segni del tempo",
-        "description": "Il sole fa bene all’umore ma è il primo nemico della pelle. Ecco perché scegliere la protezione solare giusta può fare la differenza… anche in fatto di rughe.…",
-        "link": "https://www.stylosophy.it/articolo/skincare-estiva-le-creme-solari-che-proteggono-e-combattono-i-segni-del-tempo/229006/",
-        "pubDate": "2026-08-21T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Elodie, super sexy in topless: lo scatto che ha fatto impazzire i fan!",
+        "description": "Elodie fa sognare i fan con uno scatto di sé super sexy in topless.…",
+        "link": "https://www.stylosophy.it/articolo/elodie-super-sexy-in-topless-lo-scatto-che-ha-fatto-impazzire-i-fan/253482/",
+        "pubDate": "2026-08-22T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Un Borgo con una vista panoramica unica su Firenze. Che Sogno!",
         "description": "Un antico Borgo ricco di storia e bellezza a pochi minuti da Firenze, con una caratteristica sensazionale: una vista panoramica unica sulla Città, sull'incanto …",
@@ -354,18 +363,36 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Borse_di_perline.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Ritorno a scuola e al lavoro: 5 prodotti IKEA per organizzare casa a settembre",
-        "description": "Dalla zona studio all’ingresso, settembre è il momento giusto per ripensare gli spazi domestici. Con pochi elementi ben scelti la casa può diventare più ordinat…",
-        "link": "https://www.stylosophy.it/articolo/ritorno-a-scuola-e-al-lavoro-prodotti-ikea-per-organizzare-casa-a-settembre/253375/",
-        "pubDate": "2026-08-17T09:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La Corsica ha il suo aperitivo: si beve da oltre un secolo e pochi italiani lo conoscono",
+        "description": "Si chiama Cap Corse Mattei, nasce nel 1872 da vino corso, china, agrumi ed erbe aromatiche. Si beve liscio o miscelato e racconta una storia che attraversa Bast…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cap-corse-mattei-aperitivo-corsica/",
+        "pubDate": "2026-08-22T13:03:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lasagne senza cottura: la ricetta furba che salva l’estate",
+        "description": "Le lasagne senza cottura tornano sulle tavole d’estate come ricetta pratica per 4 persone, da preparare in casa, al mare o in montagna in circa 30 minuti di lav…",
+        "link": "https://www.gustoblog.it/2026/08/22/lasagne-senza-cottura-la-ricetta-furba-che-salva-lestate/",
+        "pubDate": "2026-08-22T13:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "In Alto Adige la macelleria dove puoi comprare una bistecca anche alle due di notte",
+        "description": "A Valdaora, in Alto Adige, Thomas Mair ha trasformato la sua macelleria in un’insegna sempre aperta: costate, würstel e salsicce si acquistano a ogni ora da un …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/distributore-carne-bistecche-meatery-alto-adige/",
+        "pubDate": "2026-08-22T12:32:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Quest’antica uva siciliana stava per scomparire. Ora è tornata a produrre vino: appena 478 bottiglie",
         "description": "L'Inzolia nera è uno dei vitigni reliquia recuperati dalla Regione Siciliana. Enzo Agrò l'ha piantata ad Agrigento, davanti alla Valle dei Templi: dalla prima v…",
@@ -421,6 +448,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva",
+        "description": "Vendemmia 2026 anticipata a Maiorca: raccolti già 15.829 quintali di uva. Il dato attuale riguarda la sola Igp Vi de la Terra Mallorca.\nL'articolo Vendemmia 202…",
+        "link": "https://www.winemag.it/vendemmia-2026-anticipata-a-maiorca-raccolti-gia-15-829-quintali-di-uva-igp-vi-de-la-terra-mallorca/",
+        "pubDate": "2026-08-22T01:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Cassata sulmonese: il dolce abruzzese che conquista al primo assaggio",
         "description": "A Sulmona, in Abruzzo, la cassata sulmonese resta uno dei dolci più riconoscibili della tradizione locale: si prepara soprattutto nelle case e nelle pasticcerie…",
         "link": "https://www.gustoblog.it/2026/08/21/cassata-sulmonese-il-dolce-abruzzese-che-conquista-al-primo-assaggio/",
@@ -428,6 +464,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Bucharest Food Week 2026: oltre 100 ristoranti per la prima edizione",
+        "description": "Bucarest prova a raccontarsi attraverso la tavola. Dal 14 al 20 settembre 2026 la capitale rumena ospiterà la prima edizione della Bucharest Food Week, manifest…",
+        "link": "https://www.winemag.it/bucharest-food-week-2026-oltre-100-ristoranti-per-la-prima-edizione/",
+        "pubDate": "2026-08-21T16:08:09+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       },
       {
         "title": "“Sta cambiando il modo di pensare all’abbinamento”. Il sommelier di Piazzetta Milù racconta il pairing del futuro",
@@ -493,58 +538,13 @@
         "source": "Dissapore"
       },
       {
-        "title": "Lascia la banca per fare vino a Châteauneuf-du-Pape. Oggi la sua bottiglia è tra le 10 migliori al mondo",
-        "description": "Isabel Ferrando arrivò a Châteauneuf-du-Pape nel 2002 dopo una carriera nel settore bancario. Oggi guida con la figlia Guillemette una delle realtà più riconosc…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/isabel-ferrando-chateauneuf-du-pape-st-prefert/",
-        "pubDate": "2026-08-21T09:48:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La Svizzera si mobilita per salvare l’Aromat, il condimento nazionale che rischia di essere prodotto all’estero",
-        "description": "Si chiama Aromat, nasce a Thayngen nel 1952 ed è il barattolo giallo che da generazioni gli svizzeri mettono su uova, rösti e patate. Dopo l'accordo tra Unileve…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/aromat-condimento-svizzera-petizione-mccormick/",
-        "pubDate": "2026-08-21T08:59:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Torrone aquilano, il dolce simbolo della tradizione abruzzese",
-        "description": "A L’Aquila, soprattutto nei mesi freddi e nelle cucine di casa, il torrone aquilano resta uno dei dolci preparati per le feste perché unisce miele, zucchero, ci…",
-        "link": "https://www.gustoblog.it/2026/08/20/torrone-aquilano-il-dolce-simbolo-della-tradizione-abruzzese/",
-        "pubDate": "2026-08-20T19:02:50+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Dove mangiare nelle Citta murate del Veneto",
-        "description": "Un itinerario gastronomico, tra fine dining e trattorie, attraverso le splendide Città Murate venete. Dove mangiare bene a Cittadella, Montagnana, Asolo, Castel…",
-        "link": "https://www.dissapore.com/ristoranti/dove-mangiare-nelle-citta-murate-del-veneto/",
-        "pubDate": "2026-08-20T15:01:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/IMG-20260620-WA0020.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pesto al cocco: la ricetta cremosa che sorprende al primo assaggio",
-        "description": "Il pesto al cocco è una ricetta facile ed economica da preparare oggi in casa, in circa 15 minuti, per portare in tavola un condimento cremoso per 4 persone, pe…",
-        "link": "https://www.gustoblog.it/2026/08/20/pesto-al-cocco-la-ricetta-cremosa-che-sorprende-al-primo-assaggio/",
-        "pubDate": "2026-08-20T13:03:21+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "I coltivatori di cacao in Africa faticano a rispettare i regolamenti europei anti deforestazione",
-        "description": "Il Regolamento dell'Unione Europea sulla Deforestazione prevede tracciabilità del prodotto fino alla singola particella di terra, ma metterlo in pratica nei pae…",
-        "link": "https://www.dissapore.com/notizie/i-coltivatori-di-cacao-in-africa-faticano-a-rispettare-i-regolamenti-europei-anti-deforestazione/",
-        "pubDate": "2026-08-20T10:03:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/cacao-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
+        "title": "DOC Etna, viticoltori raddoppiati e spumanti in crescita",
+        "description": "La DOC Etna continua a crescere e amplia la propria filiera. Dal 2012 al 2025 i viticoltori rivendicanti sono passati da 202 a 509, mentre le certificazioni son…",
+        "link": "https://www.winemag.it/doc-etna-viticoltori-raddoppiati-e-spumanti-in-crescita/",
+        "pubDate": "2026-08-21T08:19:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
       }
     ]
   }
