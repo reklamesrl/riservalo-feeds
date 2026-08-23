@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-22T18:30:10.133990+00:00",
+  "generated": "2026-08-23T06:40:08.966726+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Bocconotti, i dolci scrigni della tradizione italiana",
+        "description": "I bocconotti, dolci italiani di pasta frolla ripiena, tornano sulle tavole di casa oggi, 22 agosto 2026, nelle cucine familiari dove si preparano per merenda, c…",
+        "link": "https://www.gustoblog.it/2026/08/22/bocconotti-i-dolci-scrigni-della-tradizione-italiana/",
+        "pubDate": "2026-08-22T19:02:32+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "La Corsica ha il suo aperitivo: si beve da oltre un secolo e pochi italiani lo conoscono",
         "description": "Si chiama Cap Corse Mattei, nasce nel 1872 da vino corso, china, agrumi ed erbe aromatiche. Si beve liscio o miscelato e racconta una storia che attraversa Bast…",
@@ -172,15 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Il kebab resiste all’inflazione: ecco perché costa ancora così poco",
-        "description": "In alcune città europee il prezzo è cresciuto pochissimo in oltre dieci anni. Il segreto è un modello di ristorazione con pochi ingredienti, costi contenuti e m…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/perche-kebab-costa-poco-inflazione-prezzi-europa/",
-        "pubDate": "2026-08-21T12:19:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Bocconotti, i dolci scrigni della tradizione italiana",
+        "description": "I bocconotti, dolci italiani di pasta frolla ripiena, tornano sulle tavole di casa oggi, 22 agosto 2026, nelle cucine familiari dove si preparano per merenda, c…",
+        "link": "https://www.gustoblog.it/2026/08/22/bocconotti-i-dolci-scrigni-della-tradizione-italiana/",
+        "pubDate": "2026-08-22T19:02:32+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "La Corsica ha il suo aperitivo: si beve da oltre un secolo e pochi italiani lo conoscono",
         "description": "Si chiama Cap Corse Mattei, nasce nel 1872 da vino corso, china, agrumi ed erbe aromatiche. Si beve liscio o miscelato e racconta una storia che attraversa Bast…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cap-corse-mattei-aperitivo-corsica/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/burger-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "DOC Etna, viticoltori raddoppiati e spumanti in crescita",
-        "description": "La DOC Etna continua a crescere e amplia la propria filiera. Dal 2012 al 2025 i viticoltori rivendicanti sono passati da 202 a 509, mentre le certificazioni son…",
-        "link": "https://www.winemag.it/doc-etna-viticoltori-raddoppiati-e-spumanti-in-crescita/",
-        "pubDate": "2026-08-21T08:19:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
