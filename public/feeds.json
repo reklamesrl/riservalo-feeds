@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-23T18:29:07.185811+00:00",
+  "generated": "2026-08-24T06:57:54.902098+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Li Cumberzejune, le conversazioni che raccontano un mondo",
+        "description": "In Italia, nelle cucine di casa dove le ricette passano ancora da un quaderno all’altro, Li Cumberzejune vengono preparati come dolci da forno tradizionali con …",
+        "link": "https://www.gustoblog.it/2026/08/23/li-cumberzejune-le-conversazioni-che-raccontano-un-mondo/",
+        "pubDate": "2026-08-23T19:02:26+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "“Il mio Nero d’Avola non era abbastanza scuro”. Oggi quel vino di montagna sembra avere avuto ragione",
         "description": "Fabio Sireci racconta Feudo Montoni, dove il Nero d’Avola cresce tra 800 e 900 metri. Un tempo era troppo poco concentrato per il mercato, oggi freschezza e quo…",
@@ -172,15 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Quest’antica uva siciliana stava per scomparire. Ora è tornata a produrre vino: appena 478 bottiglie",
-        "description": "L'Inzolia nera è uno dei vitigni reliquia recuperati dalla Regione Siciliana. Enzo Agrò l'ha piantata ad Agrigento, davanti alla Valle dei Templi: dalla prima v…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/inzolia-nera-vitigno-reliquia-sicilia/",
-        "pubDate": "2026-08-22T08:43:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Li Cumberzejune, le conversazioni che raccontano un mondo",
+        "description": "In Italia, nelle cucine di casa dove le ricette passano ancora da un quaderno all’altro, Li Cumberzejune vengono preparati come dolci da forno tradizionali con …",
+        "link": "https://www.gustoblog.it/2026/08/23/li-cumberzejune-le-conversazioni-che-raccontano-un-mondo/",
+        "pubDate": "2026-08-23T19:02:26+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "“Il mio Nero d’Avola non era abbastanza scuro”. Oggi quel vino di montagna sembra avere avuto ragione",
         "description": "Fabio Sireci racconta Feudo Montoni, dove il Nero d’Avola cresce tra 800 e 900 metri. Un tempo era troppo poco concentrato per il mercato, oggi freschezza e quo…",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/feudo-montoni-nero-davola-montagna-sicilia/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Cassata sulmonese: il dolce abruzzese che conquista al primo assaggio",
-        "description": "A Sulmona, in Abruzzo, la cassata sulmonese resta uno dei dolci più riconoscibili della tradizione locale: si prepara soprattutto nelle case e nelle pasticcerie…",
-        "link": "https://www.gustoblog.it/2026/08/21/cassata-sulmonese-il-dolce-abruzzese-che-conquista-al-primo-assaggio/",
-        "pubDate": "2026-08-21T19:02:40+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
