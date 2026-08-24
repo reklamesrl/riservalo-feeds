@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-24T12:49:58.016639+00:00",
+  "generated": "2026-08-24T18:39:00.503284+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il Ketchup sarà il prossimo alimento arricchito con le proteine",
+        "description": "Uno studio che ha interessato l'American Chemical Society nell'ultimo mese sostiene che potremmo aggiungere proteine al ketchup prendendole dalle alghe.\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/il-ketchup-sara-il-prossimo-alimento-arricchito-con-le-proteine/",
+        "pubDate": "2026-08-24T15:47:03+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sostenibilità, oltre due terzi dei vigneti altoatesini certificati SQNPI",
+        "description": "Il percorso verso una viticoltura più sostenibile in Alto Adige passa anche attraverso la certificazione SQNPI. A confermarlo sono i dati diffusi dal Consorzio …",
+        "link": "https://www.winemag.it/sostenibilita-oltre-due-terzi-dei-vigneti-altoatesini-certificati-sqnpi/",
+        "pubDate": "2026-08-24T14:03:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Milano incontra la Sicilia: Moebius Milano al Bar Timeo di Taormina",
+        "description": "Dal 27 al 30 agosto, dalle 19 a mezzanotte, il Bar Timeo del Grand Hotel Timeo, A Belmond Hotel, Taormina, ospita Moebius Milano per quattro serate dedicate all…",
+        "link": "https://www.winemag.it/milano-incontra-la-sicilia-moebius-milano-al-bar-timeo-di-taormina/",
+        "pubDate": "2026-08-24T13:40:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Linguine al limone e latte di cocco: la ricetta cremosa che profuma d’estate",
+        "description": "Le linguine al limone e latte di cocco portano in tavola oggi, nelle cucine di casa, un primo piatto veloce per 4 persone che unisce pasta italiana, agrumi e un…",
+        "link": "https://www.gustoblog.it/2026/08/24/linguine-al-limone-e-latte-di-cocco-la-ricetta-cremosa-che-profuma-destate/",
+        "pubDate": "2026-08-24T13:02:39+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Annalisa, selfie al naturale e con un velo di make up post tour estivo: FOTO",
+        "description": "Annalisa ha da poco concluso il tour estivo ed ora si gode un po' di meritato riposo scattandosi un selfie.…",
+        "link": "https://www.stylosophy.it/articolo/annalisa-selfie-al-naturale-e-con-un-velo-di-make-up-post-tour-estivo-foto/253492/",
+        "pubDate": "2026-08-24T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "C’è una nuova polemica sulla pasta italiana fatta col grano italiano",
+        "description": "L'Ad di Molino Casillo in un'intervista a Forbes ha fatto arrabbiare gli agricoltori italiani, sostenendo che la pasta si può fare bene col grano estero.\nL'arti…",
+        "link": "https://www.dissapore.com/notizie/ce-una-nuova-polemica-sulla-pasta-italiana-fatta-col-grano-italiano/",
+        "pubDate": "2026-08-24T12:48:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/campo-di-grano-duro.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Cinquant’anni fa la California battè i francesi a Parigi. Oggi il suo vino affronta una nuova crisi",
+        "description": "Dal Judgement of Paris del 1976 alla crisi di oggi: meno vigneti, nuovi vitigni, cambiamento climatico e turismo da ripensare. Viaggio tra Napa, Sonoma e Mendoc…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vino-california-50-anni-judgement-of-paris-napa-sonoma/",
+        "pubDate": "2026-08-24T12:48:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante dei Sibillini rinato dopo il terremoto dove il menu si racconta ancora a voce",
+        "description": "Dal Navigante, a Castelsantangelo sul Nera, è nato nel 1982 ed è ripartito dopo il terremoto del 2016. Oggi la famiglia Valentini accoglie escursionisti e viagg…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/dal-navigante-ristorante-rifugio-monti-sibillini/",
+        "pubDate": "2026-08-24T12:02:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Uno studio israeliano ci dice quale sarà il prossimo granchio blu",
         "description": "Il cambiamento climatico porterà nuove specie aliene nel Mediterraneo: quando pensiamo di intervenire? \nL'articolo Uno studio israeliano ci dice quale sarà il p…",
@@ -12,6 +84,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "In Irpinia c’è una cantina dove si cena tra i filari con jazz e Fiano spendendo meno di 40 euro",
+        "description": "Contrada Vini, a Candida, apre d’estate i vigneti a cene in bianco e serate jazz con degustazione. Una storia familiare iniziata nel 1973 con i primi filari di …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/contrada-vini-irpinia-jazz-cene-vigneti-fiano/",
+        "pubDate": "2026-08-24T10:59:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Margot Robbie sul set di “Ocean’s Eleven” indossa un mini dress super chic (e noi vi mostriamo 7 abiti corti perfetti per ripartire a Settembre)",
         "description": "Quando qualche settimana fa l’abbiamo vista passeggiare per le strade di Parigi (con addosso il suo adorabile top lingerie giallo burro) sembrava si stesse semp…",
         "link": "https://www.grazia.it/moda/tendenze-moda/abiti-corti-minimlal-mini-dress-essenziali-eleganti-donna-margot-robbie-oceans-eleven-prequel-992821",
@@ -19,6 +100,15 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Mini_dress_-minimalisti_Margot_Robbie.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      },
+      {
+        "title": "Nell’hotel dove un sensore misura la glicemia mentre mangi per capire quali cibi ti fanno stare meglio",
+        "description": "Al Six Senses di Crans-Montana monitoraggio del glucosio e del sonno entrano nei programmi wellness, insieme a nutrizione, movimento e trattamenti personalizzat…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/six-senses-crans-montana-glicemia-sonno-alimentazione/",
+        "pubDate": "2026-08-24T09:56:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "“Schiavi del gelato”: l’inchiesta che scuote le gelaterie italiane in Germania",
@@ -91,99 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vacanze agli sgoccioli? Ecco i must-have per un rientro in città in grande stile",
-        "description": "Tornare in città dopo lunghe settimane nel segno del relax e della spensieratezza, dobbiamo ammetterlo, può rivelarsi abbastanza complicato. La sola idea di dir…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/rientro-in-citta-cosa-comprare-shopping-ritorno-vacanze-finite-must-have-991634",
-        "pubDate": "2026-08-24T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/desk.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Li Cumberzejune, le conversazioni che raccontano un mondo",
-        "description": "In Italia, nelle cucine di casa dove le ricette passano ancora da un quaderno all’altro, Li Cumberzejune vengono preparati come dolci da forno tradizionali con …",
-        "link": "https://www.gustoblog.it/2026/08/23/li-cumberzejune-le-conversazioni-che-raccontano-un-mondo/",
-        "pubDate": "2026-08-23T19:02:26+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "“Il mio Nero d’Avola non era abbastanza scuro”. Oggi quel vino di montagna sembra avere avuto ragione",
-        "description": "Fabio Sireci racconta Feudo Montoni, dove il Nero d’Avola cresce tra 800 e 900 metri. Un tempo era troppo poco concentrato per il mercato, oggi freschezza e quo…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/feudo-montoni-nero-davola-montagna-sicilia/",
-        "pubDate": "2026-08-23T13:33:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cestini di limone: il dolce fresco che profuma d’estate",
-        "description": "A casa, in poco più di due ore tra preparazione e riposo, i cestini di limone portano in tavola un dessert fresco per quattro persone, pensato per chi cerca un …",
-        "link": "https://www.gustoblog.it/2026/08/23/cestini-di-limone-il-dolce-fresco-che-profuma-destate/",
-        "pubDate": "2026-08-23T13:02:18+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Belen Rodriguez sfoggia l’abito di super tendenza per questa stagione FOTO",
-        "description": "Belen Rodriguez sfoggia l'abito di super tendenza per questa stagione: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/belen-rodriguez-sfoggia-labito-di-super-tendenza-per-questa-stagione-foto/253488/",
-        "pubDate": "2026-08-23T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Mangiamo sempre le stesse verdure ed è un problema",
-        "description": "Un team di ricercatori multidisciplinari ha lanciato un allarme sul fatto che le specie coltivate industrialmente stanno eliminando tutte le altre.\nL'articolo M…",
-        "link": "https://www.dissapore.com/notizie/mangiamo-sempre-le-stesse-verdure-ed-e-un-problema/",
-        "pubDate": "2026-08-23T12:29:08+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Sardegna c’è una pentola che si mangia: dentro cuociono carne, pesce e verdure",
-        "description": "Si chiama panada: un guscio di pasta sigillato in cui il ripieno cuoce lentamente. Assemini, Oschiri e Cuglieri ne custodiscono tre versioni molto diverse…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panada-sarda-assemini-oschiri-cuglieri/",
-        "pubDate": "2026-08-23T11:28:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Grand Tour Italia è ancora in rosso ma Farinetti non molla",
-        "description": "Per il terzo anno di fila l'ex Fico è in perdita per milioni di euro: la società individua cause esterne, e il patron scommette sull'ennesimo rilancio.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/grand-tour-italia-e-ancora-in-rosso-ma-farinetti-non-molla/",
-        "pubDate": "2026-08-23T10:28:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/fico-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Sicilia i coltivatori di mango dormono nei campi per difendere i frutti dai ladri",
-        "description": "A Balestrate telecamere, allarmi e chat WhatsApp non sono bastati. I produttori presidiano di notte le piantagioni per proteggere il raccolto dai furti…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/furti-mango-sicilia-agricoltori-dormono-campi/",
-        "pubDate": "2026-08-23T09:20:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Fondotinta con Niacinamide che rende la pelle sana, radiosa e maschera i pori",
-        "description": "Scopri i fondotinta arricchiti con Niacinamide che trasformano l’incarnato senza appesantire la pelle. Una nuova generazione di basi trucco che leviga, illumina…",
-        "link": "https://www.stylosophy.it/articolo/fondotinta-con-niacinamide-pelle-sana-radiosa-e-maschera-i-pori/239106/",
-        "pubDate": "2026-08-23T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Annalisa, selfie al naturale e con un velo di make up post tour estivo: FOTO",
+        "description": "Annalisa ha da poco concluso il tour estivo ed ora si gode un po' di meritato riposo scattandosi un selfie.…",
+        "link": "https://www.stylosophy.it/articolo/annalisa-selfie-al-naturale-e-con-un-velo-di-make-up-post-tour-estivo-foto/253492/",
+        "pubDate": "2026-08-24T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Margot Robbie sul set di “Ocean’s Eleven” indossa un mini dress super chic (e noi vi mostriamo 7 abiti corti perfetti per ripartire a Settembre)",
         "description": "Quando qualche settimana fa l’abbiamo vista passeggiare per le strade di Parigi (con addosso il suo adorabile top lingerie giallo burro) sembrava si stesse semp…",
@@ -338,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Chiara Ferragni sfoggia i pantaloni di super tendenza per questa stagione FOTO",
-        "description": "Chiara Ferragni sfoggia i pantaloni firmati Etro di super tendenza per questa stagione: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-sfoggia-i-pantaloni-di-super-tendenza-per-questa-stagione-foto/253453/",
-        "pubDate": "2026-08-19T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Pantaloni balloon: 5 idee per abbinarli con stile da qui fino alla fine dell’estate",
         "description": "Hanno iniziato a spopolare dappertutto all’inizio della primavera e a distanza di mesi poco o nulla è cambiato: i pantaloni balloon sono ancora uno dei capi più…",
         "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-i-pantaloni-baloon-idee-outfit-donna-estate-a-chi-stanno-bene-zara-scarpe-per-992634",
@@ -367,6 +367,69 @@
     ],
     "lifestyle": [
       {
+        "title": "Il Ketchup sarà il prossimo alimento arricchito con le proteine",
+        "description": "Uno studio che ha interessato l'American Chemical Society nell'ultimo mese sostiene che potremmo aggiungere proteine al ketchup prendendole dalle alghe.\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/il-ketchup-sara-il-prossimo-alimento-arricchito-con-le-proteine/",
+        "pubDate": "2026-08-24T15:47:03+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sostenibilità, oltre due terzi dei vigneti altoatesini certificati SQNPI",
+        "description": "Il percorso verso una viticoltura più sostenibile in Alto Adige passa anche attraverso la certificazione SQNPI. A confermarlo sono i dati diffusi dal Consorzio …",
+        "link": "https://www.winemag.it/sostenibilita-oltre-due-terzi-dei-vigneti-altoatesini-certificati-sqnpi/",
+        "pubDate": "2026-08-24T14:03:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Milano incontra la Sicilia: Moebius Milano al Bar Timeo di Taormina",
+        "description": "Dal 27 al 30 agosto, dalle 19 a mezzanotte, il Bar Timeo del Grand Hotel Timeo, A Belmond Hotel, Taormina, ospita Moebius Milano per quattro serate dedicate all…",
+        "link": "https://www.winemag.it/milano-incontra-la-sicilia-moebius-milano-al-bar-timeo-di-taormina/",
+        "pubDate": "2026-08-24T13:40:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Linguine al limone e latte di cocco: la ricetta cremosa che profuma d’estate",
+        "description": "Le linguine al limone e latte di cocco portano in tavola oggi, nelle cucine di casa, un primo piatto veloce per 4 persone che unisce pasta italiana, agrumi e un…",
+        "link": "https://www.gustoblog.it/2026/08/24/linguine-al-limone-e-latte-di-cocco-la-ricetta-cremosa-che-profuma-destate/",
+        "pubDate": "2026-08-24T13:02:39+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "C’è una nuova polemica sulla pasta italiana fatta col grano italiano",
+        "description": "L'Ad di Molino Casillo in un'intervista a Forbes ha fatto arrabbiare gli agricoltori italiani, sostenendo che la pasta si può fare bene col grano estero.\nL'arti…",
+        "link": "https://www.dissapore.com/notizie/ce-una-nuova-polemica-sulla-pasta-italiana-fatta-col-grano-italiano/",
+        "pubDate": "2026-08-24T12:48:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/campo-di-grano-duro.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Cinquant’anni fa la California battè i francesi a Parigi. Oggi il suo vino affronta una nuova crisi",
+        "description": "Dal Judgement of Paris del 1976 alla crisi di oggi: meno vigneti, nuovi vitigni, cambiamento climatico e turismo da ripensare. Viaggio tra Napa, Sonoma e Mendoc…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vino-california-50-anni-judgement-of-paris-napa-sonoma/",
+        "pubDate": "2026-08-24T12:48:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante dei Sibillini rinato dopo il terremoto dove il menu si racconta ancora a voce",
+        "description": "Dal Navigante, a Castelsantangelo sul Nera, è nato nel 1982 ed è ripartito dopo il terremoto del 2016. Oggi la famiglia Valentini accoglie escursionisti e viagg…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/dal-navigante-ristorante-rifugio-monti-sibillini/",
+        "pubDate": "2026-08-24T12:02:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Uno studio israeliano ci dice quale sarà il prossimo granchio blu",
         "description": "Il cambiamento climatico porterà nuove specie aliene nel Mediterraneo: quando pensiamo di intervenire? \nL'articolo Uno studio israeliano ci dice quale sarà il p…",
         "link": "https://www.dissapore.com/notizie/uno-studio-israeliano-ci-dice-quale-sara-il-prossimo-granchio-blu/",
@@ -374,6 +437,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/06/mucillagine-allarme-pescatori.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "In Irpinia c’è una cantina dove si cena tra i filari con jazz e Fiano spendendo meno di 40 euro",
+        "description": "Contrada Vini, a Candida, apre d’estate i vigneti a cene in bianco e serate jazz con degustazione. Una storia familiare iniziata nel 1973 con i primi filari di …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/contrada-vini-irpinia-jazz-cene-vigneti-fiano/",
+        "pubDate": "2026-08-24T10:59:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nell’hotel dove un sensore misura la glicemia mentre mangi per capire quali cibi ti fanno stare meglio",
+        "description": "Al Six Senses di Crans-Montana monitoraggio del glucosio e del sonno entrano nei programmi wellness, insieme a nutrizione, movimento e trattamenti personalizzat…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/six-senses-crans-montana-glicemia-sonno-alimentazione/",
+        "pubDate": "2026-08-24T09:56:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "“Schiavi del gelato”: l’inchiesta che scuote le gelaterie italiane in Germania",
@@ -461,87 +542,6 @@
         "description": "A casa, in poco più di due ore tra preparazione e riposo, i cestini di limone portano in tavola un dessert fresco per quattro persone, pensato per chi cerca un …",
         "link": "https://www.gustoblog.it/2026/08/23/cestini-di-limone-il-dolce-fresco-che-profuma-destate/",
         "pubDate": "2026-08-23T13:02:18+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Mangiamo sempre le stesse verdure ed è un problema",
-        "description": "Un team di ricercatori multidisciplinari ha lanciato un allarme sul fatto che le specie coltivate industrialmente stanno eliminando tutte le altre.\nL'articolo M…",
-        "link": "https://www.dissapore.com/notizie/mangiamo-sempre-le-stesse-verdure-ed-e-un-problema/",
-        "pubDate": "2026-08-23T12:29:08+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Sardegna c’è una pentola che si mangia: dentro cuociono carne, pesce e verdure",
-        "description": "Si chiama panada: un guscio di pasta sigillato in cui il ripieno cuoce lentamente. Assemini, Oschiri e Cuglieri ne custodiscono tre versioni molto diverse…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panada-sarda-assemini-oschiri-cuglieri/",
-        "pubDate": "2026-08-23T11:28:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Grand Tour Italia è ancora in rosso ma Farinetti non molla",
-        "description": "Per il terzo anno di fila l'ex Fico è in perdita per milioni di euro: la società individua cause esterne, e il patron scommette sull'ennesimo rilancio.\nL'artico…",
-        "link": "https://www.dissapore.com/notizie/grand-tour-italia-e-ancora-in-rosso-ma-farinetti-non-molla/",
-        "pubDate": "2026-08-23T10:28:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/fico-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Sicilia i coltivatori di mango dormono nei campi per difendere i frutti dai ladri",
-        "description": "A Balestrate telecamere, allarmi e chat WhatsApp non sono bastati. I produttori presidiano di notte le piantagioni per proteggere il raccolto dai furti…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/furti-mango-sicilia-agricoltori-dormono-campi/",
-        "pubDate": "2026-08-23T09:20:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ecco perché l’insalata in busta è un cibo così a rischio",
-        "description": "Il New York Times ricostruisce la filiera, e le criticità, del sistema produttivo che porta in tavola il contorno pronto più diffuso.\nL'articolo Ecco perché l&#…",
-        "link": "https://www.dissapore.com/notizie/ecco-perche-linsalata-in-busta-e-un-cibo-cosi-a-rischio/",
-        "pubDate": "2026-08-23T08:29:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2020/05/lattuga-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Venezia c’è un bacaro che apre alle 6 del mattino e non serve caffè: qui la colazione si fa con vino e paninetti",
-        "description": "Da Lele è un'istituzione veneziana dal 1968: niente tavoli né caffè, ma paninetti da 1,40 euro e ombre di vino fin dalle prime ore del mattino…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/bacareto-da-lele-venezia-colazione-vino-paninetti/",
-        "pubDate": "2026-08-23T08:01:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il formaggio che mangiava Michelangelo dura solo pochi giorni e quasi nessuno lo conosce fuori dall’Appennino",
-        "description": "Il raviggiolo compare negli appunti di Michelangelo e nelle ricette di Pellegrino Artusi. È un antichissimo formaggio fresco dell’Appennino che ancora oggi vien…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/raviggiolo-formaggio-michelangelo-artusi-appennino/",
-        "pubDate": "2026-08-23T07:12:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Bocconotti, i dolci scrigni della tradizione italiana",
-        "description": "I bocconotti, dolci italiani di pasta frolla ripiena, tornano sulle tavole di casa oggi, 22 agosto 2026, nelle cucine familiari dove si preparano per merenda, c…",
-        "link": "https://www.gustoblog.it/2026/08/22/bocconotti-i-dolci-scrigni-della-tradizione-italiana/",
-        "pubDate": "2026-08-22T19:02:32+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Lasagne senza cottura: la ricetta furba che salva l’estate",
-        "description": "Le lasagne senza cottura tornano sulle tavole d’estate come ricetta pratica per 4 persone, da preparare in casa, al mare o in montagna in circa 30 minuti di lav…",
-        "link": "https://www.gustoblog.it/2026/08/22/lasagne-senza-cottura-la-ricetta-furba-che-salva-lestate/",
-        "pubDate": "2026-08-22T13:02:40+00:00",
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
