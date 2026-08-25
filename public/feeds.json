@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-25T06:47:24.548349+00:00",
+  "generated": "2026-08-25T12:46:37.113808+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Polpi contro il granchio blu: è partita la sperimentazione",
+        "description": "È partito il progetto Octo-Blu, con i polpi liberati al largo di Cesenatico: porranno un freno all'invasione del granchio blu?\nL'articolo Polpi contro il granch…",
+        "link": "https://www.dissapore.com/notizie/polpi-contro-il-granchio-blu-e-partita-la-sperimentazione/",
+        "pubDate": "2026-08-25T11:43:28+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/polpo-granchio-blu-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Sézane presenta la “Grande Collection” per l’autunno 2026",
+        "description": "C&#8217;è chi è già tornato alla routine di sempre e chi, beato lui o lei, si gode ancora gli ultimi scampoli d&#8217;estate e di relax vacanziero. A pensare al…",
+        "link": "https://www.grazia.it/moda/news-moda/sezane-presenta-collezione-autunno-2026-maglioni-giacche-cappotti-borse-992963",
+        "pubDate": "2026-08-25T10:31:26+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/sezane-fw-26-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Come indossare il top lingerie in queste ultime giornate d’estate? Con pantaloni dritti e mules, come Hailey Bieber… get the look!",
+        "description": "Dopo gli ultimi avvistamenti in Italia, prima a Sciacca e poi a Panarea, le vacanze di Hailey Bieber insieme al marito Justin sembrano essere giunte al termine.…",
+        "link": "https://www.grazia.it/moda/get-the-look/come-indossare-il-top-lingerie-satin-pizzo-hailey-bieber-justin-rhode-get-the-look-992949",
+        "pubDate": "2026-08-25T10:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/hailey-bieber-top-lingerie.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "L’agricoltura in miniera forse sostituirà la vertical farm",
+        "description": "Un progetto, finanziato con fondi pubblici, ha preso il via in Inghilterra per provare a produrre vegetali nel sottosuolo.\nL'articolo L&#8217;agricoltura in min…",
+        "link": "https://www.dissapore.com/notizie/lagricoltura-in-miniera-forse-sostituira-la-vertical-farm/",
+        "pubDate": "2026-08-25T09:55:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/vertical-farming-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Autunno in Istria: tartufo, vino, prosciutto e nuove produzioni artigianali",
+        "description": "L’autunno è una delle stagioni più interessanti per scoprire l’Istria. Tra settembre e ottobre, il ritmo rallenta, i borghi dell’entroterra tornano protagonisti…",
+        "link": "https://www.winemag.it/autunno-in-istria-tartufo-vino-prosciutto-e-nuove-produzioni-artigianali/",
+        "pubDate": "2026-08-25T09:08:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Questo borgo della Campania è circondato da paesaggi naturali mozzafiato",
+        "description": "Tra dolci colline e viste spettacolari che si perdono all’orizzonte, c’è un piccolo borgo campano dove natura e silenzio si fondono in un equilibrio perfetto. U…",
+        "link": "https://www.stylosophy.it/articolo/borgo-della-campania-e-circondato-da-paesaggi-naturali-mozzafiato/232372/",
+        "pubDate": "2026-08-25T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "A 2.000 metri sulle Dolomiti c’è una pizzeria dove i prati dell’Alpe di Siusi finiscono sulla pizza",
+        "description": "All’Alpina Chalet dell’Alpe di Siusi, Denis Lovatel firma un menu costruito a 2.000 metri tra erbe, fiori, formaggi, carni e frutti di bosco. Tre pizze racconta…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/denis-lovatel-pizza-alpe-di-siusi-alpina-chalet/",
+        "pubDate": "2026-08-25T08:50:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Elio e le Storie Tese trasformano il palco in un ristorante: il pubblico sceglie cosa farsi “servire”",
+        "description": "Giacca da cuoco, palco trasformato in cucina e canzoni da “ordinare”: nel Tour À la carte di Elio e le Storie Tese il pubblico costruisce il menu musicale della…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/elio-storie-tese-tour-a-la-carte-cuochi-menu-canzoni/",
+        "pubDate": "2026-08-25T08:44:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A due minuti dall’Autostrada c’è un ristorante in un albergo dove fermarsi per tortellini, gnocco fritto e salumi",
+        "description": "A Campogalliano, vicino a Modena, Osteria Emilia si trova all’interno di un Best Western a pochi minuti dall’autostrada. Una sosta insospettabile tra pasta fres…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/osteria-emilia-campogalliano-ristorante-autostrada/",
+        "pubDate": "2026-08-25T08:02:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il trend social delle aringhe fermentate puzzolenti potrebbe finire presto",
         "description": "Il surströmming, la tradizionale e nauseabonda aringa fermentata svedese, è a rischio, insieme ai pesci del Mar Baltico.\nL'articolo Il trend social delle aringh…",
@@ -12,6 +93,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "A Napoli il pane cafone costa 3 euro al chilo. Questo panificatore spiega perché il pane fatto bene deve costare di più",
+        "description": "Andrea Matarese ha lasciato la strada della giurisprudenza per dedicarsi a farine e fermentazioni. Nel laboratorio Dr. Baking di Napoli lavora solo con lievito …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/dr-baking-andrea-matarese-pane-napoli/",
+        "pubDate": "2026-08-25T06:26:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Lupini, il superfood dimenticato che conquista la tavola con le proteine vegetali",
         "description": "I lupini, legume della tradizione contadina italiana, sono tornati nel 2025 sugli scaffali della grande distribuzione come prodotto legato all’alimentazione sal…",
         "link": "https://www.gustoblog.it/2026/08/25/lupini-il-superfood-dimenticato-che-conquista-la-tavola-con-le-proteine-vegetali/",
@@ -19,6 +109,42 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "“Il Codice della strada ci ha spinto a puntare sul vino al calice. Oggi va alla grande”. La scelta di Trattoria del Cimino",
+        "description": "Nella trattoria di Caprarola sono ben 22 i vini proposti al bicchiere (e 900 le etichette in carta). Samuele Calistri: \"Ricarichi? Giusto che la mescita costi d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-calice-ricarichi-samuele-calistri-trattoria-cimino/",
+        "pubDate": "2026-08-25T06:01:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fermi tutti! I vestiti più belli delle nuove collezioni sono già qui",
+        "description": "Le nuove collezioni di abiti sono finalmente arrivate e basta uno sguardo alle proposte dei brand per capire quale sarà il mood della stagione. Curiose di scopr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/vestiti-nuove-collezioni-settembre-autunno-2026-abiti-modelli-piu-belli-991425",
+        "pubDate": "2026-08-25T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_nuove_collezioni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Tutti pazzi per il Magnum nel croissant. Ma il trend virale dell’estate non è affatto nuovo",
+        "description": "Un Magnum infilato dentro un croissant, milioni di visualizzazioni e migliaia di repliche: è il tormentone food dell’estate su TikTok. Ma l’idea circolava già d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/magnum-croissant-trend-tiktok-storia/",
+        "pubDate": "2026-08-25T05:55:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
+        "description": "Da Doe’s Eat Place, storico ristorante del Mississippi amato da Bourdain, parte un viaggio dentro la sua eredità. A otto anni dalla morte e alla vigilia del fil…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/anthony-bourdain-film-tony-culto-eredita/",
+        "pubDate": "2026-08-25T05:34:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Migliori vini della Valle d’Aosta: tasting esclusivo e punteggi di 66 etichette",
@@ -55,135 +181,45 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Milano incontra la Sicilia: Moebius Milano al Bar Timeo di Taormina",
-        "description": "Dal 27 al 30 agosto, dalle 19 a mezzanotte, il Bar Timeo del Grand Hotel Timeo, A Belmond Hotel, Taormina, ospita Moebius Milano per quattro serate dedicate all…",
-        "link": "https://www.winemag.it/milano-incontra-la-sicilia-moebius-milano-al-bar-timeo-di-taormina/",
-        "pubDate": "2026-08-24T13:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Linguine al limone e latte di cocco: la ricetta cremosa che profuma d’estate",
-        "description": "Le linguine al limone e latte di cocco portano in tavola oggi, nelle cucine di casa, un primo piatto veloce per 4 persone che unisce pasta italiana, agrumi e un…",
-        "link": "https://www.gustoblog.it/2026/08/24/linguine-al-limone-e-latte-di-cocco-la-ricetta-cremosa-che-profuma-destate/",
-        "pubDate": "2026-08-24T13:02:39+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Annalisa, selfie al naturale e con un velo di make up post tour estivo: FOTO",
-        "description": "Annalisa ha da poco concluso il tour estivo ed ora si gode un po' di meritato riposo scattandosi un selfie.…",
-        "link": "https://www.stylosophy.it/articolo/annalisa-selfie-al-naturale-e-con-un-velo-di-make-up-post-tour-estivo-foto/253492/",
-        "pubDate": "2026-08-24T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "C’è una nuova polemica sulla pasta italiana fatta col grano italiano",
-        "description": "L'Ad di Molino Casillo in un'intervista a Forbes ha fatto arrabbiare gli agricoltori italiani, sostenendo che la pasta si può fare bene col grano estero.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/ce-una-nuova-polemica-sulla-pasta-italiana-fatta-col-grano-italiano/",
-        "pubDate": "2026-08-24T12:48:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/campo-di-grano-duro.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cinquant’anni fa la California battè i francesi a Parigi. Oggi il suo vino affronta una nuova crisi",
-        "description": "Dal Judgement of Paris del 1976 alla crisi di oggi: meno vigneti, nuovi vitigni, cambiamento climatico e turismo da ripensare. Viaggio tra Napa, Sonoma e Mendoc…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vino-california-50-anni-judgement-of-paris-napa-sonoma/",
-        "pubDate": "2026-08-24T12:48:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il ristorante dei Sibillini rinato dopo il terremoto dove il menu si racconta ancora a voce",
-        "description": "Dal Navigante, a Castelsantangelo sul Nera, è nato nel 1982 ed è ripartito dopo il terremoto del 2016. Oggi la famiglia Valentini accoglie escursionisti e viagg…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/dal-navigante-ristorante-rifugio-monti-sibillini/",
-        "pubDate": "2026-08-24T12:02:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Uno studio israeliano ci dice quale sarà il prossimo granchio blu",
-        "description": "Il cambiamento climatico porterà nuove specie aliene nel Mediterraneo: quando pensiamo di intervenire? \nL'articolo Uno studio israeliano ci dice quale sarà il p…",
-        "link": "https://www.dissapore.com/notizie/uno-studio-israeliano-ci-dice-quale-sara-il-prossimo-granchio-blu/",
-        "pubDate": "2026-08-24T11:15:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/06/mucillagine-allarme-pescatori.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Irpinia c’è una cantina dove si cena tra i filari con jazz e Fiano spendendo meno di 40 euro",
-        "description": "Contrada Vini, a Candida, apre d’estate i vigneti a cene in bianco e serate jazz con degustazione. Una storia familiare iniziata nel 1973 con i primi filari di …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/contrada-vini-irpinia-jazz-cene-vigneti-fiano/",
-        "pubDate": "2026-08-24T10:59:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Margot Robbie sul set di “Ocean’s Eleven” indossa un mini dress super chic (e noi vi mostriamo 7 abiti corti perfetti per ripartire a Settembre)",
-        "description": "Quando qualche settimana fa l’abbiamo vista passeggiare per le strade di Parigi (con addosso il suo adorabile top lingerie giallo burro) sembrava si stesse semp…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-corti-minimlal-mini-dress-essenziali-eleganti-donna-margot-robbie-oceans-eleven-prequel-992821",
-        "pubDate": "2026-08-24T10:31:04+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Mini_dress_-minimalisti_Margot_Robbie.jpg",
+        "title": "Sézane presenta la “Grande Collection” per l’autunno 2026",
+        "description": "C&#8217;è chi è già tornato alla routine di sempre e chi, beato lui o lei, si gode ancora gli ultimi scampoli d&#8217;estate e di relax vacanziero. A pensare al…",
+        "link": "https://www.grazia.it/moda/news-moda/sezane-presenta-collezione-autunno-2026-maglioni-giacche-cappotti-borse-992963",
+        "pubDate": "2026-08-25T10:31:26+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/sezane-fw-26-ape.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Nell’hotel dove un sensore misura la glicemia mentre mangi per capire quali cibi ti fanno stare meglio",
-        "description": "Al Six Senses di Crans-Montana monitoraggio del glucosio e del sonno entrano nei programmi wellness, insieme a nutrizione, movimento e trattamenti personalizzat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/six-senses-crans-montana-glicemia-sonno-alimentazione/",
-        "pubDate": "2026-08-24T09:56:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Come indossare il top lingerie in queste ultime giornate d’estate? Con pantaloni dritti e mules, come Hailey Bieber… get the look!",
+        "description": "Dopo gli ultimi avvistamenti in Italia, prima a Sciacca e poi a Panarea, le vacanze di Hailey Bieber insieme al marito Justin sembrano essere giunte al termine.…",
+        "link": "https://www.grazia.it/moda/get-the-look/come-indossare-il-top-lingerie-satin-pizzo-hailey-bieber-justin-rhode-get-the-look-992949",
+        "pubDate": "2026-08-25T10:02:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/hailey-bieber-top-lingerie.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "“Schiavi del gelato”: l’inchiesta che scuote le gelaterie italiane in Germania",
-        "description": "Il presidente del Veneto Luca Zaia e le autorità locali chiedono tutela del lavoro, ma dietro lo scandalo potrebbero esserci altri interessi, legati alle conces…",
-        "link": "https://www.dissapore.com/locali/schiavi-del-gelato-linchiesta-che-scuote-le-gelaterie-italiane-in-germania/",
-        "pubDate": "2026-08-24T09:53:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/gelato-germania.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Come scegliere le tende per far sembrare una stanza più grande e luminosa",
-        "description": "Dall’altezza del bastone alla lunghezza del tessuto, fino a colori e materiali: quattro accorgimenti per modificare la percezione dello spazio senza intervenire…",
-        "link": "https://www.stylosophy.it/articolo/come-scegliere-le-tende-per-far-sembrare-una-stanza-piu-grande-e-luminosa/253476/",
-        "pubDate": "2026-08-24T09:00:00+00:00",
+        "title": "Questo borgo della Campania è circondato da paesaggi naturali mozzafiato",
+        "description": "Tra dolci colline e viste spettacolari che si perdono all’orizzonte, c’è un piccolo borgo campano dove natura e silenzio si fondono in un equilibrio perfetto. U…",
+        "link": "https://www.stylosophy.it/articolo/borgo-della-campania-e-circondato-da-paesaggi-naturali-mozzafiato/232372/",
+        "pubDate": "2026-08-25T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Prima della Bisciola in Valtellina c’era questo pane dolce di segale, fichi e noci",
-        "description": "Si chiama Panun de Natal ed è un antico pane delle feste valtellinese a base di segale, fichi, noci e uvetta. La tradizione lo considera l’antenato della Biscio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panun-de-natal-valtellina-bisciola/",
-        "pubDate": "2026-08-24T08:51:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Fermi tutti! I vestiti più belli delle nuove collezioni sono già qui",
+        "description": "Le nuove collezioni di abiti sono finalmente arrivate e basta uno sguardo alle proposte dei brand per capire quale sarà il mood della stagione. Curiose di scopr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/vestiti-nuove-collezioni-settembre-autunno-2026-abiti-modelli-piu-belli-991425",
+        "pubDate": "2026-08-25T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_nuove_collezioni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "La focaccia più famosa di Alghero è nata da una donna tornata dall’Australia (e ha una salsa ancora segreta)",
-        "description": "Tonno, uova sode, acciughe, cipolle, pancetta e una salsa dalla ricetta custodita dalla famiglia. La Focaccia del Milese nasce nel 1971 dall’intuizione di Maria…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/focaccia-milese-alghero-storia-salsa-segreta/",
-        "pubDate": "2026-08-24T08:15:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Annalisa, selfie al naturale e con un velo di make up post tour estivo: FOTO",
         "description": "Annalisa ha da poco concluso il tour estivo ed ora si gode un po' di meritato riposo scattandosi un selfie.…",
@@ -327,45 +363,63 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Top_romantici_in_pizzo.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Ristrutturare il bagno: costi, scelte intelligenti e segreti per non sforare il budget",
-        "description": "Per rinnovare il bagno ed evitare spese impreviste serve un piano ben studiato. Scopri come orientarti tra materiali, manodopera e soluzioni smart per ottenere …",
-        "link": "https://www.stylosophy.it/articolo/ristrutturare-il-bagno-costi-scelte-intelligenti-e-segreti-per-non-sforare-il-budget/236948/",
-        "pubDate": "2026-08-20T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Top canotta + gonna”: la combo più furba dell’estate in 7 look da copiare",
-        "description": "Da una parte la canotta, uno dei pezzi chiave del guardaroba per la spiaggia che assicura look easy e disinvolti anche in città. Dall’altra la gonna, uno dei ca…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-top-canotta-e-gonna-outfit-canottiera-sotto-camicia-estate-978108",
-        "pubDate": "2026-08-20T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/06/tank-top-gonna-abbinamenti.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Pantaloni balloon: 5 idee per abbinarli con stile da qui fino alla fine dell’estate",
-        "description": "Hanno iniziato a spopolare dappertutto all’inizio della primavera e a distanza di mesi poco o nulla è cambiato: i pantaloni balloon sono ancora uno dei capi più…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-i-pantaloni-baloon-idee-outfit-donna-estate-a-chi-stanno-bene-zara-scarpe-per-992634",
-        "pubDate": "2026-08-19T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_pantaloni_balloon.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Stanche dei soliti copricostumi? Questi sono gli abiti freschi e chic da indossare (sì, anche in spiaggia)",
-        "description": "Arriva l’estate e puntualmente, oltre a rinnovare la nostra collezione di bikini, ci viene voglia di scegliere anche dei nuovi copricostumi da portare con noi i…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-donna-leggeri-freschi-spiaggia-eleganti-caftani-crochet-mini-dress-uncinetto-lungo-estate-donna-985327",
-        "pubDate": "2026-08-19T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/00_DESKTOP_abiti_spiaggia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Polpi contro il granchio blu: è partita la sperimentazione",
+        "description": "È partito il progetto Octo-Blu, con i polpi liberati al largo di Cesenatico: porranno un freno all'invasione del granchio blu?\nL'articolo Polpi contro il granch…",
+        "link": "https://www.dissapore.com/notizie/polpi-contro-il-granchio-blu-e-partita-la-sperimentazione/",
+        "pubDate": "2026-08-25T11:43:28+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/polpo-granchio-blu-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "L’agricoltura in miniera forse sostituirà la vertical farm",
+        "description": "Un progetto, finanziato con fondi pubblici, ha preso il via in Inghilterra per provare a produrre vegetali nel sottosuolo.\nL'articolo L&#8217;agricoltura in min…",
+        "link": "https://www.dissapore.com/notizie/lagricoltura-in-miniera-forse-sostituira-la-vertical-farm/",
+        "pubDate": "2026-08-25T09:55:22+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/vertical-farming-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Autunno in Istria: tartufo, vino, prosciutto e nuove produzioni artigianali",
+        "description": "L’autunno è una delle stagioni più interessanti per scoprire l’Istria. Tra settembre e ottobre, il ritmo rallenta, i borghi dell’entroterra tornano protagonisti…",
+        "link": "https://www.winemag.it/autunno-in-istria-tartufo-vino-prosciutto-e-nuove-produzioni-artigianali/",
+        "pubDate": "2026-08-25T09:08:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "A 2.000 metri sulle Dolomiti c’è una pizzeria dove i prati dell’Alpe di Siusi finiscono sulla pizza",
+        "description": "All’Alpina Chalet dell’Alpe di Siusi, Denis Lovatel firma un menu costruito a 2.000 metri tra erbe, fiori, formaggi, carni e frutti di bosco. Tre pizze racconta…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/denis-lovatel-pizza-alpe-di-siusi-alpina-chalet/",
+        "pubDate": "2026-08-25T08:50:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Elio e le Storie Tese trasformano il palco in un ristorante: il pubblico sceglie cosa farsi “servire”",
+        "description": "Giacca da cuoco, palco trasformato in cucina e canzoni da “ordinare”: nel Tour À la carte di Elio e le Storie Tese il pubblico costruisce il menu musicale della…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/elio-storie-tese-tour-a-la-carte-cuochi-menu-canzoni/",
+        "pubDate": "2026-08-25T08:44:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A due minuti dall’Autostrada c’è un ristorante in un albergo dove fermarsi per tortellini, gnocco fritto e salumi",
+        "description": "A Campogalliano, vicino a Modena, Osteria Emilia si trova all’interno di un Best Western a pochi minuti dall’autostrada. Una sosta insospettabile tra pasta fres…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/osteria-emilia-campogalliano-ristorante-autostrada/",
+        "pubDate": "2026-08-25T08:02:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il trend social delle aringhe fermentate puzzolenti potrebbe finire presto",
         "description": "Il surströmming, la tradizionale e nauseabonda aringa fermentata svedese, è a rischio, insieme ai pesci del Mar Baltico.\nL'articolo Il trend social delle aringh…",
@@ -376,6 +430,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "A Napoli il pane cafone costa 3 euro al chilo. Questo panificatore spiega perché il pane fatto bene deve costare di più",
+        "description": "Andrea Matarese ha lasciato la strada della giurisprudenza per dedicarsi a farine e fermentazioni. Nel laboratorio Dr. Baking di Napoli lavora solo con lievito …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/dr-baking-andrea-matarese-pane-napoli/",
+        "pubDate": "2026-08-25T06:26:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Lupini, il superfood dimenticato che conquista la tavola con le proteine vegetali",
         "description": "I lupini, legume della tradizione contadina italiana, sono tornati nel 2025 sugli scaffali della grande distribuzione come prodotto legato all’alimentazione sal…",
         "link": "https://www.gustoblog.it/2026/08/25/lupini-il-superfood-dimenticato-che-conquista-la-tavola-con-le-proteine-vegetali/",
@@ -383,6 +446,33 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "“Il Codice della strada ci ha spinto a puntare sul vino al calice. Oggi va alla grande”. La scelta di Trattoria del Cimino",
+        "description": "Nella trattoria di Caprarola sono ben 22 i vini proposti al bicchiere (e 900 le etichette in carta). Samuele Calistri: \"Ricarichi? Giusto che la mescita costi d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-calice-ricarichi-samuele-calistri-trattoria-cimino/",
+        "pubDate": "2026-08-25T06:01:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti pazzi per il Magnum nel croissant. Ma il trend virale dell’estate non è affatto nuovo",
+        "description": "Un Magnum infilato dentro un croissant, milioni di visualizzazioni e migliaia di repliche: è il tormentone food dell’estate su TikTok. Ma l’idea circolava già d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/magnum-croissant-trend-tiktok-storia/",
+        "pubDate": "2026-08-25T05:55:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
+        "description": "Da Doe’s Eat Place, storico ristorante del Mississippi amato da Bourdain, parte un viaggio dentro la sua eredità. A otto anni dalla morte e alla vigilia del fil…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/anthony-bourdain-film-tony-culto-eredita/",
+        "pubDate": "2026-08-25T05:34:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Migliori vini della Valle d’Aosta: tasting esclusivo e punteggi di 66 etichette",
@@ -452,96 +542,6 @@
         "description": "Dal Judgement of Paris del 1976 alla crisi di oggi: meno vigneti, nuovi vitigni, cambiamento climatico e turismo da ripensare. Viaggio tra Napa, Sonoma e Mendoc…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vino-california-50-anni-judgement-of-paris-napa-sonoma/",
         "pubDate": "2026-08-24T12:48:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il ristorante dei Sibillini rinato dopo il terremoto dove il menu si racconta ancora a voce",
-        "description": "Dal Navigante, a Castelsantangelo sul Nera, è nato nel 1982 ed è ripartito dopo il terremoto del 2016. Oggi la famiglia Valentini accoglie escursionisti e viagg…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/dal-navigante-ristorante-rifugio-monti-sibillini/",
-        "pubDate": "2026-08-24T12:02:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Uno studio israeliano ci dice quale sarà il prossimo granchio blu",
-        "description": "Il cambiamento climatico porterà nuove specie aliene nel Mediterraneo: quando pensiamo di intervenire? \nL'articolo Uno studio israeliano ci dice quale sarà il p…",
-        "link": "https://www.dissapore.com/notizie/uno-studio-israeliano-ci-dice-quale-sara-il-prossimo-granchio-blu/",
-        "pubDate": "2026-08-24T11:15:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/06/mucillagine-allarme-pescatori.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Irpinia c’è una cantina dove si cena tra i filari con jazz e Fiano spendendo meno di 40 euro",
-        "description": "Contrada Vini, a Candida, apre d’estate i vigneti a cene in bianco e serate jazz con degustazione. Una storia familiare iniziata nel 1973 con i primi filari di …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/contrada-vini-irpinia-jazz-cene-vigneti-fiano/",
-        "pubDate": "2026-08-24T10:59:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nell’hotel dove un sensore misura la glicemia mentre mangi per capire quali cibi ti fanno stare meglio",
-        "description": "Al Six Senses di Crans-Montana monitoraggio del glucosio e del sonno entrano nei programmi wellness, insieme a nutrizione, movimento e trattamenti personalizzat…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/six-senses-crans-montana-glicemia-sonno-alimentazione/",
-        "pubDate": "2026-08-24T09:56:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Schiavi del gelato”: l’inchiesta che scuote le gelaterie italiane in Germania",
-        "description": "Il presidente del Veneto Luca Zaia e le autorità locali chiedono tutela del lavoro, ma dietro lo scandalo potrebbero esserci altri interessi, legati alle conces…",
-        "link": "https://www.dissapore.com/locali/schiavi-del-gelato-linchiesta-che-scuote-le-gelaterie-italiane-in-germania/",
-        "pubDate": "2026-08-24T09:53:49+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/gelato-germania.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Prima della Bisciola in Valtellina c’era questo pane dolce di segale, fichi e noci",
-        "description": "Si chiama Panun de Natal ed è un antico pane delle feste valtellinese a base di segale, fichi, noci e uvetta. La tradizione lo considera l’antenato della Biscio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panun-de-natal-valtellina-bisciola/",
-        "pubDate": "2026-08-24T08:51:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La focaccia più famosa di Alghero è nata da una donna tornata dall’Australia (e ha una salsa ancora segreta)",
-        "description": "Tonno, uova sode, acciughe, cipolle, pancetta e una salsa dalla ricetta custodita dalla famiglia. La Focaccia del Milese nasce nel 1971 dall’intuizione di Maria…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/focaccia-milese-alghero-storia-salsa-segreta/",
-        "pubDate": "2026-08-24T08:15:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Per superare l’alcolismo meglio non fare come Brad Pitt",
-        "description": "Il divo di Hollywood ha ammesso di aver rotto la sobrietà e di concedersi un bicchiere ogni tanto. Gli esperti avvertono: non è per tutti.\nL'articolo Per supera…",
-        "link": "https://www.dissapore.com/notizie/per-superare-lalcolismo-meglio-non-fare-come-brad-pitt/",
-        "pubDate": "2026-08-24T07:58:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/brad-pitt-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il ristorante sul mare nel Lazio dove si cena guardando il tramonto sull’Argentario",
-        "description": "Le Murelle è uno degli indirizzi storici di Montalto Marina: terrazza sul Tirreno, pescato, pasta fresca e una cucina di mare essenziale e ben eseguita…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/le-murelle-ristorante-pesce-montalto-marina/",
-        "pubDate": "2026-08-24T07:33:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Ricarichi esagerati anche sul vino al bicchiere. I produttori non parlano per paura”. Il j’accuse di Fausto Albanesi",
-        "description": "Il proprietario di Torre dei Beati non risparmia critiche a nessuno, dai ristoratori troppo impegnati a fare profitto ai produttori che non vogliono esporsi e h…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/ricarichi-bottiglie-vino-calici-intervista-fausto-albanesi-torre-beati/",
-        "pubDate": "2026-08-24T07:07:32+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
