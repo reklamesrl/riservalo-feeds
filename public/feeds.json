@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-25T12:46:37.113808+00:00",
+  "generated": "2026-08-25T18:38:39.271006+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La pasticcera laureata in Agraria che ha trasformato il bar di famiglia seguendo la sua idea di benessere",
+        "description": "Anna Sartori è cresciuta nella pasticceria aperta dai genitori nel 1958 a Erba. Dopo la laurea e gli studi in naturopatia ha costruito un metodo che mette insie…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-sartori-erba-anna-sartori-bar-anno/",
+        "pubDate": "2026-08-25T13:18:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bietole con patate: il contorno semplice che sa di casa",
+        "description": "Le bietole con patate tornano in tavola oggi, nelle cucine di casa di chi cerca un contorno economico, caldo e sostanzioso, perché con pochi ingredienti — verdu…",
+        "link": "https://www.gustoblog.it/2026/08/25/bietole-con-patate-il-contorno-semplice-che-sa-di-casa/",
+        "pubDate": "2026-08-25T13:02:39+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Elodie, in vacanza al mare con il bikini di super tendenza per quest’estate: da copiare subito!",
+        "description": "Elodie sfoggia il bikini di super tendenza per quest'estate: qui i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/elodie-in-vacanza-al-mare-con-il-bikini-di-super-tendenza-per-questestate-da-copiare-subito/253507/",
+        "pubDate": "2026-08-25T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Rimosso\tAggiunto Eliminato: Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
+        "description": "A Doe's Eat Place, nel Mississippi, Bourdain trovò molto più di una bistecca: segregazione, immigrazione, lavoro e pregiudizi sull'America profonda. È da luoghi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/anthony-bourdain-film-tony-culto-eredita/",
+        "pubDate": "2026-08-25T12:34:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Polpi contro il granchio blu: è partita la sperimentazione",
         "description": "È partito il progetto Octo-Blu, con i polpi liberati al largo di Cesenatico: porranno un freno all'invasione del granchio blu?\nL'articolo Polpi contro il granch…",
@@ -10,6 +46,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/polpo-granchio-blu-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Il ristorante di Barcellona amato da Ferran Adrià dove si mangia alla barra tra brace, pesce e bistecche",
+        "description": "Ultramarinos Marín, a Sarrià-Sant Gervasi, mescola bar di quartiere, colmado e asador basco. Alla barra scorrono tapas, pesce maturato, carni alla brace e una c…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/ultramarinos-marin-barcellona-recensione/",
+        "pubDate": "2026-08-25T11:18:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Sézane presenta la “Grande Collection” per l’autunno 2026",
@@ -37,6 +82,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/vertical-farming-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Sulla costa calabrese si mangia un gelato (famosissimo) modellato ancora a mano",
+        "description": "Nacque da un caso, nel 1954, una delle preparazioni più apprezzate della gelateria italiana, il tartufo di Pizzo: per assaggiarlo, ecco la selezione della guida…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/tartufo-pizzo-storia-gelaterie-dove-mangiarlo/",
+        "pubDate": "2026-08-25T09:36:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Autunno in Istria: tartufo, vino, prosciutto e nuove produzioni artigianali",
@@ -127,63 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_nuove_collezioni.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Tutti pazzi per il Magnum nel croissant. Ma il trend virale dell’estate non è affatto nuovo",
-        "description": "Un Magnum infilato dentro un croissant, milioni di visualizzazioni e migliaia di repliche: è il tormentone food dell’estate su TikTok. Ma l’idea circolava già d…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/magnum-croissant-trend-tiktok-storia/",
-        "pubDate": "2026-08-25T05:55:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
-        "description": "Da Doe’s Eat Place, storico ristorante del Mississippi amato da Bourdain, parte un viaggio dentro la sua eredità. A otto anni dalla morte e alla vigilia del fil…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/anthony-bourdain-film-tony-culto-eredita/",
-        "pubDate": "2026-08-25T05:34:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Migliori vini della Valle d’Aosta: tasting esclusivo e punteggi di 66 etichette",
-        "description": "Migliori vini della Valle d'Aosta: tasting esclusivo e punteggi di 66 etichette vendemmie 2025, 2024 e indietro fino alla 2018\nL'articolo Migliori vini della Va…",
-        "link": "https://www.winemag.it/migliori-vini-valle-d-aosta-vallee-d-aoste-doc-punteggi-66-etichette-winemag/",
-        "pubDate": "2026-08-24T22:01:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/08/Migliori-vini-della-Valle-d-Aosta-tasting-esclusivo-e-punteggi-di-66-etichette-vallee-d-aoste-best-wines-scores-davide-bortone-winemag-5-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Parrozzo, il dolce abruzzese che racconta una storia di tradizione",
-        "description": "Il parrozzo, dolce abruzzese nato a Pescara nei primi decenni del Novecento e oggi preparato soprattutto durante le feste, torna nelle cucine di casa perché uni…",
-        "link": "https://www.gustoblog.it/2026/08/24/parrozzo-il-dolce-abruzzese-che-racconta-una-storia-di-tradizione/",
-        "pubDate": "2026-08-24T19:02:37+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il Ketchup sarà il prossimo alimento arricchito con le proteine",
-        "description": "Uno studio che ha interessato l'American Chemical Society nell'ultimo mese sostiene che potremmo aggiungere proteine al ketchup prendendole dalle alghe.\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/il-ketchup-sara-il-prossimo-alimento-arricchito-con-le-proteine/",
-        "pubDate": "2026-08-24T15:47:03+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Sostenibilità, oltre due terzi dei vigneti altoatesini certificati SQNPI",
-        "description": "Il percorso verso una viticoltura più sostenibile in Alto Adige passa anche attraverso la certificazione SQNPI. A confermarlo sono i dati diffusi dal Consorzio …",
-        "link": "https://www.winemag.it/sostenibilita-oltre-due-terzi-dei-vigneti-altoatesini-certificati-sqnpi/",
-        "pubDate": "2026-08-24T14:03:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Elodie, in vacanza al mare con il bikini di super tendenza per quest’estate: da copiare subito!",
+        "description": "Elodie sfoggia il bikini di super tendenza per quest'estate: qui i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/elodie-in-vacanza-al-mare-con-il-bikini-di-super-tendenza-per-questestate-da-copiare-subito/253507/",
+        "pubDate": "2026-08-25T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Sézane presenta la “Grande Collection” per l’autunno 2026",
         "description": "C&#8217;è chi è già tornato alla routine di sempre e chi, beato lui o lei, si gode ancora gli ultimi scampoli d&#8217;estate e di relax vacanziero. A pensare al…",
@@ -347,15 +356,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Annalisa, in tour con il Look super sexy: body bianco con frange, calze a rete e stivali in pelle",
-        "description": "Annalisa, per l'ultima tappa del suo tour estivo, ha scelto un look molto sexy con body bianco con frange, calze a rete e stivali in pelle.…",
-        "link": "https://www.stylosophy.it/articolo/annalisa-in-tour-con-il-look-super-sexy-body-bianco-con-frange-calze-a-rete-e-stivali-in-pelle/253459/",
-        "pubDate": "2026-08-20T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
         "title": "Il pizzo non va (mai) in vacanza! Ecco i top più romantici dell’estate da puntare subito",
         "description": "Sono uno dei capi più femminili e chic che possiamo avere nell’armadio e se in questa stagione possono trovare spazio nel guardaroba quotidiano a fianco di abit…",
         "link": "https://www.grazia.it/moda/tendenze-moda/top-romantici-in-pizzo-sangallo-lingerie-seta-ricami-trafori-estate-donna-992700",
@@ -367,6 +367,33 @@
     ],
     "lifestyle": [
       {
+        "title": "La pasticcera laureata in Agraria che ha trasformato il bar di famiglia seguendo la sua idea di benessere",
+        "description": "Anna Sartori è cresciuta nella pasticceria aperta dai genitori nel 1958 a Erba. Dopo la laurea e gli studi in naturopatia ha costruito un metodo che mette insie…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-sartori-erba-anna-sartori-bar-anno/",
+        "pubDate": "2026-08-25T13:18:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bietole con patate: il contorno semplice che sa di casa",
+        "description": "Le bietole con patate tornano in tavola oggi, nelle cucine di casa di chi cerca un contorno economico, caldo e sostanzioso, perché con pochi ingredienti — verdu…",
+        "link": "https://www.gustoblog.it/2026/08/25/bietole-con-patate-il-contorno-semplice-che-sa-di-casa/",
+        "pubDate": "2026-08-25T13:02:39+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Rimosso\tAggiunto Eliminato: Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
+        "description": "A Doe's Eat Place, nel Mississippi, Bourdain trovò molto più di una bistecca: segregazione, immigrazione, lavoro e pregiudizi sull'America profonda. È da luoghi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/anthony-bourdain-film-tony-culto-eredita/",
+        "pubDate": "2026-08-25T12:34:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Polpi contro il granchio blu: è partita la sperimentazione",
         "description": "È partito il progetto Octo-Blu, con i polpi liberati al largo di Cesenatico: porranno un freno all'invasione del granchio blu?\nL'articolo Polpi contro il granch…",
         "link": "https://www.dissapore.com/notizie/polpi-contro-il-granchio-blu-e-partita-la-sperimentazione/",
@@ -376,6 +403,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Il ristorante di Barcellona amato da Ferran Adrià dove si mangia alla barra tra brace, pesce e bistecche",
+        "description": "Ultramarinos Marín, a Sarrià-Sant Gervasi, mescola bar di quartiere, colmado e asador basco. Alla barra scorrono tapas, pesce maturato, carni alla brace e una c…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/ultramarinos-marin-barcellona-recensione/",
+        "pubDate": "2026-08-25T11:18:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "L’agricoltura in miniera forse sostituirà la vertical farm",
         "description": "Un progetto, finanziato con fondi pubblici, ha preso il via in Inghilterra per provare a produrre vegetali nel sottosuolo.\nL'articolo L&#8217;agricoltura in min…",
         "link": "https://www.dissapore.com/notizie/lagricoltura-in-miniera-forse-sostituira-la-vertical-farm/",
@@ -383,6 +419,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/vertical-farming-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Sulla costa calabrese si mangia un gelato (famosissimo) modellato ancora a mano",
+        "description": "Nacque da un caso, nel 1954, una delle preparazioni più apprezzate della gelateria italiana, il tartufo di Pizzo: per assaggiarlo, ecco la selezione della guida…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/tartufo-pizzo-storia-gelaterie-dove-mangiarlo/",
+        "pubDate": "2026-08-25T09:36:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Autunno in Istria: tartufo, vino, prosciutto e nuove produzioni artigianali",
@@ -466,15 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
-        "description": "Da Doe’s Eat Place, storico ristorante del Mississippi amato da Bourdain, parte un viaggio dentro la sua eredità. A otto anni dalla morte e alla vigilia del fil…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/anthony-bourdain-film-tony-culto-eredita/",
-        "pubDate": "2026-08-25T05:34:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Migliori vini della Valle d’Aosta: tasting esclusivo e punteggi di 66 etichette",
         "description": "Migliori vini della Valle d'Aosta: tasting esclusivo e punteggi di 66 etichette vendemmie 2025, 2024 e indietro fino alla 2018\nL'articolo Migliori vini della Va…",
         "link": "https://www.winemag.it/migliori-vini-valle-d-aosta-vallee-d-aoste-doc-punteggi-66-etichette-winemag/",
@@ -509,42 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Milano incontra la Sicilia: Moebius Milano al Bar Timeo di Taormina",
-        "description": "Dal 27 al 30 agosto, dalle 19 a mezzanotte, il Bar Timeo del Grand Hotel Timeo, A Belmond Hotel, Taormina, ospita Moebius Milano per quattro serate dedicate all…",
-        "link": "https://www.winemag.it/milano-incontra-la-sicilia-moebius-milano-al-bar-timeo-di-taormina/",
-        "pubDate": "2026-08-24T13:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Linguine al limone e latte di cocco: la ricetta cremosa che profuma d’estate",
-        "description": "Le linguine al limone e latte di cocco portano in tavola oggi, nelle cucine di casa, un primo piatto veloce per 4 persone che unisce pasta italiana, agrumi e un…",
-        "link": "https://www.gustoblog.it/2026/08/24/linguine-al-limone-e-latte-di-cocco-la-ricetta-cremosa-che-profuma-destate/",
-        "pubDate": "2026-08-24T13:02:39+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "C’è una nuova polemica sulla pasta italiana fatta col grano italiano",
-        "description": "L'Ad di Molino Casillo in un'intervista a Forbes ha fatto arrabbiare gli agricoltori italiani, sostenendo che la pasta si può fare bene col grano estero.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/ce-una-nuova-polemica-sulla-pasta-italiana-fatta-col-grano-italiano/",
-        "pubDate": "2026-08-24T12:48:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/campo-di-grano-duro.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cinquant’anni fa la California battè i francesi a Parigi. Oggi il suo vino affronta una nuova crisi",
-        "description": "Dal Judgement of Paris del 1976 alla crisi di oggi: meno vigneti, nuovi vitigni, cambiamento climatico e turismo da ripensare. Viaggio tra Napa, Sonoma e Mendoc…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vino-california-50-anni-judgement-of-paris-napa-sonoma/",
-        "pubDate": "2026-08-24T12:48:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
