@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-26T06:49:28.439785+00:00",
+  "generated": "2026-08-26T12:51:36.066301+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Vendemmia in Valpolicella, raccolta della Corvina in anticipo di due settimane",
+        "description": "La vendemmia 2026 in Valpolicella è iniziata con circa due settimane di anticipo sulla media storica. Nei vigneti dei 19 comuni della denominazione è già partit…",
+        "link": "https://www.winemag.it/vendemmia-in-valpolicella-raccolta-della-corvina-in-anticipo-di-due-settimane/",
+        "pubDate": "2026-08-26T12:28:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vendemmia 2026 nell’Asolo Montello: caldo e siccità anticipano la raccolta delle uve",
+        "description": "La vendemmia 2026 è iniziata nell’area Asolo Montello. I produttori hanno avviato la raccolta della Glera e delle altre varietà del territorio in un’annata segn…",
+        "link": "https://www.winemag.it/vendemmia-2026-nellasolo-montello-caldo-e-siccita-anticipano-la-raccolta-delle-uve/",
+        "pubDate": "2026-08-26T12:10:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dolly Parton e le 5 lezioni di stile che non dimenticheremo",
+        "description": "È stata una delle artiste più iconiche e amate di sempre, in più di 60 anni di carriera ha scritto brani diventati pietre miliari della cultura americana e si è…",
+        "link": "https://www.grazia.it/moda/celebrity-style/dolly-parton-lezioni-di-stile-look-iconici-moda-country-993108",
+        "pubDate": "2026-08-26T10:51:43+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Dolly_Parton.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Rossetto: ecco il rosso da scegliere in base ai gioielli…",
+        "description": "Scoprire come il rossetto rosso possa trasformarsi in un vero alleato dei tuoi gioielli è il segreto per un look impeccabile. Bastano le sfumature giuste per fa…",
+        "link": "https://www.stylosophy.it/articolo/come-scegliere-il-rossetto-rosso-giusto-in-base-ai-gioielli/239121/",
+        "pubDate": "2026-08-26T09:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "I carrelli per fare la spesa con l’IA sono una realtà in Europa",
+        "description": "Per la prima volta in Europa un supermercato ha adottato i carrelli intelligenti che aiutano con il budget della spesa e a non dimenticare nulla.\nL'articolo I c…",
+        "link": "https://www.dissapore.com/notizie/i-carrelli-per-fare-la-spesa-con-lia-sono-una-realta-in-europa/",
+        "pubDate": "2026-08-26T08:50:30+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/spesa-amazon.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Facevano la birra nel garage di casa. Oggi hanno un birrificio agricolo a Capalbio",
+        "description": "Andrea Lelli e Chiara Torracchi hanno iniziato con l’homebrewing e oggi producono cinque birre nel loro birrificio agricolo Almaremma…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/almaremma-birrificio-agricolo-capalbio/",
+        "pubDate": "2026-08-26T07:39:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La baita a 1650 metri dove si mangiano canederli e cervo con vista sulle montagne del Trentino",
+        "description": "A 1650 metri sopra Predazzo, Baita Gardonè si raggiunge in cabinovia e guarda verso il Lagorai. Una “Mountain Riviera” tra canederli, cervo, terrazza al sole e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baita-gardone-predazzo-dove-mangiare-latemar/",
+        "pubDate": "2026-08-26T07:19:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fa gelato da 40 anni ed è uno dei maestri italiani. Per capire una gelateria assaggia sempre questo gusto",
+        "description": "A Udine c'è una delle più grandi gelaterie d'Italia, è quella della famiglia Timballo. Radici familiari, tecnica avanzata e un gelato che racconta l’anima profo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/giancarlo-timballo-gelato-udine-storia/",
+        "pubDate": "2026-08-26T06:08:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Calici in crescita, bottiglie in calo. La crisi del vino vista dal titolare di uno dei più storici wine bar di Roma",
+        "description": "Fabrizio Pagliardi titolare del wine bar La Barrique spiega perché la mescita convegna economicamente anche al ristoratore e stimoli la curiosità del consumator…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/consumo-vino-calice-fabrizio-pagliardi-la-barrique/",
+        "pubDate": "2026-08-26T06:06:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Apofruit, il clima minaccia la ripresa e mette a rischio i risultati del 2025",
         "description": "Apofruit Italia ha chiuso il 2025 con ricavi in crescita e una liquidazione record ai soci, ma nell’estate 2026, tra Nord e Sud del Paese, l’ondata di calore, l…",
@@ -12,6 +93,15 @@
         "source": "Gustoblog"
       },
       {
+        "title": "A proposito di scarpe… Ecco i modelli delle nuove collezioni che ci fanno già venire voglia d’autunno!",
+        "description": "L’estate è ai titoli di coda, per qualcuno le ferie sono già un ricordo lontano e settembre è praticamente dietro l’angolo: questo cosa significa? Che è arrivat…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-nuove-collezioni-donna-autunno-2026-ballerine-mocassini-stivali-stivaletti-tendenza-zara-992976",
+        "pubDate": "2026-08-26T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/scarpe-autunno-26-DESK.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Pizza di Pasqua, la tradizione soffice che profuma di festa",
         "description": "A Pasqua, nelle cucine di molte famiglie italiane, la Pizza di Pasqua torna in tavola come dolce lievitato della festa, preparato in casa con uova, farina, zucc…",
         "link": "https://www.gustoblog.it/2026/08/25/pizza-di-pasqua-la-tradizione-soffice-che-profuma-di-festa/",
@@ -19,6 +109,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "“Au revoir blue jeans”: le francesi hanno deciso che questi 2 colori sono l’alternativa trés chic da sfoggiare dopo i 40 anni",
+        "description": "Da Cannes alle strade di Parigi, le francesi over 40 stanno riducendo l’uso del jeans blu classico. Due nuovi colori neutri lo sostituiscono nei look più chic.\n…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-donna-dopo-40-anni-colori-grigio-scuro-verde-oliva-988619",
+        "pubDate": "2026-08-25T14:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/pantaloni-alternativi-jeans-blu-apertura-EVI.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "La pasticcera laureata in Agraria che ha trasformato il bar di famiglia seguendo la sua idea di benessere",
@@ -82,108 +181,45 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/sezane-fw-26-ape.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Come indossare il top lingerie in queste ultime giornate d’estate? Con pantaloni dritti e mules, come Hailey Bieber… get the look!",
-        "description": "Dopo gli ultimi avvistamenti in Italia, prima a Sciacca e poi a Panarea, le vacanze di Hailey Bieber insieme al marito Justin sembrano essere giunte al termine.…",
-        "link": "https://www.grazia.it/moda/get-the-look/come-indossare-il-top-lingerie-satin-pizzo-hailey-bieber-justin-rhode-get-the-look-992949",
-        "pubDate": "2026-08-25T10:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/hailey-bieber-top-lingerie.jpg",
+        "title": "Dolly Parton e le 5 lezioni di stile che non dimenticheremo",
+        "description": "È stata una delle artiste più iconiche e amate di sempre, in più di 60 anni di carriera ha scritto brani diventati pietre miliari della cultura americana e si è…",
+        "link": "https://www.grazia.it/moda/celebrity-style/dolly-parton-lezioni-di-stile-look-iconici-moda-country-993108",
+        "pubDate": "2026-08-26T10:51:43+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Dolly_Parton.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "L’agricoltura in miniera forse sostituirà la vertical farm",
-        "description": "Un progetto, finanziato con fondi pubblici, ha preso il via in Inghilterra per provare a produrre vegetali nel sottosuolo.\nL'articolo L&#8217;agricoltura in min…",
-        "link": "https://www.dissapore.com/notizie/lagricoltura-in-miniera-forse-sostituira-la-vertical-farm/",
-        "pubDate": "2026-08-25T09:55:22+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/vertical-farming-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Sulla costa calabrese si mangia un gelato (famosissimo) modellato ancora a mano",
-        "description": "Nacque da un caso, nel 1954, una delle preparazioni più apprezzate della gelateria italiana, il tartufo di Pizzo: per assaggiarlo, ecco la selezione della guida…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/tartufo-pizzo-storia-gelaterie-dove-mangiarlo/",
-        "pubDate": "2026-08-25T09:36:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Autunno in Istria: tartufo, vino, prosciutto e nuove produzioni artigianali",
-        "description": "L’autunno è una delle stagioni più interessanti per scoprire l’Istria. Tra settembre e ottobre, il ritmo rallenta, i borghi dell’entroterra tornano protagonisti…",
-        "link": "https://www.winemag.it/autunno-in-istria-tartufo-vino-prosciutto-e-nuove-produzioni-artigianali/",
-        "pubDate": "2026-08-25T09:08:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Questo borgo della Campania è circondato da paesaggi naturali mozzafiato",
-        "description": "Tra dolci colline e viste spettacolari che si perdono all’orizzonte, c’è un piccolo borgo campano dove natura e silenzio si fondono in un equilibrio perfetto. U…",
-        "link": "https://www.stylosophy.it/articolo/borgo-della-campania-e-circondato-da-paesaggi-naturali-mozzafiato/232372/",
-        "pubDate": "2026-08-25T09:00:00+00:00",
+        "title": "Rossetto: ecco il rosso da scegliere in base ai gioielli…",
+        "description": "Scoprire come il rossetto rosso possa trasformarsi in un vero alleato dei tuoi gioielli è il segreto per un look impeccabile. Bastano le sfumature giuste per fa…",
+        "link": "https://www.stylosophy.it/articolo/come-scegliere-il-rossetto-rosso-giusto-in-base-ai-gioielli/239121/",
+        "pubDate": "2026-08-26T09:30:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "A 2.000 metri sulle Dolomiti c’è una pizzeria dove i prati dell’Alpe di Siusi finiscono sulla pizza",
-        "description": "All’Alpina Chalet dell’Alpe di Siusi, Denis Lovatel firma un menu costruito a 2.000 metri tra erbe, fiori, formaggi, carni e frutti di bosco. Tre pizze racconta…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/denis-lovatel-pizza-alpe-di-siusi-alpina-chalet/",
-        "pubDate": "2026-08-25T08:50:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "A proposito di scarpe… Ecco i modelli delle nuove collezioni che ci fanno già venire voglia d’autunno!",
+        "description": "L’estate è ai titoli di coda, per qualcuno le ferie sono già un ricordo lontano e settembre è praticamente dietro l’angolo: questo cosa significa? Che è arrivat…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-nuove-collezioni-donna-autunno-2026-ballerine-mocassini-stivali-stivaletti-tendenza-zara-992976",
+        "pubDate": "2026-08-26T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/scarpe-autunno-26-DESK.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Elio e le Storie Tese trasformano il palco in un ristorante: il pubblico sceglie cosa farsi “servire”",
-        "description": "Giacca da cuoco, palco trasformato in cucina e canzoni da “ordinare”: nel Tour À la carte di Elio e le Storie Tese il pubblico costruisce il menu musicale della…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/elio-storie-tese-tour-a-la-carte-cuochi-menu-canzoni/",
-        "pubDate": "2026-08-25T08:44:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "“Au revoir blue jeans”: le francesi hanno deciso che questi 2 colori sono l’alternativa trés chic da sfoggiare dopo i 40 anni",
+        "description": "Da Cannes alle strade di Parigi, le francesi over 40 stanno riducendo l’uso del jeans blu classico. Due nuovi colori neutri lo sostituiscono nei look più chic.\n…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-donna-dopo-40-anni-colori-grigio-scuro-verde-oliva-988619",
+        "pubDate": "2026-08-25T14:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/07/pantaloni-alternativi-jeans-blu-apertura-EVI.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "A due minuti dall’Autostrada c’è un ristorante in un albergo dove fermarsi per tortellini, gnocco fritto e salumi",
-        "description": "A Campogalliano, vicino a Modena, Osteria Emilia si trova all’interno di un Best Western a pochi minuti dall’autostrada. Una sosta insospettabile tra pasta fres…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/osteria-emilia-campogalliano-ristorante-autostrada/",
-        "pubDate": "2026-08-25T08:02:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il trend social delle aringhe fermentate puzzolenti potrebbe finire presto",
-        "description": "Il surströmming, la tradizionale e nauseabonda aringa fermentata svedese, è a rischio, insieme ai pesci del Mar Baltico.\nL'articolo Il trend social delle aringh…",
-        "link": "https://www.dissapore.com/notizie/il-trend-social-delle-aringhe-fermentate-puzzolenti-potrebbe-finire-presto/",
-        "pubDate": "2026-08-25T06:28:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/surstro%CC%88mming-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Napoli il pane cafone costa 3 euro al chilo. Questo panificatore spiega perché il pane fatto bene deve costare di più",
-        "description": "Andrea Matarese ha lasciato la strada della giurisprudenza per dedicarsi a farine e fermentazioni. Nel laboratorio Dr. Baking di Napoli lavora solo con lievito …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/dr-baking-andrea-matarese-pane-napoli/",
-        "pubDate": "2026-08-25T06:26:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lupini, il superfood dimenticato che conquista la tavola con le proteine vegetali",
-        "description": "I lupini, legume della tradizione contadina italiana, sono tornati nel 2025 sugli scaffali della grande distribuzione come prodotto legato all’alimentazione sal…",
-        "link": "https://www.gustoblog.it/2026/08/25/lupini-il-superfood-dimenticato-che-conquista-la-tavola-con-le-proteine-vegetali/",
-        "pubDate": "2026-08-25T06:02:43+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      }
-    ],
-    "moda": [
       {
         "title": "Elodie, in vacanza al mare con il bikini di super tendenza per quest’estate: da copiare subito!",
         "description": "Elodie sfoggia il bikini di super tendenza per quest'estate: qui i dettagli.…",
@@ -327,45 +363,72 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Kaia Gerber ci svela il modo perfetto per indossare la gonna midi quest’estate (e non è la sola)",
-        "description": "Dall’inizio dell’estate abbiamo visto diverse celeb cedere al fascino della gonna midi e trasformarla nel pezzo chiave dei loro look estivi. Nelle ultime settim…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-gonna-midi-kaia-gerber-abbinamenti-estate-street-style-992740",
-        "pubDate": "2026-08-21T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Come_indossare_-gonna_midi_Kaia_Gerber.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Skincare estiva? Inizia da qui: le creme solari che proteggono e combattono i segni del tempo",
-        "description": "Il sole fa bene all’umore ma è il primo nemico della pelle. Ecco perché scegliere la protezione solare giusta può fare la differenza… anche in fatto di rughe.…",
-        "link": "https://www.stylosophy.it/articolo/skincare-estiva-le-creme-solari-che-proteggono-e-combattono-i-segni-del-tempo/229006/",
-        "pubDate": "2026-08-21T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Pantaloni beige: ecco come abbinarli quest’estate in 5 look stilosi (visti su Instagram)",
-        "description": "Abbiamo scommesso sul loro grande potenziale già all’inizio della primavera (quando abbiamo iniziato a fare una bella scorta di modelli freschi e leggeri) e nea…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-beige-come-abbinare-d-estate-look-eleganti-casual-abbinamenti-giorno-sera-donna-989142",
-        "pubDate": "2026-08-21T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/COVER_Come_indossare_pantaloni_beige.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il pizzo non va (mai) in vacanza! Ecco i top più romantici dell’estate da puntare subito",
-        "description": "Sono uno dei capi più femminili e chic che possiamo avere nell’armadio e se in questa stagione possono trovare spazio nel guardaroba quotidiano a fianco di abit…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/top-romantici-in-pizzo-sangallo-lingerie-seta-ricami-trafori-estate-donna-992700",
-        "pubDate": "2026-08-20T10:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Top_romantici_in_pizzo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Vendemmia in Valpolicella, raccolta della Corvina in anticipo di due settimane",
+        "description": "La vendemmia 2026 in Valpolicella è iniziata con circa due settimane di anticipo sulla media storica. Nei vigneti dei 19 comuni della denominazione è già partit…",
+        "link": "https://www.winemag.it/vendemmia-in-valpolicella-raccolta-della-corvina-in-anticipo-di-due-settimane/",
+        "pubDate": "2026-08-26T12:28:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vendemmia 2026 nell’Asolo Montello: caldo e siccità anticipano la raccolta delle uve",
+        "description": "La vendemmia 2026 è iniziata nell’area Asolo Montello. I produttori hanno avviato la raccolta della Glera e delle altre varietà del territorio in un’annata segn…",
+        "link": "https://www.winemag.it/vendemmia-2026-nellasolo-montello-caldo-e-siccita-anticipano-la-raccolta-delle-uve/",
+        "pubDate": "2026-08-26T12:10:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I carrelli per fare la spesa con l’IA sono una realtà in Europa",
+        "description": "Per la prima volta in Europa un supermercato ha adottato i carrelli intelligenti che aiutano con il budget della spesa e a non dimenticare nulla.\nL'articolo I c…",
+        "link": "https://www.dissapore.com/notizie/i-carrelli-per-fare-la-spesa-con-lia-sono-una-realta-in-europa/",
+        "pubDate": "2026-08-26T08:50:30+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/spesa-amazon.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Facevano la birra nel garage di casa. Oggi hanno un birrificio agricolo a Capalbio",
+        "description": "Andrea Lelli e Chiara Torracchi hanno iniziato con l’homebrewing e oggi producono cinque birre nel loro birrificio agricolo Almaremma…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/almaremma-birrificio-agricolo-capalbio/",
+        "pubDate": "2026-08-26T07:39:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La baita a 1650 metri dove si mangiano canederli e cervo con vista sulle montagne del Trentino",
+        "description": "A 1650 metri sopra Predazzo, Baita Gardonè si raggiunge in cabinovia e guarda verso il Lagorai. Una “Mountain Riviera” tra canederli, cervo, terrazza al sole e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baita-gardone-predazzo-dove-mangiare-latemar/",
+        "pubDate": "2026-08-26T07:19:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fa gelato da 40 anni ed è uno dei maestri italiani. Per capire una gelateria assaggia sempre questo gusto",
+        "description": "A Udine c'è una delle più grandi gelaterie d'Italia, è quella della famiglia Timballo. Radici familiari, tecnica avanzata e un gelato che racconta l’anima profo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/giancarlo-timballo-gelato-udine-storia/",
+        "pubDate": "2026-08-26T06:08:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Calici in crescita, bottiglie in calo. La crisi del vino vista dal titolare di uno dei più storici wine bar di Roma",
+        "description": "Fabrizio Pagliardi titolare del wine bar La Barrique spiega perché la mescita convegna economicamente anche al ristoratore e stimoli la curiosità del consumator…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/consumo-vino-calice-fabrizio-pagliardi-la-barrique/",
+        "pubDate": "2026-08-26T06:06:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Apofruit, il clima minaccia la ripresa e mette a rischio i risultati del 2025",
         "description": "Apofruit Italia ha chiuso il 2025 con ricavi in crescita e una liquidazione record ai soci, ma nell’estate 2026, tra Nord e Sud del Paese, l’ondata di calore, l…",
@@ -475,15 +538,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A due minuti dall’Autostrada c’è un ristorante in un albergo dove fermarsi per tortellini, gnocco fritto e salumi",
-        "description": "A Campogalliano, vicino a Modena, Osteria Emilia si trova all’interno di un Best Western a pochi minuti dall’autostrada. Una sosta insospettabile tra pasta fres…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/osteria-emilia-campogalliano-ristorante-autostrada/",
-        "pubDate": "2026-08-25T08:02:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il trend social delle aringhe fermentate puzzolenti potrebbe finire presto",
         "description": "Il surströmming, la tradizionale e nauseabonda aringa fermentata svedese, è a rischio, insieme ai pesci del Mar Baltico.\nL'articolo Il trend social delle aringh…",
         "link": "https://www.dissapore.com/notizie/il-trend-social-delle-aringhe-fermentate-puzzolenti-potrebbe-finire-presto/",
@@ -491,60 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/surstro%CC%88mming-1.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "A Napoli il pane cafone costa 3 euro al chilo. Questo panificatore spiega perché il pane fatto bene deve costare di più",
-        "description": "Andrea Matarese ha lasciato la strada della giurisprudenza per dedicarsi a farine e fermentazioni. Nel laboratorio Dr. Baking di Napoli lavora solo con lievito …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/dr-baking-andrea-matarese-pane-napoli/",
-        "pubDate": "2026-08-25T06:26:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lupini, il superfood dimenticato che conquista la tavola con le proteine vegetali",
-        "description": "I lupini, legume della tradizione contadina italiana, sono tornati nel 2025 sugli scaffali della grande distribuzione come prodotto legato all’alimentazione sal…",
-        "link": "https://www.gustoblog.it/2026/08/25/lupini-il-superfood-dimenticato-che-conquista-la-tavola-con-le-proteine-vegetali/",
-        "pubDate": "2026-08-25T06:02:43+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "“Il Codice della strada ci ha spinto a puntare sul vino al calice. Oggi va alla grande”. La scelta di Trattoria del Cimino",
-        "description": "Nella trattoria di Caprarola sono ben 22 i vini proposti al bicchiere (e 900 le etichette in carta). Samuele Calistri: \"Ricarichi? Giusto che la mescita costi d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-calice-ricarichi-samuele-calistri-trattoria-cimino/",
-        "pubDate": "2026-08-25T06:01:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tutti pazzi per il Magnum nel croissant. Ma il trend virale dell’estate non è affatto nuovo",
-        "description": "Un Magnum infilato dentro un croissant, milioni di visualizzazioni e migliaia di repliche: è il tormentone food dell’estate su TikTok. Ma l’idea circolava già d…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/magnum-croissant-trend-tiktok-storia/",
-        "pubDate": "2026-08-25T05:55:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Migliori vini della Valle d’Aosta: tasting esclusivo e punteggi di 66 etichette",
-        "description": "Migliori vini della Valle d'Aosta: tasting esclusivo e punteggi di 66 etichette vendemmie 2025, 2024 e indietro fino alla 2018\nL'articolo Migliori vini della Va…",
-        "link": "https://www.winemag.it/migliori-vini-valle-d-aosta-vallee-d-aoste-doc-punteggi-66-etichette-winemag/",
-        "pubDate": "2026-08-24T22:01:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/08/Migliori-vini-della-Valle-d-Aosta-tasting-esclusivo-e-punteggi-di-66-etichette-vallee-d-aoste-best-wines-scores-davide-bortone-winemag-5-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Parrozzo, il dolce abruzzese che racconta una storia di tradizione",
-        "description": "Il parrozzo, dolce abruzzese nato a Pescara nei primi decenni del Novecento e oggi preparato soprattutto durante le feste, torna nelle cucine di casa perché uni…",
-        "link": "https://www.gustoblog.it/2026/08/24/parrozzo-il-dolce-abruzzese-che-racconta-una-storia-di-tradizione/",
-        "pubDate": "2026-08-24T19:02:37+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
