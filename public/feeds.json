@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-25T18:38:39.271006+00:00",
+  "generated": "2026-08-26T06:49:28.439785+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Apofruit, il clima minaccia la ripresa e mette a rischio i risultati del 2025",
+        "description": "Apofruit Italia ha chiuso il 2025 con ricavi in crescita e una liquidazione record ai soci, ma nell’estate 2026, tra Nord e Sud del Paese, l’ondata di calore, l…",
+        "link": "https://www.gustoblog.it/2026/08/26/apofruit-il-clima-minaccia-la-ripresa-e-mette-a-rischio-i-risultati-del-2025/",
+        "pubDate": "2026-08-26T06:03:10+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pizza di Pasqua, la tradizione soffice che profuma di festa",
+        "description": "A Pasqua, nelle cucine di molte famiglie italiane, la Pizza di Pasqua torna in tavola come dolce lievitato della festa, preparato in casa con uova, farina, zucc…",
+        "link": "https://www.gustoblog.it/2026/08/25/pizza-di-pasqua-la-tradizione-soffice-che-profuma-di-festa/",
+        "pubDate": "2026-08-25T19:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "La pasticcera laureata in Agraria che ha trasformato il bar di famiglia seguendo la sua idea di benessere",
         "description": "Anna Sartori è cresciuta nella pasticceria aperta dai genitori nel 1958 a Erba. Dopo la laurea e gli studi in naturopatia ha costruito un metodo che mette insie…",
@@ -30,7 +48,7 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Rimosso\tAggiunto Eliminato: Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
+        "title": "Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
         "description": "A Doe's Eat Place, nel Mississippi, Bourdain trovò molto più di una bistecca: segregazione, immigrazione, lavoro e pregiudizi sull'America profonda. È da luoghi…",
         "link": "https://www.gamberorosso.it/notizie/attualita/anthony-bourdain-film-tony-culto-eredita/",
         "pubDate": "2026-08-25T12:34:02+00:00",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "“Il Codice della strada ci ha spinto a puntare sul vino al calice. Oggi va alla grande”. La scelta di Trattoria del Cimino",
-        "description": "Nella trattoria di Caprarola sono ben 22 i vini proposti al bicchiere (e 900 le etichette in carta). Samuele Calistri: \"Ricarichi? Giusto che la mescita costi d…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-calice-ricarichi-samuele-calistri-trattoria-cimino/",
-        "pubDate": "2026-08-25T06:01:30+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fermi tutti! I vestiti più belli delle nuove collezioni sono già qui",
-        "description": "Le nuove collezioni di abiti sono finalmente arrivate e basta uno sguardo alle proposte dei brand per capire quale sarà il mood della stagione. Curiose di scopr…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/vestiti-nuove-collezioni-settembre-autunno-2026-abiti-modelli-piu-belli-991425",
-        "pubDate": "2026-08-25T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_nuove_collezioni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Apofruit, il clima minaccia la ripresa e mette a rischio i risultati del 2025",
+        "description": "Apofruit Italia ha chiuso il 2025 con ricavi in crescita e una liquidazione record ai soci, ma nell’estate 2026, tra Nord e Sud del Paese, l’ondata di calore, l…",
+        "link": "https://www.gustoblog.it/2026/08/26/apofruit-il-clima-minaccia-la-ripresa-e-mette-a-rischio-i-risultati-del-2025/",
+        "pubDate": "2026-08-26T06:03:10+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pizza di Pasqua, la tradizione soffice che profuma di festa",
+        "description": "A Pasqua, nelle cucine di molte famiglie italiane, la Pizza di Pasqua torna in tavola come dolce lievitato della festa, preparato in casa con uova, farina, zucc…",
+        "link": "https://www.gustoblog.it/2026/08/25/pizza-di-pasqua-la-tradizione-soffice-che-profuma-di-festa/",
+        "pubDate": "2026-08-25T19:02:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "La pasticcera laureata in Agraria che ha trasformato il bar di famiglia seguendo la sua idea di benessere",
         "description": "Anna Sartori è cresciuta nella pasticceria aperta dai genitori nel 1958 a Erba. Dopo la laurea e gli studi in naturopatia ha costruito un metodo che mette insie…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-sartori-erba-anna-sartori-bar-anno/",
@@ -385,7 +403,7 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Rimosso\tAggiunto Eliminato: Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
+        "title": "Anthony Bourdain è diventato un santino. Ma per capire chi era davvero bisogna tornare dove mangiava",
         "description": "A Doe's Eat Place, nel Mississippi, Bourdain trovò molto più di una bistecca: segregazione, immigrazione, lavoro e pregiudizi sull'America profonda. È da luoghi…",
         "link": "https://www.gamberorosso.it/notizie/attualita/anthony-bourdain-film-tony-culto-eredita/",
         "pubDate": "2026-08-25T12:34:02+00:00",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Il Ketchup sarà il prossimo alimento arricchito con le proteine",
-        "description": "Uno studio che ha interessato l'American Chemical Society nell'ultimo mese sostiene che potremmo aggiungere proteine al ketchup prendendole dalle alghe.\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/il-ketchup-sara-il-prossimo-alimento-arricchito-con-le-proteine/",
-        "pubDate": "2026-08-24T15:47:03+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Sostenibilità, oltre due terzi dei vigneti altoatesini certificati SQNPI",
-        "description": "Il percorso verso una viticoltura più sostenibile in Alto Adige passa anche attraverso la certificazione SQNPI. A confermarlo sono i dati diffusi dal Consorzio …",
-        "link": "https://www.winemag.it/sostenibilita-oltre-due-terzi-dei-vigneti-altoatesini-certificati-sqnpi/",
-        "pubDate": "2026-08-24T14:03:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
