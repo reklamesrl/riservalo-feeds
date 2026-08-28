@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-27T17:23:07.207987+00:00",
+  "generated": "2026-08-28T02:03:19.604672+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Mostaccioli abruzzesi: il dolce tradizionale che profuma di festa",
+        "description": "In Abruzzo, nelle cucine di casa e nelle pasticcerie di paese, i mostaccioli abruzzesi tornano soprattutto nei giorni di festa come dolce secco della tradizione…",
+        "link": "https://www.gustoblog.it/2026/08/27/mostaccioli-abruzzesi-il-dolce-tradizionale-che-profuma-di-festa/",
+        "pubDate": "2026-08-27T19:02:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Lasciarono tutto e trasformarono il salotto in un ristorante sardo",
         "description": "Rita Pirisi e Mario Morrocu lasciarono Fonni poco più che ventenni e ripartirono da otto ettari nella campagna di Alghero. Nel 1990, per iniziare, misero alcuni…",
@@ -172,15 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nuova stagione? Nuove borse! Preparatevi, sarà impossibile sceglierne solo una",
-        "description": "“L&#8217;estate sta finendo, e un anno se ne va”, o almeno così recitava la canzone. Ma per noi la fine di una stagione non indica altro che l&#8217;inizio di u…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/borse-nuove-collezioni-donna-autunno-2026-furla-coccinelle-zara-992912",
-        "pubDate": "2026-08-27T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/00_desktop_borse_autunno.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Mostaccioli abruzzesi: il dolce tradizionale che profuma di festa",
+        "description": "In Abruzzo, nelle cucine di casa e nelle pasticcerie di paese, i mostaccioli abruzzesi tornano soprattutto nei giorni di festa come dolce secco della tradizione…",
+        "link": "https://www.gustoblog.it/2026/08/27/mostaccioli-abruzzesi-il-dolce-tradizionale-che-profuma-di-festa/",
+        "pubDate": "2026-08-27T19:02:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "Lasciarono tutto e trasformarono il salotto in un ristorante sardo",
         "description": "Rita Pirisi e Mario Morrocu lasciarono Fonni poco più che ventenni e ripartirono da otto ettari nella campagna di Alghero. Nel 1990, per iniziare, misero alcuni…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/sa-mandra-alghero-storia-rita-pirisi-mario-morrocu/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/08/grano-duro-in-campo.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Lutto nel vino italiano: è morto a 97 anni il marchese Vittorio Frescobaldi",
-        "description": "È morto nella notte, all’età di 97 anni, il marchese Vittorio Frescobaldi, tra i protagonisti della nascita della moderna vitivinicoltura toscana e italiana. Ca…",
-        "link": "https://www.winemag.it/lutto-nel-vino-italiano-e-morto-a-97-anni-il-marchese-vittorio-frescobaldi/",
-        "pubDate": "2026-08-26T14:57:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
