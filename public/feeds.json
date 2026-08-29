@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-29T12:24:42.515163+00:00",
+  "generated": "2026-08-29T20:29:53.210472+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Diletta Leotta, per il back to work sceglie un Look casual-chic con jeans wide leg e body super aderente",
+        "description": "Diletta Leotta, in questi giorni, è tornata al lavoro e per il suo back to work ha scelto un look casual-chic.…",
+        "link": "https://www.stylosophy.it/articolo/diletta-leotta-per-il-back-to-work-sceglie-un-look-casual-chic-con-jeans-wide-leg-e-body-super-aderente/253538/",
+        "pubDate": "2026-08-29T16:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "In Abruzzo si mangia dentro una grotta scavata nella roccia. E la cantina ha più di mille vini",
+        "description": "A Guardiagrele, ai piedi della Maiella, La Grotta dei Raselli occupa un'antica cavità della casa di famiglia, tra ricette abruzzesi e una carta dei vini da oltr…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/grotta-dei-raselli-guardiagrele-ristorante-grotta/",
+        "pubDate": "2026-08-29T14:27:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il panino col polpo non è nato a Polignano. La storia del pescatore pugliese che lo inventò per fame",
+        "description": "Nel 1973 il pescatore Carlo Cofano tornò da una notte in mare, arrostì alcuni polpetti sulla spiaggia e li mise nel pane con un intingolo improvvisato. A Torre …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panino-col-polpo-storia-origine-torre-canne-puglia/",
+        "pubDate": "2026-08-29T13:43:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Panzanella dolce, il dessert estivo che reinventa la tradizione",
+        "description": "La panzanella dolce porta in tavola, nelle giornate calde d’estate e in pochi minuti, una ricetta di recupero nata dall’idea di riutilizzare pane raffermo e fru…",
+        "link": "https://www.gustoblog.it/2026/08/29/panzanella-dolce-il-dessert-estivo-che-reinventa-la-tradizione/",
+        "pubDate": "2026-08-29T13:02:29+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Deliveroo Italia pagherà i rider il 40% in più",
+        "description": "Il piano potrebbe far uscire l'azienda dall'amministrazione giudiziaria in cui era entrata a inizio anno, a causa di un'indagine per caporalato e sfruttamento d…",
+        "link": "https://www.dissapore.com/notizie/deliveroo-italia-paghera-i-rider-il-40-in-piu/",
+        "pubDate": "2026-08-29T12:28:04+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/deliveroo-justeat-rider-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "I bacini d’acqua piovana saranno il futuro dell’agricoltura?",
         "description": "I coltivatori di frutti di bosco britannici da un paio d'anni si stanno attrezzando contro il cambiamento climatico, e gli investimenti sembrano funzionare.\nL'a…",
@@ -66,6 +111,15 @@
         "source": "Gustoblog"
       },
       {
+        "title": "Kaia Gerber, Margaret Qualley e tutte le star meglio vestite della settimana!",
+        "description": "Se c&#8217;è una cosa che le celebrity sanno fare bene è trasformare un&#8217;apparizione pubblica in una vera e propria passerella. Questa settimana, a conquis…",
+        "link": "https://www.grazia.it/moda/celebrity-style/kaia-gerber-margaret-qualley-olivia-dean-star-meglio-vestite-look-993241",
+        "pubDate": "2026-08-29T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_best_dressed_28_agosto.png",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "A Campobasso c’è una trattoria senza sito né social dove i secondi costano meno di 15 euro",
         "description": "La Grotta di zì Concetta, nel centro storico di Campobasso, è una trattoria familiare senza sito né social. Si viene per pallotte cacio e ova, pizza e minestra,…",
         "link": "https://www.gamberorosso.it/notizie/attualita/grotta-zi-concetta-campobasso-trattoria-molisana/",
@@ -84,7 +138,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Vendemmia 2026 in Abruzzo, il Consorzio frena sui numeri: «è ancora prematuro»",
+        "title": "Vendemmia 2026 in Abruzzo, Consorzio frena su numeri: «Ancora prematuro»",
         "description": "La vendemmia 2026 in Abruzzo è ancora tutta da definire. Alla vigilia dell’ingresso nel vivo delle operazioni di raccolta, il Consorzio Tutela Vini d’Abruzzo in…",
         "link": "https://www.winemag.it/vendemmia-2026-in-abruzzo-il-consorzio-frena-sui-numeri-e-ancora-prematuro/",
         "pubDate": "2026-08-28T16:50:00+00:00",
@@ -120,70 +174,25 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Nizza si mangia una “farinata” francese: si chiama socca e racconta secoli di Mediterraneo",
-        "description": "Farina di ceci, acqua, olio e sale: la socca è uno dei simboli dello street food nizzardo. Parente della farinata ligure e della torta di ceci livornese, raccon…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/socca-nizza-farinata-ceci-storia/",
-        "pubDate": "2026-08-28T13:29:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Back to school, ma con stile… settembre è alle porte e il guardaroba torna ufficialmente in modalità città. #FashionPills Fashion Pills: lunedì e il &#8220;back…",
+        "link": "https://www.grazia.it/moda/guess-bursa-allegra-tezenis-pizzo-alo-yoga-kylie-jenner-desigual-ottolinger-merrel-hiking-club-clessio-blauer-brooks-borthers-canottieri-milano-993388",
+        "pubDate": "2026-08-28T14:24:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/Senza-titolo-1-copia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      }
+    ],
+    "moda": [
       {
-        "title": "Mousse al caffè senza lattosio: cremosa e pronta in pochi minuti",
-        "description": "La mousse al caffè senza lattosio si prepara in casa, anche oggi 28 agosto 2026, con espresso freddissimo e zucchero, in appena 15 minuti di lavoro più il ripos…",
-        "link": "https://www.gustoblog.it/2026/08/28/mousse-al-caffe-senza-lattosio-cremosa-e-pronta-in-pochi-minuti/",
-        "pubDate": "2026-08-28T13:02:39+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Chiara Ferragni possiede una Chanel davvero rara e limited edition: ma quanto costa?",
-        "description": "Chiara Ferragni, nella sua collezione di it bag, ne possiede una firmata Chanel molto rara e in edizione limitata.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-possiede-una-chanel-davvero-rara-e-limited-edition-ma-quanto-costa/253520/",
-        "pubDate": "2026-08-28T13:00:00+00:00",
+        "title": "Diletta Leotta, per il back to work sceglie un Look casual-chic con jeans wide leg e body super aderente",
+        "description": "Diletta Leotta, in questi giorni, è tornata al lavoro e per il suo back to work ha scelto un look casual-chic.…",
+        "link": "https://www.stylosophy.it/articolo/diletta-leotta-per-il-back-to-work-sceglie-un-look-casual-chic-con-jeans-wide-leg-e-body-super-aderente/253538/",
+        "pubDate": "2026-08-29T16:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Caldo record, siccità e incendi. Eppure il 2026 potrebbe essere una grande annata per il vino francese",
-        "description": "Caldo record, siccità e incendi hanno anticipato la vendemmia e ridotto le rese in diverse zone della Francia. Le uve più concentrate alimentano però aspettativ…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vendemmia-2026-francia-caldo-siccita-qualita-vino/",
-        "pubDate": "2026-08-28T12:11:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come indossare la gonna bianca dopo i 50 anni? Come Sandra Bullock alla nuova première di “Practical Magic 2”",
-        "description": "Dopo la prima ufficiale, prosegue il tour promozionale di “Practical Magic 2” e ieri sera a Londra le protagoniste femminili del film sono tornate sotto i rifle…",
-        "link": "https://www.grazia.it/moda/get-the-look/come-indossare-la-gonna-bianca-dopo-i-50-anni-satin-idee-outfit-sandra-bullock-993400",
-        "pubDate": "2026-08-28T11:06:08+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Gonna_bianca_Sandra_-Bullock.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La fattoria ai piedi della Maiella dove si mangia a tavola insieme e i bambini vivono tra cavalli e animali",
-        "description": "Ai piedi della Maiella, a Pacentro, Tana della Volpe è una fattoria autentica pensata per le famiglie: animali, passeggiate a cavallo, ortaggi dell’orto, spaghe…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fattoria-tana-della-volpe-pacentro-abruzzo-famiglie/",
-        "pubDate": "2026-08-28T10:32:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il panino dell’estate si mangia dentro una busta di patatine (e non ha il pane)",
-        "description": "Si chiama chip bag sandwich ed è diventato uno dei fenomeni gastronomici dell’estate 2026: salumi, formaggi, verdure e condimenti vengono mescolati direttamente…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/chip-bag-sandwich-panino-busta-patatine/",
-        "pubDate": "2026-08-28T09:45:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Mascara trasparente: il prodotto che si prende cura delle tue ciglia e dona un finish naturale",
         "description": "Scopri il segreto di uno sguardo fresco e curato con un solo gesto. Il mascara trasparente è l’alleato discreto che unisce trattamento e bellezza.…",
@@ -192,6 +201,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Kaia Gerber, Margaret Qualley e tutte le star meglio vestite della settimana!",
+        "description": "Se c&#8217;è una cosa che le celebrity sanno fare bene è trasformare un&#8217;apparizione pubblica in una vera e propria passerella. Questa settimana, a conquis…",
+        "link": "https://www.grazia.it/moda/celebrity-style/kaia-gerber-margaret-qualley-olivia-dean-star-meglio-vestite-look-993241",
+        "pubDate": "2026-08-29T06:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_best_dressed_28_agosto.png",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Back to school, ma con stile… settembre è alle porte e il guardaroba torna ufficialmente in modalità città. #FashionPills Fashion Pills: lunedì e il &#8220;back…",
+        "link": "https://www.grazia.it/moda/guess-bursa-allegra-tezenis-pizzo-alo-yoga-kylie-jenner-desigual-ottolinger-merrel-hiking-club-clessio-blauer-brooks-borthers-canottieri-milano-993388",
+        "pubDate": "2026-08-28T14:24:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/Senza-titolo-1-copia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Chiara Ferragni possiede una Chanel davvero rara e limited edition: ma quanto costa?",
@@ -320,24 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "A proposito di scarpe… Ecco i modelli delle nuove collezioni che ci fanno già venire voglia d’autunno!",
-        "description": "L’estate è ai titoli di coda, per qualcuno le ferie sono già un ricordo lontano e settembre è praticamente dietro l’angolo: questo cosa significa? Che è arrivat…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-nuove-collezioni-donna-autunno-2026-ballerine-mocassini-stivali-stivaletti-tendenza-zara-992976",
-        "pubDate": "2026-08-26T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/scarpe-autunno-26-DESK.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Au revoir blue jeans”: le francesi hanno deciso che questi 2 colori sono l’alternativa trés chic da sfoggiare dopo i 40 anni",
-        "description": "Da Cannes alle strade di Parigi, le francesi over 40 stanno riducendo l’uso del jeans blu classico. Due nuovi colori neutri lo sostituiscono nei look più chic.\n…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-donna-dopo-40-anni-colori-grigio-scuro-verde-oliva-988619",
-        "pubDate": "2026-08-25T14:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/07/pantaloni-alternativi-jeans-blu-apertura-EVI.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Elodie, in vacanza al mare con il bikini di super tendenza per quest’estate: da copiare subito!",
         "description": "Elodie sfoggia il bikini di super tendenza per quest'estate: qui i dettagli.…",
         "link": "https://www.stylosophy.it/articolo/elodie-in-vacanza-al-mare-con-il-bikini-di-super-tendenza-per-questestate-da-copiare-subito/253507/",
@@ -354,18 +363,45 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Annalisa, selfie al naturale e con un velo di make up post tour estivo: FOTO",
-        "description": "Annalisa ha da poco concluso il tour estivo ed ora si gode un po' di meritato riposo scattandosi un selfie.…",
-        "link": "https://www.stylosophy.it/articolo/annalisa-selfie-al-naturale-e-con-un-velo-di-make-up-post-tour-estivo-foto/253492/",
-        "pubDate": "2026-08-24T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "In Abruzzo si mangia dentro una grotta scavata nella roccia. E la cantina ha più di mille vini",
+        "description": "A Guardiagrele, ai piedi della Maiella, La Grotta dei Raselli occupa un'antica cavità della casa di famiglia, tra ricette abruzzesi e una carta dei vini da oltr…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/grotta-dei-raselli-guardiagrele-ristorante-grotta/",
+        "pubDate": "2026-08-29T14:27:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il panino col polpo non è nato a Polignano. La storia del pescatore pugliese che lo inventò per fame",
+        "description": "Nel 1973 il pescatore Carlo Cofano tornò da una notte in mare, arrostì alcuni polpetti sulla spiaggia e li mise nel pane con un intingolo improvvisato. A Torre …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panino-col-polpo-storia-origine-torre-canne-puglia/",
+        "pubDate": "2026-08-29T13:43:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Panzanella dolce, il dessert estivo che reinventa la tradizione",
+        "description": "La panzanella dolce porta in tavola, nelle giornate calde d’estate e in pochi minuti, una ricetta di recupero nata dall’idea di riutilizzare pane raffermo e fru…",
+        "link": "https://www.gustoblog.it/2026/08/29/panzanella-dolce-il-dessert-estivo-che-reinventa-la-tradizione/",
+        "pubDate": "2026-08-29T13:02:29+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Deliveroo Italia pagherà i rider il 40% in più",
+        "description": "Il piano potrebbe far uscire l'azienda dall'amministrazione giudiziaria in cui era entrata a inizio anno, a causa di un'indagine per caporalato e sfruttamento d…",
+        "link": "https://www.dissapore.com/notizie/deliveroo-italia-paghera-i-rider-il-40-in-piu/",
+        "pubDate": "2026-08-29T12:28:04+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/deliveroo-justeat-rider-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "I bacini d’acqua piovana saranno il futuro dell’agricoltura?",
         "description": "I coltivatori di frutti di bosco britannici da un paio d'anni si stanno attrezzando contro il cambiamento climatico, e gli investimenti sembrano funzionare.\nL'a…",
@@ -439,7 +475,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Vendemmia 2026 in Abruzzo, il Consorzio frena sui numeri: «è ancora prematuro»",
+        "title": "Vendemmia 2026 in Abruzzo, Consorzio frena su numeri: «Ancora prematuro»",
         "description": "La vendemmia 2026 in Abruzzo è ancora tutta da definire. Alla vigilia dell’ingresso nel vivo delle operazioni di raccolta, il Consorzio Tutela Vini d’Abruzzo in…",
         "link": "https://www.winemag.it/vendemmia-2026-in-abruzzo-il-consorzio-frena-sui-numeri-e-ancora-prematuro/",
         "pubDate": "2026-08-28T16:50:00+00:00",
@@ -502,24 +538,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "La fattoria ai piedi della Maiella dove si mangia a tavola insieme e i bambini vivono tra cavalli e animali",
-        "description": "Ai piedi della Maiella, a Pacentro, Tana della Volpe è una fattoria autentica pensata per le famiglie: animali, passeggiate a cavallo, ortaggi dell’orto, spaghe…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fattoria-tana-della-volpe-pacentro-abruzzo-famiglie/",
-        "pubDate": "2026-08-28T10:32:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il panino dell’estate si mangia dentro una busta di patatine (e non ha il pane)",
-        "description": "Si chiama chip bag sandwich ed è diventato uno dei fenomeni gastronomici dell’estate 2026: salumi, formaggi, verdure e condimenti vengono mescolati direttamente…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/chip-bag-sandwich-panino-busta-patatine/",
-        "pubDate": "2026-08-28T09:45:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il boom del matcha travolge il Giappone e mette in ombra il tè tradizionale",
         "description": "Il boom globale del matcha sta mettendo sotto pressione il tè tradizionale in Giappone nel 2026, tra campagne di Uji, esportazioni in crescita e consumi occiden…",
         "link": "https://www.gustoblog.it/2026/08/28/il-boom-del-matcha-travolge-il-giappone-e-mette-in-ombra-il-te-tradizionale/",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Mostaccioli abruzzesi: il dolce tradizionale che profuma di festa",
-        "description": "In Abruzzo, nelle cucine di casa e nelle pasticcerie di paese, i mostaccioli abruzzesi tornano soprattutto nei giorni di festa come dolce secco della tradizione…",
-        "link": "https://www.gustoblog.it/2026/08/27/mostaccioli-abruzzesi-il-dolce-tradizionale-che-profuma-di-festa/",
-        "pubDate": "2026-08-27T19:02:45+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il gelato può essere gastronomico e pop: la via di Simone de Feo",
-        "description": "Nella sua filosofia di gelato (e non solo), Simone De Feo di Capolinea sembra aver trovato il giusto equilibrio per far convivere spirito gourmet e comprensibil…",
-        "link": "https://www.dissapore.com/locali/cremeria-capolina-il-gelato-gastronomico-e-pop-di-simone-de-feo/",
-        "pubDate": "2026-08-27T14:32:07+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/simone-de-feo-monica-fantuzzi-capolinea-scaled-e1777360779354.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
