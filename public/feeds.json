@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-28T18:16:14.056863+00:00",
+  "generated": "2026-08-29T12:24:42.515163+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "I bacini d’acqua piovana saranno il futuro dell’agricoltura?",
+        "description": "I coltivatori di frutti di bosco britannici da un paio d'anni si stanno attrezzando contro il cambiamento climatico, e gli investimenti sembrano funzionare.\nL'a…",
+        "link": "https://www.dissapore.com/notizie/i-bacini-dacqua-piovana-saranno-il-futuro-dellagricoltura/",
+        "pubDate": "2026-08-29T10:00:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/acqua-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nel castello del Marchese de Sade in Provenza oggi si mangia con 39 euro",
+        "description": "A Mazan, ai piedi del Mont Ventoux, la dimora provenzale appartenuta al Marchese de Sade è diventata un hotel con 31 camere. Nel suo ristorante Enzo Ciccarelli …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/chateau-mazan-marchese-de-sade-ristorante-provenza/",
+        "pubDate": "2026-08-29T09:13:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mascara trasparente: il prodotto che si prende cura delle tue ciglia e dona un finish naturale",
+        "description": "Scopri il segreto di uno sguardo fresco e curato con un solo gesto. Il mascara trasparente è l’alleato discreto che unisce trattamento e bellezza.…",
+        "link": "https://www.stylosophy.it/articolo/mascara-trasparente-il-prodotto-che-si-prende-cura-delle-tue-ciglia-e-dona-un-finish-naturale/238940/",
+        "pubDate": "2026-08-29T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Quali sono gli italiani nella top 100 dei brand alimentari “più preziosi” del 2026",
+        "description": "Nella classifica dei marchi alimentari più preziosi del 2026 l'Italia si difende bene, grazie soprattutto alle performance di Barilla e Ferrero.\nL'articolo Qual…",
+        "link": "https://www.dissapore.com/notizie/quali-sono-gli-italiani-nella-top-100-dei-brand-alimentari-piu-preziosi-del-2026/",
+        "pubDate": "2026-08-29T08:45:46+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/barilla-parma.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il miele che sta scomparendo dai boschi del Casentino: “La melata d’abete è sempre più imprevedibile”",
+        "description": "Roberto Zuccari alleva api nel Casentino da oltre quarant’anni. La melata d’abete, un tempo comune nei boschi, oggi compare in modo sempre più irregolare e racc…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/melata-abete-casentino-miele-raro-clima/",
+        "pubDate": "2026-08-29T07:47:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 300 metri da Rialto c’è ancora un bacaro frequentato dai veneziani",
+        "description": "A pochi passi da uno dei luoghi più affollati di Venezia, Al Volto conserva l’atmosfera del vecchio bacaro: cicchetti, bigoli in salsa, baccalà mantecato e un s…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/al-volto-bacaro-venezia-rialto/",
+        "pubDate": "2026-08-29T06:53:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Addio a Vittorio Frescobaldi, il signore che ha fatto grande il vino italiano",
+        "description": "Vittorio Frescobaldi, marchese fiorentino e tra i protagonisti della crescita del vino italiano sui mercati esteri, è morto oggi a 97 anni a Firenze, lasciando …",
+        "link": "https://www.gustoblog.it/2026/08/29/addio-a-vittorio-frescobaldi-il-signore-che-ha-fatto-grande-il-vino-italiano/",
+        "pubDate": "2026-08-29T06:02:34+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "A Campobasso c’è una trattoria senza sito né social dove i secondi costano meno di 15 euro",
+        "description": "La Grotta di zì Concetta, nel centro storico di Campobasso, è una trattoria familiare senza sito né social. Si viene per pallotte cacio e ova, pizza e minestra,…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/grotta-zi-concetta-campobasso-trattoria-molisana/",
+        "pubDate": "2026-08-29T05:36:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il mercato nascosto tra i palazzi di Roma che racconta un quartiere intero",
+        "description": "Nascosto tra i grandi palazzi di Roma 70, il Mercato di Grottaperfetta riunisce pasta fresca, pesce, prodotti biologici, botteghe e servizi. Un mercato rionale …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-grottaperfetta-roma-70/",
+        "pubDate": "2026-08-29T05:32:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Vendemmia 2026 in Abruzzo, il Consorzio frena sui numeri: «è ancora prematuro»",
         "description": "La vendemmia 2026 in Abruzzo è ancora tutta da definire. Alla vigilia dell’ingresso nel vivo delle operazioni di raccolta, il Consorzio Tutela Vini d’Abruzzo in…",
@@ -30,6 +111,24 @@
         "source": "Dissapore"
       },
       {
+        "title": "L’aperitivo romagnolo al tramonto, nel cuore delle saline di Cervia",
+        "description": "Al Bar Salino, punto ristoro del Centro Visite, piadina, squacquerone e prodotti lavorati con il Sale Dolce accompagnano una delle esperienze organizzate nella …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/aperitivo-saline-cervia/",
+        "pubDate": "2026-08-28T14:41:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Nizza si mangia una “farinata” francese: si chiama socca e racconta secoli di Mediterraneo",
+        "description": "Farina di ceci, acqua, olio e sale: la socca è uno dei simboli dello street food nizzardo. Parente della farinata ligure e della torta di ceci livornese, raccon…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/socca-nizza-farinata-ceci-storia/",
+        "pubDate": "2026-08-28T13:29:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Mousse al caffè senza lattosio: cremosa e pronta in pochi minuti",
         "description": "La mousse al caffè senza lattosio si prepara in casa, anche oggi 28 agosto 2026, con espresso freddissimo e zucchero, in appena 15 minuti di lavoro più il ripos…",
         "link": "https://www.gustoblog.it/2026/08/28/mousse-al-caffe-senza-lattosio-cremosa-e-pronta-in-pochi-minuti/",
@@ -46,6 +145,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Caldo record, siccità e incendi. Eppure il 2026 potrebbe essere una grande annata per il vino francese",
+        "description": "Caldo record, siccità e incendi hanno anticipato la vendemmia e ridotto le rese in diverse zone della Francia. Le uve più concentrate alimentano però aspettativ…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vendemmia-2026-francia-caldo-siccita-qualita-vino/",
+        "pubDate": "2026-08-28T12:11:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Come indossare la gonna bianca dopo i 50 anni? Come Sandra Bullock alla nuova première di “Practical Magic 2”",
@@ -73,117 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Oltre gli strass: la cucina povera che Dolly Parton non ha mai dimenticato",
-        "description": "Biscuits, pollo fritto e tanto burro. Cresciuta con undici fratelli sulle Smoky Mountains, Dolly Parton non ha mai dimenticato i sapori della sua infanzia, tras…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dolly-parton-cucina-cibo-tennessee/",
-        "pubDate": "2026-08-28T09:01:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Casa indipendente o appartamento in condominio, qual è la scelta giusta per te: valutazioni da fare",
-        "description": "Ogni casa racconta un modo diverso di vivere: meglio l’autonomia di una villa o la praticità del condominio? Ecco le considerazioni da fare prima di decidere.…",
-        "link": "https://www.stylosophy.it/articolo/casa-indipendente-o-appartamento-in-condominio-qual-e-la-scelta-giusta/236531/",
-        "pubDate": "2026-08-28T09:00:00+00:00",
+        "title": "Mascara trasparente: il prodotto che si prende cura delle tue ciglia e dona un finish naturale",
+        "description": "Scopri il segreto di uno sguardo fresco e curato con un solo gesto. Il mascara trasparente è l’alleato discreto che unisce trattamento e bellezza.…",
+        "link": "https://www.stylosophy.it/articolo/mascara-trasparente-il-prodotto-che-si-prende-cura-delle-tue-ciglia-e-dona-un-finish-naturale/238940/",
+        "pubDate": "2026-08-29T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "È morto Branko Cotar, il vignaiolo che faceva orange wine prima che diventassero una moda",
-        "description": "Aveva 78 anni e macerava i bianchi sulle bucce da quarant'anni. Nel Carso sloveno continuava semplicemente una tradizione che il mondo avrebbe riscoperto dopo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/branko-cotar-morto-vino-naturale-orange-wine-carso/",
-        "pubDate": "2026-08-28T08:58:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Costa 3,30 euro al chilo ed è fatto dentro un supermercato. Il pane di Roma nato dopo decine di tentativi",
-        "description": "All’Ipercoop di Euroma2 c’è l’unico forno interno ancora attivo nei supermercati Coop del Lazio. Qui due dipendenti hanno sviluppato da zero un pane a lievitazi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-supermercato-coop-euroma2-roma/",
-        "pubDate": "2026-08-28T08:31:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel borgo di 600 abitanti c’è un solo locale. E si mangia sorprendentemente bene",
-        "description": "Nel Lazio, al confine con l'Abruzzo un piccolo locale porta una ventata di novità in un borgo di poche centinaia di anime.…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/il-picchio-bistrot-torano-borgorose/",
-        "pubDate": "2026-08-28T07:31:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Era archeologa, lasciò l’insegnamento per tornare in montagna a fare formaggi: la storia di Maddalena Aromatario",
-        "description": "Studi umanistici, insegnamento, archeologia e poi il ritorno alle origini. La storia poco conosciuta di Maddalena Aromatario…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/maddalena-aromatario-archeologa-casara-formaggi-abruzzo/",
-        "pubDate": "2026-08-28T06:45:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il boom del matcha travolge il Giappone e mette in ombra il tè tradizionale",
-        "description": "Il boom globale del matcha sta mettendo sotto pressione il tè tradizionale in Giappone nel 2026, tra campagne di Uji, esportazioni in crescita e consumi occiden…",
-        "link": "https://www.gustoblog.it/2026/08/28/il-boom-del-matcha-travolge-il-giappone-e-mette-in-ombra-il-te-tradizionale/",
-        "pubDate": "2026-08-28T06:03:02+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "I ventenni non hanno più voglia di fare festa? Tra prezzi, ansia e alcol, così è cambiata la notte dopo il Covid",
-        "description": "Serate più costose, maggiore attenzione all’alcol, insicurezza e abitudini cambiate dopo la pandemia. Quattro giovani raccontano perché uscire, bere e andare a …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gen-z-vita-notturna-alcol-discoteche-covid/",
-        "pubDate": "2026-08-28T05:43:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mostra del Cinema di Venezia: i look più iconici che hanno fatto la storia",
-        "description": "Al Lido si scaldano i motori o meglio, i riflettori. Il prossimo 2 settembre avrà inizio l&#8217;83esima edizione della Mostra Internazionale d’Arte Cinematogra…",
-        "link": "https://www.grazia.it/moda/celebrity-style/venezia-mostra-del-cinema-abiti-look-piu-belli-e-iconici-storia-red-carpet-monica-bellucci-nicole-kidman-sharon-stone-761120",
-        "pubDate": "2026-08-28T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2023/08/COVER-venezia-best-of-red-carpet-DESKTOP.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Ha 251 anni ed è nel cuore di piazza San Marco. Il caffè storico di Venezia firmato dagli Alajmo",
-        "description": "Aperto nel 1775 sotto le Procuratie Vecchie, il Gran Caffè Quadri attraversa oltre due secoli di storia veneziana. Oggi gli Alajmo lo dividono tra bar, bistrot …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gran-caffe-quadri-venezia-alajmo-piazza-san-marco/",
-        "pubDate": "2026-08-28T04:59:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mostaccioli abruzzesi: il dolce tradizionale che profuma di festa",
-        "description": "In Abruzzo, nelle cucine di casa e nelle pasticcerie di paese, i mostaccioli abruzzesi tornano soprattutto nei giorni di festa come dolce secco della tradizione…",
-        "link": "https://www.gustoblog.it/2026/08/27/mostaccioli-abruzzesi-il-dolce-tradizionale-che-profuma-di-festa/",
-        "pubDate": "2026-08-27T19:02:45+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Lasciarono tutto e trasformarono il salotto in un ristorante sardo",
-        "description": "Rita Pirisi e Mario Morrocu lasciarono Fonni poco più che ventenni e ripartirono da otto ettari nella campagna di Alghero. Nel 1990, per iniziare, misero alcuni…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/sa-mandra-alghero-storia-rita-pirisi-mario-morrocu/",
-        "pubDate": "2026-08-27T15:39:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Chiara Ferragni possiede una Chanel davvero rara e limited edition: ma quanto costa?",
         "description": "Chiara Ferragni, nella sua collezione di it bag, ne possiede una firmata Chanel molto rara e in edizione limitata.…",
@@ -354,18 +363,81 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Come scegliere le tende per far sembrare una stanza più grande e luminosa",
-        "description": "Dall’altezza del bastone alla lunghezza del tessuto, fino a colori e materiali: quattro accorgimenti per modificare la percezione dello spazio senza intervenire…",
-        "link": "https://www.stylosophy.it/articolo/come-scegliere-le-tende-per-far-sembrare-una-stanza-piu-grande-e-luminosa/253476/",
-        "pubDate": "2026-08-24T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "I bacini d’acqua piovana saranno il futuro dell’agricoltura?",
+        "description": "I coltivatori di frutti di bosco britannici da un paio d'anni si stanno attrezzando contro il cambiamento climatico, e gli investimenti sembrano funzionare.\nL'a…",
+        "link": "https://www.dissapore.com/notizie/i-bacini-dacqua-piovana-saranno-il-futuro-dellagricoltura/",
+        "pubDate": "2026-08-29T10:00:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/acqua-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nel castello del Marchese de Sade in Provenza oggi si mangia con 39 euro",
+        "description": "A Mazan, ai piedi del Mont Ventoux, la dimora provenzale appartenuta al Marchese de Sade è diventata un hotel con 31 camere. Nel suo ristorante Enzo Ciccarelli …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/chateau-mazan-marchese-de-sade-ristorante-provenza/",
+        "pubDate": "2026-08-29T09:13:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Quali sono gli italiani nella top 100 dei brand alimentari “più preziosi” del 2026",
+        "description": "Nella classifica dei marchi alimentari più preziosi del 2026 l'Italia si difende bene, grazie soprattutto alle performance di Barilla e Ferrero.\nL'articolo Qual…",
+        "link": "https://www.dissapore.com/notizie/quali-sono-gli-italiani-nella-top-100-dei-brand-alimentari-piu-preziosi-del-2026/",
+        "pubDate": "2026-08-29T08:45:46+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/barilla-parma.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il miele che sta scomparendo dai boschi del Casentino: “La melata d’abete è sempre più imprevedibile”",
+        "description": "Roberto Zuccari alleva api nel Casentino da oltre quarant’anni. La melata d’abete, un tempo comune nei boschi, oggi compare in modo sempre più irregolare e racc…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/melata-abete-casentino-miele-raro-clima/",
+        "pubDate": "2026-08-29T07:47:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 300 metri da Rialto c’è ancora un bacaro frequentato dai veneziani",
+        "description": "A pochi passi da uno dei luoghi più affollati di Venezia, Al Volto conserva l’atmosfera del vecchio bacaro: cicchetti, bigoli in salsa, baccalà mantecato e un s…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/al-volto-bacaro-venezia-rialto/",
+        "pubDate": "2026-08-29T06:53:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Addio a Vittorio Frescobaldi, il signore che ha fatto grande il vino italiano",
+        "description": "Vittorio Frescobaldi, marchese fiorentino e tra i protagonisti della crescita del vino italiano sui mercati esteri, è morto oggi a 97 anni a Firenze, lasciando …",
+        "link": "https://www.gustoblog.it/2026/08/29/addio-a-vittorio-frescobaldi-il-signore-che-ha-fatto-grande-il-vino-italiano/",
+        "pubDate": "2026-08-29T06:02:34+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "A Campobasso c’è una trattoria senza sito né social dove i secondi costano meno di 15 euro",
+        "description": "La Grotta di zì Concetta, nel centro storico di Campobasso, è una trattoria familiare senza sito né social. Si viene per pallotte cacio e ova, pizza e minestra,…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/grotta-zi-concetta-campobasso-trattoria-molisana/",
+        "pubDate": "2026-08-29T05:36:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il mercato nascosto tra i palazzi di Roma che racconta un quartiere intero",
+        "description": "Nascosto tra i grandi palazzi di Roma 70, il Mercato di Grottaperfetta riunisce pasta fresca, pesce, prodotti biologici, botteghe e servizi. Un mercato rionale …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-grottaperfetta-roma-70/",
+        "pubDate": "2026-08-29T05:32:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Vendemmia 2026 in Abruzzo, il Consorzio frena sui numeri: «è ancora prematuro»",
         "description": "La vendemmia 2026 in Abruzzo è ancora tutta da definire. Alla vigilia dell’ingresso nel vivo delle operazioni di raccolta, il Consorzio Tutela Vini d’Abruzzo in…",
@@ -394,6 +466,24 @@
         "source": "Dissapore"
       },
       {
+        "title": "L’aperitivo romagnolo al tramonto, nel cuore delle saline di Cervia",
+        "description": "Al Bar Salino, punto ristoro del Centro Visite, piadina, squacquerone e prodotti lavorati con il Sale Dolce accompagnano una delle esperienze organizzate nella …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/aperitivo-saline-cervia/",
+        "pubDate": "2026-08-28T14:41:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Nizza si mangia una “farinata” francese: si chiama socca e racconta secoli di Mediterraneo",
+        "description": "Farina di ceci, acqua, olio e sale: la socca è uno dei simboli dello street food nizzardo. Parente della farinata ligure e della torta di ceci livornese, raccon…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/socca-nizza-farinata-ceci-storia/",
+        "pubDate": "2026-08-28T13:29:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Mousse al caffè senza lattosio: cremosa e pronta in pochi minuti",
         "description": "La mousse al caffè senza lattosio si prepara in casa, anche oggi 28 agosto 2026, con espresso freddissimo e zucchero, in appena 15 minuti di lavoro più il ripos…",
         "link": "https://www.gustoblog.it/2026/08/28/mousse-al-caffe-senza-lattosio-cremosa-e-pronta-in-pochi-minuti/",
@@ -401,6 +491,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Caldo record, siccità e incendi. Eppure il 2026 potrebbe essere una grande annata per il vino francese",
+        "description": "Caldo record, siccità e incendi hanno anticipato la vendemmia e ridotto le rese in diverse zone della Francia. Le uve più concentrate alimentano però aspettativ…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vendemmia-2026-francia-caldo-siccita-qualita-vino/",
+        "pubDate": "2026-08-28T12:11:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "La fattoria ai piedi della Maiella dove si mangia a tavola insieme e i bambini vivono tra cavalli e animali",
@@ -421,51 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Oltre gli strass: la cucina povera che Dolly Parton non ha mai dimenticato",
-        "description": "Biscuits, pollo fritto e tanto burro. Cresciuta con undici fratelli sulle Smoky Mountains, Dolly Parton non ha mai dimenticato i sapori della sua infanzia, tras…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/dolly-parton-cucina-cibo-tennessee/",
-        "pubDate": "2026-08-28T09:01:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "È morto Branko Cotar, il vignaiolo che faceva orange wine prima che diventassero una moda",
-        "description": "Aveva 78 anni e macerava i bianchi sulle bucce da quarant'anni. Nel Carso sloveno continuava semplicemente una tradizione che il mondo avrebbe riscoperto dopo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/branko-cotar-morto-vino-naturale-orange-wine-carso/",
-        "pubDate": "2026-08-28T08:58:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Costa 3,30 euro al chilo ed è fatto dentro un supermercato. Il pane di Roma nato dopo decine di tentativi",
-        "description": "All’Ipercoop di Euroma2 c’è l’unico forno interno ancora attivo nei supermercati Coop del Lazio. Qui due dipendenti hanno sviluppato da zero un pane a lievitazi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-supermercato-coop-euroma2-roma/",
-        "pubDate": "2026-08-28T08:31:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel borgo di 600 abitanti c’è un solo locale. E si mangia sorprendentemente bene",
-        "description": "Nel Lazio, al confine con l'Abruzzo un piccolo locale porta una ventata di novità in un borgo di poche centinaia di anime.…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/il-picchio-bistrot-torano-borgorose/",
-        "pubDate": "2026-08-28T07:31:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Era archeologa, lasciò l’insegnamento per tornare in montagna a fare formaggi: la storia di Maddalena Aromatario",
-        "description": "Studi umanistici, insegnamento, archeologia e poi il ritorno alle origini. La storia poco conosciuta di Maddalena Aromatario…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/maddalena-aromatario-archeologa-casara-formaggi-abruzzo/",
-        "pubDate": "2026-08-28T06:45:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il boom del matcha travolge il Giappone e mette in ombra il tè tradizionale",
         "description": "Il boom globale del matcha sta mettendo sotto pressione il tè tradizionale in Giappone nel 2026, tra campagne di Uji, esportazioni in crescita e consumi occiden…",
         "link": "https://www.gustoblog.it/2026/08/28/il-boom-del-matcha-travolge-il-giappone-e-mette-in-ombra-il-te-tradizionale/",
@@ -473,24 +527,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "I ventenni non hanno più voglia di fare festa? Tra prezzi, ansia e alcol, così è cambiata la notte dopo il Covid",
-        "description": "Serate più costose, maggiore attenzione all’alcol, insicurezza e abitudini cambiate dopo la pandemia. Quattro giovani raccontano perché uscire, bere e andare a …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gen-z-vita-notturna-alcol-discoteche-covid/",
-        "pubDate": "2026-08-28T05:43:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha 251 anni ed è nel cuore di piazza San Marco. Il caffè storico di Venezia firmato dagli Alajmo",
-        "description": "Aperto nel 1775 sotto le Procuratie Vecchie, il Gran Caffè Quadri attraversa oltre due secoli di storia veneziana. Oggi gli Alajmo lo dividono tra bar, bistrot …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gran-caffe-quadri-venezia-alajmo-piazza-san-marco/",
-        "pubDate": "2026-08-28T04:59:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Mostaccioli abruzzesi: il dolce tradizionale che profuma di festa",
@@ -502,47 +538,11 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Lasciarono tutto e trasformarono il salotto in un ristorante sardo",
-        "description": "Rita Pirisi e Mario Morrocu lasciarono Fonni poco più che ventenni e ripartirono da otto ettari nella campagna di Alghero. Nel 1990, per iniziare, misero alcuni…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/sa-mandra-alghero-storia-rita-pirisi-mario-morrocu/",
-        "pubDate": "2026-08-27T15:39:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il gelato può essere gastronomico e pop: la via di Simone de Feo",
         "description": "Nella sua filosofia di gelato (e non solo), Simone De Feo di Capolinea sembra aver trovato il giusto equilibrio per far convivere spirito gourmet e comprensibil…",
         "link": "https://www.dissapore.com/locali/cremeria-capolina-il-gelato-gastronomico-e-pop-di-simone-de-feo/",
         "pubDate": "2026-08-27T14:32:07+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/simone-de-feo-monica-fantuzzi-capolinea-scaled-e1777360779354.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Milioni di ettari di terra stanno tornando a vivere: i 3 progetti che sfidano la desertificazione",
-        "description": "Le Nazioni Unite hanno premiato tre \"Progetto Faro\" in Brasile, nella regione del Sahel e in Arabia Saudita, che stanno già recupereranno milioni di ettari di t…",
-        "link": "https://www.dissapore.com/notizie/milioni-di-ettari-di-terra-stanno-tornando-a-vivere-i-3-progetti-che-sfidano-la-desertificazione/",
-        "pubDate": "2026-08-27T13:19:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/deserto-clima-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ravioli al cocco, la ricetta esotica che sorprende al primo assaggio",
-        "description": "I ravioli al cocco sono un primo piatto pensato per quattro persone, da preparare in casa in circa un’ora e dieci minuti più riposi e cottura, con pasta fresca,…",
-        "link": "https://www.gustoblog.it/2026/08/27/ravioli-al-cocco-la-ricetta-esotica-che-sorprende-al-primo-assaggio/",
-        "pubDate": "2026-08-27T13:02:50+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Le bottiglie di plastica vuote possono diventare biscotti commestibili",
-        "description": "Durante il congresso di chimica di Chicago uno team di ricercatori ha mostrato un biscotto commestibile prodotto a partire dal PET.\nL'articolo Le bottiglie di p…",
-        "link": "https://www.dissapore.com/notizie/le-bottiglie-di-plastica-vuote-possono-diventare-biscotti-commestibili/",
-        "pubDate": "2026-08-27T11:58:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/plastiche-insalata-scaled-e1785239345836.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
