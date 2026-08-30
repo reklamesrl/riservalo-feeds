@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-29T20:29:53.210472+00:00",
+  "generated": "2026-08-30T11:23:38.964391+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La “sindrome del ristorante cinese” tra storia, razzismo, scienza e uno scherzo",
+        "description": "La storia di come il glutammato monosodico sia entrato nelle cucine di tutte il mondo è decisamente avventurosa: dall'asia agli Stati Uniti, quasi un secolo di …",
+        "link": "https://www.dissapore.com/ristoranti/la-sindrome-del-ristorante-cinese-tra-storia-razzismo-scienza-e-uno-scherzo/",
+        "pubDate": "2026-08-30T11:08:45+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/Kikunae_Ikeda.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "È questa la regione italiana dove andare in vacanza a settembre: mare, eventi e borghi da scoprire nel 2026",
+        "description": "Settembre è il momento ideale per vivere la Puglia lontano dalla folla di agosto: ecco dove andare, cosa vedere e gli appuntamenti da segnare in agenda.…",
+        "link": "https://www.stylosophy.it/articolo/e-questa-la-regione-italiana-dove-andare-in-vacanza-a-settembre-2026/253529/",
+        "pubDate": "2026-08-30T09:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La coffee station è il nuovo angolo cult della casa: così il caffè è diventato anche arredamento",
+        "description": "Dai social alle cucine di casa, la coffee station trasforma macchina, moka, tazze e accessori in un piccolo bar domestico. Una tendenza che unisce passione per …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/coffee-station-casa-tendenza-angolo-caffe/",
+        "pubDate": "2026-08-30T08:48:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La prossima cucina cinese che potrebbe conquistare il mondo? In realtà la mangiamo già senza saperlo",
+        "description": "Brodi profondi, pesce, molluschi, wonton e noodles: la cucina del Fujian sta guadagnando visibilità tra Shanghai e New York. E gli Shaxian snacks contano ormai …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cucina-fujian-cinese-piatti-shaxian-snacks/",
+        "pubDate": "2026-08-30T07:48:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha portato il caciocavallo impiccato fuori dalle sagre: ora lo fonde ogni giorno dentro una puccia",
+        "description": "Andrea Marangi ha trasformato il rito pugliese del caciocavallo impiccato in uno street food quotidiano. Da Santo Ripieno, a Taranto, il formaggio fonde davanti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/caciocavallo-impiccato-puccia-santo-ripieno-taranto/",
+        "pubDate": "2026-08-30T05:50:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Da quasi 90 anni è il bar di riferimento sull’altopiano triestino. Oggi punta su caffè, gelato e aperitivo",
+        "description": "Dal 1937 il Caffè Vatta accompagna la vita di Opicina con caffetteria, pasticceria, gelato, pranzo e aperitivo. Oggi è tra i finalisti del premio illy Bar dell’…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caffe-vatta-opicina-bar-storico-trieste/",
+        "pubDate": "2026-08-30T05:45:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Negli Stati Uniti lo spritz non è mai stato così popolare",
+        "description": "La spritz mania ha colpito anche gli americani, tra i maggiori consumatori del cocktail in patria e anche a casa nostra.\nL'articolo Negli Stati Uniti lo spritz …",
+        "link": "https://www.dissapore.com/notizie/negli-stati-uniti-lo-spritz-non-e-mai-stato-cosi-popolare/",
+        "pubDate": "2026-08-30T05:27:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2022/04/shutterstock_1081308341-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Diletta Leotta, per il back to work sceglie un Look casual-chic con jeans wide leg e body super aderente",
         "description": "Diletta Leotta, in questi giorni, è tornata al lavoro e per il suo back to work ha scelto un look casual-chic.…",
@@ -118,72 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_best_dressed_28_agosto.png",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "A Campobasso c’è una trattoria senza sito né social dove i secondi costano meno di 15 euro",
-        "description": "La Grotta di zì Concetta, nel centro storico di Campobasso, è una trattoria familiare senza sito né social. Si viene per pallotte cacio e ova, pizza e minestra,…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/grotta-zi-concetta-campobasso-trattoria-molisana/",
-        "pubDate": "2026-08-29T05:36:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il mercato nascosto tra i palazzi di Roma che racconta un quartiere intero",
-        "description": "Nascosto tra i grandi palazzi di Roma 70, il Mercato di Grottaperfetta riunisce pasta fresca, pesce, prodotti biologici, botteghe e servizi. Un mercato rionale …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-grottaperfetta-roma-70/",
-        "pubDate": "2026-08-29T05:32:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vendemmia 2026 in Abruzzo, Consorzio frena su numeri: «Ancora prematuro»",
-        "description": "La vendemmia 2026 in Abruzzo è ancora tutta da definire. Alla vigilia dell’ingresso nel vivo delle operazioni di raccolta, il Consorzio Tutela Vini d’Abruzzo in…",
-        "link": "https://www.winemag.it/vendemmia-2026-in-abruzzo-il-consorzio-frena-sui-numeri-e-ancora-prematuro/",
-        "pubDate": "2026-08-28T16:50:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vendemmia 2026 in Germania, raccolta anticipata e maturazione record",
-        "description": "La vendemmia 2026 è iniziata in Germania con un anticipo eccezionale. Dopo l’avvio molto precoce della raccolta delle uve destinate al Federweißer, il vino nuov…",
-        "link": "https://www.winemag.it/vendemmia-2026-in-germania-raccolta-anticipata-e-maturazione-record/",
-        "pubDate": "2026-08-28T16:27:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Un gruppo di scienziati ha analizzato 212 prodotti plant-based, e non è andata benissimo",
-        "description": "Uno studio italo-britannico ha trovato tossine micotiche negli alimenti plant-based: le quantità sono piccole, ma dipende dall'alimentazione di ciascun consumat…",
-        "link": "https://www.dissapore.com/notizie/un-gruppo-di-scienziati-ha-analizzato-212-prodotti-plant-based-e-non-e-andata-benissimo/",
-        "pubDate": "2026-08-28T16:05:00+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/hamburger-plant-based-scaled-e1757924101959.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’aperitivo romagnolo al tramonto, nel cuore delle saline di Cervia",
-        "description": "Al Bar Salino, punto ristoro del Centro Visite, piadina, squacquerone e prodotti lavorati con il Sale Dolce accompagnano una delle esperienze organizzate nella …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/aperitivo-saline-cervia/",
-        "pubDate": "2026-08-28T14:41:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Back to school, ma con stile… settembre è alle porte e il guardaroba torna ufficialmente in modalità città. #FashionPills Fashion Pills: lunedì e il &#8220;back…",
-        "link": "https://www.grazia.it/moda/guess-bursa-allegra-tezenis-pizzo-alo-yoga-kylie-jenner-desigual-ottolinger-merrel-hiking-club-clessio-blauer-brooks-borthers-canottieri-milano-993388",
-        "pubDate": "2026-08-28T14:24:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/Senza-titolo-1-copia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "È questa la regione italiana dove andare in vacanza a settembre: mare, eventi e borghi da scoprire nel 2026",
+        "description": "Settembre è il momento ideale per vivere la Puglia lontano dalla folla di agosto: ecco dove andare, cosa vedere e gli appuntamenti da segnare in agenda.…",
+        "link": "https://www.stylosophy.it/articolo/e-questa-la-regione-italiana-dove-andare-in-vacanza-a-settembre-2026/253529/",
+        "pubDate": "2026-08-30T09:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Diletta Leotta, per il back to work sceglie un Look casual-chic con jeans wide leg e body super aderente",
         "description": "Diletta Leotta, in questi giorni, è tornata al lavoro e per il suo back to work ha scelto un look casual-chic.…",
@@ -354,18 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Questo borgo della Campania è circondato da paesaggi naturali mozzafiato",
-        "description": "Tra dolci colline e viste spettacolari che si perdono all’orizzonte, c’è un piccolo borgo campano dove natura e silenzio si fondono in un equilibrio perfetto. U…",
-        "link": "https://www.stylosophy.it/articolo/borgo-della-campania-e-circondato-da-paesaggi-naturali-mozzafiato/232372/",
-        "pubDate": "2026-08-25T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La “sindrome del ristorante cinese” tra storia, razzismo, scienza e uno scherzo",
+        "description": "La storia di come il glutammato monosodico sia entrato nelle cucine di tutte il mondo è decisamente avventurosa: dall'asia agli Stati Uniti, quasi un secolo di …",
+        "link": "https://www.dissapore.com/ristoranti/la-sindrome-del-ristorante-cinese-tra-storia-razzismo-scienza-e-uno-scherzo/",
+        "pubDate": "2026-08-30T11:08:45+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/Kikunae_Ikeda.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La coffee station è il nuovo angolo cult della casa: così il caffè è diventato anche arredamento",
+        "description": "Dai social alle cucine di casa, la coffee station trasforma macchina, moka, tazze e accessori in un piccolo bar domestico. Una tendenza che unisce passione per …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/coffee-station-casa-tendenza-angolo-caffe/",
+        "pubDate": "2026-08-30T08:48:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La prossima cucina cinese che potrebbe conquistare il mondo? In realtà la mangiamo già senza saperlo",
+        "description": "Brodi profondi, pesce, molluschi, wonton e noodles: la cucina del Fujian sta guadagnando visibilità tra Shanghai e New York. E gli Shaxian snacks contano ormai …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cucina-fujian-cinese-piatti-shaxian-snacks/",
+        "pubDate": "2026-08-30T07:48:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha portato il caciocavallo impiccato fuori dalle sagre: ora lo fonde ogni giorno dentro una puccia",
+        "description": "Andrea Marangi ha trasformato il rito pugliese del caciocavallo impiccato in uno street food quotidiano. Da Santo Ripieno, a Taranto, il formaggio fonde davanti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/caciocavallo-impiccato-puccia-santo-ripieno-taranto/",
+        "pubDate": "2026-08-30T05:50:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Da quasi 90 anni è il bar di riferimento sull’altopiano triestino. Oggi punta su caffè, gelato e aperitivo",
+        "description": "Dal 1937 il Caffè Vatta accompagna la vita di Opicina con caffetteria, pasticceria, gelato, pranzo e aperitivo. Oggi è tra i finalisti del premio illy Bar dell’…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caffe-vatta-opicina-bar-storico-trieste/",
+        "pubDate": "2026-08-30T05:45:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Negli Stati Uniti lo spritz non è mai stato così popolare",
+        "description": "La spritz mania ha colpito anche gli americani, tra i maggiori consumatori del cocktail in patria e anche a casa nostra.\nL'articolo Negli Stati Uniti lo spritz …",
+        "link": "https://www.dissapore.com/notizie/negli-stati-uniti-lo-spritz-non-e-mai-stato-cosi-popolare/",
+        "pubDate": "2026-08-30T05:27:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2022/04/shutterstock_1081308341-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "In Abruzzo si mangia dentro una grotta scavata nella roccia. E la cantina ha più di mille vini",
         "description": "A Guardiagrele, ai piedi della Maiella, La Grotta dei Raselli occupa un'antica cavità della casa di famiglia, tra ricette abruzzesi e una carta dei vini da oltr…",
@@ -466,15 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il mercato nascosto tra i palazzi di Roma che racconta un quartiere intero",
-        "description": "Nascosto tra i grandi palazzi di Roma 70, il Mercato di Grottaperfetta riunisce pasta fresca, pesce, prodotti biologici, botteghe e servizi. Un mercato rionale …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-grottaperfetta-roma-70/",
-        "pubDate": "2026-08-29T05:32:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Vendemmia 2026 in Abruzzo, Consorzio frena su numeri: «Ancora prematuro»",
         "description": "La vendemmia 2026 in Abruzzo è ancora tutta da definire. Alla vigilia dell’ingresso nel vivo delle operazioni di raccolta, il Consorzio Tutela Vini d’Abruzzo in…",
         "link": "https://www.winemag.it/vendemmia-2026-in-abruzzo-il-consorzio-frena-sui-numeri-e-ancora-prematuro/",
@@ -500,51 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/09/hamburger-plant-based-scaled-e1757924101959.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "L’aperitivo romagnolo al tramonto, nel cuore delle saline di Cervia",
-        "description": "Al Bar Salino, punto ristoro del Centro Visite, piadina, squacquerone e prodotti lavorati con il Sale Dolce accompagnano una delle esperienze organizzate nella …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/aperitivo-saline-cervia/",
-        "pubDate": "2026-08-28T14:41:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Nizza si mangia una “farinata” francese: si chiama socca e racconta secoli di Mediterraneo",
-        "description": "Farina di ceci, acqua, olio e sale: la socca è uno dei simboli dello street food nizzardo. Parente della farinata ligure e della torta di ceci livornese, raccon…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/socca-nizza-farinata-ceci-storia/",
-        "pubDate": "2026-08-28T13:29:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mousse al caffè senza lattosio: cremosa e pronta in pochi minuti",
-        "description": "La mousse al caffè senza lattosio si prepara in casa, anche oggi 28 agosto 2026, con espresso freddissimo e zucchero, in appena 15 minuti di lavoro più il ripos…",
-        "link": "https://www.gustoblog.it/2026/08/28/mousse-al-caffe-senza-lattosio-cremosa-e-pronta-in-pochi-minuti/",
-        "pubDate": "2026-08-28T13:02:39+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Caldo record, siccità e incendi. Eppure il 2026 potrebbe essere una grande annata per il vino francese",
-        "description": "Caldo record, siccità e incendi hanno anticipato la vendemmia e ridotto le rese in diverse zone della Francia. Le uve più concentrate alimentano però aspettativ…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vendemmia-2026-francia-caldo-siccita-qualita-vino/",
-        "pubDate": "2026-08-28T12:11:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il boom del matcha travolge il Giappone e mette in ombra il tè tradizionale",
-        "description": "Il boom globale del matcha sta mettendo sotto pressione il tè tradizionale in Giappone nel 2026, tra campagne di Uji, esportazioni in crescita e consumi occiden…",
-        "link": "https://www.gustoblog.it/2026/08/28/il-boom-del-matcha-travolge-il-giappone-e-mette-in-ombra-il-te-tradizionale/",
-        "pubDate": "2026-08-28T06:03:02+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
