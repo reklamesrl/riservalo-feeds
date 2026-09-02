@@ -1,7 +1,52 @@
 {
-  "generated": "2026-09-02T16:04:42.620853+00:00",
+  "generated": "2026-09-02T20:36:03.464486+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Rasiglia, 40 abitanti e 21 attività commerciali: il borgo dei ruscelli diventato una macchina per turisti",
+        "description": "Dieci anni fa non c’erano bar né ristoranti. Oggi Rasiglia è una delle cartoline più sfruttate dell'Umbria e il paese prova a difendersi dal suo successo…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/rasiglia-turismo-40-abitanti-21-attivita/",
+        "pubDate": "2026-09-02T16:18:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il mondo supererà 1,5 gradi di riscaldamento. E l’agricoltura potrebbe non tornare più quella di prima",
+        "description": "Il nuovo rapporto Unep avverte: superare temporaneamente la soglia climatica può lasciare conseguenze irreversibili. Entro il 2050 è a rischio anche la produzio…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/riscaldamento-globale-1-5-gradi-agricoltura-cibo/",
+        "pubDate": "2026-09-02T15:16:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ad Alba Adriatica c’è un ristorante di pesce nato dentro una vecchia fabbrica di lana",
+        "description": "Il Palmizio racconta quasi un secolo di Alba Adriatica: dalla filanda dei nonni alla cucina di Elena Kovaljova, passando per il boom turistico della costa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/palmizio-alba-adriatica-storia-ristorante-pesce/",
+        "pubDate": "2026-09-02T14:51:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Niko Romito cambia ristorante al Bulgari di Milano: meno fine dining, più piatti da condividere",
+        "description": "Il vecchio Il Ristorante diventa Da Niko: cucina italiana, piatti da condividere e meno formalismi. Ma i prezzi restano quelli del lusso…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/da-niko-romito-bulgari-hotel-milano/",
+        "pubDate": "2026-09-02T14:33:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Settesoli avvia la produzione di vino dealcolato. Così anche la Sicilia entra nel nuovo business",
+        "description": "La cooperativa di Menfi ottiene la licenza dall'Agenzia delle Dogane e diventa la prima cantina siciliana a lanciarsi nella produzione no alcol. Bursi: \"L'impia…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/settesoli-impianto-vino-dealcolato/",
+        "pubDate": "2026-09-02T13:08:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Salsa allo scalogno ed erba cipollina: il tocco cremoso che esalta ogni piatto",
         "description": "La salsa allo scalogno e erba cipollina si prepara oggi, in una cucina di casa, in circa 25 minuti, con scalogno, burro, vino bianco e panna fresca, per accompa…",
@@ -102,15 +147,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il caldo sta svuotando le piazze. E ci ritroviamo tutti al centro commerciale a bere caffè",
-        "description": "Famiglie, anziani e bambini cercano riparo dall'afa tra food court e negozi. Il caldo estremo sta cambiando anche i luoghi in cui socializziamo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/centri-commerciali-rifugi-climatici-caldo/",
-        "pubDate": "2026-09-02T04:57:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Ardbeg Trudernish, il nuovo single malt 15 anni entra nel gamma permanente",
         "description": "Ardbeg presenta Ardbeg Trudernish, il nuovo single malt di Islay che entra stabilmente nel core range della Distilleria. È il primo whisky Ardbeg invecchiato 15…",
         "link": "https://www.winemag.it/ardbeg-trudernish-il-nuovo-single-malt-15-anni-entra-nel-gamma-permanente/",
@@ -145,42 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_trend_sfilate_FW26-27.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Nuovo colpo di mercato per il gruppo Compagnia del Gusto: acquistata la piattaforma Winelivery",
-        "description": "Con l'acquisizione della piattaforma di delivery del vino, la holding della famiglia Cosulich continua ad espandersi:  L'ad Ettore Nicoletto: \"Così portiamo all…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/compagnia-del-gusto-acquisizione-piattaforma-winelivery/",
-        "pubDate": "2026-09-01T15:24:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’Europa blocca carne, pollame e altri prodotti dal Brasile: dal 3 settembre scatta lo stop per gli antibiotici",
-        "description": "Dal 3 settembre stop alle importazioni di carne bovina, pollame, uova e miele brasiliani. Bruxelles chiede maggiori garanzie sul rispetto delle norme europee su…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ue-stop-carne-brasile-antibiotici-3-settembre/",
-        "pubDate": "2026-09-01T15:10:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La produzione di riso non è mai stata così disastrosa: e se la soluzione fosse il riso nucleare?",
-        "description": "Il calo drastico della produzione globale di riso, dovuto al cambiamento climatico e all'instabilità politica e commerciale, è un gigantesco campanello d'allarm…",
-        "link": "https://www.dissapore.com/notizie/la-produzione-di-riso-non-e-mai-stata-cosi-disastrosa-e-se-la-soluzione-fosse-il-riso-nucleare/",
-        "pubDate": "2026-09-01T14:57:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/07/curry-di-ceci-con-riso-basmati-ricetta-e1772550244366.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vendemmia 2026, Cavit accelera: raccolta in anticipo di una settimana e oltre 5 mila analisi sulle uve",
-        "description": "La vendemmia 2026 di Cavit è entrata nel vivo con circa una settimana di anticipo rispetto alla stagione precedente. A determinare l’accelerazione del ciclo del…",
-        "link": "https://www.winemag.it/vendemmia-2026-cavit-accelera-raccolta-in-anticipo-di-una-settimana-e-oltre-5-mila-analisi-sulle-uve/",
-        "pubDate": "2026-09-01T14:08:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,51 @@
     ],
     "lifestyle": [
       {
+        "title": "Rasiglia, 40 abitanti e 21 attività commerciali: il borgo dei ruscelli diventato una macchina per turisti",
+        "description": "Dieci anni fa non c’erano bar né ristoranti. Oggi Rasiglia è una delle cartoline più sfruttate dell'Umbria e il paese prova a difendersi dal suo successo…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/rasiglia-turismo-40-abitanti-21-attivita/",
+        "pubDate": "2026-09-02T16:18:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il mondo supererà 1,5 gradi di riscaldamento. E l’agricoltura potrebbe non tornare più quella di prima",
+        "description": "Il nuovo rapporto Unep avverte: superare temporaneamente la soglia climatica può lasciare conseguenze irreversibili. Entro il 2050 è a rischio anche la produzio…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/riscaldamento-globale-1-5-gradi-agricoltura-cibo/",
+        "pubDate": "2026-09-02T15:16:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ad Alba Adriatica c’è un ristorante di pesce nato dentro una vecchia fabbrica di lana",
+        "description": "Il Palmizio racconta quasi un secolo di Alba Adriatica: dalla filanda dei nonni alla cucina di Elena Kovaljova, passando per il boom turistico della costa…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/palmizio-alba-adriatica-storia-ristorante-pesce/",
+        "pubDate": "2026-09-02T14:51:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Niko Romito cambia ristorante al Bulgari di Milano: meno fine dining, più piatti da condividere",
+        "description": "Il vecchio Il Ristorante diventa Da Niko: cucina italiana, piatti da condividere e meno formalismi. Ma i prezzi restano quelli del lusso…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/da-niko-romito-bulgari-hotel-milano/",
+        "pubDate": "2026-09-02T14:33:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Settesoli avvia la produzione di vino dealcolato. Così anche la Sicilia entra nel nuovo business",
+        "description": "La cooperativa di Menfi ottiene la licenza dall'Agenzia delle Dogane e diventa la prima cantina siciliana a lanciarsi nella produzione no alcol. Bursi: \"L'impia…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/settesoli-impianto-vino-dealcolato/",
+        "pubDate": "2026-09-02T13:08:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Salsa allo scalogno ed erba cipollina: il tocco cremoso che esalta ogni piatto",
         "description": "La salsa allo scalogno e erba cipollina si prepara oggi, in una cucina di casa, in circa 25 minuti, con scalogno, burro, vino bianco e panna fresca, per accompa…",
         "link": "https://www.gustoblog.it/2026/09/02/salsa-allo-scalogno-ed-erba-cipollina-il-tocco-cremoso-che-esalta-ogni-piatto/",
@@ -430,15 +475,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il caldo sta svuotando le piazze. E ci ritroviamo tutti al centro commerciale a bere caffè",
-        "description": "Famiglie, anziani e bambini cercano riparo dall'afa tra food court e negozi. Il caldo estremo sta cambiando anche i luoghi in cui socializziamo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/centri-commerciali-rifugi-climatici-caldo/",
-        "pubDate": "2026-09-02T04:57:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Ardbeg Trudernish, il nuovo single malt 15 anni entra nel gamma permanente",
         "description": "Ardbeg presenta Ardbeg Trudernish, il nuovo single malt di Islay che entra stabilmente nel core range della Distilleria. È il primo whisky Ardbeg invecchiato 15…",
         "link": "https://www.winemag.it/ardbeg-trudernish-il-nuovo-single-malt-15-anni-entra-nel-gamma-permanente/",
@@ -455,24 +491,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Nuovo colpo di mercato per il gruppo Compagnia del Gusto: acquistata la piattaforma Winelivery",
-        "description": "Con l'acquisizione della piattaforma di delivery del vino, la holding della famiglia Cosulich continua ad espandersi:  L'ad Ettore Nicoletto: \"Così portiamo all…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/compagnia-del-gusto-acquisizione-piattaforma-winelivery/",
-        "pubDate": "2026-09-01T15:24:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’Europa blocca carne, pollame e altri prodotti dal Brasile: dal 3 settembre scatta lo stop per gli antibiotici",
-        "description": "Dal 3 settembre stop alle importazioni di carne bovina, pollame, uova e miele brasiliani. Bruxelles chiede maggiori garanzie sul rispetto delle norme europee su…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ue-stop-carne-brasile-antibiotici-3-settembre/",
-        "pubDate": "2026-09-01T15:10:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "La produzione di riso non è mai stata così disastrosa: e se la soluzione fosse il riso nucleare?",
@@ -493,15 +511,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Export di vino sotto i 3 miliardi di euro nei primi cinque mesi. A galla gli spumanti (ma non grazie al Prosecco)",
-        "description": "Maggio non segna la ripresa sperata e porta le vendite oltreconfine a -6,9% nei cinque mesi. I dati Istat mostrano, inoltre, un mercato Ue in calo (-12% solo ne…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-cinque-mesi-2026-dati-istat/",
-        "pubDate": "2026-09-01T13:15:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Pasta alla Norma leggera: gusto siciliano con meno calorie",
         "description": "A Catania, oggi 1 settembre 2026, torna in cucina la pasta alla Norma dietetica, versione più leggera del piatto siciliano preparata senza frittura per chi vuol…",
         "link": "https://www.gustoblog.it/2026/09/01/pasta-alla-norma-leggera-gusto-siciliano-con-meno-calorie/",
@@ -509,15 +518,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "È tornato nel paese di 12mila abitanti e ha portato il pane delle zie nei ristoranti e alle sfilate di moda",
-        "description": "Antonio Cera lasciò Milano per tornare a San Marco in Lamis. Oggi il forno di famiglia lavora con chef, hotel di lusso e maison internazionali…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/forno-sammarco-antonio-cera-san-marco-in-lamis/",
-        "pubDate": "2026-09-01T12:03:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Le proteste dei dipendenti di Starbucks sono diventate un documentario con Susan Sarandon",
