@@ -1,7 +1,70 @@
 {
-  "generated": "2026-09-03T10:46:25.545672+00:00",
+  "generated": "2026-09-03T15:54:14.972228+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Banfi, Irene Corsi è la nuova Responsabile dell’Ufficio Marketing",
+        "description": "Banfi annuncia la nomina di Irene Corsi a Responsabile dell’Ufficio Marketing. La nuova posizione arriva al termine di un percorso professionale di sette anni a…",
+        "link": "https://www.winemag.it/banfi-irene-corsi-e-la-nuova-responsabile-dellufficio-marketing/",
+        "pubDate": "2026-09-03T14:50:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Giorgio Locatelli sta spaccando Masterchef Uk: non pensate di portarcelo via di nuovo",
+        "description": "Giorgio Locatelli piace da pazzi al pubblico e alla critica inglese: e se ce lo volessero portare via non solo gastronomicamente ma anche televisivamente? \nL'ar…",
+        "link": "https://www.dissapore.com/tv/giorgio-locatelli-sta-spaccando-masterchef-uk-non-pensate-di-portarcelo-via-di-nuovo/",
+        "pubDate": "2026-09-03T13:44:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/Giorgio-Locatelli-e1746694348670.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Carpaccio di polpo con pomodorini e olive nere: l’antipasto fresco che sa di mare",
+        "description": "Il carpaccio di polpo con pomodorini e olive nere è una ricetta di mare da preparare in casa, per 4 persone, quando si cerca un antipasto fresco o un secondo le…",
+        "link": "https://www.gustoblog.it/2026/09/03/carpaccio-di-polpo-con-pomodorini-e-olive-nere-lantipasto-fresco-che-sa-di-mare/",
+        "pubDate": "2026-09-03T13:02:41+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Venezia 2026, Bianca Balti lascia tutti senza fiato sul red carpet con una meravigliosa creazione Haute Couture firmata Ilya Migmoon",
+        "description": "Bianca Balti ha incantato tutti sul red carpet di Venezia 2026 con una creazione firmata da Ilya Migmoon.…",
+        "link": "https://www.stylosophy.it/articolo/venezia-2026-bianca-balti-lascia-tutti-senza-fiato-sul-red-carpet-con-una-meravigliosa-creazione-haute-couture-firmata-ilya-migmoon/253579/",
+        "pubDate": "2026-09-03T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Mundus Vini 2026, Italia prima: 466 medaglie al Summer Tasting",
+        "description": "Mundus Vini 2026, Italia prima: 466 medaglie al Summer Tasting\nL'articolo Mundus Vini 2026, Italia prima: 466 medaglie al Summer Tasting proviene da Winemag.it …",
+        "link": "https://www.winemag.it/mundus-vini-2026-italia-prima-466-medaglie-al-summer-tasting/",
+        "pubDate": "2026-09-03T12:02:44+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La Russia colpisce il più grande magazzino di vini in Ucraina",
+        "description": "A essere colpito per la seconda volta in due mesi è il centro logistico Okwine e Wine Hunters a Kiev. La Russia sta attaccando sempre più frequentemente i magaz…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/russia-colpisce-il-magazzino-vini-ucraina/",
+        "pubDate": "2026-09-03T11:34:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Prezzi troppo bassi per le uve della Valpolicella. Christian Marchesini: “Segni di speculazione”",
+        "description": "Le prime quotazioni alla Camera di Commercio registrano 50 centesimi, ben al di sotto delle medie attese tra i 60 e gli 80 centesimi al chilo. L'allarme del Con…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/prezzi-uve-valpolicella-speculazione/",
+        "pubDate": "2026-09-03T11:26:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La Guida Michelin ha abbastanza ispettori?",
         "description": "Con la guida gommata che sta ormai sfiorando i 20 mila ristoranti segnalati nel mondo, diversi addetti ai lavoro stanno cominciando a porsi il problema.\nL'artic…",
@@ -48,6 +111,24 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Beatrice Valli a Venezia ci ricorda perché i pantaloni beige sono uno di quei grandi passepartout che vale sempre la pena avere nell’armadio",
+        "description": "Da qualche anno è ospite fissa sul red carpet della Mostra del Cinema, ieri ha fatto nuovamente ritorno a Venezia e con il suo outfit ci ha fatto riscoprire il …",
+        "link": "https://www.grazia.it/moda/celebrity-style/pantaloni-beige-eleganti-zara-a-gamba-larga-ampi-beatrice-valli-marco-fantini-mostra-del-cinema-venezia-83-994454",
+        "pubDate": "2026-09-03T08:45:54+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/bea-valli-pantaloni-beige-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Rosa Prada: quando il red carpet diventa pink",
+        "description": "L&#8217;attrice Laura Dern arriva alla cerimonia di apertura dell’83ª edizione della Mostra Internazionale d’Arte Cinematografica di Venezia in un abito in raso…",
+        "link": "https://www.grazia.it/moda/celebrity-style/prada-abiti-rosa-red-carpet-anne-hathaway-scarlett-johansson-laura-dern-994481",
+        "pubDate": "2026-09-03T08:33:53+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/Prada-rosa-hero-copia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Gli influencer dichiarano la pubblicità. I giornalisti invece non potrebbero proprio farla",
         "description": "Inviti, cene offerte e contenuti promozionali hanno confuso i confini. Ma per influencer e giornalisti le regole non sono affatto le stesse…",
         "link": "https://www.gamberorosso.it/notizie/attualita/giornalisti-influencer-pubblicita-social-ristoranti/",
@@ -55,6 +136,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "5 combo colore da indossare a ripetizione questo settembre",
+        "description": "Settembre, tempo di nuovi inizi e di ripartenze. E inevitabilmente, insieme al desiderio di ricominciare (e a un pizzico di malinconia per le vacanze ormai arch…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colori-autunno-abbinamenti-look-moda-settembre-993786",
+        "pubDate": "2026-09-03T06:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_combo_colori_settembre.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "L’osteria più comunista di Livorno: cacciucco, falci e martelli e Bella Ciao",
@@ -91,99 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Rasiglia, 40 abitanti e 21 attività commerciali: il borgo dei ruscelli diventato una macchina per turisti",
-        "description": "Dieci anni fa non c’erano bar né ristoranti. Oggi Rasiglia è una delle cartoline più sfruttate dell'Umbria e il paese prova a difendersi dal suo successo…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/rasiglia-turismo-40-abitanti-21-attivita/",
-        "pubDate": "2026-09-02T16:18:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il mondo supererà 1,5 gradi di riscaldamento. E l’agricoltura potrebbe non tornare più quella di prima",
-        "description": "Il nuovo rapporto Unep avverte: superare temporaneamente la soglia climatica può lasciare conseguenze irreversibili. Entro il 2050 è a rischio anche la produzio…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/riscaldamento-globale-1-5-gradi-agricoltura-cibo/",
-        "pubDate": "2026-09-02T15:16:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ad Alba Adriatica c’è un ristorante di pesce nato dentro una vecchia fabbrica di lana",
-        "description": "Il Palmizio racconta quasi un secolo di Alba Adriatica: dalla filanda dei nonni alla cucina di Elena Kovaljova, passando per il boom turistico della costa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/palmizio-alba-adriatica-storia-ristorante-pesce/",
-        "pubDate": "2026-09-02T14:51:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Niko Romito cambia ristorante al Bulgari di Milano: meno fine dining, più piatti da condividere",
-        "description": "Il vecchio Il Ristorante diventa Da Niko: cucina italiana, piatti da condividere e meno formalismi. Ma i prezzi restano quelli del lusso…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/da-niko-romito-bulgari-hotel-milano/",
-        "pubDate": "2026-09-02T14:33:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Salsa allo scalogno ed erba cipollina: il tocco cremoso che esalta ogni piatto",
-        "description": "La salsa allo scalogno e erba cipollina si prepara oggi, in una cucina di casa, in circa 25 minuti, con scalogno, burro, vino bianco e panna fresca, per accompa…",
-        "link": "https://www.gustoblog.it/2026/09/02/salsa-allo-scalogno-ed-erba-cipollina-il-tocco-cremoso-che-esalta-ogni-piatto/",
-        "pubDate": "2026-09-02T13:02:39+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Venezia 2026, Greta Scarano inaugura la 83° edizione del Festival con un total Look firmato Giorgio Armani",
-        "description": "Greta Scarano sfila a piedi nudi sul bagnasciuga durante il tradizionale bagno al Lido che dà il via alla Mostra del Cinema di Venezia 2026 con un total look fi…",
-        "link": "https://www.stylosophy.it/articolo/venezia-2026-greta-scarano-inaugura-la-83-edizione-del-festival-con-un-total-look-firmato-giorgio-armani/253563/",
-        "pubDate": "2026-09-02T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Quasi la metà dei contadini del mondo è avvelenata dai pesticidi",
-        "description": "Uno studio riporta un dato sconvolgente su quanto i pesticidi facciano ammalare chi li usa, e su quanto questo dato sia importante nei Paesi più poveri.\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/quasi-la-meta-dei-contadini-del-mondo-e-avvelenata-dai-pesticidi/",
-        "pubDate": "2026-09-02T10:23:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/12/frutta-1-e1733754354153.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Amal Clooney (favolosa al suo arrivo a Venezia) conferma: è il verde il nuovo nero!",
-        "description": "È sbarcata a Venezia insieme al marito George Clooney (che proprio in questi giorni ritirerà il Leone d’Oro alla carriera) e non ha fatto neanche in tempo a met…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/verde-colore-autunno-2026-amal-clooney-venezia-come-vestirsi-a-50-anni-994169",
-        "pubDate": "2026-09-02T10:23:38+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/Cover_Amal_Clooney_Venezia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Un Borgo antico a due passi dal Mare e da Roma perfetto per una gita fuoriporta a settembre",
-        "description": "Tra vicoli medievali, rovine di un castello e tradizioni artigiane, questo borgo dei Monti della Tolfa è una meta da scoprire anche per un weekend lontano dal t…",
-        "link": "https://www.stylosophy.it/articolo/un-borgo-antico-a-due-passi-dal-mare-e-da-roma-perfetto-per-una-gita-fuoriporta-a-settembre/253561/",
-        "pubDate": "2026-09-02T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Fashion crush del mese: cosa comprare a Settembre",
-        "description": "Il capitolo vacanze è ufficialmente archiviato, il ritorno al solito tran tran è già iniziato e con lui sono tornati anche i mille impegni quotidiani da incastr…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-a-settembre-shopping-rientro-in-citta-blazer-jeans-idee-donna-autunno-993803",
-        "pubDate": "2026-09-02T06:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_FASHION-_CRUSH__SETTEMBRE2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Venezia 2026, Bianca Balti lascia tutti senza fiato sul red carpet con una meravigliosa creazione Haute Couture firmata Ilya Migmoon",
+        "description": "Bianca Balti ha incantato tutti sul red carpet di Venezia 2026 con una creazione firmata da Ilya Migmoon.…",
+        "link": "https://www.stylosophy.it/articolo/venezia-2026-bianca-balti-lascia-tutti-senza-fiato-sul-red-carpet-con-una-meravigliosa-creazione-haute-couture-firmata-ilya-migmoon/253579/",
+        "pubDate": "2026-09-03T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Come mantenere l’abbronzatura a lungo: consigli per una pelle dorata",
         "description": "Una pelle ben idratata, detersa senza stress e protetta dai raggi UV conserva più a lungo un colorito uniforme. Ecco come costruire la routine giusta dopo l’est…",
@@ -192,6 +201,60 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Beatrice Valli a Venezia ci ricorda perché i pantaloni beige sono uno di quei grandi passepartout che vale sempre la pena avere nell’armadio",
+        "description": "Da qualche anno è ospite fissa sul red carpet della Mostra del Cinema, ieri ha fatto nuovamente ritorno a Venezia e con il suo outfit ci ha fatto riscoprire il …",
+        "link": "https://www.grazia.it/moda/celebrity-style/pantaloni-beige-eleganti-zara-a-gamba-larga-ampi-beatrice-valli-marco-fantini-mostra-del-cinema-venezia-83-994454",
+        "pubDate": "2026-09-03T08:45:54+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/bea-valli-pantaloni-beige-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Rosa Prada: quando il red carpet diventa pink",
+        "description": "L&#8217;attrice Laura Dern arriva alla cerimonia di apertura dell’83ª edizione della Mostra Internazionale d’Arte Cinematografica di Venezia in un abito in raso…",
+        "link": "https://www.grazia.it/moda/celebrity-style/prada-abiti-rosa-red-carpet-anne-hathaway-scarlett-johansson-laura-dern-994481",
+        "pubDate": "2026-09-03T08:33:53+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/Prada-rosa-hero-copia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "5 combo colore da indossare a ripetizione questo settembre",
+        "description": "Settembre, tempo di nuovi inizi e di ripartenze. E inevitabilmente, insieme al desiderio di ricominciare (e a un pizzico di malinconia per le vacanze ormai arch…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colori-autunno-abbinamenti-look-moda-settembre-993786",
+        "pubDate": "2026-09-03T06:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_combo_colori_settembre.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Mostra del Cinema di Venezia 2026: tutti gli abiti delle star sul red carpet",
+        "description": "Serata dopo serata, scoprite con noi tutti i look delle star sul tappeto rosso dell&#8217;83esima edizione della Mostra internazionale d&#8217;arte cinematograf…",
+        "link": "https://www.grazia.it/moda/celebrity-style/mostra-del-cinema-2026-abiti-look-star-red-carpet-994346",
+        "pubDate": "2026-09-02T17:52:40+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-venezia-2026-serata-1-bianca-balti.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Shopping a Venezia: 6 indirizzi da appuntarsi subito",
+        "description": "Per tradizione l&#8217;inizio di settembre porta con sé la fine delle vacanze estive e accende i riflettori su uno degli eventi cinematografici più importanti a…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/shopping-a-venezia-negozi-moda-friulane-cosa-comprare-indirizzi-brand-919141",
+        "pubDate": "2026-09-02T17:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2025/08/DESK-negozi-venezia.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Camicia bianca over e jeans morbidi sono la divisa perfetta per il rientro in città, parola di Bianca Balti!",
+        "description": "Il rientro alla normalità dopo le vacanze non è mai semplice e, anche in fatto di look, ritrovare la voglia di &#8220;vestirsi&#8221; dopo la rilassatezza dell&…",
+        "link": "https://www.grazia.it/moda/celebrity-style/camicia-bianca-over-jeans-larghi-look-rientro-citta-bianca-balti-venezia-994283",
+        "pubDate": "2026-09-02T14:18:08+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/bianca-balti-venice-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Venezia 2026, Greta Scarano inaugura la 83° edizione del Festival con un total Look firmato Giorgio Armani",
@@ -248,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "La combo colore su cui scommettere quest’autunno? “Rosa + bordeaux” (e noi vi mostriamo 5 abbinamenti da appuntarvi subito)",
-        "description": "Se pensavate che con la fine dell’estate saremmo tornate a vestirci solo di nero, marrone e beige, beh, preparatevi a ricredervi.&#160;Eh sì, perché a quanto pa…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/rosa-bordeaux-combo-colore-autunno-donna-abbinamenti-look-street-style-993872",
-        "pubDate": "2026-09-01T13:12:47+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Rosa_bordeaux.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Annalisa, selfie allo specchio con il Look sexy-rock: minigonna in pelle, maglia over e bikers FOTO",
         "description": "Annalisa, tra relax in vacanza e nuovi impegni di lavoro, si scatta un selfie allo specchio con un look sexy-rock.…",
         "link": "https://www.stylosophy.it/articolo/annalisa-selfie-allo-specchio-con-il-look-sexy-rock-minigonna-in-pelle-maglia-over-e-bikers-foto/253556/",
@@ -275,42 +329,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Bye bye look estivi! Questi 10 outfit in puro stile autunno sono l’unica cosa che vogliamo indossare ora!",
-        "description": "Non è una questione (solo) di temperature, anzi! Proprio quest&#8217;anno, a causa del meteo super &#8220;hot&#8221; che non ci ha dato quasi tregua, ammettiamo…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/look-autunno-2026-moda-outfit-abbinamenti-autunnali-street-style-copenhagen-993148",
-        "pubDate": "2026-09-01T06:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/look-autunno-2026-DESK.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Le campagne moda Autunno/Inverno 2026-2027 che ci faranno venire voglia di rinnovare il guardaroba",
-        "description": "&#8220;L&#8217;estate sta finendo&#8221; e il mondo della moda guarda già avanti. Le campagne autunno inverno 26/27 iniziano infatti a svelare le collezioni del…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/campagne-moda-autunno-inverno-2026-27-prada-armani-givenchy-991846",
-        "pubDate": "2026-09-01T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_campagne_FW26-27.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Miriam Leone è la nuova ambassador di Messika: l’attrice italiana conquista la Maison",
-        "description": "Miriam Leone è la nuova ambassador di Messika. L’attrice siciliana, uno dei volti più riconoscibili del cinema italiano e imprenditrice nel mondo beauty, entra …",
-        "link": "https://www.grazia.it/moda/news-moda/miriam-leone-nuova-ambassador-messika-993708",
-        "pubDate": "2026-08-31T15:04:08+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/ok-aperura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Galliano annuncia la cancellazione della mostra a lui dedicata dal Met",
-        "description": "In molti pregustavano già un&#8217;edizione del Met Gala ricca di abiti favolosi, look indimenticabili riproposti sotto l&#8217;occhio attento di Anna Wintour e…",
-        "link": "https://www.grazia.it/moda/news-moda/galliano-cancellata-mostra-met-gala-2027-993737",
-        "pubDate": "2026-08-31T14:52:26+00:00",
-        "image": "https://www.grazia.it/content/uploads/2016/07/john-galliano-dior1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Anche Valentina Ferragni segue il trend del ‘Bedazzling’, di ispirazione primi anni 2000",
         "description": "Come tante influencer e celebrities, anche Valentina Ferragni ha ceduto al trend più amato del momento, il trend del 'Bedazzling': qui di seguito per tutti i de…",
         "link": "https://www.stylosophy.it/articolo/anche-valentina-ferragni-segue-il-trend-del-bedazzling-di-ispirazione-primi-anni-2000/253546/",
@@ -318,15 +336,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Greta Scarano: i look più belli della nuova conduttrice della Mostra del Cinema (in attesa di Venezia)",
-        "description": "L’abbiamo vista passare da un ruolo all’altro, sul grande e sul piccolo schermo, abbiamo seguito il suo debutto alla regia e a brevissimo la rivedremo in una ve…",
-        "link": "https://www.grazia.it/moda/celebrity-style/greta-scarano-look-conduttrice-mostra-cinema-venezia-2026-nicolas-maupas-red-carpet-993647",
-        "pubDate": "2026-08-31T12:25:52+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/COVER_Greta_Scarano.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "I tonici alla vitamina C che illuminano la pelle: addio macchie scure e colorito spento",
@@ -354,18 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Diletta Leotta, per il back to work sceglie un Look casual-chic con jeans wide leg e body super aderente",
-        "description": "Diletta Leotta, in questi giorni, è tornata al lavoro e per il suo back to work ha scelto un look casual-chic.…",
-        "link": "https://www.stylosophy.it/articolo/diletta-leotta-per-il-back-to-work-sceglie-un-look-casual-chic-con-jeans-wide-leg-e-body-super-aderente/253538/",
-        "pubDate": "2026-08-29T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Banfi, Irene Corsi è la nuova Responsabile dell’Ufficio Marketing",
+        "description": "Banfi annuncia la nomina di Irene Corsi a Responsabile dell’Ufficio Marketing. La nuova posizione arriva al termine di un percorso professionale di sette anni a…",
+        "link": "https://www.winemag.it/banfi-irene-corsi-e-la-nuova-responsabile-dellufficio-marketing/",
+        "pubDate": "2026-09-03T14:50:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Giorgio Locatelli sta spaccando Masterchef Uk: non pensate di portarcelo via di nuovo",
+        "description": "Giorgio Locatelli piace da pazzi al pubblico e alla critica inglese: e se ce lo volessero portare via non solo gastronomicamente ma anche televisivamente? \nL'ar…",
+        "link": "https://www.dissapore.com/tv/giorgio-locatelli-sta-spaccando-masterchef-uk-non-pensate-di-portarcelo-via-di-nuovo/",
+        "pubDate": "2026-09-03T13:44:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/Giorgio-Locatelli-e1746694348670.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Carpaccio di polpo con pomodorini e olive nere: l’antipasto fresco che sa di mare",
+        "description": "Il carpaccio di polpo con pomodorini e olive nere è una ricetta di mare da preparare in casa, per 4 persone, quando si cerca un antipasto fresco o un secondo le…",
+        "link": "https://www.gustoblog.it/2026/09/03/carpaccio-di-polpo-con-pomodorini-e-olive-nere-lantipasto-fresco-che-sa-di-mare/",
+        "pubDate": "2026-09-03T13:02:41+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Mundus Vini 2026, Italia prima: 466 medaglie al Summer Tasting",
+        "description": "Mundus Vini 2026, Italia prima: 466 medaglie al Summer Tasting\nL'articolo Mundus Vini 2026, Italia prima: 466 medaglie al Summer Tasting proviene da Winemag.it …",
+        "link": "https://www.winemag.it/mundus-vini-2026-italia-prima-466-medaglie-al-summer-tasting/",
+        "pubDate": "2026-09-03T12:02:44+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La Russia colpisce il più grande magazzino di vini in Ucraina",
+        "description": "A essere colpito per la seconda volta in due mesi è il centro logistico Okwine e Wine Hunters a Kiev. La Russia sta attaccando sempre più frequentemente i magaz…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/russia-colpisce-il-magazzino-vini-ucraina/",
+        "pubDate": "2026-09-03T11:34:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Prezzi troppo bassi per le uve della Valpolicella. Christian Marchesini: “Segni di speculazione”",
+        "description": "Le prime quotazioni alla Camera di Commercio registrano 50 centesimi, ben al di sotto delle medie attese tra i 60 e gli 80 centesimi al chilo. L'allarme del Con…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/prezzi-uve-valpolicella-speculazione/",
+        "pubDate": "2026-09-03T11:26:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La Guida Michelin ha abbastanza ispettori?",
         "description": "Con la guida gommata che sta ormai sfiorando i 20 mila ristoranti segnalati nel mondo, diversi addetti ai lavoro stanno cominciando a porsi il problema.\nL'artic…",
@@ -466,24 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Ad Alba Adriatica c’è un ristorante di pesce nato dentro una vecchia fabbrica di lana",
-        "description": "Il Palmizio racconta quasi un secolo di Alba Adriatica: dalla filanda dei nonni alla cucina di Elena Kovaljova, passando per il boom turistico della costa…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/palmizio-alba-adriatica-storia-ristorante-pesce/",
-        "pubDate": "2026-09-02T14:51:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Niko Romito cambia ristorante al Bulgari di Milano: meno fine dining, più piatti da condividere",
-        "description": "Il vecchio Il Ristorante diventa Da Niko: cucina italiana, piatti da condividere e meno formalismi. Ma i prezzi restano quelli del lusso…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/da-niko-romito-bulgari-hotel-milano/",
-        "pubDate": "2026-09-02T14:33:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Salsa allo scalogno ed erba cipollina: il tocco cremoso che esalta ogni piatto",
         "description": "La salsa allo scalogno e erba cipollina si prepara oggi, in una cucina di casa, in circa 25 minuti, con scalogno, burro, vino bianco e panna fresca, per accompa…",
         "link": "https://www.gustoblog.it/2026/09/02/salsa-allo-scalogno-ed-erba-cipollina-il-tocco-cremoso-che-esalta-ogni-piatto/",
@@ -509,42 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Il maccu di fave di Bartolo Favaloro: la ricetta che racconta un’isola",
-        "description": "Bartolo Favaloro fa il personal chef, cucina nelle case di chi lo chiama, e porta con sé una storia che parte da Lipari. È lì che ha imparato i primi gesti in c…",
-        "link": "https://www.gustoblog.it/2026/09/01/il-maccu-di-fave-di-bartolo-favaloro-la-ricetta-che-racconta-unisola/",
-        "pubDate": "2026-09-01T16:32:50+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La produzione di riso non è mai stata così disastrosa: e se la soluzione fosse il riso nucleare?",
-        "description": "Il calo drastico della produzione globale di riso, dovuto al cambiamento climatico e all'instabilità politica e commerciale, è un gigantesco campanello d'allarm…",
-        "link": "https://www.dissapore.com/notizie/la-produzione-di-riso-non-e-mai-stata-cosi-disastrosa-e-se-la-soluzione-fosse-il-riso-nucleare/",
-        "pubDate": "2026-09-01T14:57:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/07/curry-di-ceci-con-riso-basmati-ricetta-e1772550244366.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vendemmia 2026, Cavit accelera: raccolta in anticipo di una settimana e oltre 5 mila analisi sulle uve",
-        "description": "La vendemmia 2026 di Cavit è entrata nel vivo con circa una settimana di anticipo rispetto alla stagione precedente. A determinare l’accelerazione del ciclo del…",
-        "link": "https://www.winemag.it/vendemmia-2026-cavit-accelera-raccolta-in-anticipo-di-una-settimana-e-oltre-5-mila-analisi-sulle-uve/",
-        "pubDate": "2026-09-01T14:08:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Pasta alla Norma leggera: gusto siciliano con meno calorie",
-        "description": "A Catania, oggi 1 settembre 2026, torna in cucina la pasta alla Norma dietetica, versione più leggera del piatto siciliano preparata senza frittura per chi vuol…",
-        "link": "https://www.gustoblog.it/2026/09/01/pasta-alla-norma-leggera-gusto-siciliano-con-meno-calorie/",
-        "pubDate": "2026-09-01T13:02:42+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
