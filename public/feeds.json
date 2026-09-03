@@ -1,7 +1,97 @@
 {
-  "generated": "2026-09-02T20:36:03.464486+00:00",
+  "generated": "2026-09-03T10:46:25.545672+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La Guida Michelin ha abbastanza ispettori?",
+        "description": "Con la guida gommata che sta ormai sfiorando i 20 mila ristoranti segnalati nel mondo, diversi addetti ai lavoro stanno cominciando a porsi il problema.\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/la-guida-michelin-ha-abbastanza-ispettori/",
+        "pubDate": "2026-09-03T10:20:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/michelin-posate-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Franchino er criminale e l’autenticità dei ristoranti in tv",
+        "description": "Nuovo programma su DMAX condotto da uno youtuber, ex pugile, che vuole portare sul grande schermo i locali dove vanno a mangiare i lavoratori.\nL'articolo Franch…",
+        "link": "https://www.dissapore.com/notizie/franchino-er-criminale-e-lautenticita-dei-ristoranti-in-tv/",
+        "pubDate": "2026-09-03T09:25:17+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La zuppa bianca dell’Andalusia che sembra gazpacho ma si fa con mandorle e pane raffermo",
+        "description": "Si chiama ajoblanco ed è uno dei grandi piatti estivi andalusi. Ad Almáchar il 5 settembre torna perfino la festa che lo celebra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ajoblanco-zuppa-fredda-andalusia/",
+        "pubDate": "2026-09-03T09:08:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Troppo vino invenduto: la Puglia ora chiede distillazione di crisi, stoccaggio e lotta all’abusivismo",
+        "description": "Durante l'assemblea straordinaria da Cantine Due Palme, a Cellino San Marco, produttori, sindacati e istituzioni hanno firmato un documento programmatico da inv…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/crisi-vino-puglia-distillazione-stoccaggio-assemblea-cantine-due-palme/",
+        "pubDate": "2026-09-03T09:04:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come mantenere l’abbronzatura a lungo: consigli per una pelle dorata",
+        "description": "Una pelle ben idratata, detersa senza stress e protetta dai raggi UV conserva più a lungo un colorito uniforme. Ecco come costruire la routine giusta dopo l’est…",
+        "link": "https://www.stylosophy.it/articolo/come-mantenere-labbronzatura-a-lungo-consigli-per-una-pelle-dorata/253571/",
+        "pubDate": "2026-09-03T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Gli influencer dichiarano la pubblicità. I giornalisti invece non potrebbero proprio farla",
+        "description": "Inviti, cene offerte e contenuti promozionali hanno confuso i confini. Ma per influencer e giornalisti le regole non sono affatto le stesse…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/giornalisti-influencer-pubblicita-social-ristoranti/",
+        "pubDate": "2026-09-03T07:17:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’osteria più comunista di Livorno: cacciucco, falci e martelli e Bella Ciao",
+        "description": "Si chiama Melafumo: cucina di mare, vino della casa, calcio e iconografia comunista. E con 20-30 euro si mangia ancora parecchio…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/melafumo-livorno-osteria-pesce-cacciucco/",
+        "pubDate": "2026-09-03T06:22:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Calabria un paese di 500 abitanti è diventato famoso per il gelato",
+        "description": "Jacurso ha appena 500 abitanti ma due gelaterie storiche che hanno trasformato il paese in una destinazione per gli amanti del gelato…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/jacurso-borgo-gelato-calabria/",
+        "pubDate": "2026-09-03T06:21:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Caldo record, trote e storioni in crisi: a rischio anche il caviale italiano",
+        "description": "Il caldo estivo e la scarsità d’acqua stanno mettendo sotto pressione in queste settimane gli allevamenti italiani di trote e storioni, soprattutto nel Nord Ita…",
+        "link": "https://www.gustoblog.it/2026/09/03/caldo-record-trote-e-storioni-in-crisi-a-rischio-anche-il-caviale-italiano/",
+        "pubDate": "2026-09-03T06:02:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Cosa sta succedendo alle cozze europee",
+        "description": "In Italia nel 2024 alcuni allevamenti hanno registrato perdite del 75-100%. Intanto crescono le importazioni di prodotto cileno…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cosa-sta-succedendo-alle-cozze-europee/",
+        "pubDate": "2026-09-03T05:21:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Rasiglia, 40 abitanti e 21 attività commerciali: il borgo dei ruscelli diventato una macchina per turisti",
         "description": "Dieci anni fa non c’erano bar né ristoranti. Oggi Rasiglia è una delle cartoline più sfruttate dell'Umbria e il paese prova a difendersi dal suo successo…",
@@ -34,15 +124,6 @@
         "description": "Il vecchio Il Ristorante diventa Da Niko: cucina italiana, piatti da condividere e meno formalismi. Ma i prezzi restano quelli del lusso…",
         "link": "https://www.gamberorosso.it/notizie/ristoranti/da-niko-romito-bulgari-hotel-milano/",
         "pubDate": "2026-09-02T14:33:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Settesoli avvia la produzione di vino dealcolato. Così anche la Sicilia entra nel nuovo business",
-        "description": "La cooperativa di Menfi ottiene la licenza dall'Agenzia delle Dogane e diventa la prima cantina siciliana a lanciarsi nella produzione no alcol. Bursi: \"L'impia…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/settesoli-impianto-vino-dealcolato/",
-        "pubDate": "2026-09-02T13:08:50+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -93,33 +174,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "A Montalcino vendemmia anticipata. Ecco come sarà l’annata 2026 del Brunello",
-        "description": "Il Consorzio guidato da Giacomo Bartolommei ha annunciato la data di inizio della raccolta e diffuso le prime stime sui volumi a pochi giorni dall'inizio della …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/montalcino-vendemmia-anticipata-annata-brunello-docg-2026/",
-        "pubDate": "2026-09-02T08:56:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’Old Fashioned torna di moda: 7 cocktail bar in Campania dove berlo fatto bene",
-        "description": "Un tour Coast to Coast alla ricerca del drink ideale. Lo storico cocktail simbolo della cultura americana riproposto in diverse versioni dai talenti della mixol…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/old-fashioned-campania-migliori-cocktail-bar/",
-        "pubDate": "2026-09-02T08:47:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Con l’olio si guadagnava poco, così piantarono rose. Oggi vendono extravergine in tutto il mondo",
-        "description": "La famiglia Ciccolella coltiva olivi a nord di Bari dal 1878. Oggi il suo Cru Bio è stato premiato come Miglior Olio IGP 2026…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ciccolella-rose-olio-igp-puglia/",
-        "pubDate": "2026-09-02T06:37:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Fashion crush del mese: cosa comprare a Settembre",
         "description": "Il capitolo vacanze è ufficialmente archiviato, il ritorno al solito tran tran è già iniziato e con lui sono tornati anche i mille impegni quotidiani da incastr…",
         "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-a-settembre-shopping-rientro-in-citta-blazer-jeans-idee-donna-autunno-993803",
@@ -127,63 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_FASHION-_CRUSH__SETTEMBRE2026.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Lo chef che ha chiuso il suo ristorante a Modica: “Il fine dining è in crisi, servono formule più snelle”",
-        "description": "Dopo la chiusura di KuFù, Luca Stracquadanio riparte da Marina di Ragusa e immagina ristoranti più semplici, con meno costi e meno personale…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/luca-stracquadanio-kufu-modica-pozzallo/",
-        "pubDate": "2026-09-02T06:29:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Canada era più facile vendere vino negli Stati Uniti che nella provincia accanto. Ma ora cambia tutto",
-        "description": "Nove province hanno firmato l’accordo sulle vendite dirette di alcolici. Ma tasse, monopoli e regole locali continuano a complicare il mercato…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/in-canada-era-piu-facile-vendere-vino-negli-stati-uniti-che-nella-provincia-accanto-ma-ora-cambia-tutto/",
-        "pubDate": "2026-09-02T05:44:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ardbeg Trudernish, il nuovo single malt 15 anni entra nel gamma permanente",
-        "description": "Ardbeg presenta Ardbeg Trudernish, il nuovo single malt di Islay che entra stabilmente nel core range della Distilleria. È il primo whisky Ardbeg invecchiato 15…",
-        "link": "https://www.winemag.it/ardbeg-trudernish-il-nuovo-single-malt-15-anni-entra-nel-gamma-permanente/",
-        "pubDate": "2026-09-02T04:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Greta Scarano inaugura l’83esima Mostra del Cinema di Venezia con il tradizionale bagno al Lido, firmato Giorgio Armani",
-        "description": "L&#8217;83esima edizione della Mostra del Cinema di Venezia è ufficialmente iniziata. Non con le prime proiezioni o il red carpet di apertura, che avverrà solo …",
-        "link": "https://www.grazia.it/moda/celebrity-style/greta-scarano-mostra-del-cinema-di-venezia-2026-bagno-inaugurazione-994093",
-        "pubDate": "2026-09-01T20:01:38+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-greta-Scarano-venezia-mostra-del-cinema-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il maccu di fave di Bartolo Favaloro: la ricetta che racconta un’isola",
-        "description": "Bartolo Favaloro fa il personal chef, cucina nelle case di chi lo chiama, e porta con sé una storia che parte da Lipari. È lì che ha imparato i primi gesti in c…",
-        "link": "https://www.gustoblog.it/2026/09/01/il-maccu-di-fave-di-bartolo-favaloro-la-ricetta-che-racconta-unisola/",
-        "pubDate": "2026-09-01T16:32:50+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "10 tendenze dalle sfilate Autunno Inverno 2026/27 che indosseremo nei prossimi mesi",
-        "description": "Le vacanze sono state archiviate (almeno per la maggior parte di noi) ed è arrivato il momento di pensare al futuro. Senza andare troppo lontano certo, ma appen…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/tendenze-moda-abbigliamento-donna-autunno-inverno-2026-27-sfilate-960425",
-        "pubDate": "2026-09-01T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/03/00_DESKTOP_trend_sfilate_FW26-27.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Come mantenere l’abbronzatura a lungo: consigli per una pelle dorata",
+        "description": "Una pelle ben idratata, detersa senza stress e protetta dai raggi UV conserva più a lungo un colorito uniforme. Ecco come costruire la routine giusta dopo l’est…",
+        "link": "https://www.stylosophy.it/articolo/come-mantenere-labbronzatura-a-lungo-consigli-per-una-pelle-dorata/253571/",
+        "pubDate": "2026-09-03T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Venezia 2026, Greta Scarano inaugura la 83° edizione del Festival con un total Look firmato Giorgio Armani",
         "description": "Greta Scarano sfila a piedi nudi sul bagnasciuga durante il tradizionale bagno al Lido che dà il via alla Mostra del Cinema di Venezia 2026 con un total look fi…",
@@ -354,18 +363,90 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Mascara trasparente: il prodotto che si prende cura delle tue ciglia e dona un finish naturale",
-        "description": "Scopri il segreto di uno sguardo fresco e curato con un solo gesto. Il mascara trasparente è l’alleato discreto che unisce trattamento e bellezza.…",
-        "link": "https://www.stylosophy.it/articolo/mascara-trasparente-il-prodotto-che-si-prende-cura-delle-tue-ciglia-e-dona-un-finish-naturale/238940/",
-        "pubDate": "2026-08-29T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La Guida Michelin ha abbastanza ispettori?",
+        "description": "Con la guida gommata che sta ormai sfiorando i 20 mila ristoranti segnalati nel mondo, diversi addetti ai lavoro stanno cominciando a porsi il problema.\nL'artic…",
+        "link": "https://www.dissapore.com/notizie/la-guida-michelin-ha-abbastanza-ispettori/",
+        "pubDate": "2026-09-03T10:20:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/michelin-posate-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Franchino er criminale e l’autenticità dei ristoranti in tv",
+        "description": "Nuovo programma su DMAX condotto da uno youtuber, ex pugile, che vuole portare sul grande schermo i locali dove vanno a mangiare i lavoratori.\nL'articolo Franch…",
+        "link": "https://www.dissapore.com/notizie/franchino-er-criminale-e-lautenticita-dei-ristoranti-in-tv/",
+        "pubDate": "2026-09-03T09:25:17+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La zuppa bianca dell’Andalusia che sembra gazpacho ma si fa con mandorle e pane raffermo",
+        "description": "Si chiama ajoblanco ed è uno dei grandi piatti estivi andalusi. Ad Almáchar il 5 settembre torna perfino la festa che lo celebra…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ajoblanco-zuppa-fredda-andalusia/",
+        "pubDate": "2026-09-03T09:08:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Troppo vino invenduto: la Puglia ora chiede distillazione di crisi, stoccaggio e lotta all’abusivismo",
+        "description": "Durante l'assemblea straordinaria da Cantine Due Palme, a Cellino San Marco, produttori, sindacati e istituzioni hanno firmato un documento programmatico da inv…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/crisi-vino-puglia-distillazione-stoccaggio-assemblea-cantine-due-palme/",
+        "pubDate": "2026-09-03T09:04:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli influencer dichiarano la pubblicità. I giornalisti invece non potrebbero proprio farla",
+        "description": "Inviti, cene offerte e contenuti promozionali hanno confuso i confini. Ma per influencer e giornalisti le regole non sono affatto le stesse…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/giornalisti-influencer-pubblicita-social-ristoranti/",
+        "pubDate": "2026-09-03T07:17:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’osteria più comunista di Livorno: cacciucco, falci e martelli e Bella Ciao",
+        "description": "Si chiama Melafumo: cucina di mare, vino della casa, calcio e iconografia comunista. E con 20-30 euro si mangia ancora parecchio…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/melafumo-livorno-osteria-pesce-cacciucco/",
+        "pubDate": "2026-09-03T06:22:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Calabria un paese di 500 abitanti è diventato famoso per il gelato",
+        "description": "Jacurso ha appena 500 abitanti ma due gelaterie storiche che hanno trasformato il paese in una destinazione per gli amanti del gelato…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/jacurso-borgo-gelato-calabria/",
+        "pubDate": "2026-09-03T06:21:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Caldo record, trote e storioni in crisi: a rischio anche il caviale italiano",
+        "description": "Il caldo estivo e la scarsità d’acqua stanno mettendo sotto pressione in queste settimane gli allevamenti italiani di trote e storioni, soprattutto nel Nord Ita…",
+        "link": "https://www.gustoblog.it/2026/09/03/caldo-record-trote-e-storioni-in-crisi-a-rischio-anche-il-caviale-italiano/",
+        "pubDate": "2026-09-03T06:02:45+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Cosa sta succedendo alle cozze europee",
+        "description": "In Italia nel 2024 alcuni allevamenti hanno registrato perdite del 75-100%. Intanto crescono le importazioni di prodotto cileno…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cosa-sta-succedendo-alle-cozze-europee/",
+        "pubDate": "2026-09-03T05:21:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Rasiglia, 40 abitanti e 21 attività commerciali: il borgo dei ruscelli diventato una macchina per turisti",
         "description": "Dieci anni fa non c’erano bar né ristoranti. Oggi Rasiglia è una delle cartoline più sfruttate dell'Umbria e il paese prova a difendersi dal suo successo…",
@@ -403,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Settesoli avvia la produzione di vino dealcolato. Così anche la Sicilia entra nel nuovo business",
-        "description": "La cooperativa di Menfi ottiene la licenza dall'Agenzia delle Dogane e diventa la prima cantina siciliana a lanciarsi nella produzione no alcol. Bursi: \"L'impia…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/settesoli-impianto-vino-dealcolato/",
-        "pubDate": "2026-09-02T13:08:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Salsa allo scalogno ed erba cipollina: il tocco cremoso che esalta ogni piatto",
         "description": "La salsa allo scalogno e erba cipollina si prepara oggi, in una cucina di casa, in circa 25 minuti, con scalogno, burro, vino bianco e panna fresca, per accompa…",
         "link": "https://www.gustoblog.it/2026/09/02/salsa-allo-scalogno-ed-erba-cipollina-il-tocco-cremoso-che-esalta-ogni-piatto/",
@@ -428,51 +500,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/12/frutta-1-e1733754354153.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "A Montalcino vendemmia anticipata. Ecco come sarà l’annata 2026 del Brunello",
-        "description": "Il Consorzio guidato da Giacomo Bartolommei ha annunciato la data di inizio della raccolta e diffuso le prime stime sui volumi a pochi giorni dall'inizio della …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/montalcino-vendemmia-anticipata-annata-brunello-docg-2026/",
-        "pubDate": "2026-09-02T08:56:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’Old Fashioned torna di moda: 7 cocktail bar in Campania dove berlo fatto bene",
-        "description": "Un tour Coast to Coast alla ricerca del drink ideale. Lo storico cocktail simbolo della cultura americana riproposto in diverse versioni dai talenti della mixol…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/old-fashioned-campania-migliori-cocktail-bar/",
-        "pubDate": "2026-09-02T08:47:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Con l’olio si guadagnava poco, così piantarono rose. Oggi vendono extravergine in tutto il mondo",
-        "description": "La famiglia Ciccolella coltiva olivi a nord di Bari dal 1878. Oggi il suo Cru Bio è stato premiato come Miglior Olio IGP 2026…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ciccolella-rose-olio-igp-puglia/",
-        "pubDate": "2026-09-02T06:37:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lo chef che ha chiuso il suo ristorante a Modica: “Il fine dining è in crisi, servono formule più snelle”",
-        "description": "Dopo la chiusura di KuFù, Luca Stracquadanio riparte da Marina di Ragusa e immagina ristoranti più semplici, con meno costi e meno personale…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/luca-stracquadanio-kufu-modica-pozzallo/",
-        "pubDate": "2026-09-02T06:29:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Canada era più facile vendere vino negli Stati Uniti che nella provincia accanto. Ma ora cambia tutto",
-        "description": "Nove province hanno firmato l’accordo sulle vendite dirette di alcolici. Ma tasse, monopoli e regole locali continuano a complicare il mercato…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/in-canada-era-piu-facile-vendere-vino-negli-stati-uniti-che-nella-provincia-accanto-ma-ora-cambia-tutto/",
-        "pubDate": "2026-09-02T05:44:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Ardbeg Trudernish, il nuovo single malt 15 anni entra nel gamma permanente",
@@ -515,33 +542,6 @@
         "description": "A Catania, oggi 1 settembre 2026, torna in cucina la pasta alla Norma dietetica, versione più leggera del piatto siciliano preparata senza frittura per chi vuol…",
         "link": "https://www.gustoblog.it/2026/09/01/pasta-alla-norma-leggera-gusto-siciliano-con-meno-calorie/",
         "pubDate": "2026-09-01T13:02:42+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Le proteste dei dipendenti di Starbucks sono diventate un documentario con Susan Sarandon",
-        "description": "Negli Stati Uniti i dipendenti si sono visti negare il ricorso al sindacato da ormai 5 anni e la multinazionale nega l'evidenza.\nL'articolo Le proteste dei dipe…",
-        "link": "https://www.dissapore.com/notizie/le-proteste-dei-dipendenti-di-starbucks-sono-diventate-un-documentario-con-susan-sarandon/",
-        "pubDate": "2026-09-01T11:45:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/sede-starbucks-chiusa-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’impero di Massari colpisce ancora (e anche le sue trovate di marketing)",
-        "description": "La cessione dei dipendenti ad Areas-MyChef, un enorme progetto di ristorazione sul Lago di Garda e un paio di idee per il lancio, non troppo eleganti.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/limpero-di-massari-colpisce-ancora-e-anche-le-sue-trovate-di-marketing/",
-        "pubDate": "2026-09-01T08:54:21+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pellegrini entra tra i marchi storici di interesse nazionale",
-        "description": "Il marchio Pellegrini è stato iscritto nel Registro dei Marchi Storici di Interesse Nazionale dal Ministero delle Imprese e del Made in Italy, attraverso l’Uffi…",
-        "link": "https://www.gustoblog.it/2026/09/01/pellegrini-entra-tra-i-marchi-storici-di-interesse-nazionale/",
-        "pubDate": "2026-09-01T06:02:29+00:00",
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
