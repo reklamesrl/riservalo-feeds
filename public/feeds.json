@@ -1,7 +1,34 @@
 {
-  "generated": "2026-09-03T20:35:19.168102+00:00",
+  "generated": "2026-09-04T10:45:04.446305+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "IKEA sorprende con una nuova, inedita versione della sua libreria più venduta",
+        "description": "La celebre libreria modulare di IKEA si rinnova con una nuova tonalità intensa e una composizione interna più dinamica, pensata per trasformare un classico dell…",
+        "link": "https://www.stylosophy.it/articolo/ikea-sorprende-con-una-nuova-inedita-versione-della-sua-libreria-piu-venduta/253583/",
+        "pubDate": "2026-09-04T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Barilla si dà al mac and cheese",
+        "description": "L'operazione rafforzerà ulteriormente la posizione della multinazionale di Parma sul mercato americano.\nL'articolo Barilla si dà al mac and cheese proviene da D…",
+        "link": "https://www.dissapore.com/notizie/barilla-si-da-al-mac-and-cheese/",
+        "pubDate": "2026-09-04T07:58:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/goodles-barilla-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Surgelati da record: il mercato vale 6,1 miliardi e i consumi superano un miliardo di tonnellate",
+        "description": "I surgelati in Italia hanno superato anche nel 2025 la soglia del milione di tonnellate consumate, arrivando a 1.040.596 tonnellate per un valore di 6,1 miliard…",
+        "link": "https://www.gustoblog.it/2026/09/04/surgelati-da-record-il-mercato-vale-61-miliardi-e-i-consumi-superano-un-miliardo-di-tonnellate/",
+        "pubDate": "2026-09-04T06:02:46+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Cantina Kurtatsch, fatturato record a 12,34 milioni di euro: crescita dell’11,08%",
         "description": "Cantina Kurtatsch chiude l’esercizio 2025/2026 con il fatturato più alto della sua storia. La cooperativa altoatesina, fondata nel 1900 e oggi composta da 190 f…",
@@ -154,36 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/09/bea-valli-pantaloni-beige-apertura.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Rosa Prada: quando il red carpet diventa pink",
-        "description": "L&#8217;attrice Laura Dern arriva alla cerimonia di apertura dell’83ª edizione della Mostra Internazionale d’Arte Cinematografica di Venezia in un abito in raso…",
-        "link": "https://www.grazia.it/moda/celebrity-style/prada-abiti-rosa-red-carpet-anne-hathaway-scarlett-johansson-laura-dern-994481",
-        "pubDate": "2026-09-03T08:33:53+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/Prada-rosa-hero-copia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Gli influencer dichiarano la pubblicità. I giornalisti invece non potrebbero proprio farla",
-        "description": "Inviti, cene offerte e contenuti promozionali hanno confuso i confini. Ma per influencer e giornalisti le regole non sono affatto le stesse…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/giornalisti-influencer-pubblicita-social-ristoranti/",
-        "pubDate": "2026-09-03T07:17:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "5 combo colore da indossare a ripetizione questo settembre",
-        "description": "Settembre, tempo di nuovi inizi e di ripartenze. E inevitabilmente, insieme al desiderio di ricominciare (e a un pizzico di malinconia per le vacanze ormai arch…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colori-autunno-abbinamenti-look-moda-settembre-993786",
-        "pubDate": "2026-09-03T06:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_combo_colori_settembre.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "IKEA sorprende con una nuova, inedita versione della sua libreria più venduta",
+        "description": "La celebre libreria modulare di IKEA si rinnova con una nuova tonalità intensa e una composizione interna più dinamica, pensata per trasformare un classico dell…",
+        "link": "https://www.stylosophy.it/articolo/ikea-sorprende-con-una-nuova-inedita-versione-della-sua-libreria-piu-venduta/253583/",
+        "pubDate": "2026-09-04T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Venezia 2026, Bianca Balti lascia tutti senza fiato sul red carpet con una meravigliosa creazione Haute Couture firmata Ilya Migmoon",
         "description": "Bianca Balti ha incantato tutti sul red carpet di Venezia 2026 con una creazione firmata da Ilya Migmoon.…",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "È questa la regione italiana dove andare in vacanza a settembre: mare, eventi e borghi da scoprire nel 2026",
-        "description": "Settembre è il momento ideale per vivere la Puglia lontano dalla folla di agosto: ecco dove andare, cosa vedere e gli appuntamenti da segnare in agenda.…",
-        "link": "https://www.stylosophy.it/articolo/e-questa-la-regione-italiana-dove-andare-in-vacanza-a-settembre-2026/253529/",
-        "pubDate": "2026-08-30T09:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Barilla si dà al mac and cheese",
+        "description": "L'operazione rafforzerà ulteriormente la posizione della multinazionale di Parma sul mercato americano.\nL'articolo Barilla si dà al mac and cheese proviene da D…",
+        "link": "https://www.dissapore.com/notizie/barilla-si-da-al-mac-and-cheese/",
+        "pubDate": "2026-09-04T07:58:08+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/goodles-barilla-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Surgelati da record: il mercato vale 6,1 miliardi e i consumi superano un miliardo di tonnellate",
+        "description": "I surgelati in Italia hanno superato anche nel 2025 la soglia del milione di tonnellate consumate, arrivando a 1.040.596 tonnellate per un valore di 6,1 miliard…",
+        "link": "https://www.gustoblog.it/2026/09/04/surgelati-da-record-il-mercato-vale-61-miliardi-e-i-consumi-superano-un-miliardo-di-tonnellate/",
+        "pubDate": "2026-09-04T06:02:46+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Cantina Kurtatsch, fatturato record a 12,34 milioni di euro: crescita dell’11,08%",
         "description": "Cantina Kurtatsch chiude l’esercizio 2025/2026 con il fatturato più alto della sua storia. La cooperativa altoatesina, fondata nel 1900 e oggi composta da 190 f…",
@@ -524,24 +542,6 @@
         "description": "Il caldo estivo e la scarsità d’acqua stanno mettendo sotto pressione in queste settimane gli allevamenti italiani di trote e storioni, soprattutto nel Nord Ita…",
         "link": "https://www.gustoblog.it/2026/09/03/caldo-record-trote-e-storioni-in-crisi-a-rischio-anche-il-caviale-italiano/",
         "pubDate": "2026-09-03T06:02:45+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Cosa sta succedendo alle cozze europee",
-        "description": "In Italia nel 2024 alcuni allevamenti hanno registrato perdite del 75-100%. Intanto crescono le importazioni di prodotto cileno…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cosa-sta-succedendo-alle-cozze-europee/",
-        "pubDate": "2026-09-03T05:21:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Salsa allo scalogno ed erba cipollina: il tocco cremoso che esalta ogni piatto",
-        "description": "La salsa allo scalogno e erba cipollina si prepara oggi, in una cucina di casa, in circa 25 minuti, con scalogno, burro, vino bianco e panna fresca, per accompa…",
-        "link": "https://www.gustoblog.it/2026/09/02/salsa-allo-scalogno-ed-erba-cipollina-il-tocco-cremoso-che-esalta-ogni-piatto/",
-        "pubDate": "2026-09-02T13:02:39+00:00",
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
