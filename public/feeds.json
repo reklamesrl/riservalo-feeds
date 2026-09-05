@@ -1,7 +1,16 @@
 {
-  "generated": "2026-09-05T14:42:52.001282+00:00",
+  "generated": "2026-09-05T19:59:47.954169+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Se non arriva più carne dal Brasile, abbiamo un problema con la produzione di bresaola",
+        "description": "Dal 3 settembre l'UE ha messo un divieto momentaneo alle importazioni di prodotti animali dal Brasile per mancato rispetto delle norme sugli antimicrobici.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/se-non-arriva-piu-carne-dal-brasile-abbiamo-un-problema-con-la-produzione-di-bresaola/",
+        "pubDate": "2026-09-05T15:24:46+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/zebu-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Pesche alla griglia con prosciutto: l’antipasto estivo che sorprende",
         "description": "A settembre 2026, nelle cucine di casa e sulle tavole degli aperitivi estivi di fine stagione, le pesche alla griglia con prosciutto crudo tornano come antipast…",
@@ -12,6 +21,15 @@
         "source": "Gustoblog"
       },
       {
+        "title": "Le 6 migliori Falanghina del Sannio da stappare per salutare l’estate consigliate dal Gambero Rosso",
+        "description": "Prodotte da cantine ormai punto di riferimento della denominazione o da realtà più recenti, le Falanghina del Sannio che abbiamo selezionato uniscono a un ottim…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/falanghina-del-sannio-migliori-sotto-15-euro-2026/",
+        "pubDate": "2026-09-05T13:01:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Georgina Rodriguez è una visione a Venezia 2026 con il completo Gucci e una cascata di gioielli scintillanti",
         "description": "Georgina Rodriguez incanta tutti sul red carpet di Venezia 2026 con un total look firmato Gucci e gioielli scintillanti.…",
         "link": "https://www.stylosophy.it/articolo/georgina-rodriguez-e-una-visione-a-venezia-2026-con-il-completo-gucci-e-una-cascata-di-gioielli-scintillanti/253615/",
@@ -19,6 +37,33 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Abbiamo assaggiato alla cieca i Prosciutti di Parma del supermercato: i 9 che ci sono piaciuti di più",
+        "description": "Dolcezza, profumo, consistenza e qualità del grasso: abbiamo confrontato i Parma Dop preaffettati e selezionato i nove più convincenti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-prosciutti-di-parma-dop-supermercato/",
+        "pubDate": "2026-09-05T11:17:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I food influencer sono diventati troppo potenti. E ora nessuno crede più alle loro recensioni",
+        "description": "Cene offerte, algoritmi e contenuti sempre entusiasti hanno cambiato il racconto dei ristoranti. Secondo il Guardian, il sistema mostra le prime crepe…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/food-influencer-crisi-autenticita-ristoranti/",
+        "pubDate": "2026-09-05T10:50:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Liguria c’è un bar dove servono ancora le coppe gelato come 40 anni fa",
+        "description": "Al Nettuno di Moneglia niente nostalgia costruita: arredi, atmosfera e soprattutto coppe con panna, liquori e cialdoni sembrano arrivare da un’altra epoca…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/in-liguria-ce-un-bar-dove-servono-ancora-le-coppe-gelato-come-40-anni-fa/",
+        "pubDate": "2026-09-05T10:25:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Siamo nell’era della frutta: ecco il mensile di settembre 2026 del Gambero Rosso",
@@ -136,51 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "A Parigi ho mangiato interiora e patatine in un bistrot. E ho pensato a cosa abbiamo perso in Italia",
-        "description": "Un'andouillette mangiata nel 16° arrondissement diventa il pretesto per una domanda: perché noi italiani abbiamo reso così complicata la cucina semplice…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/andouillette-francia-salsiccia-patatine/",
-        "pubDate": "2026-09-04T12:22:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mangiamo sempre più surgelati",
-        "description": "Esce il rapporto su quanti surgelati consumiamo, e sono molti. Ma sono davvero un'opzione valida sotto tutti i punti di vista?\nL'articolo Mangiamo sempre più su…",
-        "link": "https://www.dissapore.com/notizie/mangiamo-sempre-piu-surgelati/",
-        "pubDate": "2026-09-04T11:45:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/09/pizza-friggitirice-aria-cover.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il pesce si rovescia sul tavolo e si mangia con le mani: cos’è il seafood boil che sta conquistando anche l’Italia",
-        "description": "Granchi, gamberi, cozze, patate e pannocchie arrivano chiusi in un sacchetto da rovesciare sul tavolo. Nato nel Sud degli Stati Uniti, il seafood boil trasforma…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/seafood-boil-nuovo-rito-pesce-milano/",
-        "pubDate": "2026-09-04T11:12:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Total denim a 60 anni? Sì, grazie (e Valeria Golino ci mostra come sfoggiarlo in modo chic)",
-        "description": "È ormai una presenza fissa alla Mostra del Cinema di Venezia e anche quest’anno è tornata al Lido con un film (“Nessun dolore” di Gianni Amelio) molto atteso: V…",
-        "link": "https://www.grazia.it/moda/get-the-look/total-denim-jeans-a-60-anni-come-vestirsi-look-valeria-golino-mostra-del-cinema-di-venezia-994923",
-        "pubDate": "2026-09-04T11:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Valeria_Golino_Total_Denim.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il trucco della cucina cinese per rendere la carne tenerissima (anche quella meno pregiata)",
-        "description": "Si chiama velveting: amido, acqua e una cottura molto rapida aiutano a ottenere bocconi morbidi, succosi e dalla caratteristica consistenza setosa…",
-        "link": "https://www.gamberorosso.it/notizie/ricette/velveting-carne-tenera-ristoranti-cinesi/",
-        "pubDate": "2026-09-04T10:08:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Se non arriva più carne dal Brasile, abbiamo un problema con la produzione di bresaola",
+        "description": "Dal 3 settembre l'UE ha messo un divieto momentaneo alle importazioni di prodotti animali dal Brasile per mancato rispetto delle norme sugli antimicrobici.\nL'ar…",
+        "link": "https://www.dissapore.com/notizie/se-non-arriva-piu-carne-dal-brasile-abbiamo-un-problema-con-la-produzione-di-bresaola/",
+        "pubDate": "2026-09-05T15:24:46+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/zebu-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Pesche alla griglia con prosciutto: l’antipasto estivo che sorprende",
         "description": "A settembre 2026, nelle cucine di casa e sulle tavole degli aperitivi estivi di fine stagione, le pesche alla griglia con prosciutto crudo tornano come antipast…",
         "link": "https://www.gustoblog.it/2026/09/05/pesche-alla-griglia-con-prosciutto-lantipasto-estivo-che-sorprende/",
@@ -374,6 +383,42 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Le 6 migliori Falanghina del Sannio da stappare per salutare l’estate consigliate dal Gambero Rosso",
+        "description": "Prodotte da cantine ormai punto di riferimento della denominazione o da realtà più recenti, le Falanghina del Sannio che abbiamo selezionato uniscono a un ottim…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/falanghina-del-sannio-migliori-sotto-15-euro-2026/",
+        "pubDate": "2026-09-05T13:01:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo assaggiato alla cieca i Prosciutti di Parma del supermercato: i 9 che ci sono piaciuti di più",
+        "description": "Dolcezza, profumo, consistenza e qualità del grasso: abbiamo confrontato i Parma Dop preaffettati e selezionato i nove più convincenti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-prosciutti-di-parma-dop-supermercato/",
+        "pubDate": "2026-09-05T11:17:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I food influencer sono diventati troppo potenti. E ora nessuno crede più alle loro recensioni",
+        "description": "Cene offerte, algoritmi e contenuti sempre entusiasti hanno cambiato il racconto dei ristoranti. Secondo il Guardian, il sistema mostra le prime crepe…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/food-influencer-crisi-autenticita-ristoranti/",
+        "pubDate": "2026-09-05T10:50:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Liguria c’è un bar dove servono ancora le coppe gelato come 40 anni fa",
+        "description": "Al Nettuno di Moneglia niente nostalgia costruita: arredi, atmosfera e soprattutto coppe con panna, liquori e cialdoni sembrano arrivare da un’altra epoca…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/in-liguria-ce-un-bar-dove-servono-ancora-le-coppe-gelato-come-40-anni-fa/",
+        "pubDate": "2026-09-05T10:25:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Siamo nell’era della frutta: ecco il mensile di settembre 2026 del Gambero Rosso",
@@ -475,33 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Il pesce si rovescia sul tavolo e si mangia con le mani: cos’è il seafood boil che sta conquistando anche l’Italia",
-        "description": "Granchi, gamberi, cozze, patate e pannocchie arrivano chiusi in un sacchetto da rovesciare sul tavolo. Nato nel Sud degli Stati Uniti, il seafood boil trasforma…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/seafood-boil-nuovo-rito-pesce-milano/",
-        "pubDate": "2026-09-04T11:12:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il trucco della cucina cinese per rendere la carne tenerissima (anche quella meno pregiata)",
-        "description": "Si chiama velveting: amido, acqua e una cottura molto rapida aiutano a ottenere bocconi morbidi, succosi e dalla caratteristica consistenza setosa…",
-        "link": "https://www.gamberorosso.it/notizie/ricette/velveting-carne-tenera-ristoranti-cinesi/",
-        "pubDate": "2026-09-04T10:08:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Altro che sostenibilità: ogni anno quasi un agricoltore su due viene intossicato dai pesticidi",
-        "description": "Un nuovo studio stima fino a 433 milioni di casi e 11mila morti, mentre l’uso globale di queste sostanze è raddoppiato rispetto al 1990. Ecco quali sono le aree…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/studio-effetti-intossicazione-pesticidi/",
-        "pubDate": "2026-09-04T09:59:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Barilla si dà al mac and cheese",
         "description": "L'operazione rafforzerà ulteriormente la posizione della multinazionale di Parma sul mercato americano.\nL'articolo Barilla si dà al mac and cheese proviene da D…",
         "link": "https://www.dissapore.com/notizie/barilla-si-da-al-mac-and-cheese/",
@@ -509,15 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/goodles-barilla-cover.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "A Pistoia c’è un ristorante dentro un palazzo del Seicento con oltre 3mila vini in cantina",
-        "description": "È Baldo Vino, storica enoteca trasferita a Palazzo Cancellieri. In cucina c’è Marco Cahssai, già alla guida di Atman di Vinci…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/baldo-vino-pistoia-marco-cahssai/",
-        "pubDate": "2026-09-04T07:55:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Surgelati da record: il mercato vale 6,1 miliardi e i consumi superano un miliardo di tonnellate",
@@ -533,15 +542,6 @@
         "description": "Cantina Kurtatsch chiude l’esercizio 2025/2026 con il fatturato più alto della sua storia. La cooperativa altoatesina, fondata nel 1900 e oggi composta da 190 f…",
         "link": "https://www.winemag.it/cantina-kurtatsch-fatturato-record-a-1234-milioni-di-euro-crescita-dell1108/",
         "pubDate": "2026-09-03T16:05:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vendemmia 2026 nei Colli Tortonesi: Timorasso in anticipo e qualità positiva",
-        "description": "La vendemmia 2026 nei Colli Tortonesi è iniziata nella settimana successiva a Ferragosto con Moscato e Dolcetto. Negli stessi giorni è partita anche la raccolta…",
-        "link": "https://www.winemag.it/vendemmia-2026-nei-colli-tortonesi-timorasso-in-anticipo-e-qualita-positiva/",
-        "pubDate": "2026-09-03T16:03:13+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
