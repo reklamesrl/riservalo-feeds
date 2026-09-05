@@ -1,7 +1,25 @@
 {
-  "generated": "2026-09-04T20:21:51.184653+00:00",
+  "generated": "2026-09-05T10:03:08.282850+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "I Peptidi non sono tutti uguali: ecco perché sono preziosi e come imparare a riconoscerli…",
+        "description": "I peptidi sono considerati tra gli attivi più promettenti della skincare, ma non tutti hanno lo stesso effetto. Scopri come riconoscerli e perché saperli distin…",
+        "link": "https://www.stylosophy.it/articolo/i-peptidi-non-sono-tutti-uguali-come-riconoscerli/238017/",
+        "pubDate": "2026-09-05T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Povertà alimentare, una famiglia su tre costretta a tagliare quantità e qualità della spesa",
+        "description": "Il 31% delle famiglie italiane ha ridotto nel 2025 la spesa alimentare in quantità e qualità, in Italia, per effetto dei rincari legati alle guerre in corso, al…",
+        "link": "https://www.gustoblog.it/2026/09/05/poverta-alimentare-una-famiglia-su-tre-costretta-a-tagliare-quantita-e-qualita-della-spesa/",
+        "pubDate": "2026-09-05T06:02:31+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Vogliamo vivere in un mondo dove ai ladri si scrivono cartelli come quello del bar di Chioggia",
         "description": "L'atteggiamento pacato ed educato di chi, di fronte all'ennesimo furto, non reagisce con rabbia ma con gentilezza e ironia, andrebbe ripagato con la solidarietà…",
@@ -163,27 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Surgelati da record: il mercato vale 6,1 miliardi e i consumi superano un miliardo di tonnellate",
-        "description": "I surgelati in Italia hanno superato anche nel 2025 la soglia del milione di tonnellate consumate, arrivando a 1.040.596 tonnellate per un valore di 6,1 miliard…",
-        "link": "https://www.gustoblog.it/2026/09/04/surgelati-da-record-il-mercato-vale-61-miliardi-e-i-consumi-superano-un-miliardo-di-tonnellate/",
-        "pubDate": "2026-09-04T06:02:46+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Rendere autunnale un look estivo: la strategia di stile di Letizia di Spagna è tutta da copiare!",
-        "description": "Dalla Festa nazionale del 12 ottobre a Madrid ai primi impegni a Milano, Letizia di Spagna firma un look autunnale che sembra ancora estivo. Qual è il trucco ch…",
-        "link": "https://www.grazia.it/moda/celebrity-style/rendere-autunnale-look-estivo-trucco-stile-letizia-di-spagna-993630",
-        "pubDate": "2026-09-04T05:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/GettyImages-2280663444-1200x807.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "I Peptidi non sono tutti uguali: ecco perché sono preziosi e come imparare a riconoscerli…",
+        "description": "I peptidi sono considerati tra gli attivi più promettenti della skincare, ma non tutti hanno lo stesso effetto. Scopri come riconoscerli e perché saperli distin…",
+        "link": "https://www.stylosophy.it/articolo/i-peptidi-non-sono-tutti-uguali-come-riconoscerli/238017/",
+        "pubDate": "2026-09-05T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Sneakers comode e leggerissime cercasi: quelle di Laura Dern sono il modello top (e, spoiler, sono l’ideale da indossare tutto il giorno!)",
         "description": "Quando si rientra alla normalità, dopo le vacanze, si fa un po&#8217; fatica a capire come vestirsi in vista dell&#8217;autunno. Sul capitolo scarpe, poi, le di…",
@@ -354,18 +363,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "I tonici alla vitamina C che illuminano la pelle: addio macchie scure e colorito spento",
-        "description": "Dalla skincare coreana alle formule green, i nuovi tonici alla vitamina C promettono di trasformare la pelle rendendola più uniforme e radiosa. Un gesto quotidi…",
-        "link": "https://www.stylosophy.it/articolo/i-tonici-alla-vitamina-c-che-illuminano-la-pelle/238642/",
-        "pubDate": "2026-08-31T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Povertà alimentare, una famiglia su tre costretta a tagliare quantità e qualità della spesa",
+        "description": "Il 31% delle famiglie italiane ha ridotto nel 2025 la spesa alimentare in quantità e qualità, in Italia, per effetto dei rincari legati alle guerre in corso, al…",
+        "link": "https://www.gustoblog.it/2026/09/05/poverta-alimentare-una-famiglia-su-tre-costretta-a-tagliare-quantita-e-qualita-della-spesa/",
+        "pubDate": "2026-09-05T06:02:31+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Vogliamo vivere in un mondo dove ai ladri si scrivono cartelli come quello del bar di Chioggia",
         "description": "L'atteggiamento pacato ed educato di chi, di fronte all'ennesimo furto, non reagisce con rabbia ma con gentilezza e ironia, andrebbe ripagato con la solidarietà…",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Giorgio Locatelli sta spaccando Masterchef Uk: non pensate di portarcelo via di nuovo",
-        "description": "Giorgio Locatelli piace da pazzi al pubblico e alla critica inglese: e se ce lo volessero portare via non solo gastronomicamente ma anche televisivamente? \nL'ar…",
-        "link": "https://www.dissapore.com/tv/giorgio-locatelli-sta-spaccando-masterchef-uk-non-pensate-di-portarcelo-via-di-nuovo/",
-        "pubDate": "2026-09-03T13:44:21+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/Giorgio-Locatelli-e1746694348670.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
