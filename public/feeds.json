@@ -1,7 +1,34 @@
 {
-  "generated": "2026-09-06T10:23:34.649880+00:00",
+  "generated": "2026-09-06T15:01:42.021085+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Bruschette alla crema di melanzane: l’antipasto cremoso e irresistibile pronto in pochi minuti",
+        "description": "A casa, in meno di un’ora, le bruschette alla crema di melanzane diventano un antipasto vegetariano per quattro persone pensato per chi cerca un’alternativa all…",
+        "link": "https://www.gustoblog.it/2026/09/06/bruschette-alla-crema-di-melanzane-lantipasto-cremoso-e-irresistibile-pronto-in-pochi-minuti/",
+        "pubDate": "2026-09-06T13:02:25+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Venezia 2026, Robert Pattinson e Suki Waterhouse incantano tutti sul red carpet: ma occhio anche ai Look!",
+        "description": "Robert Pattinson e Suki Waterhouse hanno sfilato sul red carpet di Venezia 2026 incantando e conquistando tutti: ecco i loro look.…",
+        "link": "https://www.stylosophy.it/articolo/venezia-2026-robert-pattinson-e-suki-waterhouse-incantano-tutti-sul-red-carpet-ma-occhio-anche-ai-look/253620/",
+        "pubDate": "2026-09-06T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Vitigni Piwi in Abruzzo, a Scerni la prima vendemmia sperimentale",
+        "description": "È terminata a Scerni, in provincia di Chieti, la prima vendemmia sperimentale di vitigni Piwi coltivati presso l’azienda agraria dell’Istituto Tecnico Agrario «…",
+        "link": "https://www.winemag.it/vitigni-piwi-in-abruzzo-a-scerni-la-prima-vendemmia-sperimentale/",
+        "pubDate": "2026-09-06T10:27:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "DanielCanzian Ristorante riapre con una sala rinnovata e La Cicchetteria di Daniel",
         "description": "DanielCanzian Ristorante riapre dopo la pausa estiva con una sala rinnovata e un progetto che rafforza il legame tra la cucina dello chef e le sue radici venete…",
@@ -64,6 +91,24 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa comprare ora da H&M, ZARA e Mango: i must have autunnali da mettere subito in wishlist",
+        "description": "Diciamoci la verità: tornare alla solita routine dopo le vacanze richiede sempre una buona dose di coraggio. Ma, se c’è una cosa capace di &#8220;addolcirci la …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-in-autunno-da-hm-zara-mango-capi-vestiti-accessori-must-have-autunnali-994940",
+        "pubDate": "2026-09-06T04:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_cosa_comprare_zara_mango_hm.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Bye bye nero: questi sono i due 2 colori autunnali perfetti per “illuminare” dopo i 40 anni (e la nuance da evitare assolutamente)",
+        "description": "Ogni autunno, molte donne over 40 si rifugiano nel nero senza accorgersi che spegne il viso. Tre colori insospettabili e un grigio traditore cambiano radicalmen…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/colori-autunno-da-indossare-dopo-40-anni-abbigliamento-donna-993628",
+        "pubDate": "2026-09-05T17:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/colori-autunno-dopo-a40-anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Se non arriva più carne dal Brasile, abbiamo un problema con la produzione di bresaola",
@@ -136,54 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "I Peptidi non sono tutti uguali: ecco perché sono preziosi e come imparare a riconoscerli…",
-        "description": "I peptidi sono considerati tra gli attivi più promettenti della skincare, ma non tutti hanno lo stesso effetto. Scopri come riconoscerli e perché saperli distin…",
-        "link": "https://www.stylosophy.it/articolo/i-peptidi-non-sono-tutti-uguali-come-riconoscerli/238017/",
-        "pubDate": "2026-09-05T09:00:00+00:00",
+        "title": "Venezia 2026, Robert Pattinson e Suki Waterhouse incantano tutti sul red carpet: ma occhio anche ai Look!",
+        "description": "Robert Pattinson e Suki Waterhouse hanno sfilato sul red carpet di Venezia 2026 incantando e conquistando tutti: ecco i loro look.…",
+        "link": "https://www.stylosophy.it/articolo/venezia-2026-robert-pattinson-e-suki-waterhouse-incantano-tutti-sul-red-carpet-ma-occhio-anche-ai-look/253620/",
+        "pubDate": "2026-09-06T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Nel paese della ‘nduja c’è una gelateria che la trasforma in gelato",
-        "description": "Succede a Spilinga, patria del celebre salume calabrese. Dominique Gelati lo usa anche per un grande lievitato dolce e piccante…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelato-nduja-spilinga-dominique-gelati/",
-        "pubDate": "2026-09-05T08:21:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sembrano caramelle gommose ma sono piccanti: in Cina questi snack valgono miliardi",
-        "description": "Si chiamano latiao: nascono nello Hunan nel 1998, oggi vengono esportati in oltre 160 Paesi e sui social sono diventati un piccolo fenomeno…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/latiao-snack-cinesi-piccanti-viral/",
-        "pubDate": "2026-09-05T06:53:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Siamo stati nel ristorante che fu il migliore del mondo: niente coltelli, niente dress code e 6mila vini",
-        "description": "Geranium ha tre stelle Michelin e fu numero uno al mondo nel 2022. Oggi sorprende soprattutto per quanto poco assomiglia a un tempio del fine dining…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/geranium-copenhagen-recensione-menu-prezzi/",
-        "pubDate": "2026-09-05T06:12:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Povertà alimentare, una famiglia su tre costretta a tagliare quantità e qualità della spesa",
-        "description": "Il 31% delle famiglie italiane ha ridotto nel 2025 la spesa alimentare in quantità e qualità, in Italia, per effetto dei rincari legati alle guerre in corso, al…",
-        "link": "https://www.gustoblog.it/2026/09/05/poverta-alimentare-una-famiglia-su-tre-costretta-a-tagliare-quantita-e-qualita-della-spesa/",
-        "pubDate": "2026-09-05T06:02:31+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      }
-    ],
-    "moda": [
       {
         "title": "Viaggio in Basilicata a settembre: cosa vedere, dove andare e perché è il momento ideale",
         "description": "A settembre la Basilicata offre temperature più piacevoli, mare ancora vivibile e borghi da scoprire con maggiore tranquillità, da Matera alla costa ionica fino…",
@@ -192,6 +201,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa comprare ora da H&M, ZARA e Mango: i must have autunnali da mettere subito in wishlist",
+        "description": "Diciamoci la verità: tornare alla solita routine dopo le vacanze richiede sempre una buona dose di coraggio. Ma, se c’è una cosa capace di &#8220;addolcirci la …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-in-autunno-da-hm-zara-mango-capi-vestiti-accessori-must-have-autunnali-994940",
+        "pubDate": "2026-09-06T04:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_cosa_comprare_zara_mango_hm.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Bye bye nero: questi sono i due 2 colori autunnali perfetti per “illuminare” dopo i 40 anni (e la nuance da evitare assolutamente)",
+        "description": "Ogni autunno, molte donne over 40 si rifugiano nel nero senza accorgersi che spegne il viso. Tre colori insospettabili e un grigio traditore cambiano radicalmen…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/colori-autunno-da-indossare-dopo-40-anni-abbigliamento-donna-993628",
+        "pubDate": "2026-09-05T17:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/colori-autunno-dopo-a40-anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Georgina Rodriguez è una visione a Venezia 2026 con il completo Gucci e una cascata di gioielli scintillanti",
@@ -217,6 +244,15 @@
         "link": "https://www.grazia.it/moda/tendenze-moda/abbigliamento-palestra-completi-sportivi-leggings-top-allenamento-must-have-back-to-gym-993574",
         "pubDate": "2026-09-05T06:00:00+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_back_to_gym.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Mostra del Cinema di Venezia 2026: tutti gli abiti delle star sul red carpet",
+        "description": "Serata dopo serata, scoprite con noi tutti i look delle star sul tappeto rosso dell&#8217;83esima edizione della Mostra internazionale d&#8217;arte cinematograf…",
+        "link": "https://www.grazia.it/moda/celebrity-style/mostra-del-cinema-2026-abiti-look-star-red-carpet-994346",
+        "pubDate": "2026-09-04T21:36:03+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-venezia-day4-.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
@@ -275,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Mostra del Cinema di Venezia 2026: tutti gli abiti delle star sul red carpet",
-        "description": "Serata dopo serata, scoprite con noi tutti i look delle star sul tappeto rosso dell&#8217;83esima edizione della Mostra internazionale d&#8217;arte cinematograf…",
-        "link": "https://www.grazia.it/moda/celebrity-style/mostra-del-cinema-2026-abiti-look-star-red-carpet-994346",
-        "pubDate": "2026-09-03T19:03:29+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-venezia-day3.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Matilda De Angelis ci ricorda che, in caso di dubbi, una camicia azzurra ci salverà!",
         "description": "Approdata a Venezia per l&#8217;83esima Mostra del Cinema, Matilda De Angelis, illumina il Lido con con una scelta di stile semplice e diretta: una camicia azzu…",
         "link": "https://www.grazia.it/moda/celebrity-style/camicia-azzurra-donna-matilda-de-angelis-venezia-zara-hm-max-co-994687",
@@ -320,24 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Rosa Prada: quando il red carpet diventa pink",
-        "description": "L&#8217;attrice Laura Dern arriva alla cerimonia di apertura dell’83ª edizione della Mostra Internazionale d’Arte Cinematografica di Venezia in un abito in raso…",
-        "link": "https://www.grazia.it/moda/celebrity-style/prada-abiti-rosa-red-carpet-anne-hathaway-scarlett-johansson-laura-dern-994481",
-        "pubDate": "2026-09-03T08:33:53+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/Prada-rosa-hero-copia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "5 combo colore da indossare a ripetizione questo settembre",
-        "description": "Settembre, tempo di nuovi inizi e di ripartenze. E inevitabilmente, insieme al desiderio di ricominciare (e a un pizzico di malinconia per le vacanze ormai arch…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colori-autunno-abbinamenti-look-moda-settembre-993786",
-        "pubDate": "2026-09-03T06:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_combo_colori_settembre.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Venezia 2026, Greta Scarano inaugura la 83° edizione del Festival con un total Look firmato Giorgio Armani",
         "description": "Greta Scarano sfila a piedi nudi sul bagnasciuga durante il tradizionale bagno al Lido che dà il via alla Mostra del Cinema di Venezia 2026 con un total look fi…",
         "link": "https://www.stylosophy.it/articolo/venezia-2026-greta-scarano-inaugura-la-83-edizione-del-festival-con-un-total-look-firmato-giorgio-armani/253563/",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Annalisa, selfie allo specchio con il Look sexy-rock: minigonna in pelle, maglia over e bikers FOTO",
-        "description": "Annalisa, tra relax in vacanza e nuovi impegni di lavoro, si scatta un selfie allo specchio con un look sexy-rock.…",
-        "link": "https://www.stylosophy.it/articolo/annalisa-selfie-allo-specchio-con-il-look-sexy-rock-minigonna-in-pelle-maglia-over-e-bikers-foto/253556/",
-        "pubDate": "2026-09-01T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Bruschette alla crema di melanzane: l’antipasto cremoso e irresistibile pronto in pochi minuti",
+        "description": "A casa, in meno di un’ora, le bruschette alla crema di melanzane diventano un antipasto vegetariano per quattro persone pensato per chi cerca un’alternativa all…",
+        "link": "https://www.gustoblog.it/2026/09/06/bruschette-alla-crema-di-melanzane-lantipasto-cremoso-e-irresistibile-pronto-in-pochi-minuti/",
+        "pubDate": "2026-09-06T13:02:25+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Vitigni Piwi in Abruzzo, a Scerni la prima vendemmia sperimentale",
+        "description": "È terminata a Scerni, in provincia di Chieti, la prima vendemmia sperimentale di vitigni Piwi coltivati presso l’azienda agraria dell’Istituto Tecnico Agrario «…",
+        "link": "https://www.winemag.it/vitigni-piwi-in-abruzzo-a-scerni-la-prima-vendemmia-sperimentale/",
+        "pubDate": "2026-09-06T10:27:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "DanielCanzian Ristorante riapre con una sala rinnovata e La Cicchetteria di Daniel",
         "description": "DanielCanzian Ristorante riapre dopo la pausa estiva con una sala rinnovata e un progetto che rafforza il legame tra la cucina dello chef e le sue radici venete…",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Cartello-bar-chioggia.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Pizza bianca alla romana: la ricetta per farla in casa croccante e ben alveolata",
-        "description": "Chi è passato almeno una volta da un forno di Roma a metà mattina conosce la scena: la teglia lunga appena sfornata, il profumo che arriva fino in strada, il pe…",
-        "link": "https://www.gustoblog.it/2026/09/04/pizza-bianca-alla-romana-la-ricetta-per-farla-in-casa-croccante-e-ben-alveolata/",
-        "pubDate": "2026-09-04T13:16:33+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Pane guttiau, il gusto croccante della tradizione sarda",
-        "description": "Il pane guttiau, specialità della cucina sarda preparata con pane carasau, olio extravergine d’oliva e sale, si porta in tavola in pochi minuti in Sardegna e ne…",
-        "link": "https://www.gustoblog.it/2026/09/04/pane-guttiau-il-gusto-croccante-della-tradizione-sarda/",
-        "pubDate": "2026-09-04T13:02:49+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
