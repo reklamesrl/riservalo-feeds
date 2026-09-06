@@ -1,7 +1,16 @@
 {
-  "generated": "2026-09-06T15:01:42.021085+00:00",
+  "generated": "2026-09-06T20:04:25.506121+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "È stato lo zucchero (e non la carne) a renderci umani",
+        "description": "Non è stata la carne a trasformare il cervello degli ominidi, rendendoci così come siamo. Lo rivela uno studio scientifico, che indaga la dieta di 4 milioni di …",
+        "link": "https://www.dissapore.com/alimentazione/e-stato-lo-zucchero-e-non-la-carne-a-renderci-umani/",
+        "pubDate": "2026-09-06T16:40:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/uomo-mangia-carne-1-e1747302402949.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Bruschette alla crema di melanzane: l’antipasto cremoso e irresistibile pronto in pochi minuti",
         "description": "A casa, in meno di un’ora, le bruschette alla crema di melanzane diventano un antipasto vegetariano per quattro persone pensato per chi cerca un’alternativa all…",
@@ -46,6 +55,24 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Ha aperto dopo il terremoto. Oggi fa gelati al pecorino e granite che convincono anche i siciliani",
+        "description": "All’Antica Latteria dell’Appennino convivono Marche e Sicilia: pecorino, Rosso Piceno e mistrà incontrano granite, cannoli e cremolate…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/antica-latteria-appennino-san-severino-marche-gelato-pecorino/",
+        "pubDate": "2026-09-06T09:43:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Gen Z non ha smesso di bere: a Londra tornano Martini economici e vecchi pub",
+        "description": "Doveva essere la generazione dei mocktail, del wellness e delle serate senza alcol. Ma nei pub e nei bar di Londra i giovani tornano a ordinare Martini a basso …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gen-z-alcol-giovani-londra-pub/",
+        "pubDate": "2026-09-06T09:41:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Viaggio in Basilicata a settembre: cosa vedere, dove andare e perché è il momento ideale",
@@ -151,33 +178,6 @@
         "description": "Dolcezza, profumo, consistenza e qualità del grasso: abbiamo confrontato i Parma Dop preaffettati e selezionato i nove più convincenti…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-prosciutti-di-parma-dop-supermercato/",
         "pubDate": "2026-09-05T11:17:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I food influencer sono diventati troppo potenti. E ora nessuno crede più alle loro recensioni",
-        "description": "Cene offerte, algoritmi e contenuti sempre entusiasti hanno cambiato il racconto dei ristoranti. Secondo il Guardian, il sistema mostra le prime crepe…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/food-influencer-crisi-autenticita-ristoranti/",
-        "pubDate": "2026-09-05T10:50:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Liguria c’è un bar dove servono ancora le coppe gelato come 40 anni fa",
-        "description": "Al Nettuno di Moneglia niente nostalgia costruita: arredi, atmosfera e soprattutto coppe con panna, liquori e cialdoni sembrano arrivare da un’altra epoca…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/in-liguria-ce-un-bar-dove-servono-ancora-le-coppe-gelato-come-40-anni-fa/",
-        "pubDate": "2026-09-05T10:25:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Siamo nell’era della frutta: ecco il mensile di settembre 2026 del Gambero Rosso",
-        "description": "La frutta compare ovunque, nei menu degustazione, sulle pizze, nei cocktail, nei piatti salati, nelle vetrine delle pasticcerie, nei supermercati, nei reel di T…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-settembre-2026/",
-        "pubDate": "2026-09-05T09:29:46+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "È stato lo zucchero (e non la carne) a renderci umani",
+        "description": "Non è stata la carne a trasformare il cervello degli ominidi, rendendoci così come siamo. Lo rivela uno studio scientifico, che indaga la dieta di 4 milioni di …",
+        "link": "https://www.dissapore.com/alimentazione/e-stato-lo-zucchero-e-non-la-carne-a-renderci-umani/",
+        "pubDate": "2026-09-06T16:40:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/05/uomo-mangia-carne-1-e1747302402949.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Bruschette alla crema di melanzane: l’antipasto cremoso e irresistibile pronto in pochi minuti",
         "description": "A casa, in meno di un’ora, le bruschette alla crema di melanzane diventano un antipasto vegetariano per quattro persone pensato per chi cerca un’alternativa all…",
         "link": "https://www.gustoblog.it/2026/09/06/bruschette-alla-crema-di-melanzane-lantipasto-cremoso-e-irresistibile-pronto-in-pochi-minuti/",
@@ -401,6 +410,24 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Ha aperto dopo il terremoto. Oggi fa gelati al pecorino e granite che convincono anche i siciliani",
+        "description": "All’Antica Latteria dell’Appennino convivono Marche e Sicilia: pecorino, Rosso Piceno e mistrà incontrano granite, cannoli e cremolate…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/antica-latteria-appennino-san-severino-marche-gelato-pecorino/",
+        "pubDate": "2026-09-06T09:43:48+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Gen Z non ha smesso di bere: a Londra tornano Martini economici e vecchi pub",
+        "description": "Doveva essere la generazione dei mocktail, del wellness e delle serate senza alcol. Ma nei pub e nei bar di Londra i giovani tornano a ordinare Martini a basso …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gen-z-alcol-giovani-londra-pub/",
+        "pubDate": "2026-09-06T09:41:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Toyota lancia il suo gelato a 86 dollari la confezione",
@@ -511,24 +538,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Sembrano caramelle gommose ma sono piccanti: in Cina questi snack valgono miliardi",
-        "description": "Si chiamano latiao: nascono nello Hunan nel 1998, oggi vengono esportati in oltre 160 Paesi e sui social sono diventati un piccolo fenomeno…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/latiao-snack-cinesi-piccanti-viral/",
-        "pubDate": "2026-09-05T06:53:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Siamo stati nel ristorante che fu il migliore del mondo: niente coltelli, niente dress code e 6mila vini",
-        "description": "Geranium ha tre stelle Michelin e fu numero uno al mondo nel 2022. Oggi sorprende soprattutto per quanto poco assomiglia a un tempio del fine dining…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/geranium-copenhagen-recensione-menu-prezzi/",
-        "pubDate": "2026-09-05T06:12:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Povertà alimentare, una famiglia su tre costretta a tagliare quantità e qualità della spesa",
         "description": "Il 31% delle famiglie italiane ha ridotto nel 2025 la spesa alimentare in quantità e qualità, in Italia, per effetto dei rincari legati alle guerre in corso, al…",
         "link": "https://www.gustoblog.it/2026/09/05/poverta-alimentare-una-famiglia-su-tre-costretta-a-tagliare-quantita-e-qualita-della-spesa/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Vogliamo vivere in un mondo dove ai ladri si scrivono cartelli come quello del bar di Chioggia",
-        "description": "L'atteggiamento pacato ed educato di chi, di fronte all'ennesimo furto, non reagisce con rabbia ma con gentilezza e ironia, andrebbe ripagato con la solidarietà…",
-        "link": "https://www.dissapore.com/notizie/vogliamo-vivere-in-un-mondo-dove-ai-ladri-si-scrivono-cartelli-come-quello-del-bar-di-chioggia/",
-        "pubDate": "2026-09-04T17:31:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Cartello-bar-chioggia.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
