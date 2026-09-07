@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T17:22:32.961243+00:00",
+  "generated": "2026-09-07T21:11:16.005633+00:00",
   "feeds": {
     "offerte": [
       {
@@ -30,6 +30,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Le cozze non sono solo cibo: possono aiutare a pulire l’acqua e ridurre l’eutrofizzazione",
+        "description": "La mitilicoltura produce proteine senza mangimi né consumo di suolo e può contribuire alla qualità dell’acqua e al ciclo dei nutrienti…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cozze-mitilicoltura-ambiente-filtrazione-acqua/",
+        "pubDate": "2026-09-07T13:06:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Risotto ricotta e spinaci cremoso: il primo piatto semplice che conquista tutti",
         "description": "Il risotto ricotta e spinaci porta in tavola, oggi nelle cucine di casa, un primo piatto vegetariano semplice e cremoso, pensato per quattro persone e adatto al…",
         "link": "https://www.gustoblog.it/2026/09/07/risotto-ricotta-e-spinaci-cremoso-il-primo-piatto-semplice-che-conquista-tutti/",
@@ -55,6 +64,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "In Umbria c’è uno chef che prepara fino a 3mila conserve l’anno e le usa tutte nei piatti",
+        "description": "Giulio Gigli, chef di UNE a Foligno, conserva ortaggi, frutta e fiori per tutto l’anno e usa anche i liquidi di governo come salse e condimenti…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/giulio-gigli-une-conserve-foligno/",
+        "pubDate": "2026-09-07T12:56:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Senza Pier Luigi Bersani avremmo avuto lo stesso i maestri della panificazione moderna?",
@@ -131,7 +149,7 @@
       {
         "title": "Fino a 40 anni guidava il muletto. Oggi serve 56 erbe in un ristorante di alta cucina in Carnia",
         "description": "Gloria Clama ha lasciato la fabbrica dopo MasterChef e aperto Indiniò a Raveo. Oggi boschi, erbe spontanee e prodotti carnici guidano la sua cucina…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/allevamento-tonno-rosso-pesce-selvatico-mediterraneo/",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gloria-clama-ristorante-indinio-carnia/",
         "pubDate": "2026-09-07T09:59:45+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Le star a Venezia splendono sul red carpet dell’amfAR Gala",
-        "description": "Piccola deviazione dal tradizionale tappeto rosso del Lido: per la serata di domenica 6 settembre, celebrities e protagonisti di questa Mostra del Cinema di Ven…",
-        "link": "https://www.grazia.it/moda/celebrity-style/amfar-gala-venezia-2026-mostra-del-cinema-995228",
-        "pubDate": "2026-09-07T08:06:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-venezia-amfar-gala.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Per produrre un chilo di tonno rosso “allevato” servono fino a 16 chili di pesce selvatico",
-        "description": "Il tonno rosso si era ripreso dalla sovrapesca. Ora gli impianti di ingrasso crescono e consumano enormi quantità di sardine, acciughe e sgombri…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/allevamento-tonno-rosso-pesce-selvatico-mediterraneo/",
-        "pubDate": "2026-09-07T07:52:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -394,6 +394,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Le cozze non sono solo cibo: possono aiutare a pulire l’acqua e ridurre l’eutrofizzazione",
+        "description": "La mitilicoltura produce proteine senza mangimi né consumo di suolo e può contribuire alla qualità dell’acqua e al ciclo dei nutrienti…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cozze-mitilicoltura-ambiente-filtrazione-acqua/",
+        "pubDate": "2026-09-07T13:06:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Risotto ricotta e spinaci cremoso: il primo piatto semplice che conquista tutti",
         "description": "Il risotto ricotta e spinaci porta in tavola, oggi nelle cucine di casa, un primo piatto vegetariano semplice e cremoso, pensato per quattro persone e adatto al…",
         "link": "https://www.gustoblog.it/2026/09/07/risotto-ricotta-e-spinaci-cremoso-il-primo-piatto-semplice-che-conquista-tutti/",
@@ -410,6 +419,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/acqua-in-bottiglia-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "In Umbria c’è uno chef che prepara fino a 3mila conserve l’anno e le usa tutte nei piatti",
+        "description": "Giulio Gigli, chef di UNE a Foligno, conserva ortaggi, frutta e fiori per tutto l’anno e usa anche i liquidi di governo come salse e condimenti…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/giulio-gigli-une-conserve-foligno/",
+        "pubDate": "2026-09-07T12:56:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Senza Pier Luigi Bersani avremmo avuto lo stesso i maestri della panificazione moderna?",
@@ -486,7 +504,7 @@
       {
         "title": "Fino a 40 anni guidava il muletto. Oggi serve 56 erbe in un ristorante di alta cucina in Carnia",
         "description": "Gloria Clama ha lasciato la fabbrica dopo MasterChef e aperto Indiniò a Raveo. Oggi boschi, erbe spontanee e prodotti carnici guidano la sua cucina…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/allevamento-tonno-rosso-pesce-selvatico-mediterraneo/",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gloria-clama-ristorante-indinio-carnia/",
         "pubDate": "2026-09-07T09:59:45+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/05/uomo-mangia-carne-1-e1747302402949.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Bruschette alla crema di melanzane: l’antipasto cremoso e irresistibile pronto in pochi minuti",
-        "description": "A casa, in meno di un’ora, le bruschette alla crema di melanzane diventano un antipasto vegetariano per quattro persone pensato per chi cerca un’alternativa all…",
-        "link": "https://www.gustoblog.it/2026/09/06/bruschette-alla-crema-di-melanzane-lantipasto-cremoso-e-irresistibile-pronto-in-pochi-minuti/",
-        "pubDate": "2026-09-06T13:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Vitigni Piwi in Abruzzo, a Scerni la prima vendemmia sperimentale",
-        "description": "È terminata a Scerni, in provincia di Chieti, la prima vendemmia sperimentale di vitigni Piwi coltivati presso l’azienda agraria dell’Istituto Tecnico Agrario «…",
-        "link": "https://www.winemag.it/vitigni-piwi-in-abruzzo-a-scerni-la-prima-vendemmia-sperimentale/",
-        "pubDate": "2026-09-06T10:27:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
