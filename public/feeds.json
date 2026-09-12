@@ -1,7 +1,52 @@
 {
-  "generated": "2026-09-12T10:12:18.822810+00:00",
+  "generated": "2026-09-12T15:07:16.719210+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "«Radici Autoctone», il progetto di Tenuta Fontana che valorizza i vitigni tradizionali della Campania",
+        "description": "Riscoprire e valorizzare i vitigni tradizionali della Campania. È l’obiettivo di «Radici Autoctone», il nuovo progetto di Tenuta Fontana, azienda agricola della…",
+        "link": "https://www.winemag.it/radici-autoctone-il-progetto-di-tenuta-fontana-che-valorizza-i-vitigni-tradizionali-della-campania/",
+        "pubDate": "2026-09-12T14:41:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Durante Terra Madre ci sarà la prima Adunata Universale Gelatieri",
+        "description": "Una chicca, tra i tanti appuntamenti di Terra Madre - Salone del Gusto 2026: una vera e propria parata, con cena a seguire nella maestosa Piazza San Carlo. Perc…",
+        "link": "https://www.dissapore.com/notizie/durante-terra-madre-ci-sara-la-prima-adunata-universale-gelatieri/",
+        "pubDate": "2026-09-12T14:00:28+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Insalata di pasta cremosa: il piatto freddo che conquista l’estate",
+        "description": "A casa, in estate, l’insalata di pasta cremosa si prepara in circa 25 minuti, più il riposo in frigorifero, per portare in tavola un primo piatto freddo pensato…",
+        "link": "https://www.gustoblog.it/2026/09/12/insalata-di-pasta-cremosa-il-piatto-freddo-che-conquista-lestate/",
+        "pubDate": "2026-09-12T13:02:16+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Venezia 2026, Melissa Satta brilla sul red carpet con gioielli Cartier e un total Look in denim by Diesel",
+        "description": "Melissa Satta sfila sul red carpet di Venezia 2026 con un total look in denim e gioielli Cartier, un look 'insolito', 'audace' ma ben riuscito, glamour e di sup…",
+        "link": "https://www.stylosophy.it/articolo/venezia-2026-melissa-satta-brilla-sul-red-carpet-con-gioielli-cartier-e-un-total-look-in-denim-by-diesel/253676/",
+        "pubDate": "2026-09-12T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il clima sta trasformando l’Inghilterra in una terra di vino?",
+        "description": "L'estate più calda della storia del Regno Unito ha portato un disastroso raccolto di orzo per la birra ma molto entusiasmo tra i viticoltori locali. Il cambiame…",
+        "link": "https://www.dissapore.com/notizie/il-clima-sta-trasformando-linghilterra-in-una-terra-di-vino/",
+        "pubDate": "2026-09-12T11:36:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/07/orzo.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Cosa c’è veramente in quel gyros? Lo scandalo dietro lo street food greco più amato",
         "description": "Un'indagine dell'associazione non profit Unlocked insieme al network Food For Profit e all'organizzazione ellenica REthink ANIMALS ha fatto emergere una situazi…",
@@ -136,54 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Insalata di patate novelle: il contorno fresco e sfizioso perfetto per l’estate",
-        "description": "A tavola, soprattutto nelle giornate calde e nei pranzi all’aperto, l’insalata di patate novelle e mele verdi è un contorno facile da preparare in casa, pronto …",
-        "link": "https://www.gustoblog.it/2026/09/11/insalata-di-patate-novelle-il-contorno-fresco-e-sfizioso-perfetto-per-lestate/",
-        "pubDate": "2026-09-11T13:02:40+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Venezia 2026, Serena Rossi è una diva glamour d’altri tempi con il suo Look rosso rubino firmato Vivienne Westwood",
-        "description": "Serena Rossi sfila sul red carpet di Venezia 2026 con un meraviglioso abito firmato Vivienne Westwood.…",
-        "link": "https://www.stylosophy.it/articolo/venezia-2026-serena-rossi-e-una-diva-glamour-daltri-tempi-con-il-suo-look-rosso-rubino-firmato-vivienne-westwood/253671/",
-        "pubDate": "2026-09-11T13:00:00+00:00",
+        "title": "Venezia 2026, Melissa Satta brilla sul red carpet con gioielli Cartier e un total Look in denim by Diesel",
+        "description": "Melissa Satta sfila sul red carpet di Venezia 2026 con un total look in denim e gioielli Cartier, un look 'insolito', 'audace' ma ben riuscito, glamour e di sup…",
+        "link": "https://www.stylosophy.it/articolo/venezia-2026-melissa-satta-brilla-sul-red-carpet-con-gioielli-cartier-e-un-total-look-in-denim-by-diesel/253676/",
+        "pubDate": "2026-09-12T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Tommy Hilfiger sfila al Plaza Hotel e riscrive le regole del modern prep americano",
-        "description": "Ci sono location scelte perché spettacolari e altre che raccontano già, prima ancora che inizi la sfilata, una parte della collezione. Per presentare la Spring …",
-        "link": "https://www.grazia.it/moda/news-moda/tommy-hilfiger-sfilata-gigi-hadid-new-york-996276",
-        "pubDate": "2026-09-11T12:45:31+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/Tommy-hero.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Tra anniversari importanti, collaborazioni inaspettate e grandi ritorni, la moda guarda al passato ma pensa già al futuro. E noi di Grazia.it non perdiamo il pa…",
-        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-laperla-barbour-paul-smith-etro-birkenstock-collaborazione-vivaia-rework-ghbass-anniversario-150-anni-husky-original-who-s-next-charleskeith-horizons-996343",
-        "pubDate": "2026-09-11T12:10:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/Senza-titolo-22.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Anna Foglietta e quel look raffinato e disinvolto (indossato al Lido) che ci sembra davvero perfetto per una giornata in ufficio",
-        "description": "Alla vigilia della Mostra del Cinema di Venezia non vedevamo l’ora che si accendessero i riflettori sul red carpet per commentare le mise delle celeb ma, a poch…",
-        "link": "https://www.grazia.it/moda/get-the-look/look-ufficio-donne-over-40-pantaloni-comodo-donna-anna-foglietta-attrice-venezia-mostra-del-cinema-get-the-look-996315",
-        "pubDate": "2026-09-11T10:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Anna_Foglietta_Look_Ufficio_over_40.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Gabicce, la perla dell’Adriatico: mare cristallino, panorami e un borgo bellissimo",
         "description": "Tra spiagge affacciate sull’Adriatico, sentieri panoramici e scorci sul Monte San Bartolo, Gabicce è una delle destinazioni più interessanti delle Marche per ch…",
@@ -354,18 +363,45 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Venezia 2026, Irina Shayk è regina di femminilità e sensualità sul red carpet con l’abito stringato e le autoreggenti FOTO",
-        "description": "Irina Shayk sfila sul red carpet di Venezia 2026 con l'abito stringato e le autoreggenti.…",
-        "link": "https://www.stylosophy.it/articolo/venezia-2026-irina-shayk-e-regina-di-femminilita-e-sensualita-sul-red-carpet-con-labito-stringato-e-le-autoreggenti-foto/253633/",
-        "pubDate": "2026-09-07T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "«Radici Autoctone», il progetto di Tenuta Fontana che valorizza i vitigni tradizionali della Campania",
+        "description": "Riscoprire e valorizzare i vitigni tradizionali della Campania. È l’obiettivo di «Radici Autoctone», il nuovo progetto di Tenuta Fontana, azienda agricola della…",
+        "link": "https://www.winemag.it/radici-autoctone-il-progetto-di-tenuta-fontana-che-valorizza-i-vitigni-tradizionali-della-campania/",
+        "pubDate": "2026-09-12T14:41:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Durante Terra Madre ci sarà la prima Adunata Universale Gelatieri",
+        "description": "Una chicca, tra i tanti appuntamenti di Terra Madre - Salone del Gusto 2026: una vera e propria parata, con cena a seguire nella maestosa Piazza San Carlo. Perc…",
+        "link": "https://www.dissapore.com/notizie/durante-terra-madre-ci-sara-la-prima-adunata-universale-gelatieri/",
+        "pubDate": "2026-09-12T14:00:28+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Insalata di pasta cremosa: il piatto freddo che conquista l’estate",
+        "description": "A casa, in estate, l’insalata di pasta cremosa si prepara in circa 25 minuti, più il riposo in frigorifero, per portare in tavola un primo piatto freddo pensato…",
+        "link": "https://www.gustoblog.it/2026/09/12/insalata-di-pasta-cremosa-il-piatto-freddo-che-conquista-lestate/",
+        "pubDate": "2026-09-12T13:02:16+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il clima sta trasformando l’Inghilterra in una terra di vino?",
+        "description": "L'estate più calda della storia del Regno Unito ha portato un disastroso raccolto di orzo per la birra ma molto entusiasmo tra i viticoltori locali. Il cambiame…",
+        "link": "https://www.dissapore.com/notizie/il-clima-sta-trasformando-linghilterra-in-una-terra-di-vino/",
+        "pubDate": "2026-09-12T11:36:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/07/orzo.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Cosa c’è veramente in quel gyros? Lo scandalo dietro lo street food greco più amato",
         "description": "Un'indagine dell'associazione non profit Unlocked insieme al network Food For Profit e all'organizzazione ellenica REthink ANIMALS ha fatto emergere una situazi…",
@@ -507,42 +543,6 @@
         "link": "https://www.dissapore.com/notizie/il-gelato-buono-a-sostegno-di-gigliopoli-un-progetto-di-inclusione-e-cultura-del-cibo/",
         "pubDate": "2026-09-11T09:46:29+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Gelato-Contemporaneo-2017.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Non abbiamo più la The World’s 50 Best, ora c’è “The 50”: cosa significa esattamente?",
-        "description": "Il fine dining forse è morto, e la The World's 50 Best cambia vestito: cosa sta succedendo al mondo dell'alta ristorazione? \nL'articolo Non abbiamo più la The W…",
-        "link": "https://www.dissapore.com/ristoranti/non-abbiamo-piu-la-the-worlds-50-best-ora-ce-the-50-cosa-significa-esattamente/",
-        "pubDate": "2026-09-11T07:41:35+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/32.-AWARDS-GENERAL19-06-25-@SHARBINSON-@LIGHTFOOTAGENCY-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Asiago Dop di montagna, il formaggio da 400 euro al chilo che stagiona dieci anni",
-        "description": "L’Asiago Dop Prodotto della Montagna stagionato dieci anni è stato aperto oggi, venerdì 11 settembre, ad Asiago, durante Made in Malga, la rassegna nazionale de…",
-        "link": "https://www.gustoblog.it/2026/09/11/asiago-dop-di-montagna-il-formaggio-da-400-euro-al-chilo-che-stagiona-dieci-anni/",
-        "pubDate": "2026-09-11T06:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Verduno Pelaverga, oltre al pepe c’è di più: boom del rosso fresco nella terra del Barolo",
-        "description": "Verduno Pelaverga, oltre al pepe c'è di più: è boom del rosso fresco. Il rotundone non basta a descriverlo. I migliori Verduno Pelaverga 2025\nL'articolo Verduno…",
-        "link": "https://www.winemag.it/verduno-pelaverga-oltre-al-pepe-ce-di-piu-boom-del-rosso-fresco-nella-terra-del-barolo/",
-        "pubDate": "2026-09-10T20:10:55+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Verduno-Pelaverga-oltre-al-pepe-c-e-di-piu-boom-del-rosso-fresco-nella-terra-del-Barolo-vendemmia-2025-2024-migliori-verduno-pelaverga-confronto-4.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Bottura ormai dice quello che vuole, e ci sarà da divertirsi",
-        "description": "Una battuta tutta sbagliata dell'assessore al commercio del Comune di Modena suscita la giustificata reazione dello chef, che ha ormai abbandonato ogni tipo di …",
-        "link": "https://www.dissapore.com/notizie/bottura-ormai-dice-quello-che-vuole-e-ci-sara-da-divertirsi/",
-        "pubDate": "2026-09-10T16:29:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/06/Massimo-Bottura-1.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
