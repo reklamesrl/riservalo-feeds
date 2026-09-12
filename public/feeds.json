@@ -1,7 +1,115 @@
 {
-  "generated": "2026-09-11T20:33:58.187504+00:00",
+  "generated": "2026-09-12T10:12:18.822810+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Cosa c’è veramente in quel gyros? Lo scandalo dietro lo street food greco più amato",
+        "description": "Un'indagine dell'associazione non profit Unlocked insieme al network Food For Profit e all'organizzazione ellenica REthink ANIMALS ha fatto emergere una situazi…",
+        "link": "https://www.dissapore.com/notizie/cosa-ce-veramente-in-quel-gyros-lo-scandalo-dietro-lo-street-food-greco-piu-amato/",
+        "pubDate": "2026-09-12T09:40:40+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/GREEK-PIG-FARMS-AETOLIA-ACARNAIA-05-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Gabicce, la perla dell’Adriatico: mare cristallino, panorami e un borgo bellissimo",
+        "description": "Tra spiagge affacciate sull’Adriatico, sentieri panoramici e scorci sul Monte San Bartolo, Gabicce è una delle destinazioni più interessanti delle Marche per ch…",
+        "link": "https://www.stylosophy.it/articolo/gabicce-la-perla-delladriatico-mare-cristallino-panorami-e-un-borgo-bellissimo/251398/",
+        "pubDate": "2026-09-12T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La Russia ha un enorme problema con i salmoni (e il caviale)",
+        "description": "La pesca al salmone è molto al di sotto delle previsioni e il prezzo di alcune uova è quasi raddoppiato. Tra le possibili cause anche il riscaldamento del Pacif…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caviale-rosso-russia-produzione-calo-prezzi/",
+        "pubDate": "2026-09-12T08:47:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Inghilterra coltivano un ortaggio al buio. Cresce così in fretta che si può sentirlo",
+        "description": "Per secoli il rabarbaro è stato usato soprattutto come rimedio medicinale. Poi gli inglesi hanno iniziato a cuocerlo con lo zucchero, trasformandolo in uno dei …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rabarbaro-regno-unito-dessert-pasticceria/",
+        "pubDate": "2026-09-12T08:43:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Ordinate di meno, dobbiamo svuotare le celle”: così finisce l’estate nelle cucine dei ristoranti",
+        "description": "Dopo mesi di servizi senza tregua, settembre porta con sé una strana sensazione di sollievo: si continua a lavorare, ma tra celle che iniziano a svuotarsi, ritm…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/settembre-cucine-ristoranti-stagionali/",
+        "pubDate": "2026-09-12T08:42:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sul lungomare di Sapri c’è un chiosco del 1950 che fa grandi gelati",
+        "description": "Il chiosco lo aprì Eugenio Crivella nel 1950. Oggi Enzo e Nicoletta portano avanti la tradizione con Tre Coni e gusti che sembrano piatti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/crivella-sapri-gelato-cilento/",
+        "pubDate": "2026-09-12T08:38:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Villa Sparina, il tempo dalla parte del Gavi",
+        "description": "Villa Sparina, il tempo dalla parte del Gavi. La longevità della Docg piemontese: tre vini e un ristorante dove sperimentarla, a Monterotondo\nL'articolo Villa S…",
+        "link": "https://www.winemag.it/villa-sparina-il-tempo-dalla-parte-del-gavi/",
+        "pubDate": "2026-09-12T07:56:19+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Villa-Sparina-il-tempo-dalla-parte-del-Gavi.-La-longevita-della-Docg-piemontese-tre-vini-e-un-ristorante-La-Gallina-dove-sperimentarla-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il sushi arriva nella campagna abruzzese: sei camere e omakase a un chilometro dal mare",
+        "description": "Oishi porta sushi e omakase nelle campagne di Roseto degli Abruzzi: sei camere, piscina, orto giapponese e un progetto di turismo sostenibile…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/oishi-country-retreat-roseto-abruzzi-sushi/",
+        "pubDate": "2026-09-12T06:39:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vino italiano in affanno: export giù del 6,2% nel semestre rosso",
+        "description": "Nel primo semestre del 2026 il vino italiano ha registrato un calo dell’export del 6,2% in valore e del 4% in quantità, secondo l’Osservatorio dell’Unione itali…",
+        "link": "https://www.gustoblog.it/2026/09/12/vino-italiano-in-affanno-export-giu-del-62-nel-semestre-rosso/",
+        "pubDate": "2026-09-12T06:02:19+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Era diventato un vino da poco. Oggi l’Orvieto è tornato grande e 6 bottiglie costano meno di 20 euro",
+        "description": "L'Orvieto, che rappresenta circa il 50% del vino umbro. oggi è apprezzato per la sua struttura, sapidità e longevità, ma per anni è stato considerato solo come …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-orvieto-2026-sotto-20-euro/",
+        "pubDate": "2026-09-12T05:10:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Primo semestre in frenata per il vino italiano all’estero: -6,2% a valore. Ma negli Usa l’estate ha riacceso la domanda",
+        "description": "Segno meno per i primi dieci mercati di destinazione tranne uno. Ma secondo l'Osservatorio Uiv lo shock di mercato degli ultimi dodici mesi potrebbe registrare …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-primo-semestre-2026/",
+        "pubDate": "2026-09-11T15:13:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lavorava nel ristorante delle Torri Gemelle. Si salvò l’11 settembre per il matrimonio della sorella",
+        "description": "Inez Ribustello dirigeva il beverage di Windows on the World, in cima alla Torre Nord. Quel giorno era tornata a casa: 79 suoi colleghi morirono…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/inez-ribustello-windows-on-the-world-11-settembre/",
+        "pubDate": "2026-09-11T15:11:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La protesta per Birra del Borgo alza il tiro: da Borgorose agli uffici di ABInBev",
         "description": "Gli ex dipendenti mettono in scena un vero e proprio \"funerale\" per le storiche produzioni del birrificio, mentre Selvaggia Lucarelli dà visibilità alle loro ra…",
@@ -10,6 +118,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/reale-birra-del-borgo-taglio-netto-personale-nel-birrificio-e1784452952979.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Il latte materno si potrà produrre in laboratorio? La Francia investe 3,7 milioni per provarci",
+        "description": "La startup Numi coltiva cellule mammarie per ottenere componenti del latte umano. Il governo francese finanzia ora lo sviluppo della tecnologia con France 2030…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/latte-materno-coltivato-laboratorio-numi-francia/",
+        "pubDate": "2026-09-11T14:34:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È morto Elio Mezzaioli, l’uomo che per oltre 70 anni ha fatto a Terni sempre le stesse tre pizze",
+        "description": "Elio Mezzaioli iniziò a impastare nel 1952 e trasformò la pizza grassa in un simbolo di Terni. Oggi il forno che porta il suo nome continua a prepararne la rice…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-grassa-elio-terni/",
+        "pubDate": "2026-09-11T14:07:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Insalata di patate novelle: il contorno fresco e sfizioso perfetto per l’estate",
@@ -55,135 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Anna_Foglietta_Look_Ufficio_over_40.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Il gelato buono a sostegno di Gigliopoli, un progetto di inclusione e cultura del cibo",
-        "description": "Un progetto di inclusione a Capo Milazzo, finanziato anche grazie al gelato sta rischiando di chiudere, e i gelatieri scendono in campo.\nL'articolo Il gelato bu…",
-        "link": "https://www.dissapore.com/notizie/il-gelato-buono-a-sostegno-di-gigliopoli-un-progetto-di-inclusione-e-cultura-del-cibo/",
-        "pubDate": "2026-09-11T09:46:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Gelato-Contemporaneo-2017.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gennarino Esposito torna alle origini: nel suo nuovo ristorante recupera i piatti di trent’anni fa",
-        "description": "Il 22 settembre apre Caporivo nella storica sede della Torre del Saracino: 30 coperti, cucina di mercato e ricette della memoria campana…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caporivo-gennarino-esposito-vico-equense/",
-        "pubDate": "2026-09-11T09:36:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Bologna ha una delle cucine più forti d’Italia. Ed è proprio questo il problema",
-        "description": "Tortellini, ragù e mortadella hanno reso Bologna celebre nel mondo. Ma una tradizione così potente può diventare difficile da superare…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/alta-cucina-bologna-tradizione-fine-dining/",
-        "pubDate": "2026-09-11T09:24:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il piccolissimo forno di Milano diventato uno dei migliori panifici d’Italia",
-        "description": "Silvia Cancellieri ha aperto Tondo nel 2020. Oggi lavora farine biologiche di piccoli produttori italiani seguendo raccolti e stagioni…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tondo-forno-radicale-milano-silvia-cancellieri/",
-        "pubDate": "2026-09-11T09:01:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Smog Addio! La Hair Routine protettiva che salva i Capelli in città",
-        "description": "Una nuova routine di bellezza pensata per proteggere i capelli nel ritmo frenetico della vita urbana. Un percorso antipollution che restituisce forza, luce e be…",
-        "link": "https://www.stylosophy.it/articolo/smog-addio-la-hair-routine-protettiva-che-salva-i-capelli-in-citta/243223/",
-        "pubDate": "2026-09-11T09:00:00+00:00",
+        "title": "Gabicce, la perla dell’Adriatico: mare cristallino, panorami e un borgo bellissimo",
+        "description": "Tra spiagge affacciate sull’Adriatico, sentieri panoramici e scorci sul Monte San Bartolo, Gabicce è una delle destinazioni più interessanti delle Marche per ch…",
+        "link": "https://www.stylosophy.it/articolo/gabicce-la-perla-delladriatico-mare-cristallino-panorami-e-un-borgo-bellissimo/251398/",
+        "pubDate": "2026-09-12T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Emma Bonino e quella battaglia contro la fame nel mondo durata quasi cinquant’anni",
-        "description": "Dalla campagna radicale contro lo sterminio per fame agli aiuti umanitari europei fino alla Farnesina: il cibo fu anche una questione politica…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/emma-bonino-fame-mondo-sicurezza-alimentare/",
-        "pubDate": "2026-09-11T08:52:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vigneto non brucia, ma il vino può sapere di cenere: cosa succede con gli incendi",
-        "description": "Si chiama smoke taint: il fumo può contaminare l’uva senza che le fiamme raggiungano il vigneto e lasciare nel vino sentori di cenere e bruciato…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/smoke-taint-vino-incendi-vigneti/",
-        "pubDate": "2026-09-11T07:48:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non abbiamo più la The World’s 50 Best, ora c’è “The 50”: cosa significa esattamente?",
-        "description": "Il fine dining forse è morto, e la The World's 50 Best cambia vestito: cosa sta succedendo al mondo dell'alta ristorazione? \nL'articolo Non abbiamo più la The W…",
-        "link": "https://www.dissapore.com/ristoranti/non-abbiamo-piu-la-the-worlds-50-best-ora-ce-the-50-cosa-significa-esattamente/",
-        "pubDate": "2026-09-11T07:41:35+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/32.-AWARDS-GENERAL19-06-25-@SHARBINSON-@LIGHTFOOTAGENCY-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Le 5 gelaterie contadine dove il gelato nasce in fattoria",
-        "description": "Dal latte appena munto alla frutta coltivata in cascina: cinque aziende agricole piemontesi che hanno trasformato la fattoria in gelateria…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/agrigelaterie-piemonte-migliori/",
-        "pubDate": "2026-09-11T06:33:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Asiago Dop di montagna, il formaggio da 400 euro al chilo che stagiona dieci anni",
-        "description": "L’Asiago Dop Prodotto della Montagna stagionato dieci anni è stato aperto oggi, venerdì 11 settembre, ad Asiago, durante Made in Malga, la rassegna nazionale de…",
-        "link": "https://www.gustoblog.it/2026/09/11/asiago-dop-di-montagna-il-formaggio-da-400-euro-al-chilo-che-stagiona-dieci-anni/",
-        "pubDate": "2026-09-11T06:02:25+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Brioche, cornetto e croissant non sono la stessa cosa. Ecco le vere differenze",
-        "description": "Al bar le usiamo spesso come sinonimi, ma dietro questi tre nomi ci sono impasti, tecniche e tradizioni differenti. Dal burro alla sfogliatura, ecco cosa cambia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/differenza-cornetto-croissant-brioche/",
-        "pubDate": "2026-09-11T05:27:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Monica Bellucci, Jennifer Lawrence e tutte le star meglio vestite della settimana!",
-        "description": "Ogni settimana il guardaroba delle celeb ci regala nuovi spunti da osservare, tra silhouette impeccabili, e grandi maison. Dal red carpet agli eventi della moda…",
-        "link": "https://www.grazia.it/moda/celebrity-style/monica-bellucci-jennifer-lawrence-star-meglio-vestite-abiti-look-996074",
-        "pubDate": "2026-09-11T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_desktop_best_dressed_11_settembre.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Mostra del Cinema di Venezia 2026: tutti gli abiti delle star sul red carpet",
-        "description": "Serata dopo serata, scoprite con noi tutti i look delle star sul tappeto rosso dell&#8217;83esima edizione della Mostra internazionale d&#8217;arte cinematograf…",
-        "link": "https://www.grazia.it/moda/celebrity-style/mostra-del-cinema-2026-abiti-look-star-red-carpet-994346",
-        "pubDate": "2026-09-10T20:30:49+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-grazia-venezia-day9.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Verduno Pelaverga, oltre al pepe c’è di più: boom del rosso fresco nella terra del Barolo",
-        "description": "Verduno Pelaverga, oltre al pepe c'è di più: è boom del rosso fresco. Il rotundone non basta a descriverlo. I migliori Verduno Pelaverga 2025\nL'articolo Verduno…",
-        "link": "https://www.winemag.it/verduno-pelaverga-oltre-al-pepe-ce-di-piu-boom-del-rosso-fresco-nella-terra-del-barolo/",
-        "pubDate": "2026-09-10T20:10:55+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Verduno-Pelaverga-oltre-al-pepe-c-e-di-piu-boom-del-rosso-fresco-nella-terra-del-Barolo-vendemmia-2025-2024-migliori-verduno-pelaverga-confronto-4.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      }
-    ],
-    "moda": [
       {
         "title": "Venezia 2026, Serena Rossi è una diva glamour d’altri tempi con il suo Look rosso rubino firmato Vivienne Westwood",
         "description": "Serena Rossi sfila sul red carpet di Venezia 2026 con un meraviglioso abito firmato Vivienne Westwood.…",
@@ -354,18 +363,108 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Come trasformare un mobile economico in un pezzo di design: 5 idee fai da te",
-        "description": "Spesso basta un po' di vernice e qualche dettaglio ben scelto per cambiare radicalmente l'aspetto di un arredo economico e renderlo molto più sofisticato. Scopr…",
-        "link": "https://www.stylosophy.it/articolo/come-trasformare-un-mobile-economico-in-un-pezzo-di-design-idee-fai-da-te/253627/",
-        "pubDate": "2026-09-07T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Cosa c’è veramente in quel gyros? Lo scandalo dietro lo street food greco più amato",
+        "description": "Un'indagine dell'associazione non profit Unlocked insieme al network Food For Profit e all'organizzazione ellenica REthink ANIMALS ha fatto emergere una situazi…",
+        "link": "https://www.dissapore.com/notizie/cosa-ce-veramente-in-quel-gyros-lo-scandalo-dietro-lo-street-food-greco-piu-amato/",
+        "pubDate": "2026-09-12T09:40:40+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/GREEK-PIG-FARMS-AETOLIA-ACARNAIA-05-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La Russia ha un enorme problema con i salmoni (e il caviale)",
+        "description": "La pesca al salmone è molto al di sotto delle previsioni e il prezzo di alcune uova è quasi raddoppiato. Tra le possibili cause anche il riscaldamento del Pacif…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/caviale-rosso-russia-produzione-calo-prezzi/",
+        "pubDate": "2026-09-12T08:47:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Inghilterra coltivano un ortaggio al buio. Cresce così in fretta che si può sentirlo",
+        "description": "Per secoli il rabarbaro è stato usato soprattutto come rimedio medicinale. Poi gli inglesi hanno iniziato a cuocerlo con lo zucchero, trasformandolo in uno dei …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rabarbaro-regno-unito-dessert-pasticceria/",
+        "pubDate": "2026-09-12T08:43:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Ordinate di meno, dobbiamo svuotare le celle”: così finisce l’estate nelle cucine dei ristoranti",
+        "description": "Dopo mesi di servizi senza tregua, settembre porta con sé una strana sensazione di sollievo: si continua a lavorare, ma tra celle che iniziano a svuotarsi, ritm…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/settembre-cucine-ristoranti-stagionali/",
+        "pubDate": "2026-09-12T08:42:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sul lungomare di Sapri c’è un chiosco del 1950 che fa grandi gelati",
+        "description": "Il chiosco lo aprì Eugenio Crivella nel 1950. Oggi Enzo e Nicoletta portano avanti la tradizione con Tre Coni e gusti che sembrano piatti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/crivella-sapri-gelato-cilento/",
+        "pubDate": "2026-09-12T08:38:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Villa Sparina, il tempo dalla parte del Gavi",
+        "description": "Villa Sparina, il tempo dalla parte del Gavi. La longevità della Docg piemontese: tre vini e un ristorante dove sperimentarla, a Monterotondo\nL'articolo Villa S…",
+        "link": "https://www.winemag.it/villa-sparina-il-tempo-dalla-parte-del-gavi/",
+        "pubDate": "2026-09-12T07:56:19+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Villa-Sparina-il-tempo-dalla-parte-del-Gavi.-La-longevita-della-Docg-piemontese-tre-vini-e-un-ristorante-La-Gallina-dove-sperimentarla-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il sushi arriva nella campagna abruzzese: sei camere e omakase a un chilometro dal mare",
+        "description": "Oishi porta sushi e omakase nelle campagne di Roseto degli Abruzzi: sei camere, piscina, orto giapponese e un progetto di turismo sostenibile…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/oishi-country-retreat-roseto-abruzzi-sushi/",
+        "pubDate": "2026-09-12T06:39:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vino italiano in affanno: export giù del 6,2% nel semestre rosso",
+        "description": "Nel primo semestre del 2026 il vino italiano ha registrato un calo dell’export del 6,2% in valore e del 4% in quantità, secondo l’Osservatorio dell’Unione itali…",
+        "link": "https://www.gustoblog.it/2026/09/12/vino-italiano-in-affanno-export-giu-del-62-nel-semestre-rosso/",
+        "pubDate": "2026-09-12T06:02:19+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Era diventato un vino da poco. Oggi l’Orvieto è tornato grande e 6 bottiglie costano meno di 20 euro",
+        "description": "L'Orvieto, che rappresenta circa il 50% del vino umbro. oggi è apprezzato per la sua struttura, sapidità e longevità, ma per anni è stato considerato solo come …",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-orvieto-2026-sotto-20-euro/",
+        "pubDate": "2026-09-12T05:10:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Primo semestre in frenata per il vino italiano all’estero: -6,2% a valore. Ma negli Usa l’estate ha riacceso la domanda",
+        "description": "Segno meno per i primi dieci mercati di destinazione tranne uno. Ma secondo l'Osservatorio Uiv lo shock di mercato degli ultimi dodici mesi potrebbe registrare …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-primo-semestre-2026/",
+        "pubDate": "2026-09-11T15:13:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lavorava nel ristorante delle Torri Gemelle. Si salvò l’11 settembre per il matrimonio della sorella",
+        "description": "Inez Ribustello dirigeva il beverage di Windows on the World, in cima alla Torre Nord. Quel giorno era tornata a casa: 79 suoi colleghi morirono…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/inez-ribustello-windows-on-the-world-11-settembre/",
+        "pubDate": "2026-09-11T15:11:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "La protesta per Birra del Borgo alza il tiro: da Borgorose agli uffici di ABInBev",
         "description": "Gli ex dipendenti mettono in scena un vero e proprio \"funerale\" per le storiche produzioni del birrificio, mentre Selvaggia Lucarelli dà visibilità alle loro ra…",
@@ -374,6 +473,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/reale-birra-del-borgo-taglio-netto-personale-nel-birrificio-e1784452952979.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Il latte materno si potrà produrre in laboratorio? La Francia investe 3,7 milioni per provarci",
+        "description": "La startup Numi coltiva cellule mammarie per ottenere componenti del latte umano. Il governo francese finanzia ora lo sviluppo della tecnologia con France 2030…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/latte-materno-coltivato-laboratorio-numi-francia/",
+        "pubDate": "2026-09-11T14:34:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È morto Elio Mezzaioli, l’uomo che per oltre 70 anni ha fatto a Terni sempre le stesse tre pizze",
+        "description": "Elio Mezzaioli iniziò a impastare nel 1952 e trasformò la pizza grassa in un simbolo di Terni. Oggi il forno che porta il suo nome continua a prepararne la rice…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-grassa-elio-terni/",
+        "pubDate": "2026-09-11T14:07:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Insalata di patate novelle: il contorno fresco e sfizioso perfetto per l’estate",
@@ -394,51 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Gennarino Esposito torna alle origini: nel suo nuovo ristorante recupera i piatti di trent’anni fa",
-        "description": "Il 22 settembre apre Caporivo nella storica sede della Torre del Saracino: 30 coperti, cucina di mercato e ricette della memoria campana…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caporivo-gennarino-esposito-vico-equense/",
-        "pubDate": "2026-09-11T09:36:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Bologna ha una delle cucine più forti d’Italia. Ed è proprio questo il problema",
-        "description": "Tortellini, ragù e mortadella hanno reso Bologna celebre nel mondo. Ma una tradizione così potente può diventare difficile da superare…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/alta-cucina-bologna-tradizione-fine-dining/",
-        "pubDate": "2026-09-11T09:24:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il piccolissimo forno di Milano diventato uno dei migliori panifici d’Italia",
-        "description": "Silvia Cancellieri ha aperto Tondo nel 2020. Oggi lavora farine biologiche di piccoli produttori italiani seguendo raccolti e stagioni…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tondo-forno-radicale-milano-silvia-cancellieri/",
-        "pubDate": "2026-09-11T09:01:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Emma Bonino e quella battaglia contro la fame nel mondo durata quasi cinquant’anni",
-        "description": "Dalla campagna radicale contro lo sterminio per fame agli aiuti umanitari europei fino alla Farnesina: il cibo fu anche una questione politica…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/emma-bonino-fame-mondo-sicurezza-alimentare/",
-        "pubDate": "2026-09-11T08:52:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vigneto non brucia, ma il vino può sapere di cenere: cosa succede con gli incendi",
-        "description": "Si chiama smoke taint: il fumo può contaminare l’uva senza che le fiamme raggiungano il vigneto e lasciare nel vino sentori di cenere e bruciato…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/smoke-taint-vino-incendi-vigneti/",
-        "pubDate": "2026-09-11T07:48:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Non abbiamo più la The World’s 50 Best, ora c’è “The 50”: cosa significa esattamente?",
         "description": "Il fine dining forse è morto, e la The World's 50 Best cambia vestito: cosa sta succedendo al mondo dell'alta ristorazione? \nL'articolo Non abbiamo più la The W…",
         "link": "https://www.dissapore.com/ristoranti/non-abbiamo-piu-la-the-worlds-50-best-ora-ce-the-50-cosa-significa-esattamente/",
@@ -446,15 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/32.-AWARDS-GENERAL19-06-25-@SHARBINSON-@LIGHTFOOTAGENCY-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Le 5 gelaterie contadine dove il gelato nasce in fattoria",
-        "description": "Dal latte appena munto alla frutta coltivata in cascina: cinque aziende agricole piemontesi che hanno trasformato la fattoria in gelateria…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/agrigelaterie-piemonte-migliori/",
-        "pubDate": "2026-09-11T06:33:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Asiago Dop di montagna, il formaggio da 400 euro al chilo che stagiona dieci anni",
@@ -466,15 +529,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Brioche, cornetto e croissant non sono la stessa cosa. Ecco le vere differenze",
-        "description": "Al bar le usiamo spesso come sinonimi, ma dietro questi tre nomi ci sono impasti, tecniche e tradizioni differenti. Dal burro alla sfogliatura, ecco cosa cambia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/differenza-cornetto-croissant-brioche/",
-        "pubDate": "2026-09-11T05:27:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Verduno Pelaverga, oltre al pepe c’è di più: boom del rosso fresco nella terra del Barolo",
         "description": "Verduno Pelaverga, oltre al pepe c'è di più: è boom del rosso fresco. Il rotundone non basta a descriverlo. I migliori Verduno Pelaverga 2025\nL'articolo Verduno…",
         "link": "https://www.winemag.it/verduno-pelaverga-oltre-al-pepe-ce-di-piu-boom-del-rosso-fresco-nella-terra-del-barolo/",
@@ -484,15 +538,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Il gelato del futuro ha radici liguri: la svolta green e inclusiva della Gelateria San Giorgio",
-        "description": "Tre stelle Food Made Good, una proposta più ampia tra vegano e lactose-free e una nuova nocciola di filiera: la gelateria di Portofino vive una stagione di fort…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-san-giorgio-portofino-nocciola-monferrato-agrimontana/",
-        "pubDate": "2026-09-10T17:25:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Bottura ormai dice quello che vuole, e ci sarà da divertirsi",
         "description": "Una battuta tutta sbagliata dell'assessore al commercio del Comune di Modena suscita la giustificata reazione dello chef, che ha ormai abbandonato ogni tipo di …",
         "link": "https://www.dissapore.com/notizie/bottura-ormai-dice-quello-che-vuole-e-ci-sara-da-divertirsi/",
@@ -500,51 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/06/Massimo-Bottura-1.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Son tutti curiosi di vedere cosa farà il CEO di Starbucks nel prossimo biennio",
-        "description": "A metà mandato Brian Niccol ha risollevato le sorti di Starbucks ma nel futuro bisognerà fare i conti con licenziamenti e sindacato.\nL'articolo Son tutti curios…",
-        "link": "https://www.dissapore.com/notizie/son-tutti-curiosi-di-vedere-cosa-fara-il-ceo-di-starbucks-nel-prossimo-biennio/",
-        "pubDate": "2026-09-10T15:56:07+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/starbucks-corea-1-scaled-e1781523538884.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vigneti abusivi e uve da tavola che diventano vino. Ora i produttori pugliesi dicono basta alla produzione fantasma",
-        "description": "La mancanza di dati ha favorito, in questi anni, il proliferare di situazioni poco chiare. Varvaglione: \"Serve uno schedario vitivinicolo per combattere l'abusi…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/puglia-vigneti-abusivi-schedario-vitivinicolo-marzia-varvaglione/",
-        "pubDate": "2026-09-10T15:16:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Con questo clima i disciplinari del vino vanno cambiati ogni 5 anni”. Il monito di Carlo Alberto Panont",
-        "description": "L'uomo dei disciplinari invita a cambiare le regole produttive per non mettere a rischio il sistema. Su cosa puntare? Revisione del pacchetto ampelografico, ric…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/cambiamenti-climatici-disciplinari-vecchi-carlo-alberto-panont/",
-        "pubDate": "2026-09-10T15:08:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Amori & Incantesimi 2, il Midnight Margarita diventa un cocktail ready-to-drink",
-        "description": "La scena delle sorelle Owens che, nel cuore della notte, ballano in cucina tra musica, risate e Margarita è tra le più riconoscibili di Amori &#38; Incantesimi.…",
-        "link": "https://www.winemag.it/amori-incantesimi-2-il-midnight-margarita-diventa-un-cocktail-ready-to-drink/",
-        "pubDate": "2026-09-10T15:01:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Taverna 41, dieci anni e una nuova sala sul lungomare di Civitanova Marche",
-        "description": "Dieci anni dopo l’apertura, Taverna 41 amplia i propri spazi con una nuova sala di 120 metri quadrati sul lungomare di Civitanova Marche. Il progetto, realizzat…",
-        "link": "https://www.winemag.it/taverna-41-dieci-anni-e-una-nuova-sala-sul-lungomare-di-civitanova-marche/",
-        "pubDate": "2026-09-10T14:39:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
