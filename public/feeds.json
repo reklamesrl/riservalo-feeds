@@ -1,7 +1,16 @@
 {
-  "generated": "2026-09-12T15:07:16.719210+00:00",
+  "generated": "2026-09-12T20:15:31.341244+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Una cantina-albergo produce Piwi vicino all’aeroporto Milano Malpensa",
+        "description": "Una nuova cantina-albergo produce Piwi vicino aeroporto Milano-Malpensa: è Terradesa, con i suoi vitigni resistenti e tre camere per ospiti. L'enologo? Mario Fa…",
+        "link": "https://www.winemag.it/terradesa-cantina-albergo-piwi-vicino-aeroporto-milano-malpensa-camere-cassano-magnago/",
+        "pubDate": "2026-09-12T17:00:37+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Una-nuova-cantina-albergo-produce-Piwi-vicino-aeroporto-Milano-Malpensa-e-Terradesa-enologo-mario-falcetti-con-i-suoi-vitigni-resistenti-e-tre-camere-per-ospiti-oggi-inaugurazione-6.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "«Radici Autoctone», il progetto di Tenuta Fontana che valorizza i vitigni tradizionali della Campania",
         "description": "Riscoprire e valorizzare i vitigni tradizionali della Campania. È l’obiettivo di «Radici Autoctone», il nuovo progetto di Tenuta Fontana, azienda agricola della…",
@@ -138,6 +147,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Camicie e bluse: le varianti più “cute” dalle nuove collezioni autunnali da mettere in wishlist",
+        "description": "Il capo capace di risolvere all&#8217;istante il dilemma del &#8220;cosa mi metto&#8221;? Beh, credete a noi: una bella camicia può fare davvero la differenza. …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/camicie-bluse-particolari-autunno-2026-nuove-collezioni-autunnali-995052",
+        "pubDate": "2026-09-12T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_desktop_camicie_bluse.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Primo semestre in frenata per il vino italiano all’estero: -6,2% a valore. Ma negli Usa l’estate ha riacceso la domanda",
         "description": "Segno meno per i primi dieci mercati di destinazione tranne uno. Ma secondo l'Osservatorio Uiv lo shock di mercato degli ultimi dodici mesi potrebbe registrare …",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-primo-semestre-2026/",
@@ -163,24 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/06/reale-birra-del-borgo-taglio-netto-personale-nel-birrificio-e1784452952979.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il latte materno si potrà produrre in laboratorio? La Francia investe 3,7 milioni per provarci",
-        "description": "La startup Numi coltiva cellule mammarie per ottenere componenti del latte umano. Il governo francese finanzia ora lo sviluppo della tecnologia con France 2030…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/latte-materno-coltivato-laboratorio-numi-francia/",
-        "pubDate": "2026-09-11T14:34:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "È morto Elio Mezzaioli, l’uomo che per oltre 70 anni ha fatto a Terni sempre le stesse tre pizze",
-        "description": "Elio Mezzaioli iniziò a impastare nel 1952 e trasformò la pizza grassa in un simbolo di Terni. Oggi il forno che porta il suo nome continua a prepararne la rice…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/pizza-grassa-elio-terni/",
-        "pubDate": "2026-09-11T14:07:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -201,6 +201,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Camicie e bluse: le varianti più “cute” dalle nuove collezioni autunnali da mettere in wishlist",
+        "description": "Il capo capace di risolvere all&#8217;istante il dilemma del &#8220;cosa mi metto&#8221;? Beh, credete a noi: una bella camicia può fare davvero la differenza. …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/camicie-bluse-particolari-autunno-2026-nuove-collezioni-autunnali-995052",
+        "pubDate": "2026-09-12T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_desktop_camicie_bluse.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Venezia 2026, Serena Rossi è una diva glamour d’altri tempi con il suo Look rosso rubino firmato Vivienne Westwood",
@@ -261,7 +270,7 @@
         "description": "Serata dopo serata, scoprite con noi tutti i look delle star sul tappeto rosso dell&#8217;83esima edizione della Mostra internazionale d&#8217;arte cinematograf…",
         "link": "https://www.grazia.it/moda/celebrity-style/mostra-del-cinema-2026-abiti-look-star-red-carpet-994346",
         "pubDate": "2026-09-10T20:30:49+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-grazia-venezia-day9.jpg",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-mostra-del-cinema-day-10.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
@@ -320,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Non solo jeans! I capi e gli accessori in denim da puntare adesso (e sfoggiare per tutto l’autunno)",
-        "description": "Intramontabile, versatile, incredibilmente cool: se c’è un alleato infallibile su cui possiamo sempre contare per risolvere al volo qualsiasi dilemma fashion, è…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/denim-jeans-chemisier-camicia-gonna-pantaloni-shopping-autunno-995574",
-        "pubDate": "2026-09-10T05:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_DENIM.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Venezia 2026, Penelope Cruz e Javier Bardem incantano il red carpet con la loro complicità e i loro Look très chic!",
         "description": "Penelope Cruz e Javier Bardem sfilano sul red carpet di Venezia incantando tutti: ma occhio anche ai loro look!…",
         "link": "https://www.stylosophy.it/articolo/venezia-2026-penelope-cruz-e-javier-bardem-incantano-il-red-carpet-con-la-loro-complicita-e-i-loro-look-tres-chic/253657/",
@@ -366,6 +366,15 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Una cantina-albergo produce Piwi vicino all’aeroporto Milano Malpensa",
+        "description": "Una nuova cantina-albergo produce Piwi vicino aeroporto Milano-Malpensa: è Terradesa, con i suoi vitigni resistenti e tre camere per ospiti. L'enologo? Mario Fa…",
+        "link": "https://www.winemag.it/terradesa-cantina-albergo-piwi-vicino-aeroporto-milano-malpensa-camere-cassano-magnago/",
+        "pubDate": "2026-09-12T17:00:37+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Una-nuova-cantina-albergo-produce-Piwi-vicino-aeroporto-Milano-Malpensa-e-Terradesa-enologo-mario-falcetti-con-i-suoi-vitigni-resistenti-e-tre-camere-per-ospiti-oggi-inaugurazione-6.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "«Radici Autoctone», il progetto di Tenuta Fontana che valorizza i vitigni tradizionali della Campania",
         "description": "Riscoprire e valorizzare i vitigni tradizionali della Campania. È l’obiettivo di «Radici Autoctone», il nuovo progetto di Tenuta Fontana, azienda agricola della…",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Il gelato buono a sostegno di Gigliopoli, un progetto di inclusione e cultura del cibo",
-        "description": "Un progetto di inclusione a Capo Milazzo, finanziato anche grazie al gelato sta rischiando di chiudere, e i gelatieri scendono in campo.\nL'articolo Il gelato bu…",
-        "link": "https://www.dissapore.com/notizie/il-gelato-buono-a-sostegno-di-gigliopoli-un-progetto-di-inclusione-e-cultura-del-cibo/",
-        "pubDate": "2026-09-11T09:46:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Gelato-Contemporaneo-2017.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
