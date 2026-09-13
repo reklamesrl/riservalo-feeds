@@ -1,7 +1,88 @@
 {
-  "generated": "2026-09-13T11:12:13.860491+00:00",
+  "generated": "2026-09-13T15:43:24.796442+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Louis Vuitton fa causa a una piccola azienda di tè cinese, e i cinesi si arrabbiano",
+        "description": "Molly tea ha nel logo un fiore che ricorda molto uno sei simboli del marchio francese, tuttavia il mercato cinese non ha apprezzato la mossa.\nL'articolo Louis V…",
+        "link": "https://www.dissapore.com/notizie/luis-vuitton-fa-causa-a-una-piccola-azienda-di-te-cinese-e-i-cinesi-si-arrabbiano/",
+        "pubDate": "2026-09-13T13:41:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/starbucks-corea-1-scaled-e1781523538884.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Riso basmati con pollo al curry e peperoni grigliati: il piatto unico profumato e irresistibile",
+        "description": "A Milano, nelle cucine di casa come nei locali che guardano alla cucina internazionale, il riso basmati con pollo al curry e peperoni grigliati torna oggi tra l…",
+        "link": "https://www.gustoblog.it/2026/09/13/riso-basmati-con-pollo-al-curry-e-peperoni-grigliati-il-piatto-unico-profumato-e-irresistibile/",
+        "pubDate": "2026-09-13T13:02:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Kylie Jenner lancia una capsule collection in pelle con il suo brand di abbigliamento Khy",
+        "description": "Kylie Jenner lancia una capsule collection in pelle con il suo brand di abbigliamento Khy.…",
+        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-una-capsule-collection-in-pelle-con-il-suo-brand-di-abbigliamento-khy/253681/",
+        "pubDate": "2026-09-13T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa ci aspettiamo dai vini di questo torrido 2026?",
+        "description": "Difficile che si prospetti un'ottima annata, probabile che ci venga a costare come le altre. Ma cosa succede, esattamente, alla pianta della vite e al vino che …",
+        "link": "https://www.dissapore.com/bere/cosa-ci-aspettiamo-dai-vini-di-questo-torrido-2026/",
+        "pubDate": "2026-09-13T12:24:59+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/vendemmia-uva-mano-scaled-e1785142399596.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Negli anni Ottanta mangiavamo pesche sciroppate con tonno e maionese. E ci sembrava una grande idea",
+        "description": "Dolci, salate e coperte di maionese: le pesche ripiene di tonno sembrano l’apoteosi della cucina anni Ottanta. Ma la ricetta arriva dal…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pesche-tonno-maionese-ricetta-belga/",
+        "pubDate": "2026-09-13T11:31:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Meno scelta, più successo: perché i locali che vendono una cosa sola continuano a funzionare",
+        "description": "Dal tiramisù al carciofo, fino al burro: sempre più negozi costruiscono la propria identità attorno a un solo prodotto. E mentre sui social aumentano le possibi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/locali-monotematici-ristoranti-un-solo-prodotto/",
+        "pubDate": "2026-09-13T11:27:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 14 anni consegnava pizze a domicilio. Oggi ha una catena di ristoranti in Campania",
+        "description": "Vincenzo Rea ha iniziato da adolescente tra sala, forno e consegne. Oggi Madison conta quattro locali e prepara una nuova apertura, mentre in cucina arriva lo c…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vincenzo-rea-madison-pizza-risto-campania/",
+        "pubDate": "2026-09-13T11:20:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il vino bianco piemontese da 10 euro che ha conquistato 93 punti",
+        "description": "Prodotto sulle colline di Canale sopra a Cuneo dall’azienda Filippo Gallino, è un bianco fresco e sapido capace di raccontare la storia di una famiglia che ha c…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/roero-arneis-filippo-gallino-10-euro/",
+        "pubDate": "2026-09-13T10:05:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Per vent’anni solo tre pasticceri potevano fare questa torta. Ora hanno deciso di svelare la ricetta",
+        "description": "La Resegone fu inventata a Lecco nel 2006 con mais, grano saraceno e mirtilli. Quando due dei tre laboratori hanno chiuso o lasciato la città, i suoi creatori h…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torta-resegone-lecco-ricetta/",
+        "pubDate": "2026-09-13T09:47:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Nelle scatolette di sgombro in UK non c’è alcuno sgombro",
         "description": "Un misto di normative, dispute internazionali sulla pesca e dubbi sulla trasparenza della filiera hanno condotto a un paradosso che danneggia i consumatori.\nL'a…",
@@ -30,6 +111,33 @@
         "source": "Gustoblog"
       },
       {
+        "title": "Tutti lo considerano un dolce tradizionale del Trentino. Ma è stato inventato negli anni Novanta",
+        "description": "Crema pasticcera, confettura di mirtilli e pasta intrecciata: la treccia mòchena nacque a Canezza negli anni Novanta. Oggi viene venduta come specialità tipica …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/treccia-mochena-storia-dolce-trentino/",
+        "pubDate": "2026-09-13T05:50:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Prendete nota: questi sono i pantaloni delle nuove collezioni da tenere d’occhio per l’autunno",
+        "description": "Si avvicina l’autunno e automaticamente i pantaloni tornano ad occupare un posto in prima fila nel nostro guardaroba.&#160; Se fino ad ora li abbiamo lasciati u…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-nuove-collezioni-autunno-modelli-barrel-zara-balloon-eleganti-beige-neri-vita-alta-palazzo-satin-995861",
+        "pubDate": "2026-09-13T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_desktop_pantaloni_fw_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Mostra del Cinema di Venezia 2026: tutti gli abiti delle star sul red carpet",
+        "description": "Serata dopo serata, scoprite con noi tutti i look delle star sul tappeto rosso dell&#8217;83esima edizione della Mostra internazionale d&#8217;arte cinematograf…",
+        "link": "https://www.grazia.it/moda/celebrity-style/mostra-del-cinema-2026-abiti-look-star-red-carpet-994346",
+        "pubDate": "2026-09-12T19:51:55+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-mostra-del-cinema-serata-finale.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Una cantina-albergo produce Piwi vicino all’aeroporto Milano Malpensa",
         "description": "Una nuova cantina-albergo produce Piwi vicino aeroporto Milano-Malpensa: è Terradesa, con i suoi vitigni resistenti e tre camere per ospiti. L'enologo? Mario Fa…",
         "link": "https://www.winemag.it/terradesa-cantina-albergo-piwi-vicino-aeroporto-milano-malpensa-camere-cassano-magnago/",
@@ -37,6 +145,15 @@
         "image": "https://www.winemag.it/wp-content/uploads/2026/09/Una-nuova-cantina-albergo-produce-Piwi-vicino-aeroporto-Milano-Malpensa-e-Terradesa-enologo-mario-falcetti-con-i-suoi-vitigni-resistenti-e-tre-camere-per-ospiti-oggi-inaugurazione-6.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Siamo pronte a dire “bye bye” all’estate ma non allo stile boho! 7 inspo look per un settembre bohémien",
+        "description": "Se una cosa è certa, è che la fine dell’estate richiama puntualmente un periodo di grande fermento, fatto di nuove proposte fashion, nuove tendenze e, inevitabi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/look-stile-boho-autunno-inspo-outfit-instagram-frange-suede-pizzo-995470",
+        "pubDate": "2026-09-12T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_boho.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "«Radici Autoctone», il progetto di Tenuta Fontana che valorizza i vitigni tradizionali della Campania",
@@ -64,126 +181,18 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Venezia 2026, Melissa Satta brilla sul red carpet con gioielli Cartier e un total Look in denim by Diesel",
-        "description": "Melissa Satta sfila sul red carpet di Venezia 2026 con un total look in denim e gioielli Cartier, un look 'insolito', 'audace' ma ben riuscito, glamour e di sup…",
-        "link": "https://www.stylosophy.it/articolo/venezia-2026-melissa-satta-brilla-sul-red-carpet-con-gioielli-cartier-e-un-total-look-in-denim-by-diesel/253676/",
-        "pubDate": "2026-09-12T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il clima sta trasformando l’Inghilterra in una terra di vino?",
-        "description": "L'estate più calda della storia del Regno Unito ha portato un disastroso raccolto di orzo per la birra ma molto entusiasmo tra i viticoltori locali. Il cambiame…",
-        "link": "https://www.dissapore.com/notizie/il-clima-sta-trasformando-linghilterra-in-una-terra-di-vino/",
-        "pubDate": "2026-09-12T11:36:09+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2023/07/orzo.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa c’è veramente in quel gyros? Lo scandalo dietro lo street food greco più amato",
-        "description": "Un'indagine dell'associazione non profit Unlocked insieme al network Food For Profit e all'organizzazione ellenica REthink ANIMALS ha fatto emergere una situazi…",
-        "link": "https://www.dissapore.com/notizie/cosa-ce-veramente-in-quel-gyros-lo-scandalo-dietro-lo-street-food-greco-piu-amato/",
-        "pubDate": "2026-09-12T09:40:40+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/GREEK-PIG-FARMS-AETOLIA-ACARNAIA-05-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Gabicce, la perla dell’Adriatico: mare cristallino, panorami e un borgo bellissimo",
-        "description": "Tra spiagge affacciate sull’Adriatico, sentieri panoramici e scorci sul Monte San Bartolo, Gabicce è una delle destinazioni più interessanti delle Marche per ch…",
-        "link": "https://www.stylosophy.it/articolo/gabicce-la-perla-delladriatico-mare-cristallino-panorami-e-un-borgo-bellissimo/251398/",
-        "pubDate": "2026-09-12T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La Russia ha un enorme problema con i salmoni (e il caviale)",
-        "description": "La pesca al salmone è molto al di sotto delle previsioni e il prezzo di alcune uova è quasi raddoppiato. Tra le possibili cause anche il riscaldamento del Pacif…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caviale-rosso-russia-produzione-calo-prezzi/",
-        "pubDate": "2026-09-12T08:47:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Inghilterra coltivano un ortaggio al buio. Cresce così in fretta che si può sentirlo",
-        "description": "Per secoli il rabarbaro è stato usato soprattutto come rimedio medicinale. Poi gli inglesi hanno iniziato a cuocerlo con lo zucchero, trasformandolo in uno dei …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rabarbaro-regno-unito-dessert-pasticceria/",
-        "pubDate": "2026-09-12T08:43:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Ordinate di meno, dobbiamo svuotare le celle”: così finisce l’estate nelle cucine dei ristoranti",
-        "description": "Dopo mesi di servizi senza tregua, settembre porta con sé una strana sensazione di sollievo: si continua a lavorare, ma tra celle che iniziano a svuotarsi, ritm…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/settembre-cucine-ristoranti-stagionali/",
-        "pubDate": "2026-09-12T08:42:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sul lungomare di Sapri c’è un chiosco del 1950 che fa grandi gelati",
-        "description": "Il chiosco lo aprì Eugenio Crivella nel 1950. Oggi Enzo e Nicoletta portano avanti la tradizione con Tre Coni e gusti che sembrano piatti…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/crivella-sapri-gelato-cilento/",
-        "pubDate": "2026-09-12T08:38:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Villa Sparina, il tempo dalla parte del Gavi",
-        "description": "Villa Sparina, il tempo dalla parte del Gavi. La longevità della Docg piemontese: tre vini e un ristorante dove sperimentarla, a Monterotondo\nL'articolo Villa S…",
-        "link": "https://www.winemag.it/villa-sparina-il-tempo-dalla-parte-del-gavi/",
-        "pubDate": "2026-09-12T07:56:19+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Villa-Sparina-il-tempo-dalla-parte-del-Gavi.-La-longevita-della-Docg-piemontese-tre-vini-e-un-ristorante-La-Gallina-dove-sperimentarla-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il sushi arriva nella campagna abruzzese: sei camere e omakase a un chilometro dal mare",
-        "description": "Oishi porta sushi e omakase nelle campagne di Roseto degli Abruzzi: sei camere, piscina, orto giapponese e un progetto di turismo sostenibile…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/oishi-country-retreat-roseto-abruzzi-sushi/",
-        "pubDate": "2026-09-12T06:39:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vino italiano in affanno: export giù del 6,2% nel semestre rosso",
-        "description": "Nel primo semestre del 2026 il vino italiano ha registrato un calo dell’export del 6,2% in valore e del 4% in quantità, secondo l’Osservatorio dell’Unione itali…",
-        "link": "https://www.gustoblog.it/2026/09/12/vino-italiano-in-affanno-export-giu-del-62-nel-semestre-rosso/",
-        "pubDate": "2026-09-12T06:02:19+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Era diventato un vino da poco. Oggi l’Orvieto è tornato grande e 6 bottiglie costano meno di 20 euro",
-        "description": "L'Orvieto, che rappresenta circa il 50% del vino umbro. oggi è apprezzato per la sua struttura, sapidità e longevità, ma per anni è stato considerato solo come …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-orvieto-2026-sotto-20-euro/",
-        "pubDate": "2026-09-12T05:10:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Camicie e bluse: le varianti più “cute” dalle nuove collezioni autunnali da mettere in wishlist",
-        "description": "Il capo capace di risolvere all&#8217;istante il dilemma del &#8220;cosa mi metto&#8221;? Beh, credete a noi: una bella camicia può fare davvero la differenza. …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/camicie-bluse-particolari-autunno-2026-nuove-collezioni-autunnali-995052",
-        "pubDate": "2026-09-12T05:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_desktop_camicie_bluse.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Kylie Jenner lancia una capsule collection in pelle con il suo brand di abbigliamento Khy",
+        "description": "Kylie Jenner lancia una capsule collection in pelle con il suo brand di abbigliamento Khy.…",
+        "link": "https://www.stylosophy.it/articolo/kylie-jenner-lancia-una-capsule-collection-in-pelle-con-il-suo-brand-di-abbigliamento-khy/253681/",
+        "pubDate": "2026-09-13T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Il segreto per un trucco perfetto dopo i 50: i primer che illuminano e levigano",
         "description": "Scopri come valorizzare la pelle matura con i primer giusti. Un alleato perfetto per un trucco radioso e una base levigata.…",
@@ -192,6 +201,33 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Prendete nota: questi sono i pantaloni delle nuove collezioni da tenere d’occhio per l’autunno",
+        "description": "Si avvicina l’autunno e automaticamente i pantaloni tornano ad occupare un posto in prima fila nel nostro guardaroba.&#160; Se fino ad ora li abbiamo lasciati u…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-nuove-collezioni-autunno-modelli-barrel-zara-balloon-eleganti-beige-neri-vita-alta-palazzo-satin-995861",
+        "pubDate": "2026-09-13T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_desktop_pantaloni_fw_2026.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Mostra del Cinema di Venezia 2026: tutti gli abiti delle star sul red carpet",
+        "description": "Serata dopo serata, scoprite con noi tutti i look delle star sul tappeto rosso dell&#8217;83esima edizione della Mostra internazionale d&#8217;arte cinematograf…",
+        "link": "https://www.grazia.it/moda/celebrity-style/mostra-del-cinema-2026-abiti-look-star-red-carpet-994346",
+        "pubDate": "2026-09-12T19:51:55+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-mostra-del-cinema-serata-finale.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Siamo pronte a dire “bye bye” all’estate ma non allo stile boho! 7 inspo look per un settembre bohémien",
+        "description": "Se una cosa è certa, è che la fine dell’estate richiama puntualmente un periodo di grande fermento, fatto di nuove proposte fashion, nuove tendenze e, inevitabi…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/look-stile-boho-autunno-inspo-outfit-instagram-frange-suede-pizzo-995470",
+        "pubDate": "2026-09-12T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_boho.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Venezia 2026, Melissa Satta brilla sul red carpet con gioielli Cartier e un total Look in denim by Diesel",
@@ -275,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Mostra del Cinema di Venezia 2026: tutti gli abiti delle star sul red carpet",
-        "description": "Serata dopo serata, scoprite con noi tutti i look delle star sul tappeto rosso dell&#8217;83esima edizione della Mostra internazionale d&#8217;arte cinematograf…",
-        "link": "https://www.grazia.it/moda/celebrity-style/mostra-del-cinema-2026-abiti-look-star-red-carpet-994346",
-        "pubDate": "2026-09-10T20:30:49+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-mostra-del-cinema-day-10.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Venezia 2026, Alba Rohrwacher regina di eleganza e raffinatezza con un Look black & white",
         "description": "Alba Rohrwacher sfila sul red carpet di Venezia 2026 catalizzando l'attenzione di tutti e vincendo per eleganza e raffinatezza.…",
         "link": "https://www.stylosophy.it/articolo/venezia-2026-alba-rohrwacher-regina-di-eleganza-e-raffinatezza-con-un-look-black-white/253664/",
@@ -311,15 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Che scarpe indossare quando piove? Niente panico! Ecco i modelli da avere per un look che non teme gli acquazzoni",
-        "description": "Durante i mesi invernali non ci poniamo neanche il problema e, del resto, quando le previsioni meteo non promettono nulla di buono, ci basta rispolverare un pai…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/che-scarpe-indossare-quando-piove-stivali-da-pioggia-hunter-wellington-boots-mocassini-invernali-996134",
-        "pubDate": "2026-09-10T09:50:31+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Che_scarpe_con_pioggia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Il mix perfetto: come trasformare una casa moderna con il giusto tocco vintage",
         "description": "Un incontro armonioso tra passato e presente che trasforma ogni spazio in un ambiente unico e ricco di stile.…",
         "link": "https://www.stylosophy.it/articolo/il-mix-perfetto-come-i-dettagli-vintage-arricchiscono-una-casa-moderna/238739/",
@@ -327,15 +345,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "CYBEX BALIOS S LUX: la città si vive con stile",
-        "description": "In città, quando arriva un bambino, ogni centimetro conta. Nel bagagliaio dell’auto, in ascensore, in casa e durante gli spostamenti quotidiani, riuscire a ridu…",
-        "link": "https://www.grazia.it/moda/news-moda/cybex-balios-s-lux-la-citta-si-vive-con-stile-993701",
-        "pubDate": "2026-09-10T08:38:45+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/Hero-Grazia-14.png",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Venezia 2026, Penelope Cruz e Javier Bardem incantano il red carpet con la loro complicità e i loro Look très chic!",
@@ -354,18 +363,81 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Elettra Lamborghini illumina il red carpet di Venezia 2026 con il suo meraviglioso abito tempestato di cristalli",
-        "description": "Elettra Lamborghini sfila sul red carpet di Venezia 2026 con un meraviglioso abito lungo tempestato di cristalli,…",
-        "link": "https://www.stylosophy.it/articolo/elettra-lamborghini-illumina-il-red-carpet-di-venezia-2026-con-il-suo-meraviglioso-abito-tempestato-di-cristalli/253641/",
-        "pubDate": "2026-09-08T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Louis Vuitton fa causa a una piccola azienda di tè cinese, e i cinesi si arrabbiano",
+        "description": "Molly tea ha nel logo un fiore che ricorda molto uno sei simboli del marchio francese, tuttavia il mercato cinese non ha apprezzato la mossa.\nL'articolo Louis V…",
+        "link": "https://www.dissapore.com/notizie/luis-vuitton-fa-causa-a-una-piccola-azienda-di-te-cinese-e-i-cinesi-si-arrabbiano/",
+        "pubDate": "2026-09-13T13:41:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/starbucks-corea-1-scaled-e1781523538884.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Riso basmati con pollo al curry e peperoni grigliati: il piatto unico profumato e irresistibile",
+        "description": "A Milano, nelle cucine di casa come nei locali che guardano alla cucina internazionale, il riso basmati con pollo al curry e peperoni grigliati torna oggi tra l…",
+        "link": "https://www.gustoblog.it/2026/09/13/riso-basmati-con-pollo-al-curry-e-peperoni-grigliati-il-piatto-unico-profumato-e-irresistibile/",
+        "pubDate": "2026-09-13T13:02:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Cosa ci aspettiamo dai vini di questo torrido 2026?",
+        "description": "Difficile che si prospetti un'ottima annata, probabile che ci venga a costare come le altre. Ma cosa succede, esattamente, alla pianta della vite e al vino che …",
+        "link": "https://www.dissapore.com/bere/cosa-ci-aspettiamo-dai-vini-di-questo-torrido-2026/",
+        "pubDate": "2026-09-13T12:24:59+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/vendemmia-uva-mano-scaled-e1785142399596.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Negli anni Ottanta mangiavamo pesche sciroppate con tonno e maionese. E ci sembrava una grande idea",
+        "description": "Dolci, salate e coperte di maionese: le pesche ripiene di tonno sembrano l’apoteosi della cucina anni Ottanta. Ma la ricetta arriva dal…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pesche-tonno-maionese-ricetta-belga/",
+        "pubDate": "2026-09-13T11:31:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Meno scelta, più successo: perché i locali che vendono una cosa sola continuano a funzionare",
+        "description": "Dal tiramisù al carciofo, fino al burro: sempre più negozi costruiscono la propria identità attorno a un solo prodotto. E mentre sui social aumentano le possibi…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/locali-monotematici-ristoranti-un-solo-prodotto/",
+        "pubDate": "2026-09-13T11:27:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 14 anni consegnava pizze a domicilio. Oggi ha una catena di ristoranti in Campania",
+        "description": "Vincenzo Rea ha iniziato da adolescente tra sala, forno e consegne. Oggi Madison conta quattro locali e prepara una nuova apertura, mentre in cucina arriva lo c…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vincenzo-rea-madison-pizza-risto-campania/",
+        "pubDate": "2026-09-13T11:20:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il vino bianco piemontese da 10 euro che ha conquistato 93 punti",
+        "description": "Prodotto sulle colline di Canale sopra a Cuneo dall’azienda Filippo Gallino, è un bianco fresco e sapido capace di raccontare la storia di una famiglia che ha c…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/roero-arneis-filippo-gallino-10-euro/",
+        "pubDate": "2026-09-13T10:05:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Per vent’anni solo tre pasticceri potevano fare questa torta. Ora hanno deciso di svelare la ricetta",
+        "description": "La Resegone fu inventata a Lecco nel 2006 con mais, grano saraceno e mirtilli. Quando due dei tre laboratori hanno chiuso o lasciato la città, i suoi creatori h…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torta-resegone-lecco-ricetta/",
+        "pubDate": "2026-09-13T09:47:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Nelle scatolette di sgombro in UK non c’è alcuno sgombro",
         "description": "Un misto di normative, dispute internazionali sulla pesca e dubbi sulla trasparenza della filiera hanno condotto a un paradosso che danneggia i consumatori.\nL'a…",
@@ -383,6 +455,15 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
+      },
+      {
+        "title": "Tutti lo considerano un dolce tradizionale del Trentino. Ma è stato inventato negli anni Novanta",
+        "description": "Crema pasticcera, confettura di mirtilli e pasta intrecciata: la treccia mòchena nacque a Canezza negli anni Novanta. Oggi viene venduta come specialità tipica …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/treccia-mochena-storia-dolce-trentino/",
+        "pubDate": "2026-09-13T05:50:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Una cantina-albergo produce Piwi vicino all’aeroporto Milano Malpensa",
@@ -461,87 +542,6 @@
         "description": "Dopo mesi di servizi senza tregua, settembre porta con sé una strana sensazione di sollievo: si continua a lavorare, ma tra celle che iniziano a svuotarsi, ritm…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/settembre-cucine-ristoranti-stagionali/",
         "pubDate": "2026-09-12T08:42:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sul lungomare di Sapri c’è un chiosco del 1950 che fa grandi gelati",
-        "description": "Il chiosco lo aprì Eugenio Crivella nel 1950. Oggi Enzo e Nicoletta portano avanti la tradizione con Tre Coni e gusti che sembrano piatti…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/crivella-sapri-gelato-cilento/",
-        "pubDate": "2026-09-12T08:38:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Villa Sparina, il tempo dalla parte del Gavi",
-        "description": "Villa Sparina, il tempo dalla parte del Gavi. La longevità della Docg piemontese: tre vini e un ristorante dove sperimentarla, a Monterotondo\nL'articolo Villa S…",
-        "link": "https://www.winemag.it/villa-sparina-il-tempo-dalla-parte-del-gavi/",
-        "pubDate": "2026-09-12T07:56:19+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Villa-Sparina-il-tempo-dalla-parte-del-Gavi.-La-longevita-della-Docg-piemontese-tre-vini-e-un-ristorante-La-Gallina-dove-sperimentarla-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il sushi arriva nella campagna abruzzese: sei camere e omakase a un chilometro dal mare",
-        "description": "Oishi porta sushi e omakase nelle campagne di Roseto degli Abruzzi: sei camere, piscina, orto giapponese e un progetto di turismo sostenibile…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/oishi-country-retreat-roseto-abruzzi-sushi/",
-        "pubDate": "2026-09-12T06:39:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vino italiano in affanno: export giù del 6,2% nel semestre rosso",
-        "description": "Nel primo semestre del 2026 il vino italiano ha registrato un calo dell’export del 6,2% in valore e del 4% in quantità, secondo l’Osservatorio dell’Unione itali…",
-        "link": "https://www.gustoblog.it/2026/09/12/vino-italiano-in-affanno-export-giu-del-62-nel-semestre-rosso/",
-        "pubDate": "2026-09-12T06:02:19+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Era diventato un vino da poco. Oggi l’Orvieto è tornato grande e 6 bottiglie costano meno di 20 euro",
-        "description": "L'Orvieto, che rappresenta circa il 50% del vino umbro. oggi è apprezzato per la sua struttura, sapidità e longevità, ma per anni è stato considerato solo come …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-orvieto-2026-sotto-20-euro/",
-        "pubDate": "2026-09-12T05:10:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Primo semestre in frenata per il vino italiano all’estero: -6,2% a valore. Ma negli Usa l’estate ha riacceso la domanda",
-        "description": "Segno meno per i primi dieci mercati di destinazione tranne uno. Ma secondo l'Osservatorio Uiv lo shock di mercato degli ultimi dodici mesi potrebbe registrare …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-primo-semestre-2026/",
-        "pubDate": "2026-09-11T15:13:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lavorava nel ristorante delle Torri Gemelle. Si salvò l’11 settembre per il matrimonio della sorella",
-        "description": "Inez Ribustello dirigeva il beverage di Windows on the World, in cima alla Torre Nord. Quel giorno era tornata a casa: 79 suoi colleghi morirono…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/inez-ribustello-windows-on-the-world-11-settembre/",
-        "pubDate": "2026-09-11T15:11:53+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La protesta per Birra del Borgo alza il tiro: da Borgorose agli uffici di ABInBev",
-        "description": "Gli ex dipendenti mettono in scena un vero e proprio \"funerale\" per le storiche produzioni del birrificio, mentre Selvaggia Lucarelli dà visibilità alle loro ra…",
-        "link": "https://www.dissapore.com/notizie/la-protesta-per-birra-del-borgo-alza-il-tiro-da-borgorose-agli-uffici-di-abinbev/",
-        "pubDate": "2026-09-11T15:07:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/reale-birra-del-borgo-taglio-netto-personale-nel-birrificio-e1784452952979.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il latte materno si potrà produrre in laboratorio? La Francia investe 3,7 milioni per provarci",
-        "description": "La startup Numi coltiva cellule mammarie per ottenere componenti del latte umano. Il governo francese finanzia ora lo sviluppo della tecnologia con France 2030…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/latte-materno-coltivato-laboratorio-numi-francia/",
-        "pubDate": "2026-09-11T14:34:55+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
