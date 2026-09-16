@@ -1,7 +1,43 @@
 {
-  "generated": "2026-09-16T16:16:24.121569+00:00",
+  "generated": "2026-09-16T20:56:59.919026+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Solo otto tavoli e Firenze ai suoi piedi: siamo stati nel nuovo ristorante di Fiesole",
+        "description": "Una vista impareggiabile su Firenze accompagna l’esperienza da Antesi, il nuovo fine dining di Villa San Michele a Fiesole. Otto tavoli e la cucina di Alessandr…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/antesi-villa-san-michele-fiesole/",
+        "pubDate": "2026-09-16T15:51:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La pasta toscana che si condisce con il pane: la ricetta povera dei pici alle briciole",
+        "description": "Pici, pane raffermo, olio, aglio e peperoncino: pochi ingredienti per una delle ricette più semplici della tradizione contadina senese…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pici-alle-briciole-ricetta-toscana-pane-raffermo/",
+        "pubDate": "2026-09-16T15:46:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’uomo che inventò il tubo delle Pringles volle essere sepolto dentro una confezione",
+        "description": "Fredric Baur progettò la celebre confezione cilindrica. Alla sua morte, nel 2008, i figli esaudirono un desiderio che aveva espresso anni prima…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-pringles-tubo-fredric-baur/",
+        "pubDate": "2026-09-16T15:44:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il rarissimo formaggio senza data di nascita che viene ancora affumicato nel camino",
+        "description": "Monia Tiberti produce poche forme di Fatulì al giorno, affumicate nel camino. Ma ha scelto di non aderire al disciplinare del Presidio Slow Food…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fatuli-formaggio-capra-monia-tiberti-valle-camonica/",
+        "pubDate": "2026-09-16T15:34:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Chi ha vinto Pizza Bit Competition 2026 di Molino Dallagiovanna",
         "description": "Il nuovo Dallagiovanna Pizza Ambassador ha conquistato la giuria all'unanimità con una Margherita impeccabile.\nL'articolo Chi ha vinto Pizza Bit Competition 202…",
@@ -10,6 +46,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Ruggiero_Francavilla-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Già tremila anni fa Ulisse e Polifemo ci insegnavano la differenza tra abuso e consumo moderato di vino",
+        "description": "Prima di tutte le ricerche scientifiche sul tema, l'Odissea ha messo a confronto il modello Mediterraneo di consumo moderato con quello irregolare. Una question…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/odissea-ulisse-polifemo-consumo-moderato-abuso-vino/",
+        "pubDate": "2026-09-16T14:52:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Julia Roberts negli anni ’90 lo aveva già capito: il blazer in pelle è il pezzo che non può mancare nel guardaroba autunnale",
@@ -55,6 +100,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "“I cocktail sono diventati troppo complicati”: Remy Savage arriva alla Fondazione Prada a Milano",
+        "description": "Il bartender francese presenta Archivio Isarco, la collezione di drink per Torre, il locale dell'istituzione museale milanese, ispirata alle ricerche della Soci…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/remy-savage-cocktail-fondazione-prada-milano/",
+        "pubDate": "2026-09-16T11:00:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Dario Vitale è il nuovo Creative Director di Emporio Armani e degli accessori Giorgio Armani",
@@ -127,60 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "“I vini dealcolati sono destinati a fallire”. Il produttore che ha scelto un’altra strada",
-        "description": "Si chiama Berstin e nasce da un processo brevettato ideato dal viticoltore toscano Emanuele Graetz: niente fermentazione né successiva rimozione dell’alcol…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/berstin-bevanda-analcolica-bucce-uva/",
-        "pubDate": "2026-09-16T07:26:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel borgo del Conero famoso per il pesce c’è un ristorante che ha scelto di non servirlo",
-        "description": "Vicolo Urbani ha scelto brace, cinghiale, anatra e Black Angus nel cuore di Sirolo. E resta aperto anche quando finisce la stagione turistica…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/vicolo-urbani-sirolo-ristorante-carne/",
-        "pubDate": "2026-09-16T07:20:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La frutta è diventata il nuovo oggetto del desiderio: dai ristoranti a TikTok, la vogliono tutti",
-        "description": "Dai dessert di Cédric Grolet alle mele-brand, dai menu dei ristoranti alla cosmetica: un ingrediente antichissimo è diventato un nuovo codice culturale…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/frutta-trend-cucina-social/",
-        "pubDate": "2026-09-16T07:08:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Arriva l’autunno, è il momento delle giacche “da mezza stagione”: questi sono i modelli che non possono mancare nel vostro guardaroba",
-        "description": "Dedicarsi adesso al cambio degli armadi forse è prematuro ma una cosa è certa: adesso che l’estate è agli sgoccioli cominciare a riorganizzare un po’ il guardar…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/giacche-mezza-stagione-capispalla-leggeri-autunno-trench-giubbotto-di-jeans-blazer-bomber-donna-barn-996826",
-        "pubDate": "2026-09-16T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_giacca_mezza_stagione.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Questo pane armeno si conserva per mesi e torna morbido con un po’ d’acqua",
-        "description": "Il Lavash è un pane sottilissimo legato da secoli alla cultura armena. Oggi viene prodotto anche alle porte di Milano da Karen Avetisyan…",
-        "link": "https://www.gamberorosso.it/notizie/uncategorized/un-forno-di-lavash-in-lombardia-il-pane-armeno-patrimonio-unesco/",
-        "pubDate": "2026-09-15T15:49:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Morto Filippo Baldassarre Fanti, ex presidente del Consorzio del Brunello di Montalcino",
-        "description": "Il Consorzio del vino Brunello di Montalcino esprime cordoglio per la scomparsa di Filippo Baldassarre Fanti, titolare della Tenuta Fanti e presidente dell’ente…",
-        "link": "https://www.winemag.it/morto-filippo-baldassarre-fanti-ex-presidente-del-consorzio-del-brunello-di-montalcino/",
-        "pubDate": "2026-09-15T15:46:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,42 @@
     ],
     "lifestyle": [
       {
+        "title": "Solo otto tavoli e Firenze ai suoi piedi: siamo stati nel nuovo ristorante di Fiesole",
+        "description": "Una vista impareggiabile su Firenze accompagna l’esperienza da Antesi, il nuovo fine dining di Villa San Michele a Fiesole. Otto tavoli e la cucina di Alessandr…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/antesi-villa-san-michele-fiesole/",
+        "pubDate": "2026-09-16T15:51:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La pasta toscana che si condisce con il pane: la ricetta povera dei pici alle briciole",
+        "description": "Pici, pane raffermo, olio, aglio e peperoncino: pochi ingredienti per una delle ricette più semplici della tradizione contadina senese…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pici-alle-briciole-ricetta-toscana-pane-raffermo/",
+        "pubDate": "2026-09-16T15:46:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’uomo che inventò il tubo delle Pringles volle essere sepolto dentro una confezione",
+        "description": "Fredric Baur progettò la celebre confezione cilindrica. Alla sua morte, nel 2008, i figli esaudirono un desiderio che aveva espresso anni prima…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-pringles-tubo-fredric-baur/",
+        "pubDate": "2026-09-16T15:44:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il rarissimo formaggio senza data di nascita che viene ancora affumicato nel camino",
+        "description": "Monia Tiberti produce poche forme di Fatulì al giorno, affumicate nel camino. Ma ha scelto di non aderire al disciplinare del Presidio Slow Food…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fatuli-formaggio-capra-monia-tiberti-valle-camonica/",
+        "pubDate": "2026-09-16T15:34:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Chi ha vinto Pizza Bit Competition 2026 di Molino Dallagiovanna",
         "description": "Il nuovo Dallagiovanna Pizza Ambassador ha conquistato la giuria all'unanimità con una Margherita impeccabile.\nL'articolo Chi ha vinto Pizza Bit Competition 202…",
         "link": "https://www.dissapore.com/notizie/chi-ha-vinto-pizza-bit-competition-2026-di-molino-dallagiovanna/",
@@ -374,6 +410,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Ruggiero_Francavilla-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Già tremila anni fa Ulisse e Polifemo ci insegnavano la differenza tra abuso e consumo moderato di vino",
+        "description": "Prima di tutte le ricerche scientifiche sul tema, l'Odissea ha messo a confronto il modello Mediterraneo di consumo moderato con quello irregolare. Una question…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/odissea-ulisse-polifemo-consumo-moderato-abuso-vino/",
+        "pubDate": "2026-09-16T14:52:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "«Non mangio mozzarella fuori dalla Puglia»: il Guardian ha appena dichiarato guerra alla Campania",
@@ -392,6 +437,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "“I cocktail sono diventati troppo complicati”: Remy Savage arriva alla Fondazione Prada a Milano",
+        "description": "Il bartender francese presenta Archivio Isarco, la collezione di drink per Torre, il locale dell'istituzione museale milanese, ispirata alle ricerche della Soci…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/remy-savage-cocktail-fondazione-prada-milano/",
+        "pubDate": "2026-09-16T11:00:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Ferrero riporta il cioccolato di Willy Wonka nei supermercati",
@@ -448,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Questo pane armeno si conserva per mesi e torna morbido con un po’ d’acqua",
-        "description": "Il Lavash è un pane sottilissimo legato da secoli alla cultura armena. Oggi viene prodotto anche alle porte di Milano da Karen Avetisyan…",
-        "link": "https://www.gamberorosso.it/notizie/uncategorized/un-forno-di-lavash-in-lombardia-il-pane-armeno-patrimonio-unesco/",
-        "pubDate": "2026-09-15T15:49:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Morto Filippo Baldassarre Fanti, ex presidente del Consorzio del Brunello di Montalcino",
         "description": "Il Consorzio del vino Brunello di Montalcino esprime cordoglio per la scomparsa di Filippo Baldassarre Fanti, titolare della Tenuta Fanti e presidente dell’ente…",
         "link": "https://www.winemag.it/morto-filippo-baldassarre-fanti-ex-presidente-del-consorzio-del-brunello-di-montalcino/",
@@ -473,24 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/theo-muller-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "“Lavoravo in cucina 16 ore al giorno, ero arrivato a pesare 58 chili”. Poi ha detto basta",
-        "description": "A 18 anni lavorava fino a 16 ore al giorno e arrivò a pesare 58 chili. Dopo il burnout Alessandro ha scelto di restare in cucina, ma provando a cambiarla…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chef-16-ore-cucina-burnout-ristorazione/",
-        "pubDate": "2026-09-15T15:24:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Salvare i vitigni autoctoni campani: la nuova sfida parte dalla Reggia di Caserta",
-        "description": "Tenuta Fontana, che ha in concessione l'unico vigneto all'interno di un palazzo reale italiano, ha lanciato dall'annata 2026 il programma di salvataggio delle u…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/radici-autoctone-progetto-reggia-caserta-tenuta-fontana/",
-        "pubDate": "2026-09-15T15:24:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Le 3 migliori gelaterie artigianali dell’Umbria del 2026",
@@ -518,33 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Secondo un nuovo studio i dolcificanti non sono così terribili",
-        "description": "La pessima reputazione dei sostitutivi dello zucchero potrebbe essere immeritata.\nL'articolo Secondo un nuovo studio i dolcificanti non sono così terribili prov…",
-        "link": "https://www.dissapore.com/notizie/secondo-un-nuovo-studio-i-dolcificanti-non-sono-cosi-terribili/",
-        "pubDate": "2026-09-15T11:50:59+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/dolcificanti-bustine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ernst Knam: “Lavorare 8 ore al giorno per 5 giorni è la morte della ristorazione. Io ne lavoravo 18”",
-        "description": "Dopo l'addio dell'intera brigata, Ernst Knam riapre il dibattito sul lavoro nella ristorazione: «Manca la passione. Il settore dovrebbe avere una legge a sé»…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ernst-knam-40-ore-lavoro-ristorazione-dipendenti/",
-        "pubDate": "2026-09-15T11:45:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A un’ora da Roma c’è un giovane chef che fa fine dining nella campagna della Tuscia. Il menu costa 60 euro",
-        "description": "A N'Uovo, dentro l'Antico Borgo di Sutri, Simone Lezzerini porta nel fine dining prodotti e ricette della Tuscia. I percorsi partono da 60 euro…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/nuovo-vino-cucina-sutri-simone-lezzerini/",
-        "pubDate": "2026-09-15T10:35:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
