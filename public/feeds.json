@@ -1,7 +1,79 @@
 {
-  "generated": "2026-09-17T21:00:00.528945+00:00",
+  "generated": "2026-09-18T10:41:18.883143+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "L’industria alimentare rischia di perdere 73 miliardi a causa dell’Ozempic",
+        "description": "Quasi un quarto del valore del mercato dell'industria alimentare è a rischio per la rivoluzione dei farmaci per il controllo del peso: come stanno reagendo i co…",
+        "link": "https://www.dissapore.com/notizie/lindustria-alimentare-rischia-di-perdere-73-miliardi-a-causa-dellozempic/",
+        "pubDate": "2026-09-18T09:51:15+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/ozempic-glp-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Uno dei ristoranti più famosi al mondo chiuderà 5 mesi l’anno. Ma continuerà a pagare 100 dipendenti",
+        "description": "Rasmus Munk rivoluziona Alchemist: da dicembre cinque mesi senza normale servizio per sviluppare piatti, tecnologie e installazioni con tutto il personale in or…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/alchemist-chiude-cinque-mesi-dipendenti-stipendiati/",
+        "pubDate": "2026-09-18T09:27:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo assaggiato tutti i 9 vini della Romanée-Conti 2022. Il migliore non è quello che pensate",
+        "description": "Da Corton a Montrachet fino alla leggendaria Romanée-Conti: a Villa d’Este abbiamo degustato l’intera gamma 2022 del Domaine. Ecco voti e giudizi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/domaine-romanee-conti-2022-vini-assaggio/",
+        "pubDate": "2026-09-18T07:59:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo chef condannato per aver servito formiche non finirà in galera",
+        "description": "In Corea l'entomofagia non è certo un tabù, ma la legislazione è tanto precisa quanto severa.\nL'articolo Lo chef condannato per aver servito formiche non finirà…",
+        "link": "https://www.dissapore.com/notizie/lo-chef-condannato-per-aver-servito-formiche-non-finira-in-galera/",
+        "pubDate": "2026-09-18T07:59:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/formiche-corea.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il bar alle porte di Lucca che coltiva frutta e verdura per i suoi piatti ora raddoppia",
+        "description": "Pane e Marmellata coltiva parte degli ingredienti nella propria azienda agricola. Entro dicembre aprirà a Marlia un secondo spazio con laboratorio di pasticceri…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pane-marmellata-lucca-nuovo-laboratorio-marlia/",
+        "pubDate": "2026-09-18T07:56:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gambero Rosso compie 40 anni e festeggia a Roma con grandi vini, chef e pizza",
+        "description": "Il 25 e 26 ottobre alla Nuvola due giorni con le Guide 2027, degustazioni, grandi chef, pizza, Tre Bicchieri e vecchie annate…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-40-anni-evento-roma-nuvola/",
+        "pubDate": "2026-09-18T07:44:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Rosati di Provenza: Fleurs de Prairie e Domaine de la Rouvière 2025",
+        "description": "Rosati di Provenza: Fleurs de Prairie e Domaine de la Rouvière 2025: due etichette in rosa per la fine dell'estate da Grands Chais de France\nL'articolo Rosati d…",
+        "link": "https://www.winemag.it/rosati-di-provenza-fleurs-de-prairie-e-domaine-de-la-rouviere-2025-gcf/",
+        "pubDate": "2026-09-17T23:25:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Wildbacher, “l’autoctono selvaggio” dei Colli Trevigiani di casa Collalto",
+        "description": "Il Wildbacher dei Colli Trevigiani trova alle Cantine Conte Collalto una delle sue più singolari dimore italiane. Un vitigno raro, di origine stiriana, che la f…",
+        "link": "https://www.winemag.it/wildbacher-autoctono-selvaggio-colli-trevigiani-cantina-conti-collalto/",
+        "pubDate": "2026-09-17T22:03:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Chi è Ruggiero Francavilla, il nuovo Dallagiovanna Pizza Ambassador",
         "description": "Sostenibilità, approccio da fine dining, spreco zero, fermentazioni: la pizza di Ruggiero Francavilla è moderna e ricca di idee. Lo abbiamo intervistato dopo la…",
@@ -93,15 +165,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "L’export vino delle regioni italiane è una montagna russa: chi sale e chi scende nel primo semestre",
-        "description": "Il Piemonte supera la Toscana, risalgono Emilia-Romagna, Friuli-Venezia Giulia e Puglia, mentre va giù il Veneto (ma resta primo). Pesa l'esposizione verso il m…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-regioni-2026/",
-        "pubDate": "2026-09-17T10:47:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Coppia che vince non si cambia! Camicia e gonna midi sono ancora la combo più chic della mezza stagione",
         "description": "Ci sono abbinamenti che non deludono mai, che funzionano in qualsiasi occasione e proprio per questo diventano uno di quei punti fermi su cui fare affidamento q…",
         "link": "https://www.grazia.it/moda/tendenze-moda/camicia-gonna-midi-come-indossare-abbinare-idee-outfit-donna-autunno-denim-pelle-bianca-street-style-fiocco-997998",
@@ -111,15 +174,6 @@
         "source": "Grazia"
       },
       {
-        "title": "“Disciplinari del vino obsoleti? Va bene aggiornarli, ma occhio a non snaturare le Doc”. L’avvertimento di Federdoc",
-        "description": "Il presidente Giangiacomo Bonaldi interviene nel dibattito sulle regole produttive ma invita a non perdere per strada la riconoscibilità e l'identità di una den…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/disciplinari-vino-obsoleti-intervista-federdoc/",
-        "pubDate": "2026-09-17T09:24:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Vivere comodi in 40 mq? i must IKEA per arredare il tuo mini appartamento",
         "description": "Trasformare anche il più piccolo degli appartamenti in uno spazio accogliente e funzionale? E' più semplice di quanto pensi. Con il design intelligente di IKEA,…",
         "link": "https://www.stylosophy.it/articolo/must-ikea-per-arredare-il-tuo-mini-appartamento/240944/",
@@ -127,60 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "“Senza acqua non c’è cibo”. L’Europa prepara un nuovo piano dopo l’estate estrema",
-        "description": "Dopo un’estate che ha bruciato 660mila ettari e fatto perdere 12 milioni di tonnellate di raccolti, Bruxelles prepara nuove misure su acqua, clima e assicurazio…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/agricoltura-ue-acqua-siccita-von-der-leyen/",
-        "pubDate": "2026-09-17T07:51:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ragù, panna e pesto nella stessa pasta: il piatto anni Ottanta che è tornato di moda",
-        "description": "Ragù, panna e pesto nello stesso piatto: la pasta alla Montecarlo racconta un decennio che voleva sentirsi in Costa Azzurra anche a tavola. E che oggi torna a f…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasta-alla-montecarlo-ragu-panna-pesto/",
-        "pubDate": "2026-09-17T07:47:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Kendall Jenner è il nuovo volto di Intimissimi nella campagna della collezione Ultralight with cashmere",
-        "description": "Da sempre ci sono capi che entrano nel guardaroba quasi senza fare rumore e finiscono per diventare indispensabili. È il caso della maglia Ultralight with Cashm…",
-        "link": "https://www.grazia.it/moda/news-moda/kendall-jenner-intimissimi-nuova-campagna-collezione-ultralight-cashmere-autunno-inverno-2026-997830",
-        "pubDate": "2026-09-17T07:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/ok-paertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "L’autunno chiama e i cargo pants rispondono: i modelli più cool per la nuova stagione",
-        "description": "Vi presentiamo i modelli di pantaloni cargo di cui fare incetta prima dell&#8217;arrivo del freddo. Pronte allo shopping? Con l’autunno tornano anche i cargo pa…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-cargo-autunno-2026-modelli-donna-zara-invernali-verde-militare-beige-996895",
-        "pubDate": "2026-09-17T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_panta_cargo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Chi ha vinto Pizza Bit Competition 2026 di Molino Dallagiovanna",
-        "description": "Il nuovo Dallagiovanna Pizza Ambassador ha conquistato la giuria all'unanimità con una Margherita impeccabile.\nL'articolo Chi ha vinto Pizza Bit Competition 202…",
-        "link": "https://www.dissapore.com/notizie/chi-ha-vinto-pizza-bit-competition-2026-di-molino-dallagiovanna/",
-        "pubDate": "2026-09-16T15:26:59+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Ruggiero_Francavilla-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Julia Roberts negli anni ’90 lo aveva già capito: il blazer in pelle è il pezzo che non può mancare nel guardaroba autunnale",
-        "description": "È stato uno dei grandi cult degli anni ’90 e a distanza di decenni non ha perso un grammo del suo appeal: il blazer in pelle è ancora oggi uno dei pezzi chiave …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/julia-roberts-look-anni-90-blazer-pelle-donna-autunno-giacca-oversize-bis-997187",
-        "pubDate": "2026-09-16T14:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Julia_Roberts_blazer_pelle.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,78 @@
     ],
     "lifestyle": [
       {
+        "title": "L’industria alimentare rischia di perdere 73 miliardi a causa dell’Ozempic",
+        "description": "Quasi un quarto del valore del mercato dell'industria alimentare è a rischio per la rivoluzione dei farmaci per il controllo del peso: come stanno reagendo i co…",
+        "link": "https://www.dissapore.com/notizie/lindustria-alimentare-rischia-di-perdere-73-miliardi-a-causa-dellozempic/",
+        "pubDate": "2026-09-18T09:51:15+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/ozempic-glp-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Uno dei ristoranti più famosi al mondo chiuderà 5 mesi l’anno. Ma continuerà a pagare 100 dipendenti",
+        "description": "Rasmus Munk rivoluziona Alchemist: da dicembre cinque mesi senza normale servizio per sviluppare piatti, tecnologie e installazioni con tutto il personale in or…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/alchemist-chiude-cinque-mesi-dipendenti-stipendiati/",
+        "pubDate": "2026-09-18T09:27:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo assaggiato tutti i 9 vini della Romanée-Conti 2022. Il migliore non è quello che pensate",
+        "description": "Da Corton a Montrachet fino alla leggendaria Romanée-Conti: a Villa d’Este abbiamo degustato l’intera gamma 2022 del Domaine. Ecco voti e giudizi…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/domaine-romanee-conti-2022-vini-assaggio/",
+        "pubDate": "2026-09-18T07:59:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo chef condannato per aver servito formiche non finirà in galera",
+        "description": "In Corea l'entomofagia non è certo un tabù, ma la legislazione è tanto precisa quanto severa.\nL'articolo Lo chef condannato per aver servito formiche non finirà…",
+        "link": "https://www.dissapore.com/notizie/lo-chef-condannato-per-aver-servito-formiche-non-finira-in-galera/",
+        "pubDate": "2026-09-18T07:59:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/formiche-corea.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il bar alle porte di Lucca che coltiva frutta e verdura per i suoi piatti ora raddoppia",
+        "description": "Pane e Marmellata coltiva parte degli ingredienti nella propria azienda agricola. Entro dicembre aprirà a Marlia un secondo spazio con laboratorio di pasticceri…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/pane-marmellata-lucca-nuovo-laboratorio-marlia/",
+        "pubDate": "2026-09-18T07:56:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gambero Rosso compie 40 anni e festeggia a Roma con grandi vini, chef e pizza",
+        "description": "Il 25 e 26 ottobre alla Nuvola due giorni con le Guide 2027, degustazioni, grandi chef, pizza, Tre Bicchieri e vecchie annate…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-40-anni-evento-roma-nuvola/",
+        "pubDate": "2026-09-18T07:44:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Rosati di Provenza: Fleurs de Prairie e Domaine de la Rouvière 2025",
+        "description": "Rosati di Provenza: Fleurs de Prairie e Domaine de la Rouvière 2025: due etichette in rosa per la fine dell'estate da Grands Chais de France\nL'articolo Rosati d…",
+        "link": "https://www.winemag.it/rosati-di-provenza-fleurs-de-prairie-e-domaine-de-la-rouviere-2025-gcf/",
+        "pubDate": "2026-09-17T23:25:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Wildbacher, “l’autoctono selvaggio” dei Colli Trevigiani di casa Collalto",
+        "description": "Il Wildbacher dei Colli Trevigiani trova alle Cantine Conte Collalto una delle sue più singolari dimore italiane. Un vitigno raro, di origine stiriana, che la f…",
+        "link": "https://www.winemag.it/wildbacher-autoctono-selvaggio-colli-trevigiani-cantina-conti-collalto/",
+        "pubDate": "2026-09-17T22:03:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Chi è Ruggiero Francavilla, il nuovo Dallagiovanna Pizza Ambassador",
         "description": "Sostenibilità, approccio da fine dining, spreco zero, fermentazioni: la pizza di Ruggiero Francavilla è moderna e ricca di idee. Lo abbiamo intervistato dopo la…",
         "link": "https://www.dissapore.com/pizzerie/chi-e-ruggiero-francavilla-il-nuovo-dallagiovanna-pizza-ambassador/",
@@ -448,42 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "L’export vino delle regioni italiane è una montagna russa: chi sale e chi scende nel primo semestre",
-        "description": "Il Piemonte supera la Toscana, risalgono Emilia-Romagna, Friuli-Venezia Giulia e Puglia, mentre va giù il Veneto (ma resta primo). Pesa l'esposizione verso il m…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-regioni-2026/",
-        "pubDate": "2026-09-17T10:47:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Disciplinari del vino obsoleti? Va bene aggiornarli, ma occhio a non snaturare le Doc”. L’avvertimento di Federdoc",
-        "description": "Il presidente Giangiacomo Bonaldi interviene nel dibattito sulle regole produttive ma invita a non perdere per strada la riconoscibilità e l'identità di una den…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/disciplinari-vino-obsoleti-intervista-federdoc/",
-        "pubDate": "2026-09-17T09:24:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Senza acqua non c’è cibo”. L’Europa prepara un nuovo piano dopo l’estate estrema",
-        "description": "Dopo un’estate che ha bruciato 660mila ettari e fatto perdere 12 milioni di tonnellate di raccolti, Bruxelles prepara nuove misure su acqua, clima e assicurazio…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/agricoltura-ue-acqua-siccita-von-der-leyen/",
-        "pubDate": "2026-09-17T07:51:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ragù, panna e pesto nella stessa pasta: il piatto anni Ottanta che è tornato di moda",
-        "description": "Ragù, panna e pesto nello stesso piatto: la pasta alla Montecarlo racconta un decennio che voleva sentirsi in Costa Azzurra anche a tavola. E che oggi torna a f…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasta-alla-montecarlo-ragu-panna-pesto/",
-        "pubDate": "2026-09-17T07:47:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Chi ha vinto Pizza Bit Competition 2026 di Molino Dallagiovanna",
         "description": "Il nuovo Dallagiovanna Pizza Ambassador ha conquistato la giuria all'unanimità con una Margherita impeccabile.\nL'articolo Chi ha vinto Pizza Bit Competition 202…",
         "link": "https://www.dissapore.com/notizie/chi-ha-vinto-pizza-bit-competition-2026-di-molino-dallagiovanna/",
@@ -509,42 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Ferrero riporta il cioccolato di Willy Wonka nei supermercati",
-        "description": "Ferrero punta molto sul rilancio del marchio ispirato ai racconti di Roald Dahl. \nL'articolo Ferrero riporta il cioccolato di Willy Wonka nei supermercati provi…",
-        "link": "https://www.dissapore.com/notizie/ferrero-riporta-il-cioccolato-di-willy-wonka-nei-supermercati/",
-        "pubDate": "2026-09-16T08:36:48+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/wonka-prodotti-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cantine vicino alle città: da Vienna a Santiago, il vino a un passo dal centro",
-        "description": "Cantine vicino alle città: da Vienna a Santiago, il vino a pochi chilometri dal centro. L'ultima è cantina Terradesa, a un passo dall'aeroporto di Milano Malpen…",
-        "link": "https://www.winemag.it/cantine-vicino-citta-vienna-santiago-vino-pochi-chilometri-centro-terradesa-malpensa/",
-        "pubDate": "2026-09-16T07:52:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Morto Filippo Baldassarre Fanti, ex presidente del Consorzio del Brunello di Montalcino",
-        "description": "Il Consorzio del vino Brunello di Montalcino esprime cordoglio per la scomparsa di Filippo Baldassarre Fanti, titolare della Tenuta Fanti e presidente dell’ente…",
-        "link": "https://www.winemag.it/morto-filippo-baldassarre-fanti-ex-presidente-del-consorzio-del-brunello-di-montalcino/",
-        "pubDate": "2026-09-15T15:46:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "“Fate l’amore con l’estrema destra”, il boicottaggio di yogurt Müller",
-        "description": "Il sostegno del re dello yogurt all'estrema destra tedesca non è mai stati un mistero, ma dopo la vittoria di AfD l'entusiasmo dei Theo Müller sta suscitando le…",
-        "link": "https://www.dissapore.com/notizie/fate-lamore-con-lestrema-destra-il-boicottaggio-di-yogurt-muller/",
-        "pubDate": "2026-09-15T15:30:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/theo-muller-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
