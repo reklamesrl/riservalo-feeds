@@ -1,7 +1,106 @@
 {
-  "generated": "2026-09-20T20:25:12.804018+00:00",
+  "generated": "2026-09-21T12:09:59.782246+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La dieta mediterranea è ancora la migliore che abbiamo, ma non la seguiamo più",
+        "description": "La dieta perfetta esiste già? A Terra Madre si parlerà seriamente di dieta mediterranea, che fa bene alla salute e al pianeta. Ma tra cibi ultraprocessati e nuo…",
+        "link": "https://www.dissapore.com/alimentazione/la-dieta-mediterranea-e-ancora-la-migliore-che-abbiamo-ma-non-la-seguiamo-piu/",
+        "pubDate": "2026-09-21T10:54:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2020/05/olives-4567293_1920.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ha solo 4 tavoli e un menu tutto dedicato alla pasta. In due anni ha conquistato la stella Michelin",
+        "description": "A Metz, Olivier Parise e Giorgia Tartaglione hanno aperto nel 2024 un ristorante di appena quattro tavoli. La pasta è diventata un percorso gastronomico da 110 …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/timilia-metz-stella-michelin-pasta/",
+        "pubDate": "2026-09-21T09:38:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "11.500 ettari di vigne e nessuna vera mappa. Ora l’Oltrepò ha disegnato il suo territorio",
+        "description": "Alessandro Masnaghetti ha disegnato la prima carta vitivinicola dell’Oltrepò Pavese: quattro vallate, altitudini e suoli per raccontare un territorio che ora pu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/oltrepo-pavese-mappa-vigneti-classese/",
+        "pubDate": "2026-09-21T09:28:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Raw Beauty di JYSK: superfici lucide, dettagli grezzi e un caldo tono melanzana per la nuova linea autunnale",
+        "description": "Glossy &#038; Raw e i caldi toni di melanzana, marrone e verde nel nuovo assortimento indoor JYSK. Definito Raw Beauty, dal design scandinavo contemporaneo trae…",
+        "link": "https://www.stylosophy.it/articolo/raw-beauty-di-jysk-la-nuova-linea-indoor-autunnale/253760/",
+        "pubDate": "2026-09-21T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "I Digestive non aiutano a digerire: la vera storia del biscotto più famoso del Regno Unito",
+        "description": "Nati nell’Ottocento con la fama di aiutare la digestione, sono diventati uno dei biscotti britannici più famosi al mondo. Ma dietro il loro nome c’è una storia …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-biscotti-digestive-si-chiamano-cosi/",
+        "pubDate": "2026-09-21T08:58:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha lasciato Milano per cucinare in Sicilia solo con legna e brace. “Il futuro è meno tecnica”",
+        "description": "A Orti Villadorata, nella campagna di Noto, Matteo Carnaghi costruisce il menu su ciò che trova ogni giorno e cucina con legna e brace: \"Bisogna tornare alla so…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/matteo-carnaghi-orti-villadorata-noto/",
+        "pubDate": "2026-09-21T08:56:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 22 anni voleva aprire una gelateria sotto casa. I genitori gli dicevano di trovarsi un posto sicuro",
+        "description": "Mirco Errigo aveva un diploma da perito chimico e due concorsi per la Guardia di Finanza alle spalle. Scelse invece Pellaro: oggi la sua gelateria impiega fino …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mirco-errigo-gelateria-pellaro-reggio-calabria/",
+        "pubDate": "2026-09-21T08:45:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A cena in motoslitta per mangiare carbonada e polenta in una baita sopra Cogne",
+        "description": "Carbonada, favò, trote di Lillaz, polenta e selvaggina: Baita Sylvenoire è immersa nella natura sopra Cogne e d'inverno organizza anche il trasporto serale in m…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baita-sylvenoire-cogne-cucina-valdostana/",
+        "pubDate": "2026-09-21T08:36:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La nuova serie su Ferran Adrià potrebbe avere qualcosa da dire oltre la gastronomia",
+        "description": "Una nuova serie televisiva in sei episodi racconta la parabola dello chef a El Bulli, con una lente sui suoi aspetti antropologicamente rivoluzionari.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/la-nuova-serie-su-ferran-adria-potrebbe-avere-qualcosa-da-dire-oltre-la-gastronomia/",
+        "pubDate": "2026-09-21T08:35:04+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2014/03/Piatti-di-El-Bulli-disegni-preparatori.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In questa via di Torino hanno chiuso entrambe le panetterie. Ora un grande pizzaiolo ne apre una nuova",
+        "description": "Massimiliano Prete porta Matre in via Mazzini, proprio davanti a Sestogusto: pane da grani biologici, focacce, pizza alla pala e una nuova linea di cornetti e v…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/matre-torino-massimiliano-prete-bakery/",
+        "pubDate": "2026-09-21T07:35:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tre Bicchieri 2027 dell’Umbria: non più solo rossi potenti, ecco come è cambiata la mappa del vino nella regione",
+        "description": "Dai grandi vini rossi di Montefalco oltre al Sagrantino ai bianchi da invecchiamento. Ecco la nuova mappa dell'Umbria del vino…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-umbria/",
+        "pubDate": "2026-09-21T05:10:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Le microplastiche nel terreno sono la cosa peggiore che può succedere alle coltivazioni",
         "description": "Un progetto di ricerca quinquennale finanziato dall'EU ha raccolto moltissimi dati su come le microplastiche deteriorino il terreno in moltissimi modi.\nL'artico…",
@@ -48,15 +147,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "La bakery diventata “troppo famosa” per il mercato dove è nata rischia di dover andare via",
-        "description": "Bread Ahead nacque a Londra nel 2013 con un piccolo banco. Oggi vende i suoi celebri doughnut nel mondo e sostiene che proprio la crescita internazionale metta …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bread-ahead-borough-market-troppo-successo/",
-        "pubDate": "2026-09-20T12:26:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Mars studia nuovi cloni di cacao per combattere la crisi",
         "description": "Per far fronte alla crisi del cacao bisogna lavorare su più fronti: tecnologico, agronomico e sociale.\nL'articolo Mars studia nuovi cloni di cacao per combatter…",
         "link": "https://www.dissapore.com/notizie/mars-studia-nuovi-cloni-di-cacao-per-combattere-la-crisi/",
@@ -66,42 +156,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Dovevano essere cibi per bambini. Ma le aziende hanno scoperto che piacevano anche agli adulti",
-        "description": "Dagli yogurt da spremere fino al gelato al Plasmon: sapori e formati associati all'infanzia stanno conquistando un pubblico adulto. E le aziende hanno capito ch…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cibo-bambini-adulti-pouch-yogurt-plasmon/",
-        "pubDate": "2026-09-20T10:26:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Festa dell’Uva e del Vino di Carema 2026: dal 21 al 27 settembre la 74ª edizione",
-        "description": "Il Comune di Carema, insieme alla Cantina dei Produttori Nebbiolo di Carema, all’Associazione Andar per Cantine Antiche e alle altre associazioni del territorio…",
-        "link": "https://www.winemag.it/festa-delluva-e-del-vino-di-carema-2026-dal-21-al-27-settembre-la-74a-edizione/",
-        "pubDate": "2026-09-20T10:09:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Gli inglesi hanno sempre importato il tè. Ora provano a coltivarselo in casa",
-        "description": "Dall’East Sussex al Devon, nuove piantagioni e ricerche stanno cercando di capire se il tè possa diventare una vera coltura britannica. Il clima più caldo aiuta…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/te-inglese-coltivazione-cambiamento-climatico/",
-        "pubDate": "2026-09-20T09:26:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non è un mochi: cos’è Shuka, il dolce giapponese di fagioli, cacao e pistacchi canditi",
-        "description": "Nasce a Kyoto da una tecnica centenaria usata per candire i legumi. Takeshi Kondo l'ha applicata anche a fave di cacao, anacardi e pistacchi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/shuka-amanatto-fagioli-dolci-giappone-terra-madre/",
-        "pubDate": "2026-09-20T08:34:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Gli psicologi sono tutti d’accordo: dopo i 40, indossare questo colore in autunno aumenta l’autostima e migliora l’umore!",
         "description": "Dopo i 40 anni, il colore che indossi in autunno incide su umore, postura e percezione di te stessa. Gli psicologi indicano una nuance precisa che cambia l’auto…",
         "link": "https://www.grazia.it/moda/tendenze-moda/colore-da-indossare-in-autunno-dopo-40-anni-buonumore-autostima-per-psicologi-993632",
@@ -109,24 +163,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/09/ruggine-colore-dopo-i-40-anni-2.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "A 14 anni chiese un pezzo di terra al padre: oggi produce un Vermentino sorprendente nei Colli di Luni",
-        "description": "Il Vermentino Tàoma di Giacomelli è un vino che raccontare, con sincerità un piccolo pezzo dei Colli di Luni e il ricambio generazionale tra vigne e mare…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vermentino-colli-di-luni-giacomelli/",
-        "pubDate": "2026-09-20T06:29:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I migliori vini della Liguria: ecco i Tre Bicchieri 2027",
-        "description": "Tra terrazzamenti e vigne a picco sul mare, la Liguria del vino si racconta attraverso bianchi sapidi e rossi di grande carattere. Scopri tutte le etichette pre…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-liguria/",
-        "pubDate": "2026-09-20T05:05:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Suede is back: le giacche in camoscio di cui fare incetta per l’autunno",
@@ -145,45 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/09/pietre-segni-zodiacali-2.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Le due migliori gelaterie del Trentino nel 2026",
-        "description": "Le gelaterie artigianali trentine valide sono così davvero poche, ma meritano di essere provate. Quali sono e perché. \nL'articolo Le due migliori gelaterie del …",
-        "link": "https://www.dissapore.com/locali/le-due-migliori-gelaterie-del-trentino-nel-2026/",
-        "pubDate": "2026-09-19T13:26:46+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/mucche-allevamento-scaled-e1782498002111.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Jennifer Lopez saluta l’estate con questo iconico beach Look: elegante anche in spiaggia!",
-        "description": "Jennifer Lopez sfoggia un beach look di super tendenza e molto elegante: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/jennifer-lopez-saluta-lestate-con-questo-iconico-beach-look-elegante-anche-in-spiaggia/253738/",
-        "pubDate": "2026-09-19T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "BrewDog: i 440 lavoratori licenziati non vedranno una sterlina",
-        "description": "Oltre agli ex dipendenti del birrificio scozzese, né i piccoli investitori né gli altri creditori recupereranno i loro soldi.\nL'articolo BrewDog: i 440 lavorato…",
-        "link": "https://www.dissapore.com/notizie/brewdog-i-440-lavoratori-licenziati-non-vedranno-una-sterlina/",
-        "pubDate": "2026-09-19T10:11:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/brewdog-lattine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Isola del Giglio a settembre: cosa fare, spiagge e consigli di viaggio",
-        "description": "Meno folla, mare ancora piacevole e un calendario di appuntamenti legati alla tradizione locale: settembre è un periodo interessante per scoprire il Giglio con …",
-        "link": "https://www.stylosophy.it/articolo/isola-del-giglio-a-settembre-cosa-fare-spiagge-e-consigli-di-viaggio/253743/",
-        "pubDate": "2026-09-19T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Raw Beauty di JYSK: superfici lucide, dettagli grezzi e un caldo tono melanzana per la nuova linea autunnale",
+        "description": "Glossy &#038; Raw e i caldi toni di melanzana, marrone e verde nel nuovo assortimento indoor JYSK. Definito Raw Beauty, dal design scandinavo contemporaneo trae…",
+        "link": "https://www.stylosophy.it/articolo/raw-beauty-di-jysk-la-nuova-linea-indoor-autunnale/253760/",
+        "pubDate": "2026-09-21T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Spicole, i micro-aghi della skincare coreana: benefici e quando è meglio evitare",
         "description": "Le nuove formule coreane puntano sulle spicole per favorire la penetrazione degli attivi e stimolare la pelle. Ma non sono adatte a tutte le skincare.…",
@@ -354,18 +363,99 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Zendaya brilla sul red carpet degli Emmy Awards con un meraviglioso abito lungo tempestato di cristalli e perline firmato Prada",
-        "description": "Zendaya sfila sul red carpet degli Emmy Awards sfoggiando un meraviglioso abito lungo tempestato di cristalli e perline firmato Prada.…",
-        "link": "https://www.stylosophy.it/articolo/zendaya-brilla-sul-red-carpet-degli-emmy-awards-con-un-meraviglioso-abito-lungo-tempestato-di-cristalli-e-perline-firmato-prada/253707/",
-        "pubDate": "2026-09-15T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La dieta mediterranea è ancora la migliore che abbiamo, ma non la seguiamo più",
+        "description": "La dieta perfetta esiste già? A Terra Madre si parlerà seriamente di dieta mediterranea, che fa bene alla salute e al pianeta. Ma tra cibi ultraprocessati e nuo…",
+        "link": "https://www.dissapore.com/alimentazione/la-dieta-mediterranea-e-ancora-la-migliore-che-abbiamo-ma-non-la-seguiamo-piu/",
+        "pubDate": "2026-09-21T10:54:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2020/05/olives-4567293_1920.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ha solo 4 tavoli e un menu tutto dedicato alla pasta. In due anni ha conquistato la stella Michelin",
+        "description": "A Metz, Olivier Parise e Giorgia Tartaglione hanno aperto nel 2024 un ristorante di appena quattro tavoli. La pasta è diventata un percorso gastronomico da 110 …",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/timilia-metz-stella-michelin-pasta/",
+        "pubDate": "2026-09-21T09:38:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "11.500 ettari di vigne e nessuna vera mappa. Ora l’Oltrepò ha disegnato il suo territorio",
+        "description": "Alessandro Masnaghetti ha disegnato la prima carta vitivinicola dell’Oltrepò Pavese: quattro vallate, altitudini e suoli per raccontare un territorio che ora pu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/oltrepo-pavese-mappa-vigneti-classese/",
+        "pubDate": "2026-09-21T09:28:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I Digestive non aiutano a digerire: la vera storia del biscotto più famoso del Regno Unito",
+        "description": "Nati nell’Ottocento con la fama di aiutare la digestione, sono diventati uno dei biscotti britannici più famosi al mondo. Ma dietro il loro nome c’è una storia …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-biscotti-digestive-si-chiamano-cosi/",
+        "pubDate": "2026-09-21T08:58:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha lasciato Milano per cucinare in Sicilia solo con legna e brace. “Il futuro è meno tecnica”",
+        "description": "A Orti Villadorata, nella campagna di Noto, Matteo Carnaghi costruisce il menu su ciò che trova ogni giorno e cucina con legna e brace: \"Bisogna tornare alla so…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/matteo-carnaghi-orti-villadorata-noto/",
+        "pubDate": "2026-09-21T08:56:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 22 anni voleva aprire una gelateria sotto casa. I genitori gli dicevano di trovarsi un posto sicuro",
+        "description": "Mirco Errigo aveva un diploma da perito chimico e due concorsi per la Guardia di Finanza alle spalle. Scelse invece Pellaro: oggi la sua gelateria impiega fino …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mirco-errigo-gelateria-pellaro-reggio-calabria/",
+        "pubDate": "2026-09-21T08:45:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A cena in motoslitta per mangiare carbonada e polenta in una baita sopra Cogne",
+        "description": "Carbonada, favò, trote di Lillaz, polenta e selvaggina: Baita Sylvenoire è immersa nella natura sopra Cogne e d'inverno organizza anche il trasporto serale in m…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baita-sylvenoire-cogne-cucina-valdostana/",
+        "pubDate": "2026-09-21T08:36:23+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La nuova serie su Ferran Adrià potrebbe avere qualcosa da dire oltre la gastronomia",
+        "description": "Una nuova serie televisiva in sei episodi racconta la parabola dello chef a El Bulli, con una lente sui suoi aspetti antropologicamente rivoluzionari.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/la-nuova-serie-su-ferran-adria-potrebbe-avere-qualcosa-da-dire-oltre-la-gastronomia/",
+        "pubDate": "2026-09-21T08:35:04+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2014/03/Piatti-di-El-Bulli-disegni-preparatori.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "In questa via di Torino hanno chiuso entrambe le panetterie. Ora un grande pizzaiolo ne apre una nuova",
+        "description": "Massimiliano Prete porta Matre in via Mazzini, proprio davanti a Sestogusto: pane da grani biologici, focacce, pizza alla pala e una nuova linea di cornetti e v…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/matre-torino-massimiliano-prete-bakery/",
+        "pubDate": "2026-09-21T07:35:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tre Bicchieri 2027 dell’Umbria: non più solo rossi potenti, ecco come è cambiata la mappa del vino nella regione",
+        "description": "Dai grandi vini rossi di Montefalco oltre al Sagrantino ai bianchi da invecchiamento. Ecco la nuova mappa dell'Umbria del vino…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-umbria/",
+        "pubDate": "2026-09-21T05:10:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Le microplastiche nel terreno sono la cosa peggiore che può succedere alle coltivazioni",
         "description": "Un progetto di ricerca quinquennale finanziato dall'EU ha raccolto moltissimi dati su come le microplastiche deteriorino il terreno in moltissimi modi.\nL'artico…",
@@ -394,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "La bakery diventata “troppo famosa” per il mercato dove è nata rischia di dover andare via",
-        "description": "Bread Ahead nacque a Londra nel 2013 con un piccolo banco. Oggi vende i suoi celebri doughnut nel mondo e sostiene che proprio la crescita internazionale metta …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bread-ahead-borough-market-troppo-successo/",
-        "pubDate": "2026-09-20T12:26:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Mars studia nuovi cloni di cacao per combattere la crisi",
         "description": "Per far fronte alla crisi del cacao bisogna lavorare su più fronti: tecnologico, agronomico e sociale.\nL'articolo Mars studia nuovi cloni di cacao per combatter…",
         "link": "https://www.dissapore.com/notizie/mars-studia-nuovi-cloni-di-cacao-per-combattere-la-crisi/",
@@ -410,60 +491,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/cacao-piantagione-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Dovevano essere cibi per bambini. Ma le aziende hanno scoperto che piacevano anche agli adulti",
-        "description": "Dagli yogurt da spremere fino al gelato al Plasmon: sapori e formati associati all'infanzia stanno conquistando un pubblico adulto. E le aziende hanno capito ch…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cibo-bambini-adulti-pouch-yogurt-plasmon/",
-        "pubDate": "2026-09-20T10:26:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Festa dell’Uva e del Vino di Carema 2026: dal 21 al 27 settembre la 74ª edizione",
-        "description": "Il Comune di Carema, insieme alla Cantina dei Produttori Nebbiolo di Carema, all’Associazione Andar per Cantine Antiche e alle altre associazioni del territorio…",
-        "link": "https://www.winemag.it/festa-delluva-e-del-vino-di-carema-2026-dal-21-al-27-settembre-la-74a-edizione/",
-        "pubDate": "2026-09-20T10:09:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Gli inglesi hanno sempre importato il tè. Ora provano a coltivarselo in casa",
-        "description": "Dall’East Sussex al Devon, nuove piantagioni e ricerche stanno cercando di capire se il tè possa diventare una vera coltura britannica. Il clima più caldo aiuta…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/te-inglese-coltivazione-cambiamento-climatico/",
-        "pubDate": "2026-09-20T09:26:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non è un mochi: cos’è Shuka, il dolce giapponese di fagioli, cacao e pistacchi canditi",
-        "description": "Nasce a Kyoto da una tecnica centenaria usata per candire i legumi. Takeshi Kondo l'ha applicata anche a fave di cacao, anacardi e pistacchi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/shuka-amanatto-fagioli-dolci-giappone-terra-madre/",
-        "pubDate": "2026-09-20T08:34:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A 14 anni chiese un pezzo di terra al padre: oggi produce un Vermentino sorprendente nei Colli di Luni",
-        "description": "Il Vermentino Tàoma di Giacomelli è un vino che raccontare, con sincerità un piccolo pezzo dei Colli di Luni e il ricambio generazionale tra vigne e mare…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/vermentino-colli-di-luni-giacomelli/",
-        "pubDate": "2026-09-20T06:29:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I migliori vini della Liguria: ecco i Tre Bicchieri 2027",
-        "description": "Tra terrazzamenti e vigne a picco sul mare, la Liguria del vino si racconta attraverso bianchi sapidi e rossi di grande carattere. Scopri tutte le etichette pre…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-liguria/",
-        "pubDate": "2026-09-20T05:05:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Le due migliori gelaterie del Trentino nel 2026",
@@ -484,24 +511,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Siamo stati nel nuovo ristorante malese di Milano. E vale davvero la pena provarlo",
-        "description": "Wau porta sui Navigli una cucina ancora rara in città: rempah, riso blu, curry e laksa. Abbiamo provato il menu degustazione da 55 euro…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/wau-ristorante-malese-milano-freida-pilus/",
-        "pubDate": "2026-09-19T08:25:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "50 anni fa apriva il ristorante in cima alle Torri Gemelle dove cenavano Sinatra e Warhol",
-        "description": "Windows on the World aprì nel 1976 ai piani 106 e 107 della Torre Nord: 300 coperti, una celebre carta dei vini e New York sotto le finestre. Uno dei luoghi più…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/windows-on-the-world-ristorante-torri-gemelle-storia/",
-        "pubDate": "2026-09-19T08:20:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "E così arriva pure Barbie pizzaiola (in collaborazione con…)",
         "description": "Arriva Barbie pizzaiola, in una collaborazione che mica ci aspettavamo (o forse si?).\nL'articolo E così arriva pure Barbie pizzaiola (in collaborazione con&#823…",
         "link": "https://www.dissapore.com/notizie/e-cosi-arriva-pure-barbie-pizzaiola-in-collaborazione-con/",
@@ -509,15 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/BARBIE-x-CAPUANO_1.jpeg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Birra con grano KAMUT: AlterBrew e NabLab studiano nuove applicazioni",
-        "description": "Una birra più chiara, con una schiuma compatta e stabile e un profilo aromatico caratterizzato da note di frutta secca, fiori e leggere sfumature di mirtillo. È…",
-        "link": "https://www.winemag.it/birra-con-grano-kamut-alterbrew-e-nablab-studiano-nuove-applicazioni/",
-        "pubDate": "2026-09-18T13:46:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "In Russia il governo ha preso il controllo dei 7 stabilimenti di Nestlè",
