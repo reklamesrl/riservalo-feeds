@@ -1,7 +1,16 @@
 {
-  "generated": "2026-09-22T16:24:55.717261+00:00",
+  "generated": "2026-09-22T20:57:26.184642+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Perché andare da Aalis, la nuova bakery di Milano che si farà spazio tra le colazioni d’autore",
+        "description": "Vicinissima all'Università Cattolica, Aalis è una nuova bakery che vuole farsi spazio nella Milano delle colazioni d'autore.\nL'articolo Perché andare da Aalis, …",
+        "link": "https://www.dissapore.com/notizie/perche-andare-da-aalis-la-nuova-bakery-di-milano-che-si-fara-spazio-tra-le-colazioni-dautore/",
+        "pubDate": "2026-09-22T16:46:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/aalis-team-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Vi stavate chiedendo come indossare la gonna in paillettes anche di giorno? Beh, Alexa Chung, come spesso accade, ha la risposta più cool",
         "description": "Poche certezze nel rutilante mondo della moda ma una che ci accompagna 4ever and ever c&#8217;è: la capacità di Alexa Chung di scegliere dei capi apparentemente…",
@@ -10,6 +19,15 @@
         "image": "https://www.grazia.it/content/uploads/2026/09/alexa-chung.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      },
+      {
+        "title": "Per anni ha venduto tartufo alle altre città: ora la Basilicata lo porta nelle proprie cucine",
+        "description": "Svolta nella gestione dell’”oro bianco”: dal bianco pregiato allo scorzone diventano ingredienti della ristorazione lucana…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/tartufo-basilicata-quando-si-raccoglie/",
+        "pubDate": "2026-09-22T15:22:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Donatella Versace e Revolve Group danno vita insieme ad un nuovo brand: ecco tutti i dettagli",
@@ -156,29 +174,11 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Crudi, spaghetti alle vongole e griglia: apre Mare con terrazza su piazza Duomo a Milano",
-        "description": "Mario e Remo Capitaneo raddoppiano nello stesso palazzo di Verso con un ristorante dedicato soprattutto al pesce, tra crudi, pasta, griglia e vista sulla catted…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/mare-ristorante-capitaneo-piazza-duomo-milano/",
-        "pubDate": "2026-09-22T07:54:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Come vestirsi a 40, 50 e 60 anni: i capsule wardrobe con i fashion must have per ogni età",
         "description": "Un armadio pieno di vestiti e niente da mettere. Se come noi siete alle prese con l’ennesimo rewatch di Sex &#38; The City, queste parole vi suoneranno più che …",
         "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-a-40-50-60-anni-capi-guardaroba-must-capsule-wardrobe-998360",
         "pubDate": "2026-09-22T05:33:00+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_capsule_wardrobe_40_50_60.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Cosa comprare ora da H&M, ZARA e Mango: i must have autunnali da mettere subito in wishlist",
-        "description": "Diciamoci la verità: tornare alla solita routine dopo le vacanze richiede sempre una buona dose di coraggio. Ma, se c’è una cosa capace di &#8220;addolcirci la …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-in-autunno-da-hm-zara-mango-capi-vestiti-accessori-must-have-autunnali-bis-994940",
-        "pubDate": "2026-09-22T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_cosa_comprare_zara_mango_hm.jpg",
         "cat": "Moda",
         "source": "Grazia"
       }
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Perché andare da Aalis, la nuova bakery di Milano che si farà spazio tra le colazioni d’autore",
+        "description": "Vicinissima all'Università Cattolica, Aalis è una nuova bakery che vuole farsi spazio nella Milano delle colazioni d'autore.\nL'articolo Perché andare da Aalis, …",
+        "link": "https://www.dissapore.com/notizie/perche-andare-da-aalis-la-nuova-bakery-di-milano-che-si-fara-spazio-tra-le-colazioni-dautore/",
+        "pubDate": "2026-09-22T16:46:06+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/aalis-team-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Per anni ha venduto tartufo alle altre città: ora la Basilicata lo porta nelle proprie cucine",
+        "description": "Svolta nella gestione dell’”oro bianco”: dal bianco pregiato allo scorzone diventano ingredienti della ristorazione lucana…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/tartufo-basilicata-quando-si-raccoglie/",
+        "pubDate": "2026-09-22T15:22:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Negli allevamenti di salmone in Tasmania sono state usate 150 mila bombe subacquee contro le foche",
         "description": "I dati rilasciati dal dipartimento delle risorse naturali e dell'ambiente dimostrano un uso sconsiderato di questi dispositivi anti-foca.\nL'articolo Negli allev…",
         "link": "https://www.dissapore.com/notizie/negli-allevamenti-di-salmone-in-tasmania-sono-state-usate-150-mila-bombe-subacquee-contro-le-foche/",
@@ -466,15 +484,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Crudi, spaghetti alle vongole e griglia: apre Mare con terrazza su piazza Duomo a Milano",
-        "description": "Mario e Remo Capitaneo raddoppiano nello stesso palazzo di Verso con un ristorante dedicato soprattutto al pesce, tra crudi, pasta, griglia e vista sulla catted…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/mare-ristorante-capitaneo-piazza-duomo-milano/",
-        "pubDate": "2026-09-22T07:54:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "I Me contro Te spingono i bambini da McDonald’s da anni, e nessuno dice niente",
         "description": "I Me Contro Te continuano ad adorare McDonald's e nessuno (nemmeno McDonald's) fa niente per evitare che lo raccontino ai bambini.\nL'articolo I Me contro Te spi…",
         "link": "https://www.dissapore.com/notizie/i-me-contro-te-spingono-i-bambini-da-mcdonalds-da-anni-e-nessuno-dice-niente/",
@@ -534,15 +543,6 @@
         "link": "https://www.dissapore.com/notizie/le-microplastiche-nel-terreno-sono-la-cosa-peggiore-che-puo-succedere-alle-coltivazioni/",
         "pubDate": "2026-09-20T16:45:43+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/03/pesci-microplastiche.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Mars studia nuovi cloni di cacao per combattere la crisi",
-        "description": "Per far fronte alla crisi del cacao bisogna lavorare su più fronti: tecnologico, agronomico e sociale.\nL'articolo Mars studia nuovi cloni di cacao per combatter…",
-        "link": "https://www.dissapore.com/notizie/mars-studia-nuovi-cloni-di-cacao-per-combattere-la-crisi/",
-        "pubDate": "2026-09-20T12:12:45+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/cacao-piantagione-raccolta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
