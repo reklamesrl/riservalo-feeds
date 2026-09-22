@@ -1,7 +1,70 @@
 {
-  "generated": "2026-09-21T21:45:06.214189+00:00",
+  "generated": "2026-09-22T11:04:29.087505+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Ha perso il lavoro e ha trasformato la sua Smart in una pizzeria. Ora fattura 12mila dollari al mese",
+        "description": "Bradley Alvelo ha perso il lavoro mentre stava per diventare padre. Con due forni e una Smart ha creato Pizza Pod NYC, una pizzeria mobile che oggi dichiara cir…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-pod-smart-pizzeria-new-york/",
+        "pubDate": "2026-09-22T09:25:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Colpo gobbo nelle Langhe: furto da centinaia di migliaia di euro alla cantina Conterno Fantino",
+        "description": "Quello ai danni della cantina di Monforte d'Alba è stato un colpo da professionisti: nessuno si è accorto di nulla.\nL'articolo Colpo gobbo nelle Langhe: furto d…",
+        "link": "https://www.dissapore.com/notizie/colpo-gobbo-nelle-langhe-furto-da-centinaia-di-migliaia-di-euro-alla-cantina-conterno-fantino/",
+        "pubDate": "2026-09-22T09:20:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/conterno-fantino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Autunno da vivere nei borghi: 5 destinazioni in Italia e in Europa che meritano un viaggio",
+        "description": "Dalle località italiane immerse nei colori del foliage ai piccoli centri europei dove l’autunno regala eventi, cucina locale e atmosfere particolari: cinque ide…",
+        "link": "https://www.stylosophy.it/articolo/autunno-da-vivere-nei-borghi-destinazioni-in-italia-e-in-europa/253776/",
+        "pubDate": "2026-09-22T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Ha mangiato due teste d’aglio e si è fatto annusare ogni 90 minuti. Ora ha fondato un’associazione di assaggiatori",
+        "description": "Sette soci, degustazioni alla cieca e schede da 100 punti: a Songavazzo nasce Vampiri Italiani, l'associazione che vuole studiare varietà, persistenza e abbinam…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vampiri-italiani-assaggiatori-aglio/",
+        "pubDate": "2026-09-22T08:01:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Crudi, spaghetti alle vongole e griglia: apre Mare con terrazza su piazza Duomo a Milano",
+        "description": "Mario e Remo Capitaneo raddoppiano nello stesso palazzo di Verso con un ristorante dedicato soprattutto al pesce, tra crudi, pasta, griglia e vista sulla catted…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/mare-ristorante-capitaneo-piazza-duomo-milano/",
+        "pubDate": "2026-09-22T07:54:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Calabria fanno un vino secco con le stesse uve di un antico passito. Il risultato spiazza al primo sorso",
+        "description": "Ai piedi del Pollino Cantine Diana e Cantine Viola recuperano uve e pratiche della tradizione di Saracena per produrre bianchi secchi molto diversi dal celebre …",
+        "link": "https://www.gamberorosso.it/notizie/vino/saracena-vino-secco-uve-moscato-passito/",
+        "pubDate": "2026-09-22T07:41:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tre Bicchieri 2027: ecco i 4 migliori vini della Basilicata premiati dal Gambero Rosso",
+        "description": "L'Aglianico del Vulture si conferma il re della regione che vede emergere anche altre Doc con una qualità da record. Eppure, tra calo dei consumi e prezzi schia…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-basilicata/",
+        "pubDate": "2026-09-22T05:10:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "I Me contro Te spingono i bambini da McDonald’s da anni, e nessuno dice niente",
         "description": "I Me Contro Te continuano ad adorare McDonald's e nessuno (nemmeno McDonald's) fa niente per evitare che lo raccontino ai bambini.\nL'articolo I Me contro Te spi…",
@@ -111,15 +174,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "11.500 ettari di vigne e nessuna vera mappa. Ora l’Oltrepò ha disegnato il suo territorio",
-        "description": "Alessandro Masnaghetti ha disegnato la prima carta vitivinicola dell’Oltrepò Pavese: quattro vallate, altitudini e suoli per raccontare un territorio che ora pu…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/oltrepo-pavese-mappa-vigneti-classese/",
-        "pubDate": "2026-09-21T09:28:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Raw Beauty di JYSK: superfici lucide, dettagli grezzi e un caldo tono melanzana per la nuova linea autunnale",
         "description": "Glossy &#038; Raw e i caldi toni di melanzana, marrone e verde nel nuovo assortimento indoor JYSK. Definito Raw Beauty, dal design scandinavo contemporaneo trae…",
         "link": "https://www.stylosophy.it/articolo/raw-beauty-di-jysk-la-nuova-linea-indoor-autunnale/253760/",
@@ -127,63 +181,18 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "I Digestive non aiutano a digerire: la vera storia del biscotto più famoso del Regno Unito",
-        "description": "Nati nell’Ottocento con la fama di aiutare la digestione, sono diventati uno dei biscotti britannici più famosi al mondo. Ma dietro il loro nome c’è una storia …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-biscotti-digestive-si-chiamano-cosi/",
-        "pubDate": "2026-09-21T08:58:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha lasciato Milano per cucinare in Sicilia solo con legna e brace. “Il futuro è meno tecnica”",
-        "description": "A Orti Villadorata, nella campagna di Noto, Matteo Carnaghi costruisce il menu su ciò che trova ogni giorno e cucina con legna e brace: \"Bisogna tornare alla so…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/matteo-carnaghi-orti-villadorata-noto/",
-        "pubDate": "2026-09-21T08:56:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A 22 anni voleva aprire una gelateria sotto casa. I genitori gli dicevano di trovarsi un posto sicuro",
-        "description": "Mirco Errigo aveva un diploma da perito chimico e due concorsi per la Guardia di Finanza alle spalle. Scelse invece Pellaro: oggi la sua gelateria impiega fino …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mirco-errigo-gelateria-pellaro-reggio-calabria/",
-        "pubDate": "2026-09-21T08:45:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A cena in motoslitta per mangiare carbonada e polenta in una baita sopra Cogne",
-        "description": "Carbonada, favò, trote di Lillaz, polenta e selvaggina: Baita Sylvenoire è immersa nella natura sopra Cogne e d'inverno organizza anche il trasporto serale in m…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baita-sylvenoire-cogne-cucina-valdostana/",
-        "pubDate": "2026-09-21T08:36:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La nuova serie su Ferran Adrià potrebbe avere qualcosa da dire oltre la gastronomia",
-        "description": "Una nuova serie televisiva in sei episodi racconta la parabola dello chef a El Bulli, con una lente sui suoi aspetti antropologicamente rivoluzionari.\nL'articol…",
-        "link": "https://www.dissapore.com/notizie/la-nuova-serie-su-ferran-adria-potrebbe-avere-qualcosa-da-dire-oltre-la-gastronomia/",
-        "pubDate": "2026-09-21T08:35:04+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2014/03/Piatti-di-El-Bulli-disegni-preparatori.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ristorazione in Europa: come cambiano i consumi tra generazioni",
-        "description": "La ristorazione in Europa cresce nella spesa, ma perde visite. Nei dodici mesi terminati a giugno 2026, i consumatori di Gran Bretagna, Germania, Francia, Spagn…",
-        "link": "https://www.winemag.it/ristorazione-in-europa-come-cambiano-i-consumi-tra-generazioni-circana/",
-        "pubDate": "2026-09-21T08:26:35+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Autunno da vivere nei borghi: 5 destinazioni in Italia e in Europa che meritano un viaggio",
+        "description": "Dalle località italiane immerse nei colori del foliage ai piccoli centri europei dove l’autunno regala eventi, cucina locale e atmosfere particolari: cinque ide…",
+        "link": "https://www.stylosophy.it/articolo/autunno-da-vivere-nei-borghi-destinazioni-in-italia-e-in-europa/253776/",
+        "pubDate": "2026-09-22T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Giulia De Lellis è la protagonista della nuova campagna di Primark: ecco tutti i capi selezionati da lei per quest’autunno",
         "description": "Giulia De Lellis è la protagonista della nuova campagna di Primark: qui per i dettagli.…",
@@ -354,18 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Vivere comodi in 40 mq? i must IKEA per arredare il tuo mini appartamento",
-        "description": "Trasformare anche il più piccolo degli appartamenti in uno spazio accogliente e funzionale? E' più semplice di quanto pensi. Con il design intelligente di IKEA,…",
-        "link": "https://www.stylosophy.it/articolo/must-ikea-per-arredare-il-tuo-mini-appartamento/240944/",
-        "pubDate": "2026-09-17T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Ha perso il lavoro e ha trasformato la sua Smart in una pizzeria. Ora fattura 12mila dollari al mese",
+        "description": "Bradley Alvelo ha perso il lavoro mentre stava per diventare padre. Con due forni e una Smart ha creato Pizza Pod NYC, una pizzeria mobile che oggi dichiara cir…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-pod-smart-pizzeria-new-york/",
+        "pubDate": "2026-09-22T09:25:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Colpo gobbo nelle Langhe: furto da centinaia di migliaia di euro alla cantina Conterno Fantino",
+        "description": "Quello ai danni della cantina di Monforte d'Alba è stato un colpo da professionisti: nessuno si è accorto di nulla.\nL'articolo Colpo gobbo nelle Langhe: furto d…",
+        "link": "https://www.dissapore.com/notizie/colpo-gobbo-nelle-langhe-furto-da-centinaia-di-migliaia-di-euro-alla-cantina-conterno-fantino/",
+        "pubDate": "2026-09-22T09:20:16+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/conterno-fantino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ha mangiato due teste d’aglio e si è fatto annusare ogni 90 minuti. Ora ha fondato un’associazione di assaggiatori",
+        "description": "Sette soci, degustazioni alla cieca e schede da 100 punti: a Songavazzo nasce Vampiri Italiani, l'associazione che vuole studiare varietà, persistenza e abbinam…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vampiri-italiani-assaggiatori-aglio/",
+        "pubDate": "2026-09-22T08:01:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Crudi, spaghetti alle vongole e griglia: apre Mare con terrazza su piazza Duomo a Milano",
+        "description": "Mario e Remo Capitaneo raddoppiano nello stesso palazzo di Verso con un ristorante dedicato soprattutto al pesce, tra crudi, pasta, griglia e vista sulla catted…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/mare-ristorante-capitaneo-piazza-duomo-milano/",
+        "pubDate": "2026-09-22T07:54:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Calabria fanno un vino secco con le stesse uve di un antico passito. Il risultato spiazza al primo sorso",
+        "description": "Ai piedi del Pollino Cantine Diana e Cantine Viola recuperano uve e pratiche della tradizione di Saracena per produrre bianchi secchi molto diversi dal celebre …",
+        "link": "https://www.gamberorosso.it/notizie/vino/saracena-vino-secco-uve-moscato-passito/",
+        "pubDate": "2026-09-22T07:41:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tre Bicchieri 2027: ecco i 4 migliori vini della Basilicata premiati dal Gambero Rosso",
+        "description": "L'Aglianico del Vulture si conferma il re della regione che vede emergere anche altre Doc con una qualità da record. Eppure, tra calo dei consumi e prezzi schia…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-basilicata/",
+        "pubDate": "2026-09-22T05:10:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "I Me contro Te spingono i bambini da McDonald’s da anni, e nessuno dice niente",
         "description": "I Me Contro Te continuano ad adorare McDonald's e nessuno (nemmeno McDonald's) fa niente per evitare che lo raccontino ai bambini.\nL'articolo I Me contro Te spi…",
@@ -448,51 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "11.500 ettari di vigne e nessuna vera mappa. Ora l’Oltrepò ha disegnato il suo territorio",
-        "description": "Alessandro Masnaghetti ha disegnato la prima carta vitivinicola dell’Oltrepò Pavese: quattro vallate, altitudini e suoli per raccontare un territorio che ora pu…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/oltrepo-pavese-mappa-vigneti-classese/",
-        "pubDate": "2026-09-21T09:28:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I Digestive non aiutano a digerire: la vera storia del biscotto più famoso del Regno Unito",
-        "description": "Nati nell’Ottocento con la fama di aiutare la digestione, sono diventati uno dei biscotti britannici più famosi al mondo. Ma dietro il loro nome c’è una storia …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/perche-biscotti-digestive-si-chiamano-cosi/",
-        "pubDate": "2026-09-21T08:58:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha lasciato Milano per cucinare in Sicilia solo con legna e brace. “Il futuro è meno tecnica”",
-        "description": "A Orti Villadorata, nella campagna di Noto, Matteo Carnaghi costruisce il menu su ciò che trova ogni giorno e cucina con legna e brace: \"Bisogna tornare alla so…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/matteo-carnaghi-orti-villadorata-noto/",
-        "pubDate": "2026-09-21T08:56:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A 22 anni voleva aprire una gelateria sotto casa. I genitori gli dicevano di trovarsi un posto sicuro",
-        "description": "Mirco Errigo aveva un diploma da perito chimico e due concorsi per la Guardia di Finanza alle spalle. Scelse invece Pellaro: oggi la sua gelateria impiega fino …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mirco-errigo-gelateria-pellaro-reggio-calabria/",
-        "pubDate": "2026-09-21T08:45:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A cena in motoslitta per mangiare carbonada e polenta in una baita sopra Cogne",
-        "description": "Carbonada, favò, trote di Lillaz, polenta e selvaggina: Baita Sylvenoire è immersa nella natura sopra Cogne e d'inverno organizza anche il trasporto serale in m…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/baita-sylvenoire-cogne-cucina-valdostana/",
-        "pubDate": "2026-09-21T08:36:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La nuova serie su Ferran Adrià potrebbe avere qualcosa da dire oltre la gastronomia",
         "description": "Una nuova serie televisiva in sei episodi racconta la parabola dello chef a El Bulli, con una lente sui suoi aspetti antropologicamente rivoluzionari.\nL'articol…",
         "link": "https://www.dissapore.com/notizie/la-nuova-serie-su-ferran-adria-potrebbe-avere-qualcosa-da-dire-oltre-la-gastronomia/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Le due migliori gelaterie del Trentino nel 2026",
-        "description": "Le gelaterie artigianali trentine valide sono così davvero poche, ma meritano di essere provate. Quali sono e perché. \nL'articolo Le due migliori gelaterie del …",
-        "link": "https://www.dissapore.com/locali/le-due-migliori-gelaterie-del-trentino-nel-2026/",
-        "pubDate": "2026-09-19T13:26:46+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/mucche-allevamento-scaled-e1782498002111.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
