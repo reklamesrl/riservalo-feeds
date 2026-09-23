@@ -1,7 +1,79 @@
 {
-  "generated": "2026-09-23T10:54:28.092718+00:00",
+  "generated": "2026-09-23T16:14:50.359825+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Milano Fashion Week SS27: le sfilate e gli eventi in calendario",
+        "description": "Dal 22 al 28 settembre Milano torna capitale della moda con passerelle, mostre e appuntamenti accessibili anche al pubblico. Ecco cosa vedere.…",
+        "link": "https://www.stylosophy.it/articolo/milano-fashion-week-ss27-le-sfilate-e-gli-eventi-in-calendario/253799/",
+        "pubDate": "2026-09-23T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Abbiamo assaggiato 24 ceci in scatola del supermercato. Questi sono i 12 migliori",
+        "description": "Abbiamo degustato alla cieca 24 prodotti della grande distribuzione, valutando consistenza, profumi e sapore. In classifica entrano 12 ceci, da 49 centesimi a 2…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-ceci-scatola-supermercato/",
+        "pubDate": "2026-09-23T13:22:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Brewdog, finalmente parla la nuova proprietà: priorità alle persone",
+        "description": "Tilray Brands, che ha acquisito il marchio, lancia una campagna con cui vuole prendere le distanze dal passato recente del birrificio. \nL'articolo Brewdog, fina…",
+        "link": "https://www.dissapore.com/notizie/brewdog-finalmente-parla-la-nuova-proprieta-priorita-alle-persone/",
+        "pubDate": "2026-09-23T13:08:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/brewdog-pinta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Beer Catania, dal 25 al 27 settembre ad Aci Trezza arriva “Craft by the Coast”",
+        "description": "Dal 25 al 27 settembre Aci Trezza ospita “Craft by the Coast”, la nuova edizione di Beer Catania. Per la prima volta lo Scalo di Alaggio diventa sede della mani…",
+        "link": "https://www.winemag.it/beer-catania-dal-25-al-27-settembre-ad-aci-trezza-arriva-craft-by-the-coast/",
+        "pubDate": "2026-09-23T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cari amici di Libero, non c’è nessun attacco comunista al gelato",
+        "description": "Un post social di un gelatiere viene preso (troppo) sul serio dall'ex ministro Storace, che grida all'allarme rosso sulle pagine di Libero.\nL'articolo Cari amic…",
+        "link": "https://www.dissapore.com/notizie/cari-amici-di-libero-non-ce-nessun-attacco-comunista-al-gelato/",
+        "pubDate": "2026-09-23T12:25:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/gelateria-di-estrema-destra-e1790165688334.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Per rifare questo vigneto servono elicotteri e 35mila nuove viti. Succede in Valtellina",
+        "description": "ARPEPE prende in gestione per trent'anni i vigneti della Fondazione Fojanini nella Sassella: 283 terrazzi da ricostruire e 35mila piante di Nebbiolo da mettere …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/per-rifare-questo-vigneto-hanno-usato-elicotteri-e-35mila-nuove-viti-succede-in-valtellina/",
+        "pubDate": "2026-09-23T11:11:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "5 combo colore da indossare a ripetizione questo settembre",
+        "description": "Settembre, tempo di nuovi inizi e di ripartenze. E inevitabilmente, insieme al desiderio di ricominciare (e a un pizzico di malinconia per le vacanze ormai arch…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colori-autunno-abbinamenti-look-moda-settembre-bis-993786",
+        "pubDate": "2026-09-23T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_combo_colori_settembre.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "60 anni fa aprì un ristorante a Viareggio. A uno dei suoi tavoli sarebbe nata l’idea di Slow Food",
+        "description": "Romano Franceschini arrivò a Viareggio a 17 anni e aprì il suo locale nel 1966. Nel 1985 a uno dei suoi tavoli cenarono Carlo Petrini e Stefano Bonilli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/romano-viareggio-60-anni/",
+        "pubDate": "2026-09-23T10:15:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Cosa c’è nel nuovo museo delle antiche Pastiglie Leone",
         "description": "La Fabbrica della Felicità di Leone 1857 ha inaugurato alle porte di Torino. \nL'articolo Cosa c’è nel nuovo museo delle antiche Pastiglie Leone proviene da Diss…",
@@ -21,6 +93,42 @@
         "source": "Wine Mag"
       },
       {
+        "title": "In questi giardini puoi portarti il cibo da casa. Ma la birra devi comprarla lì",
+        "description": "I giardini della birra nascono in Baviera dalle cantine dei birrifici. Una regola del 1812 spiega una tradizione che resiste ancora oggi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biergarten-germania-storia-cibo-da-casa/",
+        "pubDate": "2026-09-23T10:00:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sembra una patata ma viene dai Tropici: perché questa radice è arrivata anche da noi",
+        "description": "È la manioca, alimento fondamentale in molte cucine dell'Africa e dell'America Latina. All'Esquilino un banco che vende dal 1938 racconta come è cambiata la spe…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yuca-manioca-mercato-esquilino-roma/",
+        "pubDate": "2026-09-23T09:57:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Erano le bibite simbolo di Livorno, poi sono sparite per 60 anni. Ora tornano nei bar della città",
+        "description": "Sovrana, Preziosa e Corallo Cola tornano nei locali della città. Il progetto è no profit e i proventi serviranno a sostenere il recupero delle storiche Terme de…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bibite-corallo-livorno/",
+        "pubDate": "2026-09-23T09:37:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Malvasia delle Lipari avrà sette Unità geografiche aggiuntive: una per ognuna delle Isole Eolie",
+        "description": "Le Uga non sono l'unica novità: via libera anche alla versione secca che, dopo anni di impasse, entra formalmente nella Doc con la dicitura \"bianca\". Rimangono …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/malvasia-lipari-doc-sette-unita-geografiche-aggiuntive/",
+        "pubDate": "2026-09-23T09:36:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Diego Dalla Palma Milano ridefinisce le regole della skincare con la collezione Be Pure",
         "description": "Il marchio che ha fatto della performance nel make-up il proprio tratto distintivo inaugura l'era della Makeupification. Per anni abbiamo chiesto al make-up di …",
         "link": "https://www.stylosophy.it/articolo/diego-dalla-palma-milano-ridefinisce-le-regole-della-skincare-con-la-collezione-be-pure/253786/",
@@ -28,6 +136,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Dylan Dog è vegetariano. Ma nei suoi fumetti gli chef cucinano esseri umani",
+        "description": "Dylan Dog compie 40 anni. È astemio e vegetariano, ma nei suoi incubi non mancano chef cannibali, cuori in umido e grandi vini: ecco alcune delle tavole più gas…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/dylan-dog-cibo-vegetariano-chef-cannibali/",
+        "pubDate": "2026-09-23T08:48:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "L’uomo che ha visitato quasi tutti gli Starbucks del mondo dice la sua su Starbucks",
@@ -39,7 +156,16 @@
         "source": "Dissapore"
       },
       {
-        "title": "Da 90 anni questa famiglia sforna pane e pizza rossa a Roma. Ma la storia del forno comincia in Svizzera",
+        "title": "Meloni vuole un tetto agli stranieri in classe. Intanto nelle mense i menu religiosi sono già la normalità",
+        "description": "Mentre il governo prepara nuove regole sugli studenti stranieri, nelle mense sono già diffuse diete senza maiale, senza carne e halal: l’ANAC le trova nel 97% d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/meloni-menu-religiosi-mense-scolastiche/",
+        "pubDate": "2026-09-23T07:57:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Questo forno di Roma ha quasi 90 anni. Ora i bambini prenotano la merenda su WhatsApp",
         "description": "Dalla Svizzera a Roma, la storia della famiglia Beti attraversa quattro generazioni, tra pizza rossa, amori nati dietro il banco e merende preparate per i bambi…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panificio-beti-roma-pizza-rossa/",
         "pubDate": "2026-09-23T05:46:13+00:00",
@@ -48,142 +174,34 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Tre Bicchieri 2027: i 49 migliori vini del Veneto premiati dal Gambero Rosso",
-        "description": "Oltre Prosecco e Amarone: dai grandi rossi ai bianchi, il Veneto del vino punta tutto su freschezza, tensione ed eleganza, valorizzando vitigni autoctoni unici …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-veneto/",
-        "pubDate": "2026-09-23T05:10:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché andare da Aalis, la nuova bakery di Milano che si farà spazio tra le colazioni d’autore",
-        "description": "Vicinissima all'Università Cattolica, Aalis è una nuova bakery che vuole farsi spazio nella Milano delle colazioni d'autore.\nL'articolo Perché andare da Aalis, …",
-        "link": "https://www.dissapore.com/notizie/perche-andare-da-aalis-la-nuova-bakery-di-milano-che-si-fara-spazio-tra-le-colazioni-dautore/",
-        "pubDate": "2026-09-22T16:46:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/aalis-team-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vi stavate chiedendo come indossare la gonna in paillettes anche di giorno? Beh, Alexa Chung, come spesso accade, ha la risposta più cool",
-        "description": "Poche certezze nel rutilante mondo della moda ma una che ci accompagna 4ever and ever c&#8217;è: la capacità di Alexa Chung di scegliere dei capi apparentemente…",
-        "link": "https://www.grazia.it/moda/get-the-look/gonna-paillettes-come-indossare-anche-di-giorno-abbinamenti-look-alexa-chung-sfilata-prada-milano-fashion-week-999217",
-        "pubDate": "2026-09-22T15:31:36+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/alexa-chung.jpg",
+        "title": "Segno della Bilancia: i must-have perfetti per il suo guardaroba",
+        "description": "Segno di aria, settimo dello zodiaco, la Bilancia arriva sul finire di settembre per farci abbracciare la nuova stagione. Dal 23 settembre al 22 ottobre inizia …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/segno-della-bilancia-oroscopo-moda-shopping-guardaroba-vestiti-scarpe-borse-accessori-must-have-998306",
+        "pubDate": "2026-09-23T05:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_segno_BILANCIA.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Per anni ha venduto tartufo alle altre città: ora la Basilicata lo porta nelle proprie cucine",
-        "description": "Svolta nella gestione dell’”oro bianco”: dal bianco pregiato allo scorzone diventano ingredienti della ristorazione lucana…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tartufo-basilicata-quando-si-raccoglie/",
-        "pubDate": "2026-09-22T15:22:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Donatella Versace e Revolve Group danno vita insieme ad un nuovo brand: ecco tutti i dettagli",
-        "description": "Donatella Versace lancia un nuovo brand insieme a Revolve Group.…",
-        "link": "https://www.stylosophy.it/articolo/donatella-versace-e-revolve-group-danno-vita-insieme-ad-un-nuovo-brand-ecco-tutti-i-dettagli/253792/",
-        "pubDate": "2026-09-22T14:00:00+00:00",
+        "title": "Milano Fashion Week SS27: le sfilate e gli eventi in calendario",
+        "description": "Dal 22 al 28 settembre Milano torna capitale della moda con passerelle, mostre e appuntamenti accessibili anche al pubblico. Ecco cosa vedere.…",
+        "link": "https://www.stylosophy.it/articolo/milano-fashion-week-ss27-le-sfilate-e-gli-eventi-in-calendario/253799/",
+        "pubDate": "2026-09-23T14:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "La gonna midi plissé sfoggiata da Uma Thurman alla sfilata di Prada è la lezione di stile imperdibile (anche) per le over 50",
-        "description": "Ospite nel front row di Prada a Milano, l&#8217;attrice ha incantato tutti con un outfit sofisticato. Il pezzo forte? La gonna midi a pieghe, il capo chiave ide…",
-        "link": "https://www.grazia.it/moda/get-the-look/gonna-midi-a-pieghe-beige-donne-over-50-plisse-skirt-uma-thurman-look-sfilata-front-row-milano-fashion-week-999127",
-        "pubDate": "2026-09-22T13:33:18+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/uma-thurman-1.jpg",
+        "title": "5 combo colore da indossare a ripetizione questo settembre",
+        "description": "Settembre, tempo di nuovi inizi e di ripartenze. E inevitabilmente, insieme al desiderio di ricominciare (e a un pizzico di malinconia per le vacanze ormai arch…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colori-autunno-abbinamenti-look-moda-settembre-bis-993786",
+        "pubDate": "2026-09-23T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_combo_colori_settembre.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
-      {
-        "title": "Negli allevamenti di salmone in Tasmania sono state usate 150 mila bombe subacquee contro le foche",
-        "description": "I dati rilasciati dal dipartimento delle risorse naturali e dell'ambiente dimostrano un uso sconsiderato di questi dispositivi anti-foca.\nL'articolo Negli allev…",
-        "link": "https://www.dissapore.com/notizie/negli-allevamenti-di-salmone-in-tasmania-sono-state-usate-150-mila-bombe-subacquee-contro-le-foche/",
-        "pubDate": "2026-09-22T11:52:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/05/salmone-scozzese.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Colazione, cioccolato e cucina piemontese: a Torino apre un nuovo caffè con cortile segreto",
-        "description": "In via Carlo Alberto apre Caffè Borello: viennoiserie dalla mattina, gianduiotti di Alessandro Spegis, cucina di Mauro Caccianiga e un dehors nascosto nel corti…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caffe-borello-torino-apertura/",
-        "pubDate": "2026-09-22T11:46:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Mediterranea: la creatività made in Campania arriva alla Milano Fashion Week",
-        "description": "La tradizione sartoriale campana incontra la creatività delle nuove generazioni e approda nel cuore della Milano Fashion Week. Si chiama “Mediterranea. Talenti …",
-        "link": "https://www.grazia.it/moda/news-moda/mediterranea-creativita-campania-alla-milano-fashion-week-999095",
-        "pubDate": "2026-09-22T10:49:45+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/mediterranea-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Promozione del vino italiano all’estero: ecco l’elenco dei progetti finanziati dal Masaf",
-        "description": "Il Ministero dell'Agricoltura approva la graduatoria dei progetti Ocm Promozione 2026/27. Sono 15 i progetti ammessi per un importo complessivo statale di 28,5 …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/promozione-vino-italiano-estero-masaf-beneficiari-2026-2027/",
-        "pubDate": "2026-09-22T10:37:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Furto da centinaia di migliaia di euro nelle Langhe: rubate 3mila bottiglie di Barolo nella cantina Conterno Fantino",
-        "description": "Banda di professionisti in azione a Monforte d’Alba: hanno usato il muletto dell'azienda per caricare tremila bottiglie di pregiato Barolo, concentrandosi sulle…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/maxi-furto-barolo-cantina-conterno-fantino/",
-        "pubDate": "2026-09-22T10:20:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nutella ha cambiato gusto per la prima volta in oltre 60 anni. Abbiamo assaggiato quella con le arachidi",
-        "description": "Si chiama Nutella Peanut, è il primo nuovo gusto in oltre sessant'anni ed è venduta in Nord America. L'abbiamo fatta arrivare in Italia per provarla…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/nutella-peanut-arachidi-assaggio/",
-        "pubDate": "2026-09-22T10:20:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La torta italiana che non si taglia: si rompe con le mani e un tempo si portava nei campi",
-        "description": "Nasce a Gragnano Trebbiense da farina, burro, zucchero e tuorli sodi: un dolce contadino che prende il nome dal gesto con cui ancora oggi viene preparato…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torta-spisigona-piacenza-ricetta-storia/",
-        "pubDate": "2026-09-22T10:15:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In uno dei borghi più belli dell’Oltrepò sono arrivati due chef con un’idea diversa di cucina",
-        "description": "Fabrizio Ferrari e Ivan Milani guidano i due ristoranti del Borgo dei Gatti: tradizioni dell’Oltrepò, influenze delle regioni vicine, fermentati e pizza convivo…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/golferenzo-ferrari-milani-borgo-dei-gatti/7-meta-description/",
-        "pubDate": "2026-09-22T10:03:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha perso il lavoro e ha trasformato la sua Smart in una pizzeria. Ora fattura 12mila dollari al mese",
-        "description": "Bradley Alvelo ha perso il lavoro mentre stava per diventare padre. Con due forni e una Smart ha creato Pizza Pod NYC, una pizzeria mobile che oggi dichiara cir…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-pod-smart-pizzeria-new-york/",
-        "pubDate": "2026-09-22T09:25:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Diego Dalla Palma Milano ridefinisce le regole della skincare con la collezione Be Pure",
         "description": "Il marchio che ha fatto della performance nel make-up il proprio tratto distintivo inaugura l'era della Makeupification. Per anni abbiamo chiesto al make-up di …",
@@ -194,6 +212,33 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Segno della Bilancia: i must-have perfetti per il suo guardaroba",
+        "description": "Segno di aria, settimo dello zodiaco, la Bilancia arriva sul finire di settembre per farci abbracciare la nuova stagione. Dal 23 settembre al 22 ottobre inizia …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/segno-della-bilancia-oroscopo-moda-shopping-guardaroba-vestiti-scarpe-borse-accessori-must-have-998306",
+        "pubDate": "2026-09-23T05:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_segno_BILANCIA.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Oggi è l’equinozio d’autunno e questa è la nostra shopping list per dare un super benvenuto alla nuova stagione",
+        "description": "L’estate è ufficialmente al capolinea e l’equinozio d’autunno porta con sé quell’inimitabile atmosfera di nuovo inizio, fatta di aria frizzantina, tazze fumanti…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/equinozio-autunno-2026-primo-giorno-autunnale-shopping-list-vestiti-scarpe-accessori-cosa-comprare-nuova-stagione-998833",
+        "pubDate": "2026-09-23T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_Shopping_welcome_autumn.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Prada Primavera-Estate 2027: ode alla gonna, in tutte le sue forme",
+        "description": "La grottesca conversazione sulla gonna che sta interessando l&#8217;attualità in questi giorni sembra trovare una naturale risposta nella sfilata Prada Primaver…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/prada-primavera-estate-2027-the-skirt-sfilata-999214",
+        "pubDate": "2026-09-22T22:23:01+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-prada-ss27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Vi stavate chiedendo come indossare la gonna in paillettes anche di giorno? Beh, Alexa Chung, come spesso accade, ha la risposta più cool",
         "description": "Poche certezze nel rutilante mondo della moda ma una che ci accompagna 4ever and ever c&#8217;è: la capacità di Alexa Chung di scegliere dei capi apparentemente…",
         "link": "https://www.grazia.it/moda/get-the-look/gonna-paillettes-come-indossare-anche-di-giorno-abbinamenti-look-alexa-chung-sfilata-prada-milano-fashion-week-999217",
@@ -213,7 +258,7 @@
       },
       {
         "title": "La gonna midi plissé sfoggiata da Uma Thurman alla sfilata di Prada è la lezione di stile imperdibile (anche) per le over 50",
-        "description": "Ospite nel front row di Prada a Milano, l&#8217;attrice ha incantato tutti con un outfit sofisticato. Il pezzo forte? La gonna midi a pieghe, il capo chiave ide…",
+        "description": "Tra gli ospiti più attesi e ammirati nell&#8217;attesissimo front row della sfilata di Prada a Milano, Uma Thurman ha conquistato ancora una volta la scena con …",
         "link": "https://www.grazia.it/moda/get-the-look/gonna-midi-a-pieghe-beige-donne-over-50-plisse-skirt-uma-thurman-look-sfilata-front-row-milano-fashion-week-999127",
         "pubDate": "2026-09-22T13:33:18+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/09/uma-thurman-1.jpg",
@@ -284,15 +329,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Céline Dion è tornata, e incanta Parigi con la voce e con i suoi look",
-        "description": "Dopo essere stata lontana dalle scene per circa sei anni, Céline Dion non poteva certo far passare in sordina il suo grande ritorno. La cantante canadese, dopo …",
-        "link": "https://www.grazia.it/moda/celebrity-style/celine-dion-parigi-concerti-look-louis-vuitton-givenchy-alaia-abiti-gioielli-998388",
-        "pubDate": "2026-09-21T11:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-Celine-Dion-look-concerti-Parigi-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Raw Beauty di JYSK: superfici lucide, dettagli grezzi e un caldo tono melanzana per la nuova linea autunnale",
         "description": "Glossy &#038; Raw e i caldi toni di melanzana, marrone e verde nel nuovo assortimento indoor JYSK. Definito Raw Beauty, dal design scandinavo contemporaneo trae…",
         "link": "https://www.stylosophy.it/articolo/raw-beauty-di-jysk-la-nuova-linea-indoor-autunnale/253760/",
@@ -300,24 +336,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Il blazer, per noi, è il pezzo chiave dei look autunnali più riusciti (e questi sono i modelli più belli in circolazione!)",
-        "description": "Torna, come inevitabilmente accade, ma lo fa dimostrandoci ancora una volta che si può sempre cambiare. Stiamo parlando del blazer, uno dei capi più versatili e…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/blazer-donna-autunno-modelli-lunghi-corti-giacche-eleganti-ufficio-997417",
-        "pubDate": "2026-09-21T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_blazer.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Occhiali da sole: i modelli più cool dell’autunno sono già qui",
-        "description": "È vero, durante i mesi caldi sono i nostri compagni inseparabili e del resto, con il sole cocente e la luce intensa dell’estate, non potrebbe essere altrimenti:…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/occhiali-da-sole-autunno-montature-tendenza-chanel-tondi-ovali-cateye-metallo-aviator-mascherina-997632",
-        "pubDate": "2026-09-21T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_occhiali-da-sole.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Spicole, i micro-aghi della skincare coreana: benefici e quando è meglio evitare",
@@ -338,15 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Gli psicologi sono tutti d’accordo: dopo i 40, indossare questo colore in autunno aumenta l’autostima e migliora l’umore!",
-        "description": "Dopo i 40 anni, il colore che indossi in autunno incide su umore, postura e percezione di te stessa. Gli psicologi indicano una nuance precisa che cambia l’auto…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/colore-da-indossare-in-autunno-dopo-40-anni-buonumore-autostima-per-psicologi-993632",
-        "pubDate": "2026-09-20T06:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/ruggine-colore-dopo-i-40-anni-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Jennifer Lopez saluta l’estate con questo iconico beach Look: elegante anche in spiaggia!",
         "description": "Jennifer Lopez sfoggia un beach look di super tendenza e molto elegante: qui per i dettagli.…",
         "link": "https://www.stylosophy.it/articolo/jennifer-lopez-saluta-lestate-con-questo-iconico-beach-look-elegante-anche-in-spiaggia/253738/",
@@ -354,18 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Isola del Giglio a settembre: cosa fare, spiagge e consigli di viaggio",
-        "description": "Meno folla, mare ancora piacevole e un calendario di appuntamenti legati alla tradizione locale: settembre è un periodo interessante per scoprire il Giglio con …",
-        "link": "https://www.stylosophy.it/articolo/isola-del-giglio-a-settembre-cosa-fare-spiagge-e-consigli-di-viaggio/253743/",
-        "pubDate": "2026-09-19T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Abbiamo assaggiato 24 ceci in scatola del supermercato. Questi sono i 12 migliori",
+        "description": "Abbiamo degustato alla cieca 24 prodotti della grande distribuzione, valutando consistenza, profumi e sapore. In classifica entrano 12 ceci, da 49 centesimi a 2…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-ceci-scatola-supermercato/",
+        "pubDate": "2026-09-23T13:22:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Brewdog, finalmente parla la nuova proprietà: priorità alle persone",
+        "description": "Tilray Brands, che ha acquisito il marchio, lancia una campagna con cui vuole prendere le distanze dal passato recente del birrificio. \nL'articolo Brewdog, fina…",
+        "link": "https://www.dissapore.com/notizie/brewdog-finalmente-parla-la-nuova-proprieta-priorita-alle-persone/",
+        "pubDate": "2026-09-23T13:08:38+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/brewdog-pinta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Beer Catania, dal 25 al 27 settembre ad Aci Trezza arriva “Craft by the Coast”",
+        "description": "Dal 25 al 27 settembre Aci Trezza ospita “Craft by the Coast”, la nuova edizione di Beer Catania. Per la prima volta lo Scalo di Alaggio diventa sede della mani…",
+        "link": "https://www.winemag.it/beer-catania-dal-25-al-27-settembre-ad-aci-trezza-arriva-craft-by-the-coast/",
+        "pubDate": "2026-09-23T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cari amici di Libero, non c’è nessun attacco comunista al gelato",
+        "description": "Un post social di un gelatiere viene preso (troppo) sul serio dall'ex ministro Storace, che grida all'allarme rosso sulle pagine di Libero.\nL'articolo Cari amic…",
+        "link": "https://www.dissapore.com/notizie/cari-amici-di-libero-non-ce-nessun-attacco-comunista-al-gelato/",
+        "pubDate": "2026-09-23T12:25:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/gelateria-di-estrema-destra-e1790165688334.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Per rifare questo vigneto servono elicotteri e 35mila nuove viti. Succede in Valtellina",
+        "description": "ARPEPE prende in gestione per trent'anni i vigneti della Fondazione Fojanini nella Sassella: 283 terrazzi da ricostruire e 35mila piante di Nebbiolo da mettere …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/per-rifare-questo-vigneto-hanno-usato-elicotteri-e-35mila-nuove-viti-succede-in-valtellina/",
+        "pubDate": "2026-09-23T11:11:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "60 anni fa aprì un ristorante a Viareggio. A uno dei suoi tavoli sarebbe nata l’idea di Slow Food",
+        "description": "Romano Franceschini arrivò a Viareggio a 17 anni e aprì il suo locale nel 1966. Nel 1985 a uno dei suoi tavoli cenarono Carlo Petrini e Stefano Bonilli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/romano-viareggio-60-anni/",
+        "pubDate": "2026-09-23T10:15:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Cosa c’è nel nuovo museo delle antiche Pastiglie Leone",
         "description": "La Fabbrica della Felicità di Leone 1857 ha inaugurato alle porte di Torino. \nL'articolo Cosa c’è nel nuovo museo delle antiche Pastiglie Leone proviene da Diss…",
@@ -385,6 +439,51 @@
         "source": "Wine Mag"
       },
       {
+        "title": "In questi giardini puoi portarti il cibo da casa. Ma la birra devi comprarla lì",
+        "description": "I giardini della birra nascono in Baviera dalle cantine dei birrifici. Una regola del 1812 spiega una tradizione che resiste ancora oggi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biergarten-germania-storia-cibo-da-casa/",
+        "pubDate": "2026-09-23T10:00:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sembra una patata ma viene dai Tropici: perché questa radice è arrivata anche da noi",
+        "description": "È la manioca, alimento fondamentale in molte cucine dell'Africa e dell'America Latina. All'Esquilino un banco che vende dal 1938 racconta come è cambiata la spe…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yuca-manioca-mercato-esquilino-roma/",
+        "pubDate": "2026-09-23T09:57:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Erano le bibite simbolo di Livorno, poi sono sparite per 60 anni. Ora tornano nei bar della città",
+        "description": "Sovrana, Preziosa e Corallo Cola tornano nei locali della città. Il progetto è no profit e i proventi serviranno a sostenere il recupero delle storiche Terme de…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bibite-corallo-livorno/",
+        "pubDate": "2026-09-23T09:37:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La Malvasia delle Lipari avrà sette Unità geografiche aggiuntive: una per ognuna delle Isole Eolie",
+        "description": "Le Uga non sono l'unica novità: via libera anche alla versione secca che, dopo anni di impasse, entra formalmente nella Doc con la dicitura \"bianca\". Rimangono …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/malvasia-lipari-doc-sette-unita-geografiche-aggiuntive/",
+        "pubDate": "2026-09-23T09:36:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dylan Dog è vegetariano. Ma nei suoi fumetti gli chef cucinano esseri umani",
+        "description": "Dylan Dog compie 40 anni. È astemio e vegetariano, ma nei suoi incubi non mancano chef cannibali, cuori in umido e grandi vini: ecco alcune delle tavole più gas…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/dylan-dog-cibo-vegetariano-chef-cannibali/",
+        "pubDate": "2026-09-23T08:48:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "L’uomo che ha visitato quasi tutti gli Starbucks del mondo dice la sua su Starbucks",
         "description": "Reuters intervista Winter, l'americano che ha visitato oltre 20.500 Starbucks nel mondo, che non sembra così entusiasta delle ultime novità.\nL'articolo L&#8217;…",
         "link": "https://www.dissapore.com/notizie/luomo-che-ha-visitato-quasi-tutti-gli-starbucks-del-mondo-dice-la-sua-su-starbucks/",
@@ -394,19 +493,19 @@
         "source": "Dissapore"
       },
       {
-        "title": "Da 90 anni questa famiglia sforna pane e pizza rossa a Roma. Ma la storia del forno comincia in Svizzera",
-        "description": "Dalla Svizzera a Roma, la storia della famiglia Beti attraversa quattro generazioni, tra pizza rossa, amori nati dietro il banco e merende preparate per i bambi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panificio-beti-roma-pizza-rossa/",
-        "pubDate": "2026-09-23T05:46:13+00:00",
+        "title": "Meloni vuole un tetto agli stranieri in classe. Intanto nelle mense i menu religiosi sono già la normalità",
+        "description": "Mentre il governo prepara nuove regole sugli studenti stranieri, nelle mense sono già diffuse diete senza maiale, senza carne e halal: l’ANAC le trova nel 97% d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/meloni-menu-religiosi-mense-scolastiche/",
+        "pubDate": "2026-09-23T07:57:01+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
       },
       {
-        "title": "Tre Bicchieri 2027: i 49 migliori vini del Veneto premiati dal Gambero Rosso",
-        "description": "Oltre Prosecco e Amarone: dai grandi rossi ai bianchi, il Veneto del vino punta tutto su freschezza, tensione ed eleganza, valorizzando vitigni autoctoni unici …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-veneto/",
-        "pubDate": "2026-09-23T05:10:28+00:00",
+        "title": "Questo forno di Roma ha quasi 90 anni. Ora i bambini prenotano la merenda su WhatsApp",
+        "description": "Dalla Svizzera a Roma, la storia della famiglia Beti attraversa quattro generazioni, tra pizza rossa, amori nati dietro il banco e merende preparate per i bambi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panificio-beti-roma-pizza-rossa/",
+        "pubDate": "2026-09-23T05:46:13+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -421,15 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Per anni ha venduto tartufo alle altre città: ora la Basilicata lo porta nelle proprie cucine",
-        "description": "Svolta nella gestione dell’”oro bianco”: dal bianco pregiato allo scorzone diventano ingredienti della ristorazione lucana…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tartufo-basilicata-quando-si-raccoglie/",
-        "pubDate": "2026-09-22T15:22:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Negli allevamenti di salmone in Tasmania sono state usate 150 mila bombe subacquee contro le foche",
         "description": "I dati rilasciati dal dipartimento delle risorse naturali e dell'ambiente dimostrano un uso sconsiderato di questi dispositivi anti-foca.\nL'articolo Negli allev…",
         "link": "https://www.dissapore.com/notizie/negli-allevamenti-di-salmone-in-tasmania-sono-state-usate-150-mila-bombe-subacquee-contro-le-foche/",
@@ -437,69 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/05/salmone-scozzese.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Colazione, cioccolato e cucina piemontese: a Torino apre un nuovo caffè con cortile segreto",
-        "description": "In via Carlo Alberto apre Caffè Borello: viennoiserie dalla mattina, gianduiotti di Alessandro Spegis, cucina di Mauro Caccianiga e un dehors nascosto nel corti…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/caffe-borello-torino-apertura/",
-        "pubDate": "2026-09-22T11:46:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Promozione del vino italiano all’estero: ecco l’elenco dei progetti finanziati dal Masaf",
-        "description": "Il Ministero dell'Agricoltura approva la graduatoria dei progetti Ocm Promozione 2026/27. Sono 15 i progetti ammessi per un importo complessivo statale di 28,5 …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/promozione-vino-italiano-estero-masaf-beneficiari-2026-2027/",
-        "pubDate": "2026-09-22T10:37:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Furto da centinaia di migliaia di euro nelle Langhe: rubate 3mila bottiglie di Barolo nella cantina Conterno Fantino",
-        "description": "Banda di professionisti in azione a Monforte d’Alba: hanno usato il muletto dell'azienda per caricare tremila bottiglie di pregiato Barolo, concentrandosi sulle…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/maxi-furto-barolo-cantina-conterno-fantino/",
-        "pubDate": "2026-09-22T10:20:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nutella ha cambiato gusto per la prima volta in oltre 60 anni. Abbiamo assaggiato quella con le arachidi",
-        "description": "Si chiama Nutella Peanut, è il primo nuovo gusto in oltre sessant'anni ed è venduta in Nord America. L'abbiamo fatta arrivare in Italia per provarla…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/nutella-peanut-arachidi-assaggio/",
-        "pubDate": "2026-09-22T10:20:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La torta italiana che non si taglia: si rompe con le mani e un tempo si portava nei campi",
-        "description": "Nasce a Gragnano Trebbiense da farina, burro, zucchero e tuorli sodi: un dolce contadino che prende il nome dal gesto con cui ancora oggi viene preparato…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/torta-spisigona-piacenza-ricetta-storia/",
-        "pubDate": "2026-09-22T10:15:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In uno dei borghi più belli dell’Oltrepò sono arrivati due chef con un’idea diversa di cucina",
-        "description": "Fabrizio Ferrari e Ivan Milani guidano i due ristoranti del Borgo dei Gatti: tradizioni dell’Oltrepò, influenze delle regioni vicine, fermentati e pizza convivo…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/golferenzo-ferrari-milani-borgo-dei-gatti/7-meta-description/",
-        "pubDate": "2026-09-22T10:03:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ha perso il lavoro e ha trasformato la sua Smart in una pizzeria. Ora fattura 12mila dollari al mese",
-        "description": "Bradley Alvelo ha perso il lavoro mentre stava per diventare padre. Con due forni e una Smart ha creato Pizza Pod NYC, una pizzeria mobile che oggi dichiara cir…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pizza-pod-smart-pizzeria-new-york/",
-        "pubDate": "2026-09-22T09:25:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Colpo gobbo nelle Langhe: furto da centinaia di migliaia di euro alla cantina Conterno Fantino",
@@ -516,33 +543,6 @@
         "link": "https://www.dissapore.com/notizie/i-me-contro-te-spingono-i-bambini-da-mcdonalds-da-anni-e-nessuno-dice-niente/",
         "pubDate": "2026-09-21T17:06:14+00:00",
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "ONAV, Camilla De Paolis è la nuova direttrice generale",
-        "description": "Camilla De Paolis, 31 anni, enologa e PhD in Scienze Viticole ed Enologiche, è la nuova Direttrice Generale di ONAV – Organizzazione Nazionale Assaggiatori di V…",
-        "link": "https://www.winemag.it/onav-camilla-de-paolis-e-la-nuova-direttrice-generale/",
-        "pubDate": "2026-09-21T16:47:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Come l’Unione Europea vuole rivoluzionare l’agricoltura",
-        "description": "I progetti AgRI 2040 e Food 2040 vogliono facilitare l'innovazione e lo sviluppo di soluzioni concrete per affrontare le sfide, soprattutto climatiche, dell'agr…",
-        "link": "https://www.dissapore.com/notizie/come-lunione-europea-vuole-rivoluzionare-lagricoltura/",
-        "pubDate": "2026-09-21T13:34:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/agricoltura-agricoltori-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "La dieta mediterranea è ancora la migliore che abbiamo, ma non la seguiamo più",
-        "description": "La dieta perfetta esiste già? A Terra Madre si parlerà seriamente di dieta mediterranea, che fa bene alla salute e al pianeta. Ma tra cibi ultraprocessati e nuo…",
-        "link": "https://www.dissapore.com/alimentazione/la-dieta-mediterranea-e-ancora-la-migliore-che-abbiamo-ma-non-la-seguiamo-piu/",
-        "pubDate": "2026-09-21T10:54:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2020/05/olives-4567293_1920.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
