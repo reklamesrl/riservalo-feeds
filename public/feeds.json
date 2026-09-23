@@ -1,7 +1,16 @@
 {
-  "generated": "2026-09-23T16:14:50.359825+00:00",
+  "generated": "2026-09-23T21:10:27.386348+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Distillazione di crisi, estirpi dei vigneti e vendemmia verde. Chi e come può attivarli secondo il nuovo regolamento Ue",
+        "description": "Il finanziamento potrà avvenire con fondi nazionali e con il via libera della Commissione, a seconda delle differenti situazioni in cui si trovano vini e territ…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/distillazione-estirpi-vendemmia-verde-nuovo-regolamento-ue/",
+        "pubDate": "2026-09-23T15:08:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Milano Fashion Week SS27: le sfilate e gli eventi in calendario",
         "description": "Dal 22 al 28 settembre Milano torna capitale della moda con passerelle, mostre e appuntamenti accessibili anche al pubblico. Ecco cosa vedere.…",
@@ -10,6 +19,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Palermo Coffee Festival, tre giorni per imparare a bere il caffè",
+        "description": "Dal 25 al 27 settembre al Marina Yachting la quarta edizione, tra riflessioni e masterclass che mettono la tazzina accanto al vino, al pane di grani antichi e a…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/palermo-coffee-festival/",
+        "pubDate": "2026-09-23T13:55:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Abbiamo assaggiato 24 ceci in scatola del supermercato. Questi sono i 12 migliori",
@@ -50,7 +68,7 @@
       {
         "title": "Per rifare questo vigneto servono elicotteri e 35mila nuove viti. Succede in Valtellina",
         "description": "ARPEPE prende in gestione per trent'anni i vigneti della Fondazione Fojanini nella Sassella: 283 terrazzi da ricostruire e 35mila piante di Nebbiolo da mettere …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/per-rifare-questo-vigneto-hanno-usato-elicotteri-e-35mila-nuove-viti-succede-in-valtellina/",
+        "link": "https://www.gamberorosso.it/notizie/attualita/arpepe-vigneto-sassella-fojanini/",
         "pubDate": "2026-09-23T11:11:13+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
@@ -154,24 +172,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/negozio-starbucks.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Meloni vuole un tetto agli stranieri in classe. Intanto nelle mense i menu religiosi sono già la normalità",
-        "description": "Mentre il governo prepara nuove regole sugli studenti stranieri, nelle mense sono già diffuse diete senza maiale, senza carne e halal: l’ANAC le trova nel 97% d…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/meloni-menu-religiosi-mense-scolastiche/",
-        "pubDate": "2026-09-23T07:57:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questo forno di Roma ha quasi 90 anni. Ora i bambini prenotano la merenda su WhatsApp",
-        "description": "Dalla Svizzera a Roma, la storia della famiglia Beti attraversa quattro generazioni, tra pizza rossa, amori nati dietro il banco e merende preparate per i bambi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panificio-beti-roma-pizza-rossa/",
-        "pubDate": "2026-09-23T05:46:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Segno della Bilancia: i must-have perfetti per il suo guardaroba",
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Distillazione di crisi, estirpi dei vigneti e vendemmia verde. Chi e come può attivarli secondo il nuovo regolamento Ue",
+        "description": "Il finanziamento potrà avvenire con fondi nazionali e con il via libera della Commissione, a seconda delle differenti situazioni in cui si trovano vini e territ…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/distillazione-estirpi-vendemmia-verde-nuovo-regolamento-ue/",
+        "pubDate": "2026-09-23T15:08:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Palermo Coffee Festival, tre giorni per imparare a bere il caffè",
+        "description": "Dal 25 al 27 settembre al Marina Yachting la quarta edizione, tra riflessioni e masterclass che mettono la tazzina accanto al vino, al pane di grani antichi e a…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/palermo-coffee-festival/",
+        "pubDate": "2026-09-23T13:55:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Abbiamo assaggiato 24 ceci in scatola del supermercato. Questi sono i 12 migliori",
         "description": "Abbiamo degustato alla cieca 24 prodotti della grande distribuzione, valutando consistenza, profumi e sapore. In classifica entrano 12 ceci, da 49 centesimi a 2…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-ceci-scatola-supermercato/",
@@ -405,7 +423,7 @@
       {
         "title": "Per rifare questo vigneto servono elicotteri e 35mila nuove viti. Succede in Valtellina",
         "description": "ARPEPE prende in gestione per trent'anni i vigneti della Fondazione Fojanini nella Sassella: 283 terrazzi da ricostruire e 35mila piante di Nebbiolo da mettere …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/per-rifare-questo-vigneto-hanno-usato-elicotteri-e-35mila-nuove-viti-succede-in-valtellina/",
+        "link": "https://www.gamberorosso.it/notizie/attualita/arpepe-vigneto-sassella-fojanini/",
         "pubDate": "2026-09-23T11:11:13+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
@@ -491,24 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/negozio-starbucks.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Meloni vuole un tetto agli stranieri in classe. Intanto nelle mense i menu religiosi sono già la normalità",
-        "description": "Mentre il governo prepara nuove regole sugli studenti stranieri, nelle mense sono già diffuse diete senza maiale, senza carne e halal: l’ANAC le trova nel 97% d…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/meloni-menu-religiosi-mense-scolastiche/",
-        "pubDate": "2026-09-23T07:57:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questo forno di Roma ha quasi 90 anni. Ora i bambini prenotano la merenda su WhatsApp",
-        "description": "Dalla Svizzera a Roma, la storia della famiglia Beti attraversa quattro generazioni, tra pizza rossa, amori nati dietro il banco e merende preparate per i bambi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panificio-beti-roma-pizza-rossa/",
-        "pubDate": "2026-09-23T05:46:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Perché andare da Aalis, la nuova bakery di Milano che si farà spazio tra le colazioni d’autore",
