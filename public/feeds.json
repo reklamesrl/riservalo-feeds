@@ -1,7 +1,52 @@
 {
-  "generated": "2026-09-24T11:13:29.854014+00:00",
+  "generated": "2026-09-24T16:37:16.270862+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il discorso di Mattarella a Terra Madre sembra proprio parlare di inclusione sociale",
+        "description": "Il discorso di inaugurazione di Terra Madre fatto dal Presidente della Repubblica Sergio Mattarella parla di biodiversità, ma in senso molto ampio. \nL'articolo …",
+        "link": "https://www.dissapore.com/notizie/il-discorso-di-mattarella-a-terra-madre-sembra-proprio-parlare-di-inclusione-sociale/",
+        "pubDate": "2026-09-24T15:43:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/SF0253875-scaled-e1789471965467.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Max Mara Primavera-Estate 2027: verso l’orizzonte",
+        "description": "Come da tradizione la sfilata di Max Mara apre la terza giornata di passerelle milanesi e lo fa guardando al passato. Ispirazione dello show, e della collezione…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/max-mara-primavera-estate-2027-sfilata-milano-999717",
+        "pubDate": "2026-09-24T13:56:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-Max-Mara-ss27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Vanessa Incontrada sposa Rossano Laurini: ecco l’abito indossato per la speciale occasione FOTO",
+        "description": "Ecco che cosa ha indossato Vanessa Incontrada per il suo giorno speciale con Rossano Laurini.…",
+        "link": "https://www.stylosophy.it/articolo/vanessa-incontrada-sposa-rossano-laurini-ecco-labito-indossato-per-la-speciale-occasione-foto/253810/",
+        "pubDate": "2026-09-24T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Caroline Hermann MW è la nuova presidente dell’Institute of Masters of Wine",
+        "description": "Caroline Hermann MW è la nuova presidente dell’Institute of Masters of Wine (IMW). Eletta dai membri dell’organizzazione, succede a Roderick «Rod» Smith MW e di…",
+        "link": "https://www.winemag.it/caroline-hermann-mw-e-la-nuova-presidente-dellinstitute-of-masters-of-wine/",
+        "pubDate": "2026-09-24T12:18:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Luisa Ranieri ci conferma che il trench rosso è il capospalla da avere nell’armadio per dare una svolta ai look autunnali (anche a 50 anni e oltre)",
+        "description": "È vero, in quanto a eleganza e versatilità il classico trench beige non ha proprio rivali, ma avere nell’armadio anche qualche modello più colorato può essere u…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/luisa-ranieri-trench-rosso-max-mara-zara-burberry-look-a-50-anni-come-vestirsi-elegante-lungo-corto-milano-fashion-week-999692",
+        "pubDate": "2026-09-24T12:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Luisa_Ranieri.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "McDonald’s è accusata di discriminazione verso gli affiliati di colore",
         "description": "Un gruppo di 49 franchisee ha accusato il colosso del fast food di aver deliberatamente orchestrato un sistema destinato a far fallire i gestori neri.\nL'articol…",
@@ -21,6 +66,24 @@
         "source": "Wine Mag"
       },
       {
+        "title": "La combo “blazer e camicia” non delude mai, parola di Super Simo",
+        "description": "Sono due grandi pezzi cult del guardaroba per l’ufficio e insieme danno vita a una delle combo più furbe della mezza stagione: blazer e camicia si confermano la…",
+        "link": "https://www.grazia.it/moda/get-the-look/blazer-e-camicia-come-indossare-a-60-anni-simona-ventura-fendi-look-elegante-999594",
+        "pubDate": "2026-09-24T09:08:19+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Simona_Ventura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "In arrivo nuovi contributi per il turismo enologico: a chi è rivolto e cosa prevede il decreto del Masaf",
+        "description": "Si concretizza uno dei pilastri del Pacchetto vino. C'è tempo fino al 15 dicembre per presentare le domande. Lollobrigida: \"Passo avanti per rafforzare la reput…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/decreto-masaf-turismo-enologico/",
+        "pubDate": "2026-09-24T09:08:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Conte Casa: 5 proposte di design per arredare una casa moderna e di stile",
         "description": "Poltrone, divani, letti, tavoli e scrittoi: una selezione proposta da Conte Casa dove materiali, comfort e ricerca formale si incontrano in un progetto contempo…",
         "link": "https://www.stylosophy.it/articolo/conte-casa-proposte-di-design-per-arredare-una-casa-moderna-e-di-stile/253802/",
@@ -30,6 +93,24 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Fendi Primavera-Estate 2027: a corpo libero",
+        "description": "Raffaella Carrà è stata la prima donna a mostrare l’ombelico in tv. Oggi sembra una cosa da poco, ma cinquantasei anni fa, nel 1970, non lo era affatto. Quando …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/fendi-primavera-estate-2027-sfilata-milano-fashion-week-999489",
+        "pubDate": "2026-09-24T07:56:37+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-fendi-ss27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Era figlio di un camionista e di una contadina. Con il vino è arrivato a comprarsi un castello",
+        "description": "Gianni Masciarelli è morto nel 2008 a soli 53 anni. Oggi il suo progetto continua con la moglie Marina Cvetic e le figlie Miriam Lee e Chiara, tra oltre 300 ett…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gianni-masciarelli-castello-semivicoli/",
+        "pubDate": "2026-09-24T07:52:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "La pausa pranzo è aumentata del 368%, e si torna alla “schiscetta”",
         "description": "I numeri di Federconsumatori parlano chiaro: la pausa pranzo sta diventando un lusso per pochi, e i lavoratori si ingegnano per far quadrare i conti.\nL'articolo…",
         "link": "https://www.dissapore.com/notizie/la-pausa-pranzo-e-aumentata-del-368-e-si-torna-alla-schiscetta/",
@@ -37,6 +118,42 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/schiscetta-forno-microonde-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Tovaglie a quadretti e piatti italiani: come due francesi hanno venduto l’idea di Italia al mondo",
+        "description": "Big Mamma ha trasformato l’italianità in un linguaggio riconoscibile in tutto il mondo. Tra autenticità, stereotipi e nuove aperture, il gruppo francese è diven…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/big-mamma-ristoranti-italiani-estero/",
+        "pubDate": "2026-09-24T07:34:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dopo quasi 80 anni da Nennella si può prenotare. Ma metà dei tavoli resta a chi fa la fila",
+        "description": "La storica trattoria napoletana introduce le prenotazioni online: solo metà dei posti sarà riservabile, l'altra continuerà a essere assegnata a chi arriva e met…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/nennella-napoli-prenotazioni/",
+        "pubDate": "2026-09-24T07:32:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Parajumpers compie 20 anni e affida la sua iconica giacca Gobi a 20 creativi di fama internazionale",
+        "description": "Alcune date non possono essere trascurate, si sa. Per i suoi 20 anni infatti, Parajumpers ha scelto di non guardarsi semplicemente indietro. Ieri, 23 settembre,…",
+        "link": "https://www.grazia.it/moda/news-moda/parajumpers-compie-20-anni-iconica-giacca-gobi-reinterpretata-da-artisti-internazionali-999477",
+        "pubDate": "2026-09-24T07:29:25+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/ok-apertura-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Si fa presto a dire storytelling: come raccontare un vino e quali sono gli errori da evitare",
+        "description": "Non basta raccontare una storia, ma serve offrire un'identità in cui riconoscersi. Occhio, però, alla narrazione che punta sulle difficoltà, sugli stenti e sul …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/neuromarketing-come-raccontare-vino-errori/",
+        "pubDate": "2026-09-24T06:32:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "La Spagna del vino è sempre più bianchista. Per la prima volta la produzione di bianchi supera quella di rossi",
@@ -57,133 +174,52 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Distillazione di crisi, estirpi dei vigneti e vendemmia verde. Chi e come può attivarli secondo il nuovo regolamento Ue",
-        "description": "Il finanziamento potrà avvenire con fondi nazionali e con il via libera della Commissione, a seconda delle differenti situazioni in cui si trovano vini e territ…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/distillazione-estirpi-vendemmia-verde-nuovo-regolamento-ue/",
-        "pubDate": "2026-09-23T15:08:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "Bye bye nero: questi sono i due 2 colori autunnali perfetti per “illuminare” dopo i 40 anni (e la nuance da evitare assolutamente)",
+        "description": "Ogni autunno, molte donne over 40 si rifugiano nel nero senza accorgersi che spegne il viso. Tre colori insospettabili e un grigio traditore cambiano radicalmen…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/colori-autunno-da-indossare-dopo-40-anni-abbigliamento-donna-bis-993628",
+        "pubDate": "2026-09-24T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/colori-autunno-dopo-a40-anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Max Mara Primavera-Estate 2027: verso l’orizzonte",
+        "description": "Come da tradizione la sfilata di Max Mara apre la terza giornata di passerelle milanesi e lo fa guardando al passato. Ispirazione dello show, e della collezione…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/max-mara-primavera-estate-2027-sfilata-milano-999717",
+        "pubDate": "2026-09-24T13:56:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-Max-Mara-ss27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Milano Fashion Week SS27: le sfilate e gli eventi in calendario",
-        "description": "Dal 22 al 28 settembre Milano torna capitale della moda con passerelle, mostre e appuntamenti accessibili anche al pubblico. Ecco cosa vedere.…",
-        "link": "https://www.stylosophy.it/articolo/milano-fashion-week-ss27-le-sfilate-e-gli-eventi-in-calendario/253799/",
-        "pubDate": "2026-09-23T14:00:00+00:00",
+        "title": "Vanessa Incontrada sposa Rossano Laurini: ecco l’abito indossato per la speciale occasione FOTO",
+        "description": "Ecco che cosa ha indossato Vanessa Incontrada per il suo giorno speciale con Rossano Laurini.…",
+        "link": "https://www.stylosophy.it/articolo/vanessa-incontrada-sposa-rossano-laurini-ecco-labito-indossato-per-la-speciale-occasione-foto/253810/",
+        "pubDate": "2026-09-24T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Palermo Coffee Festival, tre giorni per imparare a bere il caffè",
-        "description": "Dal 25 al 27 settembre al Marina Yachting la quarta edizione, tra riflessioni e masterclass che mettono la tazzina accanto al vino, al pane di grani antichi e a…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/palermo-coffee-festival/",
-        "pubDate": "2026-09-23T13:55:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo assaggiato 24 ceci in scatola del supermercato. Questi sono i 12 migliori",
-        "description": "Abbiamo degustato alla cieca 24 prodotti della grande distribuzione, valutando consistenza, profumi e sapore. In classifica entrano 12 ceci, da 49 centesimi a 2…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-ceci-scatola-supermercato/",
-        "pubDate": "2026-09-23T13:22:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Brewdog, finalmente parla la nuova proprietà: priorità alle persone",
-        "description": "Tilray Brands, che ha acquisito il marchio, lancia una campagna con cui vuole prendere le distanze dal passato recente del birrificio. \nL'articolo Brewdog, fina…",
-        "link": "https://www.dissapore.com/notizie/brewdog-finalmente-parla-la-nuova-proprieta-priorita-alle-persone/",
-        "pubDate": "2026-09-23T13:08:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/brewdog-pinta-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Beer Catania, dal 25 al 27 settembre ad Aci Trezza arriva “Craft by the Coast”",
-        "description": "Dal 25 al 27 settembre Aci Trezza ospita “Craft by the Coast”, la nuova edizione di Beer Catania. Per la prima volta lo Scalo di Alaggio diventa sede della mani…",
-        "link": "https://www.winemag.it/beer-catania-dal-25-al-27-settembre-ad-aci-trezza-arriva-craft-by-the-coast/",
-        "pubDate": "2026-09-23T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cari amici di Libero, non c’è nessun attacco comunista al gelato",
-        "description": "Un post social di un gelatiere viene preso (troppo) sul serio dall'ex ministro Storace, che grida all'allarme rosso sulle pagine di Libero.\nL'articolo Cari amic…",
-        "link": "https://www.dissapore.com/notizie/cari-amici-di-libero-non-ce-nessun-attacco-comunista-al-gelato/",
-        "pubDate": "2026-09-23T12:25:42+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/gelateria-di-estrema-destra-e1790165688334.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Per rifare questo vigneto servono elicotteri e 35mila nuove viti. Succede in Valtellina",
-        "description": "ARPEPE prende in gestione per trent'anni i vigneti della Fondazione Fojanini nella Sassella: 283 terrazzi da ricostruire e 35mila piante di Nebbiolo da mettere …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/arpepe-vigneto-sassella-fojanini/",
-        "pubDate": "2026-09-23T11:11:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "5 combo colore da indossare a ripetizione questo settembre",
-        "description": "Settembre, tempo di nuovi inizi e di ripartenze. E inevitabilmente, insieme al desiderio di ricominciare (e a un pizzico di malinconia per le vacanze ormai arch…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/combo-colori-autunno-abbinamenti-look-moda-settembre-bis-993786",
-        "pubDate": "2026-09-23T11:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/00_DESKTOP_combo_colori_settembre.jpg",
+        "title": "Luisa Ranieri ci conferma che il trench rosso è il capospalla da avere nell’armadio per dare una svolta ai look autunnali (anche a 50 anni e oltre)",
+        "description": "È vero, in quanto a eleganza e versatilità il classico trench beige non ha proprio rivali, ma avere nell’armadio anche qualche modello più colorato può essere u…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/luisa-ranieri-trench-rosso-max-mara-zara-burberry-look-a-50-anni-come-vestirsi-elegante-lungo-corto-milano-fashion-week-999692",
+        "pubDate": "2026-09-24T12:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Luisa_Ranieri.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "60 anni fa aprì un ristorante a Viareggio. A uno dei suoi tavoli sarebbe nata l’idea di Slow Food",
-        "description": "Romano Franceschini arrivò a Viareggio a 17 anni e aprì il suo locale nel 1966. Nel 1985 a uno dei suoi tavoli cenarono Carlo Petrini e Stefano Bonilli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/romano-viareggio-60-anni/",
-        "pubDate": "2026-09-23T10:15:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
+        "title": "La combo “blazer e camicia” non delude mai, parola di Super Simo",
+        "description": "Sono due grandi pezzi cult del guardaroba per l’ufficio e insieme danno vita a una delle combo più furbe della mezza stagione: blazer e camicia si confermano la…",
+        "link": "https://www.grazia.it/moda/get-the-look/blazer-e-camicia-come-indossare-a-60-anni-simona-ventura-fendi-look-elegante-999594",
+        "pubDate": "2026-09-24T09:08:19+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Simona_Ventura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "Cosa c’è nel nuovo museo delle antiche Pastiglie Leone",
-        "description": "La Fabbrica della Felicità di Leone 1857 ha inaugurato alle porte di Torino. \nL'articolo Cosa c’è nel nuovo museo delle antiche Pastiglie Leone proviene da Diss…",
-        "link": "https://www.dissapore.com/notizie/cosa-ce-nel-nuovo-museo-delle-antiche-pastiglie-leone/",
-        "pubDate": "2026-09-23T10:10:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/leone-shop-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Maxi furto di Barolo nelle Langhe: rubate 3 mila bottiglie a Monforte d’Alba",
-        "description": "Colpo alla cantina Conterno Fantino. Nel mirino Barolo 2021 e 2022, magnum e jeroboam. Il bottino vale centinaia di migliaia di euro. Un episodio simile si era …",
-        "link": "https://www.winemag.it/maxi-furto-di-barolo-nelle-langhe-rubate-3-mila-bottiglie-a-monforte-dalba/",
-        "pubDate": "2026-09-23T10:09:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "In questi giardini puoi portarti il cibo da casa. Ma la birra devi comprarla lì",
-        "description": "I giardini della birra nascono in Baviera dalle cantine dei birrifici. Una regola del 1812 spiega una tradizione che resiste ancora oggi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biergarten-germania-storia-cibo-da-casa/",
-        "pubDate": "2026-09-23T10:00:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sembra una patata ma viene dai Tropici: perché questa radice è arrivata anche da noi",
-        "description": "È la manioca, alimento fondamentale in molte cucine dell'Africa e dell'America Latina. All'Esquilino un banco che vende dal 1938 racconta come è cambiata la spe…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yuca-manioca-mercato-esquilino-roma/",
-        "pubDate": "2026-09-23T09:57:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Conte Casa: 5 proposte di design per arredare una casa moderna e di stile",
         "description": "Poltrone, divani, letti, tavoli e scrittoi: una selezione proposta da Conte Casa dove materiali, comfort e ricerca formale si incontrano in un progetto contempo…",
@@ -192,6 +228,33 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Fendi Primavera-Estate 2027: a corpo libero",
+        "description": "Raffaella Carrà è stata la prima donna a mostrare l’ombelico in tv. Oggi sembra una cosa da poco, ma cinquantasei anni fa, nel 1970, non lo era affatto. Quando …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/fendi-primavera-estate-2027-sfilata-milano-fashion-week-999489",
+        "pubDate": "2026-09-24T07:56:37+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-fendi-ss27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Parajumpers compie 20 anni e affida la sua iconica giacca Gobi a 20 creativi di fama internazionale",
+        "description": "Alcune date non possono essere trascurate, si sa. Per i suoi 20 anni infatti, Parajumpers ha scelto di non guardarsi semplicemente indietro. Ieri, 23 settembre,…",
+        "link": "https://www.grazia.it/moda/news-moda/parajumpers-compie-20-anni-iconica-giacca-gobi-reinterpretata-da-artisti-internazionali-999477",
+        "pubDate": "2026-09-24T07:29:25+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/ok-apertura-2.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Bye bye nero: questi sono i due 2 colori autunnali perfetti per “illuminare” dopo i 40 anni (e la nuance da evitare assolutamente)",
+        "description": "Ogni autunno, molte donne over 40 si rifugiano nel nero senza accorgersi che spegne il viso. Tre colori insospettabili e un grigio traditore cambiano radicalmen…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/colori-autunno-da-indossare-dopo-40-anni-abbigliamento-donna-bis-993628",
+        "pubDate": "2026-09-24T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/08/colori-autunno-dopo-a40-anni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Milano Fashion Week SS27: le sfilate e gli eventi in calendario",
@@ -248,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Vi stavate chiedendo come indossare la gonna in paillettes anche di giorno? Beh, Alexa Chung, come spesso accade, ha la risposta più cool",
-        "description": "Poche certezze nel rutilante mondo della moda ma una che ci accompagna 4ever and ever c&#8217;è: la capacità di Alexa Chung di scegliere dei capi apparentemente…",
-        "link": "https://www.grazia.it/moda/get-the-look/gonna-paillettes-come-indossare-anche-di-giorno-abbinamenti-look-alexa-chung-sfilata-prada-milano-fashion-week-999217",
-        "pubDate": "2026-09-22T15:31:36+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/alexa-chung.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Donatella Versace e Revolve Group danno vita insieme ad un nuovo brand: ecco tutti i dettagli",
         "description": "Donatella Versace lancia un nuovo brand insieme a Revolve Group.…",
         "link": "https://www.stylosophy.it/articolo/donatella-versace-e-revolve-group-danno-vita-insieme-ad-un-nuovo-brand-ecco-tutti-i-dettagli/253792/",
@@ -266,24 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "La gonna midi plissé sfoggiata da Uma Thurman alla sfilata di Prada è la lezione di stile imperdibile (anche) per le over 50",
-        "description": "Tra gli ospiti più attesi e ammirati nell&#8217;attesissimo front row della sfilata di Prada a Milano, Uma Thurman ha conquistato ancora una volta la scena con …",
-        "link": "https://www.grazia.it/moda/get-the-look/gonna-midi-a-pieghe-beige-donne-over-50-plisse-skirt-uma-thurman-look-sfilata-front-row-milano-fashion-week-999127",
-        "pubDate": "2026-09-22T13:33:18+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/uma-thurman-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Mediterranea: la creatività made in Campania arriva alla Milano Fashion Week",
-        "description": "La tradizione sartoriale campana incontra la creatività delle nuove generazioni e approda nel cuore della Milano Fashion Week. Si chiama “Mediterranea. Talenti …",
-        "link": "https://www.grazia.it/moda/news-moda/mediterranea-creativita-campania-alla-milano-fashion-week-999095",
-        "pubDate": "2026-09-22T10:49:45+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/mediterranea-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Autunno da vivere nei borghi: 5 destinazioni in Italia e in Europa che meritano un viaggio",
         "description": "Dalle località italiane immerse nei colori del foliage ai piccoli centri europei dove l’autunno regala eventi, cucina locale e atmosfere particolari: cinque ide…",
         "link": "https://www.stylosophy.it/articolo/autunno-da-vivere-nei-borghi-destinazioni-in-italia-e-in-europa/253776/",
@@ -291,33 +327,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "London Fashion Week: il “best of” delle sfilate PE 2027",
-        "description": "Dopo l&#8217;appuntamento newyorkese che ha aperto il mese dedicato alle collezioni Primavera-Estate 2027, la moda è volata a Londra per il consueto appuntament…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/sfilate-londra-london-fashion-week-collezioni-primavera-estate-2027-simone-rocha-mulberry-mcqueen-998495",
-        "pubDate": "2026-09-22T09:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-London-fashion-week-ss27-recap.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Come vestirsi a 40, 50 e 60 anni: i capsule wardrobe con i fashion must have per ogni età",
-        "description": "Un armadio pieno di vestiti e niente da mettere. Se come noi siete alle prese con l’ennesimo rewatch di Sex &#38; The City, queste parole vi suoneranno più che …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-a-40-50-60-anni-capi-guardaroba-must-capsule-wardrobe-998360",
-        "pubDate": "2026-09-22T05:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_capsule_wardrobe_40_50_60.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Cosa comprare ora da H&M, ZARA e Mango: i must have autunnali da mettere subito in wishlist",
-        "description": "Diciamoci la verità: tornare alla solita routine dopo le vacanze richiede sempre una buona dose di coraggio. Ma, se c’è una cosa capace di &#8220;addolcirci la …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-in-autunno-da-hm-zara-mango-capi-vestiti-accessori-must-have-autunnali-bis-994940",
-        "pubDate": "2026-09-22T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_cosa_comprare_zara_mango_hm.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Giulia De Lellis è la protagonista della nuova campagna di Primark: ecco tutti i capi selezionati da lei per quest’autunno",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Chanel Totti, Look sporty-chic per l’intervista a Verissimo FOTO",
-        "description": "Ecco che cosa ha indossato Chanel Totti per la sua prima intervista (da sola) a Verissimo.…",
-        "link": "https://www.stylosophy.it/articolo/chanel-totti-look-sporty-chic-per-lintervista-a-verissimo-foto/253748/",
-        "pubDate": "2026-09-20T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il discorso di Mattarella a Terra Madre sembra proprio parlare di inclusione sociale",
+        "description": "Il discorso di inaugurazione di Terra Madre fatto dal Presidente della Repubblica Sergio Mattarella parla di biodiversità, ma in senso molto ampio. \nL'articolo …",
+        "link": "https://www.dissapore.com/notizie/il-discorso-di-mattarella-a-terra-madre-sembra-proprio-parlare-di-inclusione-sociale/",
+        "pubDate": "2026-09-24T15:43:09+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/SF0253875-scaled-e1789471965467.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Caroline Hermann MW è la nuova presidente dell’Institute of Masters of Wine",
+        "description": "Caroline Hermann MW è la nuova presidente dell’Institute of Masters of Wine (IMW). Eletta dai membri dell’organizzazione, succede a Roderick «Rod» Smith MW e di…",
+        "link": "https://www.winemag.it/caroline-hermann-mw-e-la-nuova-presidente-dellinstitute-of-masters-of-wine/",
+        "pubDate": "2026-09-24T12:18:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "McDonald’s è accusata di discriminazione verso gli affiliati di colore",
         "description": "Un gruppo di 49 franchisee ha accusato il colosso del fast food di aver deliberatamente orchestrato un sistema destinato a far fallire i gestori neri.\nL'articol…",
@@ -385,6 +403,24 @@
         "source": "Wine Mag"
       },
       {
+        "title": "In arrivo nuovi contributi per il turismo enologico: a chi è rivolto e cosa prevede il decreto del Masaf",
+        "description": "Si concretizza uno dei pilastri del Pacchetto vino. C'è tempo fino al 15 dicembre per presentare le domande. Lollobrigida: \"Passo avanti per rafforzare la reput…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/decreto-masaf-turismo-enologico/",
+        "pubDate": "2026-09-24T09:08:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Era figlio di un camionista e di una contadina. Con il vino è arrivato a comprarsi un castello",
+        "description": "Gianni Masciarelli è morto nel 2008 a soli 53 anni. Oggi il suo progetto continua con la moglie Marina Cvetic e le figlie Miriam Lee e Chiara, tra oltre 300 ett…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gianni-masciarelli-castello-semivicoli/",
+        "pubDate": "2026-09-24T07:52:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "La pausa pranzo è aumentata del 368%, e si torna alla “schiscetta”",
         "description": "I numeri di Federconsumatori parlano chiaro: la pausa pranzo sta diventando un lusso per pochi, e i lavoratori si ingegnano per far quadrare i conti.\nL'articolo…",
         "link": "https://www.dissapore.com/notizie/la-pausa-pranzo-e-aumentata-del-368-e-si-torna-alla-schiscetta/",
@@ -392,6 +428,33 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/schiscetta-forno-microonde-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Tovaglie a quadretti e piatti italiani: come due francesi hanno venduto l’idea di Italia al mondo",
+        "description": "Big Mamma ha trasformato l’italianità in un linguaggio riconoscibile in tutto il mondo. Tra autenticità, stereotipi e nuove aperture, il gruppo francese è diven…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/big-mamma-ristoranti-italiani-estero/",
+        "pubDate": "2026-09-24T07:34:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dopo quasi 80 anni da Nennella si può prenotare. Ma metà dei tavoli resta a chi fa la fila",
+        "description": "La storica trattoria napoletana introduce le prenotazioni online: solo metà dei posti sarà riservabile, l'altra continuerà a essere assegnata a chi arriva e met…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/nennella-napoli-prenotazioni/",
+        "pubDate": "2026-09-24T07:32:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Si fa presto a dire storytelling: come raccontare un vino e quali sono gli errori da evitare",
+        "description": "Non basta raccontare una storia, ma serve offrire un'identità in cui riconoscersi. Occhio, però, alla narrazione che punta sulle difficoltà, sugli stenti e sul …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/neuromarketing-come-raccontare-vino-errori/",
+        "pubDate": "2026-09-24T06:32:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "La Spagna del vino è sempre più bianchista. Per la prima volta la produzione di bianchi supera quella di rossi",
@@ -466,24 +529,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Per rifare questo vigneto servono elicotteri e 35mila nuove viti. Succede in Valtellina",
-        "description": "ARPEPE prende in gestione per trent'anni i vigneti della Fondazione Fojanini nella Sassella: 283 terrazzi da ricostruire e 35mila piante di Nebbiolo da mettere …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/arpepe-vigneto-sassella-fojanini/",
-        "pubDate": "2026-09-23T11:11:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "60 anni fa aprì un ristorante a Viareggio. A uno dei suoi tavoli sarebbe nata l’idea di Slow Food",
-        "description": "Romano Franceschini arrivò a Viareggio a 17 anni e aprì il suo locale nel 1966. Nel 1985 a uno dei suoi tavoli cenarono Carlo Petrini e Stefano Bonilli…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/romano-viareggio-60-anni/",
-        "pubDate": "2026-09-23T10:15:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cosa c’è nel nuovo museo delle antiche Pastiglie Leone",
         "description": "La Fabbrica della Felicità di Leone 1857 ha inaugurato alle porte di Torino. \nL'articolo Cosa c’è nel nuovo museo delle antiche Pastiglie Leone proviene da Diss…",
         "link": "https://www.dissapore.com/notizie/cosa-ce-nel-nuovo-museo-delle-antiche-pastiglie-leone/",
@@ -500,51 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "In questi giardini puoi portarti il cibo da casa. Ma la birra devi comprarla lì",
-        "description": "I giardini della birra nascono in Baviera dalle cantine dei birrifici. Una regola del 1812 spiega una tradizione che resiste ancora oggi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biergarten-germania-storia-cibo-da-casa/",
-        "pubDate": "2026-09-23T10:00:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sembra una patata ma viene dai Tropici: perché questa radice è arrivata anche da noi",
-        "description": "È la manioca, alimento fondamentale in molte cucine dell'Africa e dell'America Latina. All'Esquilino un banco che vende dal 1938 racconta come è cambiata la spe…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/yuca-manioca-mercato-esquilino-roma/",
-        "pubDate": "2026-09-23T09:57:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Erano le bibite simbolo di Livorno, poi sono sparite per 60 anni. Ora tornano nei bar della città",
-        "description": "Sovrana, Preziosa e Corallo Cola tornano nei locali della città. Il progetto è no profit e i proventi serviranno a sostenere il recupero delle storiche Terme de…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/bibite-corallo-livorno/",
-        "pubDate": "2026-09-23T09:37:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’uomo che ha visitato quasi tutti gli Starbucks del mondo dice la sua su Starbucks",
-        "description": "Reuters intervista Winter, l'americano che ha visitato oltre 20.500 Starbucks nel mondo, che non sembra così entusiasta delle ultime novità.\nL'articolo L&#8217;…",
-        "link": "https://www.dissapore.com/notizie/luomo-che-ha-visitato-quasi-tutti-gli-starbucks-del-mondo-dice-la-sua-su-starbucks/",
-        "pubDate": "2026-09-23T08:14:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/negozio-starbucks.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Perché andare da Aalis, la nuova bakery di Milano che si farà spazio tra le colazioni d’autore",
-        "description": "Vicinissima all'Università Cattolica, Aalis è una nuova bakery che vuole farsi spazio nella Milano delle colazioni d'autore.\nL'articolo Perché andare da Aalis, …",
-        "link": "https://www.dissapore.com/notizie/perche-andare-da-aalis-la-nuova-bakery-di-milano-che-si-fara-spazio-tra-le-colazioni-dautore/",
-        "pubDate": "2026-09-22T16:46:06+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/aalis-team-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
