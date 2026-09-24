@@ -1,7 +1,25 @@
 {
-  "generated": "2026-09-24T16:37:16.270862+00:00",
+  "generated": "2026-09-24T21:12:52.238236+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "È fuggita dall’Azerbaigian con un figlio. Oggi a Roma apre un locale di cucina azera",
+        "description": "Dilruba Bashirova è arrivata nella Capitale nel 2018 e ha lavorato per anni nella ristorazione. Ora a San Lorenzo prepara Baku, una tavola calda dedicata alla c…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ilruba-bashirova-baku-cucina-azera-roma/",
+        "pubDate": "2026-09-24T16:13:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo preso in giro per anni la pizza statunitense. Ora i grandi pizzaioli italiani fanno la Pepperoni",
+        "description": "Da Franco Pepe a Jacopo Mercuro, sempre più pizzaioli reinterpretano la pizza simbolo degli Stati Uniti. E non è l'unico stile americano arrivato in Italia…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pepperoni-pizza-americana-italia/",
+        "pubDate": "2026-09-24T16:05:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il discorso di Mattarella a Terra Madre sembra proprio parlare di inclusione sociale",
         "description": "Il discorso di inaugurazione di Terra Madre fatto dal Presidente della Repubblica Sergio Mattarella parla di biodiversità, ma in senso molto ampio. \nL'articolo …",
@@ -12,6 +30,24 @@
         "source": "Dissapore"
       },
       {
+        "title": "Addio al vino green senza prove: nel mirino anche i naturali. Manelli: “Ora la sostenibilità va dimostrata”",
+        "description": "Con la nuova direttiva sui claim ambientali cambia tutto: etichette, siti, fiere e brochure dovranno evitare messaggi non verificabili. Per il vicepresidente di…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/direttiva-anti-greenwashing-vino-naturale-michele-manelli/",
+        "pubDate": "2026-09-24T15:32:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel 2026 non ci saranno vini di questa denominazione: l’unica cantina che li produce non riesce a sostenere i costi",
+        "description": "Viticoltori diminuiti, piano estirpi, meteo avverso e costi troppo alti: la cooperativa Vignerons Saint-Sardos, a nord di Tolosa, non riesce più a sostenere il …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/niente-vini-denominazione-saint-sardos-produzione-ferma/",
+        "pubDate": "2026-09-24T14:57:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Max Mara Primavera-Estate 2027: verso l’orizzonte",
         "description": "Come da tradizione la sfilata di Max Mara apre la terza giornata di passerelle milanesi e lo fa guardando al passato. Ispirazione dello show, e della collezione…",
         "link": "https://www.grazia.it/moda/tendenze-moda/max-mara-primavera-estate-2027-sfilata-milano-999717",
@@ -19,6 +55,15 @@
         "image": "https://www.grazia.it/content/uploads/2026/09/DESK-Max-Mara-ss27.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      },
+      {
+        "title": "C’è un Barolo nel Mar Artico: dopo un anno riemergono le bottiglie di Rivetto",
+        "description": "Norvegia chiama Langhe: il progetto di affinamento sott'acqua ha coinvolto la cantina Rivetto di Serralunga d'Alba e la compagna di navigazione Hurtigruten…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/barolo-rivetto-affinato-mari-della-norvegia/",
+        "pubDate": "2026-09-24T13:03:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Vanessa Incontrada sposa Rossano Laurini: ecco l’abito indossato per la speciale occasione FOTO",
@@ -46,6 +91,15 @@
         "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Luisa_Ranieri.jpg",
         "cat": "Moda",
         "source": "Grazia"
+      },
+      {
+        "title": "“La Francia volta le spalle al vino? Non mi sorprende: il Nutriscore è nato lì”. Frescobaldi risponde ad Axel Heinz",
+        "description": "Il produttore toscano elogia la capacità imprenditoriale dell’Italia che ha prodotto anche vini “democratici” e accattivanti come il Prosecco, mentre la Francia…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/lamberto-frescobaldi-vino-italia-francia-risposta-axel-heinz/",
+        "pubDate": "2026-09-24T11:32:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "McDonald’s è accusata di discriminazione verso gli affiliati di colore",
@@ -93,6 +147,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Maschere al Collagene, un trattamento rigenerante per Capelli come dal Parrucchiere",
+        "description": "Scopri come le maschere al collagene stanno rivoluzionando la cura dei capelli, restituendo forza, lucentezza e volume con risultati professionali. Un rituale r…",
+        "link": "https://www.stylosophy.it/articolo/maschere-al-collagene-un-trattamento-rigenerante-per-capelli/240637/",
+        "pubDate": "2026-09-24T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
         "title": "Fendi Primavera-Estate 2027: a corpo libero",
         "description": "Raffaella Carrà è stata la prima donna a mostrare l’ombelico in tv. Oggi sembra una cosa da poco, ma cinquantasei anni fa, nel 1970, non lo era affatto. Quando …",
         "link": "https://www.grazia.it/moda/tendenze-moda/fendi-primavera-estate-2027-sfilata-milano-fashion-week-999489",
@@ -118,69 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/schiscetta-forno-microonde-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Tovaglie a quadretti e piatti italiani: come due francesi hanno venduto l’idea di Italia al mondo",
-        "description": "Big Mamma ha trasformato l’italianità in un linguaggio riconoscibile in tutto il mondo. Tra autenticità, stereotipi e nuove aperture, il gruppo francese è diven…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/big-mamma-ristoranti-italiani-estero/",
-        "pubDate": "2026-09-24T07:34:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo quasi 80 anni da Nennella si può prenotare. Ma metà dei tavoli resta a chi fa la fila",
-        "description": "La storica trattoria napoletana introduce le prenotazioni online: solo metà dei posti sarà riservabile, l'altra continuerà a essere assegnata a chi arriva e met…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/nennella-napoli-prenotazioni/",
-        "pubDate": "2026-09-24T07:32:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Parajumpers compie 20 anni e affida la sua iconica giacca Gobi a 20 creativi di fama internazionale",
-        "description": "Alcune date non possono essere trascurate, si sa. Per i suoi 20 anni infatti, Parajumpers ha scelto di non guardarsi semplicemente indietro. Ieri, 23 settembre,…",
-        "link": "https://www.grazia.it/moda/news-moda/parajumpers-compie-20-anni-iconica-giacca-gobi-reinterpretata-da-artisti-internazionali-999477",
-        "pubDate": "2026-09-24T07:29:25+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/ok-apertura-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Si fa presto a dire storytelling: come raccontare un vino e quali sono gli errori da evitare",
-        "description": "Non basta raccontare una storia, ma serve offrire un'identità in cui riconoscersi. Occhio, però, alla narrazione che punta sulle difficoltà, sugli stenti e sul …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/neuromarketing-come-raccontare-vino-errori/",
-        "pubDate": "2026-09-24T06:32:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La Spagna del vino è sempre più bianchista. Per la prima volta la produzione di bianchi supera quella di rossi",
-        "description": "Un'analisi AgroBank e Agrifood comunicacion su dati Oive mostra come la Spagna si stia spostando verso  vini bianchi freschi, fruttati, giovani e di basso conte…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/spagna-produzione-vini-bianchi-rossi/",
-        "pubDate": "2026-09-24T05:24:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre Bicchieri 2027: i 6 migliori vini della Calabria premiati dal Gambero Rosso",
-        "description": "Il quadro che esce dalle degustazioni è quello di una regione dalla fisionomia sempre più nitida. Il Cirò ne rappresenta oggi uno dei vertici, ma sarebbe ridutt…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-calabria/",
-        "pubDate": "2026-09-24T05:10:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Bye bye nero: questi sono i due 2 colori autunnali perfetti per “illuminare” dopo i 40 anni (e la nuance da evitare assolutamente)",
-        "description": "Ogni autunno, molte donne over 40 si rifugiano nel nero senza accorgersi che spegne il viso. Tre colori insospettabili e un grigio traditore cambiano radicalmen…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/colori-autunno-da-indossare-dopo-40-anni-abbigliamento-donna-bis-993628",
-        "pubDate": "2026-09-24T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/colori-autunno-dopo-a40-anni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -224,6 +224,15 @@
         "title": "Conte Casa: 5 proposte di design per arredare una casa moderna e di stile",
         "description": "Poltrone, divani, letti, tavoli e scrittoi: una selezione proposta da Conte Casa dove materiali, comfort e ricerca formale si incontrano in un progetto contempo…",
         "link": "https://www.stylosophy.it/articolo/conte-casa-proposte-di-design-per-arredare-una-casa-moderna-e-di-stile/253802/",
+        "pubDate": "2026-09-24T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Maschere al Collagene, un trattamento rigenerante per Capelli come dal Parrucchiere",
+        "description": "Scopri come le maschere al collagene stanno rivoluzionando la cura dei capelli, restituendo forza, lucentezza e volume con risultati professionali. Un rituale r…",
+        "link": "https://www.stylosophy.it/articolo/maschere-al-collagene-un-trattamento-rigenerante-per-capelli/240637/",
         "pubDate": "2026-09-24T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Spicole, i micro-aghi della skincare coreana: benefici e quando è meglio evitare",
-        "description": "Le nuove formule coreane puntano sulle spicole per favorire la penetrazione degli attivi e stimolare la pelle. Ma non sono adatte a tutte le skincare.…",
-        "link": "https://www.stylosophy.it/articolo/spicole-i-micro-aghi-della-skincare-coreana-benefici-e-quando-e-meglio-evitare/253751/",
-        "pubDate": "2026-09-20T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "È fuggita dall’Azerbaigian con un figlio. Oggi a Roma apre un locale di cucina azera",
+        "description": "Dilruba Bashirova è arrivata nella Capitale nel 2018 e ha lavorato per anni nella ristorazione. Ora a San Lorenzo prepara Baku, una tavola calda dedicata alla c…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ilruba-bashirova-baku-cucina-azera-roma/",
+        "pubDate": "2026-09-24T16:13:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo preso in giro per anni la pizza statunitense. Ora i grandi pizzaioli italiani fanno la Pepperoni",
+        "description": "Da Franco Pepe a Jacopo Mercuro, sempre più pizzaioli reinterpretano la pizza simbolo degli Stati Uniti. E non è l'unico stile americano arrivato in Italia…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pepperoni-pizza-americana-italia/",
+        "pubDate": "2026-09-24T16:05:42+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Il discorso di Mattarella a Terra Madre sembra proprio parlare di inclusione sociale",
         "description": "Il discorso di inaugurazione di Terra Madre fatto dal Presidente della Repubblica Sergio Mattarella parla di biodiversità, ma in senso molto ampio. \nL'articolo …",
@@ -376,6 +394,33 @@
         "source": "Dissapore"
       },
       {
+        "title": "Addio al vino green senza prove: nel mirino anche i naturali. Manelli: “Ora la sostenibilità va dimostrata”",
+        "description": "Con la nuova direttiva sui claim ambientali cambia tutto: etichette, siti, fiere e brochure dovranno evitare messaggi non verificabili. Per il vicepresidente di…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/direttiva-anti-greenwashing-vino-naturale-michele-manelli/",
+        "pubDate": "2026-09-24T15:32:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel 2026 non ci saranno vini di questa denominazione: l’unica cantina che li produce non riesce a sostenere i costi",
+        "description": "Viticoltori diminuiti, piano estirpi, meteo avverso e costi troppo alti: la cooperativa Vignerons Saint-Sardos, a nord di Tolosa, non riesce più a sostenere il …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/niente-vini-denominazione-saint-sardos-produzione-ferma/",
+        "pubDate": "2026-09-24T14:57:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "C’è un Barolo nel Mar Artico: dopo un anno riemergono le bottiglie di Rivetto",
+        "description": "Norvegia chiama Langhe: il progetto di affinamento sott'acqua ha coinvolto la cantina Rivetto di Serralunga d'Alba e la compagna di navigazione Hurtigruten…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/barolo-rivetto-affinato-mari-della-norvegia/",
+        "pubDate": "2026-09-24T13:03:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Caroline Hermann MW è la nuova presidente dell’Institute of Masters of Wine",
         "description": "Caroline Hermann MW è la nuova presidente dell’Institute of Masters of Wine (IMW). Eletta dai membri dell’organizzazione, succede a Roderick «Rod» Smith MW e di…",
         "link": "https://www.winemag.it/caroline-hermann-mw-e-la-nuova-presidente-dellinstitute-of-masters-of-wine/",
@@ -383,6 +428,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "“La Francia volta le spalle al vino? Non mi sorprende: il Nutriscore è nato lì”. Frescobaldi risponde ad Axel Heinz",
+        "description": "Il produttore toscano elogia la capacità imprenditoriale dell’Italia che ha prodotto anche vini “democratici” e accattivanti come il Prosecco, mentre la Francia…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/lamberto-frescobaldi-vino-italia-francia-risposta-axel-heinz/",
+        "pubDate": "2026-09-24T11:32:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "McDonald’s è accusata di discriminazione verso gli affiliati di colore",
@@ -443,60 +497,6 @@
         "description": "La storica trattoria napoletana introduce le prenotazioni online: solo metà dei posti sarà riservabile, l'altra continuerà a essere assegnata a chi arriva e met…",
         "link": "https://www.gamberorosso.it/notizie/attualita/nennella-napoli-prenotazioni/",
         "pubDate": "2026-09-24T07:32:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Si fa presto a dire storytelling: come raccontare un vino e quali sono gli errori da evitare",
-        "description": "Non basta raccontare una storia, ma serve offrire un'identità in cui riconoscersi. Occhio, però, alla narrazione che punta sulle difficoltà, sugli stenti e sul …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/neuromarketing-come-raccontare-vino-errori/",
-        "pubDate": "2026-09-24T06:32:00+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La Spagna del vino è sempre più bianchista. Per la prima volta la produzione di bianchi supera quella di rossi",
-        "description": "Un'analisi AgroBank e Agrifood comunicacion su dati Oive mostra come la Spagna si stia spostando verso  vini bianchi freschi, fruttati, giovani e di basso conte…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/spagna-produzione-vini-bianchi-rossi/",
-        "pubDate": "2026-09-24T05:24:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre Bicchieri 2027: i 6 migliori vini della Calabria premiati dal Gambero Rosso",
-        "description": "Il quadro che esce dalle degustazioni è quello di una regione dalla fisionomia sempre più nitida. Il Cirò ne rappresenta oggi uno dei vertici, ma sarebbe ridutt…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-calabria/",
-        "pubDate": "2026-09-24T05:10:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Distillazione di crisi, estirpi dei vigneti e vendemmia verde. Chi e come può attivarli secondo il nuovo regolamento Ue",
-        "description": "Il finanziamento potrà avvenire con fondi nazionali e con il via libera della Commissione, a seconda delle differenti situazioni in cui si trovano vini e territ…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/distillazione-estirpi-vendemmia-verde-nuovo-regolamento-ue/",
-        "pubDate": "2026-09-23T15:08:16+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Palermo Coffee Festival, tre giorni per imparare a bere il caffè",
-        "description": "Dal 25 al 27 settembre al Marina Yachting la quarta edizione, tra riflessioni e masterclass che mettono la tazzina accanto al vino, al pane di grani antichi e a…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/palermo-coffee-festival/",
-        "pubDate": "2026-09-23T13:55:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo assaggiato 24 ceci in scatola del supermercato. Questi sono i 12 migliori",
-        "description": "Abbiamo degustato alla cieca 24 prodotti della grande distribuzione, valutando consistenza, profumi e sapore. In classifica entrano 12 ceci, da 49 centesimi a 2…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-ceci-scatola-supermercato/",
-        "pubDate": "2026-09-23T13:22:45+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
