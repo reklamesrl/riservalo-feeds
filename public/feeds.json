@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T16:31:29.417793+00:00",
+  "generated": "2026-09-27T20:58:58.027916+00:00",
   "feeds": {
     "offerte": [
       {
@@ -10,6 +10,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/dirupi.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Nella patria del burro i pasticceri scoprono l’olio d’oliva",
+        "description": "Dalla pompe à huile provenzale ai fondant al cioccolato, fino alle perle che scoppiano in bocca: l’extravergine conquista i pasticceri francesi, non come sostit…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-francese-olio-oliva/",
+        "pubDate": "2026-09-27T14:45:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Con la fermentazione di precisione si può produrre il latte senza mucche",
@@ -28,6 +37,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "L’”Evoluzione” di Giorgio Armani con la collezione SS27",
+        "description": "Come di consueto, è stata la sfilata di Giorgio Armani a chiudere questa edizione della Milano Fashion Week, un appuntamento immancabile che ha segnato il gran …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-giorgio-armani-re-giorgio-sfilata-show-milano-fashion-week-claire-danes-1000143",
+        "pubDate": "2026-09-27T12:37:05+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/COVER-Collezione-SS27-Giorgio-Armani.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "A Napoli fanno lo stesso panino da oltre 100 anni",
@@ -84,6 +102,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Tra artigianalità e leggerezza: la nuova collezione SS27 di Bottega Veneta",
+        "description": "Il passaggio dalla primavera all’estate è il momento in cui il modo di vestirsi inizia a cambiare: i capi diventano più essenziali, le silhouette più rilassate …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-bottega-veneta-louise-trotter-borse-intreecciato-sfilate-milano-fashion-week-kendall-jenner-jacob-elordi-1000112",
+        "pubDate": "2026-09-27T07:34:41+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Collezione_SS27_Bottega_Veneta.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Sono 18 i vini della Sardegna sul podio dei migliori d’Italia (e non c’è solo il Cannonau)",
         "description": "Dai graniti della Gallura alle vigne storiche della Barbagia. NelI'isola oggi non conta più solo il vitigno, ma il legame indissolubile con il territorio e i su…",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-sardegna/",
@@ -91,6 +118,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come indossare l’animalier in autunno? Ce lo svelano le it girl di Instagram, con 6 look tutti da amare (e copiare)",
+        "description": "Se una cosa è certa, è che il ritorno dell’animalier è uno dei segni più inequivocabili dell’arrivo dell’autunno e, con lui, della nuova stagione fashion. Se in…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/animalier-autunno-stampe-come-indossare-idee-look-abbinamenti-leopardato-pitonato-zebrato-999452",
+        "pubDate": "2026-09-27T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_animalier.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Prima della gabbietta, le bottiglie di bollicine si chiudevano con lo spago. E qualcuno lo fa ancora",
@@ -115,15 +151,6 @@
         "description": "Il Comune ha riaperto il bando per 31 posteggi senza riservarli ai mercatari storici. E ora si apre anche uno scontro sui fondi europei…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-ballaro-palermo-bando-venditori-storici/",
         "pubDate": "2026-09-26T15:25:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pesce che arriva dalla Norvegia ma a Messina è diventato un piatto simbolo. 5 ristoranti dove mangiarlo",
-        "description": "Lo stoccafisso a Messina diventa “stocco”: alla ghiotta con pomodoro, patate, olive e capperi, ma anche alla brace e in insalata. Ecco dove provarlo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pesce-stocco-messina-dove-mangiarlo/",
-        "pubDate": "2026-09-26T15:18:07+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -154,33 +181,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Terra Madre 2026 ha un messaggio chiarissimo: la biodiversità può salvarci",
-        "description": "Terra Madre 2026 riparte dalla biodiversità e dall’eredità di Carlin Petrini. Da Mattarella a Slow Food, un messaggio attraversa Torino: difendere la diversità …",
-        "link": "https://www.dissapore.com/alimentazione/terra-madre-2026-ha-un-messaggio-chiarissimo-la-biodiversita-puo-salvarci/",
-        "pubDate": "2026-09-26T11:02:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2021/11/wilsan-u-BCATbA86WAw-unsplash-scaled-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Isabella Ferrari ci svela il segreto per vestirsi da vera “sciura” (e noi vi suggeriamo i pezzi chiave da tenere pronti nell’armadio)",
-        "description": "Ieri l’abbiamo vista da Gucci in una veste inedita, quella di modella, e con il look sfoggiato in passerella ha incarnato alla perfezione l’estetica della vera …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/isabella-ferrari-gucci-look-come-vestirsi-a-60-anni-donne-pezzi-chiave-guardaroba-da-sciura-must-have-1000078",
-        "pubDate": "2026-09-26T10:32:14+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Isabella_Ferrari_must-sciura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Indossare questa stampa autunnale riduce l’ansia e migliora l’umore (e non lo dicono solo le fashion editor ma anche la scienza!)",
-        "description": "Con l’arrivo dell’autunno, ansia e nostalgia aumentano e la scienza guarda al guardaroba: una stampa botanica autunnale sembra ridurre stress e agitazione. Ma q…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-floreale-autunno-moda-migliora-umore-riduce-ansia-psicologi-998617",
-        "pubDate": "2026-09-26T09:55:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/stampa-botanica-autunno-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -194,6 +194,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "L’”Evoluzione” di Giorgio Armani con la collezione SS27",
+        "description": "Come di consueto, è stata la sfilata di Giorgio Armani a chiudere questa edizione della Milano Fashion Week, un appuntamento immancabile che ha segnato il gran …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-giorgio-armani-re-giorgio-sfilata-show-milano-fashion-week-claire-danes-1000143",
+        "pubDate": "2026-09-27T12:37:05+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/COVER-Collezione-SS27-Giorgio-Armani.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Metodo salvaspazio: come piegare e organizzare i capi invernali nell’Armadio",
         "description": "Consigli e tecniche pratiche per piegare e sistemare i capi invernali ingombranti in modo ordinato e funzionale.…",
         "link": "https://www.stylosophy.it/articolo/metodo-salvaspazio-come-piegare-e-organizzare-i-capi-invernali-nellarmadio/240506/",
@@ -201,6 +210,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Tra artigianalità e leggerezza: la nuova collezione SS27 di Bottega Veneta",
+        "description": "Il passaggio dalla primavera all’estate è il momento in cui il modo di vestirsi inizia a cambiare: i capi diventano più essenziali, le silhouette più rilassate …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-bottega-veneta-louise-trotter-borse-intreecciato-sfilate-milano-fashion-week-kendall-jenner-jacob-elordi-1000112",
+        "pubDate": "2026-09-27T07:34:41+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Collezione_SS27_Bottega_Veneta.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Come indossare l’animalier in autunno? Ce lo svelano le it girl di Instagram, con 6 look tutti da amare (e copiare)",
+        "description": "Se una cosa è certa, è che il ritorno dell’animalier è uno dei segni più inequivocabili dell’arrivo dell’autunno e, con lui, della nuova stagione fashion. Se in…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/animalier-autunno-stampe-come-indossare-idee-look-abbinamenti-leopardato-pitonato-zebrato-999452",
+        "pubDate": "2026-09-27T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_animalier.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Dolce&Gabbana e la nuova collezione SS27 che rende omaggio alla “Stravaganza Siciliana”",
@@ -284,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Gucci: la collezione SS27 è un viaggio tra tutte le anime del glamour",
-        "description": "Una collezione in cui, per la prima volta, ha presentato la sua visione completa del marchio, un’idea costruita attraverso tutto ciò che ha imparato sulla Maiso…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-gucci-sfilata-primavera-estate-2027-the-store-show-demna-gvasalia-milano-fashion-week-jannik-sinner-shawn-mendes-naomi-wa-999974",
-        "pubDate": "2026-09-25T16:21:07+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Gucci.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Damiano David e Dove Cameron sposi: ecco i Look coordinati FOTO",
         "description": "Dopo mesi di attesa, Damiano David e Dove Cameron sono convolati a nozze in Italia: ecco i loro look per la speciale occasione.…",
         "link": "https://www.stylosophy.it/articolo/damiano-david-e-dove-cameron-sposi-ecco-i-look-coordinati-foto/253822/",
@@ -300,24 +318,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Katie Holmes ha trovato i pantaloni perfetti per queste prime giornate d’autunno (spoiler: sono color avorio!)",
-        "description": "È arrivata allo show mano nella mano con il nuovo fidanzato, l’artista newyorkese Jason Bard Yarmosky, e la prima cosa che abbiamo notato (oltre al suo sorriso …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-avorio-katie-holmes-donna-autunno-tods-fidanzato-dawsons-creek-ampi-larghi-999885",
-        "pubDate": "2026-09-25T10:57:17+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Pantaloni_avorio_Katie_Holmes.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Dove Cameron e Damiano David si sono sposati (e questi sono i look che hanno scelto per il grande sì)",
-        "description": "E alle fine il grande giorno è arrivato: dopo mesi di indiscrezioni, Dove Cameron e Damiano David si sono sposati. Ieri pomeriggio, infatti, l’ex stella di Disn…",
-        "link": "https://www.grazia.it/moda/celebrity-style/dove-cameron-damiano-david-matrimonio-sposati-si-montalcino-maneskin-valentino-roberto-cavalli-look-cerimonia-999830",
-        "pubDate": "2026-09-25T08:24:58+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Damiano_David_Dove_Cameron.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Vanessa Incontrada sposa Rossano Laurini: ecco l’abito indossato per la speciale occasione FOTO",
@@ -374,6 +374,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/dirupi.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Nella patria del burro i pasticceri scoprono l’olio d’oliva",
+        "description": "Dalla pompe à huile provenzale ai fondant al cioccolato, fino alle perle che scoppiano in bocca: l’extravergine conquista i pasticceri francesi, non come sostit…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-francese-olio-oliva/",
+        "pubDate": "2026-09-27T14:45:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Con la fermentazione di precisione si può produrre il latte senza mucche",
@@ -461,15 +470,6 @@
         "description": "Il Comune ha riaperto il bando per 31 posteggi senza riservarli ai mercatari storici. E ora si apre anche uno scontro sui fondi europei…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mercato-ballaro-palermo-bando-venditori-storici/",
         "pubDate": "2026-09-26T15:25:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pesce che arriva dalla Norvegia ma a Messina è diventato un piatto simbolo. 5 ristoranti dove mangiarlo",
-        "description": "Lo stoccafisso a Messina diventa “stocco”: alla ghiotta con pomodoro, patate, olive e capperi, ma anche alla brace e in insalata. Ecco dove provarlo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/pesce-stocco-messina-dove-mangiarlo/",
-        "pubDate": "2026-09-26T15:18:07+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
