@@ -1,7 +1,79 @@
 {
-  "generated": "2026-09-28T13:05:25.404610+00:00",
+  "generated": "2026-09-28T22:58:49.394157+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Guida Winemag 2027: migliori vini e cantine italiane dell’anno",
+        "description": "J. Hofstätter è la Miglior Cantina italiana 2027, mentre il Trento Doc Aquila Reale Riserva 2013 di Cesarini Sforza è il Vino italiano dell’anno. Sono i riconos…",
+        "link": "https://www.winemag.it/guida-winemag-2027-migliori-vini-cantine-italiane/",
+        "pubDate": "2026-09-28T22:30:48+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vino e “Disobbedienza”: perché è la parola d’ordine della Guida Winemag 2027",
+        "description": "Dopo \"Autenticità\", scelta nel 2026, ecco la nuova keyword\nL'articolo Vino e &#8220;Disobbedienza&#8221;: perché è la parola d&#8217;ordine della Guida Winemag …",
+        "link": "https://www.winemag.it/vino-e-disobbedienza-perche-e-la-parola-dordine-della-guida-winemag-2027/",
+        "pubDate": "2026-09-28T22:27:22+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Non tutto il consumo di alcol è dannoso. La Commissione Salute Ue grazia il vino",
+        "description": "Il testo sull’implementazione dell’European Beating Cancer Plan mantiene la distinzione tra consumo tout court e consumo “dannoso”. Uiv: \"Ora si vada avanti\"…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/consumo-vino-dossier-vino-salute-commissione-salute-2026/",
+        "pubDate": "2026-09-28T17:03:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Nessun lavoratore in nero e nessuna multa da 90mila euro”. Nannarella rompe il silenzio sulla chiusura",
+        "description": "Dopo la chiusura, l’osteria di Trastevere smentisce alcune delle notizie circolate sui controlli: nessun lavoratore in nero, cucina e sala in condizioni regolar…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/nannarella-chiusura-trastevere-replica-multa/",
+        "pubDate": "2026-09-28T15:09:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Terra Madre riparte senza Carlo Petrini. E Slow Food decide che non ci sarà un nuovo Petrini",
+        "description": "Mille eventi, 1.500 delegati da 120 Paesi e più di 600 espositori. Ma l'edizione dei 40 anni lascia soprattutto un'eredità politica: biodiversità, pace e giusti…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/terra-madre-2026-eredita-carlo-petrini-slow-food/",
+        "pubDate": "2026-09-28T15:05:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Londra in autunno è tutta un’altra città: 5 cose da fare e vedere",
+        "description": "Tra parchi che si tingono di rosso e oro, musei, mercati storici e quartieri dal fascino senza tempo, la capitale britannica offre un volto diverso da scoprire.…",
+        "link": "https://www.stylosophy.it/articolo/londra-in-autunno-e-tutta-unaltra-citta-cose-da-fare-e-vedere/253848/",
+        "pubDate": "2026-09-28T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Anche il pane in cassetta è diventato un regalo di lusso. E costa fino a 60 euro",
+        "description": "Sofficissimo e nato per la colazione, lo shokupan è diventato un prodotto di lusso, con negozi specializzati e confezioni regalo. Dopo il boom e le chiusure, un…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/shokupan-giappone-pane-cassetta-regalo-lusso/",
+        "pubDate": "2026-09-28T14:12:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Adesso l’uva ha la sua carta d’identità chimica: nasce in Italia il primo atlante molecolare dei vitigni",
+        "description": "La nuova mappa delle relazioni vitivinicole è stata realizzata dalla Fondazione Mach e, invece di basarsi sul Dna, analizza la composizione chimica.  In questo …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/atlante-metabolomico-vitigni-fondazione-mach/",
+        "pubDate": "2026-09-28T13:06:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Vanessa Incontrada, cosa ha indossato come secondo abito da sposa per le nozze con Rossano Laurini",
         "description": "Ecco che cosa ha indossato Vanessa Incontrada come secondo abito da sposa per il matrimonio con Rossano Laurini.…",
@@ -21,6 +93,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Tutti vogliono le sneakers firmate da adidas con Esselunga (che fanno anche del bene!)",
+        "description": "Alla Milano Fashion Week arriva la sneaker Esselunga adidas: 3.000 paia in edizione limitata pensate per gli Esse Lovers e oltre. Tra stile d'autunno e solidari…",
+        "link": "https://www.grazia.it/moda/news-moda/sneakers-esselunga-adidas-collaborazione-virale-beneficienza-1000436",
+        "pubDate": "2026-09-28T12:41:57+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/esselunga-adidas-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Arriva in Italia Martin Miller’s ZERØ",
         "description": "Compagnia dei Caraibi annuncia il lancio in Italia di Martin Miller’s Zerø, la prima espressione analcolica di Martin Miller’s. Il brand del gruppo spagnolo Zam…",
         "link": "https://www.winemag.it/arriva-in-italia-martin-millers-zero/",
@@ -30,7 +111,7 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Il “nuovo matcha” è già finito: cosa succede all’ube",
+        "title": "Il “nuovo matcha” è diventato così popolare che è già finito",
         "description": "Da ingrediente tradizionale filippino a fenomeno globale, l’ube è finito in latte, gelati e croissant. La domanda corre così tanto che Manila ha sospeso l’expor…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ube-filippine-stop-export-tubero-viola/",
         "pubDate": "2026-09-28T10:48:17+00:00",
@@ -93,97 +174,25 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Gli italiani comprano sempre più bio. Ma gli agricoltori stanno riducendo i terreni biologici",
-        "description": "Nel 2025 gli acquisti domestici hanno raggiunto 4,4 miliardi di euro, +9,2%. Nello stesso anno le superfici biologiche italiane sono scese del 5,4%.…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/biologico-italia-consumi-crescono-superfici-calano/",
-        "pubDate": "2026-09-28T09:06:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
+        "title": "MTV Video Music Awards 2026: i look delle celeb sul red carpet",
+        "description": "Mentre ieri calava il sipario sulla Milano Fashion Week, al Peacock Theater di Los Angeles si accendevano i riflettori su un altro appuntamento molto atteso: gl…",
+        "link": "https://www.grazia.it/moda/celebrity-style/taylor-swift-madonna-mtv-video-music-awards-2026-red-carpet-celeb-look-dakota-johnson-teyana-taylor-1000250",
+        "pubDate": "2026-09-28T07:43:40+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK_MTV_VMAS.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      }
+    ],
+    "moda": [
       {
-        "title": "A Roma c’è un condominio che un tempo produceva pasta per tutta la città",
-        "description": "La Pantanella sulla Casilina fu fabbrica, teatro di una lunga lotta operaia e poi rifugio per migliaia di migranti. Oggi negli stessi edifici si abita…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastificio-pantanella-roma-casilina-storia/",
-        "pubDate": "2026-09-28T07:17:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Trentodoc fa il pieno di premi, ma la vera sorpresa del Trentino è nei vini fermi",
-        "description": "Dalle bollicine di montagna ai grandi vini fermi bianchi e rossi: ecco la mappa dei migliori assaggi fatti dal Gambero Rosso: sono 14 le etichette sul podio pre…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-trentino/",
-        "pubDate": "2026-09-28T05:10:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vino del futuro: e se beva e leggerezza costassero più care di legno e concentrazione?",
-        "description": "La grande sfida dei vini del presente e di domani\nL'articolo Il vino del futuro: e se beva e leggerezza costassero più care di legno e concentrazione? proviene …",
-        "link": "https://www.winemag.it/vino-futuro-beva-leggerezza-piu-care-legno-concentrazione/",
-        "pubDate": "2026-09-27T22:15:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La Valtellina vuole portare il vino fino a 1.000 metri, e non solo per il clima",
-        "description": "La Valtellina ridisegna la sua mappa del vino: nuove sottozone per la DOCG e vigneti fino a 1.000 metri. Una risposta al clima che punta anche a recuperare terr…",
-        "link": "https://www.dissapore.com/bere/la-valtellina-vuole-portare-il-vino-fino-a-1-000-metri-e-non-solo-per-il-clima/",
-        "pubDate": "2026-09-27T15:24:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/dirupi.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nella patria del burro i pasticceri scoprono l’olio d’oliva",
-        "description": "Dalla pompe à huile provenzale ai fondant al cioccolato, fino alle perle che scoppiano in bocca: l’extravergine conquista i pasticceri francesi, non come sostit…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-francese-olio-oliva/",
-        "pubDate": "2026-09-27T14:45:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Con la fermentazione di precisione si può produrre il latte senza mucche",
-        "description": "Con una tecnica nota dagli anni Novanta, il Regno Unito potrebbe raggiungere l'obbiettivo emissioni zero producendo il latte vaccino in laboratorio.\nL'articolo …",
-        "link": "https://www.dissapore.com/notizie/con-la-fermentazione-di-precisione-si-puo-produrre-il-latte-senza-mucche/",
-        "pubDate": "2026-09-27T13:32:59+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/04/latte-e1775860906362.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Jennifer Lopez si conferma icona di stile con questo meraviglioso completo mannish firmato Dolce & Gabbana",
-        "description": "Jennifer Lopez sfoggia questo meraviglioso completo mannish firmato Dolce &#038; Gabbana: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/jennifer-lopez-si-conferma-icona-di-stile-con-questo-meraviglioso-completo-mannish-firmato-dolce-gabbana/253840/",
-        "pubDate": "2026-09-27T13:00:00+00:00",
+        "title": "Londra in autunno è tutta un’altra città: 5 cose da fare e vedere",
+        "description": "Tra parchi che si tingono di rosso e oro, musei, mercati storici e quartieri dal fascino senza tempo, la capitale britannica offre un volto diverso da scoprire.…",
+        "link": "https://www.stylosophy.it/articolo/londra-in-autunno-e-tutta-unaltra-citta-cose-da-fare-e-vedere/253848/",
+        "pubDate": "2026-09-28T15:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "L’”Evoluzione” di Giorgio Armani con la collezione SS27",
-        "description": "Come di consueto, è stata la sfilata di Giorgio Armani a chiudere questa edizione della Milano Fashion Week, un appuntamento immancabile che ha segnato il gran …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-giorgio-armani-re-giorgio-sfilata-show-milano-fashion-week-claire-danes-1000143",
-        "pubDate": "2026-09-27T12:37:05+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER-Collezione-SS27-Giorgio-Armani.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "A Napoli fanno lo stesso panino da oltre 100 anni",
-        "description": "La Salumeria Malinconico è a Napoli dal 1890. La quarta generazione ha rilanciato la vecchia marenna di cicoli e ricotta portandola anche fuori città…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panino-cicoli-ricotta-salumeria-malinconico-napoli/",
-        "pubDate": "2026-09-27T12:09:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Vanessa Incontrada, cosa ha indossato come secondo abito da sposa per le nozze con Rossano Laurini",
         "description": "Ecco che cosa ha indossato Vanessa Incontrada come secondo abito da sposa per il matrimonio con Rossano Laurini.…",
@@ -192,6 +201,42 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Tutti vogliono le sneakers firmate da adidas con Esselunga (che fanno anche del bene!)",
+        "description": "Alla Milano Fashion Week arriva la sneaker Esselunga adidas: 3.000 paia in edizione limitata pensate per gli Esse Lovers e oltre. Tra stile d'autunno e solidari…",
+        "link": "https://www.grazia.it/moda/news-moda/sneakers-esselunga-adidas-collaborazione-virale-beneficienza-1000436",
+        "pubDate": "2026-09-28T12:41:57+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/esselunga-adidas-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "MTV Video Music Awards 2026: i look delle celeb sul red carpet",
+        "description": "Mentre ieri calava il sipario sulla Milano Fashion Week, al Peacock Theater di Los Angeles si accendevano i riflettori su un altro appuntamento molto atteso: gl…",
+        "link": "https://www.grazia.it/moda/celebrity-style/taylor-swift-madonna-mtv-video-music-awards-2026-red-carpet-celeb-look-dakota-johnson-teyana-taylor-1000250",
+        "pubDate": "2026-09-28T07:43:40+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK_MTV_VMAS.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Voglia di un bel paio di stivali nuovi? Ecco la prima checklist dei modelli più cool dell’autunno 2026",
+        "description": "Non è mai troppo presto per fare un ripasso degli stivali più di tendenza del 2026. Anzi, se c&#8217;è un accessorio capace di anticipare l&#8217;atmosfera e ra…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/stivali-autunno-2026-alti-bassi-gamba-larga-pelle-economici-con-tacco-basso-texani-suede-999497",
+        "pubDate": "2026-09-28T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_desktop_stivali.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Bye bye righe: questa stampa autunnale super chic riduce l’ansia e migliora l’umore (no, non lo diciamo noi ma i neuroscienziati!)",
+        "description": "Con l’arrivo dell’autunno, ansia e nostalgia aumentano e la scienza guarda al guardaroba: una stampa botanica autunnale sembra ridurre stress e agitazione. Ma q…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-floreale-autunno-moda-migliora-umore-riduce-ansia-psicologi-bis-998617",
+        "pubDate": "2026-09-27T22:59:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/stampa-botanica-OK.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Jennifer Lopez si conferma icona di stile con questo meraviglioso completo mannish firmato Dolce & Gabbana",
@@ -266,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Indossare questa stampa autunnale riduce l’ansia e migliora l’umore (e non lo dicono solo le fashion editor ma anche la scienza!)",
-        "description": "Con l’arrivo dell’autunno, ansia e nostalgia aumentano e la scienza guarda al guardaroba: una stampa botanica autunnale sembra ridurre stress e agitazione. Ma q…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-floreale-autunno-moda-migliora-umore-riduce-ansia-psicologi-998617",
-        "pubDate": "2026-09-26T09:55:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/stampa-botanica-autunno-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Mytheresa celebra la Milano Fashion Week con un aperitivo esclusivo al Bar Basso, uno dei locali più iconici della città",
         "description": "Ci sono rituali che rendono la Milano Fashion Week una delle più amate al mondo, e tra questi c&#8217;è senza dubbio l&#8217;ormai tradizionale appuntamento fir…",
         "link": "https://www.grazia.it/moda/party-eventi/mytheresa-celebra-la-milano-fashion-week-con-un-aperitivo-esclusivo-al-bar-basso-uno-dei-locali-piu-iconici-della-citta-1000047",
@@ -291,33 +327,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Moschino: il debutto di Loris Messina e Simone Rizzo con la collezione SS27",
-        "description": "Era uno degli appuntamenti più attesi di questa Fashion Week e di certo non ha deluso le aspettative: Loris Messina e Simone Rizzo hanno fatto il loro debutto a…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-moschino-show-debutto-simone-rizzo-loris-messina-franco-milano-fashion-week-sfilate-show-1000037",
-        "pubDate": "2026-09-26T07:09:33+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_SS27_Moschino.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Abiti in maglia: i modelli protagonisti dell’autunno 2026 per riscoprire il piacere di coprirsi",
-        "description": "Con i primi cali di temperatura e le giornate che si accorciano, prende il via un rito antico e affascinante: quello di riscoprire il piacere di coprirsi. È il …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abiti-in-maglia-autunno-2026-modelli-lana-cashmere-knit-dress-lunghi-corti-midi-998683",
-        "pubDate": "2026-09-26T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_desktop_abiti_maglia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Gianvito Rossi: 20 anni di eleganza, stile e savoir-faire italiano, celebrati con un party esclusivo e un libro che ripercorre la storia del brand",
-        "description": "Nell&#8217;universo di Gianvito Rossi la raffinatezza non è mai ostentazione, ma una naturale estensione della personalità di chi la indossa. In occasione del s…",
-        "link": "https://www.grazia.it/moda/news-moda/gianvito-rossi-compie-20-anni-libro-sulla-storia-del-brand-party-esclusivo-a-milano-fashion-week-naomi-watts-luisa-ranieri-999960",
-        "pubDate": "2026-09-25T17:06:16+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Damiano David e Dove Cameron sposi: ecco i Look coordinati FOTO",
@@ -354,18 +363,72 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Milano Fashion Week SS27: le sfilate e gli eventi in calendario",
-        "description": "Dal 22 al 28 settembre Milano torna capitale della moda con passerelle, mostre e appuntamenti accessibili anche al pubblico. Ecco cosa vedere.…",
-        "link": "https://www.stylosophy.it/articolo/milano-fashion-week-ss27-le-sfilate-e-gli-eventi-in-calendario/253799/",
-        "pubDate": "2026-09-23T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Guida Winemag 2027: migliori vini e cantine italiane dell’anno",
+        "description": "J. Hofstätter è la Miglior Cantina italiana 2027, mentre il Trento Doc Aquila Reale Riserva 2013 di Cesarini Sforza è il Vino italiano dell’anno. Sono i riconos…",
+        "link": "https://www.winemag.it/guida-winemag-2027-migliori-vini-cantine-italiane/",
+        "pubDate": "2026-09-28T22:30:48+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vino e “Disobbedienza”: perché è la parola d’ordine della Guida Winemag 2027",
+        "description": "Dopo \"Autenticità\", scelta nel 2026, ecco la nuova keyword\nL'articolo Vino e &#8220;Disobbedienza&#8221;: perché è la parola d&#8217;ordine della Guida Winemag …",
+        "link": "https://www.winemag.it/vino-e-disobbedienza-perche-e-la-parola-dordine-della-guida-winemag-2027/",
+        "pubDate": "2026-09-28T22:27:22+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Non tutto il consumo di alcol è dannoso. La Commissione Salute Ue grazia il vino",
+        "description": "Il testo sull’implementazione dell’European Beating Cancer Plan mantiene la distinzione tra consumo tout court e consumo “dannoso”. Uiv: \"Ora si vada avanti\"…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/consumo-vino-dossier-vino-salute-commissione-salute-2026/",
+        "pubDate": "2026-09-28T17:03:35+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Nessun lavoratore in nero e nessuna multa da 90mila euro”. Nannarella rompe il silenzio sulla chiusura",
+        "description": "Dopo la chiusura, l’osteria di Trastevere smentisce alcune delle notizie circolate sui controlli: nessun lavoratore in nero, cucina e sala in condizioni regolar…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/nannarella-chiusura-trastevere-replica-multa/",
+        "pubDate": "2026-09-28T15:09:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Terra Madre riparte senza Carlo Petrini. E Slow Food decide che non ci sarà un nuovo Petrini",
+        "description": "Mille eventi, 1.500 delegati da 120 Paesi e più di 600 espositori. Ma l'edizione dei 40 anni lascia soprattutto un'eredità politica: biodiversità, pace e giusti…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/terra-madre-2026-eredita-carlo-petrini-slow-food/",
+        "pubDate": "2026-09-28T15:05:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Anche il pane in cassetta è diventato un regalo di lusso. E costa fino a 60 euro",
+        "description": "Sofficissimo e nato per la colazione, lo shokupan è diventato un prodotto di lusso, con negozi specializzati e confezioni regalo. Dopo il boom e le chiusure, un…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/shokupan-giappone-pane-cassetta-regalo-lusso/",
+        "pubDate": "2026-09-28T14:12:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Adesso l’uva ha la sua carta d’identità chimica: nasce in Italia il primo atlante molecolare dei vitigni",
+        "description": "La nuova mappa delle relazioni vitivinicole è stata realizzata dalla Fondazione Mach e, invece di basarsi sul Dna, analizza la composizione chimica.  In questo …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/atlante-metabolomico-vitigni-fondazione-mach/",
+        "pubDate": "2026-09-28T13:06:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Come El Niño sta cambiando la ristorazione",
         "description": "Quique Dacosta e Gianfranco Pascucci sono solo alcuni degli chef che si sono espressi su come il cambiamento climatico stia imponendo cambiamenti profondi anche…",
@@ -385,7 +448,7 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Il “nuovo matcha” è già finito: cosa succede all’ube",
+        "title": "Il “nuovo matcha” è diventato così popolare che è già finito",
         "description": "Da ingrediente tradizionale filippino a fenomeno globale, l’ube è finito in latte, gelati e croissant. La domanda corre così tanto che Manila ha sospeso l’expor…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ube-filippine-stop-export-tubero-viola/",
         "pubDate": "2026-09-28T10:48:17+00:00",
@@ -448,33 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Gli italiani comprano sempre più bio. Ma gli agricoltori stanno riducendo i terreni biologici",
-        "description": "Nel 2025 gli acquisti domestici hanno raggiunto 4,4 miliardi di euro, +9,2%. Nello stesso anno le superfici biologiche italiane sono scese del 5,4%.…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/biologico-italia-consumi-crescono-superfici-calano/",
-        "pubDate": "2026-09-28T09:06:23+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Roma c’è un condominio che un tempo produceva pasta per tutta la città",
-        "description": "La Pantanella sulla Casilina fu fabbrica, teatro di una lunga lotta operaia e poi rifugio per migliaia di migranti. Oggi negli stessi edifici si abita…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastificio-pantanella-roma-casilina-storia/",
-        "pubDate": "2026-09-28T07:17:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Trentodoc fa il pieno di premi, ma la vera sorpresa del Trentino è nei vini fermi",
-        "description": "Dalle bollicine di montagna ai grandi vini fermi bianchi e rossi: ecco la mappa dei migliori assaggi fatti dal Gambero Rosso: sono 14 le etichette sul podio pre…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-trentino/",
-        "pubDate": "2026-09-28T05:10:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il vino del futuro: e se beva e leggerezza costassero più care di legno e concentrazione?",
         "description": "La grande sfida dei vini del presente e di domani\nL'articolo Il vino del futuro: e se beva e leggerezza costassero più care di legno e concentrazione? proviene …",
         "link": "https://www.winemag.it/vino-futuro-beva-leggerezza-piu-care-legno-concentrazione/",
@@ -493,15 +529,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "Nella patria del burro i pasticceri scoprono l’olio d’oliva",
-        "description": "Dalla pompe à huile provenzale ai fondant al cioccolato, fino alle perle che scoppiano in bocca: l’extravergine conquista i pasticceri francesi, non come sostit…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-francese-olio-oliva/",
-        "pubDate": "2026-09-27T14:45:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Con la fermentazione di precisione si può produrre il latte senza mucche",
         "description": "Con una tecnica nota dagli anni Novanta, il Regno Unito potrebbe raggiungere l'obbiettivo emissioni zero producendo il latte vaccino in laboratorio.\nL'articolo …",
         "link": "https://www.dissapore.com/notizie/con-la-fermentazione-di-precisione-si-puo-produrre-il-latte-senza-mucche/",
@@ -511,38 +538,11 @@
         "source": "Dissapore"
       },
       {
-        "title": "A Napoli fanno lo stesso panino da oltre 100 anni",
-        "description": "La Salumeria Malinconico è a Napoli dal 1890. La quarta generazione ha rilanciato la vecchia marenna di cicoli e ricotta portandola anche fuori città…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panino-cicoli-ricotta-salumeria-malinconico-napoli/",
-        "pubDate": "2026-09-27T12:09:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Mangiare molto pomodoro fa diventare più intelligenti?",
         "description": "Uno studio appena pubblicato mostra come una dieta ricca di licopene migliori i risultati ad alcuni test di concentrazione.\nL'articolo Mangiare molto pomodoro f…",
         "link": "https://www.dissapore.com/notizie/mangiare-molto-pomodoro-fa-diventare-piu-intelligenti/",
         "pubDate": "2026-09-26T14:59:06+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/industria-del-pomodoro-conservato.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Terra Madre 2026 ha un messaggio chiarissimo: la biodiversità può salvarci",
-        "description": "Terra Madre 2026 riparte dalla biodiversità e dall’eredità di Carlin Petrini. Da Mattarella a Slow Food, un messaggio attraversa Torino: difendere la diversità …",
-        "link": "https://www.dissapore.com/alimentazione/terra-madre-2026-ha-un-messaggio-chiarissimo-la-biodiversita-puo-salvarci/",
-        "pubDate": "2026-09-26T11:02:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2021/11/wilsan-u-BCATbA86WAw-unsplash-scaled-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Guarda un po’ se dobbiamo prendere lezioni di cucina da Tony Effe",
-        "description": "Vi prego, i rapper che ci dicono come dovremmo mangiare non ce li meritiamo davvero.\nL'articolo Guarda un po&#8217; se dobbiamo prendere lezioni di cucina da To…",
-        "link": "https://www.dissapore.com/notizie/guarda-un-po-se-dobbiamo-prendere-lezioni-di-cucina-da-tony-effe/",
-        "pubDate": "2026-09-26T09:44:02+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/04/healthy-color-sfera-scaled.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
