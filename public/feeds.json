@@ -1,7 +1,16 @@
 {
-  "generated": "2026-10-02T17:48:09.775860+00:00",
+  "generated": "2026-10-02T21:53:26.424419+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Perché si mette il cioccolato nel ragù: storia, regioni e tecnica culinaria",
+        "description": "Scopri perché il cioccolato nel ragù è una tradizione italiana autentica: la chimica del sapore, le regioni dove si usa e come dosarlo correttamente.…",
+        "link": "https://www.gustoblog.it/2026/10/02/cioccolato-ragu-storia-tecnica/",
+        "pubDate": "2026-10-02T19:09:59+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "La scienza della pizza perfetta: cosa accade davvero durante i 90 secondi in forno",
         "description": "Scopri come funziona la cottura pizza scienza: irraggiamento, conduzione e convezione trasformano l'impasto in pochi secondi nel forno a 450-500°C.…",
@@ -169,15 +178,6 @@
         "description": "Non ci era mai capitato prima di quest'anno di premiare con i Tre Bicchieri dei vini rosati marchigiani (ben due). Durante le degustazioni siamo rimasti stupiti…",
         "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-marche/",
         "pubDate": "2026-10-02T05:10:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Iginio Massari apre in un ex casinò sul lago di Garda. Dentro ci saranno pasticceria, pizzeria e due ristoranti",
-        "description": "A Gardone Riviera apre la prima parte del nuovo progetto della famiglia Massari: quattro format già operativi, poi il ristorante gastronomico e un bar panoramic…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/iginio-massari-gardone-riviera-ex-casino/",
-        "pubDate": "2026-10-02T03:59:28+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "Perché si mette il cioccolato nel ragù: storia, regioni e tecnica culinaria",
+        "description": "Scopri perché il cioccolato nel ragù è una tradizione italiana autentica: la chimica del sapore, le regioni dove si usa e come dosarlo correttamente.…",
+        "link": "https://www.gustoblog.it/2026/10/02/cioccolato-ragu-storia-tecnica/",
+        "pubDate": "2026-10-02T19:09:59+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "La scienza della pizza perfetta: cosa accade davvero durante i 90 secondi in forno",
         "description": "Scopri come funziona la cottura pizza scienza: irraggiamento, conduzione e convezione trasformano l'impasto in pochi secondi nel forno a 450-500°C.…",
         "link": "https://www.gustoblog.it/2026/10/02/cottura-pizza-scienza-reazioni/",
@@ -536,15 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/04/great-pizza-caserta-cover.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Etna Wine Forum 2026, a Biancavilla la quinta edizione tra vino, cucina e cultura",
-        "description": "L’Etna Wine Forum 2026 torna a Biancavilla per la quinta edizione. La rassegna dedicata alla valorizzazione del versante sud-ovest dell’Etna si terrà l’8, 9, 10…",
-        "link": "https://www.winemag.it/etna-wine-forum-2026-a-biancavilla-la-quinta-edizione-tra-vino-cucina-e-cultura/",
-        "pubDate": "2026-10-01T08:53:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
