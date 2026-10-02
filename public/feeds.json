@@ -1,7 +1,88 @@
 {
-  "generated": "2026-10-02T11:59:12.442622+00:00",
+  "generated": "2026-10-02T17:48:09.775860+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La scienza della pizza perfetta: cosa accade davvero durante i 90 secondi in forno",
+        "description": "Scopri come funziona la cottura pizza scienza: irraggiamento, conduzione e convezione trasformano l'impasto in pochi secondi nel forno a 450-500°C.…",
+        "link": "https://www.gustoblog.it/2026/10/02/cottura-pizza-scienza-reazioni/",
+        "pubDate": "2026-10-02T17:04:22+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Negli USA è scontro tra Kennedy e l’industria alimentare",
+        "description": "Il piano \"Make America Healthy Again\" non piace all'industria alimentare che passa al contrattacco ingaggiando un esercito di influencer in uno scontro tra gove…",
+        "link": "https://www.dissapore.com/notizie/negli-usa-e-scontro-tra-kennedy-e-lindustria-alimentare/",
+        "pubDate": "2026-10-02T14:22:30+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/kennedy--scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Champagne Experience 2026: dieci etichette da scoprire al di fuori dei percorsi classici",
+        "description": "Al di là dei nomi più conosciuti, abbiamo individuato dieci chicche da scovare nei padiglioni di BolognaFiere. Spazio anche all'offerta food, a partire dalla pa…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/champagne-experience-2026-dieci-etichette-da-non-perdere/",
+        "pubDate": "2026-10-02T14:21:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Questa settimana le Fashion Pills ci avvolgono in caldi abbracci, si accendono di tocchi preziosi e scoprono nuovi oggetti del desiderio. Tra maglie cocoon, gio…",
+        "link": "https://www.grazia.it/moda/news-moda/guess-leonie-hanne-sezane-maglioni-tory-burch-borsa-pomellato-moneta-benetton-rugby-save-the-duck-sneakers-aliita-anniversario-1001610",
+        "pubDate": "2026-10-02T14:09:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/Senza-titolo-43.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Chiara Ferragni incanta Parigi con un total Look firmato Schiaparelli: ma il vero pezzo forte è l’acconciatura!",
+        "description": "Chiara Ferragni a Parigi sfoggia un total look firmato Schiaparelli: ecco i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-incanta-parigi-con-un-total-look-firmato-schiaparelli-ma-il-vero-pezzo-forte-e-lacconciatura/253903/",
+        "pubDate": "2026-10-02T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Abiti da sposa: tutte le novità e le tendenze per il 2027",
+        "description": "Se il 2027 sarà l&#8217;anno in cui direte sì, il momento di cercare l&#8217;abito giusto per farlo è decisamente arrivato. Sono uscite le collezioni dei più gr…",
+        "link": "https://www.grazia.it/moda/sposa/abiti-da-sposa-tendenze-2027-primavera-estate-pizzo-tulle-fiocchi-vestiti-colorati-modelli-brand-bridal-998919",
+        "pubDate": "2026-10-02T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-tendenze-sposa-ss-2027.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "“Il ricordo più bello della notte con Elvis Presley è stato il panino all’uovo della mattina dopo”",
+        "description": "Gael Greene raccontò per quarant’anni i ristoranti di New York mescolando cibo, sesso e vita privata. E contribuì a cambiare per sempre il modo di scrivere di g…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gael-greene-critica-gastronomica-elvis-presley/",
+        "pubDate": "2026-10-02T12:28:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il fagiolo “dente di morto” che da Acerra veniva esportato fino in America",
+        "description": "Si chiama dente di morto per il suo colore bianco opaco ed è una varietà antica che oggi pochi produttori continuano a coltivare…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fagiolo-dente-di-morto-acerra/",
+        "pubDate": "2026-10-02T11:25:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non solo leopardato! La stampa zebrata è la regina indiscussa di quest’autunno",
+        "description": "Da qualche stagione i motivi animalier sono ormai una presenza ricorrente nel nostro guardaroba, ma attenzione: le fantasie leopardate non sono certo le uniche …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-zebrata-motivi-animalier-leopardato-tendenze-moda-donna-autunno-1001721",
+        "pubDate": "2026-10-02T10:39:47+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Stampa_zebrata.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Le 12 migliori pasticcerie di Bari e provincia nel 2026",
         "description": "Le 12 migliori pasticcerie di Bari e della sua provincia. Il territorio barese attraverso il meglio della tradizione dolciaria e dell'artigianato contemporaneo,…",
@@ -100,90 +181,45 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      }
+    ],
+    "moda": [
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
+        "description": "Questa settimana le Fashion Pills ci avvolgono in caldi abbracci, si accendono di tocchi preziosi e scoprono nuovi oggetti del desiderio. Tra maglie cocoon, gio…",
+        "link": "https://www.grazia.it/moda/news-moda/guess-leonie-hanne-sezane-maglioni-tory-burch-borsa-pomellato-moneta-benetton-rugby-save-the-duck-sneakers-aliita-anniversario-1001610",
+        "pubDate": "2026-10-02T14:09:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/Senza-titolo-43.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
-        "title": "Hailey Bieber brilla a Parigi con il mini dress total gold firmato Saint Laurent FOTO",
-        "description": "Hailey Bieber a Parigi indossa un mini dress total gold firmato Saint Laurent.…",
-        "link": "https://www.stylosophy.it/articolo/hailey-bieber-brilla-a-parigi-con-il-mini-dress-total-gold-firmato-saint-laurent-foto/253889/",
-        "pubDate": "2026-10-01T16:30:00+00:00",
+        "title": "Chiara Ferragni incanta Parigi con un total Look firmato Schiaparelli: ma il vero pezzo forte è l’acconciatura!",
+        "description": "Chiara Ferragni a Parigi sfoggia un total look firmato Schiaparelli: ecco i dettagli.…",
+        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-incanta-parigi-con-un-total-look-firmato-schiaparelli-ma-il-vero-pezzo-forte-e-lacconciatura/253903/",
+        "pubDate": "2026-10-02T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Coccinelle ci porta nella campagna inglese con la nuova collezione Autunno/Inverno 2026",
-        "description": "Lo stile della campagna inglese torna a influenzare il guardaroba contemporaneo, portando con sé tutto il fascino di un&#8217;estetica che mescola romanticismo,…",
-        "link": "https://www.grazia.it/moda/news-moda/coccinelle-ci-porta-nella-campagna-inglese-con-la-nuova-collezione-autunno-inverno-2026-1001014",
-        "pubDate": "2026-10-01T15:41:31+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_coccinelle_native.jpg",
+        "title": "Abiti da sposa: tutte le novità e le tendenze per il 2027",
+        "description": "Se il 2027 sarà l&#8217;anno in cui direte sì, il momento di cercare l&#8217;abito giusto per farlo è decisamente arrivato. Sono uscite le collezioni dei più gr…",
+        "link": "https://www.grazia.it/moda/sposa/abiti-da-sposa-tendenze-2027-primavera-estate-pizzo-tulle-fiocchi-vestiti-colorati-modelli-brand-bridal-998919",
+        "pubDate": "2026-10-02T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-tendenze-sposa-ss-2027.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Dagli States di Sideways a quelli Maha: i 20 anni che hanno cambiato il rapporto americano col vino. E anche il nostro",
-        "description": "Ventidue anni dopo Sideways, gli Usa hanno totalmente cambiato il loro rapporto con il vino: Make America Healthy Again è il nuovo volto di un Paese che ha intr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/stati-uniti-nuovo-modello-consumo-vino-maha/",
-        "pubDate": "2026-10-01T15:26:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La clientela del ristorante fa il prezzo del panino: la nuova strategia di McDonald’s",
-        "description": "Un Big Mac come un biglietto aereo: McDonald's sta spingendo sempre di più i prezzi dinamici, e né gli affiliati né l'antitrust sembrano contenti.\nL'articolo La…",
-        "link": "https://www.dissapore.com/notizie/la-clientela-del-ristorante-fa-il-prezzo-del-panino-la-nuova-strategia-di-mcdonalds/",
-        "pubDate": "2026-10-01T14:01:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/big-mac-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Giù i prezzi al consumo, su i costi di produzione: lo shock inflazionistico sta danneggiando le imprese del vino",
-        "description": "A settembre vanno giù i prezzi al consumo, ma le vendite non ripartono, mentre aumentano i costi di energia e trasporti. Uiv: \"Si riducono i margini. Servono ri…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/inflazione-impatto-aziende-vino-analisi-uiv/",
-        "pubDate": "2026-10-01T13:41:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Milano può attendere. La priorità è Champagne Experience di Bologna”. Folonari sul nuovo corso di Excellence Sidi",
-        "description": "Il neo presidente del gruppo racconta gli obiettivi del suo mandato: in standby il progetto Wine Prime annunciato da Cuzziol. \"Bilancio di fine anno? Prudenza n…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/guido-folonari-excellence-sidi-champage-experience/",
-        "pubDate": "2026-10-01T13:11:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nell’epoca dell’AI, Adam Sandler s’è mangiato mezza Torino",
-        "description": "La situazione di Adam Sandler a Torino è sfuggita di mano. A noi, non a lui. \nL'articolo Nell’epoca dell’AI, Adam Sandler s’è mangiato mezza Torino proviene da …",
-        "link": "https://www.dissapore.com/notizie/nellepoca-dellai-adam-sandler-se-mangiato-mezza-torino/",
-        "pubDate": "2026-10-01T11:18:55+00:00",
-        "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f54a.png",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dom Pérignon e Damien Hirst: la Limited Edition 2026 celebra il dialogo tra arte e Champagne",
-        "description": "Dom Pérignon presenta la Limited Edition 2026 realizzata in collaborazione con Damien Hirst. La Maison di Champagne sceglie l’artista britannico per una nuova e…",
-        "link": "https://www.winemag.it/dom-perignon-e-damien-hirst-la-limited-edition-2026-celebra-il-dialogo-tra-arte-e-champagne/",
-        "pubDate": "2026-10-01T10:54:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Pronte a dire addio ai barrel? Sono i jeans a “tulipano” il modello su cui scommettere quest’autunno",
-        "description": "Fino a questo momento sono stati i jeans barrel a dominare le tendenze della stagione, ma a quanto pare c’è una nuova silhouette pronta a cambiare le carte in t…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-a-tulipano-tulip-denim-trend-barrel-autunno-donna-1001329",
-        "pubDate": "2026-10-01T09:55:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Tulip_Jeans.jpg",
+        "title": "Non solo leopardato! La stampa zebrata è la regina indiscussa di quest’autunno",
+        "description": "Da qualche stagione i motivi animalier sono ormai una presenza ricorrente nel nostro guardaroba, ma attenzione: le fantasie leopardate non sono certo le uniche …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-zebrata-motivi-animalier-leopardato-tendenze-moda-donna-autunno-1001721",
+        "pubDate": "2026-10-02T10:39:47+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Stampa_zebrata.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      }
-    ],
-    "moda": [
+      },
       {
         "title": "Romasposa 2026: tante idee e tendenze per il giorno del sì al Salone Internazionale della Sposa",
         "description": "Tante idee e tendenze per il giorno del sì e per tutte le feste, tra le proposte degli oltre 300 espositori presenti alla 62a edizione del Salone Internazionale…",
@@ -192,6 +228,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "La stampa floreale diventa dark e sensuale per vestire di glamour l’autunno 2026",
+        "description": "Dalla vena leggermente dark, il floral print in autunno cambia volto rispetto a come lo sfoggiamo nella bella stagione, scostandosi dalla sua natura più romanti…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-floreale-autunno-2026-vestiti-a-fiori-scarpe-borse-must-have-gonne-bluse-1000973",
+        "pubDate": "2026-10-01T18:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_autunno_floreale.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Hailey Bieber brilla a Parigi con il mini dress total gold firmato Saint Laurent FOTO",
@@ -266,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Sirivannavari, la principessa designer che porta la Thailandia alla Milano Fashion Week",
-        "description": "Un filo che unisce Bangkok a Milano, la tradizione thailandese all’immaginario dell’India, la memoria personale alla moda contemporanea. È quello seguito da Sir…",
-        "link": "https://www.grazia.it/moda/news-moda/sirivannavari-intervista-collezione-primavera-estate-2027-milano-fashion-week-1000719",
-        "pubDate": "2026-09-30T13:05:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/sirivannavari-aper.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Il Look in denim di Diletta Leotta è il must di stagione: da copiare subito!",
         "description": "Diletta Leotta sfoggia un total look in denim che di sicuro sarà il must di stagione.…",
         "link": "https://www.stylosophy.it/articolo/il-look-in-denim-di-diletta-leotta-e-il-must-di-stagione-da-copiare-subito/253877/",
@@ -284,24 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Dite addio alle ballerine: New Balance ha presentato le nuove it-shoes dell’autunno in collaborazione con Miu Miu",
-        "description": "Il 17 settembre 2026 Miu Miu e New Balance lanciano la 530 SL Mary Jane, sneaker ultra piatta che sfida il regno delle ballerine in città. Tra suola tecnica e e…",
-        "link": "https://www.grazia.it/moda/news-moda/new-balance-miu-miu-ballerine-nuove-530-sl-collaborazione-autunno-2026-1001061",
-        "pubDate": "2026-09-30T10:45:11+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/new-balance-miu-miu-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Bye bye, blazer nero! È questo il colore più chic da indossare in autunno, parola di Beatrice Borromeo",
-        "description": "L’abbiamo vista seduta in front row, accanto a celeb e altri amici della Maison, ma già dal suo arrivo ai Jardin des Tuilereis non abbiamo potuto fare a meno di…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/beatrice-borromeo-blazer-marrone-melange-nero-flanella-elegante-look-show-dior-sfilate-parigi-giacca-zara-mango-1001047",
-        "pubDate": "2026-09-30T10:20:57+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/COVER_Blazer_marrone_melange.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "I vantaggi di una Stufa a Legna rispetto al Camino tradizionale…",
         "description": "Perché una stufa a legna può risultare più vantaggiosa di un Camino? Ecco una guida per conoscere al meglio entrambe le opzioni e decidere per quella più conven…",
         "link": "https://www.stylosophy.it/articolo/i-vantaggi-di-una-stufa-a-legna-rispetto-al-camino-tradizionale/202888/",
@@ -309,15 +327,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Pantaloni gessati: l’alternativa chic ai jeans che ogni donna over 40 (ma non solo!) dovrebbe in guardaroba avere questo autunno!",
-        "description": "Il jeans ti salva sempre l’outfit, ma dopo i 40 può iniziare a non valorizzarti più. Questo autunno il gessato sartoriale promette comfort, gambe più slanciate …",
-        "link": "https://www.grazia.it/moda/pantaloni-gessati-donna-over-40-anni-modelli-zara-mango-hm-pennyblack-998612",
-        "pubDate": "2026-09-30T04:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/gessato-pantalone-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Ilary Blasi, cosa ha indossato per la quinta puntata del Grande Fratello Vip",
@@ -354,18 +363,54 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Jennifer Lopez si conferma icona di stile con questo meraviglioso completo mannish firmato Dolce & Gabbana",
-        "description": "Jennifer Lopez sfoggia questo meraviglioso completo mannish firmato Dolce &#038; Gabbana: qui per i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/jennifer-lopez-si-conferma-icona-di-stile-con-questo-meraviglioso-completo-mannish-firmato-dolce-gabbana/253840/",
-        "pubDate": "2026-09-27T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La scienza della pizza perfetta: cosa accade davvero durante i 90 secondi in forno",
+        "description": "Scopri come funziona la cottura pizza scienza: irraggiamento, conduzione e convezione trasformano l'impasto in pochi secondi nel forno a 450-500°C.…",
+        "link": "https://www.gustoblog.it/2026/10/02/cottura-pizza-scienza-reazioni/",
+        "pubDate": "2026-10-02T17:04:22+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Negli USA è scontro tra Kennedy e l’industria alimentare",
+        "description": "Il piano \"Make America Healthy Again\" non piace all'industria alimentare che passa al contrattacco ingaggiando un esercito di influencer in uno scontro tra gove…",
+        "link": "https://www.dissapore.com/notizie/negli-usa-e-scontro-tra-kennedy-e-lindustria-alimentare/",
+        "pubDate": "2026-10-02T14:22:30+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/kennedy--scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Champagne Experience 2026: dieci etichette da scoprire al di fuori dei percorsi classici",
+        "description": "Al di là dei nomi più conosciuti, abbiamo individuato dieci chicche da scovare nei padiglioni di BolognaFiere. Spazio anche all'offerta food, a partire dalla pa…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/champagne-experience-2026-dieci-etichette-da-non-perdere/",
+        "pubDate": "2026-10-02T14:21:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Il ricordo più bello della notte con Elvis Presley è stato il panino all’uovo della mattina dopo”",
+        "description": "Gael Greene raccontò per quarant’anni i ristoranti di New York mescolando cibo, sesso e vita privata. E contribuì a cambiare per sempre il modo di scrivere di g…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gael-greene-critica-gastronomica-elvis-presley/",
+        "pubDate": "2026-10-02T12:28:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il fagiolo “dente di morto” che da Acerra veniva esportato fino in America",
+        "description": "Si chiama dente di morto per il suo colore bianco opaco ed è una varietà antica che oggi pochi produttori continuano a coltivare…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fagiolo-dente-di-morto-acerra/",
+        "pubDate": "2026-10-02T11:25:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Le 12 migliori pasticcerie di Bari e provincia nel 2026",
         "description": "Le 12 migliori pasticcerie di Bari e della sua provincia. Il territorio barese attraverso il meglio della tradizione dolciaria e dell'artigianato contemporaneo,…",
@@ -457,15 +502,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dagli States di Sideways a quelli Maha: i 20 anni che hanno cambiato il rapporto americano col vino. E anche il nostro",
-        "description": "Ventidue anni dopo Sideways, gli Usa hanno totalmente cambiato il loro rapporto con il vino: Make America Healthy Again è il nuovo volto di un Paese che ha intr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/stati-uniti-nuovo-modello-consumo-vino-maha/",
-        "pubDate": "2026-10-01T15:26:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La clientela del ristorante fa il prezzo del panino: la nuova strategia di McDonald’s",
         "description": "Un Big Mac come un biglietto aereo: McDonald's sta spingendo sempre di più i prezzi dinamici, e né gli affiliati né l'antitrust sembrano contenti.\nL'articolo La…",
         "link": "https://www.dissapore.com/notizie/la-clientela-del-ristorante-fa-il-prezzo-del-panino-la-nuova-strategia-di-mcdonalds/",
@@ -473,24 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/big-mac-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Giù i prezzi al consumo, su i costi di produzione: lo shock inflazionistico sta danneggiando le imprese del vino",
-        "description": "A settembre vanno giù i prezzi al consumo, ma le vendite non ripartono, mentre aumentano i costi di energia e trasporti. Uiv: \"Si riducono i margini. Servono ri…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/inflazione-impatto-aziende-vino-analisi-uiv/",
-        "pubDate": "2026-10-01T13:41:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Milano può attendere. La priorità è Champagne Experience di Bologna”. Folonari sul nuovo corso di Excellence Sidi",
-        "description": "Il neo presidente del gruppo racconta gli obiettivi del suo mandato: in standby il progetto Wine Prime annunciato da Cuzziol. \"Bilancio di fine anno? Prudenza n…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/guido-folonari-excellence-sidi-champage-experience/",
-        "pubDate": "2026-10-01T13:11:39+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Nell’epoca dell’AI, Adam Sandler s’è mangiato mezza Torino",
@@ -525,24 +543,6 @@
         "link": "https://www.winemag.it/etna-wine-forum-2026-a-biancavilla-la-quinta-edizione-tra-vino-cucina-e-cultura/",
         "pubDate": "2026-10-01T08:53:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Corea del Sud, viaggio nel gusto tra tradizione, territori e nuove tendenze",
-        "description": "In Corea del Sud il cibo è condivisione, territorio e memoria. La gastronomia coreana nasce dall’incontro tra ingredienti stagionali, tecniche di preparazione e…",
-        "link": "https://www.winemag.it/corea-del-sud-viaggio-nel-gusto-tra-tradizione-territori-e-nuove-tendenze/",
-        "pubDate": "2026-10-01T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vinchio Vaglio, il “nido della Barbera”: identità, equilibrio e capacità di evolvere",
-        "description": "Nel Monferrato la Barbera non è soltanto un vitigno. È identità, storia e futuro. Vinchio Vaglio, una delle realtà cooperative più rappresentative dell&#8217;As…",
-        "link": "https://www.winemag.it/vinchio-vaglio-il-nido-della-barbera-identita-equilibrio-e-capacita-di-evolvere/",
-        "pubDate": "2026-09-30T22:30:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/09/Vinchio-Vaglio-il-nido-della-Barbera-identita-equilibrio-e-capacita-di-evolvere-6.jpg",
         "cat": "Vino",
         "source": "Wine Mag"
       }
