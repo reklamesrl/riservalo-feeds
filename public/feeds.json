@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T15:50:27.393810+00:00",
+  "generated": "2026-10-03T20:40:14.058106+00:00",
   "feeds": {
     "offerte": [
       {
@@ -75,6 +75,15 @@
         "source": "Gambero Rosso"
       },
       {
+        "title": "Addio nero: questi due colori autunnali snelliscono  la silhouette e ringiovaniscano il viso dopo i 50 anni",
+        "description": "Il nero ha sempre promesso di snellire, ma dopo i 50 può spegnere il viso e indurire i tratti. Un nuovo colore autunnale profondo promette la stessa silhouette …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/addio-nero-colori-autunnali-snelliscono-e-ringiovaniscano-dopo-50-anni-1000771",
+        "pubDate": "2026-10-03T05:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/dark-cherry-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Ha lasciato le calzature per fare vino in Maremma. Oggi il suo bianco da 93 punti costa meno di 15 euro",
         "description": "Il Vermentino ha aperto la strada, poi è arrivata l’Ansonica: Fattoria di Magliano ne offre una grande versione con un vino sapido e mediterraneo dal prezzo mol…",
         "link": "https://www.gamberorosso.it/notizie/vino/berebene/ansonica-brissaia-maremma-sotto-15-euro/",
@@ -82,6 +91,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cosa comprare da Zara a Ottobre: i capi e gli accessori da non farsi scappare",
+        "description": "Ottobre porta ufficialmente con sé l’aria frizzante dell&#8217;autunno e quel tipico desiderio di rinnovare il guardaroba con capi versatili e raffinati. Tra nu…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-zara-ottobre-2026-shopping-vestiti-scarpe-borse-must-have-autunno-giacche-trench-pelle-1001797",
+        "pubDate": "2026-10-03T04:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_zara_ottobre.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Perché si mette il cioccolato nel ragù: storia, regioni e tecnica culinaria",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non solo leopardato! La stampa zebrata è la regina indiscussa di quest’autunno",
-        "description": "Da qualche stagione i motivi animalier sono ormai una presenza ricorrente nel nostro guardaroba, ma attenzione: le fantasie leopardate non sono certo le uniche …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-zebrata-motivi-animalier-leopardato-tendenze-moda-donna-autunno-1001721",
-        "pubDate": "2026-10-02T10:39:47+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Stampa_zebrata.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Le 12 migliori pasticcerie di Bari e provincia nel 2026",
-        "description": "Le 12 migliori pasticcerie di Bari e della sua provincia. Il territorio barese attraverso il meglio della tradizione dolciaria e dell'artigianato contemporaneo,…",
-        "link": "https://www.dissapore.com/locali/le-12-migliori-pasticcerie-di-bari-e-provincia-nel-2026/",
-        "pubDate": "2026-10-02T10:39:36+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/pasticceria-cortigiano-Bari-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
@@ -201,6 +201,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Addio nero: questi due colori autunnali snelliscono  la silhouette e ringiovaniscano il viso dopo i 50 anni",
+        "description": "Il nero ha sempre promesso di snellire, ma dopo i 50 può spegnere il viso e indurire i tratti. Un nuovo colore autunnale profondo promette la stessa silhouette …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/addio-nero-colori-autunnali-snelliscono-e-ringiovaniscano-dopo-50-anni-1000771",
+        "pubDate": "2026-10-03T05:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/dark-cherry-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Cosa comprare da Zara a Ottobre: i capi e gli accessori da non farsi scappare",
+        "description": "Ottobre porta ufficialmente con sé l’aria frizzante dell&#8217;autunno e quel tipico desiderio di rinnovare il guardaroba con capi versatili e raffinati. Tra nu…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-zara-ottobre-2026-shopping-vestiti-scarpe-borse-must-have-autunno-giacche-trench-pelle-1001797",
+        "pubDate": "2026-10-03T04:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_zara_ottobre.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
@@ -307,24 +325,6 @@
         "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-a-ottobre-idee-shopping-fashion-crush-look-autunno-donna-1000915",
         "pubDate": "2026-10-01T06:30:00+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_fashion_crush_OTTOBRE_2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Milano Fashion week : il recap della settimana della moda primavera estate 2027",
-        "description": "Si è appena conclusa una nuova edizione della Milano Fashion Week e, sebbene gli esperti del settore stiano già rivolgendo lo sguardo a Parigi, vogliamo raccont…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/milano-fashion-week-tendenze-primavera-estate-2027-1000124",
-        "pubDate": "2026-09-30T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/ok-desk-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "S|STYLE Wardrobe Edition: dieci designer interpretano il futuro della moda",
-        "description": "E se il futuro del guardaroba non avesse più confini? Dieci designer internazionali reinterpretano il vestire contemporaneo attraverso abiti, borse, calzature e…",
-        "link": "https://www.grazia.it/moda/news-moda/sstyle-wardrobe-edition-kering-designer-internazionali-1000755",
-        "pubDate": "2026-09-30T13:37:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/Sstyle-hero.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
