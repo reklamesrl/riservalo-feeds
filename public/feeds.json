@@ -1,7 +1,34 @@
 {
-  "generated": "2026-10-03T11:12:45.904899+00:00",
+  "generated": "2026-10-03T15:50:27.393810+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "L’ Altlante Alimentare dei Piatti Liguri è un’idea da copiare per parlare di cucina tradizionale oggi",
+        "description": "Partire dalle porzioni, e non dalla grammatura, per orientarsi nell'apporto nutrizionale della cucina tradizionale, stando al passo con le esigenze di oggi. Un'…",
+        "link": "https://www.dissapore.com/cucina/laltlante-alimentare-dei-piatti-liguri-e-unidea-da-copiare-per-parlare-di-cucina-tradizionale-oggi/",
+        "pubDate": "2026-10-03T14:31:15+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/cima-alla-genovese-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ilary Blasi incanta il Grande Fratello Vip con il suo Look grigio perla très chic",
+        "description": "Ilary Blasi, per la sesta puntata del Grande Fratello Vip, ha optato per un abito lungo a fascia sui toni del grigio perla.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-incanta-il-grande-fratello-vip-con-il-suo-look-grigio-perla-tres-chic/253909/",
+        "pubDate": "2026-10-03T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa succede dopo l’Ozempic? La nuova frontiera del mantenimento del peso",
+        "description": "I colossi dell'industria alimentare devono vedersela con un altro cambiamento imposto dall'Ozempic: cosa fare quando la terapia finisce?\nL'articolo Cosa succede…",
+        "link": "https://www.dissapore.com/notizie/cosa-succede-dopo-lozempic-la-nuova-frontiera-del-mantenimento-del-peso/",
+        "pubDate": "2026-10-03T11:24:43+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/ozempic-farmacia-scaffale-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Prima dei bambini, c’è una lista di persone a cui vieterei l’ingresso al ristorante",
         "description": "Ma davvero i bambini al ristorante sono il vostro principale problema? \nL'articolo Prima dei bambini, c&#8217;è una lista di persone a cui vieterei l&#8217;ingr…",
@@ -19,6 +46,42 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Questa fava pugliese era quasi scomparsa. Poi è finita nello spazio con Samantha Cristoforetti",
+        "description": "Negli anni Novanta a Carpino erano rimasti due soli contadini a coltivarla. Nel 2014 la Fava di Carpino è arrivata sulla Stazione Spaziale Internazionale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/questa-fava-pugliese-era-quasi-scomparsa-poi-e-finita-nello-spazio-con-samantha-cristoforetti/",
+        "pubDate": "2026-10-03T07:45:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Suo nonno vendemmiava a ottobre. Lei quest’anno ha iniziato il 17 agosto e raccoglie l’uva di notte",
+        "description": "Sarah Dei Tos raccoglie la Glera tra le 3 e le 8 del mattino. Ora studia con i ricercatori cosa succede all’uva al buio e con temperature diverse…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vendemmia-notturna-prosecco-sarah-dei-tos-clima/",
+        "pubDate": "2026-10-03T07:37:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Togliere l’alcol dal vino non basta. Il dealcolato si comincia a costruire già in vigna”",
+        "description": "Lea Winery produce dealcolati dal 2023. Eleonora Spadotto racconta cosa cambia togliendo l’alcol e perché, nella loro esperienza, il consumatore preferisce lo z…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-dealcolati-zero-alcol-lea-winery/",
+        "pubDate": "2026-10-03T07:05:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha lasciato le calzature per fare vino in Maremma. Oggi il suo bianco da 93 punti costa meno di 15 euro",
+        "description": "Il Vermentino ha aperto la strada, poi è arrivata l’Ansonica: Fattoria di Magliano ne offre una grande versione con un vino sapido e mediterraneo dal prezzo mol…",
+        "link": "https://www.gamberorosso.it/notizie/vino/berebene/ansonica-brissaia-maremma-sotto-15-euro/",
+        "pubDate": "2026-10-03T05:23:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Perché si mette il cioccolato nel ragù: storia, regioni e tecnica culinaria",
@@ -118,72 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/pasticceria-cortigiano-Bari-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Consorzio Vini del Trentino, presentato il 3° Bilancio di Sostenibilità",
-        "description": "Il Consorzio Vini del Trentino ha presentato mercoledì 30 settembre 2026, all’ITAS Forum di Trento, il 3° Bilancio di Sostenibilità. Il documento fotografa il p…",
-        "link": "https://www.winemag.it/consorzio-vini-del-trentino-presentato-il-3-bilancio-di-sostenibilita/",
-        "pubDate": "2026-10-02T10:17:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Troia Wine Route, dalla Türkiye arriva in Italia la nuova rotta del vino nella Troade",
-        "description": "La Troia Wine Route arriva per la prima volta in Italia. Il progetto enoturistico, sviluppato nella regione di Çanakkale, nella Türkiye nord-occidentale, è stat…",
-        "link": "https://www.winemag.it/troia-wine-route-dalla-turkiye-arriva-in-italia-la-nuova-rotta-del-vino-nella-troade/",
-        "pubDate": "2026-10-02T10:01:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Troia-Wine-Route-dalla-Turkiye-arriva-in-Italia-la-nuova-rotta-del-vino-nella-Troade-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dopo 10 anni chiudono il loro ristorante e ripartono da zero. “Finalmente avremo una vera cucina”",
-        "description": "Tiziano e Mirko Palucci salutano la sede di via Cesena e portano Barred a due passi da Piramide. Spritzino chiude dopo dieci mesi e lascia spazio al ristorante…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/barred-roma-chiude-san-giovanni-trasferisce-ostiense/",
-        "pubDate": "2026-10-02T09:16:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Romasposa 2026: tante idee e tendenze per il giorno del sì al Salone Internazionale della Sposa",
-        "description": "Tante idee e tendenze per il giorno del sì e per tutte le feste, tra le proposte degli oltre 300 espositori presenti alla 62a edizione del Salone Internazionale…",
-        "link": "https://www.stylosophy.it/articolo/romasposa-2026-tante-idee-e-tendenze-per-il-giorno-del-si/253879/",
-        "pubDate": "2026-10-02T09:00:00+00:00",
+        "title": "Ilary Blasi incanta il Grande Fratello Vip con il suo Look grigio perla très chic",
+        "description": "Ilary Blasi, per la sesta puntata del Grande Fratello Vip, ha optato per un abito lungo a fascia sui toni del grigio perla.…",
+        "link": "https://www.stylosophy.it/articolo/ilary-blasi-incanta-il-grande-fratello-vip-con-il-suo-look-grigio-perla-tres-chic/253909/",
+        "pubDate": "2026-10-03T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "È arrivato dalla Calabria negli anni Sessanta. Oggi è un piatto simbolo della Costiera Amalfitana",
-        "description": "È il sarchiapone di Atrani: una zucca lunga ripiena di carne, fritta e poi cotta nel pomodoro, diventata il piatto della festa di Santa Maria Maddalena…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sarchiapone-atrani-costiera-amalfitana/",
-        "pubDate": "2026-10-02T08:45:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "18 enoteche, 35 cantine e degustazioni gratuite: la Guida Vini d’Italia 2027 fa festa",
-        "description": "Dal 1° al 9 ottobre, la Festa Guida Vini d’Italia 2027 porta in 18 enoteche italiane una selezione di etichette di 35 cantine, con degustazioni gratuite per sco…",
-        "link": "https://www.gamberorosso.it/notizie/vino/enoteche-degustazioni-gratuite-guida-vini-italia-2027/",
-        "pubDate": "2026-10-02T08:22:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Prima dello zucchero c’era l’uva: il dolcificante che si preparava durante la vendemmia",
-        "description": "Prima che lo zucchero diventasse un ingrediente quotidiano, durante la vendemmia una parte del mosto veniva cotta e concentrata. Saba, sapa e mosto cotto erano …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mosto-cotto-saba-dolcificante-prima-dello-zucchero/",
-        "pubDate": "2026-10-02T08:01:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Make up effetto filler: ecco come donare volume alle labbra sottili solo con il trucco!",
         "description": "Il make up può diventare il miglior alleato per dare nuova forma e pienezza alle labbra sottili. Con le giuste tecniche e texture, il trucco si trasforma in un …",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Londra in autunno è tutta un’altra città: 5 cose da fare e vedere",
-        "description": "Tra parchi che si tingono di rosso e oro, musei, mercati storici e quartieri dal fascino senza tempo, la capitale britannica offre un volto diverso da scoprire.…",
-        "link": "https://www.stylosophy.it/articolo/londra-in-autunno-e-tutta-unaltra-citta-cose-da-fare-e-vedere/253848/",
-        "pubDate": "2026-09-28T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "L’ Altlante Alimentare dei Piatti Liguri è un’idea da copiare per parlare di cucina tradizionale oggi",
+        "description": "Partire dalle porzioni, e non dalla grammatura, per orientarsi nell'apporto nutrizionale della cucina tradizionale, stando al passo con le esigenze di oggi. Un'…",
+        "link": "https://www.dissapore.com/cucina/laltlante-alimentare-dei-piatti-liguri-e-unidea-da-copiare-per-parlare-di-cucina-tradizionale-oggi/",
+        "pubDate": "2026-10-03T14:31:15+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/cima-alla-genovese-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Cosa succede dopo l’Ozempic? La nuova frontiera del mantenimento del peso",
+        "description": "I colossi dell'industria alimentare devono vedersela con un altro cambiamento imposto dall'Ozempic: cosa fare quando la terapia finisce?\nL'articolo Cosa succede…",
+        "link": "https://www.dissapore.com/notizie/cosa-succede-dopo-lozempic-la-nuova-frontiera-del-mantenimento-del-peso/",
+        "pubDate": "2026-10-03T11:24:43+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/ozempic-farmacia-scaffale-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "Prima dei bambini, c’è una lista di persone a cui vieterei l’ingresso al ristorante",
         "description": "Ma davvero i bambini al ristorante sono il vostro principale problema? \nL'articolo Prima dei bambini, c&#8217;è una lista di persone a cui vieterei l&#8217;ingr…",
@@ -374,6 +392,42 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/07/bambini-ristorante-scaled-e1784022242689.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Questa fava pugliese era quasi scomparsa. Poi è finita nello spazio con Samantha Cristoforetti",
+        "description": "Negli anni Novanta a Carpino erano rimasti due soli contadini a coltivarla. Nel 2014 la Fava di Carpino è arrivata sulla Stazione Spaziale Internazionale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/questa-fava-pugliese-era-quasi-scomparsa-poi-e-finita-nello-spazio-con-samantha-cristoforetti/",
+        "pubDate": "2026-10-03T07:45:10+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Suo nonno vendemmiava a ottobre. Lei quest’anno ha iniziato il 17 agosto e raccoglie l’uva di notte",
+        "description": "Sarah Dei Tos raccoglie la Glera tra le 3 e le 8 del mattino. Ora studia con i ricercatori cosa succede all’uva al buio e con temperature diverse…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vendemmia-notturna-prosecco-sarah-dei-tos-clima/",
+        "pubDate": "2026-10-03T07:37:45+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Togliere l’alcol dal vino non basta. Il dealcolato si comincia a costruire già in vigna”",
+        "description": "Lea Winery produce dealcolati dal 2023. Eleonora Spadotto racconta cosa cambia togliendo l’alcol e perché, nella loro esperienza, il consumatore preferisce lo z…",
+        "link": "https://www.gamberorosso.it/notizie/vino/vini-dealcolati-zero-alcol-lea-winery/",
+        "pubDate": "2026-10-03T07:05:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ha lasciato le calzature per fare vino in Maremma. Oggi il suo bianco da 93 punti costa meno di 15 euro",
+        "description": "Il Vermentino ha aperto la strada, poi è arrivata l’Ansonica: Fattoria di Magliano ne offre una grande versione con un vino sapido e mediterraneo dal prezzo mol…",
+        "link": "https://www.gamberorosso.it/notizie/vino/berebene/ansonica-brissaia-maremma-sotto-15-euro/",
+        "pubDate": "2026-10-03T05:23:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Perché si mette il cioccolato nel ragù: storia, regioni e tecnica culinaria",
@@ -484,42 +538,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Prima dello zucchero c’era l’uva: il dolcificante che si preparava durante la vendemmia",
-        "description": "Prima che lo zucchero diventasse un ingrediente quotidiano, durante la vendemmia una parte del mosto veniva cotta e concentrata. Saba, sapa e mosto cotto erano …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/mosto-cotto-saba-dolcificante-prima-dello-zucchero/",
-        "pubDate": "2026-10-02T08:01:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nella terra del Barolo c’è un wine bar con giradischi, vini spagnoli e panini con il bollito",
-        "description": "Sebastian Ghisolfi è cresciuto in una famiglia di produttori. Dopo aver vissuto all’estero è tornato a Monforte d’Alba per aprire un locale che mescola Langhe e…",
-        "link": "https://www.gamberorosso.it/notizie/vino/vivic-wine-bar-monforte-alba-langhe/",
-        "pubDate": "2026-10-02T07:10:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La rivoluzione dei vini marchigiani: per la prima volta due rosati sul gradino più alto del nostro podio",
-        "description": "Non ci era mai capitato prima di quest'anno di premiare con i Tre Bicchieri dei vini rosati marchigiani (ben due). Durante le degustazioni siamo rimasti stupiti…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-marche/",
-        "pubDate": "2026-10-02T05:10:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Iginio Massari apre in un ex casinò sul lago di Garda. Dentro ci saranno pasticceria, pizzeria e due ristoranti",
-        "description": "A Gardone Riviera apre la prima parte del nuovo progetto della famiglia Massari: quattro format già operativi, poi il ristorante gastronomico e un bar panoramic…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/iginio-massari-gardone-riviera-ex-casino/",
-        "pubDate": "2026-10-02T03:59:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La clientela del ristorante fa il prezzo del panino: la nuova strategia di McDonald’s",
         "description": "Un Big Mac come un biglietto aereo: McDonald's sta spingendo sempre di più i prezzi dinamici, e né gli affiliati né l'antitrust sembrano contenti.\nL'articolo La…",
         "link": "https://www.dissapore.com/notizie/la-clientela-del-ristorante-fa-il-prezzo-del-panino-la-nuova-strategia-di-mcdonalds/",
@@ -527,24 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/big-mac-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Nell’epoca dell’AI, Adam Sandler s’è mangiato mezza Torino",
-        "description": "La situazione di Adam Sandler a Torino è sfuggita di mano. A noi, non a lui. \nL'articolo Nell’epoca dell’AI, Adam Sandler s’è mangiato mezza Torino proviene da …",
-        "link": "https://www.dissapore.com/notizie/nellepoca-dellai-adam-sandler-se-mangiato-mezza-torino/",
-        "pubDate": "2026-10-01T11:18:55+00:00",
-        "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f54a.png",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dom Pérignon e Damien Hirst: la Limited Edition 2026 celebra il dialogo tra arte e Champagne",
-        "description": "Dom Pérignon presenta la Limited Edition 2026 realizzata in collaborazione con Damien Hirst. La Maison di Champagne sceglie l’artista britannico per una nuova e…",
-        "link": "https://www.winemag.it/dom-perignon-e-damien-hirst-la-limited-edition-2026-celebra-il-dialogo-tra-arte-e-champagne/",
-        "pubDate": "2026-10-01T10:54:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
