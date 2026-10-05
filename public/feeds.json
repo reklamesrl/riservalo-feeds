@@ -1,7 +1,88 @@
 {
-  "generated": "2026-10-05T13:47:44.127036+00:00",
+  "generated": "2026-10-05T23:48:23.460445+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Tasmania, 200 anni di spumanti: nel 1826 la prima bollicina d’Australia",
+        "description": "A realizzarlo fu Bartholomew Broughton, uno dei pionieri della viticoltura dell'isola.\nL'articolo Tasmania, 200 anni di spumanti: nel 1826 la prima bollicina d&…",
+        "link": "https://www.winemag.it/tasmania-200-anni-di-spumanti-nel-1826-la-prima-bollicina-daustralia/",
+        "pubDate": "2026-10-05T22:15:38+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vino svizzero, Confederazione respinge proposta sostegno produttori locali",
+        "description": "La Svizzera continuerà a importare vino senza chiedere agli importatori di comprare anche vino svizzero. È la decisione contestata dall’Interprofessione della V…",
+        "link": "https://www.winemag.it/vino-svizzero-confederazione-respinge-proposta-sostegno-produttori-locali/",
+        "pubDate": "2026-10-05T21:06:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Paris Fashion Week: i look delle celeb in front row alle sfilate Primavera/Estate 2027",
+        "description": "A Parigi la moda va in scena due volte. Una sulle passerelle, dove da sempre le maison presentano le collezioni che definiscono la prossima stagione, e una appe…",
+        "link": "https://www.grazia.it/moda/celebrity-style/paris-fashion-week-look-star-front-row-jennifer-lawrence-rihanna-zoe-kravitz-naomi-watts-1001983",
+        "pubDate": "2026-10-05T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/ok-desk.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "La Calabria della birra artigianale in cinque birrifici da non perdere",
+        "description": "Esplorare i birrifici artigianali calabresi significa andare alla scoperta nella nuova generazione gastronomica che sta animando la regione. Ne abbiamo scelti c…",
+        "link": "https://www.dissapore.com/bere/la-calabria-della-birra-artigianale-in-cinque-birrifici-da-non-perdere/",
+        "pubDate": "2026-10-05T15:42:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/lametus.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Capitali europee a ottobre: 4 città perfette da esplorare nel clima fresco dell’autunno",
+        "description": "Ottobre è un ottimo mese per visitare le grandi capitali europee senza il caldo estivo e con meno folla. Ecco quattro destinazioni ideali per un viaggio tra mus…",
+        "link": "https://www.stylosophy.it/articolo/capitali-europee-a-ottobre-citta-perfette-da-esplorare-nel-clima-fresco-dellautunno/253924/",
+        "pubDate": "2026-10-05T15:30:14+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Lutto all’Ansa: è morta la giornalista Alessandra Moneti",
+        "description": "È scomparsa stamattina, in seguito a un malore, Alessandra Moneti, collega e amica dell'agenzia Ansa…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/lutto-allansa-e-morta-la-collega-alessandra-moneti/",
+        "pubDate": "2026-10-05T15:29:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alba, ma non solo. Le fiere del tartufo bianco in Piemonte da segnare in agenda",
+        "description": "Da Alba alle colline del Monferrato, passando per Roero e Alessandrino: i migliori appuntamenti dell’autunno piemontese per vedere, comprare e mangiare il tartu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/tartufo-bianco-fiere-piemonte/",
+        "pubDate": "2026-10-05T14:52:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Addio ai “soliti” jeans: quelli firmati da Miu Miu e Wrangler saranno il denim dei sogni della prossima primavera",
+        "description": "Il denim cambia pelle e, ancora una volta, lo fa passando dall’archivio. Sulla passerella parigina della Primavera/Estate 2027, Miu Miu presenta una nuova colla…",
+        "link": "https://www.grazia.it/moda/news-moda/miu-miu-wrangler-jeans-collaborazione-primavera-estate-2027-1002294",
+        "pubDate": "2026-10-05T14:50:21+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/miu-miu-wrangler-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Sembra una criniera di leone ed è il fungo più strano del bosco: perché gli chef lo vogliono in menu",
+        "description": "Si chiama criniera di leone per il suo aspetto particolare e viene utilizzato in cucina, nella tradizione cinese e negli integratori…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lions-mane-fungo-criniera-di-leone/",
+        "pubDate": "2026-10-05T13:57:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Lo slip dress in seta con dettagli in pizzo di Chiara Ferragni sarà il must per questo autunno: da avere subito!",
         "description": "Chiara Ferragni sfoggia il trend di stagione, lo slip dress in seta con dettagli in pizzo a contrasto.…",
@@ -10,6 +91,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "L’attrice turca Hande Erçel alla sfilata di Valentino con una gonna midi a quadri che non vediamo l’ora di indossare anche noi per tutto l’autunno",
+        "description": "È stata una delle special guest dello show SS27 di Valentino e il look che ha sfoggiato per l’occasione è finito inevitabilmente nel nostro radar: ieri in front…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-a-quadri-tartan-midi-corta-lunga-zara-mango-hande-ercel-karem-bursim-love-is-in-the-air-serie-turche-1002036",
+        "pubDate": "2026-10-05T12:35:49+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Gonna_quadri.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Rimangono meno di due mesi per provare uno dei migliori ristoranti al mondo. Ma una chiusura non fa una sentenza",
+        "description": "Bruno Verjus annuncia la chiusura di Table a Parigi e dichiara morto il fine dining. Ma la scelta di cambiare modello basta a decretare la fine dell’alta ristor…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bruno-verjus-chisura-table-parigi/",
+        "pubDate": "2026-10-05T12:23:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Le 10 cose da non perdere a Buonissima 2026 a Torino",
@@ -75,15 +174,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "In Europa i consumi sono sempre meno alcolici: le bevande alternative raggiungono i 109 miliardi di euro",
-        "description": "L'analisi Circana certifica l'ascesa delle bevande alternative nei sei grandi mercati europei: i dati giugno indicano che il 43% dei consumatori ha ridotto gli …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/boom-consumi-bevande-salutari-europa-circana/",
-        "pubDate": "2026-10-05T09:49:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il mondo non beveva così poco vino da 70 anni: e in Italia i consumi crollano del 9,4%",
         "description": "Il mondo ha sempre meno voglia di vino: non se ne consumava così poco 1957, ma nel frattempo ci siamo triplicati. Cosa ci dicono i numeri del nuovo report firma…",
         "link": "https://www.dissapore.com/bere/il-mondo-non-beveva-cosi-poco-vino-da-70-anni-e-in-italia-i-consumi-crollano-del-94/",
@@ -91,99 +181,36 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/11/shutterstock_2649274381-scaled-e1762257742706.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Piatti di verdure e secondi vegetariani: melanzane a scarpone, cotolette di verdure, paccheri all’ortolana",
-        "description": "Scopri ricette verdure vegetariane facili e gustose: melanzane a scarpone in padella, cotolette croccanti e paccheri all'ortolana con verdure di stagione.…",
-        "link": "https://www.gustoblog.it/2026/10/05/ricette-verdure-vegetariane-melanzane-cotolette/",
-        "pubDate": "2026-10-05T01:08:19+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Caso Cervim: oro a vino senza requisiti al Mondial des Vins Extrêmes",
-        "description": "Medaglia irregolare al concorso di Aosta patrocinato Oiv e Vinofed. Le parole della cantina e degli organizzatori.\nL'articolo Caso Cervim: oro a vino senza requ…",
-        "link": "https://www.winemag.it/caso-cervim-oro-a-vino-senza-requisiti-al-mondial-des-vins-extremes/",
-        "pubDate": "2026-10-04T22:10:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Tutela vigneti eroici, tutto fermo nella Valle d’Aosta del Cervim. Regioni immobili",
-        "description": "Tutela vigneti eroici, tutto fermo nella Valle d'Aosta del Cervim. Regioni immobili e ritardi. Il paradosso svelato dall'inchiesta di Winemag\nL'articolo Tutela …",
-        "link": "https://www.winemag.it/tutela-vigneti-eroici-tutto-fermo-valle-d-aosta-cervim-regioni-immobili-inchiesta/",
-        "pubDate": "2026-10-04T22:01:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "In Piemonte c’è una mostarda che si mangiava con la neve. E può conservarsi per oltre 40 anni",
-        "description": "Si chiama cugnà e non contiene senape: nasce da mosto cotto, frutta autunnale e frutta secca. Nelle cascine serviva a non sprecare ciò che restava dopo la vende…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cugna-mostarda-uva-piemonte-neve/",
-        "pubDate": "2026-10-04T16:53:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Trent’anni di Pinot Bianco: così il vino di Terlano ha cambiato il modo di pensare i grandi bianchi italiani",
-        "description": "Cantina Terlano ha rivoluzionato il bianco italiano. Dalle storiche intuizioni di Sebastian Stocker a etichette iconiche come il Vorberg, ecco come il Pinot Bia…",
-        "link": "https://www.gamberorosso.it/notizie/vino/pinot-bianco-cantina-terlano-invecchiamento-vini-bianchi/",
-        "pubDate": "2026-10-04T16:51:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Miu Miu Primavera-Estate 2027: le 5 cose che abbiamo amato di più della nuova collezione",
-        "description": "Per la Primavera-Estate 2027 di Miu Miu, Miuccia Prada si cimenta in uno dei suoi linguaggi preferiti: mescolare elementi dello sportswear con capi dal taglio f…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/miu-miu-primavera-estate-2027-sfilata-parigi-1001899",
-        "pubDate": "2026-10-04T15:30:29+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-Miu-Miu-SS27-1.jpg",
+        "title": "Paris Fashion Week: i look delle celeb in front row alle sfilate Primavera/Estate 2027",
+        "description": "A Parigi la moda va in scena due volte. Una sulle passerelle, dove da sempre le maison presentano le collezioni che definiscono la prossima stagione, e una appe…",
+        "link": "https://www.grazia.it/moda/celebrity-style/paris-fashion-week-look-star-front-row-jennifer-lawrence-rihanna-zoe-kravitz-naomi-watts-1001983",
+        "pubDate": "2026-10-05T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/ok-desk.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Elisabetta Canalis detta tendenza anche in autunno con questo Look street-chic iconico e glamour FOTO",
-        "description": "Elisabetta Canalis, anche per quest'autunno, si conferma regina di stile e tendenze con questo look stree-chic decisamente iconico e super glamour.…",
-        "link": "https://www.stylosophy.it/articolo/elisabetta-canalis-detta-tendenza-anche-in-autunno-con-questo-look-street-chic-iconico-e-glamour-foto/253914/",
-        "pubDate": "2026-10-04T13:00:00+00:00",
+        "title": "Capitali europee a ottobre: 4 città perfette da esplorare nel clima fresco dell’autunno",
+        "description": "Ottobre è un ottimo mese per visitare le grandi capitali europee senza il caldo estivo e con meno folla. Ecco quattro destinazioni ideali per un viaggio tra mus…",
+        "link": "https://www.stylosophy.it/articolo/capitali-europee-a-ottobre-citta-perfette-da-esplorare-nel-clima-fresco-dellautunno/253924/",
+        "pubDate": "2026-10-05T15:30:14+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Dalle salsicce al pet food, la carne coltivata cambia strategia",
-        "description": "La rivoluzione promessa non è arrivata, ma la carne da coltura cellulare sia sparita: vediamo in quali nicchie di mercato sta trovando il suo posto, in attesa d…",
-        "link": "https://www.dissapore.com/notizie/dalle-salsicce-al-pet-food-la-carne-coltivata-cambia-strategia/",
-        "pubDate": "2026-10-04T12:32:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/carne-coltivata-scienziata-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "Addio ai “soliti” jeans: quelli firmati da Miu Miu e Wrangler saranno il denim dei sogni della prossima primavera",
+        "description": "Il denim cambia pelle e, ancora una volta, lo fa passando dall’archivio. Sulla passerella parigina della Primavera/Estate 2027, Miu Miu presenta una nuova colla…",
+        "link": "https://www.grazia.it/moda/news-moda/miu-miu-wrangler-jeans-collaborazione-primavera-estate-2027-1002294",
+        "pubDate": "2026-10-05T14:50:21+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/miu-miu-wrangler-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
-      {
-        "title": "L’impero inglese di Gordon Ramsey è in perdita nonostante Netflix e le nuove aperture a Londra",
-        "description": "Il Guardian pubblica i dati sulle perdite della sezione britannica della Gordon Ramsey Restaurants, il fatturato a livello globale sembra tenere.\nL'articolo L&#…",
-        "link": "https://www.dissapore.com/notizie/limpero-inglese-di-gordon-ramsey-e-in-perdita-nonostante-netflix-e-le-nuove-aperture-a-londra/",
-        "pubDate": "2026-10-04T10:19:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2019/04/gordon-ramsey.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Veneto la polenta era bianca. Poi il mais che la colorava ha rischiato di scomparire",
-        "description": "Il mais Biancoperla per secoli ha dato alla polenta veneta il suo colore chiaro. Nel dopoguerra gli ibridi più produttivi lo hanno quasi soppiantato, prima del …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/polenta-bianca-veneto-mais-biancoperla/",
-        "pubDate": "2026-10-04T09:20:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Lo slip dress in seta con dettagli in pizzo di Chiara Ferragni sarà il must per questo autunno: da avere subito!",
         "description": "Chiara Ferragni sfoggia il trend di stagione, lo slip dress in seta con dettagli in pizzo a contrasto.…",
@@ -192,6 +219,42 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "L’attrice turca Hande Erçel alla sfilata di Valentino con una gonna midi a quadri che non vediamo l’ora di indossare anche noi per tutto l’autunno",
+        "description": "È stata una delle special guest dello show SS27 di Valentino e il look che ha sfoggiato per l’occasione è finito inevitabilmente nel nostro radar: ieri in front…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-a-quadri-tartan-midi-corta-lunga-zara-mango-hande-ercel-karem-bursim-love-is-in-the-air-serie-turche-1002036",
+        "pubDate": "2026-10-05T12:35:49+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Gonna_quadri.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Altro che nero: il marrone è il colore dell’autunno! Come indossarlo ora in 6 inspo look da Instagram",
+        "description": "Se pensiamo alle stagioni, ci accorgiamo che ognuna di esse ha una propria palette cromatica fashion. La primavera è rosa, con le sue nuance sorbetto e pastello…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/marrone-colore-autunno-come-indossarlo-look-abbinamenti-instagram-1001745",
+        "pubDate": "2026-10-05T06:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_ig_marrone.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Mango: questi sono i pezzi chiave da acquistare a Ottobre per look favolosi",
+        "description": "Appena arriva l&#8217;autunno, la nostra voglia di layering e abbinamenti stilosi si fa sentire più che mai. Ed ecco che, più puntuale che mai, la collezione di…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/mango-cosa-comprare-a-ottobre-2026-shopping-vestiti-scarpe-borse-accessori-must-have-1001850",
+        "pubDate": "2026-10-05T04:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_mango_ottobre.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Nell'”Antibiblioteca” di Valentino: 5 cose sulla sfilata Primavera-Estate 2027 a Parigi",
+        "description": "Si muove negli spazi suggestivi della biblioteca di Sainte-Geneviève a Parigi la nuova collezione Primavera-Estate 2027 di Valentino, e con questo luogo dimostr…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/valentino-primavera-estate-2027-alessandro-michele-paris-fashion-week-1001942",
+        "pubDate": "2026-10-04T19:41:26+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-valentino-ss27.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Miu Miu Primavera-Estate 2027: le 5 cose che abbiamo amato di più della nuova collezione",
@@ -266,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Questa settimana le Fashion Pills ci avvolgono in caldi abbracci, si accendono di tocchi preziosi e scoprono nuovi oggetti del desiderio. Tra maglie cocoon, gio…",
-        "link": "https://www.grazia.it/moda/news-moda/guess-leonie-hanne-sezane-maglioni-tory-burch-borsa-pomellato-moneta-benetton-rugby-save-the-duck-sneakers-aliita-anniversario-1001610",
-        "pubDate": "2026-10-02T14:09:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/Senza-titolo-43.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Chiara Ferragni incanta Parigi con un total Look firmato Schiaparelli: ma il vero pezzo forte è l’acconciatura!",
         "description": "Chiara Ferragni a Parigi sfoggia un total look firmato Schiaparelli: ecco i dettagli.…",
         "link": "https://www.stylosophy.it/articolo/chiara-ferragni-incanta-parigi-con-un-total-look-firmato-schiaparelli-ma-il-vero-pezzo-forte-e-lacconciatura/253903/",
@@ -282,24 +336,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Abiti da sposa: tutte le novità e le tendenze per il 2027",
-        "description": "Se il 2027 sarà l&#8217;anno in cui direte sì, il momento di cercare l&#8217;abito giusto per farlo è decisamente arrivato. Sono uscite le collezioni dei più gr…",
-        "link": "https://www.grazia.it/moda/sposa/abiti-da-sposa-tendenze-2027-primavera-estate-pizzo-tulle-fiocchi-vestiti-colorati-modelli-brand-bridal-998919",
-        "pubDate": "2026-10-02T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/DESK-tendenze-sposa-ss-2027.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Non solo leopardato! La stampa zebrata è la regina indiscussa di quest’autunno",
-        "description": "Da qualche stagione i motivi animalier sono ormai una presenza ricorrente nel nostro guardaroba, ma attenzione: le fantasie leopardate non sono certo le uniche …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-zebrata-motivi-animalier-leopardato-tendenze-moda-donna-autunno-1001721",
-        "pubDate": "2026-10-02T10:39:47+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Stampa_zebrata.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Romasposa 2026: tante idee e tendenze per il giorno del sì al Salone Internazionale della Sposa",
@@ -311,15 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "La stampa floreale diventa dark e sensuale per vestire di glamour l’autunno 2026",
-        "description": "Dalla vena leggermente dark, il floral print in autunno cambia volto rispetto a come lo sfoggiamo nella bella stagione, scostandosi dalla sua natura più romanti…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-floreale-autunno-2026-vestiti-a-fiori-scarpe-borse-must-have-gonne-bluse-1000973",
-        "pubDate": "2026-10-01T18:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_autunno_floreale.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Hailey Bieber brilla a Parigi con il mini dress total gold firmato Saint Laurent FOTO",
         "description": "Hailey Bieber a Parigi indossa un mini dress total gold firmato Saint Laurent.…",
         "link": "https://www.stylosophy.it/articolo/hailey-bieber-brilla-a-parigi-con-il-mini-dress-total-gold-firmato-saint-laurent-foto/253889/",
@@ -329,24 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Coccinelle ci porta nella campagna inglese con la nuova collezione Autunno/Inverno 2026",
-        "description": "Lo stile della campagna inglese torna a influenzare il guardaroba contemporaneo, portando con sé tutto il fascino di un&#8217;estetica che mescola romanticismo,…",
-        "link": "https://www.grazia.it/moda/news-moda/coccinelle-ci-porta-nella-campagna-inglese-con-la-nuova-collezione-autunno-inverno-2026-1001014",
-        "pubDate": "2026-10-01T15:41:31+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_coccinelle_native.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Pronte a dire addio ai barrel? Sono i jeans a “tulipano” il modello su cui scommettere quest’autunno",
-        "description": "Fino a questo momento sono stati i jeans barrel a dominare le tendenze della stagione, ma a quanto pare c’è una nuova silhouette pronta a cambiare le carte in t…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-a-tulipano-tulip-denim-trend-barrel-autunno-donna-1001329",
-        "pubDate": "2026-10-01T09:55:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Tulip_Jeans.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Navelli a ottobre: cosa vedere e perché visitare il borgo dello zafferano",
         "description": "A ottobre Navelli entra nel periodo più interessante dell’anno, tra vicoli medievali, paesaggi dell’altopiano e la raccolta dello zafferano dell’Aquila DOP.…",
         "link": "https://www.stylosophy.it/articolo/navelli-a-ottobre-cosa-vedere-e-perche-visitare-il-borgo-dello-zafferano/253867/",
@@ -354,18 +363,72 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Il Look in denim di Diletta Leotta è il must di stagione: da copiare subito!",
-        "description": "Diletta Leotta sfoggia un total look in denim che di sicuro sarà il must di stagione.…",
-        "link": "https://www.stylosophy.it/articolo/il-look-in-denim-di-diletta-leotta-e-il-must-di-stagione-da-copiare-subito/253877/",
-        "pubDate": "2026-09-30T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Tasmania, 200 anni di spumanti: nel 1826 la prima bollicina d’Australia",
+        "description": "A realizzarlo fu Bartholomew Broughton, uno dei pionieri della viticoltura dell'isola.\nL'articolo Tasmania, 200 anni di spumanti: nel 1826 la prima bollicina d&…",
+        "link": "https://www.winemag.it/tasmania-200-anni-di-spumanti-nel-1826-la-prima-bollicina-daustralia/",
+        "pubDate": "2026-10-05T22:15:38+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vino svizzero, Confederazione respinge proposta sostegno produttori locali",
+        "description": "La Svizzera continuerà a importare vino senza chiedere agli importatori di comprare anche vino svizzero. È la decisione contestata dall’Interprofessione della V…",
+        "link": "https://www.winemag.it/vino-svizzero-confederazione-respinge-proposta-sostegno-produttori-locali/",
+        "pubDate": "2026-10-05T21:06:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La Calabria della birra artigianale in cinque birrifici da non perdere",
+        "description": "Esplorare i birrifici artigianali calabresi significa andare alla scoperta nella nuova generazione gastronomica che sta animando la regione. Ne abbiamo scelti c…",
+        "link": "https://www.dissapore.com/bere/la-calabria-della-birra-artigianale-in-cinque-birrifici-da-non-perdere/",
+        "pubDate": "2026-10-05T15:42:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/lametus.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Lutto all’Ansa: è morta la giornalista Alessandra Moneti",
+        "description": "È scomparsa stamattina, in seguito a un malore, Alessandra Moneti, collega e amica dell'agenzia Ansa…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/lutto-allansa-e-morta-la-collega-alessandra-moneti/",
+        "pubDate": "2026-10-05T15:29:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Alba, ma non solo. Le fiere del tartufo bianco in Piemonte da segnare in agenda",
+        "description": "Da Alba alle colline del Monferrato, passando per Roero e Alessandrino: i migliori appuntamenti dell’autunno piemontese per vedere, comprare e mangiare il tartu…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/tartufo-bianco-fiere-piemonte/",
+        "pubDate": "2026-10-05T14:52:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sembra una criniera di leone ed è il fungo più strano del bosco: perché gli chef lo vogliono in menu",
+        "description": "Si chiama criniera di leone per il suo aspetto particolare e viene utilizzato in cucina, nella tradizione cinese e negli integratori…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/lions-mane-fungo-criniera-di-leone/",
+        "pubDate": "2026-10-05T13:57:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Rimangono meno di due mesi per provare uno dei migliori ristoranti al mondo. Ma una chiusura non fa una sentenza",
+        "description": "Bruno Verjus annuncia la chiusura di Table a Parigi e dichiara morto il fine dining. Ma la scelta di cambiare modello basta a decretare la fine dell’alta ristor…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/bruno-verjus-chisura-table-parigi/",
+        "pubDate": "2026-10-05T12:23:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Le 10 cose da non perdere a Buonissima 2026 a Torino",
         "description": "5 giorni di manifestazione all day long, un circuito off, le cene della preview, gli eventi ricorrenti, i nuovi luoghi da visitare: la nostra mappa per orientar…",
@@ -430,15 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "In Europa i consumi sono sempre meno alcolici: le bevande alternative raggiungono i 109 miliardi di euro",
-        "description": "L'analisi Circana certifica l'ascesa delle bevande alternative nei sei grandi mercati europei: i dati giugno indicano che il 43% dei consumatori ha ridotto gli …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/boom-consumi-bevande-salutari-europa-circana/",
-        "pubDate": "2026-10-05T09:49:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Il mondo non beveva così poco vino da 70 anni: e in Italia i consumi crollano del 9,4%",
         "description": "Il mondo ha sempre meno voglia di vino: non se ne consumava così poco 1957, ma nel frattempo ci siamo triplicati. Cosa ci dicono i numeri del nuovo report firma…",
         "link": "https://www.dissapore.com/bere/il-mondo-non-beveva-cosi-poco-vino-da-70-anni-e-in-italia-i-consumi-crollano-del-94/",
@@ -475,24 +529,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "In Piemonte c’è una mostarda che si mangiava con la neve. E può conservarsi per oltre 40 anni",
-        "description": "Si chiama cugnà e non contiene senape: nasce da mosto cotto, frutta autunnale e frutta secca. Nelle cascine serviva a non sprecare ciò che restava dopo la vende…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cugna-mostarda-uva-piemonte-neve/",
-        "pubDate": "2026-10-04T16:53:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Trent’anni di Pinot Bianco: così il vino di Terlano ha cambiato il modo di pensare i grandi bianchi italiani",
-        "description": "Cantina Terlano ha rivoluzionato il bianco italiano. Dalle storiche intuizioni di Sebastian Stocker a etichette iconiche come il Vorberg, ecco come il Pinot Bia…",
-        "link": "https://www.gamberorosso.it/notizie/vino/pinot-bianco-cantina-terlano-invecchiamento-vini-bianchi/",
-        "pubDate": "2026-10-04T16:51:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dalle salsicce al pet food, la carne coltivata cambia strategia",
         "description": "La rivoluzione promessa non è arrivata, ma la carne da coltura cellulare sia sparita: vediamo in quali nicchie di mercato sta trovando il suo posto, in attesa d…",
         "link": "https://www.dissapore.com/notizie/dalle-salsicce-al-pet-food-la-carne-coltivata-cambia-strategia/",
@@ -507,42 +543,6 @@
         "link": "https://www.dissapore.com/notizie/limpero-inglese-di-gordon-ramsey-e-in-perdita-nonostante-netflix-e-le-nuove-aperture-a-londra/",
         "pubDate": "2026-10-04T10:19:57+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2019/04/gordon-ramsey.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In Veneto la polenta era bianca. Poi il mais che la colorava ha rischiato di scomparire",
-        "description": "Il mais Biancoperla per secoli ha dato alla polenta veneta il suo colore chiaro. Nel dopoguerra gli ibridi più produttivi lo hanno quasi soppiantato, prima del …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/polenta-bianca-veneto-mais-biancoperla/",
-        "pubDate": "2026-10-04T09:20:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’ Altlante Alimentare dei Piatti Liguri è un’idea da copiare per parlare di cucina tradizionale oggi",
-        "description": "Partire dalle porzioni, e non dalla grammatura, per orientarsi nell'apporto nutrizionale della cucina tradizionale, stando al passo con le esigenze di oggi. Un'…",
-        "link": "https://www.dissapore.com/cucina/laltlante-alimentare-dei-piatti-liguri-e-unidea-da-copiare-per-parlare-di-cucina-tradizionale-oggi/",
-        "pubDate": "2026-10-03T14:31:15+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/cima-alla-genovese-scaled.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa succede dopo l’Ozempic? La nuova frontiera del mantenimento del peso",
-        "description": "I colossi dell'industria alimentare devono vedersela con un altro cambiamento imposto dall'Ozempic: cosa fare quando la terapia finisce?\nL'articolo Cosa succede…",
-        "link": "https://www.dissapore.com/notizie/cosa-succede-dopo-lozempic-la-nuova-frontiera-del-mantenimento-del-peso/",
-        "pubDate": "2026-10-03T11:24:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/ozempic-farmacia-scaffale-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Prima dei bambini, c’è una lista di persone a cui vieterei l’ingresso al ristorante",
-        "description": "Ma davvero i bambini al ristorante sono il vostro principale problema? \nL'articolo Prima dei bambini, c&#8217;è una lista di persone a cui vieterei l&#8217;ingr…",
-        "link": "https://www.dissapore.com/ristoranti/prima-dei-bambini-ce-una-lista-di-persone-a-cui-vieterei-lingresso-al-ristorante/",
-        "pubDate": "2026-10-03T09:47:23+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/bambini-ristorante-scaled-e1784022242689.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
