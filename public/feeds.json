@@ -1,7 +1,97 @@
 {
-  "generated": "2026-10-07T12:46:28.709400+00:00",
+  "generated": "2026-10-07T22:49:09.088124+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Vendemmia 2026 Georgia controcorrente: «Kakheti in ritardo, Europa anticipa»",
+        "description": "Intervista esclusiva a Vladimer Kublashvili, storico enologo di Winery Khareba, recentemente nominato direttore generale del colosso georgiano\nL'articolo Vendem…",
+        "link": "https://www.winemag.it/vendemmia-2026-georgia-controcorrente-kakheti-in-ritardo-europa-anticipa/",
+        "pubDate": "2026-10-07T22:25:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Weinberg Arlberg 2026, Lech Zürs riunisce scena internazionale del vino",
+        "description": "Dal 4 al 13 dicembre oltre 40 appuntamenti tra degustazioni, masterclass, incontri e cene. Bordeaux e Riesling saranno al centro del programma, insieme a temi c…",
+        "link": "https://www.winemag.it/weinberg-arlberg-2026-lech-zurs-riunisce-scena-internazionale-del-vino/",
+        "pubDate": "2026-10-07T22:15:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Weinberg-Arlberg-2026-Lech-Zurs-riunisce-scena-internazionale-del-vino-programma-2026.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La Corte d’Appello difende l’Asiago DOP negli Stati Uniti",
+        "description": "Una sentenza della corte d'appello dà ragione al Consorzio dell'Asiago DOP contro la sezione americana di Citterio, che vendeva Asiago non Asiago.\nL'articolo La…",
+        "link": "https://www.dissapore.com/notizie/la-corte-dappello-difende-lasiago-dop-negli-stati-uniti/",
+        "pubDate": "2026-10-07T17:43:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/asiago-cheese-di-citterio.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "IKEA PS 2026: la nuova vetrina rosa che porta il colore nel living",
+        "description": "Una vetrina compatta e dal carattere deciso, dove il rosa chiaro della struttura incontra il vetro effetto rete per un risultato funzionale e contemporaneo.…",
+        "link": "https://www.stylosophy.it/articolo/ikea-ps-2026-la-nuova-vetrina-rosa-che-porta-il-colore-nel-living/253944/",
+        "pubDate": "2026-10-07T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Oltre il 70% del vino altoatesino è cooperativo (ed è una fortuna). Storia di un modello di resistenza controcorrente",
+        "description": "Sono quattordici le cantine cooperative dell'Alto Adige con 3.140 soci per 3.500 ettari di vigneto. E l'incidenza del vino cooperativo di alta qualità nella pro…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/alto-adige-vino-cooperativo-modello-controcorrente/",
+        "pubDate": "2026-10-07T14:39:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Chanel e Orsolina28: a passo di danza tra le colline del Monferrato",
+        "description": "Ci sono luoghi in cui la danza sembra appartenere naturalmente al paesaggio. Non per la presenza di un grande teatro o per la solennità di un palcoscenico, ma p…",
+        "link": "https://www.grazia.it/moda/news-moda/chanel-orsolina28-danza-paris-opera-junior-ballet-1001988",
+        "pubDate": "2026-10-07T14:03:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/chanel_orsolina28-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Bianchi e spumanti meglio dei rossi, Doc e Docg più reattivi dei vini Igt. Il nuovo quadro degli imbottigliamenti",
+        "description": "I dati Valoritalia segnano -3% nei 9 mesi e una quasi stabilità nell'ultimo trimestre. Il presidente Liantonio: \"Non è un'inversione strutturale di tendenza ma …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/imbottigliamenti-vino-terzo-trimestre-2026-valoritalia/",
+        "pubDate": "2026-10-07T13:51:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti la vogliono, ma la vaniglia è una specie a rischio: cosa sta succedendo alla pianta più amata dai pasticceri",
+        "description": "La crisi climatica, la coltivazione intensiva e una filiera fragile mettono in difficoltà uno degli ingredienti più usati in pasticceria. Ma siamo sicuri che il…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vaniglia-specie-a-rischio/",
+        "pubDate": "2026-10-07T13:04:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Paris Fashion Week: il “best of” delle sfilate Primavera-Estate 2027 a Parigi",
+        "description": "Come da tradizione il mese dedicato alle sfilate per la nuova stagione, la Primavera-Estate 2027, si chiude con la Paris Fashion Week. Il calendario più pieno, …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/paris-fashion-week-sfilate-dior-chanel-miu-miu-vuitton-primavera-estate-2027-1001641",
+        "pubDate": "2026-10-07T13:04:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-Paris-fashion-week-pe-2027.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Michelle Hunziker si conferma regina indiscussa di stile ed eleganza a Zelig con l’abito lungo bordeaux dal taglio a sirena",
+        "description": "Ecco che cosa ha indossato Michelle Hunziker per la prima puntata di Zelig.…",
+        "link": "https://www.stylosophy.it/articolo/michelle-hunziker-si-conferma-regina-indiscussa-di-stile-ed-eleganza-a-zelig-con-labito-lungo-bordeaux-dal-taglio-a-sirena/253941/",
+        "pubDate": "2026-10-07T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Ristoranti, formazione, comunicazione, accoglienza in cantina: dalla crisi del vino si può uscire",
         "description": "Per uscire dalla crisi che attanaglia il vino serve agire su molti fronti: ne abbiamo parlato con Federico Gordini, che con la sua Milano Wine Week affronta anc…",
@@ -10,6 +100,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Federico-Gordini-Presidente-MWW-Group_IMGL4313-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "“Ergonomia”: la nuova collezione SS27 di Louis Vuitton è un’ode alla leggerezza",
+        "description": "La Paris Fashion Week è ufficialmente giunta al termine e ieri ci ha pensato Louis Vuitton a chiudere questa edizione con “Ergonomia”, la nuova collezione SS27 …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-di-louis-vuitton-ergonomia-leggerezza-nicolas-ghesquiere-sfilate-show-paris-fashion-week-zendaya-emma-stone-keri-russel-1002745",
+        "pubDate": "2026-10-07T10:19:34+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/vuitton-ss27-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Tedeschi e TOMA, vino, moda e sostenibilità alla Vendemmia 2026 di Milano",
@@ -30,6 +129,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Il vino dealcolato prova a recuperare gli aromi persi. La nuova tecnologia viene dalla Germania",
+        "description": "Henkell Freixenet investe in un sistema che recupera e reintegra gli aromi persi durante la dealcolazione. Ma per i vini senza alcol resta il nodo dell'eccessiv…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-dealcolato-aromi-henkell-freixenet/",
+        "pubDate": "2026-10-07T09:23:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Wine Vision 2026 apre a Belgrado: cresce il «Vinitaly dei Balcani»",
         "description": "Dal 10 al 12 ottobre 2026 Belgrado torna capitale del vino dell’Europa sudorientale. Al Belgrade Fair prende il via la quinta edizione di Wine Vision by Open Ba…",
         "link": "https://www.winemag.it/wine-vision-2026-apre-belgrado-cresce-vinitaly-dei-balcani/",
@@ -39,6 +147,33 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Mangiare a Genova con meno di 15 euro: dieci posti dove spendere poco e mangiare bene",
+        "description": "Fritto di pesce, farinata, panissa, hamburger e panini: a Genova lo street food permette ancora di mangiare bene senza spendere una fortuna. Gli indirizzi da pr…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/mangiare-genova-meno-15-euro/",
+        "pubDate": "2026-10-07T08:50:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le uova senza uova… si fanno con la birra. Siamo entrati nella fabbrica olandese che ci sta riuscendo",
+        "description": "Proteine e fibre estratte dal lievito per sostituire le uova in salse e prodotti da forno. Ne abbiamo parlato con Corjan van der Berg, cofondatore dell'azienda …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/sostituto-uova-lievito-di-birra-revyve/",
+        "pubDate": "2026-10-07T08:47:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Libertà di movimento protagonista grazie ad Hanro.",
+        "description": "Una sala degli specchi che conserva intatto il fascino decadente della Berlino del primo Novecento, un corpo di ballo che rappresenta un unicum, essendo interam…",
+        "link": "https://www.grazia.it/moda/news-moda/hanro-soft-motion-intimo-evento-berlino-1002362",
+        "pubDate": "2026-10-07T08:22:41+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/Senza-titolo-53.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Ferrero apre il suo primo stabilimento in Romania",
         "description": "Un vero centro di produzione a Timisoara e l'avviamento della coltivazione di nocciole in terra rumena è il progetto - ancora in parte segreto - del gruppo.\nL'a…",
         "link": "https://www.dissapore.com/notizie/ferrero-apre-il-suo-primo-stabilimento-in-romania/",
@@ -46,144 +181,81 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/willy-wonka-marchio-scaled-e1789547193565.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "George Clooney sta per aprire il suo ristorante di cucina italiana",
-        "description": "George Clooney, che da anni vive in Francia con la sua famiglia, ha deciso di aprire lì un ristorante, forse per avere sempre a portata di mano un po' di pasta …",
-        "link": "https://www.dissapore.com/notizie/george-clooney-sta-per-aprire-il-suo-ristorante-di-cucina-italiana/",
-        "pubDate": "2026-10-07T06:43:53+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’appetito è passato di moda: l’era Ozempic e la fine della fame",
-        "description": "Farmaci dimagranti, porzioni ridotte, poco alcol: il nuovo rapporto con il cibo cambia anche la ristorazione…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ozempic-fame/",
-        "pubDate": "2026-10-07T06:27:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ecco perché non riusciamo a smettere di fotografare i piatti: storia e paradossi del food porn",
-        "description": "Dalle prime fotografie ai social: la storia dell’espressione che ha trasformato il cibo in uno spettacolo da guardare prima ancora che da mangiare…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/food-porn-foto-piatti-cibo-storia/",
-        "pubDate": "2026-10-07T05:46:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo anni passati a evitarlo, ora facciamo la fila per il burro",
-        "description": "Montato nei ristoranti, scolpito dagli artisti, aromatizzato e venduto come un prodotto da collezione. Dopo decenni passati sotto accusa, il grasso più famoso d…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/negozio-di-burro-tendenza/",
-        "pubDate": "2026-10-07T05:07:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Piemonte, Val Bormida: Pinot Nero e Chardonnay tra marne e terrazze sabbiose",
-        "description": "Viticoltura e valorizzazione dei paesaggi per definire nuove prospettive di sviluppo.\nL'articolo Piemonte, Val Bormida: Pinot Nero e Chardonnay tra marne e terr…",
-        "link": "https://www.winemag.it/piemonte-val-bormida-pinot-nero-e-chardonnay-tra-marne-e-terrazze-sabbiose/",
-        "pubDate": "2026-10-07T01:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le mele friulane che rischiavamo di perdere: le varietà autoctone del Friuli Venezia Giulia",
-        "description": "Dalla Seuka alla Ruggine di Enemonzo, il Friuli Venezia Giulia custodisce mele antiche, rare e sorprendenti: varietà nate tra Carnia e Valli del Natisone che ra…",
-        "link": "https://www.dissapore.com/spesa/le-mele-friulane-che-rischiavamo-di-perdere-le-varieta-autoctone-del-friuli-venezia-giulia/",
-        "pubDate": "2026-10-06T16:16:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/fiore-di-latte-gradisca-disonzo.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ilary Blasi, Look black and white per la nuova puntata del Gf Vip: il must have da indossare in autunno!",
-        "description": "Ecco che cosa ha indossato Ilary Blasi nella puntata di ieri sera del Grande Fratello Vip.…",
-        "link": "https://www.stylosophy.it/articolo/ilary-blasi-look-black-and-white-per-la-nuova-puntata-del-gf-vip-il-must-have-da-indossare-in-autunno/253937/",
-        "pubDate": "2026-10-06T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ferragamo presenta Firenze Collezione: sei profumi ispirati all’anima della Città",
-        "description": "Ferragamo annuncia il lancio di Firenze Collezione: sei storie profumate ispirate dall’anima di Firenze.…",
-        "link": "https://www.stylosophy.it/articolo/ferragamo-presenta-firenze-collezione-profumi-ispirati-allanima-della-citta/253933/",
-        "pubDate": "2026-10-06T15:08:04+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Ancora una vendemmia contenuta in Spagna: produzione 2026 stimata a 34 milioni di ettolitri",
-        "description": "Si tratterebbe del quarto anno consecutivo sotto i 37 milioni di ettolitri. Le previsioni spagnole, insieme a quelle francesi, trascinano ai minimi la produzion…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-2026-spagna-stime/",
-        "pubDate": "2026-10-06T15:00:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il cibo batte le Big Tech: ecco le aziende italiane dove si lavora meglio",
-        "description": "La nuova classifica Italy’s Best Employers 2027 di Statista fotografa il peso dell’agroalimentare italiano, tra conferme, grandi balzi in avanti e sorprendenti …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-aziende-dove-lavorare-in-italia/",
-        "pubDate": "2026-10-06T13:22:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Contadi Castaldi non è in vendita”. Il gruppo Terra Moretti smentisce la cessione della cantina",
-        "description": "Dopo le voci circolate negli ultimi giorni, la Famiglia Moretti nega che ci siano delle trattative in corso con Argea (o con altri) per la cessione dell’azienda…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/smentita-vendita-contadi-castaldi-terra-moretti/",
-        "pubDate": "2026-10-06T13:00:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La valle del Trentino che quasi nessuno conosce: oltre 700 chilometri di muretti a secco tra le vigne",
-        "description": "Non solo Müller Thurgau: un territorio verticale, costruito nei secoli tra pietra e quota, che oggi rivendica con forza una propria identità enologica.…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/val-di-cembra-trento/",
-        "pubDate": "2026-10-06T12:22:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La pasta nata per mangiare l’olio nuovo. In Abruzzo si preparava direttamente al frantoio",
-        "description": "Mentre le olive venivano molite, al frantoio si aspettava mangiando. E l’olio appena prodotto in Abruzzo finiva direttamente nella pasta: tanto, tantissimo olio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasta-trappitara-abruzzo-olio-nuovo/",
-        "pubDate": "2026-10-06T11:38:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’algoritmo decide il prezzo del Big Mac: la class action contro McDonald’s",
-        "description": "I consumatori non se possono già più dell'impiego di pratiche di prezzo dinamico, e anche McDonald's viene trascinata in tribunale per una causa che coinvolge p…",
-        "link": "https://www.dissapore.com/notizie/lalgoritmo-decide-il-prezzo-del-big-mac-la-class-action-contro-mcdonalds/",
-        "pubDate": "2026-10-06T11:26:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/mcdonalds-prezzi-totem-ordine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il Prosecco avanza dove lo Champagne cala. “L’India crescerà ancora. Il boom in Francia? Inaspettato”",
-        "description": "Il presidente Guidolin commenta i dati della Doc. Se in India sta erodendo quote di mercato alle bollicine francesi grazie al prezzo contenuto, in Francia il mo…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/prosecco-doc-champagne-india/",
-        "pubDate": "2026-10-06T10:13:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "IKEA PS 2026: la nuova vetrina rosa che porta il colore nel living",
+        "description": "Una vetrina compatta e dal carattere deciso, dove il rosa chiaro della struttura incontra il vetro effetto rete per un risultato funzionale e contemporaneo.…",
+        "link": "https://www.stylosophy.it/articolo/ikea-ps-2026-la-nuova-vetrina-rosa-che-porta-il-colore-nel-living/253944/",
+        "pubDate": "2026-10-07T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Chanel e Orsolina28: a passo di danza tra le colline del Monferrato",
+        "description": "Ci sono luoghi in cui la danza sembra appartenere naturalmente al paesaggio. Non per la presenza di un grande teatro o per la solennità di un palcoscenico, ma p…",
+        "link": "https://www.grazia.it/moda/news-moda/chanel-orsolina28-danza-paris-opera-junior-ballet-1001988",
+        "pubDate": "2026-10-07T14:03:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/chanel_orsolina28-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Paris Fashion Week: il “best of” delle sfilate Primavera-Estate 2027 a Parigi",
+        "description": "Come da tradizione il mese dedicato alle sfilate per la nuova stagione, la Primavera-Estate 2027, si chiude con la Paris Fashion Week. Il calendario più pieno, …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/paris-fashion-week-sfilate-dior-chanel-miu-miu-vuitton-primavera-estate-2027-1001641",
+        "pubDate": "2026-10-07T13:04:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-Paris-fashion-week-pe-2027.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Michelle Hunziker si conferma regina indiscussa di stile ed eleganza a Zelig con l’abito lungo bordeaux dal taglio a sirena",
+        "description": "Ecco che cosa ha indossato Michelle Hunziker per la prima puntata di Zelig.…",
+        "link": "https://www.stylosophy.it/articolo/michelle-hunziker-si-conferma-regina-indiscussa-di-stile-ed-eleganza-a-zelig-con-labito-lungo-bordeaux-dal-taglio-a-sirena/253941/",
+        "pubDate": "2026-10-07T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "“Ergonomia”: la nuova collezione SS27 di Louis Vuitton è un’ode alla leggerezza",
+        "description": "La Paris Fashion Week è ufficialmente giunta al termine e ieri ci ha pensato Louis Vuitton a chiudere questa edizione con “Ergonomia”, la nuova collezione SS27 …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/collezione-ss27-di-louis-vuitton-ergonomia-leggerezza-nicolas-ghesquiere-sfilate-show-paris-fashion-week-zendaya-emma-stone-keri-russel-1002745",
+        "pubDate": "2026-10-07T10:19:34+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/vuitton-ss27-ape.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Libertà di movimento protagonista grazie ad Hanro.",
+        "description": "Una sala degli specchi che conserva intatto il fascino decadente della Berlino del primo Novecento, un corpo di ballo che rappresenta un unicum, essendo interam…",
+        "link": "https://www.grazia.it/moda/news-moda/hanro-soft-motion-intimo-evento-berlino-1002362",
+        "pubDate": "2026-10-07T08:22:41+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/Senza-titolo-53.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Dimenticate il beige “noioso”: la sfumatura autunnale 2026 che slancia la figura senza l’aiuto dei tacchi è un’altra!",
+        "description": "Nell’autunno 2026 il blu navy spodesta il beige sulle passerelle e nelle strade italiane, diventando il nuovo neutro intelligente. Una sfumatura che promette di…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/blu-navy-colore-slancia-allunga-figura-moda-autunno-2026-1000769",
+        "pubDate": "2026-10-07T05:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/09/blu-navy-colore-auutunno-2026-aper.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Leather season: i pantaloni di pelle (e similpelle) da indossare ora",
+        "description": "Ci sono stagioni in cui la pelle torna a prendersi la scena, e l&#8217;autunno/ inverno 2026 è proprio una di queste. Attenzione, però, i pantaloni in pelle o i…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-di-pelle-donna-zara-neri-a-zampa-larghi-similpelle-modelli-autunno-inverno-1001475",
+        "pubDate": "2026-10-07T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_pantaloni_pelle.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Ilary Blasi, Look black and white per la nuova puntata del Gf Vip: il must have da indossare in autunno!",
         "description": "Ecco che cosa ha indossato Ilary Blasi nella puntata di ieri sera del Grande Fratello Vip.…",
@@ -239,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Paris Fashion Week: i look delle celeb in front row alle sfilate Primavera/Estate 2027",
-        "description": "A Parigi la moda va in scena due volte. Una sulle passerelle, dove da sempre le maison presentano le collezioni che definiscono la prossima stagione, e una appe…",
-        "link": "https://www.grazia.it/moda/celebrity-style/paris-fashion-week-look-star-front-row-jennifer-lawrence-rihanna-zoe-kravitz-naomi-watts-1001983",
-        "pubDate": "2026-10-05T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/ok-desk.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Capitali europee a ottobre: 4 città perfette da esplorare nel clima fresco dell’autunno",
         "description": "Ottobre è un ottimo mese per visitare le grandi capitali europee senza il caldo estivo e con meno folla. Ecco quattro destinazioni ideali per un viaggio tra mus…",
         "link": "https://www.stylosophy.it/articolo/capitali-europee-a-ottobre-citta-perfette-da-esplorare-nel-clima-fresco-dellautunno/253924/",
@@ -257,15 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Addio ai “soliti” jeans: quelli firmati da Miu Miu e Wrangler saranno il denim dei sogni della prossima primavera",
-        "description": "Il denim cambia pelle e, ancora una volta, lo fa passando dall’archivio. Sulla passerella parigina della Primavera/Estate 2027, Miu Miu presenta una nuova colla…",
-        "link": "https://www.grazia.it/moda/news-moda/miu-miu-wrangler-jeans-collaborazione-primavera-estate-2027-1002294",
-        "pubDate": "2026-10-05T14:50:21+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/miu-miu-wrangler-ape.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Lo slip dress in seta con dettagli in pizzo di Chiara Ferragni sarà il must per questo autunno: da avere subito!",
         "description": "Chiara Ferragni sfoggia il trend di stagione, lo slip dress in seta con dettagli in pizzo a contrasto.…",
         "link": "https://www.stylosophy.it/articolo/lo-slip-dress-in-seta-con-dettagli-in-pizzo-di-chiara-ferragni-sara-il-must-per-questo-autunno-da-avere-subito/253919/",
@@ -273,42 +327,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "L’attrice turca Hande Erçel alla sfilata di Valentino con una gonna midi a quadri che non vediamo l’ora di indossare anche noi per tutto l’autunno",
-        "description": "È stata una delle special guest dello show SS27 di Valentino e il look che ha sfoggiato per l’occasione è finito inevitabilmente nel nostro radar: ieri in front…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gonna-a-quadri-tartan-midi-corta-lunga-zara-mango-hande-ercel-karem-bursim-love-is-in-the-air-serie-turche-1002036",
-        "pubDate": "2026-10-05T12:35:49+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Gonna_quadri.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Altro che nero: il marrone è il colore dell’autunno! Come indossarlo ora in 6 inspo look da Instagram",
-        "description": "Se pensiamo alle stagioni, ci accorgiamo che ognuna di esse ha una propria palette cromatica fashion. La primavera è rosa, con le sue nuance sorbetto e pastello…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/marrone-colore-autunno-come-indossarlo-look-abbinamenti-instagram-1001745",
-        "pubDate": "2026-10-05T06:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_ig_marrone.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Mango: questi sono i pezzi chiave da acquistare a Ottobre per look favolosi",
-        "description": "Appena arriva l&#8217;autunno, la nostra voglia di layering e abbinamenti stilosi si fa sentire più che mai. Ed ecco che, più puntuale che mai, la collezione di…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/mango-cosa-comprare-a-ottobre-2026-shopping-vestiti-scarpe-borse-accessori-must-have-1001850",
-        "pubDate": "2026-10-05T04:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_mango_ottobre.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Nell'”Antibiblioteca” di Valentino: 5 cose sulla sfilata Primavera-Estate 2027 a Parigi",
-        "description": "Si muove negli spazi suggestivi della biblioteca di Sainte-Geneviève a Parigi la nuova collezione Primavera-Estate 2027 di Valentino, e con questo luogo dimostr…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/valentino-primavera-estate-2027-alessandro-michele-paris-fashion-week-1001942",
-        "pubDate": "2026-10-04T19:41:26+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-valentino-ss27.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Elisabetta Canalis detta tendenza anche in autunno con questo Look street-chic iconico e glamour FOTO",
@@ -345,27 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Chiara Ferragni incanta Parigi con un total Look firmato Schiaparelli: ma il vero pezzo forte è l’acconciatura!",
-        "description": "Chiara Ferragni a Parigi sfoggia un total look firmato Schiaparelli: ecco i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-incanta-parigi-con-un-total-look-firmato-schiaparelli-ma-il-vero-pezzo-forte-e-lacconciatura/253903/",
-        "pubDate": "2026-10-02T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Romasposa 2026: tante idee e tendenze per il giorno del sì al Salone Internazionale della Sposa",
-        "description": "Tante idee e tendenze per il giorno del sì e per tutte le feste, tra le proposte degli oltre 300 espositori presenti alla 62a edizione del Salone Internazionale…",
-        "link": "https://www.stylosophy.it/articolo/romasposa-2026-tante-idee-e-tendenze-per-il-giorno-del-si/253879/",
-        "pubDate": "2026-10-02T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Vendemmia 2026 Georgia controcorrente: «Kakheti in ritardo, Europa anticipa»",
+        "description": "Intervista esclusiva a Vladimer Kublashvili, storico enologo di Winery Khareba, recentemente nominato direttore generale del colosso georgiano\nL'articolo Vendem…",
+        "link": "https://www.winemag.it/vendemmia-2026-georgia-controcorrente-kakheti-in-ritardo-europa-anticipa/",
+        "pubDate": "2026-10-07T22:25:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Weinberg Arlberg 2026, Lech Zürs riunisce scena internazionale del vino",
+        "description": "Dal 4 al 13 dicembre oltre 40 appuntamenti tra degustazioni, masterclass, incontri e cene. Bordeaux e Riesling saranno al centro del programma, insieme a temi c…",
+        "link": "https://www.winemag.it/weinberg-arlberg-2026-lech-zurs-riunisce-scena-internazionale-del-vino/",
+        "pubDate": "2026-10-07T22:15:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Weinberg-Arlberg-2026-Lech-Zurs-riunisce-scena-internazionale-del-vino-programma-2026.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La Corte d’Appello difende l’Asiago DOP negli Stati Uniti",
+        "description": "Una sentenza della corte d'appello dà ragione al Consorzio dell'Asiago DOP contro la sezione americana di Citterio, che vendeva Asiago non Asiago.\nL'articolo La…",
+        "link": "https://www.dissapore.com/notizie/la-corte-dappello-difende-lasiago-dop-negli-stati-uniti/",
+        "pubDate": "2026-10-07T17:43:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/asiago-cheese-di-citterio.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Oltre il 70% del vino altoatesino è cooperativo (ed è una fortuna). Storia di un modello di resistenza controcorrente",
+        "description": "Sono quattordici le cantine cooperative dell'Alto Adige con 3.140 soci per 3.500 ettari di vigneto. E l'incidenza del vino cooperativo di alta qualità nella pro…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/alto-adige-vino-cooperativo-modello-controcorrente/",
+        "pubDate": "2026-10-07T14:39:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bianchi e spumanti meglio dei rossi, Doc e Docg più reattivi dei vini Igt. Il nuovo quadro degli imbottigliamenti",
+        "description": "I dati Valoritalia segnano -3% nei 9 mesi e una quasi stabilità nell'ultimo trimestre. Il presidente Liantonio: \"Non è un'inversione strutturale di tendenza ma …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/imbottigliamenti-vino-terzo-trimestre-2026-valoritalia/",
+        "pubDate": "2026-10-07T13:51:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti la vogliono, ma la vaniglia è una specie a rischio: cosa sta succedendo alla pianta più amata dai pasticceri",
+        "description": "La crisi climatica, la coltivazione intensiva e una filiera fragile mettono in difficoltà uno degli ingredienti più usati in pasticceria. Ma siamo sicuri che il…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vaniglia-specie-a-rischio/",
+        "pubDate": "2026-10-07T13:04:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Ristoranti, formazione, comunicazione, accoglienza in cantina: dalla crisi del vino si può uscire",
         "description": "Per uscire dalla crisi che attanaglia il vino serve agire su molti fronti: ne abbiamo parlato con Federico Gordini, che con la sua Milano Wine Week affronta anc…",
@@ -394,6 +448,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Il vino dealcolato prova a recuperare gli aromi persi. La nuova tecnologia viene dalla Germania",
+        "description": "Henkell Freixenet investe in un sistema che recupera e reintegra gli aromi persi durante la dealcolazione. Ma per i vini senza alcol resta il nodo dell'eccessiv…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-dealcolato-aromi-henkell-freixenet/",
+        "pubDate": "2026-10-07T09:23:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Wine Vision 2026 apre a Belgrado: cresce il «Vinitaly dei Balcani»",
         "description": "Dal 10 al 12 ottobre 2026 Belgrado torna capitale del vino dell’Europa sudorientale. Al Belgrade Fair prende il via la quinta edizione di Wine Vision by Open Ba…",
         "link": "https://www.winemag.it/wine-vision-2026-apre-belgrado-cresce-vinitaly-dei-balcani/",
@@ -403,6 +466,24 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Mangiare a Genova con meno di 15 euro: dieci posti dove spendere poco e mangiare bene",
+        "description": "Fritto di pesce, farinata, panissa, hamburger e panini: a Genova lo street food permette ancora di mangiare bene senza spendere una fortuna. Gli indirizzi da pr…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/mangiare-genova-meno-15-euro/",
+        "pubDate": "2026-10-07T08:50:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le uova senza uova… si fanno con la birra. Siamo entrati nella fabbrica olandese che ci sta riuscendo",
+        "description": "Proteine e fibre estratte dal lievito per sostituire le uova in salse e prodotti da forno. Ne abbiamo parlato con Corjan van der Berg, cofondatore dell'azienda …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/sostituto-uova-lievito-di-birra-revyve/",
+        "pubDate": "2026-10-07T08:47:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Ferrero apre il suo primo stabilimento in Romania",
         "description": "Un vero centro di produzione a Timisoara e l'avviamento della coltivazione di nocciole in terra rumena è il progetto - ancora in parte segreto - del gruppo.\nL'a…",
         "link": "https://www.dissapore.com/notizie/ferrero-apre-il-suo-primo-stabilimento-in-romania/",
@@ -410,6 +491,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/willy-wonka-marchio-scaled-e1789547193565.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Addio a Goetz Dringenberg: con la moglie Giovanna ha dato luce al Rossese di Dolceacqua",
+        "description": "Scomparso in Liguria il viticoltore di origini bavaresi: Goetz Dringenberg e la moglie Giovanna Maccario hanno rilanciato un vino che ha appena conquistato i 3 …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/addio-a-goetz-dringenberg-con-la-moglie-giovanna-ha-dato-luce-al-rossese-di-dolceacqua/",
+        "pubDate": "2026-10-07T07:47:40+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Regalate una cucina giocattolo ai figli maschi: non è “roba da femmine”, è una tappa dello sviluppo",
+        "description": "Dalle cucine rosa destinate alle bambine alle torrette montessoriane, passando per gioco simbolico e piccoli sous chef: i bambini hanno sempre imitato gli adult…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cucina-giocattolo-figli-maschi/",
+        "pubDate": "2026-10-07T07:22:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "George Clooney sta per aprire il suo ristorante di cucina italiana",
@@ -439,15 +538,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dopo anni passati a evitarlo, ora facciamo la fila per il burro",
-        "description": "Montato nei ristoranti, scolpito dagli artisti, aromatizzato e venduto come un prodotto da collezione. Dopo decenni passati sotto accusa, il grasso più famoso d…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/negozio-di-burro-tendenza/",
-        "pubDate": "2026-10-07T05:07:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Piemonte, Val Bormida: Pinot Nero e Chardonnay tra marne e terrazze sabbiose",
         "description": "Viticoltura e valorizzazione dei paesaggi per definire nuove prospettive di sviluppo.\nL'articolo Piemonte, Val Bormida: Pinot Nero e Chardonnay tra marne e terr…",
         "link": "https://www.winemag.it/piemonte-val-bormida-pinot-nero-e-chardonnay-tra-marne-e-terrazze-sabbiose/",
@@ -455,96 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Le mele friulane che rischiavamo di perdere: le varietà autoctone del Friuli Venezia Giulia",
-        "description": "Dalla Seuka alla Ruggine di Enemonzo, il Friuli Venezia Giulia custodisce mele antiche, rare e sorprendenti: varietà nate tra Carnia e Valli del Natisone che ra…",
-        "link": "https://www.dissapore.com/spesa/le-mele-friulane-che-rischiavamo-di-perdere-le-varieta-autoctone-del-friuli-venezia-giulia/",
-        "pubDate": "2026-10-06T16:16:39+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/07/fiore-di-latte-gradisca-disonzo.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Ancora una vendemmia contenuta in Spagna: produzione 2026 stimata a 34 milioni di ettolitri",
-        "description": "Si tratterebbe del quarto anno consecutivo sotto i 37 milioni di ettolitri. Le previsioni spagnole, insieme a quelle francesi, trascinano ai minimi la produzion…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vendemmia-2026-spagna-stime/",
-        "pubDate": "2026-10-06T15:00:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il cibo batte le Big Tech: ecco le aziende italiane dove si lavora meglio",
-        "description": "La nuova classifica Italy’s Best Employers 2027 di Statista fotografa il peso dell’agroalimentare italiano, tra conferme, grandi balzi in avanti e sorprendenti …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/migliori-aziende-dove-lavorare-in-italia/",
-        "pubDate": "2026-10-06T13:22:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Contadi Castaldi non è in vendita”. Il gruppo Terra Moretti smentisce la cessione della cantina",
-        "description": "Dopo le voci circolate negli ultimi giorni, la Famiglia Moretti nega che ci siano delle trattative in corso con Argea (o con altri) per la cessione dell’azienda…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/smentita-vendita-contadi-castaldi-terra-moretti/",
-        "pubDate": "2026-10-06T13:00:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La valle del Trentino che quasi nessuno conosce: oltre 700 chilometri di muretti a secco tra le vigne",
-        "description": "Non solo Müller Thurgau: un territorio verticale, costruito nei secoli tra pietra e quota, che oggi rivendica con forza una propria identità enologica.…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/val-di-cembra-trento/",
-        "pubDate": "2026-10-06T12:22:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La pasta nata per mangiare l’olio nuovo. In Abruzzo si preparava direttamente al frantoio",
-        "description": "Mentre le olive venivano molite, al frantoio si aspettava mangiando. E l’olio appena prodotto in Abruzzo finiva direttamente nella pasta: tanto, tantissimo olio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasta-trappitara-abruzzo-olio-nuovo/",
-        "pubDate": "2026-10-06T11:38:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’algoritmo decide il prezzo del Big Mac: la class action contro McDonald’s",
-        "description": "I consumatori non se possono già più dell'impiego di pratiche di prezzo dinamico, e anche McDonald's viene trascinata in tribunale per una causa che coinvolge p…",
-        "link": "https://www.dissapore.com/notizie/lalgoritmo-decide-il-prezzo-del-big-mac-la-class-action-contro-mcdonalds/",
-        "pubDate": "2026-10-06T11:26:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/mcdonalds-prezzi-totem-ordine-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il Prosecco avanza dove lo Champagne cala. “L’India crescerà ancora. Il boom in Francia? Inaspettato”",
-        "description": "Il presidente Guidolin commenta i dati della Doc. Se in India sta erodendo quote di mercato alle bollicine francesi grazie al prezzo contenuto, in Francia il mo…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/prosecco-doc-champagne-india/",
-        "pubDate": "2026-10-06T10:13:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“La Linea 12? Non una saga, ma una sfida al menu”: Puok e il lancio di Porcheroni",
-        "description": "Più di un nuovo panino, una valvola di sfogo creativa: dalla laurea in Biotecnologie al successo di Puok Burger, Egidio Cerrone racconta la \"Linea 12\", uno spaz…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/puok-porcheroni/",
-        "pubDate": "2026-10-06T09:22:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Barilla vince la class action in America: nessun inganno ai consumatori",
-        "description": "Il marchio Barilla è inequivocabilmente italiano, anche quando la pasta è prodotta in America: lo ha stabilito un giudice\nL'articolo Barilla vince la class acti…",
-        "link": "https://www.dissapore.com/notizie/barilla-vince-la-class-action-in-america-nessun-inganno-ai-consumatori/",
-        "pubDate": "2026-10-06T07:35:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/barilla-.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
