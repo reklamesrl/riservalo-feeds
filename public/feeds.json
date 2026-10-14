@@ -1,7 +1,25 @@
 {
-  "generated": "2026-10-13T22:21:25.438583+00:00",
+  "generated": "2026-10-14T11:19:52.273862+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Doc Friuli, nuovo disciplinare: ecco Ribolla Gialla ferma, Rosato e spumanti",
+        "description": "È entrato in vigore il nuovo disciplinare della Doc Friuli Venezia Giulia, o Doc Friuli. Tra le novità, il riconoscimento formale della Ribolla Gialla ferma e d…",
+        "link": "https://www.winemag.it/doc-friuli-nuovo-disciplinare-ecco-ribolla-gialla-ferma-rosato-e-spumanti/",
+        "pubDate": "2026-10-14T10:40:21+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Quanto valgono la tua morte e la tua vita eterna per Pringles",
+        "description": "L'ultima trovata di marketing di Pringles sembra un macabro scherzo, ma pare che non lo sia. \nL'articolo Quanto valgono la tua morte e la tua vita eterna per Pr…",
+        "link": "https://www.dissapore.com/notizie/618224/",
+        "pubDate": "2026-10-14T07:12:07+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/pringles-urn-100826-1-2c01b023a819468e90ab7bf64ac27bde.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Baladin, Teo Musso fa il colpaccio: 16 milioni da un socio misterioso, senza vendere l’anima artigianale",
         "description": "Proprio nel trentennale del birrificio di Piozzo, un nuovo socio permetterà a Baladin una nuova, ambiziosa espansione, mentre l'industria continua a chiudere bi…",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Davide Oldani vuole abolire i menu bambini nei ristoranti: “Basta con pasta in bianco, patatine e cotolette”",
-        "description": "Dal palco di C'è +Gusto a Bologna, lo chef propone di eliminare i menu dedicati ai più piccoli: \"Il gusto si impara da piccoli\". Enrico Bartolini e Marino Niola…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/davide-oldani-abolire-menu-bambini-ristoranti/",
-        "pubDate": "2026-10-13T07:24:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quali sono le “It bags” dell’autunno? Le borse in suede, che domande! Ecco le varianti scamosciate più cool su cui orientarsi",
-        "description": "Certo, voi potreste tranquillamente provare a dire &#8220;no, grazie&#8221; ma i vostri outfit autunnali non ne sarebbero affatto contenti, sappiatelo! Sì, perc…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/borse-suede-scamosciate-tracolla-shopper-a-mano-bags-camoscio-beige-marrone-nero-colorate-autunno-2026-1003825",
-        "pubDate": "2026-10-13T04:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_borse_suede.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Doc Friuli, nuovo disciplinare: ecco Ribolla Gialla ferma, Rosato e spumanti",
+        "description": "È entrato in vigore il nuovo disciplinare della Doc Friuli Venezia Giulia, o Doc Friuli. Tra le novità, il riconoscimento formale della Ribolla Gialla ferma e d…",
+        "link": "https://www.winemag.it/doc-friuli-nuovo-disciplinare-ecco-ribolla-gialla-ferma-rosato-e-spumanti/",
+        "pubDate": "2026-10-14T10:40:21+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Quanto valgono la tua morte e la tua vita eterna per Pringles",
+        "description": "L'ultima trovata di marketing di Pringles sembra un macabro scherzo, ma pare che non lo sia. \nL'articolo Quanto valgono la tua morte e la tua vita eterna per Pr…",
+        "link": "https://www.dissapore.com/notizie/618224/",
+        "pubDate": "2026-10-14T07:12:07+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/pringles-urn-100826-1-2c01b023a819468e90ab7bf64ac27bde.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Baladin, Teo Musso fa il colpaccio: 16 milioni da un socio misterioso, senza vendere l’anima artigianale",
         "description": "Proprio nel trentennale del birrificio di Piozzo, un nuovo socio permetterà a Baladin una nuova, ambiziosa espansione, mentre l'industria continua a chiudere bi…",
         "link": "https://www.dissapore.com/bere/baladin-teo-musso-fa-il-colpaccio-16-milioni-da-un-socio-misterioso-senza-vendere-lanima-artigianale/",
@@ -527,24 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "È l’ora della carne secca, dall’alba dei tempi ai supermercati",
-        "description": "Una tradizione millenaria e globale sta trovano il suo posto sugli scaffali della GDO, in un turbolento periodo di rivoluzioni nei consumi.\nL'articolo È l&#8217…",
-        "link": "https://www.dissapore.com/spesa/e-lora-della-carne-secca-dallalba-dei-tempi-ai-supermercati/",
-        "pubDate": "2026-10-11T16:59:08+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/carne-secca-beef-jerky.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Perché Jessica Rosval è la numero uno in Italia",
-        "description": "Jessica Rosval, in questo momento, è un concentrato di talento e creatività: basta andare a trovarla al Gatto Verde per capire perché è la numero uno.\nL'articol…",
-        "link": "https://www.dissapore.com/ristoranti/perche-jessica-rosval-e-la-numero-uno-in-italia/",
-        "pubDate": "2026-10-11T09:51:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/PIF5393-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
