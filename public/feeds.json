@@ -1,7 +1,43 @@
 {
-  "generated": "2026-10-15T16:25:50.914325+00:00",
+  "generated": "2026-10-15T20:59:38.669158+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Come (e perché) Dissapore ha selezionato i 50 migliori birrifici artigianali italiani",
+        "description": "Trent'anni di birra artigianale italiana, e ancora facciamo fatica a riconoscere quella buona. Quindi esce la Top50 di Dissapore, e se volete siete invitati all…",
+        "link": "https://www.dissapore.com/bere/cirteri-selezione-migliori-birrifici-italiani/",
+        "pubDate": "2026-10-15T19:33:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2022/06/shutterstock_1031564416-scaled-e1666890193942.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "L’architettura si fa gioiello: la nuova collezione “Milano” firmata Co. Ro. Jewels",
+        "description": "Co.Ro. Jewels, il marchio di gioielleria e design fondato dal duo creativo formato da Costanza De Cecco e Giulia Giannini, lancia &#8220;Milano&#8220;, una coll…",
+        "link": "https://www.grazia.it/moda/news-moda/gioielli-scultura-corojewels-collezione-milano-pop-up-store-1005328",
+        "pubDate": "2026-10-15T17:01:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/coro-jewels.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Addio, Calvin Klein: Veronica Leoni non sarà più Direttore Creativo della linea Collection",
+        "description": "Calvin Klein e Veronica Leoni si preparano a prendere strade diverse. Il brand americano ha annunciato ufficialmente la conclusione della collaborazione con la …",
+        "link": "https://www.grazia.it/moda/news-moda/calvin-klein-collection-fine-direzione-creativa-veronica-leoni-1005315",
+        "pubDate": "2026-10-15T16:11:20+00:00",
+        "image": "https://www.grazia.it/content/uploads/2024/05/veronica-quira.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Katie Holmes e quegli stivali al ginocchio color cioccolato che dovremmo avere tutte quest’autunno",
+        "description": "L’autunno è ufficialmente iniziato e, con il primo freddo di stagione, torna la ricerca della calzatura perfetta, capace di mixare comfort e stile. A mostrarci …",
+        "link": "https://www.grazia.it/moda/get-the-look/katie-holmes-stivali-marroni-al-ginocchio-vivaia-look-jeans-pullover-stivale-basso-1005276",
+        "pubDate": "2026-10-15T15:51:06+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/katie-holmes-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "“Dobbiamo fermare l’effetto domino”. Come le proteste dei tir rischiano di bloccare i supermercati",
         "description": "Dal 16 al 20 ottobre è previsto un fermo dell'autotrasporto in alcune regione del Sud. Intanto, tra Puglia e Calabria, diversi distributori sono senza carburant…",
@@ -48,6 +84,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Dite addio alle “classiche” Samba: questo autunno l’iconico modello di adidas si è rifatto il look!",
+        "description": "Le nuove adidas Samba con zip trasformano la sneaker più iconica del momento in una versione apparentemente pronta per il trekking urbano. Ma tra zip, parafango…",
+        "link": "https://www.grazia.it/moda/news-moda/dite-addio-alle-classiche-samba-questo-autunno-liconico-modello-di-adidas-si-e-rifatto-il-look-1004777",
+        "pubDate": "2026-10-15T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/adidas-samba-zip-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "“Piantiamo i vitigni siciliani al Nord: il catarratto in Veneto darebbe grandi risultati”. La provocazione di Tonino Guzzo",
         "description": "L'enologo siciliano scommette tutto sul catarratto: \"È lo chardonnay di Sicilia, ma per anni è stato coltivato nei posti sbagliati e sfruttato male. In Veneto r…",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/scommessa-catarratto-tonino-guzzo/",
@@ -73,6 +118,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Menabòh, il brand che dà una nuova vita ai vestiti e ai ricordi",
+        "description": "Menabòh, atelier creativo italiano nasce da una domanda tanto semplice quanto rivoluzionaria: e se il vestito che stiamo cercando fosse proprio quello che abbia…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/menaboh-brand-redesign-vestiti-seconda-vita-1003497",
+        "pubDate": "2026-10-15T12:05:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/ok-apertura-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Flavescenza dorata, vigneti vibrazionali: Fondazione Mach ci crede",
@@ -111,79 +165,52 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Sandrigo c’è una trattoria che pare una bottega d’altri tempi, dove si mangiano bigoli memorabili",
-        "description": "A Sandrigo, Luigi Zolin Cibo è molto più di una trattoria: una bottega conviviale dove l'accoglienza è un'arte, la cucina vicentina sa ancora di casa e i bigoli…",
-        "link": "https://www.dissapore.com/ristoranti/luigi-zolin-cibo-a-sandrigo-recensione/",
-        "pubDate": "2026-10-15T09:55:27+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Luigi-Zolin-Cibo-13-scaled-e1789226741473.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nelle cantine italiane ci sono ancora 41,2 milioni di ettolitri di vino invenduto. E una nuova vendemmia in arrivo",
-        "description": "Al 30 settembre 2026, i numeri del report Cantina Italia segnalano un incremento del 14% in un anno, con una forte presenza di vini Dop. Non ci sono miglioramen…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/cantina-italia-vino-giacenze-settembre-2026/",
-        "pubDate": "2026-10-15T09:02:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come arredare un bagno bianco e renderlo originale: idee e consigli",
-        "description": "Arredare un bagno bianco richiede attenzione ai dettagli per evitare un aspetto sterile e freddo. Scopri come aggiungere calore, colore e personalità con i nost…",
-        "link": "https://www.stylosophy.it/articolo/come-arredare-un-bagno-bianco/192285/",
-        "pubDate": "2026-10-15T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Le origini dei vitigni europei riaffiorano da un vecchio pozzo in Toscana",
-        "description": "L’analisi del Dna di antichi vinaccioli, ritrovati a Cetamura, ricostruisce i legami tra varietà coltivate e viti selvatiche e svela sorprendenti connessioni tr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/origini-vitigni-europei-pozzo-cetamura/",
-        "pubDate": "2026-10-15T08:21:02+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dieci e Lode, Castagner firma la grappa pensata per il tiramisù",
-        "description": "La Distilleria Castagner presenta Dieci e Lode, una grappa barricata studiata per accompagnare il tiramisù e richiamarne le principali componenti aromatiche. Il…",
-        "link": "https://www.winemag.it/dieci-e-lode-castagner-firma-la-grappa-pensata-per-il-tiramisu/",
-        "pubDate": "2026-10-15T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Tokaj e vino ungherese, Szepsy: «Vini rossi, perché no? Langhe? Un modello»",
-        "description": "Kadarka e Kékfrankos si fanno largo, sullo sfondo il Pinot nero. L'intervista esclusiva di Winemag nel quartier generale della cantina, a Mád.\nL'articolo Tokaj …",
-        "link": "https://www.winemag.it/tokaj-vino-ungherese-szepsy-vini-rossi-perche-no-langhe-modello/",
-        "pubDate": "2026-10-15T00:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Tokaj-e-vino-ungherese-Szepsy-Vini-rossi-perche-no.-Le-sfide-del-futuro-del-vino-dell-ungheria-5.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Pantaloni eleganti: tutti i modelli di tendenza per l’autunno inverno, “click to buy”",
-        "description": "Le tendenze pantaloni eleganti autunno inverno 2026 2027 puntano su un’eleganza fluida e raffinata, fatta di volumi morbidi, tagli sartoriali e lunghezze extra.…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-eleganti-donna-inverno-vita-alta-larghi-palazzo-modelli-zara-cerimonia-1003925",
-        "pubDate": "2026-10-14T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_pantaloni_eleganti.jpg",
+        "title": "Rouje x Reebok: quando l’eleganza parigina incontra il mito dell’aerobica anni 80",
+        "description": "Quando lo stile effortlessly chic parigino incontra l’anima pop e nostalgica del fitness anni &#8217;80, il risultato non può che essere una collezione da tener…",
+        "link": "https://www.grazia.it/moda/news-moda/rouje-x-reebok-sneakers-aerobica-anni-80-completi-sportivi-1005131",
+        "pubDate": "2026-10-15T10:39:26+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/rouje-apertura.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "In Uganda l’allevamento di insetti commestibili è una speranza per i campi di rifugiati",
-        "description": "Allevare gli insetti può garantire l'approvvigionamento di carne, pesce e vegetali alle famiglie costrette a vivere negli insediamenti.\nL'articolo In Uganda l&#…",
-        "link": "https://www.dissapore.com/notizie/in-uganda-lallevamento-di-insetti-commestibili-e-una-speranza-per-i-campi-di-rifugiati/",
-        "pubDate": "2026-10-14T15:38:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/galline-che-mangiano-larve-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
+        "title": "Luisa Ranieri ci svela come indossare la camicia bianca in modo chic a 50 anni (e oltre)",
+        "description": "È uno dei pezzi irrinunciabili del guardaroba daily ma, con le giuste accortezze, la camicia bianca può diventare un’ottima partner in crime anche nelle occasio…",
+        "link": "https://www.grazia.it/moda/get-the-look/come-indossare-la-camicia-bianca-a-50-anno-con-pantaloni-eleganti-neri-luisa-via-roma-red-carpet-festival-del-cinema-di-roma-1005030",
+        "pubDate": "2026-10-15T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/GettyImages-2300068346-1200x800.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "L’architettura si fa gioiello: la nuova collezione “Milano” firmata Co. Ro. Jewels",
+        "description": "Co.Ro. Jewels, il marchio di gioielleria e design fondato dal duo creativo formato da Costanza De Cecco e Giulia Giannini, lancia &#8220;Milano&#8220;, una coll…",
+        "link": "https://www.grazia.it/moda/news-moda/gioielli-scultura-corojewels-collezione-milano-pop-up-store-1005328",
+        "pubDate": "2026-10-15T17:01:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/coro-jewels.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Addio, Calvin Klein: Veronica Leoni non sarà più Direttore Creativo della linea Collection",
+        "description": "Calvin Klein e Veronica Leoni si preparano a prendere strade diverse. Il brand americano ha annunciato ufficialmente la conclusione della collaborazione con la …",
+        "link": "https://www.grazia.it/moda/news-moda/calvin-klein-collection-fine-direzione-creativa-veronica-leoni-1005315",
+        "pubDate": "2026-10-15T16:11:20+00:00",
+        "image": "https://www.grazia.it/content/uploads/2024/05/veronica-quira.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Katie Holmes e quegli stivali al ginocchio color cioccolato che dovremmo avere tutte quest’autunno",
+        "description": "L’autunno è ufficialmente iniziato e, con il primo freddo di stagione, torna la ricerca della calzatura perfetta, capace di mixare comfort e stile. A mostrarci …",
+        "link": "https://www.grazia.it/moda/get-the-look/katie-holmes-stivali-marroni-al-ginocchio-vivaia-look-jeans-pullover-stivale-basso-1005276",
+        "pubDate": "2026-10-15T15:51:06+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/katie-holmes-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Claudia Pandolfi, in rosso rubino sul red carpet della Festa del Cinema di Roma 2026 FOTO",
         "description": "Claudia Pandolfi ha sfilato sul red carpet della Festa del Cinema di Roma 2026 con un look sui toni del rosso rubino.…",
@@ -194,6 +221,42 @@
         "source": "Stylosophy"
       },
       {
+        "title": "Dite addio alle “classiche” Samba: questo autunno l’iconico modello di adidas si è rifatto il look!",
+        "description": "Le nuove adidas Samba con zip trasformano la sneaker più iconica del momento in una versione apparentemente pronta per il trekking urbano. Ma tra zip, parafango…",
+        "link": "https://www.grazia.it/moda/news-moda/dite-addio-alle-classiche-samba-questo-autunno-liconico-modello-di-adidas-si-e-rifatto-il-look-1004777",
+        "pubDate": "2026-10-15T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/adidas-samba-zip-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Menabòh, il brand che dà una nuova vita ai vestiti e ai ricordi",
+        "description": "Menabòh, atelier creativo italiano nasce da una domanda tanto semplice quanto rivoluzionaria: e se il vestito che stiamo cercando fosse proprio quello che abbia…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/menaboh-brand-redesign-vestiti-seconda-vita-1003497",
+        "pubDate": "2026-10-15T12:05:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/ok-apertura-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Rouje x Reebok: quando l’eleganza parigina incontra il mito dell’aerobica anni 80",
+        "description": "Quando lo stile effortlessly chic parigino incontra l’anima pop e nostalgica del fitness anni &#8217;80, il risultato non può che essere una collezione da tener…",
+        "link": "https://www.grazia.it/moda/news-moda/rouje-x-reebok-sneakers-aerobica-anni-80-completi-sportivi-1005131",
+        "pubDate": "2026-10-15T10:39:26+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/rouje-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Luisa Ranieri ci svela come indossare la camicia bianca in modo chic a 50 anni (e oltre)",
+        "description": "È uno dei pezzi irrinunciabili del guardaroba daily ma, con le giuste accortezze, la camicia bianca può diventare un’ottima partner in crime anche nelle occasio…",
+        "link": "https://www.grazia.it/moda/get-the-look/come-indossare-la-camicia-bianca-a-50-anno-con-pantaloni-eleganti-neri-luisa-via-roma-red-carpet-festival-del-cinema-di-roma-1005030",
+        "pubDate": "2026-10-15T10:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/GettyImages-2300068346-1200x800.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Come arredare un bagno bianco e renderlo originale: idee e consigli",
         "description": "Arredare un bagno bianco richiede attenzione ai dettagli per evitare un aspetto sterile e freddo. Scopri come aggiungere calore, colore e personalità con i nost…",
         "link": "https://www.stylosophy.it/articolo/come-arredare-un-bagno-bianco/192285/",
@@ -203,29 +266,29 @@
         "source": "Stylosophy"
       },
       {
+        "title": "L’autunno chiama, e il velluto risponde: ecco i capi e gli accessori must-have per la nuova stagione",
+        "description": "Quando l&#8217;autunno bussa alla porta, significa solo una cosa: è ricominciata la stagione del velluto!  Nel mese che ufficialmente ci conduce al cuore della …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/velluto-abbigliamento-moda-vestiti-giacche-pantaloni-donna-autunno-2026-1004392",
+        "pubDate": "2026-10-15T05:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_velluto.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "It’s knitwear season! Ecco i 5 trend di maglieria da tenere d’occhio quest’autunno",
+        "description": "Arriva l’autunno e puntualmente cardigan, dolcevita e pullover tornano ad essere i protagonisti del nostro guardaroba. Maglie leggere, perfette per stratificare…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/maglieria-donna-tendenze-moda-autunno-2026-maglioni-collo-alto-cardigan-dolcevita-gilet-zara-1004865",
+        "pubDate": "2026-10-15T04:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_maglieria.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Pantaloni eleganti: tutti i modelli di tendenza per l’autunno inverno, “click to buy”",
         "description": "Le tendenze pantaloni eleganti autunno inverno 2026 2027 puntano su un’eleganza fluida e raffinata, fatta di volumi morbidi, tagli sartoriali e lunghezze extra.…",
         "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-eleganti-donna-inverno-vita-alta-larghi-palazzo-modelli-zara-cerimonia-1003925",
         "pubDate": "2026-10-14T16:00:00+00:00",
         "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_pantaloni_eleganti.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Vita alta? No grazie! GUESS riporta in scena i jeans anni Duemila con un nuovo modello e una testimonial speciale",
-        "description": "La vita bassa torna protagonista del guardaroba denim con i GUESS B Jean Low Rise, i nuovi jeans che riportano sotto i riflettori una silhouette simbolo degli a…",
-        "link": "https://www.grazia.it/moda/news-moda/guess-b-jean-low-rise-becky-g-1004814",
-        "pubDate": "2026-10-14T13:25:59+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/ok-apertura-1-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "FREITAG REFERENCE: le borse che hanno una storia da raccontare",
-        "description": "C&#8217;è un modo diverso di guardare agli oggetti che ci accompagnano ogni giorno: non chiedersi soltanto che cosa possano diventare, ma anche da dove arrivino…",
-        "link": "https://www.grazia.it/moda/news-moda/freitag-reference-nuova-collezione-factory-zurigo-1003980",
-        "pubDate": "2026-10-14T13:02:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/ok-apertura-1-3.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
@@ -237,33 +300,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Addio mini, la gonna midi è il modello più chic e versatile d’autunno (e si indossa così)",
-        "description": "Grazie alla sua lunghezza strategica si conferma la perfetta alleata per affrontare il clima ballerino tipico di questo periodo dell’anno e, complici le ultime …",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-gonna-midi-look-abbinamenti-idee-outfit-donna-street-style-1004743",
-        "pubDate": "2026-10-14T12:04:46+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Come_indossare_la_gonna_midi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Guida agli accessori per l’autunno 2026: i key pieces per completare i look di stagione",
-        "description": "Gli accessori sono gli &#8220;essenziali&#8221; per rinnovare, trasformare e reinterpretare i look di stagione nonchè lo stile personale, dando nuova personalit…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/accessori-moda-autunno-2026-cappelli-occhiali-foulard-cinture-collant-guanti-1003879",
-        "pubDate": "2026-10-14T04:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_gallery_accessori_2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Festa del Cinema di Roma 2026: i look sul red carpet di apertura",
-        "description": "Il cinema italiano torna sotto i riflettori con la nuova edizione della Festa del Cinema di Roma, manifestazione che dal 13 al 25 ottobre porterà nella Capitale…",
-        "link": "https://www.grazia.it/moda/celebrity-style/festa-del-cinema-di-roma-2026-look-red-carpet-1004672",
-        "pubDate": "2026-10-13T19:43:22+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-festa-del-cinema-di-roma-2026.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Smalti verdi per l’autunno: ecco le nuance perfette per una manicure di tendenza",
@@ -284,15 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "JW ANDERSON e UGG®: la capsule collection esclusiva per un autunno comfy e cool",
-        "description": "JW Anderson e UGG® annunciano la loro prima collaborazione esclusiva, regalandoci così il perfetto modello di scarpe di cui non sapevamo di aver bisogno per la …",
-        "link": "https://www.grazia.it/moda/news-moda/jw-anderson-ugg-capsule-collection-autunno-2026-loafer-stivaletti-collaborazione-1004595",
-        "pubDate": "2026-10-13T14:59:08+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/Ugg.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Il coordinato di Ilary Blasi è quello che devi avere per l’autunno 2026 se vuoi essere chic e glamour!",
         "description": "Ilary Blasi, per la puntata di ieri sera del Grande Fratello Vip, ha indossato un coordinato top e pantaloni chic e glamour.…",
         "link": "https://www.stylosophy.it/articolo/il-coordinato-di-ilary-blasi-e-quello-che-devi-avere-per-lautunno-2026-se-vuoi-essere-chic-e-glamour/253999/",
@@ -300,33 +327,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Con quali scarpe abbinare i pantaloni larghi? Ecco i modelli da avere nell’armadio quest’autunno",
-        "description": "Hanno da sempre un posto in prima fila nella nostra cabina armadio e si rivelano la scelta ideale per coniugare alla perfezione praticità e stile: i pantaloni l…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/con-quali-scarpe-abbinare-i-pantaloni-larghi-come-indossare-over-40-scarpe-basse-alte-eleganti-tacco-sneakers-mocassini-stivaletti-1004287",
-        "pubDate": "2026-10-13T09:49:07+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Scarpe_per_pantaloni_larghi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Giove: l’icona di Tavanti che continua a reinventarsi",
-        "description": "Ci sono forme che diventano immediatamente riconoscibili e finiscono per trasformarsi in una firma. Per Tavanti, una di queste è certamente il cerchio di Giove,…",
-        "link": "https://www.grazia.it/moda/news-moda/giove-licona-di-tavanti-che-continua-a-reinventarsi-997123",
-        "pubDate": "2026-10-13T09:48:04+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/09/00_DESKTOP_TAVANTI.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "10 tendenze imperdibili viste sulle passerelle Primavera Estate 2027",
-        "description": "L’autunno è cominciato da una manciata di giorni, il cambio armadio è ancora in progress ma la moda è già proiettata verso la prossima stagione. L’ultimo fashio…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/trend-sfilate-primavera-estate-2027-must-have-borse-con-frange-pantaloni-capri-animalier-gonna-midi-1003951",
-        "pubDate": "2026-10-13T09:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_recap_trend_sfilateSS27.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Arredamento 2027, le tendenze da seguire per una casa moderna e accogliente",
@@ -366,6 +366,15 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Come (e perché) Dissapore ha selezionato i 50 migliori birrifici artigianali italiani",
+        "description": "Trent'anni di birra artigianale italiana, e ancora facciamo fatica a riconoscere quella buona. Quindi esce la Top50 di Dissapore, e se volete siete invitati all…",
+        "link": "https://www.dissapore.com/bere/cirteri-selezione-migliori-birrifici-italiani/",
+        "pubDate": "2026-10-15T19:33:52+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2022/06/shutterstock_1031564416-scaled-e1666890193942.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
       {
         "title": "“Dobbiamo fermare l’effetto domino”. Come le proteste dei tir rischiano di bloccare i supermercati",
         "description": "Dal 16 al 20 ottobre è previsto un fermo dell'autotrasporto in alcune regione del Sud. Intanto, tra Puglia e Calabria, diversi distributori sono senza carburant…",
@@ -533,15 +542,6 @@
         "description": "Cinque Consorzi, 550 realtà vitivinicole e 413 allevatori coinvolti per raccontare il patrimonio enogastronomico del Lazio attraverso territori, produzioni cert…",
         "link": "https://www.winemag.it/lazio-roots-cinque-consorzi-uniscono-vino-e-agroalimentare-del-lazio/",
         "pubDate": "2026-10-14T14:13:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "FontinaMI 2026 a Milano: 12 ristoranti celebrano la Fontina DOP dal 16 al 29 novembre",
-        "description": "La Fontina DOP torna protagonista della ristorazione milanese con la sesta edizione di FontinaMI, in programma dal 16 al 29 novembre 2026. Dodici ristoranti, tr…",
-        "link": "https://www.winemag.it/fontinami-2026-a-milano-12-ristoranti-celebrano-la-fontina-dop-dal-16-al-29-novembre/",
-        "pubDate": "2026-10-14T13:35:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
