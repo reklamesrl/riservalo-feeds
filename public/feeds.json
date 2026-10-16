@@ -1,7 +1,106 @@
 {
-  "generated": "2026-10-16T10:50:37.749910+00:00",
+  "generated": "2026-10-16T16:11:37.690815+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Riparte l’export di vino italiano fuori dall’Ue grazie agli Stati Uniti. Europa ancora in affanno",
+        "description": "Complessivamente i sette mesi restano negativi, ma sul mercato americano si registra un +17%. Effetto, secondo Uiv, della ricostituzione delle scorte, della buo…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-italiano-luglio-2026-stati-uniti/",
+        "pubDate": "2026-10-16T14:26:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Autunno in Piemonte: 7 luoghi da scoprire tra borghi medievali, vigneti e sapori tipici",
+        "description": "Dalle colline delle Langhe ai borghi medievali, passando per castelli, foliage e degustazioni: itinerari ed esperienze per scoprire il Piemonte nella stagione d…",
+        "link": "https://www.stylosophy.it/articolo/autunno-in-piemonte-luoghi-da-scoprire-tra-borghi-medievali-vigneti-e-sapori-tipici/254035/",
+        "pubDate": "2026-10-16T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Oiv vola in Cina e mette in standby il Cervim e il suo concorso",
+        "description": "L’Oiv ha celebrato in Cina una prima volta storica: dal 12 al 16 ottobre il suo Congresso mondiale della vigna e del vino si è svolto in Asia, a Yinchuan, nella…",
+        "link": "https://www.winemag.it/oiv-vola-in-cina-e-mette-in-standby-il-cervim-e-il-suo-concorso/",
+        "pubDate": "2026-10-16T13:38:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Che noia le giornate nazionali: quel menu infinito di celebrazioni che uccide il gusto stesse di celebrarle",
+        "description": "Il richiamo di Mattarella alle Camere apre una profonda riflessione sul significato delle troppe celebrazioni in calendario. Abbiamo davvero bisogno di una gior…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/mattarella-giornate-nazionali-cibo/",
+        "pubDate": "2026-10-16T13:31:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Castagne in Puglia: il raccolto crollato del 90%, cause e impatto",
+        "description": "Il raccolto di castagne in Puglia nel 2026 è crollato del 90% a causa di siccità prolungata e parassiti. Analisi dell'impatto economico e prospettive.…",
+        "link": "https://www.gustoblog.it/2026/10/16/castagne-puglia-raccolto-crollo-2026/",
+        "pubDate": "2026-10-16T13:04:24+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Mariasole Pollio incanta tutti alla Festa del Cinema di Roma 2026 con un meraviglioso abito dallo stile goth-chic",
+        "description": "Mariasole Pollio ha sfilato sul magico tappeto rosso della Festa del Cinema di Roma 2026 con un meraviglioso abito lungo dal sapore goth-chic.…",
+        "link": "https://www.stylosophy.it/articolo/mariasole-pollio-incanta-tutti-alla-festa-del-cinema-di-roma-2026-con-un-meraviglioso-abito-dallo-stile-goth-chic/254031/",
+        "pubDate": "2026-10-16T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il pollo fritto di KFC ha lasciato Pepsi per la Coca Cola",
+        "description": "Un nuovo colpo per PepsiCo, che perde la partnership con KFC che durava da 40 anni, per ora però solo nel mercato statunitense.\nL'articolo Il pollo fritto di KF…",
+        "link": "https://www.dissapore.com/notizie/il-pollo-fritto-di-kfc-ha-lasciato-pepsi-per-la-coca-cola/",
+        "pubDate": "2026-10-16T12:08:14+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/fabbrica-pepsi.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Frode di vino milionaria scoperta in Francia: sequestri per 1,8 milioni di euro",
+        "description": "Centinaia di ettolitri di vino sono stati commercializzati in maniera fraudolenta sotto la denominazione Aop Châteauneuf-du-Pape. Complessivamente hanno generat…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/francia-frode-vino-milionaria-chateauneuf-du-pape/",
+        "pubDate": "2026-10-16T10:58:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel piccolo paese del Lazio c’è una super trattoria premiata con Tre Gamberi",
+        "description": "La cucina di Salvatore Tassa conquista ancora i Tre Gamberi con la sua Nú Trattoria Italiana dal 1960 ad Acuto. Lo chef sarà tra i protagonisti della cena delle…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/salvatore-tassa-nu-trattoria-acuto-cosa-si-mangia/",
+        "pubDate": "2026-10-16T10:44:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sull’Appennino c’è uno dei migliori ristoranti d’Italia. Il menu di 5 portate costa 80 euro",
+        "description": "A San Piero in Bagno, Gianluca Gorini e Sara Silvani hanno costruito un ristorante dove alta cucina, territorio e prezzi accessibili trovano un equilibrio raro.…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/dagorini-san-piero-bagno-menu-80-euro-gianluca-gorini/",
+        "pubDate": "2026-10-16T10:40:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questo hotel di Palermo la colazione si fa con uova blu e verdi. Arrivano da galline che ascoltano musica classica",
+        "description": "Palazzo Balsamo propone una colazione firmata dallo chef Giuseppe Costa, preparata con i prodotti della tenuta agricola dei proprietari…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/palazzo-balsamo-palermo-hotel-colazione-uova-colorate/",
+        "pubDate": "2026-10-16T08:58:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "100 anni del Consorzio Bardolino, il vino pop del Lago di Garda",
         "description": "Dal 9 all’11 ottobre Bardolino (Verona) si è animata per i festeggiamenti del centenario del Consorzio vini Bardolino con una serie di appuntamenti nella cittad…",
@@ -12,6 +111,42 @@
         "source": "Wine Mag"
       },
       {
+        "title": "In Ungheria c’è un drink che ha più di 50 nomi. Uno è dedicato alla suocera del casellante",
+        "description": "Si chiama fröccs ed è una miscela di vino e seltz diffusa in Ungheria dall'Ottocento. Ogni proporzione ha un nome, spesso curioso, e una leggenda ne attribuisce…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/froccs-drink-ungherese-vino-seltz-storia-varianti/",
+        "pubDate": "2026-10-16T08:35:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dove mangiare le migliori sarde a beccafico a Palermo: 5 trattorie e ristoranti da conoscere",
+        "description": "Nate, secondo la tradizione, come alternativa economica ai beccafichi delle tavole nobiliari, le sarde ripiene sono un classico della cucina siciliana. Cinque i…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/sarde-a-beccafico-palermo-dove-mangiare/",
+        "pubDate": "2026-10-16T08:35:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La panna cotta sarebbe stata inventata da una donna ungherese nelle Langhe. Ma la sua storia è più complicata",
+        "description": "Secondo una tradizione piemontese, la panna cotta sarebbe nata nelle Langhe grazie a una donna ungherese. Ma i ricettari raccontano una storia più articolata…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panna-cotta-storia-origini-piemonte/",
+        "pubDate": "2026-10-16T08:26:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un vignaiolo e una sommelier riaprono una drogheria del 1921. E vendono latte e uova quasi senza guadagnarci",
+        "description": "A Cividale del Friuli, Enrico Coser e Federica Comentale hanno riportato in vita Scubla 1921. Tra vini, spezie e prodotti ricercati, la scelta di vendere anche …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/scubla-1921-drogheria-cividale-friuli-riapertura/",
+        "pubDate": "2026-10-16T08:02:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Nasce Campania Wine & Olive Oil Academy",
         "description": "Mira a formare e sviluppare competenze nell'industria vitivinicola e olivicola\nL'articolo Nasce Campania Wine   Olive Oil Academy proviene da Winemag.it - David…",
         "link": "https://www.winemag.it/nasce-campania-wine-olive-oil-academy/",
@@ -19,15 +154,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "I migliori vini del Piemonte: non solo Barolo e Barbaresco. La vera sorpresa è l’Alta Langa",
-        "description": "Addio alla concentrazione a tutti i costi: la regione punta su freschezza e bevibilità. Tra grandi rossi, bianchi e bollicine ecco le 81 etichette premiate dal …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-piemonte/",
-        "pubDate": "2026-10-16T05:11:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Ballor compie 170 anni: Bonollo rilancia il marchio con tre prodotti",
@@ -55,135 +181,27 @@
         "image": "https://www.grazia.it/content/uploads/2026/10/coro-jewels.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Addio, Calvin Klein: Veronica Leoni non sarà più Direttore Creativo della linea Collection",
-        "description": "Calvin Klein e Veronica Leoni si preparano a prendere strade diverse. Il brand americano ha annunciato ufficialmente la conclusione della collaborazione con la …",
-        "link": "https://www.grazia.it/moda/news-moda/calvin-klein-collection-fine-direzione-creativa-veronica-leoni-1005315",
-        "pubDate": "2026-10-15T16:11:20+00:00",
-        "image": "https://www.grazia.it/content/uploads/2024/05/veronica-quira.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Katie Holmes e quegli stivali al ginocchio color cioccolato che dovremmo avere tutte quest’autunno",
-        "description": "L’autunno è ufficialmente iniziato e, con il primo freddo di stagione, torna la ricerca della calzatura perfetta, capace di mixare comfort e stile. A mostrarci …",
-        "link": "https://www.grazia.it/moda/get-the-look/katie-holmes-stivali-marroni-al-ginocchio-vivaia-look-jeans-pullover-stivale-basso-1005276",
-        "pubDate": "2026-10-15T15:51:06+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/katie-holmes-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“Dobbiamo fermare l’effetto domino”. Come le proteste dei tir rischiano di bloccare i supermercati",
-        "description": "Dal 16 al 20 ottobre è previsto un fermo dell'autotrasporto in alcune regione del Sud. Intanto, tra Puglia e Calabria, diversi distributori sono senza carburant…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/proteste-tir-sud-supermercati-consegne-cibo/",
-        "pubDate": "2026-10-15T15:31:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vanno giù i prezzi delle uve in tutta Italia: quali sono le denominazioni più colpite",
-        "description": "Trend ribassisti per molte Dop tra cui Nobile, Chianti Classico e Montepulciano d'Abruzzo. Gli analisti Bmti: \"Una vendemmia scarsa potrebbe moderare la pressio…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/prezzi-uve-vendemmia-2026-analisi-borsa-merci/",
-        "pubDate": "2026-10-15T15:24:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Qual è il miglior riso per fare il risotto? La classifica dei 12 prodotti artigianali che abbiamo assaggiato",
-        "description": "Dal Carnaroli classico di Riserva San Massimo a Meracinque e Cascina Oschiena: abbiamo confrontato 12 risi artigianali valutando profumi, consistenza e tenuta i…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/miglior-riso-carnaroli-artigianale-classifica-degustazione/",
-        "pubDate": "2026-10-15T13:50:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La frutta realistica a 4,99 alla Lidl è la rivoluzione proletaria della nostra epoca?",
-        "description": "Dal 22 ottobre nei supermercati saranno in vendita due versioni di frutta realistica a 4,99 euro ciascuna.\nL'articolo La frutta realistica a 4,99 alla Lidl è la…",
-        "link": "https://www.dissapore.com/notizie/la-frutta-realistica-a-499-alla-lidl-e-la-rivoluzione-proletaria-della-nostra-epoca/",
-        "pubDate": "2026-10-15T13:40:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/NeckCroissant-1920x1080-1.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Claudia Pandolfi, in rosso rubino sul red carpet della Festa del Cinema di Roma 2026 FOTO",
-        "description": "Claudia Pandolfi ha sfilato sul red carpet della Festa del Cinema di Roma 2026 con un look sui toni del rosso rubino.…",
-        "link": "https://www.stylosophy.it/articolo/claudia-pandolfi-in-rosso-rubino-sul-red-carpet-della-festa-del-cinema-di-roma-2026-foto/254024/",
-        "pubDate": "2026-10-15T13:00:00+00:00",
+        "title": "Autunno in Piemonte: 7 luoghi da scoprire tra borghi medievali, vigneti e sapori tipici",
+        "description": "Dalle colline delle Langhe ai borghi medievali, passando per castelli, foliage e degustazioni: itinerari ed esperienze per scoprire il Piemonte nella stagione d…",
+        "link": "https://www.stylosophy.it/articolo/autunno-in-piemonte-luoghi-da-scoprire-tra-borghi-medievali-vigneti-e-sapori-tipici/254035/",
+        "pubDate": "2026-10-16T14:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Dite addio alle “classiche” Samba: questo autunno l’iconico modello di adidas si è rifatto il look!",
-        "description": "Le nuove adidas Samba con zip trasformano la sneaker più iconica del momento in una versione apparentemente pronta per il trekking urbano. Ma tra zip, parafango…",
-        "link": "https://www.grazia.it/moda/news-moda/dite-addio-alle-classiche-samba-questo-autunno-liconico-modello-di-adidas-si-e-rifatto-il-look-1004777",
-        "pubDate": "2026-10-15T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/adidas-samba-zip-apertura.jpg",
+        "title": "Mariasole Pollio incanta tutti alla Festa del Cinema di Roma 2026 con un meraviglioso abito dallo stile goth-chic",
+        "description": "Mariasole Pollio ha sfilato sul magico tappeto rosso della Festa del Cinema di Roma 2026 con un meraviglioso abito lungo dal sapore goth-chic.…",
+        "link": "https://www.stylosophy.it/articolo/mariasole-pollio-incanta-tutti-alla-festa-del-cinema-di-roma-2026-con-un-meraviglioso-abito-dallo-stile-goth-chic/254031/",
+        "pubDate": "2026-10-16T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
-        "source": "Grazia"
+        "source": "Stylosophy"
       },
-      {
-        "title": "“Piantiamo i vitigni siciliani al Nord: il catarratto in Veneto darebbe grandi risultati”. La provocazione di Tonino Guzzo",
-        "description": "L'enologo siciliano scommette tutto sul catarratto: \"È lo chardonnay di Sicilia, ma per anni è stato coltivato nei posti sbagliati e sfruttato male. In Veneto r…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/scommessa-catarratto-tonino-guzzo/",
-        "pubDate": "2026-10-15T12:54:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pane delle streghe esiste davvero. E si fa in un borgo della Liguria",
-        "description": "A Triora, il borgo ligure dei processi alle streghe, si prepara un pane dalla storia secolare. Tra carestie, antichi forni e una leggenda inquietante sulla sega…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-triora-streghe-segale-cornuta-liguria/",
-        "pubDate": "2026-10-15T12:29:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cosa c’entrano i farmaci per dimagrire con il prezzo del formaggio? Lo racconta un nuovo podcast sul cibo",
-        "description": "Si chiama Contorni, lo scrive e conduce Eugenio Signoroni per Chora Media. Puntate brevi per raccontare economia, clima e politica attraverso storie di cibo, da…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/contorni-podcast-chora-media-eugenio-signoroni-cibo/",
-        "pubDate": "2026-10-15T12:26:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Menabòh, il brand che dà una nuova vita ai vestiti e ai ricordi",
-        "description": "Menabòh, atelier creativo italiano nasce da una domanda tanto semplice quanto rivoluzionaria: e se il vestito che stiamo cercando fosse proprio quello che abbia…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/menaboh-brand-redesign-vestiti-seconda-vita-1003497",
-        "pubDate": "2026-10-15T12:05:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/ok-apertura-1.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Flavescenza dorata, vigneti vibrazionali: Fondazione Mach ci crede",
-        "description": "Nuovi emettitori, batterie potenziate e un secondo vigneto vibrazionale in Valsugana. La Fondazione Edmund Mach amplia la sperimentazione sulla confusione sessu…",
-        "link": "https://www.winemag.it/flavescenza-dorata-vigneti-vibrazionali-fondazione-mach-ci-crede/",
-        "pubDate": "2026-10-15T12:04:33+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Flavescenza-dorata-la-Fondazione-Mach-rinnova-i-vigneti-vibrazionali-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Da Niko Romito a Mauro Uliassi, i piatti dei grandi cuochi italiani in una sola cena del Gambero Rosso: cosa si mangia",
-        "description": "Il 26 ottobre alla Nuvola di Roma, dieci assaggi firmati dai protagonisti delle Tre Forchette e delle grandi trattorie italiane, la pizza fritta di Franco Pepe …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cena-tre-forchette-gambero-rosso-2026-menu-chef/",
-        "pubDate": "2026-10-15T11:31:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "L’architettura si fa gioiello: la nuova collezione “Milano” firmata Co. Ro. Jewels",
         "description": "Co.Ro. Jewels, il marchio di gioielleria e design fondato dal duo creativo formato da Costanza De Cecco e Giulia Giannini, lancia &#8220;Milano&#8220;, una coll…",
@@ -345,27 +363,90 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Kim Kardashian illumina il Gran Premio di Singapore con un total pink Look",
-        "description": "Kim Kardashian, al Gran Premio di Singapore, sfoggia un meraviglioso total pink look.…",
-        "link": "https://www.stylosophy.it/articolo/kim-kardashian-illumina-il-gran-premio-di-singapore-con-un-total-pink-look/253978/",
-        "pubDate": "2026-10-11T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "5 Ombretti dark e glam per un make up occhi di Halloween davvero magnetico",
-        "description": "Tra finish metallizzati, glitter intensi e sfumature misteriose, scopri i 5 ombretti dark e glam che trasformeranno il tuo sguardo nella parte più magnetica del…",
-        "link": "https://www.stylosophy.it/articolo/ombretti-dark-e-glam-per-make-up-occhi-di-halloween/241005/",
-        "pubDate": "2026-10-11T11:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Riparte l’export di vino italiano fuori dall’Ue grazie agli Stati Uniti. Europa ancora in affanno",
+        "description": "Complessivamente i sette mesi restano negativi, ma sul mercato americano si registra un +17%. Effetto, secondo Uiv, della ricostituzione delle scorte, della buo…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-italiano-luglio-2026-stati-uniti/",
+        "pubDate": "2026-10-16T14:26:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Oiv vola in Cina e mette in standby il Cervim e il suo concorso",
+        "description": "L’Oiv ha celebrato in Cina una prima volta storica: dal 12 al 16 ottobre il suo Congresso mondiale della vigna e del vino si è svolto in Asia, a Yinchuan, nella…",
+        "link": "https://www.winemag.it/oiv-vola-in-cina-e-mette-in-standby-il-cervim-e-il-suo-concorso/",
+        "pubDate": "2026-10-16T13:38:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Che noia le giornate nazionali: quel menu infinito di celebrazioni che uccide il gusto stesse di celebrarle",
+        "description": "Il richiamo di Mattarella alle Camere apre una profonda riflessione sul significato delle troppe celebrazioni in calendario. Abbiamo davvero bisogno di una gior…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/mattarella-giornate-nazionali-cibo/",
+        "pubDate": "2026-10-16T13:31:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Castagne in Puglia: il raccolto crollato del 90%, cause e impatto",
+        "description": "Il raccolto di castagne in Puglia nel 2026 è crollato del 90% a causa di siccità prolungata e parassiti. Analisi dell'impatto economico e prospettive.…",
+        "link": "https://www.gustoblog.it/2026/10/16/castagne-puglia-raccolto-crollo-2026/",
+        "pubDate": "2026-10-16T13:04:24+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il pollo fritto di KFC ha lasciato Pepsi per la Coca Cola",
+        "description": "Un nuovo colpo per PepsiCo, che perde la partnership con KFC che durava da 40 anni, per ora però solo nel mercato statunitense.\nL'articolo Il pollo fritto di KF…",
+        "link": "https://www.dissapore.com/notizie/il-pollo-fritto-di-kfc-ha-lasciato-pepsi-per-la-coca-cola/",
+        "pubDate": "2026-10-16T12:08:14+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/fabbrica-pepsi.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Frode di vino milionaria scoperta in Francia: sequestri per 1,8 milioni di euro",
+        "description": "Centinaia di ettolitri di vino sono stati commercializzati in maniera fraudolenta sotto la denominazione Aop Châteauneuf-du-Pape. Complessivamente hanno generat…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/francia-frode-vino-milionaria-chateauneuf-du-pape/",
+        "pubDate": "2026-10-16T10:58:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Nel piccolo paese del Lazio c’è una super trattoria premiata con Tre Gamberi",
+        "description": "La cucina di Salvatore Tassa conquista ancora i Tre Gamberi con la sua Nú Trattoria Italiana dal 1960 ad Acuto. Lo chef sarà tra i protagonisti della cena delle…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/salvatore-tassa-nu-trattoria-acuto-cosa-si-mangia/",
+        "pubDate": "2026-10-16T10:44:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sull’Appennino c’è uno dei migliori ristoranti d’Italia. Il menu di 5 portate costa 80 euro",
+        "description": "A San Piero in Bagno, Gianluca Gorini e Sara Silvani hanno costruito un ristorante dove alta cucina, territorio e prezzi accessibili trovano un equilibrio raro.…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/dagorini-san-piero-bagno-menu-80-euro-gianluca-gorini/",
+        "pubDate": "2026-10-16T10:40:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questo hotel di Palermo la colazione si fa con uova blu e verdi. Arrivano da galline che ascoltano musica classica",
+        "description": "Palazzo Balsamo propone una colazione firmata dallo chef Giuseppe Costa, preparata con i prodotti della tenuta agricola dei proprietari…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/palazzo-balsamo-palermo-hotel-colazione-uova-colorate/",
+        "pubDate": "2026-10-16T08:58:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "100 anni del Consorzio Bardolino, il vino pop del Lago di Garda",
         "description": "Dal 9 all’11 ottobre Bardolino (Verona) si è animata per i festeggiamenti del centenario del Consorzio vini Bardolino con una serie di appuntamenti nella cittad…",
@@ -376,6 +457,42 @@
         "source": "Wine Mag"
       },
       {
+        "title": "In Ungheria c’è un drink che ha più di 50 nomi. Uno è dedicato alla suocera del casellante",
+        "description": "Si chiama fröccs ed è una miscela di vino e seltz diffusa in Ungheria dall'Ottocento. Ogni proporzione ha un nome, spesso curioso, e una leggenda ne attribuisce…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/froccs-drink-ungherese-vino-seltz-storia-varianti/",
+        "pubDate": "2026-10-16T08:35:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dove mangiare le migliori sarde a beccafico a Palermo: 5 trattorie e ristoranti da conoscere",
+        "description": "Nate, secondo la tradizione, come alternativa economica ai beccafichi delle tavole nobiliari, le sarde ripiene sono un classico della cucina siciliana. Cinque i…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/sarde-a-beccafico-palermo-dove-mangiare/",
+        "pubDate": "2026-10-16T08:35:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La panna cotta sarebbe stata inventata da una donna ungherese nelle Langhe. Ma la sua storia è più complicata",
+        "description": "Secondo una tradizione piemontese, la panna cotta sarebbe nata nelle Langhe grazie a una donna ungherese. Ma i ricettari raccontano una storia più articolata…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panna-cotta-storia-origini-piemonte/",
+        "pubDate": "2026-10-16T08:26:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un vignaiolo e una sommelier riaprono una drogheria del 1921. E vendono latte e uova quasi senza guadagnarci",
+        "description": "A Cividale del Friuli, Enrico Coser e Federica Comentale hanno riportato in vita Scubla 1921. Tra vini, spezie e prodotti ricercati, la scelta di vendere anche …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/scubla-1921-drogheria-cividale-friuli-riapertura/",
+        "pubDate": "2026-10-16T08:02:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Nasce Campania Wine & Olive Oil Academy",
         "description": "Mira a formare e sviluppare competenze nell'industria vitivinicola e olivicola\nL'articolo Nasce Campania Wine   Olive Oil Academy proviene da Winemag.it - David…",
         "link": "https://www.winemag.it/nasce-campania-wine-olive-oil-academy/",
@@ -383,15 +500,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "I migliori vini del Piemonte: non solo Barolo e Barbaresco. La vera sorpresa è l’Alta Langa",
-        "description": "Addio alla concentrazione a tutti i costi: la regione punta su freschezza e bevibilità. Tra grandi rossi, bianchi e bollicine ecco le 81 etichette premiate dal …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-piemonte/",
-        "pubDate": "2026-10-16T05:11:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Ballor compie 170 anni: Bonollo rilancia il marchio con tre prodotti",
@@ -412,33 +520,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Dobbiamo fermare l’effetto domino”. Come le proteste dei tir rischiano di bloccare i supermercati",
-        "description": "Dal 16 al 20 ottobre è previsto un fermo dell'autotrasporto in alcune regione del Sud. Intanto, tra Puglia e Calabria, diversi distributori sono senza carburant…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/proteste-tir-sud-supermercati-consegne-cibo/",
-        "pubDate": "2026-10-15T15:31:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vanno giù i prezzi delle uve in tutta Italia: quali sono le denominazioni più colpite",
-        "description": "Trend ribassisti per molte Dop tra cui Nobile, Chianti Classico e Montepulciano d'Abruzzo. Gli analisti Bmti: \"Una vendemmia scarsa potrebbe moderare la pressio…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/prezzi-uve-vendemmia-2026-analisi-borsa-merci/",
-        "pubDate": "2026-10-15T15:24:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Qual è il miglior riso per fare il risotto? La classifica dei 12 prodotti artigianali che abbiamo assaggiato",
-        "description": "Dal Carnaroli classico di Riserva San Massimo a Meracinque e Cascina Oschiena: abbiamo confrontato 12 risi artigianali valutando profumi, consistenza e tenuta i…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/miglior-riso-carnaroli-artigianale-classifica-degustazione/",
-        "pubDate": "2026-10-15T13:50:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La frutta realistica a 4,99 alla Lidl è la rivoluzione proletaria della nostra epoca?",
         "description": "Dal 22 ottobre nei supermercati saranno in vendita due versioni di frutta realistica a 4,99 euro ciascuna.\nL'articolo La frutta realistica a 4,99 alla Lidl è la…",
         "link": "https://www.dissapore.com/notizie/la-frutta-realistica-a-499-alla-lidl-e-la-rivoluzione-proletaria-della-nostra-epoca/",
@@ -446,33 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/09/NeckCroissant-1920x1080-1.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "“Piantiamo i vitigni siciliani al Nord: il catarratto in Veneto darebbe grandi risultati”. La provocazione di Tonino Guzzo",
-        "description": "L'enologo siciliano scommette tutto sul catarratto: \"È lo chardonnay di Sicilia, ma per anni è stato coltivato nei posti sbagliati e sfruttato male. In Veneto r…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/scommessa-catarratto-tonino-guzzo/",
-        "pubDate": "2026-10-15T12:54:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pane delle streghe esiste davvero. E si fa in un borgo della Liguria",
-        "description": "A Triora, il borgo ligure dei processi alle streghe, si prepara un pane dalla storia secolare. Tra carestie, antichi forni e una leggenda inquietante sulla sega…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-triora-streghe-segale-cornuta-liguria/",
-        "pubDate": "2026-10-15T12:29:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che cosa c’entrano i farmaci per dimagrire con il prezzo del formaggio? Lo racconta un nuovo podcast sul cibo",
-        "description": "Si chiama Contorni, lo scrive e conduce Eugenio Signoroni per Chora Media. Puntate brevi per raccontare economia, clima e politica attraverso storie di cibo, da…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/contorni-podcast-chora-media-eugenio-signoroni-cibo/",
-        "pubDate": "2026-10-15T12:26:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Flavescenza dorata, vigneti vibrazionali: Fondazione Mach ci crede",
@@ -484,15 +538,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Da Niko Romito a Mauro Uliassi, i piatti dei grandi cuochi italiani in una sola cena del Gambero Rosso: cosa si mangia",
-        "description": "Il 26 ottobre alla Nuvola di Roma, dieci assaggi firmati dai protagonisti delle Tre Forchette e delle grandi trattorie italiane, la pizza fritta di Franco Pepe …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cena-tre-forchette-gambero-rosso-2026-menu-chef/",
-        "pubDate": "2026-10-15T11:31:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Per una bravata i supermercati francesi stanno buttando via un sacco di cibo",
         "description": "Gli hacker hanno preso di mira i sistemi di refrigerazione di centinaia di supermercati francesi, portando frigoriferi e congelatori fino a 50 °C.\nL'articolo Pe…",
         "link": "https://www.dissapore.com/notizie/per-una-bravata-i-supermercati-francesi-stanno-buttando-via-un-sacco-di-cibo/",
@@ -500,51 +545,6 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Rafa Nadal fa il suo esordio nel mondo del vino e lancia la sua prima etichetta: El Tenista",
-        "description": "Il campione spagnolo del tennis inizia la collaborazione col gruppo Gil family estates. Presentato un vino biologico, in edizione limitata, realizzato nella reg…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/rafa-nadal-vino-el-tenista/",
-        "pubDate": "2026-10-15T10:44:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Sandrigo c’è una trattoria che pare una bottega d’altri tempi, dove si mangiano bigoli memorabili",
-        "description": "A Sandrigo, Luigi Zolin Cibo è molto più di una trattoria: una bottega conviviale dove l'accoglienza è un'arte, la cucina vicentina sa ancora di casa e i bigoli…",
-        "link": "https://www.dissapore.com/ristoranti/luigi-zolin-cibo-a-sandrigo-recensione/",
-        "pubDate": "2026-10-15T09:55:27+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/Luigi-Zolin-Cibo-13-scaled-e1789226741473.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Nelle cantine italiane ci sono ancora 41,2 milioni di ettolitri di vino invenduto. E una nuova vendemmia in arrivo",
-        "description": "Al 30 settembre 2026, i numeri del report Cantina Italia segnalano un incremento del 14% in un anno, con una forte presenza di vini Dop. Non ci sono miglioramen…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/cantina-italia-vino-giacenze-settembre-2026/",
-        "pubDate": "2026-10-15T09:02:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dieci e Lode, Castagner firma la grappa pensata per il tiramisù",
-        "description": "La Distilleria Castagner presenta Dieci e Lode, una grappa barricata studiata per accompagnare il tiramisù e richiamarne le principali componenti aromatiche. Il…",
-        "link": "https://www.winemag.it/dieci-e-lode-castagner-firma-la-grappa-pensata-per-il-tiramisu/",
-        "pubDate": "2026-10-15T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Tokaj e vino ungherese, Szepsy: «Vini rossi, perché no? Langhe? Un modello»",
-        "description": "Kadarka e Kékfrankos si fanno largo, sullo sfondo il Pinot nero. L'intervista esclusiva di Winemag nel quartier generale della cantina, a Mád.\nL'articolo Tokaj …",
-        "link": "https://www.winemag.it/tokaj-vino-ungherese-szepsy-vini-rossi-perche-no-langhe-modello/",
-        "pubDate": "2026-10-15T00:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Tokaj-e-vino-ungherese-Szepsy-Vini-rossi-perche-no.-Le-sfide-del-futuro-del-vino-dell-ungheria-5.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
