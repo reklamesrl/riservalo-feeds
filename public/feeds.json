@@ -1,7 +1,70 @@
 {
-  "generated": "2026-10-17T20:13:12.147899+00:00",
+  "generated": "2026-10-18T10:30:09.112975+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Appassimenti Aperti 2026, a Serrapetrona due domeniche alla scoperta della Vernaccia Nera",
+        "description": "Domenica 8 e domenica 15 novembre torna a Serrapetrona, in provincia di Macerata, «Appassimenti Aperti», la manifestazione dedicata alla Vernaccia Nera, vitigno…",
+        "link": "https://www.winemag.it/appassimenti-aperti-2026-a-serrapetrona-due-domeniche-alla-scoperta-della-vernaccia-nera/",
+        "pubDate": "2026-10-18T10:06:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Per un Halloween di Classe: ecco come decorare la casa evitando il kitsch",
+        "description": "Atmosfere autunnali, luci soffuse e dettagli eleganti: scopri come trasformare la tua casa in uno spazio suggestivo e raffinato, per celebrare Halloween con sti…",
+        "link": "https://www.stylosophy.it/articolo/per-un-halloween-di-classe-ecco-come-decorare-la-casa-evitando-il-kitsch/240253/",
+        "pubDate": "2026-10-18T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La Cina produce così tanto pollo che non sa più a chi venderlo: e ora il problema è nostro",
+        "description": "La Cina produce pollo a prezzi così bassi da aver saturato il mercato interno. Ora punta sull'export, conquistando quote di mercato in Europa e mettendo in diff…",
+        "link": "https://www.dissapore.com/spesa/la-cina-produce-cosi-tanto-pollo-che-non-sa-piu-a-chi-venderlo-e-ora-il-problema-e-nostro/",
+        "pubDate": "2026-10-18T08:56:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/carne-pollo.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nel ristorante dove mangiò Giorgio Napolitano si servono ancora i piatti degli anni ’80. E i primi costano 6 euro",
+        "description": "A Monte San Giacomo, nel Vallo di Diano, Antonio Calabrese continua a cucinare tortellini panna e prosciutto, fusilli alla boscaiola e altri classici degli anni…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rezzo-monte-san-giacomo-primi-6-euro-cucina-anni-80/",
+        "pubDate": "2026-10-18T07:21:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché i giovani si sentono in colpa per il delivery",
+        "description": "Negli Stati Uniti si parla di delivery guilt: il disagio che alcuni giovani provano dopo aver ordinato cibo a domicilio. Tra commissioni, spese ricorrenti e dif…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/delivery-guilt-gen-z-senso-colpa-cibo-domicilio/",
+        "pubDate": "2026-10-18T06:29:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I migliori vini della Toscana cambiano stile: oggi si punta sulle differenze non più sulla potenza",
+        "description": "Nella regione si rinuncia alla narrazione monolitica per fare spazio alle sfumature e alle espressioni più autentiche di ogni singolo pezzo di terra. Ecco i 104…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-toscana/",
+        "pubDate": "2026-10-18T05:10:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dolci estivi freddi senza gelatina: la mattonella allo yogurt e fragole che si prepara in 15 minuti",
+        "description": "Scopri come preparare dolci estivi freddi senza gelatina mantenendo cremosità e compattezza. Ricetta della mattonella allo yogurt e fragole con tecniche pratich…",
+        "link": "https://www.gustoblog.it/2026/10/18/dolci-estivi-freddi-senza-gelatina-mattonella/",
+        "pubDate": "2026-10-18T00:19:14+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Crema fredda al caffè in bottiglia: il trucco con la bottiglia agitata",
         "description": "Scopri come preparare la crema fredda al caffè in bottiglia in 5 minuti agitando energicamente. Ricetta pratica con panna, caffè e zucchero.…",
@@ -118,72 +181,18 @@
         "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
         "cat": "Food",
         "source": "Dissapore"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Profumi alle castagne: l’essenza gourmand che celebra l’autunno",
-        "description": "I migliori Profumi alla Castagna, fragranze gourmand e boisé che ridefiniscono i sentori sofisticati e avvolgenti della stagione autunnale.…",
-        "link": "https://www.stylosophy.it/articolo/profumi-alle-castagne-lessenza-gourmand-che-celebra-lautunno/239623/",
-        "pubDate": "2026-10-17T09:30:00+00:00",
+        "title": "Per un Halloween di Classe: ecco come decorare la casa evitando il kitsch",
+        "description": "Atmosfere autunnali, luci soffuse e dettagli eleganti: scopri come trasformare la tua casa in uno spazio suggestivo e raffinato, per celebrare Halloween con sti…",
+        "link": "https://www.stylosophy.it/articolo/per-un-halloween-di-classe-ecco-come-decorare-la-casa-evitando-il-kitsch/240253/",
+        "pubDate": "2026-10-18T09:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Prima era una balera, dopo novant’anni è un grande ristorante sul mare in una delle isole più gettonate dall’alta cucina",
-        "description": "Umberto a Mare: sotto la chiesa del Soccorso, a Forio d’Ischia, una storia di famiglia attraversa novant’anni di cambiamenti. Dalla balera affacciata sul mare a…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/umberto-a-mare-ischia-90-anni-balera-stella-michelin/",
-        "pubDate": "2026-10-17T08:11:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dove mangiare bene a Torino spendendo meno di 25 euro",
-        "description": "Dalle osterie storiche alle nuove aperture, dieci indirizzi torinesi dove trovare vitello tonnato, acciughe al verde, agnolotti e menu popolari…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/torino-piole-economiche-dove-mangiare-25-euro/",
-        "pubDate": "2026-10-17T08:00:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché le nonne versavano gocce d’olio in un piatto d’acqua? L’antico rito per scoprire il malocchio",
-        "description": "Un piatto d'acqua per scoprire il malocchio, una manciata di sale contro la sfortuna e una monetina per poterlo regalare. Tutte le credenze popolari legate all'…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/olio-malocchio-superstizioni-sfortuna-tradizioni/",
-        "pubDate": "2026-10-17T07:59:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Borse in velluto: 15 modelli che aggiungeranno un tocco di stile al vostro guardaroba autunnale",
-        "description": "È uno dei materiali autunnali per eccellenza e, puntuale anche quest&#8217;anno, il velluto torna protagonista del guardaroba. Lo fa in particolare su uno degli…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/borse-in-velluto-firmate-autunno-2026-1003112",
-        "pubDate": "2026-10-17T07:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/DESk-borse-in-velluto.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Dentro un campeggio sulle Dolomiti c’è un ristorante con 1.500 vini in cantina: è tra i migliori d’Italia",
-        "description": "Sul lago di Dobbiaco, Andreas Panzenberger ha aperto Hebbo nel campeggio di famiglia, dedicandolo al padre Herbert. La cucina alpina incontra influenze peruvian…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/hebbo-dobbiaco-ristorante-campeggio-cantina-1500-vini/",
-        "pubDate": "2026-10-17T05:59:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lo smash burger che oggi va di moda esisteva già 100 anni fa. Era il panino povero degli operai americani",
-        "description": "Prima di diventare una tendenza tra TikTok e hamburgerie contemporanee, la carne schiacciata sulla piastra era protagonista delle tavole calde americane. Da Whi…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/smash-burger-storia-origini-operai-americani-white-mana/",
-        "pubDate": "2026-10-17T05:31:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Trend alert: la gonna di pelle è il pezzo forte del guardaroba autunnale più sofisticato",
         "description": "Non c&#8217;è autunno degno di nota senza che lei faccia la sua comparsa sui nostri look più riusciti: parliamo della gonna di pelle (o similpelle), of course, …",
@@ -354,18 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Il coordinato di Ilary Blasi è quello che devi avere per l’autunno 2026 se vuoi essere chic e glamour!",
-        "description": "Ilary Blasi, per la puntata di ieri sera del Grande Fratello Vip, ha indossato un coordinato top e pantaloni chic e glamour.…",
-        "link": "https://www.stylosophy.it/articolo/il-coordinato-di-ilary-blasi-e-quello-che-devi-avere-per-lautunno-2026-se-vuoi-essere-chic-e-glamour/253999/",
-        "pubDate": "2026-10-13T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Appassimenti Aperti 2026, a Serrapetrona due domeniche alla scoperta della Vernaccia Nera",
+        "description": "Domenica 8 e domenica 15 novembre torna a Serrapetrona, in provincia di Macerata, «Appassimenti Aperti», la manifestazione dedicata alla Vernaccia Nera, vitigno…",
+        "link": "https://www.winemag.it/appassimenti-aperti-2026-a-serrapetrona-due-domeniche-alla-scoperta-della-vernaccia-nera/",
+        "pubDate": "2026-10-18T10:06:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La Cina produce così tanto pollo che non sa più a chi venderlo: e ora il problema è nostro",
+        "description": "La Cina produce pollo a prezzi così bassi da aver saturato il mercato interno. Ora punta sull'export, conquistando quote di mercato in Europa e mettendo in diff…",
+        "link": "https://www.dissapore.com/spesa/la-cina-produce-cosi-tanto-pollo-che-non-sa-piu-a-chi-venderlo-e-ora-il-problema-e-nostro/",
+        "pubDate": "2026-10-18T08:56:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/carne-pollo.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nel ristorante dove mangiò Giorgio Napolitano si servono ancora i piatti degli anni ’80. E i primi costano 6 euro",
+        "description": "A Monte San Giacomo, nel Vallo di Diano, Antonio Calabrese continua a cucinare tortellini panna e prosciutto, fusilli alla boscaiola e altri classici degli anni…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rezzo-monte-san-giacomo-primi-6-euro-cucina-anni-80/",
+        "pubDate": "2026-10-18T07:21:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché i giovani si sentono in colpa per il delivery",
+        "description": "Negli Stati Uniti si parla di delivery guilt: il disagio che alcuni giovani provano dopo aver ordinato cibo a domicilio. Tra commissioni, spese ricorrenti e dif…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/delivery-guilt-gen-z-senso-colpa-cibo-domicilio/",
+        "pubDate": "2026-10-18T06:29:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I migliori vini della Toscana cambiano stile: oggi si punta sulle differenze non più sulla potenza",
+        "description": "Nella regione si rinuncia alla narrazione monolitica per fare spazio alle sfumature e alle espressioni più autentiche di ogni singolo pezzo di terra. Ecco i 104…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-toscana/",
+        "pubDate": "2026-10-18T05:10:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dolci estivi freddi senza gelatina: la mattonella allo yogurt e fragole che si prepara in 15 minuti",
+        "description": "Scopri come preparare dolci estivi freddi senza gelatina mantenendo cremosità e compattezza. Ricetta della mattonella allo yogurt e fragole con tecniche pratich…",
+        "link": "https://www.gustoblog.it/2026/10/18/dolci-estivi-freddi-senza-gelatina-mattonella/",
+        "pubDate": "2026-10-18T00:19:14+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Crema fredda al caffè in bottiglia: il trucco con la bottiglia agitata",
         "description": "Scopri come preparare la crema fredda al caffè in bottiglia in 5 minuti agitando energicamente. Ricetta pratica con panna, caffè e zucchero.…",
@@ -488,60 +542,6 @@
         "description": "Un piatto d'acqua per scoprire il malocchio, una manciata di sale contro la sfortuna e una monetina per poterlo regalare. Tutte le credenze popolari legate all'…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/olio-malocchio-superstizioni-sfortuna-tradizioni/",
         "pubDate": "2026-10-17T07:59:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dentro un campeggio sulle Dolomiti c’è un ristorante con 1.500 vini in cantina: è tra i migliori d’Italia",
-        "description": "Sul lago di Dobbiaco, Andreas Panzenberger ha aperto Hebbo nel campeggio di famiglia, dedicandolo al padre Herbert. La cucina alpina incontra influenze peruvian…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/hebbo-dobbiaco-ristorante-campeggio-cantina-1500-vini/",
-        "pubDate": "2026-10-17T05:59:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Lo smash burger che oggi va di moda esisteva già 100 anni fa. Era il panino povero degli operai americani",
-        "description": "Prima di diventare una tendenza tra TikTok e hamburgerie contemporanee, la carne schiacciata sulla piastra era protagonista delle tavole calde americane. Da Whi…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/smash-burger-storia-origini-operai-americani-white-mana/",
-        "pubDate": "2026-10-17T05:31:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Recaredo, dal 2025 tutti i Corpinnat fermentano in bottiglia con mosto dei propri vigneti",
-        "description": "Recaredo completa il percorso avviato nel 2013: dal millesimo 2025, tutti e sei i Corpinnat della gamma utilizzano mosto proveniente dagli stessi vigneti delle …",
-        "link": "https://www.winemag.it/recaredo-dal-2025-tutti-i-corpinnat-fermentano-in-bottiglia-con-mosto-dei-propri-vigneti/",
-        "pubDate": "2026-10-17T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Latte materno coltivato in laboratorio: la startup francese Numi che riceve 3,7 milioni di finanziamento",
-        "description": "La startup parigina Numi sviluppa latte materno coltivato in laboratorio da cellule mammarie umane con finanziamento di 3,7 milioni di euro. Tecnologia, sfide e…",
-        "link": "https://www.gustoblog.it/2026/10/16/latte-materno-coltivato-laboratorio-numi/",
-        "pubDate": "2026-10-16T21:18:13+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "I 50 migliori birrifici artigianali d’Italia del 2026",
-        "description": "In rigoroso ordine alfabetico, i 50 migliori birrifici artigianali d'Italia secondo Dissapore. Una selezione basata su costanza produttiva, identità, sostenibil…",
-        "link": "https://www.dissapore.com/bere/i-50-migliori-birrifici-artigianali-ditalia-del-2026/",
-        "pubDate": "2026-10-16T17:48:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Altavia.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Riparte l’export di vino italiano fuori dall’Ue grazie agli Stati Uniti. Europa ancora in affanno",
-        "description": "Complessivamente i sette mesi restano negativi, ma sul mercato americano si registra un +17%. Effetto, secondo Uiv, della ricostituzione delle scorte, della buo…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/export-vino-italiano-luglio-2026-stati-uniti/",
-        "pubDate": "2026-10-16T14:26:08+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
