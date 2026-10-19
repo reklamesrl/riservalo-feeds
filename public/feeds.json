@@ -1,7 +1,133 @@
 {
-  "generated": "2026-10-18T20:11:00.636284+00:00",
+  "generated": "2026-10-19T12:20:14.475765+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La statua di Paul Bocuse trascinata in strada durante gli scontri a Lione. Il figlio: “Sono disgustato”",
+        "description": "Durante gli scontri del 17 ottobre a Lione, la statua di Paul Bocuse è stata trascinata in strada e danneggiata. Il figlio Jérôme denuncia l'accaduto in una let…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/statua-paul-bocuse-danneggiata-scontri-lione-figlio/",
+        "pubDate": "2026-10-19T12:19:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli spagnoli non cenano più così tardi. E i ristoranti ringraziano",
+        "description": "In dieci anni è quasi raddoppiata la quota di chi prenota al ristorante prima delle 21. Tra pandemia, turismo e nuove esigenze dei locali, cambia uno dei ritual…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spagna-cena-prima-orari-ristoranti/",
+        "pubDate": "2026-10-19T11:11:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Portogallo c’è un dolce fatto con una sfoglia sottile come carta velina. Le donne del paese la tirano a mano",
+        "description": "Il Pastel de Tentúgal nasce nei conventi portoghesi. Il suo segreto è una sfoglia tirata a mano fino a diventare quasi trasparente, ripiena di crema di tuorli e…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastel-de-tentugal-dolce-portoghese-sfoglia-sottile/",
+        "pubDate": "2026-10-19T11:10:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Puglia c’è un dolce ripieno di ricotta che si mangia da oltre 200 anni. Fuori da Bitonto lo conoscono in pochi",
+        "description": "Il bocconotto bitontino è un dolce di pasta frolla ripieno di ricotta e profumato al limone. La sua storia passa per un monastero e per le pasticcerie che ancor…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bocconotto-bitontino-dolce-ricotta-storia-pasticcerie/",
+        "pubDate": "2026-10-19T09:10:36+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Slow Wine 2027 premia i migliori vini italiani, ma tra le righe racconta una crisi",
+        "description": "168 nuove cantine, 132 uscite e troppe bottiglie invendute: la guida Slow Wine 2027 fotografa un settore in difficoltà, tra consumi in calo, magazzini pieni e v…",
+        "link": "https://www.dissapore.com/bere/slow-wine-2027-premia-i-migliori-vini-italiani-ma-tra-le-righe-racconta-una-crisi/",
+        "pubDate": "2026-10-19T09:08:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/guida-slow-wine-2027-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Riuscirà Iginio Massari a rilanciare il panettone in ottobre, con la limited edition di Halloween?",
+        "description": "Iginio Massari ci riprova con il panettone d'ottobre, ma la verità è che gli Italiani non si spostano dal Natale\nL'articolo Riuscirà Iginio Massari a rilanciare…",
+        "link": "https://www.dissapore.com/notizie/riuscira-iginio-massari-a-rilanciare-il-panettone-in-ottobre-con-la-limited-edition-di-halloween/",
+        "pubDate": "2026-10-19T08:58:50+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/PIZZERIA-LA-RUOTA-TAGLIATO-scaled.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Infermentum, arriva Profumo d’Agrumi: il panettone senza uvetta e canditi",
+        "description": "Infermentum amplia la collezione dei lievitati natalizi con Profumo d’Agrumi, un panettone da 1 kg, in vendita a 40 euro dal 19 ottobre all’Epifania. La novità …",
+        "link": "https://www.winemag.it/infermentum-arriva-profumo-dagrumi-il-panettone-senza-uvetta-e-canditi/",
+        "pubDate": "2026-10-19T08:40:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "In Valle d’Aosta il pane si faceva una volta l’anno. E c’era persino un forno del diavolo",
+        "description": "Tre quintali di pane per sfamare una famiglia, lievito custodito per mesi e pagnotte difese dai topi con ombrelli di lamiera. Nei villaggi valdostani la panific…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-nero-valle-aosta-forno-diavolo-tradizioni/",
+        "pubDate": "2026-10-19T07:46:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come erano fatti i primi seggioloni? Sedie alte e strettissime, senza vassoi né poggiapiedi",
+        "description": "I primi seggioloni erano sedie di legno alte e strette, spesso senza vassoi né poggiapiedi. Dal Seicento alla Tripp Trapp di Peter Opsvik, fino all'ANTILOP di I…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-seggiolone-bambini-tripp-trapp/",
+        "pubDate": "2026-10-19T07:08:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La catena finlandese di hamburger con oltre 300 ristoranti arriva in Italia",
+        "description": "Hesburger debutta in Italia il 23 ottobre con un ristorante a Matera. Dietro l'operazione c'è un'imprenditrice lucana che vive in Finlandia da trent'anni. Inves…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/hesburger-italia-primo-ristorante-matera/",
+        "pubDate": "2026-10-19T06:27:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le farine di insetti dovevano rivoluzionare l’alimentazione. Perché le aziende sono in crisi?",
+        "description": "Dopo anni di investimenti miliardari, l'industria delle proteine da insetti affronta fallimenti, tagli al personale e procedure di risanamento. Il problema prin…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/crisi-farine-insetti-aziende-fallimenti-agronutris/",
+        "pubDate": "2026-10-19T06:13:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Sicilia c’è un biscotto che si cuoce tre volte e si inzuppa nel vino. Si mangia a San Martino",
+        "description": "In Sicilia i biscotti di San Martino si preparano in tre versioni: secchi e cotti più volte, morbidi con ricotta oppure decorati con glassa e canditi. La loro s…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biscotti-san-martino-siciliani-tricotti-vino-moscato/",
+        "pubDate": "2026-10-19T06:07:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gin Tonic Day, Classy Cocktails presenta due nuove referenze: una alcolica e una analcolica",
+        "description": "Il 19 ottobre si celebra il Gin Tonic Day. Per l’occasione, Classy Cocktails, brand di cocktail ready-to-drink fondato dal mixologist Patrick Pistolesi, present…",
+        "link": "https://www.winemag.it/gin-tonic-day-classy-cocktails-presenta-due-nuove-referenze-una-alcolica-e-una-analcolica/",
+        "pubDate": "2026-10-19T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Lo yogurt filante che conquista TikTok: cos’è davvero e come prepararlo a casa in pochi minuti",
+        "description": "Scopri la ricetta dello stretchy yogurt virale su TikTok: tre ingredienti semplici per ottenere quella consistenza filante e elastica che sta conquistando i soc…",
+        "link": "https://www.gustoblog.it/2026/10/19/stretchy-yogurt-ricetta-preparazione/",
+        "pubDate": "2026-10-19T00:05:50+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "ASI Best Sommelier of the World, Nord Europa e Paesi Baltici dettano il passo",
         "description": "L&#8217;ASI Best Sommelier of the World 2026 parla norvegese. A Lisbona, dopo una settimana di prove, Nikolai Haram Svorte ha conquistato il titolo dell’Associa…",
@@ -30,15 +156,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il caffè che costa fino a 1.000 dollari al chilo si produce con gli escrementi di un animale. E nasconde una storia di sfruttamento",
-        "description": "Il kopi luwak nasce dai chicchi di caffè ingeriti ed espulsi dagli zibetti. Può raggiungere prezzi altissimi, ma la domanda internazionale ha favorito allevamen…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/kopi-luwak-caffe-zibetto-escrementi-prezzo-sfruttamento/",
-        "pubDate": "2026-10-18T13:35:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Deva Cassel, una vera diva glamour alla Festa del Cinema di Roma 2026 con l’abito tempestato di paillettes",
         "description": "Deva Cassel alla Festa del Cinema di Roma 2026 ha sfoggiato un meraviglioso abito lungo nero tempestato di paillettes.…",
         "link": "https://www.stylosophy.it/articolo/deva-cassel-una-vera-diva-glamour-alla-festa-del-cinema-di-roma-2026-con-labito-tempestato-di-paillettes/254050/",
@@ -57,15 +174,6 @@
         "source": "Dissapore"
       },
       {
-        "title": "“Dovevo andare a lavorare a San Diego”. Invece apre un forno a Potenza con due amici e scommette sulla sua città",
-        "description": "Stefano De Angelis rinuncia a un lavoro a San Diego e apre Panis con due amici a Potenza. Pane a lievitazione naturale, farine locali e un laboratorio che non l…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/panis-forno-potenza-tre-amici-california/",
-        "pubDate": "2026-10-18T11:28:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Festa del Cinema di Roma 2026: sul red carpet della quinta serata brillano Deva Cassel e Jenna Ortega",
         "description": "La quinta serata sul red carpet della Festa del Cinema di Roma ci porta nuove suggestioni da scoprire in fatto di look. In una manifestazione spesso divisa tra …",
         "link": "https://www.grazia.it/moda/celebrity-style/festa-del-cinema-di-roma-2026-sul-red-carpet-della-quinta-serata-brillano-deva-cassel-e-jenna-ortega-1006045",
@@ -73,114 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/10/DESK-Roma-day-5.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Appassimenti Aperti 2026, a Serrapetrona due domeniche alla scoperta della Vernaccia Nera",
-        "description": "Domenica 8 e domenica 15 novembre torna a Serrapetrona, in provincia di Macerata, «Appassimenti Aperti», la manifestazione dedicata alla Vernaccia Nera, vitigno…",
-        "link": "https://www.winemag.it/appassimenti-aperti-2026-a-serrapetrona-due-domeniche-alla-scoperta-della-vernaccia-nera/",
-        "pubDate": "2026-10-18T10:06:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Addio temperature “hot”: finalmente è l’ora dei pullover! La nostra “knitwear-list” è pronta e tutta da indossare",
-        "description": "Sembra proprio che l&#8217;autunno sia arrivato, e quando le temperature iniziano a scendere, c&#8217;è un piccolo piacere a cui è difficile rinunciare: avvolge…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pullover-maglie-donna-modelli-inverno-2026-1004719",
-        "pubDate": "2026-10-18T09:55:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_pullover.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Che cos’è la colva, il dolce dei morti pugliese che si prepara per tre giorni e si mangia tra falò e zucche illuminate",
-        "description": "Grano tenero bollito, melagrana, noci e vincotto: tra il Foggiano, Bisceglie e i Monti Dauni il dolce dei morti si prepara la sera tra Ognissanti e il 2 novembr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/colva-dolce-morti-puglia-grano-falo-orsara/",
-        "pubDate": "2026-10-18T09:11:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Academy Museum Gala 2026: tutti i look delle star sul red carpet",
-        "description": "A Los Angeles si sono accese le luci su uno dei red carpet più interessanti dell&#8217;anno, quello dell&#8217;Academy Museum Gala. Arrivato alla sua sesta ediz…",
-        "link": "https://www.grazia.it/moda/celebrity-style/academy-museum-gala-2026-look-red-carpet-1005980",
-        "pubDate": "2026-10-18T09:11:29+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-academy-museum-gala.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Per un Halloween di Classe: ecco come decorare la casa evitando il kitsch",
-        "description": "Atmosfere autunnali, luci soffuse e dettagli eleganti: scopri come trasformare la tua casa in uno spazio suggestivo e raffinato, per celebrare Halloween con sti…",
-        "link": "https://www.stylosophy.it/articolo/per-un-halloween-di-classe-ecco-come-decorare-la-casa-evitando-il-kitsch/240253/",
-        "pubDate": "2026-10-18T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "La Cina produce così tanto pollo che non sa più a chi venderlo: e ora il problema è nostro",
-        "description": "La Cina produce pollo a prezzi così bassi da aver saturato il mercato interno. Ora punta sull'export, conquistando quote di mercato in Europa e mettendo in diff…",
-        "link": "https://www.dissapore.com/spesa/la-cina-produce-cosi-tanto-pollo-che-non-sa-piu-a-chi-venderlo-e-ora-il-problema-e-nostro/",
-        "pubDate": "2026-10-18T08:56:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/07/carne-pollo.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Roma tre amici hanno aperto un’edicola che vende birre artigianali. Sperano così di salvare i giornali di carta",
-        "description": "Nel quartiere Trieste, tre amici hanno rilevato un'edicola e affiancato a quotidiani e riviste una selezione di birre artigianali e vini…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/edicola-piovra-roma-birra-artigianale-giornali/",
-        "pubDate": "2026-10-18T08:04:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel ristorante dove mangiò Giorgio Napolitano si servono ancora i piatti degli anni ’80. E i primi costano 6 euro",
-        "description": "A Monte San Giacomo, nel Vallo di Diano, Antonio Calabrese continua a cucinare tortellini panna e prosciutto, fusilli alla boscaiola e altri classici degli anni…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rezzo-monte-san-giacomo-primi-6-euro-cucina-anni-80/",
-        "pubDate": "2026-10-18T07:21:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché i giovani si sentono in colpa per il delivery",
-        "description": "Negli Stati Uniti si parla di delivery guilt: il disagio che alcuni giovani provano dopo aver ordinato cibo a domicilio. Tra commissioni, spese ricorrenti e dif…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/delivery-guilt-gen-z-senso-colpa-cibo-domicilio/",
-        "pubDate": "2026-10-18T06:29:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I migliori vini della Toscana cambiano stile: oggi si punta sulle differenze non più sulla potenza",
-        "description": "Nella regione si rinuncia alla narrazione monolitica per fare spazio alle sfumature e alle espressioni più autentiche di ogni singolo pezzo di terra. Ecco i 104…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-toscana/",
-        "pubDate": "2026-10-18T05:10:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dolci estivi freddi senza gelatina: la mattonella allo yogurt e fragole che si prepara in 15 minuti",
-        "description": "Scopri come preparare dolci estivi freddi senza gelatina mantenendo cremosità e compattezza. Ricetta della mattonella allo yogurt e fragole con tecniche pratich…",
-        "link": "https://www.gustoblog.it/2026/10/18/dolci-estivi-freddi-senza-gelatina-mattonella/",
-        "pubDate": "2026-10-18T00:19:14+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Crema fredda al caffè in bottiglia: il trucco con la bottiglia agitata",
-        "description": "Scopri come preparare la crema fredda al caffè in bottiglia in 5 minuti agitando energicamente. Ricetta pratica con panna, caffè e zucchero.…",
-        "link": "https://www.gustoblog.it/2026/10/17/crema-fredda-caffe-bottiglia-ricetta/",
-        "pubDate": "2026-10-17T17:29:43+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ],
     "moda": [
@@ -367,6 +367,132 @@
     ],
     "lifestyle": [
       {
+        "title": "La statua di Paul Bocuse trascinata in strada durante gli scontri a Lione. Il figlio: “Sono disgustato”",
+        "description": "Durante gli scontri del 17 ottobre a Lione, la statua di Paul Bocuse è stata trascinata in strada e danneggiata. Il figlio Jérôme denuncia l'accaduto in una let…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/statua-paul-bocuse-danneggiata-scontri-lione-figlio/",
+        "pubDate": "2026-10-19T12:19:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gli spagnoli non cenano più così tardi. E i ristoranti ringraziano",
+        "description": "In dieci anni è quasi raddoppiata la quota di chi prenota al ristorante prima delle 21. Tra pandemia, turismo e nuove esigenze dei locali, cambia uno dei ritual…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spagna-cena-prima-orari-ristoranti/",
+        "pubDate": "2026-10-19T11:11:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Portogallo c’è un dolce fatto con una sfoglia sottile come carta velina. Le donne del paese la tirano a mano",
+        "description": "Il Pastel de Tentúgal nasce nei conventi portoghesi. Il suo segreto è una sfoglia tirata a mano fino a diventare quasi trasparente, ripiena di crema di tuorli e…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastel-de-tentugal-dolce-portoghese-sfoglia-sottile/",
+        "pubDate": "2026-10-19T11:10:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Puglia c’è un dolce ripieno di ricotta che si mangia da oltre 200 anni. Fuori da Bitonto lo conoscono in pochi",
+        "description": "Il bocconotto bitontino è un dolce di pasta frolla ripieno di ricotta e profumato al limone. La sua storia passa per un monastero e per le pasticcerie che ancor…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bocconotto-bitontino-dolce-ricotta-storia-pasticcerie/",
+        "pubDate": "2026-10-19T09:10:36+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Slow Wine 2027 premia i migliori vini italiani, ma tra le righe racconta una crisi",
+        "description": "168 nuove cantine, 132 uscite e troppe bottiglie invendute: la guida Slow Wine 2027 fotografa un settore in difficoltà, tra consumi in calo, magazzini pieni e v…",
+        "link": "https://www.dissapore.com/bere/slow-wine-2027-premia-i-migliori-vini-italiani-ma-tra-le-righe-racconta-una-crisi/",
+        "pubDate": "2026-10-19T09:08:55+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/guida-slow-wine-2027-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Riuscirà Iginio Massari a rilanciare il panettone in ottobre, con la limited edition di Halloween?",
+        "description": "Iginio Massari ci riprova con il panettone d'ottobre, ma la verità è che gli Italiani non si spostano dal Natale\nL'articolo Riuscirà Iginio Massari a rilanciare…",
+        "link": "https://www.dissapore.com/notizie/riuscira-iginio-massari-a-rilanciare-il-panettone-in-ottobre-con-la-limited-edition-di-halloween/",
+        "pubDate": "2026-10-19T08:58:50+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/PIZZERIA-LA-RUOTA-TAGLIATO-scaled.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Infermentum, arriva Profumo d’Agrumi: il panettone senza uvetta e canditi",
+        "description": "Infermentum amplia la collezione dei lievitati natalizi con Profumo d’Agrumi, un panettone da 1 kg, in vendita a 40 euro dal 19 ottobre all’Epifania. La novità …",
+        "link": "https://www.winemag.it/infermentum-arriva-profumo-dagrumi-il-panettone-senza-uvetta-e-canditi/",
+        "pubDate": "2026-10-19T08:40:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "In Valle d’Aosta il pane si faceva una volta l’anno. E c’era persino un forno del diavolo",
+        "description": "Tre quintali di pane per sfamare una famiglia, lievito custodito per mesi e pagnotte difese dai topi con ombrelli di lamiera. Nei villaggi valdostani la panific…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-nero-valle-aosta-forno-diavolo-tradizioni/",
+        "pubDate": "2026-10-19T07:46:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come erano fatti i primi seggioloni? Sedie alte e strettissime, senza vassoi né poggiapiedi",
+        "description": "I primi seggioloni erano sedie di legno alte e strette, spesso senza vassoi né poggiapiedi. Dal Seicento alla Tripp Trapp di Peter Opsvik, fino all'ANTILOP di I…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-seggiolone-bambini-tripp-trapp/",
+        "pubDate": "2026-10-19T07:08:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La catena finlandese di hamburger con oltre 300 ristoranti arriva in Italia",
+        "description": "Hesburger debutta in Italia il 23 ottobre con un ristorante a Matera. Dietro l'operazione c'è un'imprenditrice lucana che vive in Finlandia da trent'anni. Inves…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/hesburger-italia-primo-ristorante-matera/",
+        "pubDate": "2026-10-19T06:27:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Le farine di insetti dovevano rivoluzionare l’alimentazione. Perché le aziende sono in crisi?",
+        "description": "Dopo anni di investimenti miliardari, l'industria delle proteine da insetti affronta fallimenti, tagli al personale e procedure di risanamento. Il problema prin…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/crisi-farine-insetti-aziende-fallimenti-agronutris/",
+        "pubDate": "2026-10-19T06:13:28+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Sicilia c’è un biscotto che si cuoce tre volte e si inzuppa nel vino. Si mangia a San Martino",
+        "description": "In Sicilia i biscotti di San Martino si preparano in tre versioni: secchi e cotti più volte, morbidi con ricotta oppure decorati con glassa e canditi. La loro s…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biscotti-san-martino-siciliani-tricotti-vino-moscato/",
+        "pubDate": "2026-10-19T06:07:06+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gin Tonic Day, Classy Cocktails presenta due nuove referenze: una alcolica e una analcolica",
+        "description": "Il 19 ottobre si celebra il Gin Tonic Day. Per l’occasione, Classy Cocktails, brand di cocktail ready-to-drink fondato dal mixologist Patrick Pistolesi, present…",
+        "link": "https://www.winemag.it/gin-tonic-day-classy-cocktails-presenta-due-nuove-referenze-una-alcolica-e-una-analcolica/",
+        "pubDate": "2026-10-19T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Lo yogurt filante che conquista TikTok: cos’è davvero e come prepararlo a casa in pochi minuti",
+        "description": "Scopri la ricetta dello stretchy yogurt virale su TikTok: tre ingredienti semplici per ottenere quella consistenza filante e elastica che sta conquistando i soc…",
+        "link": "https://www.gustoblog.it/2026/10/19/stretchy-yogurt-ricetta-preparazione/",
+        "pubDate": "2026-10-19T00:05:50+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "ASI Best Sommelier of the World, Nord Europa e Paesi Baltici dettano il passo",
         "description": "L&#8217;ASI Best Sommelier of the World 2026 parla norvegese. A Lisbona, dopo una settimana di prove, Nikolai Haram Svorte ha conquistato il titolo dell’Associa…",
         "link": "https://www.winemag.it/asi-best-sommelier-of-the-world-nord-europa-e-paesi-baltici-dettano-il-passo/",
@@ -394,15 +520,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Il caffè che costa fino a 1.000 dollari al chilo si produce con gli escrementi di un animale. E nasconde una storia di sfruttamento",
-        "description": "Il kopi luwak nasce dai chicchi di caffè ingeriti ed espulsi dagli zibetti. Può raggiungere prezzi altissimi, ma la domanda internazionale ha favorito allevamen…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/kopi-luwak-caffe-zibetto-escrementi-prezzo-sfruttamento/",
-        "pubDate": "2026-10-18T13:35:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Metalli pesanti nel cibo per l’infanzia: lo stato del Texas fa causa a Nestlé",
         "description": "Nuovi guai per il colosso alimentare: nei prodotti a marchio Gerber sono stati rilevati arsenico, piombo e cadmio in concentrazioni fuori legge.\nL'articolo Meta…",
         "link": "https://www.dissapore.com/notizie/metalli-pesanti-nel-cibo-per-linfanzia-lo-stato-del-texas-fa-causa-a-nestle/",
@@ -410,15 +527,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/gerber-cibo-infanzia-scaffale-omogeneizzati-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "“Dovevo andare a lavorare a San Diego”. Invece apre un forno a Potenza con due amici e scommette sulla sua città",
-        "description": "Stefano De Angelis rinuncia a un lavoro a San Diego e apre Panis con due amici a Potenza. Pane a lievitazione naturale, farine locali e un laboratorio che non l…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/panis-forno-potenza-tre-amici-california/",
-        "pubDate": "2026-10-18T11:28:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Appassimenti Aperti 2026, a Serrapetrona due domeniche alla scoperta della Vernaccia Nera",
@@ -430,15 +538,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Che cos’è la colva, il dolce dei morti pugliese che si prepara per tre giorni e si mangia tra falò e zucche illuminate",
-        "description": "Grano tenero bollito, melagrana, noci e vincotto: tra il Foggiano, Bisceglie e i Monti Dauni il dolce dei morti si prepara la sera tra Ognissanti e il 2 novembr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/colva-dolce-morti-puglia-grano-falo-orsara/",
-        "pubDate": "2026-10-18T09:11:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "La Cina produce così tanto pollo che non sa più a chi venderlo: e ora il problema è nostro",
         "description": "La Cina produce pollo a prezzi così bassi da aver saturato il mercato interno. Ora punta sull'export, conquistando quote di mercato in Europa e mettendo in diff…",
         "link": "https://www.dissapore.com/spesa/la-cina-produce-cosi-tanto-pollo-che-non-sa-piu-a-chi-venderlo-e-ora-il-problema-e-nostro/",
@@ -446,105 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2025/07/carne-pollo.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "A Roma tre amici hanno aperto un’edicola che vende birre artigianali. Sperano così di salvare i giornali di carta",
-        "description": "Nel quartiere Trieste, tre amici hanno rilevato un'edicola e affiancato a quotidiani e riviste una selezione di birre artigianali e vini…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/edicola-piovra-roma-birra-artigianale-giornali/",
-        "pubDate": "2026-10-18T08:04:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel ristorante dove mangiò Giorgio Napolitano si servono ancora i piatti degli anni ’80. E i primi costano 6 euro",
-        "description": "A Monte San Giacomo, nel Vallo di Diano, Antonio Calabrese continua a cucinare tortellini panna e prosciutto, fusilli alla boscaiola e altri classici degli anni…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rezzo-monte-san-giacomo-primi-6-euro-cucina-anni-80/",
-        "pubDate": "2026-10-18T07:21:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché i giovani si sentono in colpa per il delivery",
-        "description": "Negli Stati Uniti si parla di delivery guilt: il disagio che alcuni giovani provano dopo aver ordinato cibo a domicilio. Tra commissioni, spese ricorrenti e dif…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/delivery-guilt-gen-z-senso-colpa-cibo-domicilio/",
-        "pubDate": "2026-10-18T06:29:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I migliori vini della Toscana cambiano stile: oggi si punta sulle differenze non più sulla potenza",
-        "description": "Nella regione si rinuncia alla narrazione monolitica per fare spazio alle sfumature e alle espressioni più autentiche di ogni singolo pezzo di terra. Ecco i 104…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-toscana/",
-        "pubDate": "2026-10-18T05:10:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dolci estivi freddi senza gelatina: la mattonella allo yogurt e fragole che si prepara in 15 minuti",
-        "description": "Scopri come preparare dolci estivi freddi senza gelatina mantenendo cremosità e compattezza. Ricetta della mattonella allo yogurt e fragole con tecniche pratich…",
-        "link": "https://www.gustoblog.it/2026/10/18/dolci-estivi-freddi-senza-gelatina-mattonella/",
-        "pubDate": "2026-10-18T00:19:14+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Crema fredda al caffè in bottiglia: il trucco con la bottiglia agitata",
-        "description": "Scopri come preparare la crema fredda al caffè in bottiglia in 5 minuti agitando energicamente. Ricetta pratica con panna, caffè e zucchero.…",
-        "link": "https://www.gustoblog.it/2026/10/17/crema-fredda-caffe-bottiglia-ricetta/",
-        "pubDate": "2026-10-17T17:29:43+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Piatti tradizionali italiani rispolverati: acquasale pugliese, malfatti al cavolo nero, pasta con cime di rapa e ombrina",
-        "description": "Scopri tre piatti tradizionali italiani rispolverati: acquasale pugliese, malfatti al cavolo nero e pasta con cime di rapa. Ricette autentiche e storie regional…",
-        "link": "https://www.gustoblog.it/2026/10/17/piatti-tradizionali-italiani-ricette-regionali/",
-        "pubDate": "2026-10-17T17:29:37+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Ricette autunnali: dolci e piatti stagionali con zucca, mele e frutta secca",
-        "description": "Scopri ricette autunnali facili con ingredienti di stagione: crostata zucca e cioccolato, ciambella mele, bruschette ai cachi e dolci con frutta secca.…",
-        "link": "https://www.gustoblog.it/2026/10/17/ricette-autunnali-dolci-piatti-stagionali/",
-        "pubDate": "2026-10-17T17:29:36+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Frittata arrotolata fredda: il secondo piatto estivo da preparare in anticipo",
-        "description": "La frittata arrotolata fredda è il secondo piatto perfetto per l'estate: si prepara ore prima e migliora in frigorifero. Scopri come arrotolarla senza romperla …",
-        "link": "https://www.gustoblog.it/2026/10/17/frittata-arrotolata-fredda-ricetta/",
-        "pubDate": "2026-10-17T17:29:28+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Legumi in scatola: vanno sciacquati prima di mangiarli?",
-        "description": "Scopri se è necessario sciacquare i legumi in scatola prima di mangiarli e come influisce su sapore, sodio e digeribilità.…",
-        "link": "https://www.gustoblog.it/2026/10/17/legumi-scatola-sciacquare/",
-        "pubDate": "2026-10-17T17:29:18+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Pomodori datterini a 7 euro al chilo: perché i prezzi sono raddoppiati dopo l’estate 2026",
-        "description": "I pomodori datterini hanno raggiunto prezzi record all'ingrosso dopo l'estate eccezionalmente calda del 2026. Scopri le quotazioni attuali e l'impatto sui consu…",
-        "link": "https://www.gustoblog.it/2026/10/17/pomodori-datterini-prezzo-ottobre-2026/",
-        "pubDate": "2026-10-17T17:29:13+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
