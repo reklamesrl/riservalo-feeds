@@ -1,7 +1,88 @@
 {
-  "generated": "2026-10-20T11:00:16.020598+00:00",
+  "generated": "2026-10-20T16:26:37.147038+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il ristorante Unforgettable chiude e scoppia il caso dei voucher già pagati. La proprietà: “Riapriamo a novembre”",
+        "description": "Una storia da dimenticare quella di Unforgettable? Sembra un gioco di parole un po’ paradossale, ma certo la vicenda del ristorante nel cuore della vecchia Tori…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/il-ristorante-unforgettable-chiude-e-scoppia-il-caso-dei-voucher-gia-pagati-la-proprieta-riapriamo-a-novembre/",
+        "pubDate": "2026-10-20T15:29:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In California stanno scomparendo i vigneti: oltre 19mila ettari estirpati in un anno. Il vino non si vende più come prima",
+        "description": "In un anno la California ha estirpato oltre 19mila ettari di vigneti. I consumi calano, il prezzo dell'uva scende e alcuni produttori scelgono altre colture…",
+        "link": "https://www.gamberorosso.it/notizie/vino/california-crisi-vino-19mila-ettari-vigneti-estirpati/",
+        "pubDate": "2026-10-20T15:25:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sembra una frittata venuta male, ma è uno dei dolci più famosi d’Austria. La curiosa storia del Kaiserschmarrn",
+        "description": "Il Kaiserschmarrn è una frittata dolce austriaca servita a pezzi con zucchero a velo e composta di prugne. Una leggenda racconta che nacque da un errore del cuo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/kaiserschmarrn-frittata-dolce-austriaca-origini/",
+        "pubDate": "2026-10-20T13:06:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Kasia Smutniak, magnifica sul red carpet della Festa del Cinema di Roma 2026 in un total look firmato Giorgio Armani",
+        "description": "Kasia Smutniak sfila sul red carpet della Festa del Cinema di Roma 2026 in un total look firmato Giorgio Armani.…",
+        "link": "https://www.stylosophy.it/articolo/kasia-smutniak-magnifica-sul-red-carpet-della-festa-del-cinema-di-roma-2026-in-un-total-look-firmato-giorgio-armani/254074/",
+        "pubDate": "2026-10-20T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il mercato dei profumi che sanno di cibo sta andando fortissimo",
+        "description": "Il motivo è sempre il proliferare dei farmaci GLP-1 che sebra cambino anche le nostre percezioni olfattive, spingendoci verso nuovi odori.\nL'articolo Il mercato…",
+        "link": "https://www.dissapore.com/notizie/il-mercato-dei-profumi-che-sanno-di-cibo-sta-andando-fortissimo/",
+        "pubDate": "2026-10-20T12:50:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/fabbrica-pepsi.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Arianna Occhipinti apre un’osteria di campagna in Sicilia. La vignaiola ha comprato una storica tenuta insieme ai cugini",
+        "description": "Arianna Occhipinti ha rilevato con i cugini la tenuta Pianogrillo, sui Monti Iblei. Il progetto prevede un'osteria di campagna, dieci camere e nuovi vini…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/arianna-occhipinti-osteria-pianogrillo-sicilia/",
+        "pubDate": "2026-10-20T11:28:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ad Agerola si mangia in un’antica corte del 1700 all’interno di una dimora storica",
+        "description": "Vincenzo Guarino guida La Corte degli Dei, ristorante aperto nel 2024 a Palazzo Acampora, ad Agerola. Con lui lavora il figlio Angelo, responsabile dei dessert.…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/vincenzo-guarino-corte-degli-dei-palazzo-acampora-agerola/",
+        "pubDate": "2026-10-20T11:02:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Il pane passerà da 3 a 3,80 euro al chilo”. In Calabria i fornai chiudono per protesta contro i rincari",
+        "description": "I panificatori del Cosentino si uniscono alla protesta degli autotrasportatori. Tra rincari delle materie prime, costi del lavoro e contestazioni alla grande di…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rivolta-pane-calabria-panifici-chiusi-protesta/",
+        "pubDate": "2026-10-20T10:23:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Rummo ferma la produzione di pasta: i camion non consegnano più le materie prime. Problemi anche per La Molisana",
+        "description": "Rummo sospende la produzione a Benevento per il blocco delle consegne di materie prime. Anche La Molisana riduce l'attività. La protesta degli autotrasportatori…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/rummo-produzione-ferma-blocco-camion-pasta-la-molisana/",
+        "pubDate": "2026-10-20T10:21:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Pianogrillo-Occhipinti: i cugini rilevano l’azienda agricola di Chiaramonte Gulfi",
         "description": "Arianna Occhipinti e i cugini Giovanni e Paolo Occhipinti rilevano l’Azienda Agricola Pianogrillo, storica realtà di Chiaramonte Gulfi, in provincia di Ragusa. …",
@@ -100,90 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/10/DESK-gonna-pizzo-e-maglione.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Prokupac Day 2026: il duplice miracolo nazionale del vino rosso della Serbia",
-        "description": "Il Prokupac è il duplice miracolo nazionale della Serbia. Il primo miracolo è geografico e identitario: un vitigno storicamente radicato nel sud del Paese è riu…",
-        "link": "https://www.winemag.it/prokupac-day-2026-il-duplice-miracolo-nazionale-del-vino-rosso-della-serbia/",
-        "pubDate": "2026-10-19T14:20:53+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Prokupac-Day-2026-il-duplice-miracolo-nazionale-del-vino-rosso-della-Serbia-punteggio-score-migliori-prokupac-davide-bortone-winemag-10.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La Nutella non basta più: Ferrero spende 150 milioni di dollari per conquistare gli Stati Uniti",
-        "description": "Una strategia di marketing che sta aumentando molto le vendite dei prodotti del gruppo, che per la seconda volta di fila sarà presente al Super Bowl.\nL'articolo…",
-        "link": "https://www.dissapore.com/notizie/la-nutella-non-basta-piu-ferrero-spende-150-milioni-di-dollari-per-conquistare-gli-stati-uniti/",
-        "pubDate": "2026-10-19T14:14:08+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/ferrero-ad-alba.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Halloween a Mammoth Lakes: dove la natura incontra il mistero",
-        "description": "Un Halloween fuori dal comune tra i paesaggi della Sierra Nevada orientale: leggende antiche, formazioni rocciose misteriose, acque fumanti e città fantasma…",
-        "link": "https://www.stylosophy.it/articolo/halloween-mammoth-lakes-dove-la-natura-incontra-il-mistero/254064/",
-        "pubDate": "2026-10-19T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "“Abbiamo abbassato i prezzi del vino, ma non sono arrivati più clienti”. L’esperimento di un ristorante londinese",
-        "description": "Da Hide, a Londra, hanno ridotto il ricarico sui grandi vini per attirare clienti. L'esperimento non ha funzionato: «Abbiamo solo perso margine». E il consumo c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ricarichi-vino-ristorante-hide-londra-esperimento/",
-        "pubDate": "2026-10-19T13:21:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le migliori Osterie d’Italia del 2027 secondo Slow Food, regione per regione",
-        "description": "La guida Osterie d’Italia 2027 di Slow Food premia 335 locali con la Chiocciola, su 1.952 indirizzi recensiti. Ecco tutte le osterie premiate regione per region…",
-        "link": "https://www.dissapore.com/ristoranti/le-migliori-osterie-ditalia-del-2027-secondo-slow-food-regione-per-regione/",
-        "pubDate": "2026-10-19T13:18:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Osterie-Italia-Slow-Food-2027-copertina-1280x1600-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Hailey Bieber incanta tutti all’Academy Museum Gala 2026 con questo meraviglioso abito Chanel FOTO",
-        "description": "Hailey Bieber sfila in Chanel all'Academy Museum Gala 2026: qui i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/hailey-bieber-incanta-tutti-allacademy-museum-gala-2026-con-questo-meraviglioso-abito-chanel-foto/254058/",
-        "pubDate": "2026-10-19T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Harvest Beers 2026, iscrizioni aperte fino al 25 novembre. Premiazione a Reggio Emilia",
-        "description": "Le birre artigianali prodotte con luppolo appena raccolto tornano protagoniste con la quinta edizione di Harvest Beers 2026, il concorso promosso da Unionbirrai…",
-        "link": "https://www.winemag.it/harvest-beers-2026-iscrizioni-aperte-fino-al-25-novembre-premiazione-a-reggio-emilia/",
-        "pubDate": "2026-10-19T12:29:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La statua di Paul Bocuse trascinata in strada durante gli scontri a Lione. Il figlio: “Sono disgustato”",
-        "description": "Durante gli scontri del 17 ottobre a Lione, la statua di Paul Bocuse è stata trascinata in strada e danneggiata. Il figlio Jérôme denuncia l'accaduto in una let…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/statua-paul-bocuse-danneggiata-scontri-lione-figlio/",
-        "pubDate": "2026-10-19T12:19:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Scarpe per gonna midi: i look  e gli abbinamenti da copiare quest’autunno",
-        "description": "È senza dubbio uno dei modelli più chic della stagione, specialmente nelle belle giornate di sole può ancora essere sfoggiata senza calze e collant, in più si p…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/quali-scarpe-indossare-con-la-gonna-midi-abbinamenti-combo-come-abbinare-mocassini-sneakers-tacchi-stivali-stivaletti-1006207",
-        "pubDate": "2026-10-19T12:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Scarpe_x_gonna_midi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "Kasia Smutniak, magnifica sul red carpet della Festa del Cinema di Roma 2026 in un total look firmato Giorgio Armani",
+        "description": "Kasia Smutniak sfila sul red carpet della Festa del Cinema di Roma 2026 in un total look firmato Giorgio Armani.…",
+        "link": "https://www.stylosophy.it/articolo/kasia-smutniak-magnifica-sul-red-carpet-della-festa-del-cinema-di-roma-2026-in-un-total-look-firmato-giorgio-armani/254074/",
+        "pubDate": "2026-10-20T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Gonna in pizzo e maglione: la coppia perfetta per look favolosi",
         "description": "Da diverse stagione la gonna in raso con inserti in pizzo è uno dei capi più amati. La sua leggerezza la rende ideale per look estivi e primaverili e potrebbe i…",
@@ -354,18 +363,81 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Come arredare un bagno bianco e renderlo originale: idee e consigli",
-        "description": "Arredare un bagno bianco richiede attenzione ai dettagli per evitare un aspetto sterile e freddo. Scopri come aggiungere calore, colore e personalità con i nost…",
-        "link": "https://www.stylosophy.it/articolo/come-arredare-un-bagno-bianco/192285/",
-        "pubDate": "2026-10-15T09:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il ristorante Unforgettable chiude e scoppia il caso dei voucher già pagati. La proprietà: “Riapriamo a novembre”",
+        "description": "Una storia da dimenticare quella di Unforgettable? Sembra un gioco di parole un po’ paradossale, ma certo la vicenda del ristorante nel cuore della vecchia Tori…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/il-ristorante-unforgettable-chiude-e-scoppia-il-caso-dei-voucher-gia-pagati-la-proprieta-riapriamo-a-novembre/",
+        "pubDate": "2026-10-20T15:29:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In California stanno scomparendo i vigneti: oltre 19mila ettari estirpati in un anno. Il vino non si vende più come prima",
+        "description": "In un anno la California ha estirpato oltre 19mila ettari di vigneti. I consumi calano, il prezzo dell'uva scende e alcuni produttori scelgono altre colture…",
+        "link": "https://www.gamberorosso.it/notizie/vino/california-crisi-vino-19mila-ettari-vigneti-estirpati/",
+        "pubDate": "2026-10-20T15:25:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sembra una frittata venuta male, ma è uno dei dolci più famosi d’Austria. La curiosa storia del Kaiserschmarrn",
+        "description": "Il Kaiserschmarrn è una frittata dolce austriaca servita a pezzi con zucchero a velo e composta di prugne. Una leggenda racconta che nacque da un errore del cuo…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/kaiserschmarrn-frittata-dolce-austriaca-origini/",
+        "pubDate": "2026-10-20T13:06:00+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il mercato dei profumi che sanno di cibo sta andando fortissimo",
+        "description": "Il motivo è sempre il proliferare dei farmaci GLP-1 che sebra cambino anche le nostre percezioni olfattive, spingendoci verso nuovi odori.\nL'articolo Il mercato…",
+        "link": "https://www.dissapore.com/notizie/il-mercato-dei-profumi-che-sanno-di-cibo-sta-andando-fortissimo/",
+        "pubDate": "2026-10-20T12:50:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/fabbrica-pepsi.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Arianna Occhipinti apre un’osteria di campagna in Sicilia. La vignaiola ha comprato una storica tenuta insieme ai cugini",
+        "description": "Arianna Occhipinti ha rilevato con i cugini la tenuta Pianogrillo, sui Monti Iblei. Il progetto prevede un'osteria di campagna, dieci camere e nuovi vini…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/arianna-occhipinti-osteria-pianogrillo-sicilia/",
+        "pubDate": "2026-10-20T11:28:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Ad Agerola si mangia in un’antica corte del 1700 all’interno di una dimora storica",
+        "description": "Vincenzo Guarino guida La Corte degli Dei, ristorante aperto nel 2024 a Palazzo Acampora, ad Agerola. Con lui lavora il figlio Angelo, responsabile dei dessert.…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/vincenzo-guarino-corte-degli-dei-palazzo-acampora-agerola/",
+        "pubDate": "2026-10-20T11:02:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“Il pane passerà da 3 a 3,80 euro al chilo”. In Calabria i fornai chiudono per protesta contro i rincari",
+        "description": "I panificatori del Cosentino si uniscono alla protesta degli autotrasportatori. Tra rincari delle materie prime, costi del lavoro e contestazioni alla grande di…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/rivolta-pane-calabria-panifici-chiusi-protesta/",
+        "pubDate": "2026-10-20T10:23:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Rummo ferma la produzione di pasta: i camion non consegnano più le materie prime. Problemi anche per La Molisana",
+        "description": "Rummo sospende la produzione a Benevento per il blocco delle consegne di materie prime. Anche La Molisana riduce l'attività. La protesta degli autotrasportatori…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/rummo-produzione-ferma-blocco-camion-pasta-la-molisana/",
+        "pubDate": "2026-10-20T10:21:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Pianogrillo-Occhipinti: i cugini rilevano l’azienda agricola di Chiaramonte Gulfi",
         "description": "Arianna Occhipinti e i cugini Giovanni e Paolo Occhipinti rilevano l’Azienda Agricola Pianogrillo, storica realtà di Chiaramonte Gulfi, in provincia di Ragusa. …",
@@ -471,78 +543,6 @@
         "link": "https://www.dissapore.com/notizie/la-nutella-non-basta-piu-ferrero-spende-150-milioni-di-dollari-per-conquistare-gli-stati-uniti/",
         "pubDate": "2026-10-19T14:14:08+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/ferrero-ad-alba.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Abbiamo abbassato i prezzi del vino, ma non sono arrivati più clienti”. L’esperimento di un ristorante londinese",
-        "description": "Da Hide, a Londra, hanno ridotto il ricarico sui grandi vini per attirare clienti. L'esperimento non ha funzionato: «Abbiamo solo perso margine». E il consumo c…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ricarichi-vino-ristorante-hide-londra-esperimento/",
-        "pubDate": "2026-10-19T13:21:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le migliori Osterie d’Italia del 2027 secondo Slow Food, regione per regione",
-        "description": "La guida Osterie d’Italia 2027 di Slow Food premia 335 locali con la Chiocciola, su 1.952 indirizzi recensiti. Ecco tutte le osterie premiate regione per region…",
-        "link": "https://www.dissapore.com/ristoranti/le-migliori-osterie-ditalia-del-2027-secondo-slow-food-regione-per-regione/",
-        "pubDate": "2026-10-19T13:18:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Osterie-Italia-Slow-Food-2027-copertina-1280x1600-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Harvest Beers 2026, iscrizioni aperte fino al 25 novembre. Premiazione a Reggio Emilia",
-        "description": "Le birre artigianali prodotte con luppolo appena raccolto tornano protagoniste con la quinta edizione di Harvest Beers 2026, il concorso promosso da Unionbirrai…",
-        "link": "https://www.winemag.it/harvest-beers-2026-iscrizioni-aperte-fino-al-25-novembre-premiazione-a-reggio-emilia/",
-        "pubDate": "2026-10-19T12:29:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La statua di Paul Bocuse trascinata in strada durante gli scontri a Lione. Il figlio: “Sono disgustato”",
-        "description": "Durante gli scontri del 17 ottobre a Lione, la statua di Paul Bocuse è stata trascinata in strada e danneggiata. Il figlio Jérôme denuncia l'accaduto in una let…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/statua-paul-bocuse-danneggiata-scontri-lione-figlio/",
-        "pubDate": "2026-10-19T12:19:27+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli spagnoli non cenano più così tardi. E i ristoranti ringraziano",
-        "description": "In dieci anni è quasi raddoppiata la quota di chi prenota al ristorante prima delle 21. Tra pandemia, turismo e nuove esigenze dei locali, cambia uno dei ritual…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spagna-cena-prima-orari-ristoranti/",
-        "pubDate": "2026-10-19T11:11:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Portogallo c’è un dolce fatto con una sfoglia sottile come carta velina. Le donne del paese la tirano a mano",
-        "description": "Il Pastel de Tentúgal nasce nei conventi portoghesi. Il suo segreto è una sfoglia tirata a mano fino a diventare quasi trasparente, ripiena di crema di tuorli e…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastel-de-tentugal-dolce-portoghese-sfoglia-sottile/",
-        "pubDate": "2026-10-19T11:10:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Puglia c’è un dolce ripieno di ricotta che si mangia da oltre 200 anni. Fuori da Bitonto lo conoscono in pochi",
-        "description": "Il bocconotto bitontino è un dolce di pasta frolla ripieno di ricotta e profumato al limone. La sua storia passa per un monastero e per le pasticcerie che ancor…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bocconotto-bitontino-dolce-ricotta-storia-pasticcerie/",
-        "pubDate": "2026-10-19T09:10:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Slow Wine 2027 premia i migliori vini italiani, ma tra le righe racconta una crisi",
-        "description": "168 nuove cantine, 132 uscite e troppe bottiglie invendute: la guida Slow Wine 2027 fotografa un settore in difficoltà, tra consumi in calo, magazzini pieni e v…",
-        "link": "https://www.dissapore.com/bere/slow-wine-2027-premia-i-migliori-vini-italiani-ma-tra-le-righe-racconta-una-crisi/",
-        "pubDate": "2026-10-19T09:08:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/guida-slow-wine-2027-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
