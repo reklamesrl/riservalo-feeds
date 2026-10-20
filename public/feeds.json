@@ -1,7 +1,61 @@
 {
-  "generated": "2026-10-19T22:03:00.675274+00:00",
+  "generated": "2026-10-20T11:00:16.020598+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Pianogrillo-Occhipinti: i cugini rilevano l’azienda agricola di Chiaramonte Gulfi",
+        "description": "Arianna Occhipinti e i cugini Giovanni e Paolo Occhipinti rilevano l’Azienda Agricola Pianogrillo, storica realtà di Chiaramonte Gulfi, in provincia di Ragusa. …",
+        "link": "https://www.winemag.it/pianogrillo-occhipinti-cugini-rilevano-azienda-agricola-chiaramonte-gulfi/",
+        "pubDate": "2026-10-20T09:32:58+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I consumi calano, ma la birra artigianale italiana è in crescita",
+        "description": "Nell'anno del trentennale, la birra artigianale italiana conquista quote di mercato, seppur piccole, superando finalmente anche una storica soglia psicologica.\n…",
+        "link": "https://www.dissapore.com/bere/i-consumi-calano-ma-la-birra-artigianale-italiana-e-in-crescita/",
+        "pubDate": "2026-10-20T09:29:41+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/ferraris-unionbirrari.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dodici degustatori “falliscono” la descrizione di un Sauvignon, le macchine no. Come usare l’AI con intelligenza",
+        "description": "Il naso non è sempre in grado di cogliere le differenze tra vini, ma l'approccio scientifico può aiutare. Carlo Ferretti: \"L’uomo può mostrare all’Ai dove guard…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/esperimento-degustatori-intelligenza-artificiale-sauvignon-carlo-ferretti/",
+        "pubDate": "2026-10-20T07:08:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il budino della vendemmia che si prepara da secoli è vegano",
+        "description": "Mosto d'uva e farina, senza latte né uova: nel Mantovano il sugolo accompagna da secoli il periodo della vendemmia. Una crema scura e dolce nata quando il desse…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sugolo-budino-uva-vendemmia-mantova/",
+        "pubDate": "2026-10-20T05:19:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "San Baylon cambia casa: il ristorante di Palazzo Ripetta sale al quarto piano",
+        "description": "Dal 15 ottobre il San Baylon si trasferisce al quarto piano di Palazzo Ripetta, a Roma, con una nuova sala da circa venti coperti e un progetto gastronomico che…",
+        "link": "https://www.winemag.it/san-baylon-cambia-casa-il-ristorante-di-palazzo-ripetta-sale-al-quarto-piano/",
+        "pubDate": "2026-10-20T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Panettone con l’olio al posto del burro: la ricetta che cambia il classico natalizio",
+        "description": "Scopri come il panettone con olio al posto del burro sta cambiando la ricetta tradizionale. Tecniche artigianali, sapore e impatto sulla stagione natalizia.…",
+        "link": "https://www.gustoblog.it/2026/10/20/panettone-olio-burro-ricetta/",
+        "pubDate": "2026-10-20T00:04:43+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Rubinì, l’inno di Rubinelli Vajol alla freschezza della Valpolicella",
         "description": "Un vino fuori dalla Doc che non cerca potenza e concentrazione, ma punta su freschezza, eleganza e facilità di beva. È la scelta dell&#8217;Azienda Agricola Rub…",
@@ -28,6 +82,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Il pizzaiolo napoletano Raffaele Bonetta prepara lo sbarco a Roma. Il progetto è già avviato",
+        "description": "Raffaele Bonetta prepara una pizzeria a Roma: zona e locale sarebbero già individuati. Intanto amplia il progetto a Napoli con una nuova sede a Fuorigrotta e un…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/raffaele-bonetta-nuova-pizzeria-roma-fuorigrotta/",
+        "pubDate": "2026-10-19T17:11:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Gonna in pizzo e maglione: la coppia perfetta per look favolosi",
@@ -118,69 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Scarpe_x_gonna_midi.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Gli spagnoli non cenano più così tardi. E i ristoranti ringraziano",
-        "description": "In dieci anni è quasi raddoppiata la quota di chi prenota al ristorante prima delle 21. Tra pandemia, turismo e nuove esigenze dei locali, cambia uno dei ritual…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/spagna-cena-prima-orari-ristoranti/",
-        "pubDate": "2026-10-19T11:11:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Portogallo c’è un dolce fatto con una sfoglia sottile come carta velina. Le donne del paese la tirano a mano",
-        "description": "Il Pastel de Tentúgal nasce nei conventi portoghesi. Il suo segreto è una sfoglia tirata a mano fino a diventare quasi trasparente, ripiena di crema di tuorli e…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastel-de-tentugal-dolce-portoghese-sfoglia-sottile/",
-        "pubDate": "2026-10-19T11:10:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Puglia c’è un dolce ripieno di ricotta che si mangia da oltre 200 anni. Fuori da Bitonto lo conoscono in pochi",
-        "description": "Il bocconotto bitontino è un dolce di pasta frolla ripieno di ricotta e profumato al limone. La sua storia passa per un monastero e per le pasticcerie che ancor…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bocconotto-bitontino-dolce-ricotta-storia-pasticcerie/",
-        "pubDate": "2026-10-19T09:10:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Slow Wine 2027 premia i migliori vini italiani, ma tra le righe racconta una crisi",
-        "description": "168 nuove cantine, 132 uscite e troppe bottiglie invendute: la guida Slow Wine 2027 fotografa un settore in difficoltà, tra consumi in calo, magazzini pieni e v…",
-        "link": "https://www.dissapore.com/bere/slow-wine-2027-premia-i-migliori-vini-italiani-ma-tra-le-righe-racconta-una-crisi/",
-        "pubDate": "2026-10-19T09:08:55+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/guida-slow-wine-2027-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Riuscirà Iginio Massari a rilanciare il panettone in ottobre, con la limited edition di Halloween?",
-        "description": "Iginio Massari ci riprova con il panettone d'ottobre, ma la verità è che gli Italiani non si spostano dal Natale\nL'articolo Riuscirà Iginio Massari a rilanciare…",
-        "link": "https://www.dissapore.com/notizie/riuscira-iginio-massari-a-rilanciare-il-panettone-in-ottobre-con-la-limited-edition-di-halloween/",
-        "pubDate": "2026-10-19T08:58:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/PIZZERIA-LA-RUOTA-TAGLIATO-scaled.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Infermentum, arriva Profumo d’Agrumi: il panettone senza uvetta e canditi",
-        "description": "Infermentum amplia la collezione dei lievitati natalizi con Profumo d’Agrumi, un panettone da 1 kg, in vendita a 40 euro dal 19 ottobre all’Epifania. La novità …",
-        "link": "https://www.winemag.it/infermentum-arriva-profumo-dagrumi-il-panettone-senza-uvetta-e-canditi/",
-        "pubDate": "2026-10-19T08:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "In Valle d’Aosta il pane si faceva una volta l’anno. E c’era persino un forno del diavolo",
-        "description": "Tre quintali di pane per sfamare una famiglia, lievito custodito per mesi e pagnotte difese dai topi con ombrelli di lamiera. Nei villaggi valdostani la panific…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-nero-valle-aosta-forno-diavolo-tradizioni/",
-        "pubDate": "2026-10-19T07:46:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,60 @@
     ],
     "lifestyle": [
       {
+        "title": "Pianogrillo-Occhipinti: i cugini rilevano l’azienda agricola di Chiaramonte Gulfi",
+        "description": "Arianna Occhipinti e i cugini Giovanni e Paolo Occhipinti rilevano l’Azienda Agricola Pianogrillo, storica realtà di Chiaramonte Gulfi, in provincia di Ragusa. …",
+        "link": "https://www.winemag.it/pianogrillo-occhipinti-cugini-rilevano-azienda-agricola-chiaramonte-gulfi/",
+        "pubDate": "2026-10-20T09:32:58+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I consumi calano, ma la birra artigianale italiana è in crescita",
+        "description": "Nell'anno del trentennale, la birra artigianale italiana conquista quote di mercato, seppur piccole, superando finalmente anche una storica soglia psicologica.\n…",
+        "link": "https://www.dissapore.com/bere/i-consumi-calano-ma-la-birra-artigianale-italiana-e-in-crescita/",
+        "pubDate": "2026-10-20T09:29:41+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/ferraris-unionbirrari.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dodici degustatori “falliscono” la descrizione di un Sauvignon, le macchine no. Come usare l’AI con intelligenza",
+        "description": "Il naso non è sempre in grado di cogliere le differenze tra vini, ma l'approccio scientifico può aiutare. Carlo Ferretti: \"L’uomo può mostrare all’Ai dove guard…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/esperimento-degustatori-intelligenza-artificiale-sauvignon-carlo-ferretti/",
+        "pubDate": "2026-10-20T07:08:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il budino della vendemmia che si prepara da secoli è vegano",
+        "description": "Mosto d'uva e farina, senza latte né uova: nel Mantovano il sugolo accompagna da secoli il periodo della vendemmia. Una crema scura e dolce nata quando il desse…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/sugolo-budino-uva-vendemmia-mantova/",
+        "pubDate": "2026-10-20T05:19:09+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "San Baylon cambia casa: il ristorante di Palazzo Ripetta sale al quarto piano",
+        "description": "Dal 15 ottobre il San Baylon si trasferisce al quarto piano di Palazzo Ripetta, a Roma, con una nuova sala da circa venti coperti e un progetto gastronomico che…",
+        "link": "https://www.winemag.it/san-baylon-cambia-casa-il-ristorante-di-palazzo-ripetta-sale-al-quarto-piano/",
+        "pubDate": "2026-10-20T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Panettone con l’olio al posto del burro: la ricetta che cambia il classico natalizio",
+        "description": "Scopri come il panettone con olio al posto del burro sta cambiando la ricetta tradizionale. Tecniche artigianali, sapore e impatto sulla stagione natalizia.…",
+        "link": "https://www.gustoblog.it/2026/10/20/panettone-olio-burro-ricetta/",
+        "pubDate": "2026-10-20T00:04:43+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "Rubinì, l’inno di Rubinelli Vajol alla freschezza della Valpolicella",
         "description": "Un vino fuori dalla Doc che non cerca potenza e concentrazione, ma punta su freschezza, eleganza e facilità di beva. È la scelta dell&#8217;Azienda Agricola Rub…",
         "link": "https://www.winemag.it/rubini-rubinelli-vajol-inno-freschezza-valpolicella/",
@@ -392,6 +446,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Il pizzaiolo napoletano Raffaele Bonetta prepara lo sbarco a Roma. Il progetto è già avviato",
+        "description": "Raffaele Bonetta prepara una pizzeria a Roma: zona e locale sarebbero già individuati. Intanto amplia il progetto a Napoli con una nuova sede a Fuorigrotta e un…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/raffaele-bonetta-nuova-pizzeria-roma-fuorigrotta/",
+        "pubDate": "2026-10-19T17:11:12+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Prokupac Day 2026: il duplice miracolo nazionale del vino rosso della Serbia",
@@ -482,69 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/guida-slow-wine-2027-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Riuscirà Iginio Massari a rilanciare il panettone in ottobre, con la limited edition di Halloween?",
-        "description": "Iginio Massari ci riprova con il panettone d'ottobre, ma la verità è che gli Italiani non si spostano dal Natale\nL'articolo Riuscirà Iginio Massari a rilanciare…",
-        "link": "https://www.dissapore.com/notizie/riuscira-iginio-massari-a-rilanciare-il-panettone-in-ottobre-con-la-limited-edition-di-halloween/",
-        "pubDate": "2026-10-19T08:58:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/PIZZERIA-LA-RUOTA-TAGLIATO-scaled.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Infermentum, arriva Profumo d’Agrumi: il panettone senza uvetta e canditi",
-        "description": "Infermentum amplia la collezione dei lievitati natalizi con Profumo d’Agrumi, un panettone da 1 kg, in vendita a 40 euro dal 19 ottobre all’Epifania. La novità …",
-        "link": "https://www.winemag.it/infermentum-arriva-profumo-dagrumi-il-panettone-senza-uvetta-e-canditi/",
-        "pubDate": "2026-10-19T08:40:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "In Valle d’Aosta il pane si faceva una volta l’anno. E c’era persino un forno del diavolo",
-        "description": "Tre quintali di pane per sfamare una famiglia, lievito custodito per mesi e pagnotte difese dai topi con ombrelli di lamiera. Nei villaggi valdostani la panific…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-nero-valle-aosta-forno-diavolo-tradizioni/",
-        "pubDate": "2026-10-19T07:46:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come erano fatti i primi seggioloni? Sedie alte e strettissime, senza vassoi né poggiapiedi",
-        "description": "I primi seggioloni erano sedie di legno alte e strette, spesso senza vassoi né poggiapiedi. Dal Seicento alla Tripp Trapp di Peter Opsvik, fino all'ANTILOP di I…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/storia-seggiolone-bambini-tripp-trapp/",
-        "pubDate": "2026-10-19T07:08:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La catena finlandese di hamburger con oltre 500 ristoranti arriva in Italia",
-        "description": "Hesburger debutta in Italia il 23 ottobre con un ristorante a Matera. Dietro l'operazione c'è un'imprenditrice lucana che vive in Finlandia da trent'anni. Inves…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/hesburger-italia-primo-ristorante-matera/",
-        "pubDate": "2026-10-19T06:27:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le farine di insetti dovevano rivoluzionare l’alimentazione. Perché le aziende sono in crisi?",
-        "description": "Dopo anni di investimenti miliardari, l'industria delle proteine da insetti affronta fallimenti, tagli al personale e procedure di risanamento. Il problema prin…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/crisi-farine-insetti-aziende-fallimenti-agronutris/",
-        "pubDate": "2026-10-19T06:13:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Sicilia c’è un biscotto che si cuoce tre volte e si inzuppa nel vino. Si mangia a San Martino",
-        "description": "In Sicilia i biscotti di San Martino si preparano in tre versioni: secchi e cotti più volte, morbidi con ricotta oppure decorati con glassa e canditi. La loro s…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/biscotti-san-martino-siciliani-tricotti-vino-moscato/",
-        "pubDate": "2026-10-19T06:07:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
