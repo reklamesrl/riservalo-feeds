@@ -1,7 +1,133 @@
 {
-  "generated": "2026-10-21T11:17:11.969451+00:00",
+  "generated": "2026-10-21T16:43:28.896781+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Mattarella premia Cvetic, Pallini e Ponti. Al Quirinale la cerimonia dei nuovi Cavalieri del Lavoro",
+        "description": "Per il vino c'è Marina Cvetic: \"Questo titolo appartiene anche alla visione di Gianni Masciarelli che per primo ha creduto nelle potenzialità dell'Abruzzo\"…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/cerimonia-quirinale-cavalieri-lavoro-2026-cvetic-pallini-ponti/",
+        "pubDate": "2026-10-21T15:28:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il vino italiano parte alla conquista del Giappone. A Tokyo arrivano 41 cantine premiate con i Tre Bicchieri",
+        "description": "Il 27 ottobre parte da Tokyo il World Tour 2026/2027 del Gambero Rosso, che celebra i 40 anni della Guida Vini d'Italia. In Giappone arrivano 41 cantine premiat…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-world-tour-2026-tokyo-vino-italiano/",
+        "pubDate": "2026-10-21T14:35:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un regalo speciale per il tuo amico 4 zampe: arriva la cuccia che dondola e dona serenità",
+        "description": "Con Shell, la sdraietta basculante di Tavo Pets, il relax prende forma.…",
+        "link": "https://www.stylosophy.it/articolo/un-regalo-speciale-per-il-tuo-amico-4-zampe-arriva-la-cuccia-che-dondola-e-dona-serenita/254084/",
+        "pubDate": "2026-10-21T14:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il vino naturale è diventato troppo caro? “La bolla è cresciuta, il prezzo può costituire un’ulteriore barriera”",
+        "description": "Piero Crocenzi, fondatore della fiera Augusta di Torino, racconta contraddizioni e opportunità del vino naturale: prezzi sempre più difficili da sostenere, spec…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vino-naturale-prezzi-alti-speculazione-piero-crocenzi/",
+        "pubDate": "2026-10-21T14:10:36+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vibrazioni al posto dei pesticidi contro la flavescenza dorata. In Trentino ci sono due “vigneti vibrazionali”",
+        "description": "Migliorano le tecnologie per confondere sessualmente l'insetto vettore della malattia. Il progetto della Fondazione Mach raddoppia con un nuovo impianto e finis…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vigneti-vibrazionali-flavescenza-dorata-fondazione-mach/",
+        "pubDate": "2026-10-21T14:06:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non arriva più il latte, si ferma la pasta, si svuotano i supermercati: cosa succede in Italia",
+        "description": "Corsa agli acquisti e reparti del fresco azzerati: i blocchi dei trasporti stanno svuotando i supermercati di tutta la Penisola. Dalla pasta alla Mozzarella di …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/sciopero-camionisti-supermercati-vuoti-produzione-cibo-sud-italia/",
+        "pubDate": "2026-10-21T13:56:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vitivinicoltura campana, Copagri chiede lo stato di crisi",
+        "description": "presidente della Regione Roberto Fico\nL'articolo Vitivinicoltura campana, Copagri chiede lo stato di crisi proviene da Winemag.it - Davide Bortone: wine magazin…",
+        "link": "https://www.winemag.it/vitivinicoltura-campana-copagri-chiede-lo-stato-di-crisi/",
+        "pubDate": "2026-10-21T13:46:34+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La birra analcolica conquista i pub inglesi",
+        "description": "Uno studio dell'Università di York ha dimostrato come ai pub possa giovare l'introduzione di birra senza alcool, senza impattare negativamente sulle vendite dei…",
+        "link": "https://www.dissapore.com/notizie/la-birra-analcolica-conquista-i-pub-inglesi/",
+        "pubDate": "2026-10-21T13:39:43+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/birre-analcoliche-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Maria Esposito, Look da vera diva glamour d’altri tempi alla Festa del Cinema di Roma 2026",
+        "description": "Maria Esposito sfila sul red carpet della Festa del Cinema di Roma 2026 con un meraviglioso look dal sapore retro.…",
+        "link": "https://www.stylosophy.it/articolo/maria-esposito-look-da-vera-diva-glamour-daltri-tempi-alla-festa-del-cinema-di-roma-2026/254079/",
+        "pubDate": "2026-10-21T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "World’s 50 Best 2026, dieci grandi ristoranti escono dalla Top 50. E Ana Roš si ribella: “Conta più la visibilità del lavoro”",
+        "description": "Pubblicate le posizioni dalla 51 alla 100 della World's 50 Best Restaurants 2026. Uliassi scende al 51° posto, arretrano dieci ristoranti della precedente Top 5…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/worlds-50-best-restaurants-2026-classifica-51-100-uliassi/",
+        "pubDate": "2026-10-21T12:15:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vendemmia 2026 in Germania: produzione stabile, qualità delle uve molto buona",
+        "description": "La vendemmia 2026 in Germania dovrebbe attestarsi sugli stessi volumi dello scorso anno, con una produzione nazionale stimata del 10% inferiore alla media degli…",
+        "link": "https://www.winemag.it/vendemmia-2026-in-germania-produzione-stabile-qualita-delle-uve-molto-buona/",
+        "pubDate": "2026-10-21T11:25:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Un naso elettronico che trova i difetti prima di vinificare. Il progetto Moët Hennessy riguarda tutta l’enologia",
+        "description": "Il progetto, in collaborazione con Analog Devices e UC Davis, si è concentrato sull'aroma di fungo fresco, interpretando il linguaggio chimico di uva, mosto e v…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/naso-elettronico-vinificazione-progetto-moet-hennessy/",
+        "pubDate": "2026-10-21T10:51:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“La pizza deve restare un cibo per tutti”. Franco Pepe spiega perché non vuole aumentare i prezzi",
+        "description": "Il pizzaiolo di Caiazzo racconta come cerca di contenere i prezzi di Pepe in Grani, puntando sui grandi numeri. E chiede al settore di mantenere la pizza access…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/franco-pepe-prezzi-pizza-aumenti-costi/",
+        "pubDate": "2026-10-21T10:42:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La pitta di San Martino, il dolce calabrese che si prepara per tre giorni e si mangia con il vino nuovo",
+        "description": "Fichi secchi, noci, uvetta e vino cotto: la pitta di San Martino è un dolce tradizionale calabrese preparato per l'11 novembre, con ricette diverse da paese a p…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pitta-san-martino-dolce-calabrese-vino-cotto/",
+        "pubDate": "2026-10-21T10:05:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Alto Adige, vendemmia 2026 da record: bianchi freschi e rossi strutturati",
         "description": "La vendemmia 2026 in Alto Adige si è conclusa in anticipo, dopo una stagione caratterizzata da primavera calda, estate torrida e precipitazioni limitate. Nonost…",
@@ -10,6 +136,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Dai carciofi di Schito alla pancetta cilentana: la pizzeria di Salerno che racconta il territorio",
+        "description": "A Salerno, Gennaro Coppeta guida Resilienza, una pizzeria che lavora con piccoli produttori campani. Nel menu, ingredienti locali e reinterpretazioni dei classi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/resilienza-pizzeria-salerno-gennaro-coppeta/",
+        "pubDate": "2026-10-21T09:48:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Castagne del prete: il dolce irpino che arriva in tavola in 30 minuti. Ecco perché si chiamano così e come prepararle oggi a casa",
@@ -46,144 +181,27 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Tartufo bianco d’Alba: il tesoro sotterraneo che arriva in tavola, ecco perché costa tanto e come riconoscerlo",
-        "description": "Scopri cosa rende il tartufo bianco d'Alba unico: la specie Tuber magnatum, il terroir piemontese e le proprietà aromatiche inimitabili che giustificano il prez…",
-        "link": "https://www.gustoblog.it/2026/10/21/tartufo-bianco-alba-pregiato-unico/",
-        "pubDate": "2026-10-21T09:05:23+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Salsiccia di cragno: come l’insaccato sloveno è diventato l’orgoglio della tavola triestina",
-        "description": "La salsiccia di cragno è un insaccato affumicato sloveno che ha messo radici nella cucina triestina, diventando simbolo gastronomico della città attraverso i co…",
-        "link": "https://www.gustoblog.it/2026/10/21/salsiccia-cragno-storia-trieste/",
-        "pubDate": "2026-10-21T09:00:59+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Tre secondi freddi per l’estate: polpettone di tonno, frittata arrotolata e cotolette di peperoni da preparare oggi in casa",
-        "description": "Scopri tre secondi piatti estivi freddi facili da preparare in anticipo: polpettone di tonno, frittata arrotolata e cotolette di peperoni.…",
-        "link": "https://www.gustoblog.it/2026/10/21/secondi-piatti-estivi-freddi-ricette/",
-        "pubDate": "2026-10-21T09:00:41+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Carne tenera e succosa: il trucco della frutta fresca che trasforma il vostro piatto",
-        "description": "Scopri come rendere carne tenera con frutta fresca usando enzimi naturali di kiwi e ananas. Marinatura veloce in 30-60 minuti per risultati sorprendenti.…",
-        "link": "https://www.gustoblog.it/2026/10/21/rendere-carne-tenera-frutta-marinatura/",
-        "pubDate": "2026-10-21T08:52:36+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Carciofi alla romana o alla giudia: le due anime del carciofo a Roma",
-        "description": "Scopri le differenze tra carciofi alla romana e alla giudia: tecniche di preparazione, stagione di raccolta da novembre, e le tradizioni culinarie del Ghetto e …",
-        "link": "https://www.gustoblog.it/2026/10/21/carciofi-romana-giudia-tradizioni/",
-        "pubDate": "2026-10-21T08:47:03+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Gnocchi di tofu: la ricetta vegana e senza glutine che arriva in tavola in 30 minuti",
-        "description": "Scopri come preparare gnocchi di tofu morbidi e saporiti, perfetti per diete vegane e senza glutine. Leganti, proporzioni e cottura spiegati.…",
-        "link": "https://www.gustoblog.it/2026/10/21/gnocchi-tofu-ricetta-vegana-senza-glutine/",
-        "pubDate": "2026-10-21T08:46:56+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Come riconoscere il pane di qualità al supermercato: etichetta e freschezza",
-        "description": "Scopri i segnali concreti per riconoscere pane di qualità al supermercato: leggi l'etichetta, controlla ingredienti e distingui il pane fresco da quello surgela…",
-        "link": "https://www.gustoblog.it/2026/10/21/come-riconoscere-pane-qualita/",
-        "pubDate": "2026-10-21T08:37:22+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Marmellata o confettura? La differenza non è più quella che conoscevamo",
-        "description": "Per anni abbiamo imparato che la marmellata si fa con gli agrumi e la confettura con il resto della frutta. Una distinzione che le nuove norme hanno rimesso in …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/marmellata-confettura-differenze-nuove-regole-2026/",
-        "pubDate": "2026-10-21T08:00:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quando le caramelle si vendevano davanti al cimitero: l’antica tradizione leccese",
-        "description": "Si chiamano fanfullicchie, sono riccioli di zucchero aromatizzati alla menta e un tempo accompagnavano le visite al camposanto per la Festa dei Morti. Una tradi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fanfullicchie-caramelle-festa-dei-morti-lecce/",
-        "pubDate": "2026-10-21T07:59:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fare il bagno nella birra mentre si beve birra: la moda delle beer spa arriva anche a Roma",
-        "description": "Dalla Repubblica Ceca a Roma, si diffondono le spa con bagni caldi al malto, luppolo e lievito, birra alla spina e saune. Ecco come funzionano e dove si trovano…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/beer-spa-bagni-birra-roma-europa/",
-        "pubDate": "2026-10-21T07:58:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La pasta si ferma: Molisana e Rummo si arrendono alla protesta",
-        "description": "I camion non arrivano, la semola resta bloccata e i pastifici sono costretti a rallentare o spegnere gli impianti.\nL'articolo La pasta si ferma: Molisana e Rumm…",
-        "link": "https://www.dissapore.com/notizie/la-pasta-si-ferma-molisana-e-rummo-si-arrendono-alla-protesta/",
-        "pubDate": "2026-10-21T07:58:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2017/04/DSC_0642.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pumpkin Spice, il panettone autunnale dei Fratelli Sicilia tra zucca, spezie e cioccolato",
-        "description": "Dalla Sicilia al Nord America, il Pumpkin Spice dei Fratelli Sicilia reinterpreta i sapori dell’autunno attraverso un lievitato artigianale da 500 grammi. Zucca…",
-        "link": "https://www.winemag.it/pumpkin-spice-il-panettone-autunnale-dei-fratelli-sicilia-tra-zucca-spezie-e-cioccolato/",
-        "pubDate": "2026-10-21T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il versante sud ovest dell’Etna c’è e può dire la sua. Otto vini da provare",
-        "description": "Le cantine fanno squadra in cerca di uno stile comune.\nL'articolo Il versante sud ovest dell&#8217;Etna c&#8217;è e può dire la sua. Otto vini da provare provie…",
-        "link": "https://www.winemag.it/versante-sud-ovest-etna-otto-vini-da-provare/",
-        "pubDate": "2026-10-20T22:06:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Etna Wine Forum 2026, vini e cucina d’autore a Biancavilla",
-        "description": "Presenti gli chef Heinz Beck, Cristina Bowerman e Vincenzo Candiano.\nL'articolo Etna Wine Forum 2026, vini e cucina d&#8217;autore a Biancavilla proviene da Win…",
-        "link": "https://www.winemag.it/etna-wine-forum-2026-vini-e-cucina-dautore-a-biancavilla/",
-        "pubDate": "2026-10-20T22:02:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I 12 vini da non perdere alla grande degustazione Tre Bicchieri di Roma. Dal Sassicaia ai piccoli produttori",
-        "description": "Il 25 ottobre, alla Nuvola di Roma, si degustano i vini premiati dalla guida Vini d'Italia 2027. Abbiamo scelto 12 etichette da provare, tra classici e rarità…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tre-bicchieri-roma-2026-12-vini-assaggiare/",
-        "pubDate": "2026-10-20T16:48:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Un regalo speciale per il tuo amico 4 zampe: arriva la cuccia che dondola e dona serenità",
+        "description": "Con Shell, la sdraietta basculante di Tavo Pets, il relax prende forma.…",
+        "link": "https://www.stylosophy.it/articolo/un-regalo-speciale-per-il-tuo-amico-4-zampe-arriva-la-cuccia-che-dondola-e-dona-serenita/254084/",
+        "pubDate": "2026-10-21T14:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Maria Esposito, Look da vera diva glamour d’altri tempi alla Festa del Cinema di Roma 2026",
+        "description": "Maria Esposito sfila sul red carpet della Festa del Cinema di Roma 2026 con un meraviglioso look dal sapore retro.…",
+        "link": "https://www.stylosophy.it/articolo/maria-esposito-look-da-vera-diva-glamour-daltri-tempi-alla-festa-del-cinema-di-roma-2026/254079/",
+        "pubDate": "2026-10-21T13:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "7 Profumi oscuri, magnetici e irresistibili da indossare la notte di Halloween",
         "description": "Note dense, accordi misteriosi e scie che ipnotizzano. Scopri i profumi che trasformano la notte di Halloween in un’esperienza magnetica e irresistibile.…",
@@ -345,27 +363,117 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Autunno in Piemonte: 7 luoghi da scoprire tra borghi medievali, vigneti e sapori tipici",
-        "description": "Dalle colline delle Langhe ai borghi medievali, passando per castelli, foliage e degustazioni: itinerari ed esperienze per scoprire il Piemonte nella stagione d…",
-        "link": "https://www.stylosophy.it/articolo/autunno-in-piemonte-luoghi-da-scoprire-tra-borghi-medievali-vigneti-e-sapori-tipici/254035/",
-        "pubDate": "2026-10-16T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Mariasole Pollio incanta tutti alla Festa del Cinema di Roma 2026 con un meraviglioso abito dallo stile goth-chic",
-        "description": "Mariasole Pollio ha sfilato sul magico tappeto rosso della Festa del Cinema di Roma 2026 con un meraviglioso abito lungo dal sapore goth-chic.…",
-        "link": "https://www.stylosophy.it/articolo/mariasole-pollio-incanta-tutti-alla-festa-del-cinema-di-roma-2026-con-un-meraviglioso-abito-dallo-stile-goth-chic/254031/",
-        "pubDate": "2026-10-16T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Mattarella premia Cvetic, Pallini e Ponti. Al Quirinale la cerimonia dei nuovi Cavalieri del Lavoro",
+        "description": "Per il vino c'è Marina Cvetic: \"Questo titolo appartiene anche alla visione di Gianni Masciarelli che per primo ha creduto nelle potenzialità dell'Abruzzo\"…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/cerimonia-quirinale-cavalieri-lavoro-2026-cvetic-pallini-ponti/",
+        "pubDate": "2026-10-21T15:28:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il vino italiano parte alla conquista del Giappone. A Tokyo arrivano 41 cantine premiate con i Tre Bicchieri",
+        "description": "Il 27 ottobre parte da Tokyo il World Tour 2026/2027 del Gambero Rosso, che celebra i 40 anni della Guida Vini d'Italia. In Giappone arrivano 41 cantine premiat…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-world-tour-2026-tokyo-vino-italiano/",
+        "pubDate": "2026-10-21T14:35:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il vino naturale è diventato troppo caro? “La bolla è cresciuta, il prezzo può costituire un’ulteriore barriera”",
+        "description": "Piero Crocenzi, fondatore della fiera Augusta di Torino, racconta contraddizioni e opportunità del vino naturale: prezzi sempre più difficili da sostenere, spec…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vino-naturale-prezzi-alti-speculazione-piero-crocenzi/",
+        "pubDate": "2026-10-21T14:10:36+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vibrazioni al posto dei pesticidi contro la flavescenza dorata. In Trentino ci sono due “vigneti vibrazionali”",
+        "description": "Migliorano le tecnologie per confondere sessualmente l'insetto vettore della malattia. Il progetto della Fondazione Mach raddoppia con un nuovo impianto e finis…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vigneti-vibrazionali-flavescenza-dorata-fondazione-mach/",
+        "pubDate": "2026-10-21T14:06:52+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non arriva più il latte, si ferma la pasta, si svuotano i supermercati: cosa succede in Italia",
+        "description": "Corsa agli acquisti e reparti del fresco azzerati: i blocchi dei trasporti stanno svuotando i supermercati di tutta la Penisola. Dalla pasta alla Mozzarella di …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/sciopero-camionisti-supermercati-vuoti-produzione-cibo-sud-italia/",
+        "pubDate": "2026-10-21T13:56:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vitivinicoltura campana, Copagri chiede lo stato di crisi",
+        "description": "presidente della Regione Roberto Fico\nL'articolo Vitivinicoltura campana, Copagri chiede lo stato di crisi proviene da Winemag.it - Davide Bortone: wine magazin…",
+        "link": "https://www.winemag.it/vitivinicoltura-campana-copagri-chiede-lo-stato-di-crisi/",
+        "pubDate": "2026-10-21T13:46:34+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La birra analcolica conquista i pub inglesi",
+        "description": "Uno studio dell'Università di York ha dimostrato come ai pub possa giovare l'introduzione di birra senza alcool, senza impattare negativamente sulle vendite dei…",
+        "link": "https://www.dissapore.com/notizie/la-birra-analcolica-conquista-i-pub-inglesi/",
+        "pubDate": "2026-10-21T13:39:43+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/birre-analcoliche-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "World’s 50 Best 2026, dieci grandi ristoranti escono dalla Top 50. E Ana Roš si ribella: “Conta più la visibilità del lavoro”",
+        "description": "Pubblicate le posizioni dalla 51 alla 100 della World's 50 Best Restaurants 2026. Uliassi scende al 51° posto, arretrano dieci ristoranti della precedente Top 5…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/worlds-50-best-restaurants-2026-classifica-51-100-uliassi/",
+        "pubDate": "2026-10-21T12:15:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Vendemmia 2026 in Germania: produzione stabile, qualità delle uve molto buona",
+        "description": "La vendemmia 2026 in Germania dovrebbe attestarsi sugli stessi volumi dello scorso anno, con una produzione nazionale stimata del 10% inferiore alla media degli…",
+        "link": "https://www.winemag.it/vendemmia-2026-in-germania-produzione-stabile-qualita-delle-uve-molto-buona/",
+        "pubDate": "2026-10-21T11:25:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Un naso elettronico che trova i difetti prima di vinificare. Il progetto Moët Hennessy riguarda tutta l’enologia",
+        "description": "Il progetto, in collaborazione con Analog Devices e UC Davis, si è concentrato sull'aroma di fungo fresco, interpretando il linguaggio chimico di uva, mosto e v…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/naso-elettronico-vinificazione-progetto-moet-hennessy/",
+        "pubDate": "2026-10-21T10:51:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“La pizza deve restare un cibo per tutti”. Franco Pepe spiega perché non vuole aumentare i prezzi",
+        "description": "Il pizzaiolo di Caiazzo racconta come cerca di contenere i prezzi di Pepe in Grani, puntando sui grandi numeri. E chiede al settore di mantenere la pizza access…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/franco-pepe-prezzi-pizza-aumenti-costi/",
+        "pubDate": "2026-10-21T10:42:14+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La pitta di San Martino, il dolce calabrese che si prepara per tre giorni e si mangia con il vino nuovo",
+        "description": "Fichi secchi, noci, uvetta e vino cotto: la pitta di San Martino è un dolce tradizionale calabrese preparato per l'11 novembre, con ricette diverse da paese a p…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pitta-san-martino-dolce-calabrese-vino-cotto/",
+        "pubDate": "2026-10-21T10:05:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Alto Adige, vendemmia 2026 da record: bianchi freschi e rossi strutturati",
         "description": "La vendemmia 2026 in Alto Adige si è conclusa in anticipo, dopo una stagione caratterizzata da primavera calda, estate torrida e precipitazioni limitate. Nonost…",
@@ -374,6 +482,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Dai carciofi di Schito alla pancetta cilentana: la pizzeria di Salerno che racconta il territorio",
+        "description": "A Salerno, Gennaro Coppeta guida Resilienza, una pizzeria che lavora con piccoli produttori campani. Nel menu, ingredienti locali e reinterpretazioni dei classi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/resilienza-pizzeria-salerno-gennaro-coppeta/",
+        "pubDate": "2026-10-21T09:48:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Castagne del prete: il dolce irpino che arriva in tavola in 30 minuti. Ecco perché si chiamano così e come prepararle oggi a casa",
@@ -428,123 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Tre secondi freddi per l’estate: polpettone di tonno, frittata arrotolata e cotolette di peperoni da preparare oggi in casa",
-        "description": "Scopri tre secondi piatti estivi freddi facili da preparare in anticipo: polpettone di tonno, frittata arrotolata e cotolette di peperoni.…",
-        "link": "https://www.gustoblog.it/2026/10/21/secondi-piatti-estivi-freddi-ricette/",
-        "pubDate": "2026-10-21T09:00:41+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Carne tenera e succosa: il trucco della frutta fresca che trasforma il vostro piatto",
-        "description": "Scopri come rendere carne tenera con frutta fresca usando enzimi naturali di kiwi e ananas. Marinatura veloce in 30-60 minuti per risultati sorprendenti.…",
-        "link": "https://www.gustoblog.it/2026/10/21/rendere-carne-tenera-frutta-marinatura/",
-        "pubDate": "2026-10-21T08:52:36+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Carciofi alla romana o alla giudia: le due anime del carciofo a Roma",
-        "description": "Scopri le differenze tra carciofi alla romana e alla giudia: tecniche di preparazione, stagione di raccolta da novembre, e le tradizioni culinarie del Ghetto e …",
-        "link": "https://www.gustoblog.it/2026/10/21/carciofi-romana-giudia-tradizioni/",
-        "pubDate": "2026-10-21T08:47:03+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Gnocchi di tofu: la ricetta vegana e senza glutine che arriva in tavola in 30 minuti",
-        "description": "Scopri come preparare gnocchi di tofu morbidi e saporiti, perfetti per diete vegane e senza glutine. Leganti, proporzioni e cottura spiegati.…",
-        "link": "https://www.gustoblog.it/2026/10/21/gnocchi-tofu-ricetta-vegana-senza-glutine/",
-        "pubDate": "2026-10-21T08:46:56+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Come riconoscere il pane di qualità al supermercato: etichetta e freschezza",
-        "description": "Scopri i segnali concreti per riconoscere pane di qualità al supermercato: leggi l'etichetta, controlla ingredienti e distingui il pane fresco da quello surgela…",
-        "link": "https://www.gustoblog.it/2026/10/21/come-riconoscere-pane-qualita/",
-        "pubDate": "2026-10-21T08:37:22+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Marmellata o confettura? La differenza non è più quella che conoscevamo",
-        "description": "Per anni abbiamo imparato che la marmellata si fa con gli agrumi e la confettura con il resto della frutta. Una distinzione che le nuove norme hanno rimesso in …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/marmellata-confettura-differenze-nuove-regole-2026/",
-        "pubDate": "2026-10-21T08:00:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quando le caramelle si vendevano davanti al cimitero: l’antica tradizione leccese",
-        "description": "Si chiamano fanfullicchie, sono riccioli di zucchero aromatizzati alla menta e un tempo accompagnavano le visite al camposanto per la Festa dei Morti. Una tradi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fanfullicchie-caramelle-festa-dei-morti-lecce/",
-        "pubDate": "2026-10-21T07:59:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fare il bagno nella birra mentre si beve birra: la moda delle beer spa arriva anche a Roma",
-        "description": "Dalla Repubblica Ceca a Roma, si diffondono le spa con bagni caldi al malto, luppolo e lievito, birra alla spina e saune. Ecco come funzionano e dove si trovano…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/beer-spa-bagni-birra-roma-europa/",
-        "pubDate": "2026-10-21T07:58:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La pasta si ferma: Molisana e Rummo si arrendono alla protesta",
-        "description": "I camion non arrivano, la semola resta bloccata e i pastifici sono costretti a rallentare o spegnere gli impianti.\nL'articolo La pasta si ferma: Molisana e Rumm…",
-        "link": "https://www.dissapore.com/notizie/la-pasta-si-ferma-molisana-e-rummo-si-arrendono-alla-protesta/",
-        "pubDate": "2026-10-21T07:58:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2017/04/DSC_0642.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pumpkin Spice, il panettone autunnale dei Fratelli Sicilia tra zucca, spezie e cioccolato",
-        "description": "Dalla Sicilia al Nord America, il Pumpkin Spice dei Fratelli Sicilia reinterpreta i sapori dell’autunno attraverso un lievitato artigianale da 500 grammi. Zucca…",
-        "link": "https://www.winemag.it/pumpkin-spice-il-panettone-autunnale-dei-fratelli-sicilia-tra-zucca-spezie-e-cioccolato/",
-        "pubDate": "2026-10-21T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il versante sud ovest dell’Etna c’è e può dire la sua. Otto vini da provare",
-        "description": "Le cantine fanno squadra in cerca di uno stile comune.\nL'articolo Il versante sud ovest dell&#8217;Etna c&#8217;è e può dire la sua. Otto vini da provare provie…",
-        "link": "https://www.winemag.it/versante-sud-ovest-etna-otto-vini-da-provare/",
-        "pubDate": "2026-10-20T22:06:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Etna Wine Forum 2026, vini e cucina d’autore a Biancavilla",
-        "description": "Presenti gli chef Heinz Beck, Cristina Bowerman e Vincenzo Candiano.\nL'articolo Etna Wine Forum 2026, vini e cucina d&#8217;autore a Biancavilla proviene da Win…",
-        "link": "https://www.winemag.it/etna-wine-forum-2026-vini-e-cucina-dautore-a-biancavilla/",
-        "pubDate": "2026-10-20T22:02:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "I 12 vini da non perdere alla grande degustazione Tre Bicchieri di Roma. Dal Sassicaia ai piccoli produttori",
-        "description": "Il 25 ottobre, alla Nuvola di Roma, si degustano i vini premiati dalla guida Vini d'Italia 2027. Abbiamo scelto 12 etichette da provare, tra classici e rarità…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tre-bicchieri-roma-2026-12-vini-assaggiare/",
-        "pubDate": "2026-10-20T16:48:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
