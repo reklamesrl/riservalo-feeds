@@ -1,7 +1,160 @@
 {
-  "generated": "2026-10-21T21:19:14.237331+00:00",
+  "generated": "2026-10-22T11:16:14.782009+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La chef Ana Roš dice quello che tutti pensano dei 50 Best Restaurants (ma nessuno osa dire)",
+        "description": "Secondo la chef tristellata di Hiša Franko, qualcosa si è rotto nella 50 Best Restaurants, e l'entusiamo iniziale ha lasciato spazio a un'eccesso di viaggi e ce…",
+        "link": "https://www.dissapore.com/ristoranti/la-chef-ana-ros-dice-quello-che-tutti-pensano-dei-50-best-restaurants-ma-nessuno-osa-dire/",
+        "pubDate": "2026-10-22T10:32:45+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/06/The-worlds-50-best-restaurants-2025-a-torino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Valtellina Casera DOP, al via il progetto TIVAC: ricerca su qualità, conservazione e valore nutrizionale",
+        "description": "Il Valtellina Casera DOP al centro di un progetto di ricerca dedicato all’innovazione tecnologica, alla qualità del prodotto e alla sua valorizzazione commercia…",
+        "link": "https://www.winemag.it/valtellina-casera-dop-al-via-il-progetto-tivac-ricerca-su-qualita-conservazione-e-valore-nutrizionale/",
+        "pubDate": "2026-10-22T10:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Espresso Italiano Champion 2026, cinque baristi in finale il 6 novembre a Torino",
+        "description": "Le finalissime di Espresso Italiano Champion 2026 si terranno il 6 novembre a Torino, negli spazi della Factory 1895 By Lavazza. Cinque baristi, selezionati att…",
+        "link": "https://www.winemag.it/espresso-italiano-champion-2026-cinque-baristi-in-finale-il-6-novembre-a-torino/",
+        "pubDate": "2026-10-22T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "World Pasta Day 2026, la ricetta di Giuseppe Mulargia",
+        "description": "Il 25 ottobre si celebra il World Pasta Day. Per l’occasione, Giuseppe Mulargia, chef del ristorante Le Spighe dell’FH55 Grand Hotel Palatino di Roma, propone u…",
+        "link": "https://www.winemag.it/world-pasta-day-2026-la-ricetta-di-giuseppe-mulargia/",
+        "pubDate": "2026-10-22T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Barbecue in giardino: come organizzare la cucina esterna e i cocktail che rinfrescano",
+        "description": "Guida pratica per organizzare un barbecue in giardino: layout della cucina esterna, disposizione delle zone di lavoro e servizio, cocktail freschi per ridurre l…",
+        "link": "https://www.gustoblog.it/2026/10/22/organizzare-barbecue-giardino-layout/",
+        "pubDate": "2026-10-22T09:04:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Champagne Day 2026: il vero lusso è berlo quando ti va",
+        "description": "Ci vorrebbe uno Champagne Day tutti i giorni, o almeno tutte le volte che viene voglia di stappare una bottiglia. Perché, se è vero che lo Champagne ha un’aura …",
+        "link": "https://www.winemag.it/champagne-day-2026-il-vero-lusso-e-berlo-quando-ti-va/",
+        "pubDate": "2026-10-22T08:39:24+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Champagne-Day-2026-il-vero-lusso-e-berlo-quando-ti-va-abbinamento-champagne-riso-risotto-bureau-italia-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Droni e robot arrivano in vigna (e convengono). Per l’Italia è tempo di un tradimento fedele e necessario",
+        "description": "Con la manodopera sempre più rara e costosa, anche la \"patria del tutto fatto a mano\" deve cedere all'automazione. Ai produttori la scelta tra ciò che migliora …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/italia-droni-robot-vigneto-sarah-heller/",
+        "pubDate": "2026-10-22T07:11:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mattonella fredda allo yogurt e fragole: il dolce al cucchiaio che si prepara senza gelatina",
+        "description": "Scopri come preparare la mattonella fredda yogurt e fragole, un dolce al cucchiaio fresco e compatto senza gelatina, perfetto per l'estate.…",
+        "link": "https://www.gustoblog.it/2026/10/22/mattonella-fredda-yogurt-fragole/",
+        "pubDate": "2026-10-22T05:03:55+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pasticceria Martesana festeggia 60 anni con il Panetùn de l’Enzo e un packaging firmato NABA",
+        "description": "Pasticceria Martesana celebra il sessantesimo anniversario con una collezione dedicata al fondatore Vincenzo Santoro. Al centro del progetto c’è il Panetùn de l…",
+        "link": "https://www.winemag.it/pasticceria-martesana-festeggia-60-anni-con-il-panetun-de-lenzo-e-un-packaging-firmato-naba/",
+        "pubDate": "2026-10-22T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ha girato le pizzerie dei grandi maestri napoletani, poi ha aperto la sua a Salerno",
+        "description": "Gennaro Coppeta ha studiato le pizzerie di Enzo Coccia, Ciro Salvo e Gino Sorbillo prima di avviare il suo progetto a Salerno. Oggi da Resilienza propone pizze …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/resilienza-pizzeria-salerno-gennaro-coppeta/",
+        "pubDate": "2026-10-22T04:02:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I ravioli cinesi che piacciono anche a Joe Bastianich. La piccola trattoria nascosta nella Chinatown di Milano",
+        "description": "A Chinatown, Huacheng è una piccola trattoria cinese dove si dividono i tavoli con gli sconosciuti. I suoi ravioli piacciono anche a Joe Bastianich…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/huacheng-milano-trattoria-cinese-tavoli-condivisi/",
+        "pubDate": "2026-10-22T03:45:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Lecce c’è una caramella che si mangia al cimitero per il giorno dei morti. La storia delle fanfullicchie",
+        "description": "Verdi, profumate alla menta e attorcigliate come piccoli riccioli, le fanfullicchie erano vendute davanti al cimitero di Lecce per Ognissanti e la commemorazion…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fanfullicchie-caramelle-festa-dei-morti-lecce/",
+        "pubDate": "2026-10-22T02:59:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma c’è una spa dove si fa il bagno con gli ingredienti della birra. E si beve direttamente alla spina",
+        "description": "Dalle cantine dei birrifici cechi a Roma, si diffondono i centri benessere dove ci si immerge in vasche con malto, luppolo e lievito. Tra idromassaggi, saune e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/beer-spa-bagni-birra-roma-europa/",
+        "pubDate": "2026-10-22T02:58:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lenticchie, il superfood che arriva in tavola: proprietà nutrizionali e ricette facili da preparare oggi",
+        "description": "Le lenticchie sono ricche di proteine, fibre, ferro e folati. Scopri le varietà, i tempi di cottura e come usarle in cucina per una dieta equilibrata.…",
+        "link": "https://www.gustoblog.it/2026/10/22/benefici-lenticchie-proprieta-nutrizionali/",
+        "pubDate": "2026-10-22T01:04:35+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "75 anni Rauscedo, dalla barbatella al calice: la forza invisibile del vino italiano",
+        "description": "Dal cuore del Friuli più antico e suggestivo hanno preso corpo il passato, il presente e il futuro del vino italiano e non solo. Rauscedo è una frazione di San …",
+        "link": "https://www.winemag.it/75-anni-rauscedo-dalla-barbatella-al-calice-la-forza-invisibile-del-vino-italiano/",
+        "pubDate": "2026-10-21T22:06:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/75-anni-cantina-rauscedo-La-cooperativa-friulana-celebra-i-settentacinque-anni-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dietro una pizza perfetta: la scienza della cottura",
+        "description": "Scopri la scienza dietro una pizza perfetta: le reazioni chimiche dell'impasto, pomodoro e mozzarella, temperature ideali e come evitare errori comuni.…",
+        "link": "https://www.gustoblog.it/2026/10/22/scienza-cottura-pizza/",
+        "pubDate": "2026-10-21T22:05:17+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "75 anni Cantina Rauscedo, dal Pinot Grigio al Sauvignon: i vini degustati",
+        "description": "75 anni Cantina Rauscedo, dal Pinot Grigio al Sauvignon: i vini degustati\nL'articolo 75 anni Cantina Rauscedo, dal Pinot Grigio al Sauvignon: i vini degustati p…",
+        "link": "https://www.winemag.it/75-anni-cantina-rauscedo-dal-pinot-grigio-al-sauvignon-i-vini-degustati/",
+        "pubDate": "2026-10-21T22:05:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Polpo morbido in cottura: 3 trucchi per evitare la consistenza gommosa",
         "description": "Scopri come ottenere un polpo morbido in cottura con 3 metodi comprovati: congelamento, cottura lenta e ingredienti tradizionali per evitare la consistenza gomm…",
@@ -28,159 +181,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vino italiano parte alla conquista del Giappone. A Tokyo arrivano 41 cantine premiate con i Tre Bicchieri",
-        "description": "Il 27 ottobre parte da Tokyo il World Tour 2026/2027 del Gambero Rosso, che celebra i 40 anni della Guida Vini d'Italia. In Giappone arrivano 41 cantine premiat…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-world-tour-2026-tokyo-vino-italiano/",
-        "pubDate": "2026-10-21T14:35:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un regalo speciale per il tuo amico 4 zampe: arriva la cuccia che dondola e dona serenità",
-        "description": "Con Shell, la sdraietta basculante di Tavo Pets, il relax prende forma.…",
-        "link": "https://www.stylosophy.it/articolo/un-regalo-speciale-per-il-tuo-amico-4-zampe-arriva-la-cuccia-che-dondola-e-dona-serenita/254084/",
-        "pubDate": "2026-10-21T14:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il vino naturale è diventato troppo caro? “La bolla è cresciuta, il prezzo può costituire un’ulteriore barriera”",
-        "description": "Piero Crocenzi, fondatore della fiera Augusta di Torino, racconta contraddizioni e opportunità del vino naturale: prezzi sempre più difficili da sostenere, spec…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-naturale-prezzi-alti-speculazione-piero-crocenzi/",
-        "pubDate": "2026-10-21T14:10:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vibrazioni al posto dei pesticidi contro la flavescenza dorata. In Trentino ci sono due “vigneti vibrazionali”",
-        "description": "Migliorano le tecnologie per confondere sessualmente l'insetto vettore della malattia. Il progetto della Fondazione Mach raddoppia con un nuovo impianto e finis…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vigneti-vibrazionali-flavescenza-dorata-fondazione-mach/",
-        "pubDate": "2026-10-21T14:06:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non arriva più il latte, si ferma la pasta, si svuotano i supermercati: cosa succede in Italia",
-        "description": "Corsa agli acquisti e reparti del fresco azzerati: i blocchi dei trasporti stanno svuotando i supermercati di tutta la Penisola. Dalla pasta alla Mozzarella di …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/sciopero-camionisti-supermercati-vuoti-produzione-cibo-sud-italia/",
-        "pubDate": "2026-10-21T13:56:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vitivinicoltura campana, Copagri chiede lo stato di crisi",
-        "description": "presidente della Regione Roberto Fico\nL'articolo Vitivinicoltura campana, Copagri chiede lo stato di crisi proviene da Winemag.it - Davide Bortone: wine magazin…",
-        "link": "https://www.winemag.it/vitivinicoltura-campana-copagri-chiede-lo-stato-di-crisi/",
-        "pubDate": "2026-10-21T13:46:34+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La birra analcolica conquista i pub inglesi",
-        "description": "Uno studio dell'Università di York ha dimostrato come ai pub possa giovare l'introduzione di birra senza alcool, senza impattare negativamente sulle vendite dei…",
-        "link": "https://www.dissapore.com/notizie/la-birra-analcolica-conquista-i-pub-inglesi/",
-        "pubDate": "2026-10-21T13:39:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/birre-analcoliche-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Access All Areas: Zalando porta la moda sul palco con RAYE",
-        "description": "Se c’è una cosa che accomuna moda e musica, è che sanno raccontare lo spirito del proprio tempo. E proprio da questo incontro nasce Access All Areas, il nuovo f…",
-        "link": "https://www.grazia.it/moda/news-moda/access-all-areas-festival-zalando-raye-berlino-1006922",
-        "pubDate": "2026-10-21T13:13:10+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/ok-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Maria Esposito, Look da vera diva glamour d’altri tempi alla Festa del Cinema di Roma 2026",
-        "description": "Maria Esposito sfila sul red carpet della Festa del Cinema di Roma 2026 con un meraviglioso look dal sapore retro.…",
-        "link": "https://www.stylosophy.it/articolo/maria-esposito-look-da-vera-diva-glamour-daltri-tempi-alla-festa-del-cinema-di-roma-2026/254079/",
-        "pubDate": "2026-10-21T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "World’s 50 Best 2026, dieci grandi ristoranti escono dalla Top 50. E Ana Roš si ribella: “Conta più la visibilità del lavoro”",
-        "description": "Pubblicate le posizioni dalla 51 alla 100 della World's 50 Best Restaurants 2026. Uliassi scende al 51° posto, arretrano dieci ristoranti della precedente Top 5…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/worlds-50-best-restaurants-2026-classifica-51-100-uliassi/",
-        "pubDate": "2026-10-21T12:15:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che scarpe mettere con i jeans? 7 combo da sfoggiare quest’autunno in base al modello",
-        "description": "Sono uno di quei capi a non sappiamo proprio rinunciare, non facciamo altro che collezionare modelli su modelli e ogni scusa è buona per regalarcene di nuovi: i…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/che-scarpe-mettere-con-jeans-look-come-indossare-idee-outfit-1006969",
-        "pubDate": "2026-10-21T12:03:47+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/EVI_Con_quali_scarpe_indossare_jeans-2.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Bye bye nero: questi sono i due 2 colori autunnali perfetti per “illuminare” dopo i 40 anni (e la nuance da evitare assolutamente)",
-        "description": "Ogni autunno, molte donne over 40 si rifugiano nel nero senza accorgersi che spegne il viso. Tre colori insospettabili e un grigio traditore cambiano radicalmen…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/colori-autunno-da-indossare-dopo-40-anni-abbigliamento-donna-tris-993628",
-        "pubDate": "2026-10-21T11:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/08/colori-autunno-dopo-a40-anni.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Vendemmia 2026 in Germania: produzione stabile, qualità delle uve molto buona",
-        "description": "La vendemmia 2026 in Germania dovrebbe attestarsi sugli stessi volumi dello scorso anno, con una produzione nazionale stimata del 10% inferiore alla media degli…",
-        "link": "https://www.winemag.it/vendemmia-2026-in-germania-produzione-stabile-qualita-delle-uve-molto-buona/",
-        "pubDate": "2026-10-21T11:25:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Un naso elettronico che trova i difetti prima di vinificare. Il progetto Moët Hennessy riguarda tutta l’enologia",
-        "description": "Il progetto, in collaborazione con Analog Devices e UC Davis, si è concentrato sull'aroma di fungo fresco, interpretando il linguaggio chimico di uva, mosto e v…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/naso-elettronico-vinificazione-progetto-moet-hennessy/",
-        "pubDate": "2026-10-21T10:51:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“La pizza deve restare un cibo per tutti”. Franco Pepe spiega perché non vuole aumentare i prezzi",
-        "description": "Il pizzaiolo di Caiazzo racconta come cerca di contenere i prezzi di Pepe in Grani, puntando sui grandi numeri. E chiede al settore di mantenere la pizza access…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/franco-pepe-prezzi-pizza-aumenti-costi/",
-        "pubDate": "2026-10-21T10:42:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La pitta di San Martino, il dolce calabrese che si prepara per tre giorni e si mangia con il vino nuovo",
-        "description": "Fichi secchi, noci, uvetta e vino cotto: la pitta di San Martino è un dolce tradizionale calabrese preparato per l'11 novembre, con ricette diverse da paese a p…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pitta-san-martino-dolce-calabrese-vino-cotto/",
-        "pubDate": "2026-10-21T10:05:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Alto Adige, vendemmia 2026 da record: bianchi freschi e rossi strutturati",
-        "description": "La vendemmia 2026 in Alto Adige si è conclusa in anticipo, dopo una stagione caratterizzata da primavera calda, estate torrida e precipitazioni limitate. Nonost…",
-        "link": "https://www.winemag.it/alto-adige-vendemmia-2026-da-record-bianchi-freschi-e-rossi-strutturati/",
-        "pubDate": "2026-10-21T10:04:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,159 @@
     ],
     "lifestyle": [
       {
+        "title": "La chef Ana Roš dice quello che tutti pensano dei 50 Best Restaurants (ma nessuno osa dire)",
+        "description": "Secondo la chef tristellata di Hiša Franko, qualcosa si è rotto nella 50 Best Restaurants, e l'entusiamo iniziale ha lasciato spazio a un'eccesso di viaggi e ce…",
+        "link": "https://www.dissapore.com/ristoranti/la-chef-ana-ros-dice-quello-che-tutti-pensano-dei-50-best-restaurants-ma-nessuno-osa-dire/",
+        "pubDate": "2026-10-22T10:32:45+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/06/The-worlds-50-best-restaurants-2025-a-torino-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Valtellina Casera DOP, al via il progetto TIVAC: ricerca su qualità, conservazione e valore nutrizionale",
+        "description": "Il Valtellina Casera DOP al centro di un progetto di ricerca dedicato all’innovazione tecnologica, alla qualità del prodotto e alla sua valorizzazione commercia…",
+        "link": "https://www.winemag.it/valtellina-casera-dop-al-via-il-progetto-tivac-ricerca-su-qualita-conservazione-e-valore-nutrizionale/",
+        "pubDate": "2026-10-22T10:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Espresso Italiano Champion 2026, cinque baristi in finale il 6 novembre a Torino",
+        "description": "Le finalissime di Espresso Italiano Champion 2026 si terranno il 6 novembre a Torino, negli spazi della Factory 1895 By Lavazza. Cinque baristi, selezionati att…",
+        "link": "https://www.winemag.it/espresso-italiano-champion-2026-cinque-baristi-in-finale-il-6-novembre-a-torino/",
+        "pubDate": "2026-10-22T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "World Pasta Day 2026, la ricetta di Giuseppe Mulargia",
+        "description": "Il 25 ottobre si celebra il World Pasta Day. Per l’occasione, Giuseppe Mulargia, chef del ristorante Le Spighe dell’FH55 Grand Hotel Palatino di Roma, propone u…",
+        "link": "https://www.winemag.it/world-pasta-day-2026-la-ricetta-di-giuseppe-mulargia/",
+        "pubDate": "2026-10-22T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Barbecue in giardino: come organizzare la cucina esterna e i cocktail che rinfrescano",
+        "description": "Guida pratica per organizzare un barbecue in giardino: layout della cucina esterna, disposizione delle zone di lavoro e servizio, cocktail freschi per ridurre l…",
+        "link": "https://www.gustoblog.it/2026/10/22/organizzare-barbecue-giardino-layout/",
+        "pubDate": "2026-10-22T09:04:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Champagne Day 2026: il vero lusso è berlo quando ti va",
+        "description": "Ci vorrebbe uno Champagne Day tutti i giorni, o almeno tutte le volte che viene voglia di stappare una bottiglia. Perché, se è vero che lo Champagne ha un’aura …",
+        "link": "https://www.winemag.it/champagne-day-2026-il-vero-lusso-e-berlo-quando-ti-va/",
+        "pubDate": "2026-10-22T08:39:24+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Champagne-Day-2026-il-vero-lusso-e-berlo-quando-ti-va-abbinamento-champagne-riso-risotto-bureau-italia-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Droni e robot arrivano in vigna (e convengono). Per l’Italia è tempo di un tradimento fedele e necessario",
+        "description": "Con la manodopera sempre più rara e costosa, anche la \"patria del tutto fatto a mano\" deve cedere all'automazione. Ai produttori la scelta tra ciò che migliora …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/italia-droni-robot-vigneto-sarah-heller/",
+        "pubDate": "2026-10-22T07:11:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Mattonella fredda allo yogurt e fragole: il dolce al cucchiaio che si prepara senza gelatina",
+        "description": "Scopri come preparare la mattonella fredda yogurt e fragole, un dolce al cucchiaio fresco e compatto senza gelatina, perfetto per l'estate.…",
+        "link": "https://www.gustoblog.it/2026/10/22/mattonella-fredda-yogurt-fragole/",
+        "pubDate": "2026-10-22T05:03:55+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pasticceria Martesana festeggia 60 anni con il Panetùn de l’Enzo e un packaging firmato NABA",
+        "description": "Pasticceria Martesana celebra il sessantesimo anniversario con una collezione dedicata al fondatore Vincenzo Santoro. Al centro del progetto c’è il Panetùn de l…",
+        "link": "https://www.winemag.it/pasticceria-martesana-festeggia-60-anni-con-il-panetun-de-lenzo-e-un-packaging-firmato-naba/",
+        "pubDate": "2026-10-22T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Ha girato le pizzerie dei grandi maestri napoletani, poi ha aperto la sua a Salerno",
+        "description": "Gennaro Coppeta ha studiato le pizzerie di Enzo Coccia, Ciro Salvo e Gino Sorbillo prima di avviare il suo progetto a Salerno. Oggi da Resilienza propone pizze …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/resilienza-pizzeria-salerno-gennaro-coppeta/",
+        "pubDate": "2026-10-22T04:02:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I ravioli cinesi che piacciono anche a Joe Bastianich. La piccola trattoria nascosta nella Chinatown di Milano",
+        "description": "A Chinatown, Huacheng è una piccola trattoria cinese dove si dividono i tavoli con gli sconosciuti. I suoi ravioli piacciono anche a Joe Bastianich…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/huacheng-milano-trattoria-cinese-tavoli-condivisi/",
+        "pubDate": "2026-10-22T03:45:47+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Lecce c’è una caramella che si mangia al cimitero per il giorno dei morti. La storia delle fanfullicchie",
+        "description": "Verdi, profumate alla menta e attorcigliate come piccoli riccioli, le fanfullicchie erano vendute davanti al cimitero di Lecce per Ognissanti e la commemorazion…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/fanfullicchie-caramelle-festa-dei-morti-lecce/",
+        "pubDate": "2026-10-22T02:59:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma c’è una spa dove si fa il bagno con gli ingredienti della birra. E si beve direttamente alla spina",
+        "description": "Dalle cantine dei birrifici cechi a Roma, si diffondono i centri benessere dove ci si immerge in vasche con malto, luppolo e lievito. Tra idromassaggi, saune e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/beer-spa-bagni-birra-roma-europa/",
+        "pubDate": "2026-10-22T02:58:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lenticchie, il superfood che arriva in tavola: proprietà nutrizionali e ricette facili da preparare oggi",
+        "description": "Le lenticchie sono ricche di proteine, fibre, ferro e folati. Scopri le varietà, i tempi di cottura e come usarle in cucina per una dieta equilibrata.…",
+        "link": "https://www.gustoblog.it/2026/10/22/benefici-lenticchie-proprieta-nutrizionali/",
+        "pubDate": "2026-10-22T01:04:35+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "75 anni Rauscedo, dalla barbatella al calice: la forza invisibile del vino italiano",
+        "description": "Dal cuore del Friuli più antico e suggestivo hanno preso corpo il passato, il presente e il futuro del vino italiano e non solo. Rauscedo è una frazione di San …",
+        "link": "https://www.winemag.it/75-anni-rauscedo-dalla-barbatella-al-calice-la-forza-invisibile-del-vino-italiano/",
+        "pubDate": "2026-10-21T22:06:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/75-anni-cantina-rauscedo-La-cooperativa-friulana-celebra-i-settentacinque-anni-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dietro una pizza perfetta: la scienza della cottura",
+        "description": "Scopri la scienza dietro una pizza perfetta: le reazioni chimiche dell'impasto, pomodoro e mozzarella, temperature ideali e come evitare errori comuni.…",
+        "link": "https://www.gustoblog.it/2026/10/22/scienza-cottura-pizza/",
+        "pubDate": "2026-10-21T22:05:17+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "75 anni Cantina Rauscedo, dal Pinot Grigio al Sauvignon: i vini degustati",
+        "description": "75 anni Cantina Rauscedo, dal Pinot Grigio al Sauvignon: i vini degustati\nL'articolo 75 anni Cantina Rauscedo, dal Pinot Grigio al Sauvignon: i vini degustati p…",
+        "link": "https://www.winemag.it/75-anni-cantina-rauscedo-dal-pinot-grigio-al-sauvignon-i-vini-degustati/",
+        "pubDate": "2026-10-21T22:05:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Polpo morbido in cottura: 3 trucchi per evitare la consistenza gommosa",
         "description": "Scopri come ottenere un polpo morbido in cottura con 3 metodi comprovati: congelamento, cottura lenta e ingredienti tradizionali per evitare la consistenza gomm…",
         "link": "https://www.gustoblog.it/2026/10/21/polpo-morbido-cottura-trucchi/",
@@ -392,159 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vino italiano parte alla conquista del Giappone. A Tokyo arrivano 41 cantine premiate con i Tre Bicchieri",
-        "description": "Il 27 ottobre parte da Tokyo il World Tour 2026/2027 del Gambero Rosso, che celebra i 40 anni della Guida Vini d'Italia. In Giappone arrivano 41 cantine premiat…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gambero-rosso-world-tour-2026-tokyo-vino-italiano/",
-        "pubDate": "2026-10-21T14:35:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vino naturale è diventato troppo caro? “La bolla è cresciuta, il prezzo può costituire un’ulteriore barriera”",
-        "description": "Piero Crocenzi, fondatore della fiera Augusta di Torino, racconta contraddizioni e opportunità del vino naturale: prezzi sempre più difficili da sostenere, spec…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-naturale-prezzi-alti-speculazione-piero-crocenzi/",
-        "pubDate": "2026-10-21T14:10:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vibrazioni al posto dei pesticidi contro la flavescenza dorata. In Trentino ci sono due “vigneti vibrazionali”",
-        "description": "Migliorano le tecnologie per confondere sessualmente l'insetto vettore della malattia. Il progetto della Fondazione Mach raddoppia con un nuovo impianto e finis…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vigneti-vibrazionali-flavescenza-dorata-fondazione-mach/",
-        "pubDate": "2026-10-21T14:06:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Non arriva più il latte, si ferma la pasta, si svuotano i supermercati: cosa succede in Italia",
-        "description": "Corsa agli acquisti e reparti del fresco azzerati: i blocchi dei trasporti stanno svuotando i supermercati di tutta la Penisola. Dalla pasta alla Mozzarella di …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/sciopero-camionisti-supermercati-vuoti-produzione-cibo-sud-italia/",
-        "pubDate": "2026-10-21T13:56:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vitivinicoltura campana, Copagri chiede lo stato di crisi",
-        "description": "presidente della Regione Roberto Fico\nL'articolo Vitivinicoltura campana, Copagri chiede lo stato di crisi proviene da Winemag.it - Davide Bortone: wine magazin…",
-        "link": "https://www.winemag.it/vitivinicoltura-campana-copagri-chiede-lo-stato-di-crisi/",
-        "pubDate": "2026-10-21T13:46:34+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "La birra analcolica conquista i pub inglesi",
-        "description": "Uno studio dell'Università di York ha dimostrato come ai pub possa giovare l'introduzione di birra senza alcool, senza impattare negativamente sulle vendite dei…",
-        "link": "https://www.dissapore.com/notizie/la-birra-analcolica-conquista-i-pub-inglesi/",
-        "pubDate": "2026-10-21T13:39:43+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/birre-analcoliche-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "World’s 50 Best 2026, dieci grandi ristoranti escono dalla Top 50. E Ana Roš si ribella: “Conta più la visibilità del lavoro”",
-        "description": "Pubblicate le posizioni dalla 51 alla 100 della World's 50 Best Restaurants 2026. Uliassi scende al 51° posto, arretrano dieci ristoranti della precedente Top 5…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/worlds-50-best-restaurants-2026-classifica-51-100-uliassi/",
-        "pubDate": "2026-10-21T12:15:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vendemmia 2026 in Germania: produzione stabile, qualità delle uve molto buona",
-        "description": "La vendemmia 2026 in Germania dovrebbe attestarsi sugli stessi volumi dello scorso anno, con una produzione nazionale stimata del 10% inferiore alla media degli…",
-        "link": "https://www.winemag.it/vendemmia-2026-in-germania-produzione-stabile-qualita-delle-uve-molto-buona/",
-        "pubDate": "2026-10-21T11:25:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Un naso elettronico che trova i difetti prima di vinificare. Il progetto Moët Hennessy riguarda tutta l’enologia",
-        "description": "Il progetto, in collaborazione con Analog Devices e UC Davis, si è concentrato sull'aroma di fungo fresco, interpretando il linguaggio chimico di uva, mosto e v…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/naso-elettronico-vinificazione-progetto-moet-hennessy/",
-        "pubDate": "2026-10-21T10:51:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“La pizza deve restare un cibo per tutti”. Franco Pepe spiega perché non vuole aumentare i prezzi",
-        "description": "Il pizzaiolo di Caiazzo racconta come cerca di contenere i prezzi di Pepe in Grani, puntando sui grandi numeri. E chiede al settore di mantenere la pizza access…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/franco-pepe-prezzi-pizza-aumenti-costi/",
-        "pubDate": "2026-10-21T10:42:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La pitta di San Martino, il dolce calabrese che si prepara per tre giorni e si mangia con il vino nuovo",
-        "description": "Fichi secchi, noci, uvetta e vino cotto: la pitta di San Martino è un dolce tradizionale calabrese preparato per l'11 novembre, con ricette diverse da paese a p…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pitta-san-martino-dolce-calabrese-vino-cotto/",
-        "pubDate": "2026-10-21T10:05:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Alto Adige, vendemmia 2026 da record: bianchi freschi e rossi strutturati",
-        "description": "La vendemmia 2026 in Alto Adige si è conclusa in anticipo, dopo una stagione caratterizzata da primavera calda, estate torrida e precipitazioni limitate. Nonost…",
-        "link": "https://www.winemag.it/alto-adige-vendemmia-2026-da-record-bianchi-freschi-e-rossi-strutturati/",
-        "pubDate": "2026-10-21T10:04:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dai carciofi di Schito alla pancetta cilentana: la pizzeria di Salerno che racconta il territorio",
-        "description": "A Salerno, Gennaro Coppeta guida Resilienza, una pizzeria che lavora con piccoli produttori campani. Nel menu, ingredienti locali e reinterpretazioni dei classi…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/resilienza-pizzeria-salerno-gennaro-coppeta/",
-        "pubDate": "2026-10-21T09:48:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Castagne del prete: il dolce irpino che arriva in tavola in 30 minuti. Ecco perché si chiamano così e come prepararle oggi a casa",
-        "description": "Le castagne del prete sono un prodotto tipico campano essiccato al fumo in Irpinia. Scopri l'origine del nome, il processo artigianale e la storia di questa tra…",
-        "link": "https://www.gustoblog.it/2026/10/21/castagne-del-prete-tradizione-irpina/",
-        "pubDate": "2026-10-21T09:20:37+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Coldiretti propone una class action contro i cibi ultraprocessati nelle scuole",
-        "description": "Al Forum Internazionale dell'Agricoltura e dell'Alimentazione è partita una nuova campagna contro gli ultraprocessati, ma nei fatti si potrà fare ben poco.\nL'ar…",
-        "link": "https://www.dissapore.com/notizie/coldiretti-propone-una-class-action-contro-i-cibi-ultraprocessati-nelle-scuole/",
-        "pubDate": "2026-10-21T09:10:53+00:00",
-        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Schiacciata con l’uva: la ricetta originale toscana che si prepara in casa in 30 minuti",
-        "description": "Scopri come preparare la schiacciata con l'uva ricetta, il dolce toscano autunnale con uva da vino, impasto lievitato e tradizione contadina.…",
-        "link": "https://www.gustoblog.it/2026/10/21/schiacciata-uva-ricetta-toscana/",
-        "pubDate": "2026-10-21T09:09:40+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Verdure estive in padella: melanzane a scarpone e paccheri all’ortolana, tutto senza friggere",
-        "description": "Scopri come cucinare verdure estive in padella con le ricette di melanzane a scarpone e paccheri all'ortolana. Tecniche leggere e senza frittura.…",
-        "link": "https://www.gustoblog.it/2026/10/21/verdure-estive-padella-ricette/",
-        "pubDate": "2026-10-21T09:05:33+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
