@@ -1,7 +1,16 @@
 {
-  "generated": "2026-10-25T15:39:11.180101+00:00",
+  "generated": "2026-10-25T20:27:38.264962+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "In un documento Heineken tutte le preoccupazioni per i farmaci che fanno dimagrire",
+        "description": "Un'esclusiva di Reuters dimostra come l'azienda olandese stia cercando di \"fare formazione\" ai suoi clienti per limitare le perdite.\nL'articolo In un documento …",
+        "link": "https://www.dissapore.com/notizie/in-un-documento-heineken-tutte-le-preoccupazioni-per-i-farmaci-che-fanno-dimagrire/",
+        "pubDate": "2026-10-25T18:36:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/ketchup.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Dimentica le solite capitali europee: 6 città da visitare a novembre lontano dalla folla",
         "description": "Dai quartieri storici dei Balcani alle città universitarie del Portogallo, ecco sei destinazioni europee da scoprire in autunno\nUn'idea per organizzare un weeke…",
@@ -28,6 +37,51 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Producono 30mila bottiglie e potrebbero venderne molte di più. Ma i migliori vignaioli d’Italia non vogliono crescere",
+        "description": "Riccardo e Davide Sobrino producono 30mila bottiglie all'anno su 5,5 ettari a Barbaresco e non vogliono ingrandirsi. Il Gambero Rosso li premia come Vignaioli d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cascina-delle-rose-vignaioli-anno-2027-fratelli-sobrino/",
+        "pubDate": "2026-10-25T13:46:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Da una cantina in Valpolicella a mille ettari in tutta Italia: Tommasi è la Cantina dell’Anno 2027",
+        "description": "La storia di una famiglia che ha saputo crescere, attraversare generazioni e conquistare nuovi territori senza perdere le proprie radic.i. Un percorso che vale …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tommasi-family-estates-premio-cantina-anno-2027/",
+        "pubDate": "2026-10-25T13:31:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti i migliori vini d’Italia secondo il Gambero Rosso",
+        "description": "La guida Vini d'Italia 2027 assegna 540 Tre Bicchieri, 32 in più dello scorso anno. Tra i premiati, 54 aziende al primo riconoscimento, 194 etichette verdi e 50…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-ditalia/",
+        "pubDate": "2026-10-25T13:10:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lollobrigida: “In Italia interventi massicci sul caro gasolio, puntato su aiuti strutturali”",
+        "description": "Intervistato dal Gambero Rosso, a margine della presentazione della guida Vini d'Italia 2027, il ministro difende gli aiuti ad agricoltori e pescatori. Sulla cr…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/lollobrigida-caro-gasolio-interventi-strutturali-vino-usa/",
+        "pubDate": "2026-10-25T12:14:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Due ex studenti di ingegneria hanno aperto una trattoria con menu degustazione a 45 euro",
+        "description": "Daniele Bonanni e Simone Giuliani hanno lasciato ingegneria per dedicarsi alla cucina. A Pasqualina, tra quinto quarto e verdure, propongono cinque portate a 45…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasqualina-frascati-trattoria-menu-degustazione-45-euro/",
+        "pubDate": "2026-10-25T12:08:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Venezia Giulia Igt Verduzzo 2022 Brezàn, Bolzicco",
@@ -120,67 +174,13 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Dietro una pizza perfetta: la chimica e la fisica che trasformano l’impasto in forno",
-        "description": "Scopri cosa accade durante la cottura della pizza in forno: dalla reazione di Maillard alla fusione della mozzarella, i processi scientifici che creano la crost…",
-        "link": "https://www.gustoblog.it/2026/10/25/cottura-pizza-forno-chimica-fisica/",
-        "pubDate": "2026-10-25T09:03:53+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "A Ostia si può pranzare in spiaggia anche in autunno. Ecco dove",
-        "description": "La stagione balneare è finita, ma una nuova ordinanza consente a chioschi e stabilimenti di proseguire le attività. Ecco dove mangiare sul litorale romano anche…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ostia-mangiare-spiaggia-autunno-chioschi-aperti/",
-        "pubDate": "2026-10-25T07:33:49+00:00",
+        "title": "Le 10 cantine che hanno cambiato il vino italiano negli ultimi 40 anni",
+        "description": "Dalla cantina che sfida lo Champagne a quella nata da un esilio milanese: ecco chi sono i protagonisti che in Italia hanno fatto la storia del vino, premiati du…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cantine-iconiche-vino-italiano/",
+        "pubDate": "2026-10-25T10:50:17+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le castagne che vengono affumicate per un mese e poi “battezzate”",
-        "description": "In Irpinia si preparano affumicandole lentamente nei gratali, poi tostandole e immergendole nell'acqua. Una tradizione natalizia che conserva anche mestieri qua…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/castagne-del-prete-irpinia-come-si-fanno-tradizione/",
-        "pubDate": "2026-10-25T07:28:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A 23 anni ha lasciato la politica per aprire un pastificio a Gragnano. E non sapeva quasi nulla di pasta",
-        "description": "Nella Città della Pasta, Chiara Caso ha mollato la carriera per trasformare il pastificio fondato con le amiche ventenni in uno dei migliori d’Italia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chiara-caso-pastificio-ducato-amalfi-gragnano/",
-        "pubDate": "2026-10-25T06:31:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quei puntini bianchi sui formaggi stagionati? Sono cristalli di tirosina, e vi spieghiamo perché sono un segno di qualità",
-        "description": "I puntini bianchi sui formaggi stagionati sono cristalli di tirosina, un aminoacido che si forma naturalmente durante l'invecchiamento. Scopri perché indicano q…",
-        "link": "https://www.gustoblog.it/2026/10/25/puntini-bianchi-formaggi-stagionati-tirosina/",
-        "pubDate": "2026-10-25T05:04:09+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Polpette di carne fritte: come farle morbide dentro e croccanti fuori, la ricetta che funziona",
-        "description": "Scopri come preparare polpette di carne fritte perfette con la giusta proporzione di carne, pane e uovo, temperatura dell'olio e tempi di cottura.…",
-        "link": "https://www.gustoblog.it/2026/10/25/polpette-carne-fritte-ricetta/",
-        "pubDate": "2026-10-25T01:04:29+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Passata di pomodoro, il test de Il Salvagente: pesticidi trovati in 8 marchi su 16",
-        "description": "Il Salvagente ha testato 16 passate di pomodoro rilevando pesticidi in 8 marchi. Scopri quali prodotti contengono spirotetramat e come scegliere più consapevolm…",
-        "link": "https://www.gustoblog.it/2026/10/24/passata-pomodoro-pesticidi-test-salvagente/",
-        "pubDate": "2026-10-24T18:04:52+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ],
     "moda": [
@@ -201,6 +201,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Festa del Cinema di Roma: sul red carpet della serata finale Kim Kardashian sceglie l’animalier, mamma Kris omaggia Liz Taylor",
+        "description": "Si chiude l&#8217;edizione 2026 della Festa del Cinema di Roma e per l&#8217;occasione, sul red carpet che negli ultimi dieci giorni è stato animato da star del…",
+        "link": "https://www.grazia.it/moda/celebrity-style/festa-del-cinema-di-roma-2026-red-carpet-kim-kardashian-kris-jenner-1007950",
+        "pubDate": "2026-10-25T08:38:39+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-festa-cinema-di-Roma-serata-finale.jpeg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "I mocassini più cool del momento? Hanno il tacco",
+        "description": "Chi ama i mocassini sa che l&#8217;autunno è una delle stagioni in cui questo modello di calzatura dà il meglio. Riproposti ormai in tantissime varianti diverse…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/mocassini-con-tacco-autunno-inverno-2026-modelli-tacchi-midi-alti-1005732",
+        "pubDate": "2026-10-25T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-mocassini-con-tacco.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Come ridipingere i mobili in laminato: il restyling facile e veloce senza carteggiare",
@@ -311,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Pelle su pelle: il leather trend 2026, riassunto in questi capi di stagione",
-        "description": "Riscriviamo il guardaroba di stagione con una delle tendenze moda 2026 2027: il leather trend. Dal capospalla alla gonna, dai pantaloni all&#8217;abito, la pell…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pelle-giacche-gonna-gonne-pantaloni-donna-autunno-2026-1005854",
-        "pubDate": "2026-10-22T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_pelle_similpelle.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Argentina in Autunno: ecco perché partire ora alla scoperta delle grandi meraviglie del Paese",
         "description": "Tra ottobre e dicembre il Paese sudamericano entra nella primavera avanzata e si avvicina all’estate, con giornate più lunghe e tante opportunità per esplorare …",
         "link": "https://www.stylosophy.it/articolo/argentina-in-autunno-ecco-perche-partire-ora-alla-scoperta-delle-grandi-meraviglie-del-paese/254093/",
@@ -336,15 +345,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Julianne Moore ci ricorda che la blusa in velluto è il capo più chic da avere nell’armadio (a 60 anni e non solo)",
-        "description": "Non solo protagonista indiscussa della serata, ma anche una vera regina di eleganza: Julianne Moore ieri sera è stata una delle grandi special guest della Festa…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/blusa-in-velluto-zara-camicia-donna-elegante-coste-ovs-julianne-moore-donne-over-60-anni-1007275",
-        "pubDate": "2026-10-22T12:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Blusa_velluto_Julianne_Moore.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Un regalo speciale per il tuo amico 4 zampe: arriva la cuccia che dondola e dona serenità",
@@ -367,6 +367,15 @@
     ],
     "lifestyle": [
       {
+        "title": "In un documento Heineken tutte le preoccupazioni per i farmaci che fanno dimagrire",
+        "description": "Un'esclusiva di Reuters dimostra come l'azienda olandese stia cercando di \"fare formazione\" ai suoi clienti per limitare le perdite.\nL'articolo In un documento …",
+        "link": "https://www.dissapore.com/notizie/in-un-documento-heineken-tutte-le-preoccupazioni-per-i-farmaci-che-fanno-dimagrire/",
+        "pubDate": "2026-10-25T18:36:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/08/ketchup.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Il 97% dell’industria alimentare si basa sullo sfruttamento del lavoro",
         "description": "I numeri di un recente report sono impietosi, e impongono cambiamenti radicali nel settore.\nL'articolo Il 97% dell&#8217;industria alimentare si basa sullo sfru…",
         "link": "https://www.dissapore.com/notizie/il-97-dellindustria-alimentare-si-basa-sullo-sfruttamento-del-lavoro/",
@@ -374,6 +383,51 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/schiavi-sfruttamento-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "Producono 30mila bottiglie e potrebbero venderne molte di più. Ma i migliori vignaioli d’Italia non vogliono crescere",
+        "description": "Riccardo e Davide Sobrino producono 30mila bottiglie all'anno su 5,5 ettari a Barbaresco e non vogliono ingrandirsi. Il Gambero Rosso li premia come Vignaioli d…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cascina-delle-rose-vignaioli-anno-2027-fratelli-sobrino/",
+        "pubDate": "2026-10-25T13:46:18+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Da una cantina in Valpolicella a mille ettari in tutta Italia: Tommasi è la Cantina dell’Anno 2027",
+        "description": "La storia di una famiglia che ha saputo crescere, attraversare generazioni e conquistare nuovi territori senza perdere le proprie radic.i. Un percorso che vale …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tommasi-family-estates-premio-cantina-anno-2027/",
+        "pubDate": "2026-10-25T13:31:39+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Tutti i migliori vini d’Italia secondo il Gambero Rosso",
+        "description": "La guida Vini d'Italia 2027 assegna 540 Tre Bicchieri, 32 in più dello scorso anno. Tra i premiati, 54 aziende al primo riconoscimento, 194 etichette verdi e 50…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-ditalia/",
+        "pubDate": "2026-10-25T13:10:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lollobrigida: “In Italia interventi massicci sul caro gasolio, puntato su aiuti strutturali”",
+        "description": "Intervistato dal Gambero Rosso, a margine della presentazione della guida Vini d'Italia 2027, il ministro difende gli aiuti ad agricoltori e pescatori. Sulla cr…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/lollobrigida-caro-gasolio-interventi-strutturali-vino-usa/",
+        "pubDate": "2026-10-25T12:14:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Due ex studenti di ingegneria hanno aperto una trattoria con menu degustazione a 45 euro",
+        "description": "Daniele Bonanni e Simone Giuliani hanno lasciato ingegneria per dedicarsi alla cucina. A Pasqualina, tra quinto quarto e verdure, propongono cinque portate a 45…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasqualina-frascati-trattoria-menu-degustazione-45-euro/",
+        "pubDate": "2026-10-25T12:08:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Venezia Giulia Igt Verduzzo 2022 Brezàn, Bolzicco",
@@ -466,6 +520,15 @@
         "source": "Wine Mag"
       },
       {
+        "title": "Le 10 cantine che hanno cambiato il vino italiano negli ultimi 40 anni",
+        "description": "Dalla cantina che sfida lo Champagne a quella nata da un esilio milanese: ecco chi sono i protagonisti che in Italia hanno fatto la storia del vino, premiati du…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cantine-iconiche-vino-italiano/",
+        "pubDate": "2026-10-25T10:50:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Dietro una pizza perfetta: la chimica e la fisica che trasformano l’impasto in forno",
         "description": "Scopri cosa accade durante la cottura della pizza in forno: dalla reazione di Maillard alla fusione della mozzarella, i processi scientifici che creano la crost…",
         "link": "https://www.gustoblog.it/2026/10/25/cottura-pizza-forno-chimica-fisica/",
@@ -479,69 +542,6 @@
         "description": "La stagione balneare è finita, ma una nuova ordinanza consente a chioschi e stabilimenti di proseguire le attività. Ecco dove mangiare sul litorale romano anche…",
         "link": "https://www.gamberorosso.it/notizie/attualita/ostia-mangiare-spiaggia-autunno-chioschi-aperti/",
         "pubDate": "2026-10-25T07:33:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le castagne che vengono affumicate per un mese e poi “battezzate”",
-        "description": "In Irpinia si preparano affumicandole lentamente nei gratali, poi tostandole e immergendole nell'acqua. Una tradizione natalizia che conserva anche mestieri qua…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/castagne-del-prete-irpinia-come-si-fanno-tradizione/",
-        "pubDate": "2026-10-25T07:28:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A 23 anni ha lasciato la politica per aprire un pastificio a Gragnano. E non sapeva quasi nulla di pasta",
-        "description": "Nella Città della Pasta, Chiara Caso ha mollato la carriera per trasformare il pastificio fondato con le amiche ventenni in uno dei migliori d’Italia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chiara-caso-pastificio-ducato-amalfi-gragnano/",
-        "pubDate": "2026-10-25T06:31:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quei puntini bianchi sui formaggi stagionati? Sono cristalli di tirosina, e vi spieghiamo perché sono un segno di qualità",
-        "description": "I puntini bianchi sui formaggi stagionati sono cristalli di tirosina, un aminoacido che si forma naturalmente durante l'invecchiamento. Scopri perché indicano q…",
-        "link": "https://www.gustoblog.it/2026/10/25/puntini-bianchi-formaggi-stagionati-tirosina/",
-        "pubDate": "2026-10-25T05:04:09+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Polpette di carne fritte: come farle morbide dentro e croccanti fuori, la ricetta che funziona",
-        "description": "Scopri come preparare polpette di carne fritte perfette con la giusta proporzione di carne, pane e uovo, temperatura dell'olio e tempi di cottura.…",
-        "link": "https://www.gustoblog.it/2026/10/25/polpette-carne-fritte-ricetta/",
-        "pubDate": "2026-10-25T01:04:29+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Passata di pomodoro, il test de Il Salvagente: pesticidi trovati in 8 marchi su 16",
-        "description": "Il Salvagente ha testato 16 passate di pomodoro rilevando pesticidi in 8 marchi. Scopri quali prodotti contengono spirotetramat e come scegliere più consapevolm…",
-        "link": "https://www.gustoblog.it/2026/10/24/passata-pomodoro-pesticidi-test-salvagente/",
-        "pubDate": "2026-10-24T18:04:52+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il brodo dei tortellini ha una ricetta ufficiale: ecco cosa contiene e perché continua a dividere",
-        "description": "La ricetta ufficiale del brodo per i tortellini è stata depositata presso la Camera di Commercio di Bologna. Scopri gli ingredienti e le polemiche che ha genera…",
-        "link": "https://www.gustoblog.it/2026/10/24/brodo-tortellini-ricetta-ufficiale/",
-        "pubDate": "2026-10-24T15:25:22+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "In provincia di Napoli c’è un bar aperto da 64 anni dove la colazione si fa come al ristorante",
-        "description": "A Sant'Anastasia, Raffaele Cantone ha trasformato il bar di famiglia in un bistrot dove la colazione comprende specialty coffee, lievitati, piatti salati e prop…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bistrot-zi-rosa-sant-anastasia-colazione-bar-napoli/",
-        "pubDate": "2026-10-24T14:08:08+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
