@@ -1,7 +1,25 @@
 {
-  "generated": "2026-10-25T20:27:38.264962+00:00",
+  "generated": "2026-10-26T12:22:29.342174+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il basilico può essere un antidepressivo?",
+        "description": "Un recente studio apre a nuove possibilità per il supporto dei trattamenti per ansia e depressione.\nL'articolo Il basilico può essere un antidepressivo? provien…",
+        "link": "https://www.dissapore.com/notizie/il-basilico-puo-essere-un-antidepressivo/",
+        "pubDate": "2026-10-26T09:53:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/basilico-scienziata-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Aquila Reale Riserva compie 40 anni: 500 magnum dell’annata 2001 firmate Cesarini Sforza",
+        "description": "Aquila Reale Riserva compie 40 anni. Un percorso iniziato con la vendemmia 1986 e arrivato oggi a un traguardo che pochi Metodo Classico italiani possono vantar…",
+        "link": "https://www.winemag.it/aquila-reale-riserva-compie-40-anni-500-magnum-dellannata-2001-firmate-cesarini-sforza/",
+        "pubDate": "2026-10-26T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "In un documento Heineken tutte le preoccupazioni per i farmaci che fanno dimagrire",
         "description": "Un'esclusiva di Reuters dimostra come l'azienda olandese stia cercando di \"fare formazione\" ai suoi clienti per limitare le perdite.\nL'articolo In un documento …",
@@ -163,24 +181,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Venezia Giulia Igt Bianco 2024 Bakren, Sosol",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Venezia Giulia Igt Bianco 2024 Bakren, Sosol proviene da Winemag.it - Davide Bortone: win…",
-        "link": "https://www.winemag.it/venezia-giulia-igt-bianco-2024-bakren-sosol/",
-        "pubDate": "2026-10-25T10:50:29+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Le 10 cantine che hanno cambiato il vino italiano negli ultimi 40 anni",
-        "description": "Dalla cantina che sfida lo Champagne a quella nata da un esilio milanese: ecco chi sono i protagonisti che in Italia hanno fatto la storia del vino, premiati du…",
-        "link": "https://www.gamberorosso.it/notizie/vino/cantine-iconiche-vino-italiano/",
-        "pubDate": "2026-10-25T10:50:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,24 @@
     ],
     "lifestyle": [
       {
+        "title": "Il basilico può essere un antidepressivo?",
+        "description": "Un recente studio apre a nuove possibilità per il supporto dei trattamenti per ansia e depressione.\nL'articolo Il basilico può essere un antidepressivo? provien…",
+        "link": "https://www.dissapore.com/notizie/il-basilico-puo-essere-un-antidepressivo/",
+        "pubDate": "2026-10-26T09:53:05+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/basilico-scienziata-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Aquila Reale Riserva compie 40 anni: 500 magnum dell’annata 2001 firmate Cesarini Sforza",
+        "description": "Aquila Reale Riserva compie 40 anni. Un percorso iniziato con la vendemmia 1986 e arrivato oggi a un traguardo che pochi Metodo Classico italiani possono vantar…",
+        "link": "https://www.winemag.it/aquila-reale-riserva-compie-40-anni-500-magnum-dellannata-2001-firmate-cesarini-sforza/",
+        "pubDate": "2026-10-26T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "In un documento Heineken tutte le preoccupazioni per i farmaci che fanno dimagrire",
         "description": "Un'esclusiva di Reuters dimostra come l'azienda olandese stia cercando di \"fare formazione\" ai suoi clienti per limitare le perdite.\nL'articolo In un documento …",
         "link": "https://www.dissapore.com/notizie/in-un-documento-heineken-tutte-le-preoccupazioni-per-i-farmaci-che-fanno-dimagrire/",
@@ -511,15 +529,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Venezia Giulia Igt Bianco 2024 Bakren, Sosol",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Venezia Giulia Igt Bianco 2024 Bakren, Sosol proviene da Winemag.it - Davide Bortone: win…",
-        "link": "https://www.winemag.it/venezia-giulia-igt-bianco-2024-bakren-sosol/",
-        "pubDate": "2026-10-25T10:50:29+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Le 10 cantine che hanno cambiato il vino italiano negli ultimi 40 anni",
         "description": "Dalla cantina che sfida lo Champagne a quella nata da un esilio milanese: ecco chi sono i protagonisti che in Italia hanno fatto la storia del vino, premiati du…",
         "link": "https://www.gamberorosso.it/notizie/vino/cantine-iconiche-vino-italiano/",
@@ -536,15 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "A Ostia si può pranzare in spiaggia anche in autunno. Ecco dove",
-        "description": "La stagione balneare è finita, ma una nuova ordinanza consente a chioschi e stabilimenti di proseguire le attività. Ecco dove mangiare sul litorale romano anche…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ostia-mangiare-spiaggia-autunno-chioschi-aperti/",
-        "pubDate": "2026-10-25T07:33:49+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
