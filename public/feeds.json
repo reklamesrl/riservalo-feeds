@@ -1,7 +1,115 @@
 {
-  "generated": "2026-10-27T17:34:35.339073+00:00",
+  "generated": "2026-10-27T21:52:14.086776+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Cosa succede davvero quando la pizza arriva al forno: i segreti della cottura perfetta",
+        "description": "Scopri cosa accade davvero durante la cottura della pizza: reazioni chimiche, temperature ideali e come impasto, pomodoro e mozzarella si trasformano.…",
+        "link": "https://www.gustoblog.it/2026/10/27/cottura-pizza-trasformazioni-forno/",
+        "pubDate": "2026-10-27T21:23:59+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Capocollo di Martina Franca, il nuovo presidio Igp che arriva sulle tavole europee",
+        "description": "Il Capocollo di Martina Franca ha ottenuto il riconoscimento IGP dell'Unione Europea a ottobre 2026. Scopri cosa significa per i produttori pugliesi e la tracci…",
+        "link": "https://www.gustoblog.it/2026/10/27/capocollo-martina-franca-igp-riconoscimento/",
+        "pubDate": "2026-10-27T21:23:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Colli Trevigiani Igt 2025 Incrocio Manzoni Bianco 6.0.13, Collalto",
+        "description": "Dalla Guida Winemag 2027.\nL'articolo Colli Trevigiani Igt 2025 Incrocio Manzoni Bianco 6.0.13, Collalto proviene da Winemag.it - Davide Bortone: wine magazine i…",
+        "link": "https://www.winemag.it/colli-trevigiani-igt-2025-incrocio-manzoni-bianco-6-0-13-collalto/",
+        "pubDate": "2026-10-27T19:12:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Colli Trevigiani Igp 2024 Manzoni Bianco Schenella, Collalto",
+        "description": "Dalla Guida Winemag 2027.\nL'articolo Colli Trevigiani Igp 2024 Manzoni Bianco Schenella, Collalto proviene da Winemag.it - Davide Bortone: wine magazine italian…",
+        "link": "https://www.winemag.it/colli-trevigiani-igp-2024-manzoni-bianco-schenella-collalto/",
+        "pubDate": "2026-10-27T19:12:30+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spumante Rosè Extra Dry Incrocio Manzoni Moscato 10.0.25 Violette, Collalto",
+        "description": "Dalla Guida Winemag 2027.\nL'articolo Spumante Rosè Extra Dry Incrocio Manzoni Moscato 10.0.25 Violette, Collalto proviene da Winemag.it - Davide Bortone: wine m…",
+        "link": "https://www.winemag.it/spumante-rose-extra-dry-incrocio-manzoni-moscato-10-0-25-violette-collalto/",
+        "pubDate": "2026-10-27T19:12:29+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Conegliano Valdobbiadene Docg Prosecco Superiore Brut millesimato San Salvatore, Conte Collalto",
+        "description": "PUNTEGGIO WINEMAG 89 / 100 Vino raccomandato / quotidiano Guida Winemag 2027\nL'articolo Conegliano Valdobbiadene Docg Prosecco Superiore Brut millesimato San Sa…",
+        "link": "https://www.winemag.it/conegliano-valdobbiadene-docg-prosecco-superiore-brut-millesimato-san-salvatore-conte-collalto/",
+        "pubDate": "2026-10-27T19:12:28+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Conegliano Valdobbiadene Docg Prosecco Superiore Rive di Collalto Isabella, Collalto",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Conegliano Valdobbiadene Docg Prosecco Superiore Rive di Collalto Isabella, Collalto prov…",
+        "link": "https://www.winemag.it/conegliano-valdobbiadene-docg-prosecco-superiore-rive-di-collalto-isabella-collalto/",
+        "pubDate": "2026-10-27T19:12:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Conegliano Valdobbiadene Docg Prosecco Superiore Rive di Colfosco Extra Brut Ponte Rosso, Conte Collalto",
+        "description": "PUNTEGGIO WINEMAG 90 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Conegliano Valdobbiadene Docg Prosecco Superiore Rive di Colfosco Extra Brut Ponte Ross…",
+        "link": "https://www.winemag.it/conegliano-valdobbiadene-docg-prosecco-superiore-rive-di-colfosco-extra-brut-ponte-rosso-conte-collalto/",
+        "pubDate": "2026-10-27T19:12:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Wildbacher Colli Trevigiani Igt 2021, Collalto",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Wildbacher Colli Trevigiani Igt 2021, Collalto proviene da Winemag.it - Davide Bortone: w…",
+        "link": "https://www.winemag.it/wildbacher-colli-trevigiani-igt-2021-collalto/",
+        "pubDate": "2026-10-27T19:12:26+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Venezia Doc Cabernet Riserva 2020 Torrai, Collalto",
+        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Venezia Doc Cabernet Riserva 2020 Torrai, Collalto proviene da Winemag.it - Davide Borton…",
+        "link": "https://www.winemag.it/venezia-doc-cabernet-riserva-2020-torrai-collalto/",
+        "pubDate": "2026-10-27T19:12:25+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Colli di Conegliano Rosso Docg Riserva 2020 Vinciguerra, Collalto",
+        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Colli di Conegliano Rosso Docg Riserva 2020 Vinciguerra, Collalto proviene da Winemag.it …",
+        "link": "https://www.winemag.it/colli-di-conegliano-rosso-docg-riserva-2020-vinciguerra-collalto/",
+        "pubDate": "2026-10-27T19:12:24+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Conegliano Valdobbiadene Prosecco Superiore Docg Millesimato 2025 Extra Dry Gaio, Collalto",
+        "description": "PUNTEGGIO WINEMAG 88 / 100 Vino Raccomandato / quotidiano Guida Winemag 2027\nL'articolo Conegliano Valdobbiadene Prosecco Superiore Docg Millesimato 2025 Extra …",
+        "link": "https://www.winemag.it/conegliano-valdobbiadene-prosecco-superiore-docg-millesimato-2025-extra-dry-gaio-collalto/",
+        "pubDate": "2026-10-27T19:12:23+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Marco Sacco lascia Piano 35 a Torino",
         "description": "Marco Sacco lascia Piano35 a Torino, e un'altra stella della città diventa ballerina. \nL'articolo Marco Sacco lascia Piano 35 a Torino proviene da Dissapore.…",
@@ -10,6 +118,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2023/12/marco-sacco.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Strappati, macchiati, usurati: preparatevi al ritorno dei jeans “used”",
+        "description": "Sembrava che il loro periodo fosse definitivamente un ricordo, e invece i jeans a effetto usato, quelli strappati, macchiati o slavati, sono nuovamente in cima …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-strappati-vanno-ancora-di-moda-2026-denim-effetto-used-con-strappi-1006624",
+        "pubDate": "2026-10-27T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-jeans-distressed-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Pasta ‘ncasciata messinese: la ricetta originale del primo piatto al forno ricco e goloso",
@@ -39,6 +156,15 @@
         "source": "Stylosophy"
       },
       {
+        "title": "VERTIGO, la maglieria di iBlues incontra l’immaginario di Clara Cebrián",
+        "description": "Una capsule collection che trasforma colori, disegni e suggestioni paesaggistiche in capi da indossare. Undici pezzi in maglia, tra fantasie d&#8217;autore e te…",
+        "link": "https://www.grazia.it/moda/news-moda/iblues-maglieria-capsule-vertigo-clara-cebrian-1007751",
+        "pubDate": "2026-10-27T14:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/IBLUES_vertigo-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "“Chiudiamo il ristorante due mesi all’anno”. La scelta di Niko Romito per far lavorare meglio i suoi cuochi",
         "description": "Niko Romito conquista 99 punti su 100 nella Guida Ristoranti d'Italia 2027 del Gambero Rosso. Nell'intervista parla di lavoro ed ego degli chef. \"La 50 Best? No…",
         "link": "https://www.gamberorosso.it/notizie/attualita/niko-romito-reale-chiusura-due-mesi-lavoro-cuochi/",
@@ -55,135 +181,18 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Scat_to-1-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Cosa mangiano i calciatori prima di una partita",
-        "description": "Jacopo Naitana, biologo nutrizionista del Cagliari, racconta come cambia l'alimentazione dei calciatori tra allenamenti e partite, e spiega il ruolo di carboidr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/cosa-mangiano-calciatori-serie-a-nutrizionista-cagliari/",
-        "pubDate": "2026-10-27T11:25:07+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre ricercatori italiani hanno creato un’intelligenza artificiale che prevede dove trovare i funghi nei boschi",
-        "description": "Tre dottorandi dell'Università di Genova hanno sviluppato MyBoletus, una piattaforma che analizza clima e territorio per indicare dove è più probabile trovare f…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/myboletus-intelligenza-artificiale-mappa-dove-trovare-funghi/",
-        "pubDate": "2026-10-27T11:18:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Australia un vino in bottiglia minuscola vende 500 pezzi all’ora. E ora vuole conquistare anche l’Europa",
-        "description": "Il marchio australiano Poco Vino vende bottiglie da 187 millilitri e dichiara una distribuzione in migliaia di negozi. Tra nuovi formati e marketing informale, …",
-        "link": "https://www.gamberorosso.it/notizie/vino/poco-vino-australia-mini-bottiglie-187-ml-vendite/",
-        "pubDate": "2026-10-27T11:15:11+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tarte Tatin, la ricetta originale francese della torta di mele rovesciata",
-        "description": "Scopri la tarte tatin ricetta autentica con le tecniche di caramellizzazione, scelta della pasta e il rovesciamento perfetto del dolce francese.…",
-        "link": "https://www.gustoblog.it/2026/10/27/tarte-tatin-ricetta-originale/",
-        "pubDate": "2026-10-27T11:09:56+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il taco che conosciamo non è quello che si mangia in Messico. Ecco come è diventato un simbolo della cucina americana",
-        "description": "Dalle tortillas di mais ai tacos al pastor, fino al guscio croccante reso popolare negli Stati Uniti: come è nata e si è trasformata una delle preparazioni più …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/taco-storia-origini-messico-tortilla-taco-bell/",
-        "pubDate": "2026-10-27T11:08:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Toscana c’è una cantina che ha rinunciato a puntare sui grandi rossi. Ora più della metà del vino è rosato",
-        "description": "A pochi chilometri da Lucca, Fattoria Sardi dedica oltre metà della produzione ai rosati. Una scelta nata dal clima della Val Freddana e diventata una scommessa…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/fattoria-sardi-lucca-vino-rosato-primavere-le-cicale/",
-        "pubDate": "2026-10-27T11:04:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In una città siciliana c’è un pane così importante che i fornai hanno lottato per poterlo preparare anche di domenica",
-        "description": "Il 10 novembre i forni della città sfornano migliaia di muffulette da aprire calde e condire con l'olio appena franto. Un pane che racconta contemporaneamente l…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/muffulette-alcamo-san-martino-pane-olio-nuovo-tradizione/",
-        "pubDate": "2026-10-27T11:01:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli orango preferiscono il cibo che ricorda i momenti belli passati con gli amici",
-        "description": "Un esperimento sugli orango ha collegato la preferenza del cibo consumato in momenti in cui gli altri orango ridono. Cosa può significare per noi umani?\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/gli-orango-preferiscono-il-cibo-che-ricorda-i-momenti-belli-passati-con-gli-amici/",
-        "pubDate": "2026-10-27T10:40:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/orango-banane-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In un piccolo borgo umbro si può cenare come in una baita svizzera, senza andare in montagna",
-        "description": "A San Venanzo, tra i vigneti dell'Umbria, Villa Bucher ricrea l'atmosfera delle baite svizzere con fonduta, musica alpina e neve artificiale. L'esperienza costa…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/fonduta-svizzera-umbria-villa-bucher-san-venanzo/",
-        "pubDate": "2026-10-27T09:59:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre generazioni di pizzaioli, da un paese della Costiera Amalfitana a una piccola pizzeria lombarda. Ora arriva il premio",
-        "description": "Dalla tradizione di Tramonti agli impasti con biga e ai condimenti cucinati: Luigi Vaccaro è il Pizzaiolo Emergente 2027 del Gambero Rosso. A Busto Arsizio port…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/antica-pizza-busto-arsizio-luigi-vaccaro-pizzaiolo-emergente-2027/",
-        "pubDate": "2026-10-27T09:52:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vino italiano conquista nuovi appassionati in Corea del Sud. E il mercato sta cambiando",
-        "description": "In Corea del Sud crescono i consumatori abituali di vino e l'interesse per bianchi e bollicine. A Seoul arriva il tour del Gambero Rosso…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/corea-sud-vino-consumi-bianchi-italia-mercato-2026/",
-        "pubDate": "2026-10-27T08:57:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Migliori Pinot Grigio Collio Evolution 2026: tutti i punteggi",
-        "description": "Dall'annata 2025 indietro fino alla 1999: best of Collio Pinot Grigio.\nL'articolo Migliori Pinot Grigio Collio Evolution 2026: tutti i punteggi proviene da Wine…",
-        "link": "https://www.winemag.it/migliori-pinot-grigio-collio-evolution-2026-punteggi-score/",
-        "pubDate": "2026-10-27T00:35:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Andreola, il Valdobbiadene eroico tra Rive, territorio e identità",
-        "description": "Sette Rive, altrettante interpretazioni del Conegliano Valdobbiadene Prosecco Superiore DOCG e un&#8217;identità costruita attorno alla viticoltura eroica. Andr…",
-        "link": "https://www.winemag.it/andreola-il-valdobbiadene-eroico-tra-rive-territorio-e-identita/",
-        "pubDate": "2026-10-26T23:45:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Collio Evolution 2026, il Pinot Grigio del Collio sfida il tempo",
-        "description": "Le vecchie annate hanno mostrato una qualità e una complessità che sfidano una narrazione riduttiva sul vitigno.\nL'articolo Collio Evolution 2026, il Pinot Grig…",
-        "link": "https://www.winemag.it/collio-evolution-2026-pinot-grigio-collio-sfida-il-tempo/",
-        "pubDate": "2026-10-26T18:25:33+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/luca-raccaro-e-lavinia-zamaro-a-collio-evolution-2026-pinot-grigio-presidente-e-direttrice-consorzio-collio.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Strappati, macchiati, usurati: preparatevi al ritorno dei jeans “used”",
+        "description": "Sembrava che il loro periodo fosse definitivamente un ricordo, e invece i jeans a effetto usato, quelli strappati, macchiati o slavati, sono nuovamente in cima …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-strappati-vanno-ancora-di-moda-2026-denim-effetto-used-con-strappi-1006624",
+        "pubDate": "2026-10-27T16:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-jeans-distressed-.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "IKEA, 6 idee per una selezione autunnale tra tessili caldi e decorazioni per la casa",
         "description": "Dalla biancheria da letto in flanella agli accessori decorativi, ecco sei proposte IKEA per rinnovare gli ambienti con materiali accoglienti, tonalità di stagio…",
@@ -201,6 +210,42 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "VERTIGO, la maglieria di iBlues incontra l’immaginario di Clara Cebrián",
+        "description": "Una capsule collection che trasforma colori, disegni e suggestioni paesaggistiche in capi da indossare. Undici pezzi in maglia, tra fantasie d&#8217;autore e te…",
+        "link": "https://www.grazia.it/moda/news-moda/iblues-maglieria-capsule-vertigo-clara-cebrian-1007751",
+        "pubDate": "2026-10-27T14:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/IBLUES_vertigo-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Con quali scarpe abbinare i pantaloni larghi? Ecco i modelli da avere nell’armadio quest’autunno",
+        "description": "Hanno da sempre un posto in prima fila nella nostra cabina armadio e si rivelano la scelta ideale per coniugare alla perfezione praticità e stile: i pantaloni l…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/con-quali-scarpe-abbinare-i-pantaloni-larghi-come-indossare-over-40-scarpe-basse-alte-eleganti-tacco-sneakers-mocassini-stivaletti-bis-1004287",
+        "pubDate": "2026-10-27T13:32:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Scarpe_per_pantaloni_larghi.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Con quali stivaletti indossare i pantaloni? Ecco 5 combo da provare assolutamente quest’autunno",
+        "description": "Nelle prime settimane d’autunno si contendono il ruolo di pezzo chiave del guardaroba con abiti e gonne midi, ma non appena le temperature cominciano a scendere…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/con-quali-stivaletti-indossare-i-pantaloni-idee-outfit-autunno-senza-tacco-alto-anfibi-eleganti-donna-1008394",
+        "pubDate": "2026-10-27T12:16:32+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Che_stivaletti_per_stivali.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "5 scarpe basse di tendenza per l’autunno e come indossarle",
+        "description": "L’autunno-inverno si divide, come sempre, in due grandi categorie: da una parte abbiamo il tanto amato comeback degli stivali (camperos, biker, equestri, slouch…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/scarpe-basse-donna-autunno-sneakers-ballerine-mocassini-zoccoli-modelli-must-have-1006380",
+        "pubDate": "2026-10-27T06:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_5_scarpe_basse_IG.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Capelli, sogni una piega perfetta senza sforzi e in poco tempo? Questa nuova piastra è la soluzione",
@@ -284,15 +329,6 @@
         "source": "Grazia"
       },
       {
-        "title": "I mocassini più cool del momento? Hanno il tacco",
-        "description": "Chi ama i mocassini sa che l&#8217;autunno è una delle stagioni in cui questo modello di calzatura dà il meglio. Riproposti ormai in tantissime varianti diverse…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/mocassini-con-tacco-autunno-inverno-2026-modelli-tacchi-midi-alti-1005732",
-        "pubDate": "2026-10-25T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-mocassini-con-tacco.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Come ridipingere i mobili in laminato: il restyling facile e veloce senza carteggiare",
         "description": "Ridare vita ai mobili in laminato non è mai stato così semplice. Scopri il trucco per un restyling rapido e dall’effetto professionale, senza carteggiare.…",
         "link": "https://www.stylosophy.it/articolo/come-ridipingere-i-mobili-in-laminato-senza-carteggiare/241625/",
@@ -309,42 +345,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Rouje x Reebok: quando l’eleganza parigina incontra il mito dell’aerobica anni 80",
-        "description": "Quando lo stile effortlessly chic parigino incontra l’anima pop e nostalgica del fitness anni &#8217;80, il risultato non può che essere una collezione da tener…",
-        "link": "https://www.grazia.it/moda/news-moda/rouje-x-reebok-sneakers-aerobica-anni-80-completi-sportivi-leggings-top-1005131",
-        "pubDate": "2026-10-24T09:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/rouje-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Quadri e quadretti sono i protagonisti indiscussi dell’autunno: ecco i capi e gli accessori “check print” di cui fare incetta",
-        "description": "Se la stagione calda ha nel suo carnet pois, quadretti vichy, floral print, righe e animalier, alla stagione fredda che cosa resta? Quadri e quadretti, che doma…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stampa-quadretti-quadri-ckeck-print-tartan-pattern-autunno-vestiti-capi-accessori-1007439",
-        "pubDate": "2026-10-24T06:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_check_print.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Festa del Cinema di Roma: sul red carpet della penultima serata, tra completi total white e abiti con il cappuccio",
-        "description": "L&#8217;edizione 2026 della Festa del Cinema di Roma si avvicina alla chiusura. Sul red carpet dell&#8217;undicesima e penultima serata sfilano gli ospiti alle …",
-        "link": "https://www.grazia.it/moda/celebrity-style/festa-del-cinema-di-roma-red-carpet-venerdi-23-ottobre-elisa-1007902",
-        "pubDate": "2026-10-23T17:43:58+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-festa-cinema-di-roma-day-11.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Amiche dello Scorpione: questi sono i 10 fashion must perfetti per il vostro guardaroba!",
-        "description": "Ottavo segno dello zodiaco, lo Scorpione è da sempre ritenuto uno dei personaggi più conturbanti e indecifrabili del cerchio. Il suo periodo va dal 23 ottobre a…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/segno-dello-scorpione-oroscopo-moda-must-have-1003414",
-        "pubDate": "2026-10-23T16:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_segno_SCORPIONE.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Come asciugare i Capelli correttamente e realizzare una piega perfetta",
@@ -366,6 +366,114 @@
       }
     ],
     "lifestyle": [
+      {
+        "title": "Cosa succede davvero quando la pizza arriva al forno: i segreti della cottura perfetta",
+        "description": "Scopri cosa accade davvero durante la cottura della pizza: reazioni chimiche, temperature ideali e come impasto, pomodoro e mozzarella si trasformano.…",
+        "link": "https://www.gustoblog.it/2026/10/27/cottura-pizza-trasformazioni-forno/",
+        "pubDate": "2026-10-27T21:23:59+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Capocollo di Martina Franca, il nuovo presidio Igp che arriva sulle tavole europee",
+        "description": "Il Capocollo di Martina Franca ha ottenuto il riconoscimento IGP dell'Unione Europea a ottobre 2026. Scopri cosa significa per i produttori pugliesi e la tracci…",
+        "link": "https://www.gustoblog.it/2026/10/27/capocollo-martina-franca-igp-riconoscimento/",
+        "pubDate": "2026-10-27T21:23:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Colli Trevigiani Igt 2025 Incrocio Manzoni Bianco 6.0.13, Collalto",
+        "description": "Dalla Guida Winemag 2027.\nL'articolo Colli Trevigiani Igt 2025 Incrocio Manzoni Bianco 6.0.13, Collalto proviene da Winemag.it - Davide Bortone: wine magazine i…",
+        "link": "https://www.winemag.it/colli-trevigiani-igt-2025-incrocio-manzoni-bianco-6-0-13-collalto/",
+        "pubDate": "2026-10-27T19:12:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Colli Trevigiani Igp 2024 Manzoni Bianco Schenella, Collalto",
+        "description": "Dalla Guida Winemag 2027.\nL'articolo Colli Trevigiani Igp 2024 Manzoni Bianco Schenella, Collalto proviene da Winemag.it - Davide Bortone: wine magazine italian…",
+        "link": "https://www.winemag.it/colli-trevigiani-igp-2024-manzoni-bianco-schenella-collalto/",
+        "pubDate": "2026-10-27T19:12:30+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spumante Rosè Extra Dry Incrocio Manzoni Moscato 10.0.25 Violette, Collalto",
+        "description": "Dalla Guida Winemag 2027.\nL'articolo Spumante Rosè Extra Dry Incrocio Manzoni Moscato 10.0.25 Violette, Collalto proviene da Winemag.it - Davide Bortone: wine m…",
+        "link": "https://www.winemag.it/spumante-rose-extra-dry-incrocio-manzoni-moscato-10-0-25-violette-collalto/",
+        "pubDate": "2026-10-27T19:12:29+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Conegliano Valdobbiadene Docg Prosecco Superiore Brut millesimato San Salvatore, Conte Collalto",
+        "description": "PUNTEGGIO WINEMAG 89 / 100 Vino raccomandato / quotidiano Guida Winemag 2027\nL'articolo Conegliano Valdobbiadene Docg Prosecco Superiore Brut millesimato San Sa…",
+        "link": "https://www.winemag.it/conegliano-valdobbiadene-docg-prosecco-superiore-brut-millesimato-san-salvatore-conte-collalto/",
+        "pubDate": "2026-10-27T19:12:28+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Conegliano Valdobbiadene Docg Prosecco Superiore Rive di Collalto Isabella, Collalto",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Conegliano Valdobbiadene Docg Prosecco Superiore Rive di Collalto Isabella, Collalto prov…",
+        "link": "https://www.winemag.it/conegliano-valdobbiadene-docg-prosecco-superiore-rive-di-collalto-isabella-collalto/",
+        "pubDate": "2026-10-27T19:12:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Conegliano Valdobbiadene Docg Prosecco Superiore Rive di Colfosco Extra Brut Ponte Rosso, Conte Collalto",
+        "description": "PUNTEGGIO WINEMAG 90 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Conegliano Valdobbiadene Docg Prosecco Superiore Rive di Colfosco Extra Brut Ponte Ross…",
+        "link": "https://www.winemag.it/conegliano-valdobbiadene-docg-prosecco-superiore-rive-di-colfosco-extra-brut-ponte-rosso-conte-collalto/",
+        "pubDate": "2026-10-27T19:12:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Wildbacher Colli Trevigiani Igt 2021, Collalto",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Wildbacher Colli Trevigiani Igt 2021, Collalto proviene da Winemag.it - Davide Bortone: w…",
+        "link": "https://www.winemag.it/wildbacher-colli-trevigiani-igt-2021-collalto/",
+        "pubDate": "2026-10-27T19:12:26+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Venezia Doc Cabernet Riserva 2020 Torrai, Collalto",
+        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Venezia Doc Cabernet Riserva 2020 Torrai, Collalto proviene da Winemag.it - Davide Borton…",
+        "link": "https://www.winemag.it/venezia-doc-cabernet-riserva-2020-torrai-collalto/",
+        "pubDate": "2026-10-27T19:12:25+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Colli di Conegliano Rosso Docg Riserva 2020 Vinciguerra, Collalto",
+        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Colli di Conegliano Rosso Docg Riserva 2020 Vinciguerra, Collalto proviene da Winemag.it …",
+        "link": "https://www.winemag.it/colli-di-conegliano-rosso-docg-riserva-2020-vinciguerra-collalto/",
+        "pubDate": "2026-10-27T19:12:24+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Conegliano Valdobbiadene Prosecco Superiore Docg Millesimato 2025 Extra Dry Gaio, Collalto",
+        "description": "PUNTEGGIO WINEMAG 88 / 100 Vino Raccomandato / quotidiano Guida Winemag 2027\nL'articolo Conegliano Valdobbiadene Prosecco Superiore Docg Millesimato 2025 Extra …",
+        "link": "https://www.winemag.it/conegliano-valdobbiadene-prosecco-superiore-docg-millesimato-2025-extra-dry-gaio-collalto/",
+        "pubDate": "2026-10-27T19:12:23+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Marco Sacco lascia Piano 35 a Torino",
         "description": "Marco Sacco lascia Piano35 a Torino, e un'altra stella della città diventa ballerina. \nL'articolo Marco Sacco lascia Piano 35 a Torino proviene da Dissapore.…",
@@ -437,114 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Il taco che conosciamo non è quello che si mangia in Messico. Ecco come è diventato un simbolo della cucina americana",
-        "description": "Dalle tortillas di mais ai tacos al pastor, fino al guscio croccante reso popolare negli Stati Uniti: come è nata e si è trasformata una delle preparazioni più …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/taco-storia-origini-messico-tortilla-taco-bell/",
-        "pubDate": "2026-10-27T11:08:37+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Toscana c’è una cantina che ha rinunciato a puntare sui grandi rossi. Ora più della metà del vino è rosato",
-        "description": "A pochi chilometri da Lucca, Fattoria Sardi dedica oltre metà della produzione ai rosati. Una scelta nata dal clima della Val Freddana e diventata una scommessa…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/fattoria-sardi-lucca-vino-rosato-primavere-le-cicale/",
-        "pubDate": "2026-10-27T11:04:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In una città siciliana c’è un pane così importante che i fornai hanno lottato per poterlo preparare anche di domenica",
-        "description": "Il 10 novembre i forni della città sfornano migliaia di muffulette da aprire calde e condire con l'olio appena franto. Un pane che racconta contemporaneamente l…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/muffulette-alcamo-san-martino-pane-olio-nuovo-tradizione/",
-        "pubDate": "2026-10-27T11:01:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Gli orango preferiscono il cibo che ricorda i momenti belli passati con gli amici",
-        "description": "Un esperimento sugli orango ha collegato la preferenza del cibo consumato in momenti in cui gli altri orango ridono. Cosa può significare per noi umani?\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/gli-orango-preferiscono-il-cibo-che-ricorda-i-momenti-belli-passati-con-gli-amici/",
-        "pubDate": "2026-10-27T10:40:16+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/orango-banane-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "In un piccolo borgo umbro si può cenare come in una baita svizzera, senza andare in montagna",
-        "description": "A San Venanzo, tra i vigneti dell'Umbria, Villa Bucher ricrea l'atmosfera delle baite svizzere con fonduta, musica alpina e neve artificiale. L'esperienza costa…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/fonduta-svizzera-umbria-villa-bucher-san-venanzo/",
-        "pubDate": "2026-10-27T09:59:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tre generazioni di pizzaioli, da un paese della Costiera Amalfitana a una piccola pizzeria lombarda. Ora arriva il premio",
-        "description": "Dalla tradizione di Tramonti agli impasti con biga e ai condimenti cucinati: Luigi Vaccaro è il Pizzaiolo Emergente 2027 del Gambero Rosso. A Busto Arsizio port…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/antica-pizza-busto-arsizio-luigi-vaccaro-pizzaiolo-emergente-2027/",
-        "pubDate": "2026-10-27T09:52:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vino italiano conquista nuovi appassionati in Corea del Sud. E il mercato sta cambiando",
-        "description": "In Corea del Sud crescono i consumatori abituali di vino e l'interesse per bianchi e bollicine. A Seoul arriva il tour del Gambero Rosso…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/corea-sud-vino-consumi-bianchi-italia-mercato-2026/",
-        "pubDate": "2026-10-27T08:57:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Migliori Pinot Grigio Collio Evolution 2026: tutti i punteggi",
-        "description": "Dall'annata 2025 indietro fino alla 1999: best of Collio Pinot Grigio.\nL'articolo Migliori Pinot Grigio Collio Evolution 2026: tutti i punteggi proviene da Wine…",
-        "link": "https://www.winemag.it/migliori-pinot-grigio-collio-evolution-2026-punteggi-score/",
-        "pubDate": "2026-10-27T00:35:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Andreola, il Valdobbiadene eroico tra Rive, territorio e identità",
-        "description": "Sette Rive, altrettante interpretazioni del Conegliano Valdobbiadene Prosecco Superiore DOCG e un&#8217;identità costruita attorno alla viticoltura eroica. Andr…",
-        "link": "https://www.winemag.it/andreola-il-valdobbiadene-eroico-tra-rive-territorio-e-identita/",
-        "pubDate": "2026-10-26T23:45:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Collio Evolution 2026, il Pinot Grigio del Collio sfida il tempo",
-        "description": "Le vecchie annate hanno mostrato una qualità e una complessità che sfidano una narrazione riduttiva sul vitigno.\nL'articolo Collio Evolution 2026, il Pinot Grig…",
-        "link": "https://www.winemag.it/collio-evolution-2026-pinot-grigio-collio-sfida-il-tempo/",
-        "pubDate": "2026-10-26T18:25:33+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/luca-raccaro-e-lavinia-zamaro-a-collio-evolution-2026-pinot-grigio-presidente-e-direttrice-consorzio-collio.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Negli Stati Uniti c’è uno scontro sulle bibite alla cannabis",
-        "description": "Il successo delle bevande al base THC sta mettendo in serie difficoltà i produttori statunitensi di alcolici, che chiedono nuove leggi che ne limitino la diffus…",
-        "link": "https://www.dissapore.com/notizie/negli-stati-uniti-ce-uno-scontro-sulle-bibite-alla-cannabis/",
-        "pubDate": "2026-10-26T16:15:24+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/bevande-cannabis-THC-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "FISAR, Roberto Donadini confermato presidente per il quadriennio 2027-2030",
-        "description": "FISAR APS sceglie la continuità. Le elezioni per il rinnovo degli organi federali del quadriennio 2027-2030 hanno infatti premiato la Lista 1 – FISAR DOMANI, gu…",
-        "link": "https://www.winemag.it/fisar-roberto-donadini-confermato-presidente-per-il-quadriennio-2027-2030/",
-        "pubDate": "2026-10-26T13:57:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
