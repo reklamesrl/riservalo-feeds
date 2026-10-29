@@ -1,7 +1,79 @@
 {
-  "generated": "2026-10-28T22:16:15.795942+00:00",
+  "generated": "2026-10-29T12:24:04.781421+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "I tonici alla vitamina C che illuminano la pelle: addio macchie scure e colorito spento",
+        "description": "Dalla skincare coreana alle formule green, i nuovi tonici alla vitamina C promettono di trasformare la pelle rendendola più uniforme e radiosa. Un gesto quotidi…",
+        "link": "https://www.stylosophy.it/articolo/i-tonici-alla-vitamina-c-che-illuminano-la-pelle/238642/",
+        "pubDate": "2026-10-29T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Dimenticate il pesce pescato: la rivoluzione della cucina di mare parte dagli allevamenti",
+        "description": "Andiamo alla ricerca delle nuove tendenze gastronomiche là dove nascono, ossia nella filiera di approvvigionamento: un' acquacoltura sostenibile è possibile e, …",
+        "link": "https://www.dissapore.com/ristoranti/dimenticate-il-pesce-pescato-la-rivoluzione-della-cucina-di-mare-parte-dagli-allevamenti/",
+        "pubDate": "2026-10-29T09:56:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/vasche-rombi-neptura.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Caffè etiope, il rito delle tre tazze: come si prepara e cosa significa questa cerimonia",
+        "description": "La cerimonia caffè etiope è un rito collettivo radicato in Etiopia. Scopri le tre tazze (Awel, Kale'i, Bereka), la tostatura tradizionale e il significato cultu…",
+        "link": "https://www.gustoblog.it/2026/10/29/cerimonia-caffe-etiope-tre-tazze/",
+        "pubDate": "2026-10-29T08:39:33+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il paese siciliano che dice di aver inventato gli spaghetti. E che già 900 anni fa esportava pasta",
+        "description": "A X Factor un concorrente rivendica le origini siciliane degli spaghetti. Una storia che ci riporta nella Trabia del XII secolo, dove la pasta si produceva già …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/trabia-invenzione-spaghetti-storia-pasta-sicilia/",
+        "pubDate": "2026-10-29T06:50:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cozze alla tarantina: la ricetta originale pugliese che si prepara in 20 minuti a casa",
+        "description": "Scopri come preparare le cozze alla tarantina, il piatto tipico pugliese con pomodoro, aglio e peperoncino. Guida completa con ingredienti e tecniche tradiziona…",
+        "link": "https://www.gustoblog.it/2026/10/29/cozze-alla-tarantina-ricetta/",
+        "pubDate": "2026-10-29T01:49:16+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Gradis’ciutta: Robert Princic e i vini senza confini, tra Collio e Brda",
+        "description": "Punteggi ultime annate: emergono Monsvini e metodo classico Sinefinis con 95/100 e 94/100 Winemag.\nL'articolo Gradis&#8217;ciutta: Robert Princic e i vini senza…",
+        "link": "https://www.winemag.it/gradisciutta-robert-princic-e-i-vini-senza-confini-tra-collio-e-brda/",
+        "pubDate": "2026-10-28T23:45:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Gradisciutta-Robert-Princic-e-i-vini-senza-confini-tra-Collio-e-Brda-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Pasta all’uovo al supermercato: come riconoscere quella buona e cosa leggere sull’etichetta",
+        "description": "Guida pratica per scegliere la pasta all'uovo al supermercato. Scopri come leggere l'etichetta e riconoscere i marker di qualità per fresca, ripiena e secca.…",
+        "link": "https://www.gustoblog.it/2026/10/28/pasta-all-uovo-supermercato-qualita/",
+        "pubDate": "2026-10-28T22:22:19+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Manovra 2027, Meloni annuncia l’esenzione Irpef per gli agricoltori: cosa cambia",
+        "description": "La presidente del Consiglio, insieme al ministro Lollobrigida, annuncia l'esenzione Irpef per gli agricoltori nella manovra 2027, insieme a risorse per gasolio …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/manovra-2027-esenzione-irpef-agricoltori-lollobrigida/",
+        "pubDate": "2026-10-28T17:23:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "5 tendenze viaggio per l’autunno-inverno 2026: Ecco i travel trend della stagione fredda",
         "description": "Dal season chasing all’experiential luxury fino alle esperienze con gli animali, ecco i travel trend della stagione fredda secondo Freedome…",
@@ -39,7 +111,7 @@
         "source": "Dissapore"
       },
       {
-        "title": "Crisi dei rossi toscani: margini giù per 63% cantine. Soffrono soprattutto quelle di piccole dimensioni",
+        "title": "Crisi dei rossi toscani: margini giù per il 63% delle cantine. Soffrono soprattutto quelle di piccole dimensioni",
         "description": "Un'anteprima del report del Centro studi management DiVino di Studio Impresa per il 2025 certifica le difficoltà delle imprese e traccia la strada per una strat…",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/crisi-rossi-toscani-report-studio-impresa/",
         "pubDate": "2026-10-28T15:04:48+00:00",
@@ -109,81 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Juri Leo è il Miglior Sommelier FISAR 2026",
-        "description": "Juri Leo, della Delegazione FISAR di San Donà di Piave, è il Miglior Sommelier FISAR 2026. Il Premio Rastal gli è stato assegnato sabato 24 ottobre, durante la …",
-        "link": "https://www.winemag.it/juri-leo-e-il-miglior-sommelier-fisar-2026/",
-        "pubDate": "2026-10-28T12:16:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Polenta avanzata: come conservarla e riciclarla in ricette facili e antispreco",
-        "description": "Scopri come conservare la polenta avanzata in frigorifero per 2-3 giorni o nel freezer fino a 2 mesi, con tecniche pratiche e ricette antispreco.…",
-        "link": "https://www.gustoblog.it/2026/10/28/polenta-avanzata-come-conservarla/",
-        "pubDate": "2026-10-28T12:10:58+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "I vini del Collio al primo posto tra i bianchi di collina: precedono Alto Adige e Colli Orientali tra i ristoratori",
-        "description": "Secondo l'indagine Nomisma Wine Monitor, tra i vitigni spiccano ribolla gialla, friulano e sauvignon, poi il pinot grigio. Il Consorzio: \"Doc solida e riconosci…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/collio-evolution-sondaggio-wine-monitor-2026/",
-        "pubDate": "2026-10-28T12:03:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Stivaletti neri per l’autunno, la ricerca è finita!  7 modelli sotto i 200 € da indossare ora",
-        "description": "Color cioccolato, a stampa cocco, dai motivi zebrati: poco importa cosa dicono gli ultimi trend, se c’è un paio di stivaletti che avrà sempre il posto assicurat…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stivaletti-neri-sotto-200-euro-donna-eleganti-tacco-basso-largo-zara-chelsea-boots-western-1008728",
-        "pubDate": "2026-10-28T11:45:19+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Stivaletti_neri_sotto_200E.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Tutti cercano la frutta realistica della Lidl (che cosa molto poco)",
-        "description": "Mango e pistacchio, un aspetto quasi identico alla frutta vera e un prezzo di 4,99 euro: i nuovi dessert-gelato Lidl ispirati alla pasticceria trompe-l'œil alim…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/lidl-gelati-frutta-realistica-mango-pistacchio-prezzo/",
-        "pubDate": "2026-10-28T11:21:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Buon compleanno Julia Roberts! 10 film e 10 look  che abbiamo amato!",
-        "description": "Julia Roberts compie 59 anni proprio oggi, 28 ottobre ma per noi rimarrà sempre la &#8220;ragazza dal grande sorriso&#8221; che abbiamo conosciuto e amato in pe…",
-        "link": "https://www.grazia.it/moda/celebrity-style/julia-roberts-compleanno-look-film-piu-belli-abiti-pretty-woman-notting-hill-erin-brokovich-105546",
-        "pubDate": "2026-10-28T11:05:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2017/10/DESKTOP_julia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "“La distribuzione può incidere per il 30%”. Perché alcuni vignaioli vendono il vino senza intermediari",
-        "description": "Una rete di quaranta piccoli vignaioli vuole vendere direttamente a ristoranti ed enoteche. Tra costi di distribuzione, prezzi delle bottiglie e rapporti person…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-senza-intermediari-vendita-diretta-vignaioli-distribuzione/",
-        "pubDate": "2026-10-28T10:36:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come mangeremo e berremo in futuro? Lo abbiamo chiesto a 40 protagonisti del cibo e del vino",
-        "description": "Il Gambero Rosso compie 40 anni e forte della sua storia pensa al domani: cibo, vino, nuovi talenti e abitudini. Che cosa cambierà? Abbiamo chiesto ai protagoni…",
-        "link": "https://www.gamberorosso.it/notizie/mensile/gambero-rosso-mensile-novembre-2026/",
-        "pubDate": "2026-10-28T10:31:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "I tonici alla vitamina C che illuminano la pelle: addio macchie scure e colorito spento",
+        "description": "Dalla skincare coreana alle formule green, i nuovi tonici alla vitamina C promettono di trasformare la pelle rendendola più uniforme e radiosa. Un gesto quotidi…",
+        "link": "https://www.stylosophy.it/articolo/i-tonici-alla-vitamina-c-che-illuminano-la-pelle/238642/",
+        "pubDate": "2026-10-29T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "5 tendenze viaggio per l’autunno-inverno 2026: Ecco i travel trend della stagione fredda",
         "description": "Dal season chasing all’experiential luxury fino alle esperienze con gli animali, ecco i travel trend della stagione fredda secondo Freedome…",
@@ -354,18 +363,72 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Sabrina Martina, alla Festa del Cinema di Roma 2026 per la prima del film Se domani non torno: il Look glam-chic",
-        "description": "Sabrina Martina sfila sul red carpet della Festa del Cinema di Roma 2026 con un total black look glam-chic.…",
-        "link": "https://www.stylosophy.it/articolo/sabrina-martina-alla-festa-del-cinema-di-roma-2026-per-la-prima-del-film-se-domani-non-torno-il-look-glam-chic/254110/",
-        "pubDate": "2026-10-24T13:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Dimenticate il pesce pescato: la rivoluzione della cucina di mare parte dagli allevamenti",
+        "description": "Andiamo alla ricerca delle nuove tendenze gastronomiche là dove nascono, ossia nella filiera di approvvigionamento: un' acquacoltura sostenibile è possibile e, …",
+        "link": "https://www.dissapore.com/ristoranti/dimenticate-il-pesce-pescato-la-rivoluzione-della-cucina-di-mare-parte-dagli-allevamenti/",
+        "pubDate": "2026-10-29T09:56:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/vasche-rombi-neptura.jpeg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Caffè etiope, il rito delle tre tazze: come si prepara e cosa significa questa cerimonia",
+        "description": "La cerimonia caffè etiope è un rito collettivo radicato in Etiopia. Scopri le tre tazze (Awel, Kale'i, Bereka), la tostatura tradizionale e il significato cultu…",
+        "link": "https://www.gustoblog.it/2026/10/29/cerimonia-caffe-etiope-tre-tazze/",
+        "pubDate": "2026-10-29T08:39:33+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il paese siciliano che dice di aver inventato gli spaghetti. E che già 900 anni fa esportava pasta",
+        "description": "A X Factor un concorrente rivendica le origini siciliane degli spaghetti. Una storia che ci riporta nella Trabia del XII secolo, dove la pasta si produceva già …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/trabia-invenzione-spaghetti-storia-pasta-sicilia/",
+        "pubDate": "2026-10-29T06:50:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Cozze alla tarantina: la ricetta originale pugliese che si prepara in 20 minuti a casa",
+        "description": "Scopri come preparare le cozze alla tarantina, il piatto tipico pugliese con pomodoro, aglio e peperoncino. Guida completa con ingredienti e tecniche tradiziona…",
+        "link": "https://www.gustoblog.it/2026/10/29/cozze-alla-tarantina-ricetta/",
+        "pubDate": "2026-10-29T01:49:16+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Gradis’ciutta: Robert Princic e i vini senza confini, tra Collio e Brda",
+        "description": "Punteggi ultime annate: emergono Monsvini e metodo classico Sinefinis con 95/100 e 94/100 Winemag.\nL'articolo Gradis&#8217;ciutta: Robert Princic e i vini senza…",
+        "link": "https://www.winemag.it/gradisciutta-robert-princic-e-i-vini-senza-confini-tra-collio-e-brda/",
+        "pubDate": "2026-10-28T23:45:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Gradisciutta-Robert-Princic-e-i-vini-senza-confini-tra-Collio-e-Brda-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Pasta all’uovo al supermercato: come riconoscere quella buona e cosa leggere sull’etichetta",
+        "description": "Guida pratica per scegliere la pasta all'uovo al supermercato. Scopri come leggere l'etichetta e riconoscere i marker di qualità per fresca, ripiena e secca.…",
+        "link": "https://www.gustoblog.it/2026/10/28/pasta-all-uovo-supermercato-qualita/",
+        "pubDate": "2026-10-28T22:22:19+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Manovra 2027, Meloni annuncia l’esenzione Irpef per gli agricoltori: cosa cambia",
+        "description": "La presidente del Consiglio, insieme al ministro Lollobrigida, annuncia l'esenzione Irpef per gli agricoltori nella manovra 2027, insieme a risorse per gasolio …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/manovra-2027-esenzione-irpef-agricoltori-lollobrigida/",
+        "pubDate": "2026-10-28T17:23:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Basta cellulari ai bambini al ristorante: in Sardegna parte un esperimento",
         "description": "Non si tratta di un vero divieto, ma di un'alleanza tra ristoratori e famiglie per proteggere la convivialità e i minori, che abusano di connessione.\nL'articolo…",
@@ -394,7 +457,7 @@
         "source": "Dissapore"
       },
       {
-        "title": "Crisi dei rossi toscani: margini giù per 63% cantine. Soffrono soprattutto quelle di piccole dimensioni",
+        "title": "Crisi dei rossi toscani: margini giù per il 63% delle cantine. Soffrono soprattutto quelle di piccole dimensioni",
         "description": "Un'anteprima del report del Centro studi management DiVino di Studio Impresa per il 2025 certifica le difficoltà delle imprese e traccia la strada per una strat…",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/crisi-rossi-toscani-report-studio-impresa/",
         "pubDate": "2026-10-28T15:04:48+00:00",
@@ -479,69 +542,6 @@
         "description": "Secondo l'indagine Nomisma Wine Monitor, tra i vitigni spiccano ribolla gialla, friulano e sauvignon, poi il pinot grigio. Il Consorzio: \"Doc solida e riconosci…",
         "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/collio-evolution-sondaggio-wine-monitor-2026/",
         "pubDate": "2026-10-28T12:03:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tutti cercano la frutta realistica della Lidl (che cosa molto poco)",
-        "description": "Mango e pistacchio, un aspetto quasi identico alla frutta vera e un prezzo di 4,99 euro: i nuovi dessert-gelato Lidl ispirati alla pasticceria trompe-l'œil alim…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/lidl-gelati-frutta-realistica-mango-pistacchio-prezzo/",
-        "pubDate": "2026-10-28T11:21:25+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“La distribuzione può incidere per il 30%”. Perché alcuni vignaioli vendono il vino senza intermediari",
-        "description": "Una rete di quaranta piccoli vignaioli vuole vendere direttamente a ristoranti ed enoteche. Tra costi di distribuzione, prezzi delle bottiglie e rapporti person…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/vino-senza-intermediari-vendita-diretta-vignaioli-distribuzione/",
-        "pubDate": "2026-10-28T10:36:04+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come mangeremo e berremo in futuro? Lo abbiamo chiesto a 40 protagonisti del cibo e del vino",
-        "description": "Il Gambero Rosso compie 40 anni e forte della sua storia pensa al domani: cibo, vino, nuovi talenti e abitudini. Che cosa cambierà? Abbiamo chiesto ai protagoni…",
-        "link": "https://www.gamberorosso.it/notizie/mensile/gambero-rosso-mensile-novembre-2026/",
-        "pubDate": "2026-10-28T10:31:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il miglior rosso è abruzzese, il miglior bianco è siciliano: i premi speciali del Gambero Rosso 2027",
-        "description": "Dalle migliori etichette nelle diverse tipologie ai giovani talenti emergenti senza dimenticare sostenibilità, la solidarietà e la valorizzazione del territorio…",
-        "link": "https://www.gamberorosso.it/notizie/vino/guida-vini-ditalia-2027-premi-speciali/",
-        "pubDate": "2026-10-28T10:30:05+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le 20 migliori pizzerie di Milano e provincia premiate da The Great Pizza Tour",
-        "description": "Si è svolta a Milano l'ultima tappa di The Great Pizza Tour 2026: ecco le 20 migliori pizzerie del capoluogo lombardo, ormai tra le capitali della pizza.\nL'arti…",
-        "link": "https://www.dissapore.com/notizie/le-20-migliori-pizzerie-di-milano-e-provincia-premiate-da-the-great-pizza-tour/",
-        "pubDate": "2026-10-28T09:07:02+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/pizzerie-milano-2026.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il vino si spinge sempre più a nord: la Danimarca punta alla Dop più settentrionale d’Europa",
-        "description": "La Commissione europea ha pubblicato la domanda di riconoscimento della Dop Røsnæs, una penisola danese dove si coltivano vitigni resistenti al freddo e si prod…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/danimarca-rosnaes-dop-vino-piu-settentrionale-ue/",
-        "pubDate": "2026-10-28T08:54:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Napoli, dove mangiare bene spendendo meno di 30 euro: 9 trattorie e osterie da conoscere",
-        "description": "Dalla genovese alle polpette, dalla pasta e patate al ragù: nove indirizzi tra centro storico e Vomero dove scoprire la cucina napoletana senza spendere una for…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/napoli-dove-mangiare-bene-meno-30-euro-trattorie/",
-        "pubDate": "2026-10-28T08:51:33+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
