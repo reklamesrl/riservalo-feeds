@@ -1,7 +1,106 @@
 {
-  "generated": "2026-10-29T22:29:16.586639+00:00",
+  "generated": "2026-10-30T12:15:27.809728+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Il Mondiale del cioccolato è una cosa seria: abbiamo vinto dopo 13 anni",
+        "description": "La selezione è durissima, la prova finale estenuante: a riuscire nell'impresa è stato responsabile della produzione di cioccolateria di Da Vittorio a Brusaporto…",
+        "link": "https://www.dissapore.com/notizie/il-mondiale-del-cioccolato-e-una-cosa-seria-abbiamo-vinto-dopo-13-anni/",
+        "pubDate": "2026-10-30T12:13:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/tommaso-grollero-scultura-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Colli di Conegliano Docg: bordolesi e Incrocio Manzoni sfidano il Prosecco",
+        "description": "Tuffo nei vini fermi Colli di Conegliano: Rosso, Bianco e dolci.\nL'articolo Colli di Conegliano Docg: bordolesi e Incrocio Manzoni sfidano il Prosecco proviene …",
+        "link": "https://www.winemag.it/colli-di-conegliano-docg-bordolesi-e-incrocio-manzoni-sfidano-il-prosecco/",
+        "pubDate": "2026-10-30T11:00:47+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Colli-di-Conegliano-Docg-bordolesi-e-Incrocio-Manzoni-nel-mare-di-Prosecco-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Colori di tendenza autunno-inverno 2026: 5 tonalità per rinnovare casa",
+        "description": "Dal marrone cioccolato al blu elettrico, le tonalità protagoniste del momento rinnovano gli ambienti con accostamenti mirati, tessuti e complementi d'arredo.…",
+        "link": "https://www.stylosophy.it/articolo/colori-di-tendenza-autunno-inverno-2026-tonalita-per-rinnovare-casa/254177/",
+        "pubDate": "2026-10-30T10:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Spaghetti alla carrettiera estiva: la ricetta che arriva in tavola in 10 minuti quando il caldo non perdona",
+        "description": "La versione estiva degli spaghetti alla carrettiera: piatto siciliano senza forno, pronto in 10 minuti con aglio, peperoncino e olio extravergine.…",
+        "link": "https://www.gustoblog.it/2026/10/30/spaghetti-carrettiera-estiva-ricetta/",
+        "pubDate": "2026-10-30T08:39:04+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Una delle cantine più famose di Spagna ha fatto in segreto a un vino bianco. Ora lo lancia a 40 euro: “Sarà il peggiore che faremo”",
+        "description": "Dopo anni di acquisizioni riservate in Galizia, Vega Sicilia presenta Deiva, il suo nuovo Albariño. Alle spalle ci sono 24 ettari di vigneti e una cantina da 20…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vega-sicilia-deiva-albarino-galizia-nuovo-vino-bianco/",
+        "pubDate": "2026-10-30T08:29:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È morta Dolores Huerta, la donna che convinse gli americani a boicottare l’uva per difendere i braccianti",
+        "description": "È morta a 96 anni la cofondatrice degli United Farm Workers, protagonista dello sciopero dell'uva in California e dei boicottaggi che portarono i diritti dei br…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/dolores-huerta-morta-boicottaggio-uva-diritti-braccianti/",
+        "pubDate": "2026-10-30T08:16:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Francia vietarono l’assenzio e un distillatore inventò un’altra bevanda. Piacque così tanto che si produce ancora oggi",
+        "description": "Nel 1921, dopo il divieto dell'assenzio, una distilleria di Pontarlier inventò un aperitivo all'anice destinato a sopravvivere al proibizionismo e diventare una…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pontarlier-anis-liquore-inventato-divieto-assenzio-francia/",
+        "pubDate": "2026-10-30T08:14:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In un piccolo paese abruzzese c’è un oste che cucina il baccalà in oltre 40 modi diversi. La sua osteria ha solo 20 posti",
+        "description": "A Castel Frentano, in provincia di Chieti, Giuseppe Di Donato ha costruito un repertorio di oltre quaranta ricette di baccalà, servite nella piccola osteria che…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/osteria-peppone-castel-frentano-baccala-40-ricette/",
+        "pubDate": "2026-10-30T08:12:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’Arcidiocesi di Napoli trasforma una chiesa in pizzeria per i detenuti",
+        "description": "A Napoli una cappella storica diventerà una pizzeria sociale aperta alla città, per offrire un reinserimento lavorativo a detenuti ed ex detenuti.\nL'articolo L&…",
+        "link": "https://www.dissapore.com/notizie/larcidiocesi-di-napoli-trasforma-una-chiesa-in-pizzeria-per-i-detenuti/",
+        "pubDate": "2026-10-30T07:54:53+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Natale 2026, Pasticceria Cucchi celebra 90 anni con panettoni, dolci e confezioni regalo",
+        "description": "Pasticceria Cucchi festeggia il Natale 2026 nell’anno del suo novantesimo anniversario. Fondata nel 1936 e situata in corso Genova a Milano, la storica insegna …",
+        "link": "https://www.winemag.it/natale-2026-pasticceria-cucchi-celebra-90-anni-con-panettoni-dolci-e-confezioni-regalo/",
+        "pubDate": "2026-10-30T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Pizza in teglia con il cucchiaio: la ricetta senza complicazioni per chi ha fretta",
+        "description": "La pizza in teglia ricetta ad alta idratazione si lavora con il cucchiaio, senza tecniche difficili. Scopri proporzioni, tempi di lievitazione e come ottenere u…",
+        "link": "https://www.gustoblog.it/2026/10/30/pizza-teglia-ricetta-cucchiaio/",
+        "pubDate": "2026-10-30T01:48:42+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Tutte le novità che Ferrero ha in serbo per i supermercati (e i bar) italiani",
         "description": "Nuove referenze nel settore bakery e salutista, ma il colosso di Alba punta forte sui biscotti, con novità per i marchi Kinder e -ovviamente- Nutella.\nL'articol…",
@@ -82,108 +181,18 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "“Bisogna comunicare il territorio, non il vitigno”. La nuova vita di Mario Pojer in Val di Cembra insieme al figlio Matteo",
-        "description": "Dopo la separazione da Sandri, l'enologo visionario ricomincia da otto ettari di vigneto e dalla convinzione che a parlare deve essere il territorio. Da qui la …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/mario-pojer-cantina-val-di-cembra/",
-        "pubDate": "2026-10-29T11:17:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Puglia c’è un pane che si mangia il giorno dei morti per alleviare le sofferenze delle anime del Purgatorio",
-        "description": "A Terlizzi, in provincia di Bari, il 2 novembre si mangia la quartecèdde, un pane farcito con ricotta forte e pesce conservato. Il motivo? Alleviare le pene del…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/quartecedde-terlizzi-pane-piccante-giorno-morti/",
-        "pubDate": "2026-10-29T10:57:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Katie Holmes lo conferma: “jeans + mocassini” è la combo casual-chic da replicare ogni giorno quest’autunno!",
-        "description": "Se c’è una celeb che negli ultimi tempi non fa altro che offrirci nuovi spunti interessanti su come costruire look quotidiani effortless e chic, quella è sicura…",
-        "link": "https://www.grazia.it/moda/get-the-look/jeans-e-mocassini-come-indossare-idee-outfit-donna-katie-holmes-autunno-1009032",
-        "pubDate": "2026-10-29T10:53:05+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Jeans_mocassini_Katie_Holmes.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Abbiamo assaggiato 30 burri del supermercato: tra i migliori anche quelli da 1,29 euro",
-        "description": "Trenta panetti acquistati tra supermercati e discount, 12 premiati con uno, due o tre Gamberi: il nostro assaggio alla cieca rivela quali marchi hanno convinto …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/burro-supermercato-migliori-test-assaggio/",
-        "pubDate": "2026-10-29T10:46:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Jessica Rosval: “Per fare alta cucina non servono gerarchie rigide né una cultura della paura”",
-        "description": "La chef di Al Gatto Verde racconta perché l'eccellenza non richiede una leadership autoritaria, il progetto Roots per le donne migranti e la sua idea di sosteni…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/jessica-rosval-alta-cucina-gerarchie-cultura-paura/",
-        "pubDate": "2026-10-29T10:32:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I tonici alla vitamina C che illuminano la pelle: addio macchie scure e colorito spento",
-        "description": "Dalla skincare coreana alle formule green, i nuovi tonici alla vitamina C promettono di trasformare la pelle rendendola più uniforme e radiosa. Un gesto quotidi…",
-        "link": "https://www.stylosophy.it/articolo/i-tonici-alla-vitamina-c-che-illuminano-la-pelle/238642/",
-        "pubDate": "2026-10-29T10:00:00+00:00",
+        "title": "Colori di tendenza autunno-inverno 2026: 5 tonalità per rinnovare casa",
+        "description": "Dal marrone cioccolato al blu elettrico, le tonalità protagoniste del momento rinnovano gli ambienti con accostamenti mirati, tessuti e complementi d'arredo.…",
+        "link": "https://www.stylosophy.it/articolo/colori-di-tendenza-autunno-inverno-2026-tonalita-per-rinnovare-casa/254177/",
+        "pubDate": "2026-10-30T10:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
-      {
-        "title": "Dimenticate il pesce pescato: la rivoluzione della cucina di mare parte dagli allevamenti",
-        "description": "Andiamo alla ricerca delle nuove tendenze gastronomiche là dove nascono, ossia nella filiera di approvvigionamento: un' acquacoltura sostenibile è possibile e, …",
-        "link": "https://www.dissapore.com/ristoranti/dimenticate-il-pesce-pescato-la-rivoluzione-della-cucina-di-mare-parte-dagli-allevamenti/",
-        "pubDate": "2026-10-29T09:56:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/vasche-rombi-neptura.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pennyblack si rinnova: un viaggio alle origini per guardare al futuro",
-        "description": "Rinnovarsi significa, a volte, tornare alle origini per riscoprire ciò che ci rende unici. È da questa consapevolezza che Pennyblack riparte per inaugurare un n…",
-        "link": "https://www.grazia.it/moda/news-moda/pennyblack-si-rinnova-viaggio-origini-futuro-brand-1008835",
-        "pubDate": "2026-10-29T09:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/pennublack-ape.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Caffè etiope, il rito delle tre tazze: come si prepara e cosa significa questa cerimonia",
-        "description": "La cerimonia caffè etiope è un rito collettivo radicato in Etiopia. Scopri le tre tazze (Awel, Kale'i, Bereka), la tostatura tradizionale e il significato cultu…",
-        "link": "https://www.gustoblog.it/2026/10/29/cerimonia-caffe-etiope-tre-tazze/",
-        "pubDate": "2026-10-29T08:39:33+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La storia dei due locali di New York che si facevano la guerra a colpi di pastrami",
-        "description": "Aperto nel 1937, il celebre deli newyorkese ha attraversato recensioni leggendarie, sequestri e rivalità feroci, fino a una riapertura nel 2026 che sembra la ve…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/carnegie-deli-new-york-riapertura-stage-deli-guerra-pastrami/",
-        "pubDate": "2026-10-29T08:10:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Better together! 5 accoppiate vincenti per l’autunno (e come abbinarle con stile)",
-        "description": "Questione di feeling. Nel guardaroba, come nella vita, esistono sodalizi particolarmente riusciti. Intese che sembrano resistere a tutto &#8211; stagione dopo s…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/abbinamenti-autunno-look-jeans-blazer-blusa-gonna-di-pelle-trench-abito-midi-pantaloni-pullover-camicia-gilet-combo-outfit-1008702",
-        "pubDate": "2026-10-29T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_5_combo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      }
-    ],
-    "moda": [
       {
         "title": "Prada lancia ‘Drawing Prada. Animated by Hand’: la nuova campagna Holiday 2026 disegnata a mano",
         "description": "Prada lancia 'Drawing Prada. Animated by Hand', la nuova campagna Holiday 2026 disegnata a mano.…",
@@ -354,18 +363,99 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Kim Kardashian, una vera diva glamour alla Festa del Cinema di Roma 2026 con il Look d’archivio firmato Saint Laurent",
-        "description": "Kim Kardashian sfila sul red carpet della Festa del Cinema di Roma 2026 incantando tutti con il suo meraviglioso look d'archivio firmato Saint Laurent.…",
-        "link": "https://www.stylosophy.it/articolo/kim-kardashian-una-vera-diva-glamour-alla-festa-del-cinema-di-roma-2026-con-il-look-darchivio-firmato-saint-laurent/254116/",
-        "pubDate": "2026-10-25T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Il Mondiale del cioccolato è una cosa seria: abbiamo vinto dopo 13 anni",
+        "description": "La selezione è durissima, la prova finale estenuante: a riuscire nell'impresa è stato responsabile della produzione di cioccolateria di Da Vittorio a Brusaporto…",
+        "link": "https://www.dissapore.com/notizie/il-mondiale-del-cioccolato-e-una-cosa-seria-abbiamo-vinto-dopo-13-anni/",
+        "pubDate": "2026-10-30T12:13:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/tommaso-grollero-scultura-cover.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Colli di Conegliano Docg: bordolesi e Incrocio Manzoni sfidano il Prosecco",
+        "description": "Tuffo nei vini fermi Colli di Conegliano: Rosso, Bianco e dolci.\nL'articolo Colli di Conegliano Docg: bordolesi e Incrocio Manzoni sfidano il Prosecco proviene …",
+        "link": "https://www.winemag.it/colli-di-conegliano-docg-bordolesi-e-incrocio-manzoni-sfidano-il-prosecco/",
+        "pubDate": "2026-10-30T11:00:47+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Colli-di-Conegliano-Docg-bordolesi-e-Incrocio-Manzoni-nel-mare-di-Prosecco-1.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spaghetti alla carrettiera estiva: la ricetta che arriva in tavola in 10 minuti quando il caldo non perdona",
+        "description": "La versione estiva degli spaghetti alla carrettiera: piatto siciliano senza forno, pronto in 10 minuti con aglio, peperoncino e olio extravergine.…",
+        "link": "https://www.gustoblog.it/2026/10/30/spaghetti-carrettiera-estiva-ricetta/",
+        "pubDate": "2026-10-30T08:39:04+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Una delle cantine più famose di Spagna ha fatto in segreto a un vino bianco. Ora lo lancia a 40 euro: “Sarà il peggiore che faremo”",
+        "description": "Dopo anni di acquisizioni riservate in Galizia, Vega Sicilia presenta Deiva, il suo nuovo Albariño. Alle spalle ci sono 24 ettari di vigneti e una cantina da 20…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/vega-sicilia-deiva-albarino-galizia-nuovo-vino-bianco/",
+        "pubDate": "2026-10-30T08:29:17+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "È morta Dolores Huerta, la donna che convinse gli americani a boicottare l’uva per difendere i braccianti",
+        "description": "È morta a 96 anni la cofondatrice degli United Farm Workers, protagonista dello sciopero dell'uva in California e dei boicottaggi che portarono i diritti dei br…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/dolores-huerta-morta-boicottaggio-uva-diritti-braccianti/",
+        "pubDate": "2026-10-30T08:16:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Francia vietarono l’assenzio e un distillatore inventò un’altra bevanda. Piacque così tanto che si produce ancora oggi",
+        "description": "Nel 1921, dopo il divieto dell'assenzio, una distilleria di Pontarlier inventò un aperitivo all'anice destinato a sopravvivere al proibizionismo e diventare una…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pontarlier-anis-liquore-inventato-divieto-assenzio-francia/",
+        "pubDate": "2026-10-30T08:14:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In un piccolo paese abruzzese c’è un oste che cucina il baccalà in oltre 40 modi diversi. La sua osteria ha solo 20 posti",
+        "description": "A Castel Frentano, in provincia di Chieti, Giuseppe Di Donato ha costruito un repertorio di oltre quaranta ricette di baccalà, servite nella piccola osteria che…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/osteria-peppone-castel-frentano-baccala-40-ricette/",
+        "pubDate": "2026-10-30T08:12:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’Arcidiocesi di Napoli trasforma una chiesa in pizzeria per i detenuti",
+        "description": "A Napoli una cappella storica diventerà una pizzeria sociale aperta alla città, per offrire un reinserimento lavorativo a detenuti ed ex detenuti.\nL'articolo L&…",
+        "link": "https://www.dissapore.com/notizie/larcidiocesi-di-napoli-trasforma-una-chiesa-in-pizzeria-per-i-detenuti/",
+        "pubDate": "2026-10-30T07:54:53+00:00",
+        "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=200&q=70",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Natale 2026, Pasticceria Cucchi celebra 90 anni con panettoni, dolci e confezioni regalo",
+        "description": "Pasticceria Cucchi festeggia il Natale 2026 nell’anno del suo novantesimo anniversario. Fondata nel 1936 e situata in corso Genova a Milano, la storica insegna …",
+        "link": "https://www.winemag.it/natale-2026-pasticceria-cucchi-celebra-90-anni-con-panettoni-dolci-e-confezioni-regalo/",
+        "pubDate": "2026-10-30T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Pizza in teglia con il cucchiaio: la ricetta senza complicazioni per chi ha fretta",
+        "description": "La pizza in teglia ricetta ad alta idratazione si lavora con il cucchiaio, senza tecniche difficili. Scopri proporzioni, tempi di lievitazione e come ottenere u…",
+        "link": "https://www.gustoblog.it/2026/10/30/pizza-teglia-ricetta-cucchiaio/",
+        "pubDate": "2026-10-30T01:48:42+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "Tutte le novità che Ferrero ha in serbo per i supermercati (e i bar) italiani",
         "description": "Nuove referenze nel settore bakery e salutista, ma il colosso di Alba punta forte sui biscotti, con novità per i marchi Kinder e -ovviamente- Nutella.\nL'articol…",
@@ -448,101 +538,11 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "In Puglia c’è un pane che si mangia il giorno dei morti per alleviare le sofferenze delle anime del Purgatorio",
-        "description": "A Terlizzi, in provincia di Bari, il 2 novembre si mangia la quartecèdde, un pane farcito con ricotta forte e pesce conservato. Il motivo? Alleviare le pene del…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/quartecedde-terlizzi-pane-piccante-giorno-morti/",
-        "pubDate": "2026-10-29T10:57:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo assaggiato 30 burri del supermercato: tra i migliori anche quelli da 1,29 euro",
-        "description": "Trenta panetti acquistati tra supermercati e discount, 12 premiati con uno, due o tre Gamberi: il nostro assaggio alla cieca rivela quali marchi hanno convinto …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/burro-supermercato-migliori-test-assaggio/",
-        "pubDate": "2026-10-29T10:46:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Jessica Rosval: “Per fare alta cucina non servono gerarchie rigide né una cultura della paura”",
-        "description": "La chef di Al Gatto Verde racconta perché l'eccellenza non richiede una leadership autoritaria, il progetto Roots per le donne migranti e la sua idea di sosteni…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/jessica-rosval-alta-cucina-gerarchie-cultura-paura/",
-        "pubDate": "2026-10-29T10:32:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Dimenticate il pesce pescato: la rivoluzione della cucina di mare parte dagli allevamenti",
         "description": "Andiamo alla ricerca delle nuove tendenze gastronomiche là dove nascono, ossia nella filiera di approvvigionamento: un' acquacoltura sostenibile è possibile e, …",
         "link": "https://www.dissapore.com/ristoranti/dimenticate-il-pesce-pescato-la-rivoluzione-della-cucina-di-mare-parte-dagli-allevamenti/",
         "pubDate": "2026-10-29T09:56:19+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/vasche-rombi-neptura.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Caffè etiope, il rito delle tre tazze: come si prepara e cosa significa questa cerimonia",
-        "description": "La cerimonia caffè etiope è un rito collettivo radicato in Etiopia. Scopri le tre tazze (Awel, Kale'i, Bereka), la tostatura tradizionale e il significato cultu…",
-        "link": "https://www.gustoblog.it/2026/10/29/cerimonia-caffe-etiope-tre-tazze/",
-        "pubDate": "2026-10-29T08:39:33+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La storia dei due locali di New York che si facevano la guerra a colpi di pastrami",
-        "description": "Aperto nel 1937, il celebre deli newyorkese ha attraversato recensioni leggendarie, sequestri e rivalità feroci, fino a una riapertura nel 2026 che sembra la ve…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/carnegie-deli-new-york-riapertura-stage-deli-guerra-pastrami/",
-        "pubDate": "2026-10-29T08:10:43+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cozze alla tarantina: la ricetta originale pugliese che si prepara in 20 minuti a casa",
-        "description": "Scopri come preparare le cozze alla tarantina, il piatto tipico pugliese con pomodoro, aglio e peperoncino. Guida completa con ingredienti e tecniche tradiziona…",
-        "link": "https://www.gustoblog.it/2026/10/29/cozze-alla-tarantina-ricetta/",
-        "pubDate": "2026-10-29T01:49:16+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Pasta all’uovo al supermercato: come riconoscere quella buona e cosa leggere sull’etichetta",
-        "description": "Guida pratica per scegliere la pasta all'uovo al supermercato. Scopri come leggere l'etichetta e riconoscere i marker di qualità per fresca, ripiena e secca.…",
-        "link": "https://www.gustoblog.it/2026/10/28/pasta-all-uovo-supermercato-qualita/",
-        "pubDate": "2026-10-28T22:22:19+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Basta cellulari ai bambini al ristorante: in Sardegna parte un esperimento",
-        "description": "Non si tratta di un vero divieto, ma di un'alleanza tra ristoratori e famiglie per proteggere la convivialità e i minori, che abusano di connessione.\nL'articolo…",
-        "link": "https://www.dissapore.com/notizie/basta-cellulari-ai-bambini-al-ristorante-in-sardegna-parte-un-esperimento/",
-        "pubDate": "2026-10-28T16:30:54+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2016/07/Deposito-telefoni-acetaia-modena-pedroni.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Surgilli, la pasta abruzzese che ricorda le code dei topi: come si prepara in casa",
-        "description": "Scopri i surgilli, la pasta abruzzese tradizionale dall'Altopiano delle Rocche. Forma caratteristica, lavorazione manuale e utilizzi in cucina.…",
-        "link": "https://www.gustoblog.it/2026/10/28/surgilli-pasta-abruzzese-tradizionale/",
-        "pubDate": "2026-10-28T15:30:31+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La cosa più intelligente sulla crisi del fine dining l’ha detta Cesare Battisti",
-        "description": "Lo chef del Ratanà è intervenuto al Cook Fest di Milano per discutere del futuro della ristorazione insieme a Eugenio Boer, Edoardo Grassi e Luciano Sbraga di F…",
-        "link": "https://www.dissapore.com/notizie/la-cosa-piu-intelligente-sulla-crisi-del-fine-dining-lha-detta-cesare-battisti/",
-        "pubDate": "2026-10-28T15:09:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/IMG_5309.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
