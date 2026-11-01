@@ -1,7 +1,133 @@
 {
-  "generated": "2026-10-31T21:04:50.870149+00:00",
+  "generated": "2026-11-01T12:46:11.638655+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Piada dei morti: la ricetta del dolce tradizionale romagnolo che si prepara in casa in 30 minuti",
+        "description": "Scopri come preparare la piada dei morti, la focaccia dolce lievitata della tradizione romagnola con frutta secca e vino Sangiovese per il 2 novembre.…",
+        "link": "https://www.gustoblog.it/2026/11/01/piada-morti-ricetta-romagnola/",
+        "pubDate": "2026-11-01T12:00:16+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il cambiamento climatico non farà solo aumentare il prezzo del cibo: rischia di farlo sparire dagli scaffali",
+        "description": "Il cambiamento climatico minaccia l'intera filiera alimentare: dai raccolti ai trasporti, fino alla conservazione del cibo. Il rischio non è soltanto pagare di …",
+        "link": "https://www.dissapore.com/spesa/il-cambiamento-climatico-non-fara-solo-aumentare-il-prezzo-del-cibo-rischia-di-farlo-sparire-dagli-scaffali/",
+        "pubDate": "2026-11-01T10:44:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/11/nave-container.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Castagne che galleggiano: il test dell’acqua per scegliere quelle buone",
+        "description": "Scopri perché le castagne galleggiano e come usare questo semplice test dell'acqua per selezionare frutti freschi e di qualità.…",
+        "link": "https://www.gustoblog.it/2026/11/01/castagne-galleggiano-test-acqua/",
+        "pubDate": "2026-11-01T09:22:21+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Perché il prosciutto cotto diventa grigio: il colore naturale non è il rosa",
+        "description": "Il prosciutto cotto grigio è il colore naturale della carne cotta. Scopri come i nitriti trasformano il grigio in rosa e cosa dice la scienza.…",
+        "link": "https://www.gustoblog.it/2026/11/01/prosciutto-cotto-colore-grigio-naturale/",
+        "pubDate": "2026-11-01T09:22:21+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Tiella barese: la ricetta originale di riso, patate e cozze",
+        "description": "La tiella barese è il piatto tradizionale pugliese con riso, patate e cozze crude cotte al forno. Scopri la ricetta autentica di Bari e i segreti della preparaz…",
+        "link": "https://www.gustoblog.it/2026/11/01/tiella-barese-ricetta-originale/",
+        "pubDate": "2026-11-01T07:43:57+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Torrone dei morti: la ricetta classica e le varianti da provare a casa",
+        "description": "Scopri la ricetta tradizionale del torrone dei morti napoletano con texture croccante fuori e morbida dentro, più varianti moderne da provare.…",
+        "link": "https://www.gustoblog.it/2026/11/01/torrone-morti-ricetta-classica/",
+        "pubDate": "2026-11-01T07:43:48+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Era diventato famoso per la pizza a canotto. Ora Carlo Sammarco fa anche il suo esatto contrario",
+        "description": "Tra i pionieri della pizza a canotto, conquista i Tre Spicchi ad Aversa dopo aver ampliato la proposta, ridimensionato i cornicioni e introdotto anche la ruota …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/era-diventato-famoso-per-la-pizza-a-canotto-ora-carlo-sammarco-fa-anche-il-suo-esatto-contrario/",
+        "pubDate": "2026-11-01T07:12:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dall’Alto Adige alla Sardegna per fare vino. All’inizio lo guardavano con diffidenza, oggi la sua cantina è premiata",
+        "description": "Mark Hartmann racconta la nascita di Saraja in Gallura, le difficoltà iniziali e il lavoro sul Vermentino premiato dal Gambero Rosso, tra prospettive del mercat…",
+        "link": "https://www.gamberorosso.it/notizie/vino/saraja-gallura-mark-hartmann-cantina-emergente-vermentino/",
+        "pubDate": "2026-11-01T06:04:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Basta schermi al ristorante per i bambini: il patto anti-smartphone in Sardegna dal 1° novembre",
+        "description": "Dal 1° novembre 2026 in Sardegna parte 'A tavola senza schermi', un'iniziativa che invita le famiglie a non usare smartphone ristorante bambini durante i pasti.…",
+        "link": "https://www.gustoblog.it/2026/11/01/smartphone-ristorante-bambini-sardegna/",
+        "pubDate": "2026-11-01T01:48:04+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Mercato vino 2026: produrre meno non significa vendere meglio",
+        "description": "Al 30 ottobre 2026 il vino mondiale non è davanti a una crisi uniforme, ma a una selezione più dura. L’export italiano mostra un recupero, mentre i consumi rest…",
+        "link": "https://www.winemag.it/mercato-vino-2026-produrre-meno-non-significa-vendere-meglio/",
+        "pubDate": "2026-10-31T22:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cannistru siciliano e biscotti tetù e teio: i dolci della Festa dei Morti che si preparano oggi in casa",
+        "description": "I dolci tradizionali della Festa dei Morti siciliana: il cannistru e i biscotti tetù e teio, carichi di significato culturale e affetto familiare.…",
+        "link": "https://www.gustoblog.it/2026/10/31/dolci-festa-morti-sicilia-cannistru-tetu-teio/",
+        "pubDate": "2026-10-31T21:22:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La spesa alimentare sale di 228 euro l’anno: caffè, acqua e pesce costano di più alle famiglie italiane",
+        "description": "La spesa alimentare delle famiglie italiane è aumentata di 228 euro annui nel 2025. Caffè, acqua e pesce tra i rincari maggiori: scopri l'impatto sui consumi.…",
+        "link": "https://www.gustoblog.it/2026/10/31/spesa-alimentare-228-euro-aumento/",
+        "pubDate": "2026-10-31T21:22:32+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Ragù, come evitare che la carne risulti dura e asciutta",
+        "description": "Scopri perché il ragù risulta con carne dura e asciutta e come correggerlo con la giusta rosolatura, tempi di cottura e gestione dell'umidità.…",
+        "link": "https://www.gustoblog.it/2026/10/31/ragu-carne-dura-asciutta-evitare/",
+        "pubDate": "2026-10-31T21:22:30+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Mozzarelle al supermercato: il test de Il Salvagente su 17 marchi",
+        "description": "Il Salvagente ha testato 17 marchi di mozzarella vaccina valutando batteri, conservanti e qualità. Scopri la classifica e come scegliere al supermercato.…",
+        "link": "https://www.gustoblog.it/2026/10/31/mozzarella-supermercato-test-17-marchi/",
+        "pubDate": "2026-10-31T21:22:22+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
       {
         "title": "A Washington solo il foie gras unisce MAGA e liberali",
         "description": "A pochissimo dalle elezioni di midterm le questioni politiche da afftrontare potrebbero sembrare altre, ma a Washington il foie gras è al centro del dibattito, …",
@@ -55,132 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Cacioteca-regionale-Ragusa-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Nei Quartieri Spagnoli di Napoli un antico chiostro è diventato un bistrot",
-        "description": "Nel chiostro di un ex istituto dei Quartieri Spagnoli, Quostro propone colazioni, cucina e cocktail, collaborando con la Fondazione Foqus a iniziative culturali…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/quostro-bistrot-chiostro-quartieri-spagnoli-napoli/",
-        "pubDate": "2026-10-31T10:22:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Uno chef serve la pastina al formaggino nel piatto di Topolino. Vuole farci tornare bambini attraverso il cibo",
-        "description": "Giuseppe Iannotti serve la pastina al formaggino in un piattino di Topolino per evocare i ricordi d'infanzia, mentre l'antropologo Marino Niola spiega il rappor…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pastina-formaggino-topolino-giuseppe-iannotti-memoria-cibo/",
-        "pubDate": "2026-10-31T09:34:18+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo i cappuccini, il latte d’avena vuole conquistare anche i cocktail bar. La nuova scommessa di Oatly",
-        "description": "Dopo il successo nelle caffetterie, l'azienda svedese Oatly cerca spazio nella miscelazione, tra nuovi consumi, cocktail analcolici e bartender ancora poco abit…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/oatly-latte-avena-cocktail-bar-bartender/",
-        "pubDate": "2026-10-31T08:31:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Con i dolci a forma di frutta è passato da 40 a 300 vendite al giorno. Ora il gelatiere dice: “Forse hanno stancato”",
-        "description": "A Rende, in Calabria, Alberto Vitaro racconta come i dolci a forma di frutta abbiano moltiplicato le vendite, attirando clienti da lontano, e perché ora dubita …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/frutta-realistica-vitaro-rende-vendite-trend-social/",
-        "pubDate": "2026-10-31T07:15:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Morbidi e irresistibilmente chic: gli stivali in suede conquistano (ancora una volta) la stagione fall-winter",
-        "description": "Qual è la texture perfetta per addentrarci nel vivo dell’autunno e dare il giusto tocco, cozy e disinvolto, a tutti i nostri look? Il suede, che domande! E, dop…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/stivali-in-suede-pelle-scamosciata-stivale-basso-con-tacco-sottile-midi-camoscio-boots-a-punta-autunno-2026-1009451",
-        "pubDate": "2026-10-31T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_stivali_suede.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Le migliori trattorie d’Italia secondo il Gambero Rosso: per la prima volta c’è anche il Molise",
-        "description": "Sono 61 i locali premiati con i Tre Gamberi nella guida Ristoranti d'Italia 2027: tra le novità, trattorie storiche, bistrot riclassificati e il primo ristorant…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tre-gamberi-2027-migliori-trattorie-italia-nuovi-premiati/",
-        "pubDate": "2026-10-31T06:36:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Molinari Extra Challenge 2026, vince Pietro Iacca con il cocktail Anima",
-        "description": "Si è conclusa a Roma la Molinari Extra Challenge, la competizione internazionale di bartending promossa da Molinari che negli ultimi mesi ha coinvolto professio…",
-        "link": "https://www.winemag.it/molinari-extra-challenge-2026-vince-pietro-iacca-con-il-cocktail-anima/",
-        "pubDate": "2026-10-31T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il Parmesan prodotto in Canada è legale. Ecco perché i formaggi dividono ancora Europa e Canada",
-        "description": "Il Ceta è applicato provvisoriamente dal 2017, ma non è ancora pienamente ratificato: tra le controversie ci sono le eccezioni che consentono l'uso di alcuni no…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ceta-canada-unione-europea-parmesan-formaggi-denominazioni/",
-        "pubDate": "2026-10-31T05:23:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tortellini con la panna o in brodo? La storia vera di quale versione arriva prima nei ricettari",
-        "description": "Scopri la vera storia del tortellini con la panna vs in brodo attraverso ricettari storici e testimonianze di chef. Il brodo non è sempre stato l'originale.…",
-        "link": "https://www.gustoblog.it/2026/10/31/tortellini-panna-vs-brodo-storia/",
-        "pubDate": "2026-10-31T01:49:42+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Vino, controlli shock del Nas in Emilia e Romagna in cantine ed enoteche",
-        "description": "Vecchie uve in decomposizione ed escrementi di topi e scarafaggi.\nL'articolo Vino, controlli shock del Nas in Emilia e Romagna in cantine ed enoteche proviene d…",
-        "link": "https://www.winemag.it/vino-controlli-shock-nas-emilia-romagna-cantine-enoteche/",
-        "pubDate": "2026-10-31T00:13:49+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Lo zafferano in cucina: come usarlo davvero e le ricette che lo esaltano",
-        "description": "Scopri come usare lo zafferano in cucina con i dosaggi giusti, le tecniche di infusione e ricette per piatti salati e dolci.…",
-        "link": "https://www.gustoblog.it/2026/10/30/come-usare-zafferano-cucina/",
-        "pubDate": "2026-10-30T22:22:26+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Pronte a dire addio ai barrel? Sono i jeans a “tulipano” il modello su cui scommettere quest’autunno",
-        "description": "Fino a questo momento sono stati i jeans barrel a dominare le tendenze della stagione, ma a quanto pare c’è una nuova silhouette pronta a cambiare le carte in t…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-a-tulipano-tulip-denim-trend-barrel-autunno-donna-bis-1001329",
-        "pubDate": "2026-10-30T19:13:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Tulip_Jeans.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il vino italiano punta sul Messico: 150 produttori alla Wines Experience tra fine food e nuove tecnologie",
-        "description": "Città del Messico ospita la Wines Experience il 5 e 6 novembre. Protagonisti oltre 1000 etichette e un format che abbina business, degustazione e tecnologia. Du…",
-        "link": "https://www.gamberorosso.it/notizie/vino/il-vino-italiano-punta-sul-messico-wine-experience-tre-bicchieri/",
-        "pubDate": "2026-10-30T18:19:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come abbinare le faux fur secondo le It girl? 9 look cool con la pelliccia da cui prendere ispirazione quest’anno",
-        "description": "L’arrivo del freddo significa solo una cosa: via libera &#8211; finalmente &#8211; a pellicce e pellicciotti! Se una cosa è certa, è che la stagione autunnale è…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-la-pelliccia-faux-fur-abbinamenti-cool-outfit-instagram-street-style-influencer-1008638",
-        "pubDate": "2026-10-30T17:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_inspo_faux_fur.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,6 +367,132 @@
     ],
     "lifestyle": [
       {
+        "title": "Piada dei morti: la ricetta del dolce tradizionale romagnolo che si prepara in casa in 30 minuti",
+        "description": "Scopri come preparare la piada dei morti, la focaccia dolce lievitata della tradizione romagnola con frutta secca e vino Sangiovese per il 2 novembre.…",
+        "link": "https://www.gustoblog.it/2026/11/01/piada-morti-ricetta-romagnola/",
+        "pubDate": "2026-11-01T12:00:16+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Il cambiamento climatico non farà solo aumentare il prezzo del cibo: rischia di farlo sparire dagli scaffali",
+        "description": "Il cambiamento climatico minaccia l'intera filiera alimentare: dai raccolti ai trasporti, fino alla conservazione del cibo. Il rischio non è soltanto pagare di …",
+        "link": "https://www.dissapore.com/spesa/il-cambiamento-climatico-non-fara-solo-aumentare-il-prezzo-del-cibo-rischia-di-farlo-sparire-dagli-scaffali/",
+        "pubDate": "2026-11-01T10:44:19+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2024/11/nave-container.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Castagne che galleggiano: il test dell’acqua per scegliere quelle buone",
+        "description": "Scopri perché le castagne galleggiano e come usare questo semplice test dell'acqua per selezionare frutti freschi e di qualità.…",
+        "link": "https://www.gustoblog.it/2026/11/01/castagne-galleggiano-test-acqua/",
+        "pubDate": "2026-11-01T09:22:21+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Perché il prosciutto cotto diventa grigio: il colore naturale non è il rosa",
+        "description": "Il prosciutto cotto grigio è il colore naturale della carne cotta. Scopri come i nitriti trasformano il grigio in rosa e cosa dice la scienza.…",
+        "link": "https://www.gustoblog.it/2026/11/01/prosciutto-cotto-colore-grigio-naturale/",
+        "pubDate": "2026-11-01T09:22:21+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Tiella barese: la ricetta originale di riso, patate e cozze",
+        "description": "La tiella barese è il piatto tradizionale pugliese con riso, patate e cozze crude cotte al forno. Scopri la ricetta autentica di Bari e i segreti della preparaz…",
+        "link": "https://www.gustoblog.it/2026/11/01/tiella-barese-ricetta-originale/",
+        "pubDate": "2026-11-01T07:43:57+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Torrone dei morti: la ricetta classica e le varianti da provare a casa",
+        "description": "Scopri la ricetta tradizionale del torrone dei morti napoletano con texture croccante fuori e morbida dentro, più varianti moderne da provare.…",
+        "link": "https://www.gustoblog.it/2026/11/01/torrone-morti-ricetta-classica/",
+        "pubDate": "2026-11-01T07:43:48+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Era diventato famoso per la pizza a canotto. Ora Carlo Sammarco fa anche il suo esatto contrario",
+        "description": "Tra i pionieri della pizza a canotto, conquista i Tre Spicchi ad Aversa dopo aver ampliato la proposta, ridimensionato i cornicioni e introdotto anche la ruota …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/era-diventato-famoso-per-la-pizza-a-canotto-ora-carlo-sammarco-fa-anche-il-suo-esatto-contrario/",
+        "pubDate": "2026-11-01T07:12:55+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dall’Alto Adige alla Sardegna per fare vino. All’inizio lo guardavano con diffidenza, oggi la sua cantina è premiata",
+        "description": "Mark Hartmann racconta la nascita di Saraja in Gallura, le difficoltà iniziali e il lavoro sul Vermentino premiato dal Gambero Rosso, tra prospettive del mercat…",
+        "link": "https://www.gamberorosso.it/notizie/vino/saraja-gallura-mark-hartmann-cantina-emergente-vermentino/",
+        "pubDate": "2026-11-01T06:04:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Basta schermi al ristorante per i bambini: il patto anti-smartphone in Sardegna dal 1° novembre",
+        "description": "Dal 1° novembre 2026 in Sardegna parte 'A tavola senza schermi', un'iniziativa che invita le famiglie a non usare smartphone ristorante bambini durante i pasti.…",
+        "link": "https://www.gustoblog.it/2026/11/01/smartphone-ristorante-bambini-sardegna/",
+        "pubDate": "2026-11-01T01:48:04+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Mercato vino 2026: produrre meno non significa vendere meglio",
+        "description": "Al 30 ottobre 2026 il vino mondiale non è davanti a una crisi uniforme, ma a una selezione più dura. L’export italiano mostra un recupero, mentre i consumi rest…",
+        "link": "https://www.winemag.it/mercato-vino-2026-produrre-meno-non-significa-vendere-meglio/",
+        "pubDate": "2026-10-31T22:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Cannistru siciliano e biscotti tetù e teio: i dolci della Festa dei Morti che si preparano oggi in casa",
+        "description": "I dolci tradizionali della Festa dei Morti siciliana: il cannistru e i biscotti tetù e teio, carichi di significato culturale e affetto familiare.…",
+        "link": "https://www.gustoblog.it/2026/10/31/dolci-festa-morti-sicilia-cannistru-tetu-teio/",
+        "pubDate": "2026-10-31T21:22:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "La spesa alimentare sale di 228 euro l’anno: caffè, acqua e pesce costano di più alle famiglie italiane",
+        "description": "La spesa alimentare delle famiglie italiane è aumentata di 228 euro annui nel 2025. Caffè, acqua e pesce tra i rincari maggiori: scopri l'impatto sui consumi.…",
+        "link": "https://www.gustoblog.it/2026/10/31/spesa-alimentare-228-euro-aumento/",
+        "pubDate": "2026-10-31T21:22:32+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Ragù, come evitare che la carne risulti dura e asciutta",
+        "description": "Scopri perché il ragù risulta con carne dura e asciutta e come correggerlo con la giusta rosolatura, tempi di cottura e gestione dell'umidità.…",
+        "link": "https://www.gustoblog.it/2026/10/31/ragu-carne-dura-asciutta-evitare/",
+        "pubDate": "2026-10-31T21:22:30+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Mozzarelle al supermercato: il test de Il Salvagente su 17 marchi",
+        "description": "Il Salvagente ha testato 17 marchi di mozzarella vaccina valutando batteri, conservanti e qualità. Scopri la classifica e come scegliere al supermercato.…",
+        "link": "https://www.gustoblog.it/2026/10/31/mozzarella-supermercato-test-17-marchi/",
+        "pubDate": "2026-10-31T21:22:22+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
         "title": "A Washington solo il foie gras unisce MAGA e liberali",
         "description": "A pochissimo dalle elezioni di midterm le questioni politiche da afftrontare potrebbero sembrare altre, ma a Washington il foie gras è al centro del dibattito, …",
         "link": "https://www.dissapore.com/notizie/a-washington-solo-il-foie-gras-unisce-maga-e-liberali/",
@@ -419,132 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dopo i cappuccini, il latte d’avena vuole conquistare anche i cocktail bar. La nuova scommessa di Oatly",
-        "description": "Dopo il successo nelle caffetterie, l'azienda svedese Oatly cerca spazio nella miscelazione, tra nuovi consumi, cocktail analcolici e bartender ancora poco abit…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/oatly-latte-avena-cocktail-bar-bartender/",
-        "pubDate": "2026-10-31T08:31:12+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Con i dolci a forma di frutta è passato da 40 a 300 vendite al giorno. Ora il gelatiere dice: “Forse hanno stancato”",
-        "description": "A Rende, in Calabria, Alberto Vitaro racconta come i dolci a forma di frutta abbiano moltiplicato le vendite, attirando clienti da lontano, e perché ora dubita …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/frutta-realistica-vitaro-rende-vendite-trend-social/",
-        "pubDate": "2026-10-31T07:15:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le migliori trattorie d’Italia secondo il Gambero Rosso: per la prima volta c’è anche il Molise",
-        "description": "Sono 61 i locali premiati con i Tre Gamberi nella guida Ristoranti d'Italia 2027: tra le novità, trattorie storiche, bistrot riclassificati e il primo ristorant…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/tre-gamberi-2027-migliori-trattorie-italia-nuovi-premiati/",
-        "pubDate": "2026-10-31T06:36:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Molinari Extra Challenge 2026, vince Pietro Iacca con il cocktail Anima",
-        "description": "Si è conclusa a Roma la Molinari Extra Challenge, la competizione internazionale di bartending promossa da Molinari che negli ultimi mesi ha coinvolto professio…",
-        "link": "https://www.winemag.it/molinari-extra-challenge-2026-vince-pietro-iacca-con-il-cocktail-anima/",
-        "pubDate": "2026-10-31T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il Parmesan prodotto in Canada è legale. Ecco perché i formaggi dividono ancora Europa e Canada",
-        "description": "Il Ceta è applicato provvisoriamente dal 2017, ma non è ancora pienamente ratificato: tra le controversie ci sono le eccezioni che consentono l'uso di alcuni no…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/ceta-canada-unione-europea-parmesan-formaggi-denominazioni/",
-        "pubDate": "2026-10-31T05:23:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Tortellini con la panna o in brodo? La storia vera di quale versione arriva prima nei ricettari",
-        "description": "Scopri la vera storia del tortellini con la panna vs in brodo attraverso ricettari storici e testimonianze di chef. Il brodo non è sempre stato l'originale.…",
-        "link": "https://www.gustoblog.it/2026/10/31/tortellini-panna-vs-brodo-storia/",
-        "pubDate": "2026-10-31T01:49:42+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Vino, controlli shock del Nas in Emilia e Romagna in cantine ed enoteche",
-        "description": "Vecchie uve in decomposizione ed escrementi di topi e scarafaggi.\nL'articolo Vino, controlli shock del Nas in Emilia e Romagna in cantine ed enoteche proviene d…",
-        "link": "https://www.winemag.it/vino-controlli-shock-nas-emilia-romagna-cantine-enoteche/",
-        "pubDate": "2026-10-31T00:13:49+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Lo zafferano in cucina: come usarlo davvero e le ricette che lo esaltano",
-        "description": "Scopri come usare lo zafferano in cucina con i dosaggi giusti, le tecniche di infusione e ricette per piatti salati e dolci.…",
-        "link": "https://www.gustoblog.it/2026/10/30/come-usare-zafferano-cucina/",
-        "pubDate": "2026-10-30T22:22:26+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il vino italiano punta sul Messico: 150 produttori alla Wines Experience tra fine food e nuove tecnologie",
-        "description": "Città del Messico ospita la Wines Experience il 5 e 6 novembre. Protagonisti oltre 1000 etichette e un format che abbina business, degustazione e tecnologia. Du…",
-        "link": "https://www.gamberorosso.it/notizie/vino/il-vino-italiano-punta-sul-messico-wine-experience-tre-bicchieri/",
-        "pubDate": "2026-10-30T18:19:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dissapore premia le pasticcerie di Genova, e siete invitati all’evento",
-        "description": "L'evento in una pasticceria cittadina per raccontare come la redazione di Dissapore è arrivata a questa selezione, e per incontrare i pasticceri premiati.\nL'art…",
-        "link": "https://www.dissapore.com/notizie/dissapore-premia-le-pasticcerie-di-genova-e-siete-invitati-allevento/",
-        "pubDate": "2026-10-30T16:01:05+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/patisserie-918.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "All’Antico Vinaio diventa un franchising, puntando sui centri commerciali",
-        "description": "Tommaso Mazzanti unisce le forze con Only The Food, azienda specializzata in catene come Poke House e La Piadineria, per una nuova espansione che ha dell'inedit…",
-        "link": "https://www.dissapore.com/notizie/allantico-vinaio-diventa-un-franchising-puntando-sui-centri-commerciali/",
-        "pubDate": "2026-10-30T15:11:50+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Alessandro-Cappelleri-e-Tommaso-Mazzanti.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Pomino Spumante Rosé DOC Metodo Classico Brut 2021 Leonia, Frescobaldi",
-        "description": "Dalla Guida Winemag 2027\nL'articolo Pomino Spumante Rosé DOC Metodo Classico Brut 2021 Leonia, Frescobaldi proviene da Winemag.it - Davide Bortone: wine magazin…",
-        "link": "https://www.winemag.it/pomino-spumante-rose-doc-metodo-classico-brut-2021-leonia-frescobaldi/",
-        "pubDate": "2026-10-30T14:55:33+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Spumante Brut Rosé Gran Cuvée Particolare, Tenuta del Buonamico",
-        "description": "Dalla Guida Winemag 2027\nL'articolo Spumante Brut Rosé Gran Cuvée Particolare, Tenuta del Buonamico proviene da Winemag.it - Davide Bortone: wine magazine itali…",
-        "link": "https://www.winemag.it/spumante-brut-rose-gran-cuvee-particolare-tenuta-del-buonamico/",
-        "pubDate": "2026-10-30T14:55:33+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Toscana Igt 2025 Dea Rosa, Tenuta del Buonamico",
-        "description": "Dalla Guida Winemag 2027\nL'articolo Toscana Igt 2025 Dea Rosa, Tenuta del Buonamico proviene da Winemag.it - Davide Bortone: wine magazine italiano, guida vini,…",
-        "link": "https://www.winemag.it/toscana-igt-2025-dea-rosa-tenuta-del-buonamico/",
-        "pubDate": "2026-10-30T14:55:32+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ]
   }
