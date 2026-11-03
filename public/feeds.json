@@ -1,7 +1,133 @@
 {
-  "generated": "2026-11-02T14:55:04.911057+00:00",
+  "generated": "2026-11-03T00:37:10.624103+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Vermentino di Gallura Docg vendemmia tardiva 2023 Montidimola, Surrau",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Vermentino di Gallura Docg vendemmia tardiva 2023 Montidimola, Surrau proviene da W…",
+        "link": "https://www.winemag.it/vermentino-di-gallura-docg-vendemmia-tardiva-2023-montidimola-surrau/",
+        "pubDate": "2026-11-02T16:53:46+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vermentino di Gallura Superiore Docg 2025 Sciala, Surrau",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Vermentino di Gallura Superiore Docg 2025 Sciala, Surrau proviene da Winemag.it - D…",
+        "link": "https://www.winemag.it/vermentino-di-gallura-superiore-docg-2025-sciala-surrau/",
+        "pubDate": "2026-11-02T16:53:46+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sannio Doc Fiano 2025, Fontanavecchia",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Sannio Doc Fiano 2025, Fontanavecchia proviene da Winemag.it - Davide Bortone: wine…",
+        "link": "https://www.winemag.it/sannio-doc-fiano-2025-fontanavecchia/",
+        "pubDate": "2026-11-02T16:53:45+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Metodo classico Pas Dosé 2020 Tremièn, La Fortezza",
+        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Metodo classico Pas Dosé 2020 Tremièn, La Fortezza proviene da Winemag.it - Davide Bort…",
+        "link": "https://www.winemag.it/metodo-classico-pas-dose-2020-tremien-la-fortezza/",
+        "pubDate": "2026-11-02T16:53:44+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sannio Doc Greco 2025, Fontanavecchia",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sannio Doc Greco 2025, Fontanavecchia proviene da Winemag.it - Davide Bortone: wine magaz…",
+        "link": "https://www.winemag.it/sannio-doc-greco-2025-fontanavecchia/",
+        "pubDate": "2026-11-02T16:53:44+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Etna Doc Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Doc Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia proviene da Winemag.it…",
+        "link": "https://www.winemag.it/etna-doc-metodo-classico-brut-2021-sosta-tre-santi-tenute-nicosia/",
+        "pubDate": "2026-11-02T16:53:43+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sicilia Doc Carricante Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sicilia Doc Carricante Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia proviene…",
+        "link": "https://www.winemag.it/sicilia-doc-carricante-metodo-classico-brut-2021-sosta-tre-santi-tenute-nicosia/",
+        "pubDate": "2026-11-02T16:53:42+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Etna Doc Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Etna Doc Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia pro…",
+        "link": "https://www.winemag.it/etna-doc-metodo-classico-brut-2020-sosta-tre-santi-sessantamesi-tenute-nicosia/",
+        "pubDate": "2026-11-02T16:53:41+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sicilia Doc Carricante Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Sicilia Doc Carricante Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenu…",
+        "link": "https://www.winemag.it/sicilia-doc-carricante-metodo-classico-brut-2020-sosta-tre-santi-sessantamesi-tenute-nicosia/",
+        "pubDate": "2026-11-02T16:53:41+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Langhe Doc Nascetta 2025, Fratelli Serio & Battista Borgogno",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Langhe Doc Nascetta 2025, Fratelli Serio   Battista Borgogno proviene da Winemag.it - Dav…",
+        "link": "https://www.winemag.it/langhe-doc-nascetta-2025-fratelli-serio-battista-borgogno/",
+        "pubDate": "2026-11-02T16:53:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Off The Table”: perché 120 chef internazionali vogliono togliere il salmone dalle tavole",
+        "description": "Secondo l'organizzazione WildFish, l'allevamento in gabbie aperte dei salmoni sarebbe ormai totalmente insostenibile, e a sostenere l'iniziativa ci sono anche M…",
+        "link": "https://www.dissapore.com/notizie/off-the-table-perche-120-chef-internazionali-vogliono-togliere-il-salmone-dalle-tavole/",
+        "pubDate": "2026-11-02T16:34:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/allevamento-pesce-mare-gabbie-salmone-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "It’s timeee! Mariah Carey inaugura ufficialmente la Holiday season nella nuova campagna di Gucci",
+        "description": "C&#8217;è chi aspetta che arrivi dicembre per iniziare a pensare al Natale e chi, invece, ha già pronto l&#8217;albero prima ancora di aver riposto le zucche di…",
+        "link": "https://www.grazia.it/moda/news-moda/mariah-carey-gucci-natale-2026-campagna-natalizia-all-i-want-for-christmas-is-you-1010159",
+        "pubDate": "2026-11-02T15:52:41+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/ok-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "l correttori non sono tutti uguali: ecco come scegliere quello giusto per te",
+        "description": "Dalle occhiaie ai rossori, ogni zona del viso ha esigenze diverse e richiede una formula specifica. Ecco come applicare il correttore senza appesantire il make-…",
+        "link": "https://www.stylosophy.it/articolo/l-correttori-non-sono-tutti-uguali-ecco-come-scegliere-quello-giusto-per-la-tua-pelle/254216/",
+        "pubDate": "2026-11-02T15:05:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il vino statunitense scompare dagli scaffali canadesi. Opportunità per l’Italia, ma bisogna fare presto",
+        "description": "Complice la guerra dei dazi, per l'Italia potrebbe essere il momento giusto per intensificare la presenza nel mercato canadese: secondo il monopolio del Québec,…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-italiano-canada-world-tour-gambero-rosso/",
+        "pubDate": "2026-11-02T14:43:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Chi è stata Nadia Santini, la prima donna italiana a conquistare tre stelle Michelin",
         "description": "Nadia Santini ha cambiato la storia della gastronomia italiana senza mai rinunciare alla propria idea di cucina: quella fatta di territorio, tradizione e famigl…",
@@ -12,6 +138,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "È morta Nadia Santini, la cuoca che ha fatto di un’osteria di campagna uno dei grandi ristoranti italiani",
+        "description": "Si è spenta a 73 anni la cuoca del Dal Pescatore di Canneto sull'Oglio, prima donna italiana con tre stelle Michelin: il ricordo di una cucina familiare e dell'…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/morta-nadia-santini-chef-dal-pescatore-tre-stelle-michelin/",
+        "pubDate": "2026-11-02T14:05:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Silvia Toffanin, a Verissimo con il coordinato in velluto perfetto per questa stagione FOTO",
         "description": "Ecco che cosa ha indossato Silvia Toffanin per la puntata di ieri pomeriggio di Verissimo.…",
         "link": "https://www.stylosophy.it/articolo/silvia-toffanin-a-verissimo-con-il-coordinato-in-velluto-perfetto-per-questa-stagione-foto/254211/",
@@ -19,6 +154,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Il vino del Lazio si prende la scena: 11 Tre Bicchieri raccontano il riscatto di una regione",
+        "description": "Alla Nuvola di Roma, per i quarant'anni di Gambero Rosso, il curatore di Vini d'Italia ha guidato con Regione Lazio e Arsial la masterclass sui vini laziali pre…",
+        "link": "https://www.gamberorosso.it/vino/il-vino-del-lazio-si-prende-la-scena-11-tre-bicchieri-raccontano-il-riscatto-di-una-regione/",
+        "pubDate": "2026-11-02T13:34:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "L’Europa potrebbe tagliare i fondi all’agricoltura biologica",
@@ -30,160 +174,34 @@
         "source": "Dissapore"
       },
       {
-        "title": "C’è una guerra di cheesecake tra Barack Obama e Donald Trump",
-        "description": "Le midterm sono in corso, e Obama e Trump non si risparmiano battute al vetriolo, il cui curioso terreno di scontro è una catena di ristoranti dedicata alle che…",
-        "link": "https://www.dissapore.com/notizie/ce-una-guerra-di-cheesecake-tra-barack-obama-e-donald-trump/",
-        "pubDate": "2026-11-02T10:48:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/cheesecake-factory-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cipolle in tre modi: dalle farcite ai funghi alla torta salata",
-        "description": "Scopri le ricette cipolle autunnali più semplici: torta salata croccante, cipolle farcite con funghi e nocciole, schiacciata di patate. Piatti autentici pronti …",
-        "link": "https://www.gustoblog.it/2026/11/02/ricette-cipolle-autunnali-tre-modi/",
-        "pubDate": "2026-11-02T08:49:36+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Castagne e funghi: i sapori dell’autunno arrivano in tavola con pasta e primi piatti",
-        "description": "Scopri come preparare la pasta castagne e funghi, i sapori autunnali per eccellenza. Formati di pasta, tecniche di cottura e abbinamenti perfetti.…",
-        "link": "https://www.gustoblog.it/2026/11/02/pasta-castagne-funghi-ricette/",
-        "pubDate": "2026-11-02T08:48:44+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Zuppe e vellutate autunnali: il comfort food che scalda le giornate fredde",
-        "description": "Scopri le zuppe e vellutate autunnali perfette per le giornate fredde: zuppa di farro e vellutata di lenticchie, ricette semplici e corroboranti pronte in pochi…",
-        "link": "https://www.gustoblog.it/2026/11/02/zuppe-vellutate-autunnali-ricette/",
-        "pubDate": "2026-11-02T08:48:39+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Vellutata di lenticchie: il comfort food caldo e cremoso che arriva in tavola in pochi minuti",
-        "description": "Scopri come preparare una vellutata di lenticchie ricetta cremosa e nutriente. Guida completa con ingredienti, varianti e trucchi per la consistenza perfetta.…",
-        "link": "https://www.gustoblog.it/2026/11/02/vellutata-lenticchie-ricetta-cremosa/",
-        "pubDate": "2026-11-02T08:48:35+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "In Alto Adige 190 famiglie producono vino insieme. E puntano sulla qualità delle uve",
-        "description": "Dalla gestione dei soci ai vini d'alta quota. Andreas Kofler svela il modello di Cantina Kurtatsch, premiata dal Gambero Rosso, e le sfide future. Dal clima al …",
-        "link": "https://www.gamberorosso.it/notizie/vino/kurtatsch-premio-cantina-anno-2027/",
-        "pubDate": "2026-11-02T06:00:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Papassini sardi: la ricetta originale dei dolcetti per Ognissanti",
-        "description": "Scopri la ricetta autentica dei papassini sardi, i dolcetti tradizionali di Ognissanti con mandorle, uva passa e saba. Ingredienti, tecnica e come riconoscerli.…",
-        "link": "https://www.gustoblog.it/2026/11/02/papassini-sardi-ricetta-originale/",
-        "pubDate": "2026-11-02T01:49:31+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Giovanni e Guglielmo Bertani: la primavera di Tenuta Santa Maria",
-        "description": "Al laghetto di Villa Mosconi Bertani, il Kaffeehaus affiora tra gli alberi e si riflette nell&#8217;acqua. Le chiome, la passerella e il piccolo padiglione comp…",
-        "link": "https://www.winemag.it/giovanni-guglielmo-bertani-primavera-tenuta-santa-maria-gaetano-bertani-valpolicella/",
-        "pubDate": "2026-11-01T23:10:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Giovanni-e-Guglielmo-Bertani-la-primavera-di-Tenuta-Santa-Maria-Bertani-in-Valpolicella-dopo-divisioni-famiglia-cantine-bertani-villa-mosconi-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Pinot Noir di Borgogna d’autunno: tra bollicine ed eleganza ferma",
-        "description": "Crémant de Bourgogne Aop Rosé di Raoul Clerget e Pinot Noir Sélection du Sommelier 2024 di Jean Marie Garnier.\nL'articolo Pinot Noir di Borgogna d&#8217;autunno…",
-        "link": "https://www.winemag.it/pinot-noir-borgogna-autunno-pinot-nero-bollicine-eleganza-ferma/",
-        "pubDate": "2026-11-01T23:02:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Torrone dei morti al caffè: la ricetta napoletana morbida che si prepara in casa",
-        "description": "Scopri il torrone dei morti al caffè, dolce tradizionale napoletano della festa dei morti. Ricetta morbida con cioccolato, nocciole e caffè, storia e segreti di…",
-        "link": "https://www.gustoblog.it/2026/11/01/torrone-morti-caffe-ricetta-napoletana/",
-        "pubDate": "2026-11-01T22:22:20+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il ritorno di Heston Blumenthal dopo il ricovero psichiatrico: “La mia creatività sta tornando”",
-        "description": "Dopo la crisi che ha portato il celebre chef del Fat Duck al ricovero coatto in una clinica psichiatrica, il lento ritorno alla normalità e alla creatività.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/il-ritorno-di-heston-blumenthal-dopo-il-ricovero-psichiatrico-la-mia-creativita-sta-tornando/",
-        "pubDate": "2026-11-01T17:28:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/heston-blumenthal-nero-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Hygee & Cozy: tips di arredo per trasformare il Salotto nel rifugio invernale perfetto",
-        "description": "Scopri come trasformare il tuo salotto in un rifugio invernale elegante e accogliente, dove design e comfort si incontrano. Un viaggio tra texture, luci e detta…",
-        "link": "https://www.stylosophy.it/articolo/tips-di-arredo-per-trasformare-il-salotto-nel-rifugio-invernale-perfetto/241838/",
-        "pubDate": "2026-11-01T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "title": "Cosa comprare da Mango a Novembre: i capi e gli accessori giusti per non sbagliare un look",
+        "description": "Arrivano i primi freddi e &#8211; ve lo confessiamo &#8211; specialmente alcune mattine più &#8220;difficili&#8221; la nostra voglia di &#8220;vestirci bene&#82…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-mango-autunno-2026-must-have-cappotti-vestiti-scarpe-borse-accessori-1009680",
+        "pubDate": "2026-11-02T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_mango.jpg",
         "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Mc Donanld dovrà affrontare una causa per un panino nato nel 1981",
-        "description": "McDonald’s dovrà affrontare una causa collettiva negli Stati Uniti perché il suo McRib non conterrebbe carne di costine di maiale. Stiamo parlando di un panino …",
-        "link": "https://www.dissapore.com/notizie/mc-donanld-dovra-affrontare-una-causa-per-un-panino-nato-nel-1981/",
-        "pubDate": "2026-11-01T14:24:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/mcdonalds-insegna-scaled-e1790181901967.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Chiara Ferragni, a Seoul con una delle sue borse preferite: ma quanto costa?",
-        "description": "In vacanza a Seoul, Chiara Ferragni sfoggia una delle borse più iconiche di Chanel: ma quanto costa?…",
-        "link": "https://www.stylosophy.it/articolo/chiara-ferragni-a-seoul-con-una-delle-sue-borse-preferite-ma-quanto-costa/254206/",
-        "pubDate": "2026-11-01T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "A Roma i fornai e i pastai si facevano la guerra per i vermicelli. Nel Seicento arrivarono perfino i divieti",
-        "description": "Nella Roma del Cinquecento i vermicellari producevano pasta fresca fatta a mano, contendendosi il mercato con i fornai. Tra divieti, corporazioni e interventi p…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vermicellari-roma-pasta-fornai-papa/",
-        "pubDate": "2026-11-01T13:58:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Irpinia fanno un pecorino vicino a una sorgente di gas sulfurei. Costa 50 euro al chilo e ne producono pochissimo",
-        "description": "In Alta Irpinia, vicino alla Mefite di Rocca San Felice, pochi allevatori producono il Carmasciano, un pecorino raro che matura fino a un anno e costa circa 50 …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pecorino-carmasciano-irpinia-mefite-prezzo-produzione/",
-        "pubDate": "2026-11-01T12:55:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Piada dei morti: la ricetta del dolce tradizionale romagnolo che si prepara in casa in 30 minuti",
-        "description": "Scopri come preparare la piada dei morti, la focaccia dolce lievitata della tradizione romagnola con frutta secca e vino Sangiovese per il 2 novembre.…",
-        "link": "https://www.gustoblog.it/2026/11/01/piada-morti-ricetta-romagnola/",
-        "pubDate": "2026-11-01T12:00:16+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
+        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "It’s timeee! Mariah Carey inaugura ufficialmente la Holiday season nella nuova campagna di Gucci",
+        "description": "C&#8217;è chi aspetta che arrivi dicembre per iniziare a pensare al Natale e chi, invece, ha già pronto l&#8217;albero prima ancora di aver riposto le zucche di…",
+        "link": "https://www.grazia.it/moda/news-moda/mariah-carey-gucci-natale-2026-campagna-natalizia-all-i-want-for-christmas-is-you-1010159",
+        "pubDate": "2026-11-02T15:52:41+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/ok-apertura.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "l correttori non sono tutti uguali: ecco come scegliere quello giusto per te",
+        "description": "Dalle occhiaie ai rossori, ogni zona del viso ha esigenze diverse e richiede una formula specifica. Ecco come applicare il correttore senza appesantire il make-…",
+        "link": "https://www.stylosophy.it/articolo/l-correttori-non-sono-tutti-uguali-ecco-come-scegliere-quello-giusto-per-la-tua-pelle/254216/",
+        "pubDate": "2026-11-02T15:05:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Silvia Toffanin, a Verissimo con il coordinato in velluto perfetto per questa stagione FOTO",
         "description": "Ecco che cosa ha indossato Silvia Toffanin per la puntata di ieri pomeriggio di Verissimo.…",
@@ -192,6 +210,33 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Cosa comprare da Mango a Novembre: i capi e gli accessori giusti per non sbagliare un look",
+        "description": "Arrivano i primi freddi e &#8211; ve lo confessiamo &#8211; specialmente alcune mattine più &#8220;difficili&#8221; la nostra voglia di &#8220;vestirci bene&#82…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-mango-autunno-2026-must-have-cappotti-vestiti-scarpe-borse-accessori-1009680",
+        "pubDate": "2026-11-02T13:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_mango.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Che scarpe indossare con i jeans baggy? Sono queste le calzature da scegliere per look quotidiani easy e cool",
+        "description": "Li scegliamo nel tempo libero e nel weekend, soprattutto quando non sappiamo come vestirci e non abbiamo troppa voglia di dedicarci alla scelta del look, ma con…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/che-scarpe-indossare-con-i-jeans-baggy-larghi-mocassini-pumps-ballerine-sneakers-1010013",
+        "pubDate": "2026-11-02T12:30:43+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Scarpe_per_jeans_baggy.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Fashion crush del mese: cosa comprare a Novembre",
+        "description": "Le giornate sempre più corte, l’aria che si fa più pungente: i segnali ormai ci sono tutti. L’autunno è ufficialmente entrato nel suo momento clou e questo sign…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-a-novembre-abbigliamento-fashion-crush-shopping-stivali-abiti-in-maglia-cappotto-1009587",
+        "pubDate": "2026-11-02T05:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_fashion_crush_NOVEMBRE.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Hygee & Cozy: tips di arredo per trasformare il Salotto nel rifugio invernale perfetto",
@@ -293,24 +338,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news!",
-        "description": "L’autunno entra nel vivo, le temperature scendono ma quelle della moda restano altissime! Tra nuove muse, collaborazioni sorprendenti, idee innovative e giovani…",
-        "link": "https://www.grazia.it/moda/kylie-jenner-stella-mccartney-demellier-hm-designer-happy-socks-peanuts-surkana-avant-toi-vlisco-dialogues-1009163",
-        "pubDate": "2026-10-30T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/Senza-titolo-20.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Con quali ballerine indossare i pantaloni? Ecco 5 combo a cui dare una chance quest’autunno",
-        "description": "A breve lasceranno inevitabilmente spazio a stivali e stivaletti, destinati a diventare i protagonisti assoluti dei nostri look, ma perché lasciare già in panch…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/con-quali-ballerine-indossare-pantaloni-jeans-leggings-idee-abbinamenti-scarpe-pantalone-outfit-combo-donna-autunno-1009411",
-        "pubDate": "2026-10-30T11:25:51+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Pantaloni_ballerine.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Colori di tendenza autunno-inverno 2026: 5 tonalità per rinnovare casa",
         "description": "Dal marrone cioccolato al blu elettrico, le tonalità protagoniste del momento rinnovano gli ambienti con accostamenti mirati, tessuti e complementi d'arredo.…",
         "link": "https://www.stylosophy.it/articolo/colori-di-tendenza-autunno-inverno-2026-tonalita-per-rinnovare-casa/254177/",
@@ -318,15 +345,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Rosalía, Charlize Theron e tutte le star meglio vestite della settimana!",
-        "description": "Come ogni venerdì che si rispetti, la nostra selezione delle Best Dressed of the Week non vi deluderà. Sono stati tantissimi i nomi che avremmo voluto citare qu…",
-        "link": "https://www.grazia.it/moda/celebrity-style/rosalia-charlize-theron-naomi-watts-vittoria-ceretti-look-star-meglio-vestite-1009079",
-        "pubDate": "2026-10-30T07:33:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_best_dressed_30_ottobre.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Prada lancia ‘Drawing Prada. Animated by Hand’: la nuova campagna Holiday 2026 disegnata a mano",
@@ -338,15 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Katie Holmes lo conferma: “jeans + mocassini” è la combo casual-chic da replicare ogni giorno quest’autunno!",
-        "description": "Se c’è una celeb che negli ultimi tempi non fa altro che offrirci nuovi spunti interessanti su come costruire look quotidiani effortless e chic, quella è sicura…",
-        "link": "https://www.grazia.it/moda/get-the-look/jeans-e-mocassini-come-indossare-idee-outfit-donna-katie-holmes-autunno-1009032",
-        "pubDate": "2026-10-29T10:53:05+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/COVER_Jeans_mocassini_Katie_Holmes.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "I tonici alla vitamina C che illuminano la pelle: addio macchie scure e colorito spento",
         "description": "Dalla skincare coreana alle formule green, i nuovi tonici alla vitamina C promettono di trasformare la pelle rendendola più uniforme e radiosa. Un gesto quotidi…",
         "link": "https://www.stylosophy.it/articolo/i-tonici-alla-vitamina-c-che-illuminano-la-pelle/238642/",
@@ -354,18 +363,117 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "5 tendenze viaggio per l’autunno-inverno 2026: Ecco i travel trend della stagione fredda",
-        "description": "Dal season chasing all’experiential luxury fino alle esperienze con gli animali, ecco i travel trend della stagione fredda secondo Freedome…",
-        "link": "https://www.stylosophy.it/articolo/tendenze-viaggio-per-lautunno-inverno-2026-stagione-fredda/254165/",
-        "pubDate": "2026-10-28T17:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Vermentino di Gallura Docg vendemmia tardiva 2023 Montidimola, Surrau",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Vermentino di Gallura Docg vendemmia tardiva 2023 Montidimola, Surrau proviene da W…",
+        "link": "https://www.winemag.it/vermentino-di-gallura-docg-vendemmia-tardiva-2023-montidimola-surrau/",
+        "pubDate": "2026-11-02T16:53:46+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Vermentino di Gallura Superiore Docg 2025 Sciala, Surrau",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Vermentino di Gallura Superiore Docg 2025 Sciala, Surrau proviene da Winemag.it - D…",
+        "link": "https://www.winemag.it/vermentino-di-gallura-superiore-docg-2025-sciala-surrau/",
+        "pubDate": "2026-11-02T16:53:46+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sannio Doc Fiano 2025, Fontanavecchia",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Sannio Doc Fiano 2025, Fontanavecchia proviene da Winemag.it - Davide Bortone: wine…",
+        "link": "https://www.winemag.it/sannio-doc-fiano-2025-fontanavecchia/",
+        "pubDate": "2026-11-02T16:53:45+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Metodo classico Pas Dosé 2020 Tremièn, La Fortezza",
+        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Metodo classico Pas Dosé 2020 Tremièn, La Fortezza proviene da Winemag.it - Davide Bort…",
+        "link": "https://www.winemag.it/metodo-classico-pas-dose-2020-tremien-la-fortezza/",
+        "pubDate": "2026-11-02T16:53:44+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sannio Doc Greco 2025, Fontanavecchia",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sannio Doc Greco 2025, Fontanavecchia proviene da Winemag.it - Davide Bortone: wine magaz…",
+        "link": "https://www.winemag.it/sannio-doc-greco-2025-fontanavecchia/",
+        "pubDate": "2026-11-02T16:53:44+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Etna Doc Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Doc Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia proviene da Winemag.it…",
+        "link": "https://www.winemag.it/etna-doc-metodo-classico-brut-2021-sosta-tre-santi-tenute-nicosia/",
+        "pubDate": "2026-11-02T16:53:43+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sicilia Doc Carricante Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sicilia Doc Carricante Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia proviene…",
+        "link": "https://www.winemag.it/sicilia-doc-carricante-metodo-classico-brut-2021-sosta-tre-santi-tenute-nicosia/",
+        "pubDate": "2026-11-02T16:53:42+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Etna Doc Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Etna Doc Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia pro…",
+        "link": "https://www.winemag.it/etna-doc-metodo-classico-brut-2020-sosta-tre-santi-sessantamesi-tenute-nicosia/",
+        "pubDate": "2026-11-02T16:53:41+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Sicilia Doc Carricante Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Sicilia Doc Carricante Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenu…",
+        "link": "https://www.winemag.it/sicilia-doc-carricante-metodo-classico-brut-2020-sosta-tre-santi-sessantamesi-tenute-nicosia/",
+        "pubDate": "2026-11-02T16:53:41+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Langhe Doc Nascetta 2025, Fratelli Serio & Battista Borgogno",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Langhe Doc Nascetta 2025, Fratelli Serio   Battista Borgogno proviene da Winemag.it - Dav…",
+        "link": "https://www.winemag.it/langhe-doc-nascetta-2025-fratelli-serio-battista-borgogno/",
+        "pubDate": "2026-11-02T16:53:40+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "“Off The Table”: perché 120 chef internazionali vogliono togliere il salmone dalle tavole",
+        "description": "Secondo l'organizzazione WildFish, l'allevamento in gabbie aperte dei salmoni sarebbe ormai totalmente insostenibile, e a sostenere l'iniziativa ci sono anche M…",
+        "link": "https://www.dissapore.com/notizie/off-the-table-perche-120-chef-internazionali-vogliono-togliere-il-salmone-dalle-tavole/",
+        "pubDate": "2026-11-02T16:34:36+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/allevamento-pesce-mare-gabbie-salmone-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il vino statunitense scompare dagli scaffali canadesi. Opportunità per l’Italia, ma bisogna fare presto",
+        "description": "Complice la guerra dei dazi, per l'Italia potrebbe essere il momento giusto per intensificare la presenza nel mercato canadese: secondo il monopolio del Québec,…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-italiano-canada-world-tour-gambero-rosso/",
+        "pubDate": "2026-11-02T14:43:54+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Chi è stata Nadia Santini, la prima donna italiana a conquistare tre stelle Michelin",
         "description": "Nadia Santini ha cambiato la storia della gastronomia italiana senza mai rinunciare alla propria idea di cucina: quella fatta di territorio, tradizione e famigl…",
@@ -374,6 +482,24 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2019/09/Schermata-2019-09-17-alle-14.46.34-2.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
+      },
+      {
+        "title": "È morta Nadia Santini, la cuoca che ha fatto di un’osteria di campagna uno dei grandi ristoranti italiani",
+        "description": "Si è spenta a 73 anni la cuoca del Dal Pescatore di Canneto sull'Oglio, prima donna italiana con tre stelle Michelin: il ricordo di una cucina familiare e dell'…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/morta-nadia-santini-chef-dal-pescatore-tre-stelle-michelin/",
+        "pubDate": "2026-11-02T14:05:44+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il vino del Lazio si prende la scena: 11 Tre Bicchieri raccontano il riscatto di una regione",
+        "description": "Alla Nuvola di Roma, per i quarant'anni di Gambero Rosso, il curatore di Vini d'Italia ha guidato con Regione Lazio e Arsial la masterclass sui vini laziali pre…",
+        "link": "https://www.gamberorosso.it/vino/il-vino-del-lazio-si-prende-la-scena-11-tre-bicchieri-raccontano-il-riscatto-di-una-regione/",
+        "pubDate": "2026-11-02T13:34:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "L’Europa potrebbe tagliare i fondi all’agricoltura biologica",
@@ -385,6 +511,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "L’amaro è un pregio. I migliori oli del Lazio e i miti da sfatare sull’extravergine",
+        "description": "Alla Nuvola di Roma, per i quarant’anni di Gambero Rosso, Indra Galbo ha guidato con Arsial una masterclass sugli extravergine laziali premiati dalla guida: dod…",
+        "link": "https://www.gamberorosso.it/olio/lamaro-e-un-pregio-i-migliori-oli-del-lazio-e-i-miti-da-sfatare-sullextravergine/",
+        "pubDate": "2026-11-02T11:44:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "C’è una guerra di cheesecake tra Barack Obama e Donald Trump",
         "description": "Le midterm sono in corso, e Obama e Trump non si risparmiano battute al vetriolo, il cui curioso terreno di scontro è una catena di ristoranti dedicata alle che…",
         "link": "https://www.dissapore.com/notizie/ce-una-guerra-di-cheesecake-tra-barack-obama-e-donald-trump/",
@@ -394,157 +529,22 @@
         "source": "Dissapore"
       },
       {
-        "title": "Cipolle in tre modi: dalle farcite ai funghi alla torta salata",
-        "description": "Scopri le ricette cipolle autunnali più semplici: torta salata croccante, cipolle farcite con funghi e nocciole, schiacciata di patate. Piatti autentici pronti …",
-        "link": "https://www.gustoblog.it/2026/11/02/ricette-cipolle-autunnali-tre-modi/",
-        "pubDate": "2026-11-02T08:49:36+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Castagne e funghi: i sapori dell’autunno arrivano in tavola con pasta e primi piatti",
-        "description": "Scopri come preparare la pasta castagne e funghi, i sapori autunnali per eccellenza. Formati di pasta, tecniche di cottura e abbinamenti perfetti.…",
-        "link": "https://www.gustoblog.it/2026/11/02/pasta-castagne-funghi-ricette/",
-        "pubDate": "2026-11-02T08:48:44+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Zuppe e vellutate autunnali: il comfort food che scalda le giornate fredde",
-        "description": "Scopri le zuppe e vellutate autunnali perfette per le giornate fredde: zuppa di farro e vellutata di lenticchie, ricette semplici e corroboranti pronte in pochi…",
-        "link": "https://www.gustoblog.it/2026/11/02/zuppe-vellutate-autunnali-ricette/",
-        "pubDate": "2026-11-02T08:48:39+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Vellutata di lenticchie: il comfort food caldo e cremoso che arriva in tavola in pochi minuti",
-        "description": "Scopri come preparare una vellutata di lenticchie ricetta cremosa e nutriente. Guida completa con ingredienti, varianti e trucchi per la consistenza perfetta.…",
-        "link": "https://www.gustoblog.it/2026/11/02/vellutata-lenticchie-ricetta-cremosa/",
-        "pubDate": "2026-11-02T08:48:35+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "In Alto Adige 190 famiglie producono vino insieme. E puntano sulla qualità delle uve",
-        "description": "Dalla gestione dei soci ai vini d'alta quota. Andreas Kofler svela il modello di Cantina Kurtatsch, premiata dal Gambero Rosso, e le sfide future. Dal clima al …",
-        "link": "https://www.gamberorosso.it/notizie/vino/kurtatsch-premio-cantina-anno-2027/",
-        "pubDate": "2026-11-02T06:00:59+00:00",
+        "title": "Vanno a cercare porcini e finiscono per chiamare il Soccorso alpino. Il rischio nascosto delle passeggiate nei boschi",
+        "description": "Ogni anno centinaia di cercatori di funghi richiedono l'intervento del Soccorso alpino, tra cadute, malori e difficoltà di orientamento: i consigli per evitare …",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cercare-funghi-porcini-rischi-boschi-soccorso-alpino/",
+        "pubDate": "2026-11-02T10:19:51+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
       },
       {
-        "title": "Papassini sardi: la ricetta originale dei dolcetti per Ognissanti",
-        "description": "Scopri la ricetta autentica dei papassini sardi, i dolcetti tradizionali di Ognissanti con mandorle, uva passa e saba. Ingredienti, tecnica e come riconoscerli.…",
-        "link": "https://www.gustoblog.it/2026/11/02/papassini-sardi-ricetta-originale/",
-        "pubDate": "2026-11-02T01:49:31+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Giovanni e Guglielmo Bertani: la primavera di Tenuta Santa Maria",
-        "description": "Al laghetto di Villa Mosconi Bertani, il Kaffeehaus affiora tra gli alberi e si riflette nell&#8217;acqua. Le chiome, la passerella e il piccolo padiglione comp…",
-        "link": "https://www.winemag.it/giovanni-guglielmo-bertani-primavera-tenuta-santa-maria-gaetano-bertani-valpolicella/",
-        "pubDate": "2026-11-01T23:10:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/10/Giovanni-e-Guglielmo-Bertani-la-primavera-di-Tenuta-Santa-Maria-Bertani-in-Valpolicella-dopo-divisioni-famiglia-cantine-bertani-villa-mosconi-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Pinot Noir di Borgogna d’autunno: tra bollicine ed eleganza ferma",
-        "description": "Crémant de Bourgogne Aop Rosé di Raoul Clerget e Pinot Noir Sélection du Sommelier 2024 di Jean Marie Garnier.\nL'articolo Pinot Noir di Borgogna d&#8217;autunno…",
-        "link": "https://www.winemag.it/pinot-noir-borgogna-autunno-pinot-nero-bollicine-eleganza-ferma/",
-        "pubDate": "2026-11-01T23:02:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Torrone dei morti al caffè: la ricetta napoletana morbida che si prepara in casa",
-        "description": "Scopri il torrone dei morti al caffè, dolce tradizionale napoletano della festa dei morti. Ricetta morbida con cioccolato, nocciole e caffè, storia e segreti di…",
-        "link": "https://www.gustoblog.it/2026/11/01/torrone-morti-caffe-ricetta-napoletana/",
-        "pubDate": "2026-11-01T22:22:20+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il ritorno di Heston Blumenthal dopo il ricovero psichiatrico: “La mia creatività sta tornando”",
-        "description": "Dopo la crisi che ha portato il celebre chef del Fat Duck al ricovero coatto in una clinica psichiatrica, il lento ritorno alla normalità e alla creatività.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/il-ritorno-di-heston-blumenthal-dopo-il-ricovero-psichiatrico-la-mia-creativita-sta-tornando/",
-        "pubDate": "2026-11-01T17:28:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/heston-blumenthal-nero-cover.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Mc Donanld dovrà affrontare una causa per un panino nato nel 1981",
-        "description": "McDonald’s dovrà affrontare una causa collettiva negli Stati Uniti perché il suo McRib non conterrebbe carne di costine di maiale. Stiamo parlando di un panino …",
-        "link": "https://www.dissapore.com/notizie/mc-donanld-dovra-affrontare-una-causa-per-un-panino-nato-nel-1981/",
-        "pubDate": "2026-11-01T14:24:20+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/mcdonalds-insegna-scaled-e1790181901967.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Roma i fornai e i pastai si facevano la guerra per i vermicelli. Nel Seicento arrivarono perfino i divieti",
-        "description": "Nella Roma del Cinquecento i vermicellari producevano pasta fresca fatta a mano, contendendosi il mercato con i fornai. Tra divieti, corporazioni e interventi p…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/vermicellari-roma-pasta-fornai-papa/",
-        "pubDate": "2026-11-01T13:58:19+00:00",
+        "title": "Nel ristorante stellato di Parigi il vino si può sostituire con tè di 60 anni. L’idea di una sommelier italiana",
+        "description": "Al Table di Bruno Verjus, la sommelier italiana Agnese Morandi ha creato un percorso da 200 euro con tè rari e invecchiati, abbinati ai piatti dell'alta cucina…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/agnese-morandi-table-parigi-abbinamento-te-rari-bruno-verjus/",
+        "pubDate": "2026-11-02T10:12:09+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Irpinia fanno un pecorino vicino a una sorgente di gas sulfurei. Costa 50 euro al chilo e ne producono pochissimo",
-        "description": "In Alta Irpinia, vicino alla Mefite di Rocca San Felice, pochi allevatori producono il Carmasciano, un pecorino raro che matura fino a un anno e costa circa 50 …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pecorino-carmasciano-irpinia-mefite-prezzo-produzione/",
-        "pubDate": "2026-11-01T12:55:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Piada dei morti: la ricetta del dolce tradizionale romagnolo che si prepara in casa in 30 minuti",
-        "description": "Scopri come preparare la piada dei morti, la focaccia dolce lievitata della tradizione romagnola con frutta secca e vino Sangiovese per il 2 novembre.…",
-        "link": "https://www.gustoblog.it/2026/11/01/piada-morti-ricetta-romagnola/",
-        "pubDate": "2026-11-01T12:00:16+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "A Cagliari l’ex mensa di un asilo delle suore diventa un’osteria",
-        "description": "Nel quartiere Stampace, Sa Scolla apre una seconda insegna nell'ex mensa di un asilo, con cucina di campagna sarda, forno e un progetto di formazione profession…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/sa-scolla-osteria-forno-cagliari-ex-mensa-asilo-stampace/",
-        "pubDate": "2026-11-01T10:53:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il cambiamento climatico non farà solo aumentare il prezzo del cibo: rischia di farlo sparire dagli scaffali",
-        "description": "Il cambiamento climatico minaccia l'intera filiera alimentare: dai raccolti ai trasporti, fino alla conservazione del cibo. Il rischio non è soltanto pagare di …",
-        "link": "https://www.dissapore.com/spesa/il-cambiamento-climatico-non-fara-solo-aumentare-il-prezzo-del-cibo-rischia-di-farlo-sparire-dagli-scaffali/",
-        "pubDate": "2026-11-01T10:44:19+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2024/11/nave-container.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Castagne che galleggiano: il test dell’acqua per scegliere quelle buone",
-        "description": "Scopri perché le castagne galleggiano e come usare questo semplice test dell'acqua per selezionare frutti freschi e di qualità.…",
-        "link": "https://www.gustoblog.it/2026/11/01/castagne-galleggiano-test-acqua/",
-        "pubDate": "2026-11-01T09:22:21+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
