@@ -1,96 +1,177 @@
 {
-  "generated": "2026-11-03T00:37:10.624103+00:00",
+  "generated": "2026-11-03T13:43:51.282893+00:00",
   "feeds": {
     "offerte": [
       {
-        "title": "Vermentino di Gallura Docg vendemmia tardiva 2023 Montidimola, Surrau",
-        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Vermentino di Gallura Docg vendemmia tardiva 2023 Montidimola, Surrau proviene da W…",
-        "link": "https://www.winemag.it/vermentino-di-gallura-docg-vendemmia-tardiva-2023-montidimola-surrau/",
-        "pubDate": "2026-11-02T16:53:46+00:00",
+        "title": "Le fettuccine Alfredo erano una barzelletta, ora ci facciamo un'”accademia” per venderle meglio",
+        "description": "A Roma nasce \"l'Accademia del mantecatore\", per insegnare agli americani a fare le fettuccine Alfredo. Un piatto più amato Oltreoceano che da noi. \nL'articolo L…",
+        "link": "https://www.dissapore.com/notizie/le-fettuccine-alfredo-erano-una-barzelletta-ora-ci-facciamo-unaccademia-per-venderle-meglio/",
+        "pubDate": "2026-11-03T13:04:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/parmigiano-reggiano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dom Pérignon e Damien Hirst, la Limited Edition arriva alla Rinascente di Milano",
+        "description": "Dal 3 al 16 novembre 2026, Rinascente Milano ospita un progetto dedicato all’incontro tra arte e Champagne. Protagonisti Dom Pérignon e Damien Hirst, artista br…",
+        "link": "https://www.winemag.it/dom-perignon-e-damien-hirst-la-limited-edition-arriva-alla-rinascente-di-milano/",
+        "pubDate": "2026-11-03T12:20:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Vermentino di Gallura Superiore Docg 2025 Sciala, Surrau",
-        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Vermentino di Gallura Superiore Docg 2025 Sciala, Surrau proviene da Winemag.it - D…",
-        "link": "https://www.winemag.it/vermentino-di-gallura-superiore-docg-2025-sciala-surrau/",
-        "pubDate": "2026-11-02T16:53:46+00:00",
+        "title": "Cosa portare in tavola quando arrivano i freddi: gli alimenti che rafforzano le difese immunitarie",
+        "description": "Scopri quali alimenti rafforzare sistema immunitario in autunno-inverno: vitamine, minerali e ricette pratiche consigliate da nutrizionisti.…",
+        "link": "https://www.gustoblog.it/2026/11/03/alimenti-rafforzare-sistema-immunitario/",
+        "pubDate": "2026-11-03T11:57:20+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Esito elezioni Serbia: il futuro di Wine Vision ed Expo Belgrado 2027",
+        "description": "«Thank you, see you next time!». È il messaggio che accoglie chi visita la home page di Wine Vision by Open Balkan dopo la quinta edizione del 10-12 ottobre 202…",
+        "link": "https://www.winemag.it/esito-elezioni-serbia-futuro-wine-vision-open-balkan-expo-belgrado-2027/",
+        "pubDate": "2026-11-03T11:36:01+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Serbia-al-voto-il-futuro-di-Wine-Vision-ed-Expo-Belgrado-2027-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Piccini, concorso «Dai voce alla tua svolta»: 200 box di Chianti Rosé in palio",
+        "description": "È aperto fino al 18 novembre il concorso Instagram «Dai voce alla tua svolta», lanciato da Piccini in occasione dell’arrivo del nuovo Chianti Rosé. In palio ci …",
+        "link": "https://www.winemag.it/piccini-concorso-dai-voce-alla-tua-svolta-200-box-chianti-rose-in-palio/",
+        "pubDate": "2026-11-03T10:58:22+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Sannio Doc Fiano 2025, Fontanavecchia",
-        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Sannio Doc Fiano 2025, Fontanavecchia proviene da Winemag.it - Davide Bortone: wine…",
-        "link": "https://www.winemag.it/sannio-doc-fiano-2025-fontanavecchia/",
-        "pubDate": "2026-11-02T16:53:45+00:00",
+        "title": "Il tonno rosso pescato in Italia faceva arricchire gli altri Paesi: ora qualcosa sta cambiando",
+        "description": "Per anni le fasi più redditizie della filiera del tonno rosso sono state appannaggio di aziende straniere, ma il Consorzio Tonno Rosso d'Italia vuole invertire …",
+        "link": "https://www.dissapore.com/notizie/il-tonno-rosso-pescato-in-italia-faceva-arricchire-gli-altri-paesi-ora-qualcosa-sta-cambiando/",
+        "pubDate": "2026-11-03T10:26:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/tonno-taglio-banco-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Falanghina del Sannio Dop Taburno 2022 Libero particella T031, Fontanavecchia",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani &#124; Selezioni 2026\nL'articolo Falanghina del Sannio Dop Taburno 2022 Libero particella T031, Fontanavecchia …",
+        "link": "https://www.winemag.it/falanghina-del-sannio-dop-taburno-2022-libero-particella-t031-fontanavecchia/",
+        "pubDate": "2026-11-03T09:27:23+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Metodo classico Pas Dosé 2020 Tremièn, La Fortezza",
-        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Metodo classico Pas Dosé 2020 Tremièn, La Fortezza proviene da Winemag.it - Davide Bort…",
-        "link": "https://www.winemag.it/metodo-classico-pas-dose-2020-tremien-la-fortezza/",
-        "pubDate": "2026-11-02T16:53:44+00:00",
+        "title": "Calabria Igt Chardonnay 2025, Caparra & Siciliani",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani &#124; Selezioni 2026\nL'articolo Calabria Igt Chardonnay 2025, Caparra   Siciliani proviene da Winemag.it - Dav…",
+        "link": "https://www.winemag.it/calabria-igt-chardonnay-2025-caparra-siciliani/",
+        "pubDate": "2026-11-03T09:27:22+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Sannio Doc Greco 2025, Fontanavecchia",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sannio Doc Greco 2025, Fontanavecchia proviene da Winemag.it - Davide Bortone: wine magaz…",
-        "link": "https://www.winemag.it/sannio-doc-greco-2025-fontanavecchia/",
-        "pubDate": "2026-11-02T16:53:44+00:00",
+        "title": "Etna Bianco Doc 2025 Contrada Monte San Nicolò, Tenute Nicosia",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani &#124; Selezioni 2026\nL'articolo Etna Bianco Doc 2025 Contrada Monte San Nicolò, Tenute Nicosia proviene da Win…",
+        "link": "https://www.winemag.it/etna-bianco-doc-2025-contrada-monte-san-nicolo-tenute-nicosia/",
+        "pubDate": "2026-11-03T09:27:21+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Etna Doc Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia",
-        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Doc Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia proviene da Winemag.it…",
-        "link": "https://www.winemag.it/etna-doc-metodo-classico-brut-2021-sosta-tre-santi-tenute-nicosia/",
-        "pubDate": "2026-11-02T16:53:43+00:00",
+        "title": "Etna Bianco Doc 2021 Contrada Monte Gorna, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Bianco Doc 2021 Contrada Monte Gorna, Tenute Nicosia proviene da Winemag.it - Davide…",
+        "link": "https://www.winemag.it/etna-bianco-doc-2021-contrada-monte-gorna-tenute-nicosia/",
+        "pubDate": "2026-11-03T09:27:20+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Sicilia Doc Carricante Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia",
-        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sicilia Doc Carricante Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia proviene…",
-        "link": "https://www.winemag.it/sicilia-doc-carricante-metodo-classico-brut-2021-sosta-tre-santi-tenute-nicosia/",
-        "pubDate": "2026-11-02T16:53:42+00:00",
+        "title": "Etna Bianco Doc 2021 Contrada Monte Gorna Vecchie Viti, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Etna Bianco Doc 2021 Contrada Monte Gorna Vecchie Viti, Tenute Nicosia proviene da …",
+        "link": "https://www.winemag.it/etna-bianco-doc-2021-contrada-monte-gorna-vecchie-viti-tenute-nicosia/",
+        "pubDate": "2026-11-03T09:27:20+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Etna Doc Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Etna Doc Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia pro…",
-        "link": "https://www.winemag.it/etna-doc-metodo-classico-brut-2020-sosta-tre-santi-sessantamesi-tenute-nicosia/",
-        "pubDate": "2026-11-02T16:53:41+00:00",
+        "title": "Calabria Igt Pecorello 2025, Caparra & Siciliani",
+        "description": "PUNTEGGIO WINEMAG 92 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Calabria Igt Pecorello 2025, Caparra   Siciliani proviene da Winemag.it - Davide Borton…",
+        "link": "https://www.winemag.it/calabria-igt-pecorello-2025-caparra-siciliani/",
+        "pubDate": "2026-11-03T09:27:19+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Sicilia Doc Carricante Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Sicilia Doc Carricante Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenu…",
-        "link": "https://www.winemag.it/sicilia-doc-carricante-metodo-classico-brut-2020-sosta-tre-santi-sessantamesi-tenute-nicosia/",
-        "pubDate": "2026-11-02T16:53:41+00:00",
+        "title": "Muller Thurgau Trentino Doc Superiore Valle di Cembra 2025 Pietramontis, Villa Corniole",
+        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Muller Thurgau Trentino Doc Superiore Valle di Cembra 2025 Pietramontis, Villa Corniole p…",
+        "link": "https://www.winemag.it/muller-thurgau-trentino-doc-superiore-valle-di-cembra-2025-pietramontis-villa-corniole/",
+        "pubDate": "2026-11-03T09:27:18+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Langhe Doc Nascetta 2025, Fratelli Serio & Battista Borgogno",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Langhe Doc Nascetta 2025, Fratelli Serio   Battista Borgogno proviene da Winemag.it - Dav…",
-        "link": "https://www.winemag.it/langhe-doc-nascetta-2025-fratelli-serio-battista-borgogno/",
-        "pubDate": "2026-11-02T16:53:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Torta salata con le cipolle: l’antipasto (o piatto unico) che conquista tutti",
+        "description": "Scopri come preparare la torta salata con cipolle caramellate: pasta sfoglia croccante, ripieno morbido e profumato, perfetta come antipasto o piatto unico.…",
+        "link": "https://www.gustoblog.it/2026/11/03/torta-salata-cipolle-ricetta/",
+        "pubDate": "2026-11-03T08:29:57+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Lasagne con patate e funghi: il primo piatto cremoso che sfida la tradizione bolognese",
+        "description": "Scopri come preparare lasagne con patate e funghi, la variante vegetariana cremosa che sostituisce la Bolognese. Ricetta e tecniche di cottura.…",
+        "link": "https://www.gustoblog.it/2026/11/03/lasagne-patate-funghi-ricetta/",
+        "pubDate": "2026-11-03T08:27:24+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pordenone si prepara al 2027: arte e sapori della prossima Capitale italiana della cultura",
+        "description": "Mostre, spettacoli e nuovi spazi culturali: Pordenone guarda al 2027 con un progetto che abbraccia l’intero territorio e permette di scoprire la ricca tradizion…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/itinerari/pordenone-capitale-italiana-cultura-eventi/",
+        "pubDate": "2026-11-03T05:06:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bake Off Italia 14: Manuel conquista il grembiule blu nella nona puntata di Halloween",
+        "description": "La nona puntata di Bake Off Italia 14 Halloween ha visto Manuel vincere il grembiule blu nella prova creativa con i mostri trasformati in torte.…",
+        "link": "https://www.gustoblog.it/2026/11/03/bake-off-italia-14-halloween-manuel-grembiule/",
+        "pubDate": "2026-11-03T04:19:10+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Osmize del Carso: quando la tradizione triestina arriva in tavola con le frasche e il cibo genuino",
+        "description": "Le osmize del Carso sono la tradizione centenaria del Carso triestino dove frasche appese segnalano vino e cibo genuino. Scopri storia, cosa mangiare e come vis…",
+        "link": "https://www.gustoblog.it/2026/11/03/osmize-del-carso-tradizione-frasche/",
+        "pubDate": "2026-11-03T04:14:37+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Sformato di zucca in friggitrice ad aria: il contorno croccante e goloso che si prepara in 20 minuti",
+        "description": "Lo sformato di zucca in friggitrice ad aria è un contorno autunnale con crosticina dorata e interno cremoso. Ricetta moderna con mozzarella, pronta in 20-25 min…",
+        "link": "https://www.gustoblog.it/2026/11/03/sformato-zucca-friggitrice-aria/",
+        "pubDate": "2026-11-03T04:09:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
       },
       {
         "title": "“Off The Table”: perché 120 chef internazionali vogliono togliere il salmone dalle tavole",
@@ -100,87 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/11/allevamento-pesce-mare-gabbie-salmone-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "It’s timeee! Mariah Carey inaugura ufficialmente la Holiday season nella nuova campagna di Gucci",
-        "description": "C&#8217;è chi aspetta che arrivi dicembre per iniziare a pensare al Natale e chi, invece, ha già pronto l&#8217;albero prima ancora di aver riposto le zucche di…",
-        "link": "https://www.grazia.it/moda/news-moda/mariah-carey-gucci-natale-2026-campagna-natalizia-all-i-want-for-christmas-is-you-1010159",
-        "pubDate": "2026-11-02T15:52:41+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/ok-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "l correttori non sono tutti uguali: ecco come scegliere quello giusto per te",
-        "description": "Dalle occhiaie ai rossori, ogni zona del viso ha esigenze diverse e richiede una formula specifica. Ecco come applicare il correttore senza appesantire il make-…",
-        "link": "https://www.stylosophy.it/articolo/l-correttori-non-sono-tutti-uguali-ecco-come-scegliere-quello-giusto-per-la-tua-pelle/254216/",
-        "pubDate": "2026-11-02T15:05:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il vino statunitense scompare dagli scaffali canadesi. Opportunità per l’Italia, ma bisogna fare presto",
-        "description": "Complice la guerra dei dazi, per l'Italia potrebbe essere il momento giusto per intensificare la presenza nel mercato canadese: secondo il monopolio del Québec,…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-italiano-canada-world-tour-gambero-rosso/",
-        "pubDate": "2026-11-02T14:43:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chi è stata Nadia Santini, la prima donna italiana a conquistare tre stelle Michelin",
-        "description": "Nadia Santini ha cambiato la storia della gastronomia italiana senza mai rinunciare alla propria idea di cucina: quella fatta di territorio, tradizione e famigl…",
-        "link": "https://www.dissapore.com/chef/chi-e-stata-nadia-santini-la-prima-donna-italiana-a-conquistare-tre-stelle-michelin/",
-        "pubDate": "2026-11-02T14:36:59+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2019/09/Schermata-2019-09-17-alle-14.46.34-2.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "È morta Nadia Santini, la cuoca che ha fatto di un’osteria di campagna uno dei grandi ristoranti italiani",
-        "description": "Si è spenta a 73 anni la cuoca del Dal Pescatore di Canneto sull'Oglio, prima donna italiana con tre stelle Michelin: il ricordo di una cucina familiare e dell'…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morta-nadia-santini-chef-dal-pescatore-tre-stelle-michelin/",
-        "pubDate": "2026-11-02T14:05:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Silvia Toffanin, a Verissimo con il coordinato in velluto perfetto per questa stagione FOTO",
-        "description": "Ecco che cosa ha indossato Silvia Toffanin per la puntata di ieri pomeriggio di Verissimo.…",
-        "link": "https://www.stylosophy.it/articolo/silvia-toffanin-a-verissimo-con-il-coordinato-in-velluto-perfetto-per-questa-stagione-foto/254211/",
-        "pubDate": "2026-11-02T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Il vino del Lazio si prende la scena: 11 Tre Bicchieri raccontano il riscatto di una regione",
-        "description": "Alla Nuvola di Roma, per i quarant'anni di Gambero Rosso, il curatore di Vini d'Italia ha guidato con Regione Lazio e Arsial la masterclass sui vini laziali pre…",
-        "link": "https://www.gamberorosso.it/vino/il-vino-del-lazio-si-prende-la-scena-11-tre-bicchieri-raccontano-il-riscatto-di-una-regione/",
-        "pubDate": "2026-11-02T13:34:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’Europa potrebbe tagliare i fondi all’agricoltura biologica",
-        "description": "Il Consiglio Agricoltura e Pesca dell'Ue ha proposto che gli aiuti all'agricoltura biologica siano facoltativi, il che potrebbe mettere in crisi il settore.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/leuropa-potrebbe-tagliare-i-fondi-allagricoltura-biologica/",
-        "pubDate": "2026-11-02T13:17:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/agricoltura-cereali-mano-scaled-e1789993242872.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cosa comprare da Mango a Novembre: i capi e gli accessori giusti per non sbagliare un look",
-        "description": "Arrivano i primi freddi e &#8211; ve lo confessiamo &#8211; specialmente alcune mattine più &#8220;difficili&#8221; la nostra voglia di &#8220;vestirci bene&#82…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-mango-autunno-2026-must-have-cappotti-vestiti-scarpe-borse-accessori-1009680",
-        "pubDate": "2026-11-02T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_mango.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
@@ -367,94 +367,175 @@
     ],
     "lifestyle": [
       {
-        "title": "Vermentino di Gallura Docg vendemmia tardiva 2023 Montidimola, Surrau",
-        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Vermentino di Gallura Docg vendemmia tardiva 2023 Montidimola, Surrau proviene da W…",
-        "link": "https://www.winemag.it/vermentino-di-gallura-docg-vendemmia-tardiva-2023-montidimola-surrau/",
-        "pubDate": "2026-11-02T16:53:46+00:00",
+        "title": "Le fettuccine Alfredo erano una barzelletta, ora ci facciamo un'”accademia” per venderle meglio",
+        "description": "A Roma nasce \"l'Accademia del mantecatore\", per insegnare agli americani a fare le fettuccine Alfredo. Un piatto più amato Oltreoceano che da noi. \nL'articolo L…",
+        "link": "https://www.dissapore.com/notizie/le-fettuccine-alfredo-erano-una-barzelletta-ora-ci-facciamo-unaccademia-per-venderle-meglio/",
+        "pubDate": "2026-11-03T13:04:29+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/parmigiano-reggiano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Dom Pérignon e Damien Hirst, la Limited Edition arriva alla Rinascente di Milano",
+        "description": "Dal 3 al 16 novembre 2026, Rinascente Milano ospita un progetto dedicato all’incontro tra arte e Champagne. Protagonisti Dom Pérignon e Damien Hirst, artista br…",
+        "link": "https://www.winemag.it/dom-perignon-e-damien-hirst-la-limited-edition-arriva-alla-rinascente-di-milano/",
+        "pubDate": "2026-11-03T12:20:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Vermentino di Gallura Superiore Docg 2025 Sciala, Surrau",
-        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Vermentino di Gallura Superiore Docg 2025 Sciala, Surrau proviene da Winemag.it - D…",
-        "link": "https://www.winemag.it/vermentino-di-gallura-superiore-docg-2025-sciala-surrau/",
-        "pubDate": "2026-11-02T16:53:46+00:00",
+        "title": "Cosa portare in tavola quando arrivano i freddi: gli alimenti che rafforzano le difese immunitarie",
+        "description": "Scopri quali alimenti rafforzare sistema immunitario in autunno-inverno: vitamine, minerali e ricette pratiche consigliate da nutrizionisti.…",
+        "link": "https://www.gustoblog.it/2026/11/03/alimenti-rafforzare-sistema-immunitario/",
+        "pubDate": "2026-11-03T11:57:20+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Esito elezioni Serbia: il futuro di Wine Vision ed Expo Belgrado 2027",
+        "description": "«Thank you, see you next time!». È il messaggio che accoglie chi visita la home page di Wine Vision by Open Balkan dopo la quinta edizione del 10-12 ottobre 202…",
+        "link": "https://www.winemag.it/esito-elezioni-serbia-futuro-wine-vision-open-balkan-expo-belgrado-2027/",
+        "pubDate": "2026-11-03T11:36:01+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Serbia-al-voto-il-futuro-di-Wine-Vision-ed-Expo-Belgrado-2027-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Piccini, concorso «Dai voce alla tua svolta»: 200 box di Chianti Rosé in palio",
+        "description": "È aperto fino al 18 novembre il concorso Instagram «Dai voce alla tua svolta», lanciato da Piccini in occasione dell’arrivo del nuovo Chianti Rosé. In palio ci …",
+        "link": "https://www.winemag.it/piccini-concorso-dai-voce-alla-tua-svolta-200-box-chianti-rose-in-palio/",
+        "pubDate": "2026-11-03T10:58:22+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Sannio Doc Fiano 2025, Fontanavecchia",
-        "description": "Dalla Guida Winemag 2027. Migliori vini italiani, selezioni 2026.\nL'articolo Sannio Doc Fiano 2025, Fontanavecchia proviene da Winemag.it - Davide Bortone: wine…",
-        "link": "https://www.winemag.it/sannio-doc-fiano-2025-fontanavecchia/",
-        "pubDate": "2026-11-02T16:53:45+00:00",
+        "title": "Il tonno rosso pescato in Italia faceva arricchire gli altri Paesi: ora qualcosa sta cambiando",
+        "description": "Per anni le fasi più redditizie della filiera del tonno rosso sono state appannaggio di aziende straniere, ma il Consorzio Tonno Rosso d'Italia vuole invertire …",
+        "link": "https://www.dissapore.com/notizie/il-tonno-rosso-pescato-in-italia-faceva-arricchire-gli-altri-paesi-ora-qualcosa-sta-cambiando/",
+        "pubDate": "2026-11-03T10:26:18+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/tonno-taglio-banco-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Falanghina del Sannio Dop Taburno 2022 Libero particella T031, Fontanavecchia",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani &#124; Selezioni 2026\nL'articolo Falanghina del Sannio Dop Taburno 2022 Libero particella T031, Fontanavecchia …",
+        "link": "https://www.winemag.it/falanghina-del-sannio-dop-taburno-2022-libero-particella-t031-fontanavecchia/",
+        "pubDate": "2026-11-03T09:27:23+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Metodo classico Pas Dosé 2020 Tremièn, La Fortezza",
-        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Metodo classico Pas Dosé 2020 Tremièn, La Fortezza proviene da Winemag.it - Davide Bort…",
-        "link": "https://www.winemag.it/metodo-classico-pas-dose-2020-tremien-la-fortezza/",
-        "pubDate": "2026-11-02T16:53:44+00:00",
+        "title": "Calabria Igt Chardonnay 2025, Caparra & Siciliani",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani &#124; Selezioni 2026\nL'articolo Calabria Igt Chardonnay 2025, Caparra   Siciliani proviene da Winemag.it - Dav…",
+        "link": "https://www.winemag.it/calabria-igt-chardonnay-2025-caparra-siciliani/",
+        "pubDate": "2026-11-03T09:27:22+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Sannio Doc Greco 2025, Fontanavecchia",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sannio Doc Greco 2025, Fontanavecchia proviene da Winemag.it - Davide Bortone: wine magaz…",
-        "link": "https://www.winemag.it/sannio-doc-greco-2025-fontanavecchia/",
-        "pubDate": "2026-11-02T16:53:44+00:00",
+        "title": "Etna Bianco Doc 2025 Contrada Monte San Nicolò, Tenute Nicosia",
+        "description": "Dalla Guida Winemag 2027. Migliori vini italiani &#124; Selezioni 2026\nL'articolo Etna Bianco Doc 2025 Contrada Monte San Nicolò, Tenute Nicosia proviene da Win…",
+        "link": "https://www.winemag.it/etna-bianco-doc-2025-contrada-monte-san-nicolo-tenute-nicosia/",
+        "pubDate": "2026-11-03T09:27:21+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Etna Doc Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia",
-        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Doc Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia proviene da Winemag.it…",
-        "link": "https://www.winemag.it/etna-doc-metodo-classico-brut-2021-sosta-tre-santi-tenute-nicosia/",
-        "pubDate": "2026-11-02T16:53:43+00:00",
+        "title": "Etna Bianco Doc 2021 Contrada Monte Gorna, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Bianco Doc 2021 Contrada Monte Gorna, Tenute Nicosia proviene da Winemag.it - Davide…",
+        "link": "https://www.winemag.it/etna-bianco-doc-2021-contrada-monte-gorna-tenute-nicosia/",
+        "pubDate": "2026-11-03T09:27:20+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Sicilia Doc Carricante Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia",
-        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sicilia Doc Carricante Metodo classico Brut 2021 Sosta Tre Santi, Tenute Nicosia proviene…",
-        "link": "https://www.winemag.it/sicilia-doc-carricante-metodo-classico-brut-2021-sosta-tre-santi-tenute-nicosia/",
-        "pubDate": "2026-11-02T16:53:42+00:00",
+        "title": "Etna Bianco Doc 2021 Contrada Monte Gorna Vecchie Viti, Tenute Nicosia",
+        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Etna Bianco Doc 2021 Contrada Monte Gorna Vecchie Viti, Tenute Nicosia proviene da …",
+        "link": "https://www.winemag.it/etna-bianco-doc-2021-contrada-monte-gorna-vecchie-viti-tenute-nicosia/",
+        "pubDate": "2026-11-03T09:27:20+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Etna Doc Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Etna Doc Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia pro…",
-        "link": "https://www.winemag.it/etna-doc-metodo-classico-brut-2020-sosta-tre-santi-sessantamesi-tenute-nicosia/",
-        "pubDate": "2026-11-02T16:53:41+00:00",
+        "title": "Calabria Igt Pecorello 2025, Caparra & Siciliani",
+        "description": "PUNTEGGIO WINEMAG 92 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Calabria Igt Pecorello 2025, Caparra   Siciliani proviene da Winemag.it - Davide Borton…",
+        "link": "https://www.winemag.it/calabria-igt-pecorello-2025-caparra-siciliani/",
+        "pubDate": "2026-11-03T09:27:19+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Sicilia Doc Carricante Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenute Nicosia",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Sicilia Doc Carricante Metodo classico Brut 2020 Sosta Tre Santi Sessantamesi, Tenu…",
-        "link": "https://www.winemag.it/sicilia-doc-carricante-metodo-classico-brut-2020-sosta-tre-santi-sessantamesi-tenute-nicosia/",
-        "pubDate": "2026-11-02T16:53:41+00:00",
+        "title": "Muller Thurgau Trentino Doc Superiore Valle di Cembra 2025 Pietramontis, Villa Corniole",
+        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Muller Thurgau Trentino Doc Superiore Valle di Cembra 2025 Pietramontis, Villa Corniole p…",
+        "link": "https://www.winemag.it/muller-thurgau-trentino-doc-superiore-valle-di-cembra-2025-pietramontis-villa-corniole/",
+        "pubDate": "2026-11-03T09:27:18+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
       {
-        "title": "Langhe Doc Nascetta 2025, Fratelli Serio & Battista Borgogno",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Langhe Doc Nascetta 2025, Fratelli Serio   Battista Borgogno proviene da Winemag.it - Dav…",
-        "link": "https://www.winemag.it/langhe-doc-nascetta-2025-fratelli-serio-battista-borgogno/",
-        "pubDate": "2026-11-02T16:53:40+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "Torta salata con le cipolle: l’antipasto (o piatto unico) che conquista tutti",
+        "description": "Scopri come preparare la torta salata con cipolle caramellate: pasta sfoglia croccante, ripieno morbido e profumato, perfetta come antipasto o piatto unico.…",
+        "link": "https://www.gustoblog.it/2026/11/03/torta-salata-cipolle-ricetta/",
+        "pubDate": "2026-11-03T08:29:57+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Lasagne con patate e funghi: il primo piatto cremoso che sfida la tradizione bolognese",
+        "description": "Scopri come preparare lasagne con patate e funghi, la variante vegetariana cremosa che sostituisce la Bolognese. Ricetta e tecniche di cottura.…",
+        "link": "https://www.gustoblog.it/2026/11/03/lasagne-patate-funghi-ricetta/",
+        "pubDate": "2026-11-03T08:27:24+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pordenone si prepara al 2027: arte e sapori della prossima Capitale italiana della cultura",
+        "description": "Mostre, spettacoli e nuovi spazi culturali: Pordenone guarda al 2027 con un progetto che abbraccia l’intero territorio e permette di scoprire la ricca tradizion…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/itinerari/pordenone-capitale-italiana-cultura-eventi/",
+        "pubDate": "2026-11-03T05:06:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Bake Off Italia 14: Manuel conquista il grembiule blu nella nona puntata di Halloween",
+        "description": "La nona puntata di Bake Off Italia 14 Halloween ha visto Manuel vincere il grembiule blu nella prova creativa con i mostri trasformati in torte.…",
+        "link": "https://www.gustoblog.it/2026/11/03/bake-off-italia-14-halloween-manuel-grembiule/",
+        "pubDate": "2026-11-03T04:19:10+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Osmize del Carso: quando la tradizione triestina arriva in tavola con le frasche e il cibo genuino",
+        "description": "Le osmize del Carso sono la tradizione centenaria del Carso triestino dove frasche appese segnalano vino e cibo genuino. Scopri storia, cosa mangiare e come vis…",
+        "link": "https://www.gustoblog.it/2026/11/03/osmize-del-carso-tradizione-frasche/",
+        "pubDate": "2026-11-03T04:14:37+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Sformato di zucca in friggitrice ad aria: il contorno croccante e goloso che si prepara in 20 minuti",
+        "description": "Lo sformato di zucca in friggitrice ad aria è un contorno autunnale con crosticina dorata e interno cremoso. Ricetta moderna con mozzarella, pronta in 20-25 min…",
+        "link": "https://www.gustoblog.it/2026/11/03/sformato-zucca-friggitrice-aria/",
+        "pubDate": "2026-11-03T04:09:40+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
       },
       {
         "title": "“Off The Table”: perché 120 chef internazionali vogliono togliere il salmone dalle tavole",
@@ -464,87 +545,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/11/allevamento-pesce-mare-gabbie-salmone-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Il vino statunitense scompare dagli scaffali canadesi. Opportunità per l’Italia, ma bisogna fare presto",
-        "description": "Complice la guerra dei dazi, per l'Italia potrebbe essere il momento giusto per intensificare la presenza nel mercato canadese: secondo il monopolio del Québec,…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-italiano-canada-world-tour-gambero-rosso/",
-        "pubDate": "2026-11-02T14:43:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chi è stata Nadia Santini, la prima donna italiana a conquistare tre stelle Michelin",
-        "description": "Nadia Santini ha cambiato la storia della gastronomia italiana senza mai rinunciare alla propria idea di cucina: quella fatta di territorio, tradizione e famigl…",
-        "link": "https://www.dissapore.com/chef/chi-e-stata-nadia-santini-la-prima-donna-italiana-a-conquistare-tre-stelle-michelin/",
-        "pubDate": "2026-11-02T14:36:59+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2019/09/Schermata-2019-09-17-alle-14.46.34-2.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "È morta Nadia Santini, la cuoca che ha fatto di un’osteria di campagna uno dei grandi ristoranti italiani",
-        "description": "Si è spenta a 73 anni la cuoca del Dal Pescatore di Canneto sull'Oglio, prima donna italiana con tre stelle Michelin: il ricordo di una cucina familiare e dell'…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/morta-nadia-santini-chef-dal-pescatore-tre-stelle-michelin/",
-        "pubDate": "2026-11-02T14:05:44+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il vino del Lazio si prende la scena: 11 Tre Bicchieri raccontano il riscatto di una regione",
-        "description": "Alla Nuvola di Roma, per i quarant'anni di Gambero Rosso, il curatore di Vini d'Italia ha guidato con Regione Lazio e Arsial la masterclass sui vini laziali pre…",
-        "link": "https://www.gamberorosso.it/vino/il-vino-del-lazio-si-prende-la-scena-11-tre-bicchieri-raccontano-il-riscatto-di-una-regione/",
-        "pubDate": "2026-11-02T13:34:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "L’Europa potrebbe tagliare i fondi all’agricoltura biologica",
-        "description": "Il Consiglio Agricoltura e Pesca dell'Ue ha proposto che gli aiuti all'agricoltura biologica siano facoltativi, il che potrebbe mettere in crisi il settore.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/leuropa-potrebbe-tagliare-i-fondi-allagricoltura-biologica/",
-        "pubDate": "2026-11-02T13:17:11+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/09/agricoltura-cereali-mano-scaled-e1789993242872.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’amaro è un pregio. I migliori oli del Lazio e i miti da sfatare sull’extravergine",
-        "description": "Alla Nuvola di Roma, per i quarant’anni di Gambero Rosso, Indra Galbo ha guidato con Arsial una masterclass sugli extravergine laziali premiati dalla guida: dod…",
-        "link": "https://www.gamberorosso.it/olio/lamaro-e-un-pregio-i-migliori-oli-del-lazio-e-i-miti-da-sfatare-sullextravergine/",
-        "pubDate": "2026-11-02T11:44:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "C’è una guerra di cheesecake tra Barack Obama e Donald Trump",
-        "description": "Le midterm sono in corso, e Obama e Trump non si risparmiano battute al vetriolo, il cui curioso terreno di scontro è una catena di ristoranti dedicata alle che…",
-        "link": "https://www.dissapore.com/notizie/ce-una-guerra-di-cheesecake-tra-barack-obama-e-donald-trump/",
-        "pubDate": "2026-11-02T10:48:26+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/cheesecake-factory-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Vanno a cercare porcini e finiscono per chiamare il Soccorso alpino. Il rischio nascosto delle passeggiate nei boschi",
-        "description": "Ogni anno centinaia di cercatori di funghi richiedono l'intervento del Soccorso alpino, tra cadute, malori e difficoltà di orientamento: i consigli per evitare …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cercare-funghi-porcini-rischi-boschi-soccorso-alpino/",
-        "pubDate": "2026-11-02T10:19:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Nel ristorante stellato di Parigi il vino si può sostituire con tè di 60 anni. L’idea di una sommelier italiana",
-        "description": "Al Table di Bruno Verjus, la sommelier italiana Agnese Morandi ha creato un percorso da 200 euro con tè rari e invecchiati, abbinati ai piatti dell'alta cucina…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/agnese-morandi-table-parigi-abbinamento-te-rari-bruno-verjus/",
-        "pubDate": "2026-11-02T10:12:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
