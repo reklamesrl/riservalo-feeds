@@ -1,7 +1,88 @@
 {
-  "generated": "2026-11-04T13:52:11.843152+00:00",
+  "generated": "2026-11-04T23:16:40.181695+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "La Borgogna è diventata troppo cara. Ma c’è una zona dove si fanno ancora grandi vini a prezzi accessibili",
+        "description": "Mentre i prezzi delle cantine più note hanno raggiunto cifre da capogiro, c'è un'altra Borgogna che, a poco a poco, sta emergendo con vini sempre più identitari…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/borgogna-arnaud-boue-haute-cotes-nuits/",
+        "pubDate": "2026-11-04T16:44:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gucci lancia la Campagna ‘Gucci Gift’ per il Natale 2026 con testimonial Mariah Carey",
+        "description": "Gucci lancia la Campagna 'Gucci Gift' per il Natale 2026 con testimonial Mariah Carey.…",
+        "link": "https://www.stylosophy.it/articolo/gucci-lancia-la-campagna-gucci-gift-per-il-natale-2026-con-testimonial-mariah-carey/254234/",
+        "pubDate": "2026-11-04T16:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Un miliardo per produrre più cibo italiano. Ma bisognerà aspettare",
+        "description": "Il governo stanzia oltre 1,1 miliardi di euro per aumentare la produzione di olio, cereali e carne bovina e sostenere i giovani agricoltori. Ma gran parte degli…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/coltivaitalia-fondi-agricoltura-olio-grano-carne-decreti/",
+        "pubDate": "2026-11-04T15:54:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I “turbo polli” crescono così in fretta che le zampe non li reggono, e sono legali",
+        "description": "La Danimarca vuole vietare i polli che raggiungono 2 kg in appena 33 giorni, mentre nel resto d'Europa continuano a essere allevati.\nL'articolo I “turbo polli” …",
+        "link": "https://www.dissapore.com/notizie/i-turbo-polli-crescono-cosi-in-fretta-che-le-zampe-non-li-reggono-e-sono-legali/",
+        "pubDate": "2026-11-04T15:32:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/nuova-poulette.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Come decorare la porta d’ingresso di Casa per Natale: 6 idee Fai da Te assolutamente originali",
+        "description": "Scopri come trasformare la tua porta d’ingresso in un incantevole simbolo natalizio con decorazioni uniche e creative. Sei idee fai da te per stupire i tuoi osp…",
+        "link": "https://www.stylosophy.it/articolo/come-decorare-la-porta-dingresso-di-casa-per-natale/210536/",
+        "pubDate": "2026-11-04T15:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "La crisi climatica rilancia i vini di montagna: il caso dei terrazzamenti della Valtellina",
+        "description": "La paura dei produttori di subire l'effetto siccità è passata dopo alcune piogge estive: \"I gradoni assicurano una riserva di equilibrio\". E spunta l'idea di us…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/valtellina-vendemmia-2026-droni/",
+        "pubDate": "2026-11-04T15:28:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Gilet mon amour: il must have dei capispalla autunnali si veste di ricami, decorazioni e pelliccia",
+        "description": "Se ci riflettiamo bene, il 90% dei look fall-winter che consideriamo cool e dei quali ci innamoriamo all’istante si basa su alcuni elementi fondamentali e irrin…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gilet-pelliccia-ricami-boho-donna-inverno-2026-1010217",
+        "pubDate": "2026-11-04T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_gilet.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "A Roma ha aperto una nuova pizzeria di quartiere dove nessuna pizza costa più di 14 euro",
+        "description": "Dopo quasi un anno di attesa per l'allaccio elettrico, Emanuele Cozzo apre Dica33 a Torrevecchia, il quartiere dove è cresciuto: pizza romana, fritti e prezzi f…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/dica33-pizzeria-romana-emanuele-cozzo-torrevecchia-roma/",
+        "pubDate": "2026-11-04T13:56:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Friuli c’è un’antica ricetta di montagna fatta con rape fermentate per 40 giorni. Si mangia con polenta e lardo",
+        "description": "Nelle valli della Valcellina e del Vajont si prepara il pestìth, un Presidio Slow Food ottenuto dalla fermentazione delle rape, poi pestate e cucinate con polen…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pestith-rape-fermentate-friuli-ricetta-tradizionale/",
+        "pubDate": "2026-11-04T13:40:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Dal pollo fritto a primo senatore gay: la parabola politica di Chris Pappas",
         "description": "Il suo ristorante di famiglia è da sempre tappa imprescindibile per la politica locale, ed è dove sono stati inventati i chicken tenders: è l'ultima tappa di un…",
@@ -21,6 +102,69 @@
         "source": "Wine Mag"
       },
       {
+        "title": "“Vorrei che nessuno si sentisse giudicato per un vino da 8 euro”. Chi è Winestreamer, lo statistico che lo racconta sui social",
+        "description": "Statistico e divulgatore seguito da oltre 40mila persone su Instagram, Fabrizio racconta come cambiare il linguaggio del vino, dai prezzi accessibili ai giovani…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/winestreamer-intervista-vino-giovani-instagram/",
+        "pubDate": "2026-11-04T11:44:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il dottor Valda delle famose caramelle verdi non è mai esistito. La storia delle pastiglie vendute in farmacia",
+        "description": "Dietro le celebri pastiglie balsamiche verdi c'era un farmacista francese, Henri Edmond Canonne, che inventò un medico immaginario per pubblicizzarle. Ecco la s…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caramelle-farmacia-pastiglie-valda-ziguli-storia/",
+        "pubDate": "2026-11-04T11:31:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non voleva fare la cuoca, poi ha trasformato l’osteria di famiglia in uno dei ristoranti più interessanti del Salento",
+        "description": "A Ruffano, nel Salento, Valentina Rizzo ha trasformato l'osteria della madre in un ristorante di cucina contemporanea, tra ricette di famiglia, fermentazioni e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/farmacia-dei-sani-ruffano-valentina-rizzo-ristorante-salento/",
+        "pubDate": "2026-11-04T11:13:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che colori abbinare ai pantaloni marroni? Ecco le combo da copiare per look autunnali tutt’altro che scontati",
+        "description": "Il marrone si conferma uno dei colori protagonisti della stagione autunnale (e questo di certo non è una novità), ma c’è un capo in particolare, declinato nelle…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/che-colori-abbinare-ai-pantaloni-marroni-idee-look-autunno-viola-rosso-nero-total-look-grigio-fucsia-1010749",
+        "pubDate": "2026-11-04T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Che_colori_con_pantaloni_marroni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "A Milano apre la pizzeria romana di Jacopo Mercuro. Margherita a 9,50 euro e scontrino medio di 28 euro",
+        "description": "Il pizzaiolo di 180 grammi torna a Porta Romana con Unica: margherita a 9,50 euro, pizza in doppia cottura e collaboratori storici diventati soci delle sue atti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/jacopo-mercuro-unica-pizzeria-romana-milano-prezzi/",
+        "pubDate": "2026-11-04T10:52:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo chef della brace apre un’osteria a Ferrara: 32 posti, niente menu degustazione e cucina di casa",
+        "description": "Dal 9 novembre Errico Recanati porta la sua cucina del fuoco a Ferrara: 32 coperti, piatti alla carta, cappellacci, ragù e faraona alla brace nell'Hotel Casa d'…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/errico-recanati-isabella-osteria-creativa-ferrara/",
+        "pubDate": "2026-11-04T10:41:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Che tipo da Natale sei? Scoprilo con YOOX (e trova il look perfetto per te)",
+        "description": "Il Natale è il periodo più magico dell&#8217;anno. Ma anche quello in cui, diciamocelo, il livello di stress può raggiungere vette decisamente inaspettate. Tra …",
+        "link": "https://www.grazia.it/moda/news-moda/che-tipo-da-natale-sei-scoprilo-con-yoox-e-trova-il-look-perfetto-per-te-1010139",
+        "pubDate": "2026-11-04T10:12:09+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/Hero-Grazia-17.png",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
         "title": "Il primo passo indietro della Gran Bretagna sulla Brexit passa dal cibo",
         "description": "Dopo anni di burocrazia, controlli alle frontiere e costi aggiuntivi, Regno Unito e Unione europea hanno definito un accordo per semplificare gli scambi di prod…",
         "link": "https://www.dissapore.com/notizie/il-primo-passo-indietro-della-gran-bretagna-sulla-brexit-passa-dal-cibo/",
@@ -37,155 +181,74 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Tiella barese: riso, patate e cozze, il piatto unico che arriva in tavola dalla tradizione pugliese",
-        "description": "La tiella barese ricetta è il piatto unico pugliese per eccellenza: riso, patate e cozze si cuociono insieme in teglia. Scopri come prepararla.…",
-        "link": "https://www.gustoblog.it/2026/11/04/tiella-barese-ricetta-tradizionale/",
-        "pubDate": "2026-11-04T08:18:21+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Verza stufata al pomodoro con ceci e olive: il piatto rustico che arriva in tavola in 40 minuti",
-        "description": "La verza stufata al pomodoro è un piatto vegetariano rustico con ceci e olive: ricco di sapore, 250 kcal a porzione, perfetto per 4 persone.…",
-        "link": "https://www.gustoblog.it/2026/11/04/verza-stufata-pomodoro-ceci-olive/",
-        "pubDate": "2026-11-04T08:16:19+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Dolci autunnali con frutta secca: dalle torte ai plumcake, ricette semplici da preparare oggi in casa",
-        "description": "Scopri i dolci autunnali con frutta secca: plumcake speziato, torta alle noci e fette con crema di castagne. Ricette semplici per il weekend.…",
-        "link": "https://www.gustoblog.it/2026/11/04/dolci-autunnali-frutta-secca-ricette/",
-        "pubDate": "2026-11-04T08:13:59+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Verdure di novembre: i contorni e i piatti unici che arrivano in tavola oggi",
-        "description": "Le verdure di stagione di novembre portano in tavola verza, carote, zucca e finocchi. Scopri ricette veloci e piatti unici pronti in 15-30 minuti.…",
-        "link": "https://www.gustoblog.it/2026/11/04/verdure-stagione-novembre-ricette/",
-        "pubDate": "2026-11-04T08:11:35+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Andreola, più trasparenza in etichetta",
-        "description": "Andreola introduce nuove informazioni in etichetta a partire dalle bottiglie della vendemmia 2026. La novità riguarda l’intera linea Valdobbiadene DOCG, sulla q…",
-        "link": "https://www.winemag.it/andreola-piu-trasparenza-in-etichetta/",
-        "pubDate": "2026-11-04T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Porcini trifolati con polenta concia: il piatto montanaro che scalda l’autunno",
-        "description": "Scopri come preparare i porcini trifolati con polenta concia, il piatto montanaro che unisce due tradizioni alpine in 70 minuti totali.…",
-        "link": "https://www.gustoblog.it/2026/11/04/porcini-trifolati-polenta-concia/",
-        "pubDate": "2026-11-04T04:19:33+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Nera Vini: «Vigneti su meleti? Terrazzamenti Inferno a rischio abbandono»",
-        "description": "Il possibile allargamento della sottozona sui terreni della cooperativa Melavì in liquidazione tiene banco in Valtellina\nL'articolo Nera Vini: «Vigneti su melet…",
-        "link": "https://www.winemag.it/nera-vini-valtellina-vigneti-meleti-terrazzamenti-rischio-abbandono/",
-        "pubDate": "2026-11-03T23:10:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Nera-Vini-valtellina-Vigne-al-posto-dei-meleti-Terrazzamenti-a-rischio-abbandono-appello-stefano-e-simone-nera-5-scaled.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Stesso ufficio, look diversi: come si vestono Boomer, Gen X, Millennial e Gen Z",
-        "description": "Negli uffici italiani coesistono Boomer, Gen X, Millennial e Gen Z, ciascuno con un’idea diversa di look da ufficio e professionalità. Tra completi blu e sneake…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/look-da-ufficio-cambia-dipende-se-siete-boomer-gen-x-millenial-o-gen-z-1008547",
-        "pubDate": "2026-11-03T18:04:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/look-ufficio-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Il piombo nel cibo è un problema per un miliardo di bambini",
-        "description": "I numeri sulla diffusione del piombo negli alimenti sono allarmanti, e anche l'OMS interviene: si potrebbero evitare 3,5 milioni di morti l'anno.\nL'articolo Il …",
-        "link": "https://www.dissapore.com/notizie/il-piombo-nel-cibo-e-un-problema-per-un-miliardo-di-bambini/",
-        "pubDate": "2026-11-03T16:30:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/spezie-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Acqualagna, cosa vedere nel borgo marchigiano famoso per il tartufo",
-        "description": "Nel cuore della provincia di Pesaro e Urbino, Acqualagna è una destinazione da scoprire tra antiche testimonianze romane, abbazie medievali, paesaggi appenninic…",
-        "link": "https://www.stylosophy.it/articolo/acqualagna-cosa-vedere-nel-borgo-marchigiano-famoso-per-il-tartufo/254227/",
-        "pubDate": "2026-11-03T16:30:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Holiday campaign 2026: le campagne pubblicitarie più belle per entrare nell’atmosfera natalizia",
-        "description": "Anche voi avete già iniziato il conto alla rovescia per Natale? Le città si preparano a illuminarsi e le prime decorazioni iniziano a far capolino dalle vetrine…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/natale-2026-campagne-pubblicitarie-moda-gucci-prada-holiday-campaign-2026-1009343",
-        "pubDate": "2026-11-03T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_holiday_campaign.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Wine Paris annuncia la nascita di uno spazio per le bevande a bassa gradazione. Tutte le novità dell’edizione 2027",
-        "description": "Il salone parigino, in programma dal 15 al 17 febbraio, scommette su low e no alcol con l'area The Orther Sip ed espande l'offerta Be Spirits. Più visibilità ag…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/wine-paris-2027-novita-area-low-no-alcol/",
-        "pubDate": "2026-11-03T14:08:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Hailey Bieber lascia tutti senza fiato ai CFDA Fashion Awards 2026 con il total gold Look firmato Saint Laurent",
-        "description": "Hailey Bieber ai CFDA Fashion Awards 2026 sfoggia un total gold look firmato Saint Laurent.…",
-        "link": "https://www.stylosophy.it/articolo/hailey-bieber-lascia-tutti-senza-fiato-ai-cfda-fashion-awards-2026-con-il-total-gold-look-firmato-saint-laurent/254224/",
-        "pubDate": "2026-11-03T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Le fettuccine Alfredo erano una barzelletta, ora ci facciamo un'”accademia” per venderle meglio",
-        "description": "A Roma nasce \"l'Accademia del mantecatore\", per insegnare agli americani a fare le fettuccine Alfredo. Un piatto più amato Oltreoceano che da noi. \nL'articolo L…",
-        "link": "https://www.dissapore.com/notizie/le-fettuccine-alfredo-erano-una-barzelletta-ora-ci-facciamo-unaccademia-per-venderle-meglio/",
-        "pubDate": "2026-11-03T13:04:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/parmigiano-reggiano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dom Pérignon e Damien Hirst, la Limited Edition arriva alla Rinascente di Milano",
-        "description": "Dal 3 al 16 novembre 2026, Rinascente Milano ospita un progetto dedicato all’incontro tra arte e Champagne. Protagonisti Dom Pérignon e Damien Hirst, artista br…",
-        "link": "https://www.winemag.it/dom-perignon-e-damien-hirst-la-limited-edition-arriva-alla-rinascente-di-milano/",
-        "pubDate": "2026-11-03T12:20:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "George Clooney cerca una mamma italiana per il suo ristorante. E ha anche un’età in mente",
-        "description": "L'attore aprirà un ristorante italiano nel borgo francese di Cotignac. Ma per farlo ha bisogno di una «vera mamma italiana» e scherza sulle donne tra i 45 e i 7…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/george-clooney-ristorante-mamma-italiana-francia/",
-        "pubDate": "2026-11-03T12:13:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
       {
-        "title": "Stesso ufficio, look diversi: come si vestono Boomer, Gen X, Millennial e Gen Z",
+        "title": "Gucci lancia la Campagna ‘Gucci Gift’ per il Natale 2026 con testimonial Mariah Carey",
+        "description": "Gucci lancia la Campagna 'Gucci Gift' per il Natale 2026 con testimonial Mariah Carey.…",
+        "link": "https://www.stylosophy.it/articolo/gucci-lancia-la-campagna-gucci-gift-per-il-natale-2026-con-testimonial-mariah-carey/254234/",
+        "pubDate": "2026-11-04T16:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Come decorare la porta d’ingresso di Casa per Natale: 6 idee Fai da Te assolutamente originali",
+        "description": "Scopri come trasformare la tua porta d’ingresso in un incantevole simbolo natalizio con decorazioni uniche e creative. Sei idee fai da te per stupire i tuoi osp…",
+        "link": "https://www.stylosophy.it/articolo/come-decorare-la-porta-dingresso-di-casa-per-natale/210536/",
+        "pubDate": "2026-11-04T15:30:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Gilet mon amour: il must have dei capispalla autunnali si veste di ricami, decorazioni e pelliccia",
+        "description": "Se ci riflettiamo bene, il 90% dei look fall-winter che consideriamo cool e dei quali ci innamoriamo all’istante si basa su alcuni elementi fondamentali e irrin…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gilet-pelliccia-ricami-boho-donna-inverno-2026-1010217",
+        "pubDate": "2026-11-04T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_gilet.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Che colori abbinare ai pantaloni marroni? Ecco le combo da copiare per look autunnali tutt’altro che scontati",
+        "description": "Il marrone si conferma uno dei colori protagonisti della stagione autunnale (e questo di certo non è una novità), ma c’è un capo in particolare, declinato nelle…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/che-colori-abbinare-ai-pantaloni-marroni-idee-look-autunno-viola-rosso-nero-total-look-grigio-fucsia-1010749",
+        "pubDate": "2026-11-04T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Che_colori_con_pantaloni_marroni.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Che tipo da Natale sei? Scoprilo con YOOX (e trova il look perfetto per te)",
+        "description": "Il Natale è il periodo più magico dell&#8217;anno. Ma anche quello in cui, diciamocelo, il livello di stress può raggiungere vette decisamente inaspettate. Tra …",
+        "link": "https://www.grazia.it/moda/news-moda/che-tipo-da-natale-sei-scoprilo-con-yoox-e-trova-il-look-perfetto-per-te-1010139",
+        "pubDate": "2026-11-04T10:12:09+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/Hero-Grazia-17.png",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Dimenticate il trench: per l’autunno 2026 le francesi indossano questa giacca chic con i jeans",
+        "description": "Durante la Paris Fashion Week di questo autunno, un&#8217;ospite delle sfilate ha dimostrato tutto il potenziale di questo abbinamento, sfoggiando una giacca co…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/bomber-pelle-giacca-autunno-2026-1010287",
+        "pubDate": "2026-11-04T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/bomber-leather-street-style.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Bentornate gonne a pieghe! Ecco i modelli da puntare quest’autunno per look femminili e super chic",
+        "description": "Sono tra quei capi che puntualmente fanno ritorno nel nostro armadio al primo accenno di autunno e anche quest’anno non si sono certo fatte attendere: le gonne …",
+        "link": "https://www.grazia.it/moda/tendenze-moda/gonne-a-pieghe-eleganti-zara-outfit-con-gonna-corta-lunga-midi-donna-al-ginocchio-1010354",
+        "pubDate": "2026-11-04T06:33:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_gonna_pieghe.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Stesso ufficio, look diversi: come si vestono Boomer, Gen X, Millennial e Gen Z",
         "description": "Negli uffici italiani coesistono Boomer, Gen X, Millennial e Gen Z, ciascuno con un’idea diversa di look da ufficio e professionalità. Tra completi blu e sneake…",
         "link": "https://www.grazia.it/moda/tendenze-moda/look-da-ufficio-cambia-dipende-se-siete-boomer-gen-x-millenial-o-gen-z-1008547",
         "pubDate": "2026-11-03T18:04:00+00:00",
@@ -248,15 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "It’s timeee! Mariah Carey inaugura ufficialmente la Holiday season nella nuova campagna di Gucci",
-        "description": "C&#8217;è chi aspetta che arrivi dicembre per iniziare a pensare al Natale e chi, invece, ha già pronto l&#8217;albero prima ancora di aver riposto le zucche di…",
-        "link": "https://www.grazia.it/moda/news-moda/mariah-carey-gucci-natale-2026-campagna-natalizia-all-i-want-for-christmas-is-you-1010159",
-        "pubDate": "2026-11-02T15:52:41+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/ok-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "l correttori non sono tutti uguali: ecco come scegliere quello giusto per te",
         "description": "Dalle occhiaie ai rossori, ogni zona del viso ha esigenze diverse e richiede una formula specifica. Ecco come applicare il correttore senza appesantire il make-…",
         "link": "https://www.stylosophy.it/articolo/l-correttori-non-sono-tutti-uguali-ecco-come-scegliere-quello-giusto-per-la-tua-pelle/254216/",
@@ -273,33 +327,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Cosa comprare da Mango a Novembre: i capi e gli accessori giusti per non sbagliare un look",
-        "description": "Arrivano i primi freddi e &#8211; ve lo confessiamo &#8211; specialmente alcune mattine più &#8220;difficili&#8221; la nostra voglia di &#8220;vestirci bene&#82…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-da-mango-autunno-2026-must-have-cappotti-vestiti-scarpe-borse-accessori-1009680",
-        "pubDate": "2026-11-02T13:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_desktop_mango.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Che scarpe indossare con i jeans baggy? Sono queste le calzature da scegliere per look quotidiani easy e cool",
-        "description": "Li scegliamo nel tempo libero e nel weekend, soprattutto quando non sappiamo come vestirci e non abbiamo troppa voglia di dedicarci alla scelta del look, ma con…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/che-scarpe-indossare-con-i-jeans-baggy-larghi-mocassini-pumps-ballerine-sneakers-1010013",
-        "pubDate": "2026-11-02T12:30:43+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Scarpe_per_jeans_baggy.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Fashion crush del mese: cosa comprare a Novembre",
-        "description": "Le giornate sempre più corte, l’aria che si fa più pungente: i segnali ormai ci sono tutti. L’autunno è ufficialmente entrato nel suo momento clou e questo sign…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cosa-comprare-a-novembre-abbigliamento-fashion-crush-shopping-stivali-abiti-in-maglia-cappotto-1009587",
-        "pubDate": "2026-11-02T05:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/00_DESKTOP_fashion_crush_NOVEMBRE.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Hygee & Cozy: tips di arredo per trasformare il Salotto nel rifugio invernale perfetto",
@@ -320,15 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Meglio di un filler! Questo colore, indossato su sciarpe e maglioni, toglie in un momento 10 anni al viso!",
-        "description": "Dopo i 50 anni basta il colore sbagliato di maglioni e sciarpe per aggiungere anni al viso. Qual è la nuance che invecchia istantaneamente e quale la svolta chi…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/colore-che-invecchia-viso-evitare-maglioni-sciarpe-dopo-50-anni-bis-1000775",
-        "pubDate": "2026-11-01T10:58:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/maglione-e-sciarpa-colore-da-evitare.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Borghi d’autunno: 4 mete italiane fuori dalle rotte turistiche da visitare a novembre",
         "description": "Quattro itinerari alternativi lontano dall'overtourism per vivere l'entroterra appenninico tra foliage, castagneti storici e cucina di territorio prima dell'arr…",
         "link": "https://www.stylosophy.it/articolo/borghi-dautunno-mete-italiane-da-visitare-a-novembre/254192/",
@@ -345,27 +363,63 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Diletta Leotta, con il coordinato in denim perfetto per questa stagione e la Chanel bag del momento",
-        "description": "Diletta Leotta, anche in autunno, non delude la aspettative sfoggiando il coordinato in denim e la maxi Chanel bag.…",
-        "link": "https://www.stylosophy.it/articolo/diletta-leotta-con-il-coordinato-in-denim-perfetto-per-questa-stagione-e-la-chanel-bag-del-momento/254188/",
-        "pubDate": "2026-10-30T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Colori di tendenza autunno-inverno 2026: 5 tonalità per rinnovare casa",
-        "description": "Dal marrone cioccolato al blu elettrico, le tonalità protagoniste del momento rinnovano gli ambienti con accostamenti mirati, tessuti e complementi d'arredo.…",
-        "link": "https://www.stylosophy.it/articolo/colori-di-tendenza-autunno-inverno-2026-tonalita-per-rinnovare-casa/254177/",
-        "pubDate": "2026-10-30T10:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "La Borgogna è diventata troppo cara. Ma c’è una zona dove si fanno ancora grandi vini a prezzi accessibili",
+        "description": "Mentre i prezzi delle cantine più note hanno raggiunto cifre da capogiro, c'è un'altra Borgogna che, a poco a poco, sta emergendo con vini sempre più identitari…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/borgogna-arnaud-boue-haute-cotes-nuits/",
+        "pubDate": "2026-11-04T16:44:37+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un miliardo per produrre più cibo italiano. Ma bisognerà aspettare",
+        "description": "Il governo stanzia oltre 1,1 miliardi di euro per aumentare la produzione di olio, cereali e carne bovina e sostenere i giovani agricoltori. Ma gran parte degli…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/coltivaitalia-fondi-agricoltura-olio-grano-carne-decreti/",
+        "pubDate": "2026-11-04T15:54:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I “turbo polli” crescono così in fretta che le zampe non li reggono, e sono legali",
+        "description": "La Danimarca vuole vietare i polli che raggiungono 2 kg in appena 33 giorni, mentre nel resto d'Europa continuano a essere allevati.\nL'articolo I “turbo polli” …",
+        "link": "https://www.dissapore.com/notizie/i-turbo-polli-crescono-cosi-in-fretta-che-le-zampe-non-li-reggono-e-sono-legali/",
+        "pubDate": "2026-11-04T15:32:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/nuova-poulette.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "La crisi climatica rilancia i vini di montagna: il caso dei terrazzamenti della Valtellina",
+        "description": "La paura dei produttori di subire l'effetto siccità è passata dopo alcune piogge estive: \"I gradoni assicurano una riserva di equilibrio\". E spunta l'idea di us…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/valtellina-vendemmia-2026-droni/",
+        "pubDate": "2026-11-04T15:28:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Roma ha aperto una nuova pizzeria di quartiere dove nessuna pizza costa più di 14 euro",
+        "description": "Dopo quasi un anno di attesa per l'allaccio elettrico, Emanuele Cozzo apre Dica33 a Torrevecchia, il quartiere dove è cresciuto: pizza romana, fritti e prezzi f…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/dica33-pizzeria-romana-emanuele-cozzo-torrevecchia-roma/",
+        "pubDate": "2026-11-04T13:56:59+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Friuli c’è un’antica ricetta di montagna fatta con rape fermentate per 40 giorni. Si mangia con polenta e lardo",
+        "description": "Nelle valli della Valcellina e del Vajont si prepara il pestìth, un Presidio Slow Food ottenuto dalla fermentazione delle rape, poi pestate e cucinate con polen…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pestith-rape-fermentate-friuli-ricetta-tradizionale/",
+        "pubDate": "2026-11-04T13:40:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Dal pollo fritto a primo senatore gay: la parabola politica di Chris Pappas",
         "description": "Il suo ristorante di famiglia è da sempre tappa imprescindibile per la politica locale, ed è dove sono stati inventati i chicken tenders: è l'ultima tappa di un…",
@@ -383,6 +437,51 @@
         "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "“Vorrei che nessuno si sentisse giudicato per un vino da 8 euro”. Chi è Winestreamer, lo statistico che lo racconta sui social",
+        "description": "Statistico e divulgatore seguito da oltre 40mila persone su Instagram, Fabrizio racconta come cambiare il linguaggio del vino, dai prezzi accessibili ai giovani…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/winestreamer-intervista-vino-giovani-instagram/",
+        "pubDate": "2026-11-04T11:44:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il dottor Valda delle famose caramelle verdi non è mai esistito. La storia delle pastiglie vendute in farmacia",
+        "description": "Dietro le celebri pastiglie balsamiche verdi c'era un farmacista francese, Henri Edmond Canonne, che inventò un medico immaginario per pubblicizzarle. Ecco la s…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/caramelle-farmacia-pastiglie-valda-ziguli-storia/",
+        "pubDate": "2026-11-04T11:31:49+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Non voleva fare la cuoca, poi ha trasformato l’osteria di famiglia in uno dei ristoranti più interessanti del Salento",
+        "description": "A Ruffano, nel Salento, Valentina Rizzo ha trasformato l'osteria della madre in un ristorante di cucina contemporanea, tra ricette di famiglia, fermentazioni e …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/farmacia-dei-sani-ruffano-valentina-rizzo-ristorante-salento/",
+        "pubDate": "2026-11-04T11:13:53+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Milano apre la pizzeria romana di Jacopo Mercuro. Margherita a 9,50 euro e scontrino medio di 28 euro",
+        "description": "Il pizzaiolo di 180 grammi torna a Porta Romana con Unica: margherita a 9,50 euro, pizza in doppia cottura e collaboratori storici diventati soci delle sue atti…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/jacopo-mercuro-unica-pizzeria-romana-milano-prezzi/",
+        "pubDate": "2026-11-04T10:52:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo chef della brace apre un’osteria a Ferrara: 32 posti, niente menu degustazione e cucina di casa",
+        "description": "Dal 9 novembre Errico Recanati porta la sua cucina del fuoco a Ferrara: 32 coperti, piatti alla carta, cappellacci, ragù e faraona alla brace nell'Hotel Casa d'…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/errico-recanati-isabella-osteria-creativa-ferrara/",
+        "pubDate": "2026-11-04T10:41:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Il primo passo indietro della Gran Bretagna sulla Brexit passa dal cibo",
@@ -446,105 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Porcini trifolati con polenta concia: il piatto montanaro che scalda l’autunno",
-        "description": "Scopri come preparare i porcini trifolati con polenta concia, il piatto montanaro che unisce due tradizioni alpine in 70 minuti totali.…",
-        "link": "https://www.gustoblog.it/2026/11/04/porcini-trifolati-polenta-concia/",
-        "pubDate": "2026-11-04T04:19:33+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Nera Vini: «Vigneti su meleti? Terrazzamenti Inferno a rischio abbandono»",
-        "description": "Il possibile allargamento della sottozona sui terreni della cooperativa Melavì in liquidazione tiene banco in Valtellina\nL'articolo Nera Vini: «Vigneti su melet…",
-        "link": "https://www.winemag.it/nera-vini-valtellina-vigneti-meleti-terrazzamenti-rischio-abbandono/",
-        "pubDate": "2026-11-03T23:10:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Nera-Vini-valtellina-Vigne-al-posto-dei-meleti-Terrazzamenti-a-rischio-abbandono-appello-stefano-e-simone-nera-5-scaled.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il piombo nel cibo è un problema per un miliardo di bambini",
-        "description": "I numeri sulla diffusione del piombo negli alimenti sono allarmanti, e anche l'OMS interviene: si potrebbero evitare 3,5 milioni di morti l'anno.\nL'articolo Il …",
-        "link": "https://www.dissapore.com/notizie/il-piombo-nel-cibo-e-un-problema-per-un-miliardo-di-bambini/",
-        "pubDate": "2026-11-03T16:30:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/spezie-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Wine Paris annuncia la nascita di uno spazio per le bevande a bassa gradazione. Tutte le novità dell’edizione 2027",
-        "description": "Il salone parigino, in programma dal 15 al 17 febbraio, scommette su low e no alcol con l'area The Orther Sip ed espande l'offerta Be Spirits. Più visibilità ag…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/wine-paris-2027-novita-area-low-no-alcol/",
-        "pubDate": "2026-11-03T14:08:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le fettuccine Alfredo erano una barzelletta, ora ci facciamo un'”accademia” per venderle meglio",
-        "description": "A Roma nasce \"l'Accademia del mantecatore\", per insegnare agli americani a fare le fettuccine Alfredo. Un piatto più amato Oltreoceano che da noi. \nL'articolo L…",
-        "link": "https://www.dissapore.com/notizie/le-fettuccine-alfredo-erano-una-barzelletta-ora-ci-facciamo-unaccademia-per-venderle-meglio/",
-        "pubDate": "2026-11-03T13:04:29+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/parmigiano-reggiano-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dom Pérignon e Damien Hirst, la Limited Edition arriva alla Rinascente di Milano",
-        "description": "Dal 3 al 16 novembre 2026, Rinascente Milano ospita un progetto dedicato all’incontro tra arte e Champagne. Protagonisti Dom Pérignon e Damien Hirst, artista br…",
-        "link": "https://www.winemag.it/dom-perignon-e-damien-hirst-la-limited-edition-arriva-alla-rinascente-di-milano/",
-        "pubDate": "2026-11-03T12:20:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "George Clooney cerca una mamma italiana per il suo ristorante. E ha anche un’età in mente",
-        "description": "L'attore aprirà un ristorante italiano nel borgo francese di Cotignac. Ma per farlo ha bisogno di una «vera mamma italiana» e scherza sulle donne tra i 45 e i 7…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/george-clooney-ristorante-mamma-italiana-francia/",
-        "pubDate": "2026-11-03T12:13:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cosa portare in tavola quando arrivano i freddi: gli alimenti che rafforzano le difese immunitarie",
-        "description": "Scopri quali alimenti rafforzare sistema immunitario in autunno-inverno: vitamine, minerali e ricette pratiche consigliate da nutrizionisti.…",
-        "link": "https://www.gustoblog.it/2026/11/03/alimenti-rafforzare-sistema-immunitario/",
-        "pubDate": "2026-11-03T11:57:20+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Esito elezioni Serbia: il futuro di Wine Vision ed Expo Belgrado 2027",
-        "description": "«Thank you, see you next time!». È il messaggio che accoglie chi visita la home page di Wine Vision by Open Balkan dopo la quinta edizione del 10-12 ottobre 202…",
-        "link": "https://www.winemag.it/esito-elezioni-serbia-futuro-wine-vision-open-balkan-expo-belgrado-2027/",
-        "pubDate": "2026-11-03T11:36:01+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Serbia-al-voto-il-futuro-di-Wine-Vision-ed-Expo-Belgrado-2027-2.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Piccini, concorso «Dai voce alla tua svolta»: 200 box di Chianti Rosé in palio",
-        "description": "È aperto fino al 18 novembre il concorso Instagram «Dai voce alla tua svolta», lanciato da Piccini in occasione dell’arrivo del nuovo Chianti Rosé. In palio ci …",
-        "link": "https://www.winemag.it/piccini-concorso-dai-voce-alla-tua-svolta-200-box-chianti-rose-in-palio/",
-        "pubDate": "2026-11-03T10:58:22+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il tonno rosso pescato in Italia faceva arricchire gli altri Paesi: ora qualcosa sta cambiando",
-        "description": "Per anni le fasi più redditizie della filiera del tonno rosso sono state appannaggio di aziende straniere, ma il Consorzio Tonno Rosso d'Italia vuole invertire …",
-        "link": "https://www.dissapore.com/notizie/il-tonno-rosso-pescato-in-italia-faceva-arricchire-gli-altri-paesi-ora-qualcosa-sta-cambiando/",
-        "pubDate": "2026-11-03T10:26:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/tonno-taglio-banco-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
