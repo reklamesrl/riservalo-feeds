@@ -1,7 +1,133 @@
 {
-  "generated": "2026-11-05T23:20:00.969084+00:00",
+  "generated": "2026-11-06T13:49:54.939779+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Parmigiano Reggiano, Gavasseto e Roncadella diventano Nuova Latteria Fontana",
+        "description": "Fare sistema per resistere e crescere. È questo il senso con cui Legacoop Agroalimentare accoglie l’incorporazione del Caseificio Gavasseto e Roncadella nella N…",
+        "link": "https://www.winemag.it/parmigiano-reggiano-gavasseto-roncadella-fusione-nuova-latteria-fontana/",
+        "pubDate": "2026-11-06T13:20:07+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Non solo cacao e caffè: quali saranno i prossimi alimenti a rischio?",
+        "description": "Crisi climatica e tensioni internazionali complicheranno sempre di più il mercato delle materie prime: ecco quali potrebbero essere le filiere più fragili nel p…",
+        "link": "https://www.dissapore.com/notizie/non-solo-cacao-e-caffe-quali-saranno-i-prossimi-alimenti-a-rischio/",
+        "pubDate": "2026-11-06T12:39:35+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/vaniglia-baccelli-albero-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Solo il 5% di filetto nelle cotolette di pollo confezionate: l’inchiesta che svela cosa mangiamo davvero",
+        "description": "L'inchiesta rivela che le cotolette di pollo confezionate contengono appena il 5% di filetto. Scopri la vera composizione e come leggere l'etichetta.…",
+        "link": "https://www.gustoblog.it/2026/11/06/cotolette-pollo-confezionate-composizione/",
+        "pubDate": "2026-11-06T11:59:22+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Gran Selezione è solo del Chianti Classico: Chianti Docg “battuto” in Senato",
+        "description": "La Gran Selezione è una tipologia che appartiene solo al Chianti Classico. Il 4 novembre il Senato ha approvato in via definitiva il disegno di legge che modifi…",
+        "link": "https://www.winemag.it/gran-selezione-solo-chianti-classico-chianti-docg-battuto-in-senato/",
+        "pubDate": "2026-11-06T10:34:07+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/11/chianti-classico-gran-selezione-disciplinare-gallo-nero.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "ColtivaItalia: 1,18 miliardi per rilanciare olio, carne e grano, ecco cosa cambia nelle campagne",
+        "description": "La legge ColtivaItalia approvata dal Senato stanzia 1,18 miliardi di euro per il triennio 2027-2029, con interventi su olio, carne e grano per rafforzare l'agro…",
+        "link": "https://www.gustoblog.it/2026/11/06/legge-coltivaitalia-miliardi-agricoltura/",
+        "pubDate": "2026-11-06T09:49:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Contorni autunnali: le ricette da preparare oggi in casa",
+        "description": "Scopri le migliori contorni autunnali ricette: finocchi in agrodolce, patate dolci al forno, ratatouille e polpette. Ricette facili con tempi e abbinamenti.…",
+        "link": "https://www.gustoblog.it/2026/11/06/contorni-autunnali-ricette-facili/",
+        "pubDate": "2026-11-06T08:37:20+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Kellogg’s cambia per sempre i Rice Krispies e i Coco Pops: non saranno più fatti con chicchi di riso",
+        "description": "Niente più chicchi di riso nei cereali più celebri al mondo, ma solo un estruso che parte dalla farina. Il motivo è sempre quello del cambiamento climatico.\nL'a…",
+        "link": "https://www.dissapore.com/notizie/kelloggs-cambia-per-sempre-i-rice-krispies-e-i-coco-pops-non-saranno-piu-fatti-con-chicchi-di-riso/",
+        "pubDate": "2026-11-06T08:32:58+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/12/shutterstock_2293925045-scaled-e1765967630312.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ragù di nocciole e verdure: l’alternativa golosa che arriva in tavola in 40 minuti",
+        "description": "Il ragù di nocciole è un sugo vegetale che crea una base ricca e profonda. Scopri come prepararlo, i tempi di cottura e gli abbinamenti di pasta ideali.…",
+        "link": "https://www.gustoblog.it/2026/11/06/ragu-di-nocciole-alternativa-vegetale/",
+        "pubDate": "2026-11-06T08:32:05+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pollo in friggitrice ad aria: i secondi piatti che arrivano in tavola croccanti e leggeri",
+        "description": "Scopri come preparare il petto di pollo al limone in friggitrice ad aria: tempi, temperature e tecniche per una cottura croccante e leggera.…",
+        "link": "https://www.gustoblog.it/2026/11/06/pollo-friggitrice-aria-petto-limone/",
+        "pubDate": "2026-11-06T08:29:29+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Banfi alla Mostra del Tartufo Bianco delle Crete Senesi",
+        "description": "Banfi partecipa alla quarantesima edizione della Mostra Mercato del Tartufo Bianco delle Crete Senesi, in programma a San Giovanni d’Asso. La collaborazione pre…",
+        "link": "https://www.winemag.it/banfi-alla-mostra-del-tartufo-bianco-delle-crete-senesi/",
+        "pubDate": "2026-11-06T08:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Davvero è già tempo di MasterChef Italia? Cosa sappiamo sulla nuova edizione",
+        "description": "Bruno Barbieri, Antonino Cannavacciuolo e Giorgio Locatelli tornano dal 10 dicembre con la sedicesima edizione del cooking show più amato d'Italia.\nL'articolo D…",
+        "link": "https://www.dissapore.com/notizie/davvero-e-gia-tempo-di-masterchef-italia-cosa-sappiamo-sulla-nuova-edizione/",
+        "pubDate": "2026-11-06T07:54:28+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-alle-17.43.56-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Se consigli una pizza e poi fa schifo, non ti guardano più”. Cooker Girl e la credibilità degli influencer",
+        "description": "Aurora Cavallo, conosciuta come Cooker Girl, racconta il rapporto tra influencer e follower, la differenza tra autenticità e credibilità e perché poter rifiutar…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cooker-girl-aurora-cavallo-influencer-credibilita-social/",
+        "pubDate": "2026-11-06T06:22:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Kellogg’s cambia la ricetta dei Rice Krispies per colpa del clima. E ora contengono anche glutine",
+        "description": "Il colosso dei cereali modifica due prodotti iconici per le difficoltà di approvvigionamento del riso. Cambiano gli ingredienti e le indicazioni sugli allergeni…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/kelloggs-rice-krispies-coco-pops-nuova-ricetta-glutine-clima/",
+        "pubDate": "2026-11-06T06:03:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Di Stefano Dolciaria festeggia 40 anni: le novità per il Natale 2026",
+        "description": "Di Stefano Dolciaria celebra nel 2026 quarant’anni di attività. Fondata nel 1986 a Raffadali, in provincia di Agrigento, l’azienda siciliana festeggia l’anniver…",
+        "link": "https://www.winemag.it/di-stefano-dolciaria-festeggia-40-anni-le-novita-per-il-natale-2026/",
+        "pubDate": "2026-11-06T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Ferrari Maximum campione del mondo al CSWWC? No, il 75 cl è argento",
         "description": "La magnum conquista il mondiale. Il 75 cl riceve l’argento. Nella newsletter che celebra il Ferrari Maximum Blanc de Blancs, diffusa dalla cantina della famigli…",
@@ -48,136 +174,10 @@
         "source": "Dissapore"
       },
       {
-        "title": "Marco Ambrosino lascia tutti basiti e arriva a Torino da Unforgettable",
-        "description": "Il ristorante torinese riparte il 18 novembre affidando la cucina al cuoco procidano, ex 28 Posti e Sùstanza. Una scelta importante, che porta con sé una domand…",
-        "link": "https://www.dissapore.com/notizie/marco-ambrosino-lascia-tutti-basiti-e-arriva-a-torino-da-unforgettable/",
-        "pubDate": "2026-11-05T16:09:27+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/Unforgettable-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Una splendido Borgo ai piedi delle Dolomiti dove vivere tutta la magia dell’inverno",
-        "description": "Ai piedi dello Sciliar, questo piccolo centro altoatesino è una destinazione ideale per chi cerca una vacanza invernale tra paesaggi innevati, tradizioni, sport…",
-        "link": "https://www.stylosophy.it/articolo/una-splendido-borgo-ai-piedi-delle-dolomiti-dove-vivere-tutta-la-magia-dellinverno/254240/",
-        "pubDate": "2026-11-05T15:50:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Rifiuta di preparare una pizza con l’ananas per un cliente. Uno chef italiano perde il lavoro",
-        "description": "A Brisbane uno chef italiano si è rifiutato di preparare una pizza con l'ananas. Dopo il licenziamento ha presentato ricorso, respinto per tardività senza esami…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/chef-italiano-licenziato-australia-pizza-ananas-ricorso/",
-        "pubDate": "2026-11-05T15:10:35+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Arrivò in Italia per un anno e chiese lavoro a Bottura. Oggi è stata premiata come migliore chef del mondo",
-        "description": "Jessica Rosval ha vinto il premio World's Best Female Chef dei 50 Best. Arrivata in Italia dal Canada nel 2013, ha iniziato all'Osteria Francescana e oggi guida…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/jessica-rosval-migliore-chef-donna-mondo-storia-bottura/",
-        "pubDate": "2026-11-05T15:07:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Questi cappotti corti autunno-inverno 2026 ci introducono nella stagione dei capispalla",
-        "description": "Coprirsi con stile aspettando l’arrivo dei coats extra lunghi: è questa la mission dei cappotti corti dell’autunno inverno 2026 2027. Modelli disinvolti ma chic…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cappotti-corti-caban-donna-autunno-inverno-2026-1010293",
-        "pubDate": "2026-11-05T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_DESKTOP_cappotti_corti.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "San Martino si festeggia in cantina: gli appuntamenti in tutta Italia",
-        "description": "Degustazioni, incontri con i produttori e tradizioni autunnali: 15 giorni di eventi in tutta Italia, in collaborazione con Wine Moderation, per scoprire il perc…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/san-martino-programma-movimento-turismo-vino-2026/",
-        "pubDate": "2026-11-05T14:34:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Australia un cuoco è stato licenziato per non aver preparato la pizza all’ananas",
-        "description": "Dopo tre rifiuti di aggiungere l'ananas sulla pizza, un cuoco italiano ha perso il posto, e anche il visto per la residenza permanente.\nL'articolo In Australia …",
-        "link": "https://www.dissapore.com/notizie/in-australia-un-cuoco-e-stato-licenziato-per-non-aver-preparato-la-pizza-allananas/",
-        "pubDate": "2026-11-05T14:10:51+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/03/Pizza-ananas-1.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dior lancia ‘Christian Dior’s Night in Color’, la nuova campagna per il Natale 2026",
-        "description": "Dior lancia 'Christian Dior’s Night in Color', la nuova campagna per il Natale 2026.…",
-        "link": "https://www.stylosophy.it/articolo/dior-lancia-christian-diors-night-in-color-la-nuova-campagna-per-il-natale-2026/254239/",
-        "pubDate": "2026-11-05T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Lessona Doc, cinquant’anni di Nebbiolo dell’Alto Piemonte",
-        "description": "Festeggiamenti di produttori, Consorzio e autorità con la stampa al ristorante stellato Il Patio di Biella: ecco come la piccola denominazione è diventata grand…",
-        "link": "https://www.winemag.it/lessona-doc-cinquantanni-di-nebbiolo-dell-alto-piemonte/",
-        "pubDate": "2026-11-05T13:50:22+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/lessona-doc-cinquantanni-di-nebbiolo-dell-alto-piemonte.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Grappa del Trentino IG, annata di qualità: vinacce ottime e grappe fresche",
-        "description": "La nuova annata distillatoria della Grappa del Trentino IG si presenta con buone prospettive qualitative. Le prime valutazioni dell’Istituto Tutela Grappa del T…",
-        "link": "https://www.winemag.it/grappa-del-trentino-ig-annata-di-qualita-vinacce-ottime-e-grappe-fresche/",
-        "pubDate": "2026-11-05T13:21:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Olio extravergine a confronto: quello del discount batte davvero il premium? Il test di laboratorio che sorprende",
-        "description": "Test di laboratorio su olio extravergine rivela come i prodotti costosi non sempre vincono. Analisi chimica e organolettica di 16 bottiglie dal discount ai marc…",
-        "link": "https://www.gustoblog.it/2026/11/05/olio-extravergine-test-16-bottiglie/",
-        "pubDate": "2026-11-05T13:06:59+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La rosata di mandorle di Altamura: il dolce pugliese che merita di tornare in tavola",
-        "description": "La rosata di mandorle è un dolce tradizionale pugliese senza burro né olio, tipico di Altamura e Toritto. Scopri gli ingredienti autentici e come prepararla.…",
-        "link": "https://www.gustoblog.it/2026/11/05/rosata-mandorle-altamura-ricetta/",
-        "pubDate": "2026-11-05T13:04:36+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il vino schiacciato dall’inflazione: è il primo prodotto sacrificato dagli italiani nel carrello della spesa",
-        "description": "Il 35% degli italiani rinuncia al vino, mentre le aziende subiscono doppiamente la congiuntura negativa: costi in aumento e prezzi al consumo in calo. Uiv: \"Nel…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/inflazione-vino-costi-consumi/",
-        "pubDate": "2026-11-05T13:00:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Torte salate e involtini: le ricette veloci che arrivano in tavola in meno di un’ora",
-        "description": "Scopri ricette veloci salate pronte in meno di 60 minuti: torta con cipolle, involtini alle verdure e sformato di zucca in friggitrice ad aria.…",
-        "link": "https://www.gustoblog.it/2026/11/05/ricette-veloci-salate-torte-involtini/",
-        "pubDate": "2026-11-05T12:59:29+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "A Roma apre un nuovo cocktail bar in una storica caffetteria degli anni Sessanta",
-        "description": "A fine novembre aprirà Ceralacca, il nuovo cocktail bar di tre soci, due dei quali provenienti dal Jerry Thomas. Prenderà il posto di una storica caffetteria tr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ceralacca-nuovo-cocktail-bar-roma-amba-aradam/",
-        "pubDate": "2026-11-05T11:31:41+00:00",
+        "title": "Il futuro del vino vale 447 miliardi di dollari: l’area Asia-Pacifico guiderà la crescita nei prossimi 5 anni",
+        "description": "Mercato a due velocità per volumi e valori, secondo la società indiana Mordor Intelligence che stima una ripresa della domanda dall'Australia al Giappone. In cr…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/mercati-vino-2032-asia-pacifico-analisi-mordor-intelligence/",
+        "pubDate": "2026-11-05T16:33:29+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,132 @@
     ],
     "lifestyle": [
       {
+        "title": "Parmigiano Reggiano, Gavasseto e Roncadella diventano Nuova Latteria Fontana",
+        "description": "Fare sistema per resistere e crescere. È questo il senso con cui Legacoop Agroalimentare accoglie l’incorporazione del Caseificio Gavasseto e Roncadella nella N…",
+        "link": "https://www.winemag.it/parmigiano-reggiano-gavasseto-roncadella-fusione-nuova-latteria-fontana/",
+        "pubDate": "2026-11-06T13:20:07+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Non solo cacao e caffè: quali saranno i prossimi alimenti a rischio?",
+        "description": "Crisi climatica e tensioni internazionali complicheranno sempre di più il mercato delle materie prime: ecco quali potrebbero essere le filiere più fragili nel p…",
+        "link": "https://www.dissapore.com/notizie/non-solo-cacao-e-caffe-quali-saranno-i-prossimi-alimenti-a-rischio/",
+        "pubDate": "2026-11-06T12:39:35+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/vaniglia-baccelli-albero-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Solo il 5% di filetto nelle cotolette di pollo confezionate: l’inchiesta che svela cosa mangiamo davvero",
+        "description": "L'inchiesta rivela che le cotolette di pollo confezionate contengono appena il 5% di filetto. Scopri la vera composizione e come leggere l'etichetta.…",
+        "link": "https://www.gustoblog.it/2026/11/06/cotolette-pollo-confezionate-composizione/",
+        "pubDate": "2026-11-06T11:59:22+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Gran Selezione è solo del Chianti Classico: Chianti Docg “battuto” in Senato",
+        "description": "La Gran Selezione è una tipologia che appartiene solo al Chianti Classico. Il 4 novembre il Senato ha approvato in via definitiva il disegno di legge che modifi…",
+        "link": "https://www.winemag.it/gran-selezione-solo-chianti-classico-chianti-docg-battuto-in-senato/",
+        "pubDate": "2026-11-06T10:34:07+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/11/chianti-classico-gran-selezione-disciplinare-gallo-nero.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "ColtivaItalia: 1,18 miliardi per rilanciare olio, carne e grano, ecco cosa cambia nelle campagne",
+        "description": "La legge ColtivaItalia approvata dal Senato stanzia 1,18 miliardi di euro per il triennio 2027-2029, con interventi su olio, carne e grano per rafforzare l'agro…",
+        "link": "https://www.gustoblog.it/2026/11/06/legge-coltivaitalia-miliardi-agricoltura/",
+        "pubDate": "2026-11-06T09:49:23+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Contorni autunnali: le ricette da preparare oggi in casa",
+        "description": "Scopri le migliori contorni autunnali ricette: finocchi in agrodolce, patate dolci al forno, ratatouille e polpette. Ricette facili con tempi e abbinamenti.…",
+        "link": "https://www.gustoblog.it/2026/11/06/contorni-autunnali-ricette-facili/",
+        "pubDate": "2026-11-06T08:37:20+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Kellogg’s cambia per sempre i Rice Krispies e i Coco Pops: non saranno più fatti con chicchi di riso",
+        "description": "Niente più chicchi di riso nei cereali più celebri al mondo, ma solo un estruso che parte dalla farina. Il motivo è sempre quello del cambiamento climatico.\nL'a…",
+        "link": "https://www.dissapore.com/notizie/kelloggs-cambia-per-sempre-i-rice-krispies-e-i-coco-pops-non-saranno-piu-fatti-con-chicchi-di-riso/",
+        "pubDate": "2026-11-06T08:32:58+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/12/shutterstock_2293925045-scaled-e1765967630312.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ragù di nocciole e verdure: l’alternativa golosa che arriva in tavola in 40 minuti",
+        "description": "Il ragù di nocciole è un sugo vegetale che crea una base ricca e profonda. Scopri come prepararlo, i tempi di cottura e gli abbinamenti di pasta ideali.…",
+        "link": "https://www.gustoblog.it/2026/11/06/ragu-di-nocciole-alternativa-vegetale/",
+        "pubDate": "2026-11-06T08:32:05+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Pollo in friggitrice ad aria: i secondi piatti che arrivano in tavola croccanti e leggeri",
+        "description": "Scopri come preparare il petto di pollo al limone in friggitrice ad aria: tempi, temperature e tecniche per una cottura croccante e leggera.…",
+        "link": "https://www.gustoblog.it/2026/11/06/pollo-friggitrice-aria-petto-limone/",
+        "pubDate": "2026-11-06T08:29:29+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Banfi alla Mostra del Tartufo Bianco delle Crete Senesi",
+        "description": "Banfi partecipa alla quarantesima edizione della Mostra Mercato del Tartufo Bianco delle Crete Senesi, in programma a San Giovanni d’Asso. La collaborazione pre…",
+        "link": "https://www.winemag.it/banfi-alla-mostra-del-tartufo-bianco-delle-crete-senesi/",
+        "pubDate": "2026-11-06T08:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Davvero è già tempo di MasterChef Italia? Cosa sappiamo sulla nuova edizione",
+        "description": "Bruno Barbieri, Antonino Cannavacciuolo e Giorgio Locatelli tornano dal 10 dicembre con la sedicesima edizione del cooking show più amato d'Italia.\nL'articolo D…",
+        "link": "https://www.dissapore.com/notizie/davvero-e-gia-tempo-di-masterchef-italia-cosa-sappiamo-sulla-nuova-edizione/",
+        "pubDate": "2026-11-06T07:54:28+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-alle-17.43.56-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "“Se consigli una pizza e poi fa schifo, non ti guardano più”. Cooker Girl e la credibilità degli influencer",
+        "description": "Aurora Cavallo, conosciuta come Cooker Girl, racconta il rapporto tra influencer e follower, la differenza tra autenticità e credibilità e perché poter rifiutar…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cooker-girl-aurora-cavallo-influencer-credibilita-social/",
+        "pubDate": "2026-11-06T06:22:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Kellogg’s cambia la ricetta dei Rice Krispies per colpa del clima. E ora contengono anche glutine",
+        "description": "Il colosso dei cereali modifica due prodotti iconici per le difficoltà di approvvigionamento del riso. Cambiano gli ingredienti e le indicazioni sugli allergeni…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/kelloggs-rice-krispies-coco-pops-nuova-ricetta-glutine-clima/",
+        "pubDate": "2026-11-06T06:03:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Di Stefano Dolciaria festeggia 40 anni: le novità per il Natale 2026",
+        "description": "Di Stefano Dolciaria celebra nel 2026 quarant’anni di attività. Fondata nel 1986 a Raffadali, in provincia di Agrigento, l’azienda siciliana festeggia l’anniver…",
+        "link": "https://www.winemag.it/di-stefano-dolciaria-festeggia-40-anni-le-novita-per-il-natale-2026/",
+        "pubDate": "2026-11-06T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Ferrari Maximum campione del mondo al CSWWC? No, il 75 cl è argento",
         "description": "La magnum conquista il mondiale. Il 75 cl riceve l’argento. Nella newsletter che celebra il Ferrari Maximum Blanc de Blancs, diffusa dalla cantina della famigli…",
         "link": "https://www.winemag.it/ferrari-maximum-campione-del-mondo-al-cswwc-no-il-75-cl-e-solo-argento/",
@@ -394,6 +520,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "Il futuro del vino vale 447 miliardi di dollari: l’area Asia-Pacifico guiderà la crescita nei prossimi 5 anni",
+        "description": "Mercato a due velocità per volumi e valori, secondo la società indiana Mordor Intelligence che stima una ripresa della domanda dall'Australia al Giappone. In cr…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/mercati-vino-2032-asia-pacifico-analisi-mordor-intelligence/",
+        "pubDate": "2026-11-05T16:33:29+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Marco Ambrosino lascia tutti basiti e arriva a Torino da Unforgettable",
         "description": "Il ristorante torinese riparte il 18 novembre affidando la cucina al cuoco procidano, ex 28 Posti e Sùstanza. Una scelta importante, che porta con sé una domand…",
         "link": "https://www.dissapore.com/notizie/marco-ambrosino-lascia-tutti-basiti-e-arriva-a-torino-da-unforgettable/",
@@ -410,141 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Arrivò in Italia per un anno e chiese lavoro a Bottura. Oggi è stata premiata come migliore chef del mondo",
-        "description": "Jessica Rosval ha vinto il premio World's Best Female Chef dei 50 Best. Arrivata in Italia dal Canada nel 2013, ha iniziato all'Osteria Francescana e oggi guida…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/jessica-rosval-migliore-chef-donna-mondo-storia-bottura/",
-        "pubDate": "2026-11-05T15:07:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "San Martino si festeggia in cantina: gli appuntamenti in tutta Italia",
-        "description": "Degustazioni, incontri con i produttori e tradizioni autunnali: 15 giorni di eventi in tutta Italia, in collaborazione con Wine Moderation, per scoprire il perc…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/san-martino-programma-movimento-turismo-vino-2026/",
-        "pubDate": "2026-11-05T14:34:45+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Australia un cuoco è stato licenziato per non aver preparato la pizza all’ananas",
-        "description": "Dopo tre rifiuti di aggiungere l'ananas sulla pizza, un cuoco italiano ha perso il posto, e anche il visto per la residenza permanente.\nL'articolo In Australia …",
-        "link": "https://www.dissapore.com/notizie/in-australia-un-cuoco-e-stato-licenziato-per-non-aver-preparato-la-pizza-allananas/",
-        "pubDate": "2026-11-05T14:10:51+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/03/Pizza-ananas-1.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Lessona Doc, cinquant’anni di Nebbiolo dell’Alto Piemonte",
-        "description": "Festeggiamenti di produttori, Consorzio e autorità con la stampa al ristorante stellato Il Patio di Biella: ecco come la piccola denominazione è diventata grand…",
-        "link": "https://www.winemag.it/lessona-doc-cinquantanni-di-nebbiolo-dell-alto-piemonte/",
-        "pubDate": "2026-11-05T13:50:22+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/lessona-doc-cinquantanni-di-nebbiolo-dell-alto-piemonte.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Grappa del Trentino IG, annata di qualità: vinacce ottime e grappe fresche",
-        "description": "La nuova annata distillatoria della Grappa del Trentino IG si presenta con buone prospettive qualitative. Le prime valutazioni dell’Istituto Tutela Grappa del T…",
-        "link": "https://www.winemag.it/grappa-del-trentino-ig-annata-di-qualita-vinacce-ottime-e-grappe-fresche/",
-        "pubDate": "2026-11-05T13:21:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Olio extravergine a confronto: quello del discount batte davvero il premium? Il test di laboratorio che sorprende",
-        "description": "Test di laboratorio su olio extravergine rivela come i prodotti costosi non sempre vincono. Analisi chimica e organolettica di 16 bottiglie dal discount ai marc…",
-        "link": "https://www.gustoblog.it/2026/11/05/olio-extravergine-test-16-bottiglie/",
-        "pubDate": "2026-11-05T13:06:59+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "La rosata di mandorle di Altamura: il dolce pugliese che merita di tornare in tavola",
-        "description": "La rosata di mandorle è un dolce tradizionale pugliese senza burro né olio, tipico di Altamura e Toritto. Scopri gli ingredienti autentici e come prepararla.…",
-        "link": "https://www.gustoblog.it/2026/11/05/rosata-mandorle-altamura-ricetta/",
-        "pubDate": "2026-11-05T13:04:36+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Il vino schiacciato dall’inflazione: è il primo prodotto sacrificato dagli italiani nel carrello della spesa",
-        "description": "Il 35% degli italiani rinuncia al vino, mentre le aziende subiscono doppiamente la congiuntura negativa: costi in aumento e prezzi al consumo in calo. Uiv: \"Nel…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/inflazione-vino-costi-consumi/",
-        "pubDate": "2026-11-05T13:00:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Torte salate e involtini: le ricette veloci che arrivano in tavola in meno di un’ora",
-        "description": "Scopri ricette veloci salate pronte in meno di 60 minuti: torta con cipolle, involtini alle verdure e sformato di zucca in friggitrice ad aria.…",
-        "link": "https://www.gustoblog.it/2026/11/05/ricette-veloci-salate-torte-involtini/",
-        "pubDate": "2026-11-05T12:59:29+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "A Roma apre un nuovo cocktail bar in una storica caffetteria degli anni Sessanta",
-        "description": "A fine novembre aprirà Ceralacca, il nuovo cocktail bar di tre soci, due dei quali provenienti dal Jerry Thomas. Prenderà il posto di una storica caffetteria tr…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/ceralacca-nuovo-cocktail-bar-roma-amba-aradam/",
-        "pubDate": "2026-11-05T11:31:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "“Il vino migliore è quello che ricorderai”. Al via la campagna di Wine in moderation fatta dagli studenti dello Ied",
-        "description": "Uiv, Federvini e Consorzio Prosecco Doc hanno presentato a Roma \"Let the moment last\": la campagna digitale che invita a bere con moderazione per far durare il …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/campagna-wine-in-moderation-ied/",
-        "pubDate": "2026-11-05T11:14:10+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cotarella: “Il cambiamento climatico? Un falso problema. Basta solo fare attenzione”. Il dibattito divide i produttori",
-        "description": "Al termine di una vendemmia estrema, c'è chi predica prudenza e chiede tempo prima di modificare i disciplinari, c'è chi si ripara in altitudine e insiste sull'…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/cotarella-vendemmia-cambiamento-climatico/",
-        "pubDate": "2026-11-05T11:06:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le 10 migliori pasticcerie di Genova",
-        "description": "Le pasticcerie da provare a Genova, tra tradizione locale, bakery, viennoiserie e contemporanee monoporzioni. Tutte rigorosamente testate e consigliate dalla re…",
-        "link": "https://www.dissapore.com/locali/le-10-migliori-pasticcerie-di-genova/",
-        "pubDate": "2026-11-05T11:00:13+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/francesco-urbano-scaled-e1790937550339.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Château Mouton Rothschild: un secolo di etichette d’artista finisce in un’asta senza precedenti",
-        "description": "Da Picasso a Warhol, 100 anni di grandi artisti sulle etichette del Premier Cru di Bordeaux. Sotheby’s celebra la ricorrenza con un’asta da oltre 3 milioni di s…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/chateau-mouton-rothschild-asta-etichette-artisti-sothebys/",
-        "pubDate": "2026-11-05T10:52:20+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Piatti unici autunnali per la pausa pranzo in ufficio: ricette veloci da portare al lavoro",
-        "description": "Scopri piatti unici autunnali da schiscetta: ricette bilanciate con cereali, legumi e verdure di stagione, pronte in pochi minuti e perfette per il pranzo in uf…",
-        "link": "https://www.gustoblog.it/2026/11/05/piatti-unici-autunnali-schiscetta/",
-        "pubDate": "2026-11-05T10:07:07+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
