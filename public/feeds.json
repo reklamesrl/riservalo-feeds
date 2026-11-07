@@ -1,7 +1,151 @@
 {
-  "generated": "2026-11-07T12:33:57.774530+00:00",
+  "generated": "2026-11-07T21:30:04.215000+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Grechetto Colli Martani Doc 2025, Terre de la Custodia",
+        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Grechetto Colli Martani Doc 2025, Terre de la Custodia proviene da Winemag.it -…",
+        "link": "https://www.winemag.it/grechetto-colli-martani-doc-2025-terre-de-la-custodia/",
+        "pubDate": "2026-11-07T17:07:34+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Montefalco Doc Bianco 2022 Plentis, Terre de la Custodia",
+        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Montefalco Doc Bianco 2022 Plentis, Terre de la Custodia proviene da Winemag.it…",
+        "link": "https://www.winemag.it/montefalco-doc-bianco-2022-plentis-terre-de-la-custodia/",
+        "pubDate": "2026-11-07T17:07:33+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Capriano del Colle Doc Bianco 2025 Torrazza, Tenuta La Vigna",
+        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Capriano del Colle Doc Bianco 2025 Torrazza, Tenuta La Vigna proviene da Winema…",
+        "link": "https://www.winemag.it/capriano-del-colle-doc-bianco-2025-torrazza-tenuta-la-vigna/",
+        "pubDate": "2026-11-07T17:07:32+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Veneto Igt Bianco 2024 Ga.Ry, Tedeschi",
+        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Veneto Igt Bianco 2024 Ga.Ry, Tedeschi proviene da Winemag.it - Davide Bortone:…",
+        "link": "https://www.winemag.it/veneto-igt-bianco-2024-ga-ry-tedeschi/",
+        "pubDate": "2026-11-07T17:07:32+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Capriano del Colle Bianco Superiore Doc 2023 Bruma, Tenuta La Vigna",
+        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Capriano del Colle Bianco Superiore Doc 2023 Bruma, Tenuta La Vigna proviene da Winemag.i…",
+        "link": "https://www.winemag.it/capriano-del-colle-bianco-superiore-doc-2023-bruma-tenuta-la-vigna/",
+        "pubDate": "2026-11-07T17:07:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spumante Metodo classico Nature Ugo Botti, Tenuta La Vigna",
+        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Spumante Metodo classico Nature Ugo Botti, Tenuta La Vigna proviene da Winemag.it -…",
+        "link": "https://www.winemag.it/spumante-metodo-classico-nature-ugo-botti-tenuta-la-vigna/",
+        "pubDate": "2026-11-07T17:07:30+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Oltrepò pavese Doc Riesling Superiore 2025 Renio, Rebollini",
+        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Oltrepò pavese Doc Riesling Superiore 2025 Renio, Rebollini proviene da Winemag.it - Da…",
+        "link": "https://www.winemag.it/oltrepo-pavese-doc-riesling-superiore-2025-renio-rebollini/",
+        "pubDate": "2026-11-07T17:07:29+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Provincia di Pavia Igp Bianco 2025 Birba, Rebollini",
+        "description": "PUNTEGGIO WINEMAG 90 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Provincia di Pavia Igp Bianco 2025 Birba, Rebollini proviene da Winemag.it - Davide Bor…",
+        "link": "https://www.winemag.it/provincia-di-pavia-igp-bianco-2025-birba-rebollini/",
+        "pubDate": "2026-11-07T17:07:28+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Etna Bianco Doc 2023 Sul Vulcano, Donnafugata",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Bianco Doc 2023 Sul Vulcano, Donnafugata proviene da Winemag.it - Davide Bortone: wi…",
+        "link": "https://www.winemag.it/etna-bianco-doc-2023-sul-vulcano-donnafugata/",
+        "pubDate": "2026-11-07T17:07:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Maremma Toscana Doc Vermentino 2025, Sequerciani",
+        "description": "PUNTEGGIO WINEMAG 92 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Maremma Toscana Doc Vermentino 2025, Sequerciani proviene da Winemag.it - Davide Borton…",
+        "link": "https://www.winemag.it/maremma-toscana-doc-vermentino-2025-sequerciani/",
+        "pubDate": "2026-11-07T17:07:26+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Casa d’inverno: 5 acquisti intelligenti per migliorare comfort e atmosfera",
+        "description": "Quando le giornate si accorciano e la casa diventa il centro della vita quotidiana, alcuni acquisti mirati possono fare la differenza. Ecco cinque scelte pensat…",
+        "link": "https://www.stylosophy.it/articolo/casa-dinverno-acquisti-per-migliorare-comfort-e-atmosfera/245899/",
+        "pubDate": "2026-11-07T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Giulia De Lellis, Look classy-chic con la sua Hermès Birkin FOTO",
+        "description": "Giulia De Lelli sfoggia un look elegante e chic impreziosito dalla sua Hermès Birkin sui toni del viola.…",
+        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-look-classy-chic-con-la-sua-hermes-birkin-foto/254259/",
+        "pubDate": "2026-11-07T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "I prezzi mondiali del cibo sono in discesa, ma restano alti",
+        "description": "L'ultimo indice FAO porta qualche notizia positiva, ma alcune materie prime restano a livelli record.\nL'articolo I prezzi mondiali del cibo sono in discesa, ma …",
+        "link": "https://www.dissapore.com/notizie/i-prezzi-mondiali-del-cibo-sono-in-discesa-ma-restano-alti/",
+        "pubDate": "2026-11-07T12:42:46+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/farina-sacchi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Lavorava d’estate per pagarsi libri e stage. A 30 anni è diventato il miglior cioccolatiere del mondo",
+        "description": "Dalle nocciole coltivate dai nonni in Piemonte agli stage pagati lavorando d'estate, fino alle cucine di Da Vittorio. Tommaso Grollero racconta come ha conquist…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tommaso-grollero-world-chocolate-masters-2026-vincitore/",
+        "pubDate": "2026-11-07T11:34:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il formaggio blu che può essere bianco. Lo fanno soltanto quattro casari sulle Alpi",
+        "description": "Negli alpeggi della Savoia quattro produttori realizzano un erborinato a latte crudo senza aggiungere muffe selezionate. Il risultato è imprevedibile: sotto la …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bleu-de-termignon-formaggio-blu-bianco-savoia/",
+        "pubDate": "2026-11-07T11:26:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I migliori wine bar ed enoteche d’Italia sono 21. Uno dei nuovi premiati si trova dentro un campeggio",
+        "description": "Quasi tutti al Nord i nuovi ingressi nella squadra delle Tre Bottiglie (21 in tutto), massimo riconoscimento conferito dalla guida Ristoranti d'Italia ai luoghi…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/tre-bottiglie-2027-migliori-wine-bar-enoteche-cucina/",
+        "pubDate": "2026-11-07T11:24:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "American Express si è comprata The Fork: è la fine della bolla gastronomica?",
         "description": "Si è conclusa l'acquisizione iniziata lo scorso giugno, e questo dice qualcosa su cosa sta succedendo alla clientela dei ristoranti.\nL'articolo American Express…",
@@ -37,153 +181,45 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
+      }
+    ],
+    "moda": [
       {
-        "title": "Le percentuali sul cioccolato spiegate: come leggere l’etichetta e scegliere quello giusto per ogni ricetta",
-        "description": "La percentuale cioccolato indica i derivati del cacao totali. Scopri come interpretarla per scegliere il fondente, al latte o bianco giusto per ricette e gusto.…",
-        "link": "https://www.gustoblog.it/2026/11/07/percentuale-cioccolato-guida-scelta/",
-        "pubDate": "2026-11-07T08:20:59+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Snack e merenda equilibrati: le barrette energetiche e le fette croccanti che si preparano oggi in casa",
-        "description": "Scopri come preparare barrette energetiche fatte in casa ai cereali e fette croccanti con formaggio e miele. Ricette semplici senza conservanti.…",
-        "link": "https://www.gustoblog.it/2026/11/07/barrette-energetiche-fatte-casa/",
-        "pubDate": "2026-11-07T08:19:26+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Sono 7 i migliori Lugana che costano meno di 20 euro (due meno di 15 euro) arrivati a un passo dai Tre Bicchieri",
-        "description": "Dalle storiche etichette che da anni ottengono punteggi molto alti nella guida Vini d'Italia del Gambero Rosso alle interpretazioni più sorprendenti del Lugana …",
-        "link": "https://www.gamberorosso.it/notizie/vino/migliori-lugana-sotto-20-euro-2027/",
-        "pubDate": "2026-11-07T07:38:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I ristoranti sono pieni di “piattini” sempre più piccoli. Ma a Roma e Milano c’è chi fa cucina vera",
-        "description": "Porzioni da condividere, ceramiche colorate e conti che crescono: la moda dei piattini ha conquistato i ristoranti. Ma Raimondo e Cucina Franca dimostrano che d…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristoranti-piattini-roma-milano-raimondo-cucina-franca/",
-        "pubDate": "2026-11-07T07:24:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I tartufini al cioccolato sono nati da un imprevisto di Natale. Ma la storia non torna",
-        "description": "Un pasticcere francese rimasto senza ingredienti, una storica cioccolateria londinese e testimonianze che anticipano la presunta invenzione. La storia dei tartu…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tartufini-cioccolato-storia-origini-invenzione-natale/",
-        "pubDate": "2026-11-07T06:01:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Luigi Veronelli, un Vermouth celebrativo per il centenario: 1.000 bottiglie numerate",
-        "description": "Nel centenario della nascita di Luigi Veronelli arriva un Vermouth celebrativo realizzato su licenza della famiglia. Il progetto, ideato da Andrea Napoli e prod…",
-        "link": "https://www.winemag.it/luigi-veronelli-un-vermouth-celebrativo-per-il-centenario-1-000-bottiglie-numerate/",
-        "pubDate": "2026-11-07T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il re delle schiacciate apre un’osteria a Firenze. Tommaso Mazzanti di All’Antico Vinaio sceglie Palazzo Strozzi",
-        "description": "Il fondatore di All'Antico Vinaio inaugura il 12 novembre Casa AV, un'osteria contemporanea nel centro di Firenze. In menu piatti toscani, dal lampredotto agli …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/tommaso-mazzanti-casa-av-osteria-palazzo-strozzi-firenze/",
-        "pubDate": "2026-11-06T16:58:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Espresso Italiano Champion 2026, vince il 22enne sloveno Nei Pavletič",
-        "description": "Nei Pavletič è il vincitore di Espresso Italiano Champion 2026. Il barista sloveno, 22 anni, si è aggiudicato il titolo assoluto della competizione internaziona…",
-        "link": "https://www.winemag.it/espresso-italiano-champion-2026-vince-il-22enne-sloveno-nei-pavletic/",
-        "pubDate": "2026-11-06T16:35:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Trentodoc, al via il corso di alta formazione di UniTrento e Fondazione Mach",
-        "description": "Palazzo Roccabruna ha ospitato la prima lezione del corso di perfezionamento «Tradizione e innovazione nella produzione dei vini spumanti metodo classico», prom…",
-        "link": "https://www.winemag.it/trentodoc-al-via-il-corso-di-alta-formazione-di-unitrento-e-fondazione-mach/",
-        "pubDate": "2026-11-06T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Annick Goutal, tre nuove fragranze di nicchia tutte da scoprire: dalla vaniglia solare al profumo di caprifoglio",
-        "description": "La Maison amplia la propria collezione con tre Eau de Parfum che interpretano altrettante atmosfere olfattive. Dalla sensualità della vaniglia alla cremosità de…",
-        "link": "https://www.stylosophy.it/articolo/annick-goutal-tre-nuove-fragranze-di-nicchia-tutte-da-scoprire/254251/",
-        "pubDate": "2026-11-06T16:00:00+00:00",
+        "title": "Casa d’inverno: 5 acquisti intelligenti per migliorare comfort e atmosfera",
+        "description": "Quando le giornate si accorciano e la casa diventa il centro della vita quotidiana, alcuni acquisti mirati possono fare la differenza. Ecco cinque scelte pensat…",
+        "link": "https://www.stylosophy.it/articolo/casa-dinverno-acquisti-per-migliorare-comfort-e-atmosfera/245899/",
+        "pubDate": "2026-11-07T15:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
       },
       {
-        "title": "Max Mara Face of the Future 2026: il premio va ad Adria Arjona",
-        "description": "ll Max Mara Face of the Future 2026 ha una nuova protagonista: è Adria Arjona, attrice e produttrice che si è aggiudicata la ventunesima edizione del riconoscim…",
-        "link": "https://www.grazia.it/moda/news-moda/max-mara-face-of-the-future-adria-arjona-1011858",
-        "pubDate": "2026-11-06T15:18:52+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/ok-apertura-Adria-Arjona2.jpg",
+        "title": "Giulia De Lellis, Look classy-chic con la sua Hermès Birkin FOTO",
+        "description": "Giulia De Lelli sfoggia un look elegante e chic impreziosito dalla sua Hermès Birkin sui toni del viola.…",
+        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-look-classy-chic-con-la-sua-hermes-birkin-foto/254259/",
+        "pubDate": "2026-11-07T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Come indossare gli stivali: 5 abbinamenti, perfetti dall’alba al tramonto, da provare in questa stagione",
+        "description": "Non vediamo l’ora che arrivi l’autunno per rispolverarli e adesso che la stagione fredda sta per entrare nel vivo siamo pronte a sfoggiarli h24: in questo perio…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-indossare-gli-stivali-al-ginocchio-bassi-alti-con-la-gonna-con-i-jeans-abbinamenti-donna-autunno-1011312",
+        "pubDate": "2026-11-07T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_stivali_mix_match.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
       {
-        "title": "Guai per La Romana: agitazione sindacale per le gelaterie di Padova",
-        "description": "Da mesi il sindacato porta avanti una battaglia per migliorare le condizioni dei lavoratori e interrompere l'eccessivo sfruttamento dei contratti di apprendista…",
-        "link": "https://www.dissapore.com/notizie/guai-per-la-romana-agitazione-sindacale-per-le-gelaterie-di-padova/",
-        "pubDate": "2026-11-06T15:17:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/chi-siamo-torino-La-Romana.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "È cresciuta nel ristorante cinese di famiglia, ma non sa cucinare. Ora la star di Hollywood Awkwafina vuole riaprirlo",
-        "description": "Nella nuova serie Apple TV l'attrice riscopre la cucina asiatico-americana e la storia del ristorante fondato dal bisnonno nel Queens. A Gambero Rosso rivela ch…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/awkwafina-ristorante-famiglia-lums-riapertura-apple-tv/",
-        "pubDate": "2026-11-06T15:11:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Trento, vini IGT irregolari: acqua nelle vasche e provenienza sospetta",
-        "description": "Operazione della Guardia di Finanza di Trento con gli ispettori Icqrf. Perquisizioni per tre dipendenti\nL'articolo Trento, vini IGT irregolari: acqua nelle vasc…",
-        "link": "https://www.winemag.it/trento-vini-igt-irregolari-acqua-nelle-vasche-e-provenienza-sospetta/",
-        "pubDate": "2026-11-06T15:01:06+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Trento-vini-IGT-irregolari-acqua-nelle-vasche-e-provenienza-sospetta-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news!",
-        "description": "Collaborazioni che ci riportano al passato, nuove boutique, brand che esplorano nuovi orizzonti e mascotte irresistibili, tutte da regalare (o da farsi regalare…",
-        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-della-settimana-imperial-the-house-rene-caovilla-swarovski-stroili-30-anni-louis-vuitton-vivienne-date-fragranza-firenze-moorer-flagship-store-milano-furka-sylvanian-families-1011516",
-        "pubDate": "2026-11-06T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/Senza-titolo-33.jpg",
+        "title": "Jeans e pantaloni bianchi: 10 idee di styling per indossarli anche in inverno",
+        "description": "Pantaloni e jeans bianchi sono solitamente legati a un&#8217;estetica estiva, a quei mesi dell&#8217;anno in cui le temperature si alzano e anche un semplice ac…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-pantaloni-bianchi-come-indossare-idee-look-inverno-outfit-abbinamenti-styling-1009665",
+        "pubDate": "2026-11-07T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-look-pantaloni-bianchi-autunno-inverno-2026.jpg",
         "cat": "Moda",
         "source": "Grazia"
       },
-      {
-        "title": "Sembra l’ennesima pizzeria per turisti ai Quartieri Spagnoli. Invece da Santa Maradona si mangia davvero bene",
-        "description": "A pochi passi dal celebre murale di Maradona, una pizzeria aperta da giovani del quartiere propone pizze napoletane, fritti fatti in casa e un conto sorprendent…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/santa-maradona-pizzeria-quartieri-spagnoli-napoli/",
-        "pubDate": "2026-11-06T14:21:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      }
-    ],
-    "moda": [
       {
         "title": "Annick Goutal, tre nuove fragranze di nicchia tutte da scoprire: dalla vaniglia solare al profumo di caprifoglio",
         "description": "La Maison amplia la propria collezione con tre Eau de Parfum che interpretano altrettante atmosfere olfattive. Dalla sensualità della vaniglia alla cremosità de…",
@@ -284,15 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Questi cappotti corti autunno-inverno 2026 ci introducono nella stagione dei capispalla",
-        "description": "Coprirsi con stile aspettando l’arrivo dei coats extra lunghi: è questa la mission dei cappotti corti dell’autunno inverno 2026 2027. Modelli disinvolti ma chic…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/cappotti-corti-caban-donna-autunno-inverno-2026-1010293",
-        "pubDate": "2026-11-05T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_DESKTOP_cappotti_corti.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Dior lancia ‘Christian Dior’s Night in Color’, la nuova campagna per il Natale 2026",
         "description": "Dior lancia 'Christian Dior’s Night in Color', la nuova campagna per il Natale 2026.…",
         "link": "https://www.stylosophy.it/articolo/dior-lancia-christian-diors-night-in-color-la-nuova-campagna-per-il-natale-2026/254239/",
@@ -300,15 +327,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Amal Clooney non ha dubbi: è questo il cappotto su cui puntare a occhi chiusi adesso",
-        "description": "Ha un gusto impeccabile, non sbaglia mai un look e anche questa volta ci ha dato una grande lezione di stile: Amal Clooney si conferma una grande icona di elega…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/amal-clooney-cappotto-in-suede-look-abbinamenti-outfit-coat-cammello-1011127",
-        "pubDate": "2026-11-05T10:26:01+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Amal_Clooney.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Gucci lancia la Campagna ‘Gucci Gift’ per il Natale 2026 con testimonial Mariah Carey",
@@ -345,27 +363,135 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "l correttori non sono tutti uguali: ecco come scegliere quello giusto per te",
-        "description": "Dalle occhiaie ai rossori, ogni zona del viso ha esigenze diverse e richiede una formula specifica. Ecco come applicare il correttore senza appesantire il make-…",
-        "link": "https://www.stylosophy.it/articolo/l-correttori-non-sono-tutti-uguali-ecco-come-scegliere-quello-giusto-per-la-tua-pelle/254216/",
-        "pubDate": "2026-11-02T15:05:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Silvia Toffanin, a Verissimo con il coordinato in velluto perfetto per questa stagione FOTO",
-        "description": "Ecco che cosa ha indossato Silvia Toffanin per la puntata di ieri pomeriggio di Verissimo.…",
-        "link": "https://www.stylosophy.it/articolo/silvia-toffanin-a-verissimo-con-il-coordinato-in-velluto-perfetto-per-questa-stagione-foto/254211/",
-        "pubDate": "2026-11-02T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Grechetto Colli Martani Doc 2025, Terre de la Custodia",
+        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Grechetto Colli Martani Doc 2025, Terre de la Custodia proviene da Winemag.it -…",
+        "link": "https://www.winemag.it/grechetto-colli-martani-doc-2025-terre-de-la-custodia/",
+        "pubDate": "2026-11-07T17:07:34+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Montefalco Doc Bianco 2022 Plentis, Terre de la Custodia",
+        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Montefalco Doc Bianco 2022 Plentis, Terre de la Custodia proviene da Winemag.it…",
+        "link": "https://www.winemag.it/montefalco-doc-bianco-2022-plentis-terre-de-la-custodia/",
+        "pubDate": "2026-11-07T17:07:33+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Capriano del Colle Doc Bianco 2025 Torrazza, Tenuta La Vigna",
+        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Capriano del Colle Doc Bianco 2025 Torrazza, Tenuta La Vigna proviene da Winema…",
+        "link": "https://www.winemag.it/capriano-del-colle-doc-bianco-2025-torrazza-tenuta-la-vigna/",
+        "pubDate": "2026-11-07T17:07:32+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Veneto Igt Bianco 2024 Ga.Ry, Tedeschi",
+        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Veneto Igt Bianco 2024 Ga.Ry, Tedeschi proviene da Winemag.it - Davide Bortone:…",
+        "link": "https://www.winemag.it/veneto-igt-bianco-2024-ga-ry-tedeschi/",
+        "pubDate": "2026-11-07T17:07:32+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Capriano del Colle Bianco Superiore Doc 2023 Bruma, Tenuta La Vigna",
+        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Capriano del Colle Bianco Superiore Doc 2023 Bruma, Tenuta La Vigna proviene da Winemag.i…",
+        "link": "https://www.winemag.it/capriano-del-colle-bianco-superiore-doc-2023-bruma-tenuta-la-vigna/",
+        "pubDate": "2026-11-07T17:07:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Spumante Metodo classico Nature Ugo Botti, Tenuta La Vigna",
+        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Spumante Metodo classico Nature Ugo Botti, Tenuta La Vigna proviene da Winemag.it -…",
+        "link": "https://www.winemag.it/spumante-metodo-classico-nature-ugo-botti-tenuta-la-vigna/",
+        "pubDate": "2026-11-07T17:07:30+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Oltrepò pavese Doc Riesling Superiore 2025 Renio, Rebollini",
+        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Oltrepò pavese Doc Riesling Superiore 2025 Renio, Rebollini proviene da Winemag.it - Da…",
+        "link": "https://www.winemag.it/oltrepo-pavese-doc-riesling-superiore-2025-renio-rebollini/",
+        "pubDate": "2026-11-07T17:07:29+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Provincia di Pavia Igp Bianco 2025 Birba, Rebollini",
+        "description": "PUNTEGGIO WINEMAG 90 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Provincia di Pavia Igp Bianco 2025 Birba, Rebollini proviene da Winemag.it - Davide Bor…",
+        "link": "https://www.winemag.it/provincia-di-pavia-igp-bianco-2025-birba-rebollini/",
+        "pubDate": "2026-11-07T17:07:28+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Etna Bianco Doc 2023 Sul Vulcano, Donnafugata",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Bianco Doc 2023 Sul Vulcano, Donnafugata proviene da Winemag.it - Davide Bortone: wi…",
+        "link": "https://www.winemag.it/etna-bianco-doc-2023-sul-vulcano-donnafugata/",
+        "pubDate": "2026-11-07T17:07:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Maremma Toscana Doc Vermentino 2025, Sequerciani",
+        "description": "PUNTEGGIO WINEMAG 92 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Maremma Toscana Doc Vermentino 2025, Sequerciani proviene da Winemag.it - Davide Borton…",
+        "link": "https://www.winemag.it/maremma-toscana-doc-vermentino-2025-sequerciani/",
+        "pubDate": "2026-11-07T17:07:26+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "I prezzi mondiali del cibo sono in discesa, ma restano alti",
+        "description": "L'ultimo indice FAO porta qualche notizia positiva, ma alcune materie prime restano a livelli record.\nL'articolo I prezzi mondiali del cibo sono in discesa, ma …",
+        "link": "https://www.dissapore.com/notizie/i-prezzi-mondiali-del-cibo-sono-in-discesa-ma-restano-alti/",
+        "pubDate": "2026-11-07T12:42:46+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/farina-sacchi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Lavorava d’estate per pagarsi libri e stage. A 30 anni è diventato il miglior cioccolatiere del mondo",
+        "description": "Dalle nocciole coltivate dai nonni in Piemonte agli stage pagati lavorando d'estate, fino alle cucine di Da Vittorio. Tommaso Grollero racconta come ha conquist…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tommaso-grollero-world-chocolate-masters-2026-vincitore/",
+        "pubDate": "2026-11-07T11:34:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il formaggio blu che può essere bianco. Lo fanno soltanto quattro casari sulle Alpi",
+        "description": "Negli alpeggi della Savoia quattro produttori realizzano un erborinato a latte crudo senza aggiungere muffe selezionate. Il risultato è imprevedibile: sotto la …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bleu-de-termignon-formaggio-blu-bianco-savoia/",
+        "pubDate": "2026-11-07T11:26:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "I migliori wine bar ed enoteche d’Italia sono 21. Uno dei nuovi premiati si trova dentro un campeggio",
+        "description": "Quasi tutti al Nord i nuovi ingressi nella squadra delle Tre Bottiglie (21 in tutto), massimo riconoscimento conferito dalla guida Ristoranti d'Italia ai luoghi…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/tre-bottiglie-2027-migliori-wine-bar-enoteche-cucina/",
+        "pubDate": "2026-11-07T11:24:15+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "American Express si è comprata The Fork: è la fine della bolla gastronomica?",
         "description": "Si è conclusa l'acquisizione iniziata lo scorso giugno, e questo dice qualcosa su cosa sta succedendo alla clientela dei ristoranti.\nL'articolo American Express…",
@@ -403,6 +529,15 @@
         "source": "Gustoblog"
       },
       {
+        "title": "A Palermo un tempo si mangiavano pesci fatti con la farina di ceci. La storia delle panelle",
+        "description": "Farina di ceci, acqua e olio: le panelle sono uno dei simboli dello street food palermitano. Ma un tempo avevano anche la forma di pesci e si mangiavano sopratt…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panelle-palermitane-vegane-storia/",
+        "pubDate": "2026-11-07T08:51:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Le percentuali sul cioccolato spiegate: come leggere l’etichetta e scegliere quello giusto per ogni ricetta",
         "description": "La percentuale cioccolato indica i derivati del cacao totali. Scopri come interpretarla per scegliere il fondente, al latte o bianco giusto per ricette e gusto.…",
         "link": "https://www.gustoblog.it/2026/11/07/percentuale-cioccolato-guida-scelta/",
@@ -410,141 +545,6 @@
         "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
         "cat": "Food",
         "source": "Gustoblog"
-      },
-      {
-        "title": "Snack e merenda equilibrati: le barrette energetiche e le fette croccanti che si preparano oggi in casa",
-        "description": "Scopri come preparare barrette energetiche fatte in casa ai cereali e fette croccanti con formaggio e miele. Ricette semplici senza conservanti.…",
-        "link": "https://www.gustoblog.it/2026/11/07/barrette-energetiche-fatte-casa/",
-        "pubDate": "2026-11-07T08:19:26+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Sono 7 i migliori Lugana che costano meno di 20 euro (due meno di 15 euro) arrivati a un passo dai Tre Bicchieri",
-        "description": "Dalle storiche etichette che da anni ottengono punteggi molto alti nella guida Vini d'Italia del Gambero Rosso alle interpretazioni più sorprendenti del Lugana …",
-        "link": "https://www.gamberorosso.it/notizie/vino/migliori-lugana-sotto-20-euro-2027/",
-        "pubDate": "2026-11-07T07:38:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I ristoranti sono pieni di “piattini” sempre più piccoli. Ma a Roma e Milano c’è chi fa cucina vera",
-        "description": "Porzioni da condividere, ceramiche colorate e conti che crescono: la moda dei piattini ha conquistato i ristoranti. Ma Raimondo e Cucina Franca dimostrano che d…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/ristoranti-piattini-roma-milano-raimondo-cucina-franca/",
-        "pubDate": "2026-11-07T07:24:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I tartufini al cioccolato sono nati da un imprevisto di Natale. Ma la storia non torna",
-        "description": "Un pasticcere francese rimasto senza ingredienti, una storica cioccolateria londinese e testimonianze che anticipano la presunta invenzione. La storia dei tartu…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tartufini-cioccolato-storia-origini-invenzione-natale/",
-        "pubDate": "2026-11-07T06:01:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Luigi Veronelli, un Vermouth celebrativo per il centenario: 1.000 bottiglie numerate",
-        "description": "Nel centenario della nascita di Luigi Veronelli arriva un Vermouth celebrativo realizzato su licenza della famiglia. Il progetto, ideato da Andrea Napoli e prod…",
-        "link": "https://www.winemag.it/luigi-veronelli-un-vermouth-celebrativo-per-il-centenario-1-000-bottiglie-numerate/",
-        "pubDate": "2026-11-07T06:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Il re delle schiacciate apre un’osteria a Firenze. Tommaso Mazzanti di All’Antico Vinaio sceglie Palazzo Strozzi",
-        "description": "Il fondatore di All'Antico Vinaio inaugura il 12 novembre Casa AV, un'osteria contemporanea nel centro di Firenze. In menu piatti toscani, dal lampredotto agli …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/tommaso-mazzanti-casa-av-osteria-palazzo-strozzi-firenze/",
-        "pubDate": "2026-11-06T16:58:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Espresso Italiano Champion 2026, vince il 22enne sloveno Nei Pavletič",
-        "description": "Nei Pavletič è il vincitore di Espresso Italiano Champion 2026. Il barista sloveno, 22 anni, si è aggiudicato il titolo assoluto della competizione internaziona…",
-        "link": "https://www.winemag.it/espresso-italiano-champion-2026-vince-il-22enne-sloveno-nei-pavletic/",
-        "pubDate": "2026-11-06T16:35:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Trentodoc, al via il corso di alta formazione di UniTrento e Fondazione Mach",
-        "description": "Palazzo Roccabruna ha ospitato la prima lezione del corso di perfezionamento «Tradizione e innovazione nella produzione dei vini spumanti metodo classico», prom…",
-        "link": "https://www.winemag.it/trentodoc-al-via-il-corso-di-alta-formazione-di-unitrento-e-fondazione-mach/",
-        "pubDate": "2026-11-06T16:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Guai per La Romana: agitazione sindacale per le gelaterie di Padova",
-        "description": "Da mesi il sindacato porta avanti una battaglia per migliorare le condizioni dei lavoratori e interrompere l'eccessivo sfruttamento dei contratti di apprendista…",
-        "link": "https://www.dissapore.com/notizie/guai-per-la-romana-agitazione-sindacale-per-le-gelaterie-di-padova/",
-        "pubDate": "2026-11-06T15:17:47+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/chi-siamo-torino-La-Romana.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "È cresciuta nel ristorante cinese di famiglia, ma non sa cucinare. Ora la star di Hollywood Awkwafina vuole riaprirlo",
-        "description": "Nella nuova serie Apple TV l'attrice riscopre la cucina asiatico-americana e la storia del ristorante fondato dal bisnonno nel Queens. A Gambero Rosso rivela ch…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/awkwafina-ristorante-famiglia-lums-riapertura-apple-tv/",
-        "pubDate": "2026-11-06T15:11:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Trento, vini IGT irregolari: acqua nelle vasche e provenienza sospetta",
-        "description": "Operazione della Guardia di Finanza di Trento con gli ispettori Icqrf. Perquisizioni per tre dipendenti\nL'articolo Trento, vini IGT irregolari: acqua nelle vasc…",
-        "link": "https://www.winemag.it/trento-vini-igt-irregolari-acqua-nelle-vasche-e-provenienza-sospetta/",
-        "pubDate": "2026-11-06T15:01:06+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Trento-vini-IGT-irregolari-acqua-nelle-vasche-e-provenienza-sospetta-1.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Sembra l’ennesima pizzeria per turisti ai Quartieri Spagnoli. Invece da Santa Maradona si mangia davvero bene",
-        "description": "A pochi passi dal celebre murale di Maradona, una pizzeria aperta da giovani del quartiere propone pizze napoletane, fritti fatti in casa e un conto sorprendent…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/santa-maradona-pizzeria-quartieri-spagnoli-napoli/",
-        "pubDate": "2026-11-06T14:21:22+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Un formaggio canadese da 90 dollari al chilo rischia di costarne 135",
-        "description": "Dopo i premi internazionali e i primi successi nei negozi americani, i piccoli caseifici canadesi devono affrontare i nuovi dazi statunitensi. Prezzi in aumento…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/formaggi-canadesi-dazi-trump-50-percento-usa/",
-        "pubDate": "2026-11-06T14:14:06+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Parmigiano Reggiano, Gavasseto e Roncadella diventano Nuova Latteria Fontana",
-        "description": "Fare sistema per resistere e crescere. È questo il senso con cui Legacoop Agroalimentare accoglie l’incorporazione del Caseificio Gavasseto e Roncadella nella N…",
-        "link": "https://www.winemag.it/parmigiano-reggiano-gavasseto-roncadella-fusione-nuova-latteria-fontana/",
-        "pubDate": "2026-11-06T13:20:07+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dopo le elezioni Usa volano i titoli di birra e whisky. Perché gli investitori scommettono sui Democratici",
-        "description": "Dopo le elezioni americane, gli investitori guardano ai possibili cambiamenti nelle politiche migratorie e commerciali di Trump. Le aspettative favoriscono i pr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/elezioni-usa-democratici-birra-whisky-azioni-borsa/",
-        "pubDate": "2026-11-06T13:02:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
