@@ -1,7 +1,88 @@
 {
-  "generated": "2026-11-07T21:30:04.215000+00:00",
+  "generated": "2026-11-08T12:51:45.242921+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Borgo Santa Sophia, relais tra mito e archeologia nel cuore dei Campi Flegrei",
+        "description": "A Cuma, nel territorio dei Campi Flegrei, ha aperto da pochi mesi Borgo Santa Sophia, relais ricavato da un progetto di recupero architettonico e paesaggistico …",
+        "link": "https://www.winemag.it/borgo-santa-sophia-relais-tra-mito-e-archeologia-nel-cuore-dei-campi-flegrei/",
+        "pubDate": "2026-11-08T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Torte salate: dalla genovese alle cipolle, ricette facili da preparare oggi in casa",
+        "description": "Scopri due varianti di torta salata con cipolle: la ricetta tradizionale genovese con pasta matta e prescinseua, e la versione moderna con pasta sfoglia e cipol…",
+        "link": "https://www.gustoblog.it/2026/11/08/torta-salata-cipolle-genovese/",
+        "pubDate": "2026-11-08T08:22:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Piatti vegetariani d’autunno: funghi e verdure, ricette semplici che arrivano in tavola in 30 minuti",
+        "description": "Scopri tre ricette vegetariane autunnali con funghi, verdure di stagione e proteine vegetali: spezzatino di funghi, porcini trifolati e cipolle farcite.…",
+        "link": "https://www.gustoblog.it/2026/11/08/ricette-vegetariane-autunno-funghi-verdure/",
+        "pubDate": "2026-11-08T08:20:27+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Primi piatti d’autunno con le verdure di stagione: ricette cremose da portare in tavola",
+        "description": "Scopri i migliori primi piatti autunnali con zucca, funghi e cavolo viola. Ricette cremose e facili da preparare in 30-45 minuti per cene in famiglia.…",
+        "link": "https://www.gustoblog.it/2026/11/08/primi-piatti-autunnali-verdure-stagione/",
+        "pubDate": "2026-11-08T08:17:47+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Risotto cremoso: tre varianti da tavola in 30 minuti",
+        "description": "Scopri ricette di risotto cremoso facili e veloci: prosciutto e piselli, puttanesca bianco e alla monzese. Pronte in 30 minuti per cene in famiglia.…",
+        "link": "https://www.gustoblog.it/2026/11/08/risotto-cremoso-ricette-30-minuti/",
+        "pubDate": "2026-11-08T08:15:14+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Funghi e nocciole: i protagonisti dell’autunno in cucina",
+        "description": "Scopri le migliori ricette autunnali con funghi e nocciole: dalla polenta concia ai ragù vegetariani, piatti tradizionali montanari e varianti regionali.…",
+        "link": "https://www.gustoblog.it/2026/11/08/ricette-autunnali-funghi-nocciole/",
+        "pubDate": "2026-11-08T08:12:52+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "“Ho dormito su tutti i tappeti del ristorante”. La vita nascosta di Ciccio Sultano, che a 9 anni faceva il muratore",
+        "description": "A nove anni lavorava come muratore, a sedici viveva da solo. Lo chef due stelle Michelin racconta l'infanzia senza padre, i sacrifici e il prezzo del successo:…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ciccio-sultano-intervista-infanzia-muratore-vita-privata/",
+        "pubDate": "2026-11-08T06:54:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Spumanti dell’Etna 2026, degustazioni e masterclass dal 27 al 29 novembre",
+        "description": "L’ottava edizione di Spumanti dell’Etna torna dal 27 al 29 novembre 2026 con tre giorni dedicati al Metodo Classico prodotto sul vulcano. Il programma prevede c…",
+        "link": "https://www.winemag.it/spumanti-delletna-2026-degustazioni-e-masterclass-dal-27-al-29-novembre/",
+        "pubDate": "2026-11-08T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "A 9 anni lavava le teglie nelle pasticcerie di Napoli. Oggi ha una pasticceria tutta sua",
+        "description": "Ha cominciato a nove anni nei laboratori dei grandi pasticcieri napoletani, prendendo appunti di nascosto. Oggi Ugo Mignone gestisce con i figli una pasticceria…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ugo-mignone-pasticceria-napoli-storia-pastiera/",
+        "pubDate": "2026-11-08T05:44:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Grechetto Colli Martani Doc 2025, Terre de la Custodia",
         "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Grechetto Colli Martani Doc 2025, Terre de la Custodia proviene da Winemag.it -…",
@@ -75,24 +156,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Etna Bianco Doc 2023 Sul Vulcano, Donnafugata",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Bianco Doc 2023 Sul Vulcano, Donnafugata proviene da Winemag.it - Davide Bortone: wi…",
-        "link": "https://www.winemag.it/etna-bianco-doc-2023-sul-vulcano-donnafugata/",
-        "pubDate": "2026-11-07T17:07:27+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Maremma Toscana Doc Vermentino 2025, Sequerciani",
-        "description": "PUNTEGGIO WINEMAG 92 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Maremma Toscana Doc Vermentino 2025, Sequerciani proviene da Winemag.it - Davide Borton…",
-        "link": "https://www.winemag.it/maremma-toscana-doc-vermentino-2025-sequerciani/",
-        "pubDate": "2026-11-07T17:07:26+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Casa d’inverno: 5 acquisti intelligenti per migliorare comfort e atmosfera",
         "description": "Quando le giornate si accorciano e la casa diventa il centro della vita quotidiana, alcuni acquisti mirati possono fare la differenza. Ecco cinque scelte pensat…",
         "link": "https://www.stylosophy.it/articolo/casa-dinverno-acquisti-per-migliorare-comfort-e-atmosfera/245899/",
@@ -118,69 +181,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/11/farina-sacchi-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Food",
         "source": "Dissapore"
-      },
-      {
-        "title": "Lavorava d’estate per pagarsi libri e stage. A 30 anni è diventato il miglior cioccolatiere del mondo",
-        "description": "Dalle nocciole coltivate dai nonni in Piemonte agli stage pagati lavorando d'estate, fino alle cucine di Da Vittorio. Tommaso Grollero racconta come ha conquist…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tommaso-grollero-world-chocolate-masters-2026-vincitore/",
-        "pubDate": "2026-11-07T11:34:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il formaggio blu che può essere bianco. Lo fanno soltanto quattro casari sulle Alpi",
-        "description": "Negli alpeggi della Savoia quattro produttori realizzano un erborinato a latte crudo senza aggiungere muffe selezionate. Il risultato è imprevedibile: sotto la …",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/bleu-de-termignon-formaggio-blu-bianco-savoia/",
-        "pubDate": "2026-11-07T11:26:51+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I migliori wine bar ed enoteche d’Italia sono 21. Uno dei nuovi premiati si trova dentro un campeggio",
-        "description": "Quasi tutti al Nord i nuovi ingressi nella squadra delle Tre Bottiglie (21 in tutto), massimo riconoscimento conferito dalla guida Ristoranti d'Italia ai luoghi…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/tre-bottiglie-2027-migliori-wine-bar-enoteche-cucina/",
-        "pubDate": "2026-11-07T11:24:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "American Express si è comprata The Fork: è la fine della bolla gastronomica?",
-        "description": "Si è conclusa l'acquisizione iniziata lo scorso giugno, e questo dice qualcosa su cosa sta succedendo alla clientela dei ristoranti.\nL'articolo American Express…",
-        "link": "https://www.dissapore.com/notizie/american-express-si-e-comprata-the-fork-e-la-fine-della-bolla-gastronomica/",
-        "pubDate": "2026-11-07T10:23:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/shutterstock_2519879639-scaled-e1781527614403.jpg?width=300&height=150&quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dolci al cucchiaio senza forno: ricette veloci con pochi ingredienti",
-        "description": "Scopri tre dolci al cucchiaio senza forno pronti in pochi minuti: coppa al cioccolato con Pavesini, cestini allo yogurt e fette croccanti con crema di formaggio…",
-        "link": "https://www.gustoblog.it/2026/11/07/dolci-cucchiaio-senza-forno-ricette/",
-        "pubDate": "2026-11-07T09:51:53+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Torte salate e antipasti: dall’erbazzone reggiano agli involtini di verdure, ricette facili da preparare oggi in casa",
-        "description": "Scopri le migliori torte salate ricette della tradizione italiana: dall'erbazzone reggiano alla torta alla genovese, involtini e preparazioni per buffet.…",
-        "link": "https://www.gustoblog.it/2026/11/07/torte-salate-ricette-erbazzone-involtini/",
-        "pubDate": "2026-11-07T09:49:31+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Radicchio dell’orso, il ‘radicchio dei ghiacciai’ che cresce al disgelo",
-        "description": "Il radicchio dell'orso è un ortaggio raro che cresce ai margini dei nevai in montagna oltre duemila metri. Scopri come riconoscerlo, raccoglierlo e usarlo in cu…",
-        "link": "https://www.gustoblog.it/2026/11/07/radicchio-dell-orso-ghiacciai/",
-        "pubDate": "2026-11-07T09:46:57+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ],
     "moda": [
@@ -367,6 +367,87 @@
     ],
     "lifestyle": [
       {
+        "title": "Borgo Santa Sophia, relais tra mito e archeologia nel cuore dei Campi Flegrei",
+        "description": "A Cuma, nel territorio dei Campi Flegrei, ha aperto da pochi mesi Borgo Santa Sophia, relais ricavato da un progetto di recupero architettonico e paesaggistico …",
+        "link": "https://www.winemag.it/borgo-santa-sophia-relais-tra-mito-e-archeologia-nel-cuore-dei-campi-flegrei/",
+        "pubDate": "2026-11-08T09:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Torte salate: dalla genovese alle cipolle, ricette facili da preparare oggi in casa",
+        "description": "Scopri due varianti di torta salata con cipolle: la ricetta tradizionale genovese con pasta matta e prescinseua, e la versione moderna con pasta sfoglia e cipol…",
+        "link": "https://www.gustoblog.it/2026/11/08/torta-salata-cipolle-genovese/",
+        "pubDate": "2026-11-08T08:22:51+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Piatti vegetariani d’autunno: funghi e verdure, ricette semplici che arrivano in tavola in 30 minuti",
+        "description": "Scopri tre ricette vegetariane autunnali con funghi, verdure di stagione e proteine vegetali: spezzatino di funghi, porcini trifolati e cipolle farcite.…",
+        "link": "https://www.gustoblog.it/2026/11/08/ricette-vegetariane-autunno-funghi-verdure/",
+        "pubDate": "2026-11-08T08:20:27+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Primi piatti d’autunno con le verdure di stagione: ricette cremose da portare in tavola",
+        "description": "Scopri i migliori primi piatti autunnali con zucca, funghi e cavolo viola. Ricette cremose e facili da preparare in 30-45 minuti per cene in famiglia.…",
+        "link": "https://www.gustoblog.it/2026/11/08/primi-piatti-autunnali-verdure-stagione/",
+        "pubDate": "2026-11-08T08:17:47+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Risotto cremoso: tre varianti da tavola in 30 minuti",
+        "description": "Scopri ricette di risotto cremoso facili e veloci: prosciutto e piselli, puttanesca bianco e alla monzese. Pronte in 30 minuti per cene in famiglia.…",
+        "link": "https://www.gustoblog.it/2026/11/08/risotto-cremoso-ricette-30-minuti/",
+        "pubDate": "2026-11-08T08:15:14+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "Funghi e nocciole: i protagonisti dell’autunno in cucina",
+        "description": "Scopri le migliori ricette autunnali con funghi e nocciole: dalla polenta concia ai ragù vegetariani, piatti tradizionali montanari e varianti regionali.…",
+        "link": "https://www.gustoblog.it/2026/11/08/ricette-autunnali-funghi-nocciole/",
+        "pubDate": "2026-11-08T08:12:52+00:00",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
+        "cat": "Food",
+        "source": "Gustoblog"
+      },
+      {
+        "title": "“Ho dormito su tutti i tappeti del ristorante”. La vita nascosta di Ciccio Sultano, che a 9 anni faceva il muratore",
+        "description": "A nove anni lavorava come muratore, a sedici viveva da solo. Lo chef due stelle Michelin racconta l'infanzia senza padre, i sacrifici e il prezzo del successo:…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ciccio-sultano-intervista-infanzia-muratore-vita-privata/",
+        "pubDate": "2026-11-08T06:54:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Spumanti dell’Etna 2026, degustazioni e masterclass dal 27 al 29 novembre",
+        "description": "L’ottava edizione di Spumanti dell’Etna torna dal 27 al 29 novembre 2026 con tre giorni dedicati al Metodo Classico prodotto sul vulcano. Il programma prevede c…",
+        "link": "https://www.winemag.it/spumanti-delletna-2026-degustazioni-e-masterclass-dal-27-al-29-novembre/",
+        "pubDate": "2026-11-08T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "A 9 anni lavava le teglie nelle pasticcerie di Napoli. Oggi ha una pasticceria tutta sua",
+        "description": "Ha cominciato a nove anni nei laboratori dei grandi pasticcieri napoletani, prendendo appunti di nascosto. Oggi Ugo Mignone gestisce con i figli una pasticceria…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ugo-mignone-pasticceria-napoli-storia-pastiera/",
+        "pubDate": "2026-11-08T05:44:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Grechetto Colli Martani Doc 2025, Terre de la Custodia",
         "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Grechetto Colli Martani Doc 2025, Terre de la Custodia proviene da Winemag.it -…",
         "link": "https://www.winemag.it/grechetto-colli-martani-doc-2025-terre-de-la-custodia/",
@@ -439,24 +520,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Etna Bianco Doc 2023 Sul Vulcano, Donnafugata",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Etna Bianco Doc 2023 Sul Vulcano, Donnafugata proviene da Winemag.it - Davide Bortone: wi…",
-        "link": "https://www.winemag.it/etna-bianco-doc-2023-sul-vulcano-donnafugata/",
-        "pubDate": "2026-11-07T17:07:27+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Maremma Toscana Doc Vermentino 2025, Sequerciani",
-        "description": "PUNTEGGIO WINEMAG 92 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Maremma Toscana Doc Vermentino 2025, Sequerciani proviene da Winemag.it - Davide Borton…",
-        "link": "https://www.winemag.it/maremma-toscana-doc-vermentino-2025-sequerciani/",
-        "pubDate": "2026-11-07T17:07:26+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "I prezzi mondiali del cibo sono in discesa, ma restano alti",
         "description": "L'ultimo indice FAO porta qualche notizia positiva, ma alcune materie prime restano a livelli record.\nL'articolo I prezzi mondiali del cibo sono in discesa, ma …",
         "link": "https://www.dissapore.com/notizie/i-prezzi-mondiali-del-cibo-sono-in-discesa-ma-restano-alti/",
@@ -482,69 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "I migliori wine bar ed enoteche d’Italia sono 21. Uno dei nuovi premiati si trova dentro un campeggio",
-        "description": "Quasi tutti al Nord i nuovi ingressi nella squadra delle Tre Bottiglie (21 in tutto), massimo riconoscimento conferito dalla guida Ristoranti d'Italia ai luoghi…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/tre-bottiglie-2027-migliori-wine-bar-enoteche-cucina/",
-        "pubDate": "2026-11-07T11:24:15+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "American Express si è comprata The Fork: è la fine della bolla gastronomica?",
-        "description": "Si è conclusa l'acquisizione iniziata lo scorso giugno, e questo dice qualcosa su cosa sta succedendo alla clientela dei ristoranti.\nL'articolo American Express…",
-        "link": "https://www.dissapore.com/notizie/american-express-si-e-comprata-the-fork-e-la-fine-della-bolla-gastronomica/",
-        "pubDate": "2026-11-07T10:23:33+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/06/shutterstock_2519879639-scaled-e1781527614403.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Dolci al cucchiaio senza forno: ricette veloci con pochi ingredienti",
-        "description": "Scopri tre dolci al cucchiaio senza forno pronti in pochi minuti: coppa al cioccolato con Pavesini, cestini allo yogurt e fette croccanti con crema di formaggio…",
-        "link": "https://www.gustoblog.it/2026/11/07/dolci-cucchiaio-senza-forno-ricette/",
-        "pubDate": "2026-11-07T09:51:53+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Torte salate e antipasti: dall’erbazzone reggiano agli involtini di verdure, ricette facili da preparare oggi in casa",
-        "description": "Scopri le migliori torte salate ricette della tradizione italiana: dall'erbazzone reggiano alla torta alla genovese, involtini e preparazioni per buffet.…",
-        "link": "https://www.gustoblog.it/2026/11/07/torte-salate-ricette-erbazzone-involtini/",
-        "pubDate": "2026-11-07T09:49:31+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "Radicchio dell’orso, il ‘radicchio dei ghiacciai’ che cresce al disgelo",
-        "description": "Il radicchio dell'orso è un ortaggio raro che cresce ai margini dei nevai in montagna oltre duemila metri. Scopri come riconoscerlo, raccoglierlo e usarlo in cu…",
-        "link": "https://www.gustoblog.it/2026/11/07/radicchio-dell-orso-ghiacciai/",
-        "pubDate": "2026-11-07T09:46:57+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
-      },
-      {
-        "title": "A Palermo un tempo si mangiavano pesci fatti con la farina di ceci. La storia delle panelle",
-        "description": "Farina di ceci, acqua e olio: le panelle sono uno dei simboli dello street food palermitano. Ma un tempo avevano anche la forma di pesci e si mangiavano sopratt…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/panelle-palermitane-vegane-storia/",
-        "pubDate": "2026-11-07T08:51:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Le percentuali sul cioccolato spiegate: come leggere l’etichetta e scegliere quello giusto per ogni ricetta",
-        "description": "La percentuale cioccolato indica i derivati del cacao totali. Scopri come interpretarla per scegliere il fondente, al latte o bianco giusto per ricette e gusto.…",
-        "link": "https://www.gustoblog.it/2026/11/07/percentuale-cioccolato-guida-scelta/",
-        "pubDate": "2026-11-07T08:20:59+00:00",
-        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=70",
-        "cat": "Food",
-        "source": "Gustoblog"
       }
     ]
   }
