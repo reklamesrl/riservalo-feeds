@@ -1,7 +1,52 @@
 {
-  "generated": "2026-11-10T22:54:34.172499+00:00",
+  "generated": "2026-11-11T13:40:49.299116+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Anche i prodotti senza zucchero nel mirino dell’OMS. Le nuove regole su aromi e dolcificanti",
+        "description": "L'OMS propone di valutare gli alimenti industriali anche in base ad aromi, coloranti e dolcificanti. Le aziende contestano il modello, ora in consultazione pubb…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/oms-alimenti-industriali-nuovi-criteri-aromi-dolcificanti/",
+        "pubDate": "2026-11-11T08:49:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Giappone servono sei mesi per una ciotola. Dopo il terremoto gli artigiani lavorano nei container",
+        "description": "A Wajima, in Giappone, ciotole e piatti richiedono mesi di lavorazione. Dopo il terremoto del 2024, alcuni artigiani hanno ripreso a produrli nei container…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/wajima-lacca-giappone-ciotole-artigiani-terremoto/",
+        "pubDate": "2026-11-11T08:31:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo stesso Barolo assaggiato a distanza di sei anni di vendemmia. Ecco come cambia un vino prestigioso",
+        "description": "Tre annate della Riserva Cannubi 1752 e tre Barolo 2022 di Damilano mostrano come il Nebbiolo cambi con il tempo e con il vigneto, anche a pochi chilometri di d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/damilano-barolo-cannubi-riserva-1752-verticale-annate/",
+        "pubDate": "2026-11-11T08:25:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Parte da Roma in bicicletta per raggiungere la moglie in Giappone. Ha fatto 15.600 chilometri e ha mangiato cose incredibili",
+        "description": "Leonardo Scarton ha pedalato per nove mesi da Roma a Kyoto per raggiungere la moglie. Tra pasti da 3 euro e ospitalità nomade, racconta le cucine incontrate in …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/leonardo-scarton-roma-giappone-bicicletta-viaggio-cibo/",
+        "pubDate": "2026-11-11T08:18:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "KFC a Cortina ci indigna. Ma il pollo fritto in mezzo alla storia ci va bene?",
+        "description": "Ci indigniamo per il pollo fritto sulle Dolomiti, ma sembriamo molto più tolleranti quando le grandi catene del fast food conquistano i centri storici delle nos…",
+        "link": "https://www.dissapore.com/notizie/kfc-a-cortina-ci-indigna-ma-il-pollo-fritto-in-mezzo-alla-storia-ci-va-bene/",
+        "pubDate": "2026-11-11T08:01:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/Cortina-KFC.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
       {
         "title": "Mimì alla Ferrovia di Napoli è la migliore trattoria d’Italia 2027: ecco perché 50 Top Italy l’ha premiata",
         "description": "Mimì alla Ferrovia di Napoli è la migliore trattoria Italia secondo 50 Top Italy 2027. Scopri il podio e le 110 trattorie della guida.…",
@@ -21,51 +66,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Alto Adige Doc Gewurztraminer Passito 2022 Cresta, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Gewurztraminer Passito 2022 Cresta, Rottensteiner proviene da Wi…",
-        "link": "https://www.winemag.it/alto-adige-doc-gewurztraminer-passito-2022-cresta-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alto Adige Doc Lagrein Gries Riserva Trigon 2023, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Lagrein Gries Riserva Trigon 2023, Rottensteiner proviene da Win…",
-        "link": "https://www.winemag.it/alto-adige-doc-lagrein-gries-riserva-trigon-2023-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:12+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alto Adige Doc Lagrein Gries Riserva 2023 Select, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Lagrein Gries Riserva 2023 Select, Rottensteiner proviene da Win…",
-        "link": "https://www.winemag.it/alto-adige-doc-lagrein-gries-riserva-2023-select-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alto Adige Doc Santa Maddalena Classico Vigna Premstallerhof 2025, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Santa Maddalena Classico Vigna Premstallerhof 2025, Rottensteine…",
-        "link": "https://www.winemag.it/alto-adige-doc-santa-maddalena-classico-vigna-premstallerhof-2025-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:10+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alto Adige Doc Gewurztraminer 2025 Cancenai, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Gewurztraminer 2025 Cancenai, Rottensteiner proviene da Winemag.…",
-        "link": "https://www.winemag.it/alto-adige-doc-gewurztraminer-2025-cancenai-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:10+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Le indagini sulla cantina Mezzacorona indicano che il vino non è affatto in crisi",
         "description": "La Guardia di Finanza sequestra 60mila bottiglie di vino Mezzacorona: il sospetto è che l'uva non sia abbastanza trentina. Un'indagine che riaccende i riflettor…",
         "link": "https://www.dissapore.com/bere/le-indagini-sulla-cantina-mezzacorona-indicano-che-il-vino-non-e-affatto-in-crisi/",
@@ -82,15 +82,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Alto Adige Doc Pinot Bianco 2025 Carnol, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Pinot Bianco 2025 Carnol, Rottensteiner proviene da Winemag.it -…",
-        "link": "https://www.winemag.it/alto-adige-doc-pinot-bianco-2025-carnol-rottensteiner/",
-        "pubDate": "2026-11-10T16:28:21+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "A Frosinone uno dei casi più gravi di sempre di funghi mortali: come è possibile?",
@@ -178,6 +169,15 @@
         "description": "Faloria Spa chiarisce il progetto dopo le polemiche sui rendering: il rifugio non cambierà aspetto e soltanto sei prodotti KFC entreranno nel menu del bar…",
         "link": "https://www.gamberorosso.it/notizie/attualita/kfc-a-cortina-arriva-il-dietrofront-nessun-fast-food-sulle-piste-da-sci-nel-rifugio-si-venderanno-solo-sei-prodotti/",
         "pubDate": "2026-11-10T13:13:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Bologna si può ancora mangiare in trattoria con meno di 30 euro",
+        "description": "Dai tortellini alle tagliatelle al ragù, una selezione di trattorie bolognesi dove mangiare due piatti spendendo circa 30 euro, vino escluso. Gli indirizzi da c…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/trattorie-bologna-mangiare-30-euro-indirizzi/",
+        "pubDate": "2026-11-10T13:10:26+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
@@ -367,6 +367,51 @@
     ],
     "lifestyle": [
       {
+        "title": "Anche i prodotti senza zucchero nel mirino dell’OMS. Le nuove regole su aromi e dolcificanti",
+        "description": "L'OMS propone di valutare gli alimenti industriali anche in base ad aromi, coloranti e dolcificanti. Le aziende contestano il modello, ora in consultazione pubb…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/oms-alimenti-industriali-nuovi-criteri-aromi-dolcificanti/",
+        "pubDate": "2026-11-11T08:49:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Giappone servono sei mesi per una ciotola. Dopo il terremoto gli artigiani lavorano nei container",
+        "description": "A Wajima, in Giappone, ciotole e piatti richiedono mesi di lavorazione. Dopo il terremoto del 2024, alcuni artigiani hanno ripreso a produrli nei container…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/wajima-lacca-giappone-ciotole-artigiani-terremoto/",
+        "pubDate": "2026-11-11T08:31:27+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo stesso Barolo assaggiato a distanza di sei anni di vendemmia. Ecco come cambia un vino prestigioso",
+        "description": "Tre annate della Riserva Cannubi 1752 e tre Barolo 2022 di Damilano mostrano come il Nebbiolo cambi con il tempo e con il vigneto, anche a pochi chilometri di d…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/damilano-barolo-cannubi-riserva-1752-verticale-annate/",
+        "pubDate": "2026-11-11T08:25:56+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Parte da Roma in bicicletta per raggiungere la moglie in Giappone. Ha fatto 15.600 chilometri e ha mangiato cose incredibili",
+        "description": "Leonardo Scarton ha pedalato per nove mesi da Roma a Kyoto per raggiungere la moglie. Tra pasti da 3 euro e ospitalità nomade, racconta le cucine incontrate in …",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/leonardo-scarton-roma-giappone-bicicletta-viaggio-cibo/",
+        "pubDate": "2026-11-11T08:18:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "KFC a Cortina ci indigna. Ma il pollo fritto in mezzo alla storia ci va bene?",
+        "description": "Ci indigniamo per il pollo fritto sulle Dolomiti, ma sembriamo molto più tolleranti quando le grandi catene del fast food conquistano i centri storici delle nos…",
+        "link": "https://www.dissapore.com/notizie/kfc-a-cortina-ci-indigna-ma-il-pollo-fritto-in-mezzo-alla-storia-ci-va-bene/",
+        "pubDate": "2026-11-11T08:01:42+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/Cortina-KFC.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
         "title": "Mimì alla Ferrovia di Napoli è la migliore trattoria d’Italia 2027: ecco perché 50 Top Italy l’ha premiata",
         "description": "Mimì alla Ferrovia di Napoli è la migliore trattoria Italia secondo 50 Top Italy 2027. Scopri il podio e le 110 trattorie della guida.…",
         "link": "https://www.gustoblog.it/2026/11/10/migliore-trattoria-italia-mimi-ferrovia/",
@@ -385,51 +430,6 @@
         "source": "Gustoblog"
       },
       {
-        "title": "Alto Adige Doc Gewurztraminer Passito 2022 Cresta, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Gewurztraminer Passito 2022 Cresta, Rottensteiner proviene da Wi…",
-        "link": "https://www.winemag.it/alto-adige-doc-gewurztraminer-passito-2022-cresta-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alto Adige Doc Lagrein Gries Riserva Trigon 2023, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Lagrein Gries Riserva Trigon 2023, Rottensteiner proviene da Win…",
-        "link": "https://www.winemag.it/alto-adige-doc-lagrein-gries-riserva-trigon-2023-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:12+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alto Adige Doc Lagrein Gries Riserva 2023 Select, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Lagrein Gries Riserva 2023 Select, Rottensteiner proviene da Win…",
-        "link": "https://www.winemag.it/alto-adige-doc-lagrein-gries-riserva-2023-select-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alto Adige Doc Santa Maddalena Classico Vigna Premstallerhof 2025, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Santa Maddalena Classico Vigna Premstallerhof 2025, Rottensteine…",
-        "link": "https://www.winemag.it/alto-adige-doc-santa-maddalena-classico-vigna-premstallerhof-2025-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:10+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Alto Adige Doc Gewurztraminer 2025 Cancenai, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Gewurztraminer 2025 Cancenai, Rottensteiner proviene da Winemag.…",
-        "link": "https://www.winemag.it/alto-adige-doc-gewurztraminer-2025-cancenai-rottensteiner/",
-        "pubDate": "2026-11-10T17:32:10+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
         "title": "Le indagini sulla cantina Mezzacorona indicano che il vino non è affatto in crisi",
         "description": "La Guardia di Finanza sequestra 60mila bottiglie di vino Mezzacorona: il sospetto è che l'uva non sia abbastanza trentina. Un'indagine che riaccende i riflettor…",
         "link": "https://www.dissapore.com/bere/le-indagini-sulla-cantina-mezzacorona-indicano-che-il-vino-non-e-affatto-in-crisi/",
@@ -446,15 +446,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "Alto Adige Doc Pinot Bianco 2025 Carnol, Rottensteiner",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezioni migliori vini italiani 2026\nL'articolo Alto Adige Doc Pinot Bianco 2025 Carnol, Rottensteiner proviene da Winemag.it -…",
-        "link": "https://www.winemag.it/alto-adige-doc-pinot-bianco-2025-carnol-rottensteiner/",
-        "pubDate": "2026-11-10T16:28:21+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       },
       {
         "title": "A Frosinone uno dei casi più gravi di sempre di funghi mortali: come è possibile?",
@@ -520,7 +511,7 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "A Bologna si può ancora mangiare in trattoria con 30 euro. Ecco dove",
+        "title": "A Bologna si può ancora mangiare in trattoria con meno di 30 euro",
         "description": "Dai tortellini alle tagliatelle al ragù, una selezione di trattorie bolognesi dove mangiare due piatti spendendo circa 30 euro, vino escluso. Gli indirizzi da c…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/trattorie-bologna-mangiare-30-euro-indirizzi/",
         "pubDate": "2026-11-10T13:10:26+00:00",
@@ -538,13 +529,22 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Pila, stagione sciistica 2026/27 dal 28 novembre all’11 aprile",
-        "description": "La stagione sciistica 2026/2027 di Pila, in Valle d’Aosta, inizierà sabato 28 novembre 2026 e terminerà domenica 11 aprile 2027. Le telecabine Aosta–Pila–Stella…",
-        "link": "https://www.winemag.it/pila-stagione-sciistica-2026-27-dal-28-novembre-all11-aprile/",
-        "pubDate": "2026-11-10T12:59:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
+        "title": "L’emergenza climatica renderà lo Champagne sarà ancora più caro?",
+        "description": "La complessa annata climatica ha portato le stime della raccolta in Champagne a una diminuzione sensibile: come influirà sui prezzi?\nL'articolo L&#8217;emergenz…",
+        "link": "https://www.dissapore.com/notizie/lemergenza-climatica-rendera-lo-champagne-sara-ancora-piu-caro/",
+        "pubDate": "2026-11-10T12:41:49+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/champagne-vigneti-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Nelle cantine italiane ci sono oltre 47 milioni di ettolitri di vino in stock: +7,2% rispetto al 2025",
+        "description": "I dati di Cantina Italia al 31 ottobre 2026 sono ancora alti confrontati alle giacenze dello scorso anno. Rispetto a settembre la crescita è del 16% per i vini …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/giacenze-vino-cantina-italia-ottobre-2026/",
+        "pubDate": "2026-11-10T12:21:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       }
     ]
   }
