@@ -1,7 +1,88 @@
 {
-  "generated": "2026-11-13T14:00:52.598432+00:00",
+  "generated": "2026-11-13T23:18:01.197969+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Best of Mercato Vignaioli Fivi 2026: le 18 cantine della Guida Winemag 2027",
+        "description": "La mappa dei migliori vignaioli al 15° Mercato dei Vini Indipendenti FIVI di BolognaFiere, in programma dal 21 al 23 novembre\nL'articolo Best of Mercato Vignaio…",
+        "link": "https://www.winemag.it/best-of-mercato-vignaioli-fivi-2026-18-cantine-guida-winemag-2027/",
+        "pubDate": "2026-11-13T23:10:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Hotel Weisses Kreuz, Burgusio: dove l’inverno ha otto secoli di storia e ora 1 Stella Michelin",
+        "description": "Tra le montagne della Val Venosta, un’antica dimora storica accoglie gli ospiti con una Spa di 1.300 metri quadrati, escursioni sulla neve e un ristorante appen…",
+        "link": "https://www.stylosophy.it/articolo/hotel-weisses-kreuz-burgusio-dove-linverno-ha-otto-secoli-di-storia-e-ora-1-stella-michelin/254337/",
+        "pubDate": "2026-11-13T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "A Roma il primo Forum del bar italiano: al centro qualità, accoglienza e nuove sfide per il settore",
+        "description": "Il 17 novembre a Roma il primo Forum del bar italiano promosso da Fipe. Al centro, chiusure, nuovi consumi e un Galateo per rilanciare il ruolo sociale dei loca…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/forum-bar-italiano-roma-2026-chiusure-fipe/",
+        "pubDate": "2026-11-13T16:39:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il mondo dei lievitisti del panettone sta cambiando per sopravvivere",
+        "description": "Le materie prime in aumento, le marginalità ridotte ma anche un mercato di acquirenti sempre più in espansione stanno cambiando le carte in tavola.\nL'articolo I…",
+        "link": "https://www.dissapore.com/spesa/il-mondo-dei-lievitisti-del-panettone-sta-cambiando-per-sopravvivere/",
+        "pubDate": "2026-11-13T16:22:59+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/INFERMENTUM-TAGLIATO-scaled.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "È morto Giovanni Contini Bonacossi, presidente di Tenuta di Capezzana e studioso della Resistenza italiana",
+        "description": "La sua eredità vive non solo nei vini della tenuta di Carmignano, ma anche nelle sue ricerche storiche: ha ricostruito le stragi nazifasciste ed è stato preside…",
+        "link": "https://www.gamberorosso.it/notizie/vino/morto-giovanni-contini-bonacossi-presidente-tenuta-capezzana/",
+        "pubDate": "2026-11-13T15:05:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news!",
+        "description": "Designer italiane &#8220;on the go&#8221;, dolci rimedi contro il freddo e nuovi inizi tutti da scoprire. La moda si prepara all’inverno tra creatività, piccoli…",
+        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-flower-mountain-roma-sveva-clavarino-tezenis-leggerissima-demi-lovato-desigual-fieracavalli-lifestyle-awards-jeans-west-united-colors-of-benetton-casadei-the-archivia-1013991",
+        "pubDate": "2026-11-13T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/Senza-titolo-44.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "In Sabina una famiglia di agricoltori ha aperto un ristorante di 26 posti",
+        "description": "Si chiama La Brica, è il nuovo ristorante della famiglia Borgognoni a Magliano Sabina. Pasta fatta in casa, ortaggi dell'azienda agricola e brace. Conto sui 50-…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/la-brica-magliano-sabina-ristorante-famiglia-agricoltori/",
+        "pubDate": "2026-11-13T14:56:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Firenze c’è un caffè del 1897 dove giocava a scacchi Lenin. Ha riaperto solo due anni fa",
+        "description": "Nato come birreria tedesca, Le Giubbe Rosse divenne il ritrovo dei futuristi. Dopo il fallimento e cinque anni di chiusura, lo storico caffè ha riaperto nel 202…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/giubbe-rosse-firenze-caffe-storico-futuristi/",
+        "pubDate": "2026-11-13T14:52:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Sézane x Lucia Zolea: la capsule dal fascino vintage perfetta anche per la stagione delle Feste",
+        "description": "La magia della Holiday season incontra il fascino dei ricordi preziosi. Domenica 15 novembre debutta sull’App ufficiale e su Sezane.com il primo capitolo della …",
+        "link": "https://www.grazia.it/moda/news-moda/sezane-lucia-zolea-capsule-vintage-inspired-party-collection-look-natale-capodanno-1014225",
+        "pubDate": "2026-11-13T14:42:18+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/apertura-sezane.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Rosalía lascia tutti senza fiato ai Latin Grammy 2026 con il Look etereo e scultoreo firmato Matières Fécales",
         "description": "Rosalía, sul red carpet dei Latin Grammy Awards 2026, sfoggia un look etereo e scultoreo firmato Matières Fécales.…",
@@ -10,6 +91,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "A Torino un’ex centrale elettrica è diventata uno dei migliori ristoranti d’Italia",
+        "description": "È Condividere, il ristorante della Nuvola Lavazza guidato da Federico Zanasi, con gli interni firmati dal premio Oscar Dante Ferretti e due menu da 130 e 150 eu…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/a-torino-unex-centrale-elettrica-e-diventata-uno-dei-migliori-ristoranti-ditalia/",
+        "pubDate": "2026-11-13T13:40:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Brasile, tassa su importazioni vino può salire all’11,6%: i rischi per l’Italia",
@@ -21,6 +111,60 @@
         "source": "Wine Mag"
       },
       {
+        "title": "A Gerusalemme c’è un pane al sesamo che si vende ancora caldo sui carretti. È il ka’ak palestinese",
+        "description": "Si vende sui carretti, si mangia ancora caldo ed è un simbolo della cultura palestinese. Il ka'ak al-Quds, il pane al sesamo di Gerusalemme, è candidato a diven…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-palestinese-gerusalemme-kaak-al-quds/",
+        "pubDate": "2026-11-13T13:31:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Suma Cruz porta a Milano Exquisite Creatures: gioielli-scultura che si trasformano in armatura e talismano",
+        "description": "Non semplici accessori, ma piccole sculture pensate per proteggere e raccontare chi le indossa. Il brand spagnolo di gioielleria Suma Cruz, fondato dalla design…",
+        "link": "https://www.grazia.it/moda/news-moda/suma-cruz-gioielli-exquisite-creatures-drop-2-film-eric-dover-1014181",
+        "pubDate": "2026-11-13T13:19:56+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/suma-cruz.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "In questa città del Messico manca l’acqua, ma la Coca-Cola si trova ovunque. E viene usata anche in chiesa",
+        "description": "A San Cristóbal l'acqua corrente arriva a intermittenza, mentre la Coca-Cola è diffusissima. Tra consumi quotidiani, riti religiosi e polemiche sui prelievi ind…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/chiapas-messico-acqua-coca-cola-siccita-san-cristobal/",
+        "pubDate": "2026-11-13T13:17:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo assaggiato 20 kefir del supermercato. Tra i 9 migliori ce n’è uno da 95 centesimi",
+        "description": "Il kefir conquista il carrello degli italiani. Abbiamo assaggiato circa 20 prodotti del supermercato e selezionato i 9 migliori, tra versioni da bere e al cucch…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-kefir-supermercato-classifica-prova-assaggio/",
+        "pubDate": "2026-11-13T12:52:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come abbinare i mocassini con la gonna: 7 idee dallo street style per sfruttare al meglio la combo più trendy di stagione",
+        "description": "La prima cosa che ci viene in mente di fare quando vogliamo indossare i mocassini è aprire l’armadio, scegliere i nostri jeans preferiti e completare il look co…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-abbinare-mocassini-con-la-gonna-corta-midi-a-pieghe-idee-outfit-autunno-donna-1014127",
+        "pubDate": "2026-11-13T11:26:04+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Come_abbinare_gonna_mocassini.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Più finezza, meno opulenza: i vini superaltoatesini raccontano un’evoluzione che riguarda tutta l’Italia",
+        "description": "Oggi a prevalere tra gli icon wines dell'Alto Adige è il territorio, in passato sacrificato per dare spazio alla struttura. Cristina Mercuri: \"È finita l'epoca …",
+        "link": "https://www.gamberorosso.it/notizie/vino/nuovo-stile-vini-superaltoatesini-2026/",
+        "pubDate": "2026-11-13T11:02:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "I ristoranti che perdono la stella con la Guida Michelin 2027",
         "description": "La Michelin 2027 fa strage di stelle e non risparmia i mostri sacri: Mauro Uliassi perde la terza stella, il San Domenico retrocede e tante insegne storiche ven…",
         "link": "https://www.dissapore.com/notizie/i-ristoranti-che-perdono-la-stella-con-la-guida-michelin-2027/",
@@ -30,160 +174,43 @@
         "source": "Dissapore"
       },
       {
-        "title": "Germania, Glühwein analcolico può chiamarsi Alkoholfreier Glühwein",
-        "description": "In Germania i prodotti ottenuti da vino dealcolato con una gradazione inferiore a 0,5% vol. possono essere venduti come «Alkoholfreier Glühwein», cioè Glühwein …",
-        "link": "https://www.winemag.it/germania-gluhwein-analcolico-puo-chiamarsi-alkoholfreier-gluhwein/",
-        "pubDate": "2026-11-13T09:52:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Tre soci hanno trasformato una vecchia bottega vicino Firenze in un ristorante dove si mangia con 50 euro",
-        "description": "A Pozzolatico tre soci hanno trasformato un'antica bottega in un ristorante creativo. Niente menu degustazione e tre piatti a 45–50 euro, vini esclusi…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/oca-bonda-pozzolatico-ristorante-firenze-prezzi/",
-        "pubDate": "2026-11-13T09:01:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Una cooperativa piemontese conquista il secondo posto nella classifica dei 100 vini di Wine Spectator",
-        "description": "Il Rabajà Riserva 2021 dei Produttori del Barbaresco è secondo nella Top 100 americana. Quarto il Brunello 2021 di Caparzo. Attesa per il primo posto…",
-        "link": "https://www.gamberorosso.it/notizie/vino/wine-spectator-top-100-2026-barbaresco-brunello-italiani/",
-        "pubDate": "2026-11-13T08:58:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il foie gras finisce sulla “scheda elettorale” negli Stati Uniti. E i cittadini votano per vietarlo",
-        "description": "Washington e Denver approvano il divieto di vendita del foie gras ottenuto con l'alimentazione forzata di anatre e oche. Ma chef e produttori preparano la batta…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/foie-gras-vietato-washington-denver-voto-cittadini/",
-        "pubDate": "2026-11-13T08:56:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dal dealcolato al Pinot Nero 1999: chi se non Hofstätter?",
-        "description": "Un dealcolato per cominciare. Un Pinot Nero del 1999 per chiudere. Nel mezzo, un Gewürztraminer di vent’anni, due diverse letture della vendemmia 2023. E, sopra…",
-        "link": "https://www.winemag.it/dal-dealcolato-al-pinot-nero-1999-chi-se-non-hofstatter/",
-        "pubDate": "2026-11-12T23:20:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Dal-dealcolato-al-Pinot-Nero-1999-chi-se-non-Hofstatter-miglior-cantina-italiana-guida-winemag-2027-martin-foradori-figlio-niklas-foradori-hofstatter-4-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Sudafrica, nove Paesi del vino a Stellenbosch per semplificare l’export",
-        "description": "Dal 1° al 4 novembre Stellenbosch ha ospitato la riunione annuale del World Wine Trade Group (WWTG). Al tavolo, secondo le notizie diffuse dopo l’incontro, hann…",
-        "link": "https://www.winemag.it/world-wine-trade-group-wwtg-sudafrica-nove-paesi-vino-stellenbosch-semplificare-export/",
-        "pubDate": "2026-11-12T23:10:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Qual è l’idea della cucina italiana della Guida Michelin? Sei domande per il Direttore Sergio Lovrinovich",
-        "description": "Lettera aperta al Direttore della Guida Michelin Italia, Sergio Lovrinovich, all’indomani della presentazione. Sei spunti costruttivi per aprire un confronto…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/lettera-aperta-michelin-direttore-sergio-lovrinovich/",
-        "pubDate": "2026-11-12T21:56:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Vino europeo, dati vendemmia 2026 Paese per Paese",
-        "description": "La vendemmia 2026 nell’Unione europea si ferma a una produzione stimata di 133,6 milioni di ettolitri di vino e mosto, in calo del 4% rispetto alla campagna pre…",
-        "link": "https://www.winemag.it/vino-europeo-vendemmia-2026-dati-paese-calano-consumi-export/",
-        "pubDate": "2026-11-12T19:28:02+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Uno degli abiti più belli della storia del cinema sta per andare all’asta",
-        "description": "Quel lungo abito di seta verde che ha incendiato la scena della biblioteca in Espiazione sta per cambiare per sempre armadio. All’asta da Christie’s a dicembre,…",
-        "link": "https://www.grazia.it/moda/news-moda/abito-verde-espiazione-keira-knigthley-asta-christies-1013864",
-        "pubDate": "2026-11-12T17:33:47+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/abito-verde-espiazione-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Le cantine del futuro si spingeranno sempre più sottoterra. Così il clima cambia anche l’architettura del vino",
-        "description": "Le nuove cattedrali del vino? \"Edifici ipogei per salvaguardare il paesaggio, resistere meglio ai cambiamenti climatici e contribuire a mitigarne gli effetti\": …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/architettura-cantine-futuro-intervista-margherita-gozzi/",
-        "pubDate": "2026-11-12T16:26:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ecco perché il Messico è uno dei mercati più promettenti per il vino italiano: la lezione di Wines Experience & Fine Food",
-        "description": "Città del Messico è una metropoli da quasi 30 milioni di abitanti in straordinario fermento tra ristorazione vibrante e consumatori giovani e curiosi. I dati Ni…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/wines-experience-citta-del-messico-2026-buyer-produttori/",
-        "pubDate": "2026-11-12T16:25:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Molte meno stelle Michelin in Italia: i ristoranti che salgono e che scendono (e quelli che chiudono)",
-        "description": "Nessun nuovo tre stelle, Uliassi declassato e Quattro Passi chiuso. I ristoranti stellati scendono da 394 a 382, mentre Lazio e Roma conquistano nuovi riconosci…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/guida-michelin-2027-italia-stelle-perse-uliassi/",
-        "pubDate": "2026-11-12T16:22:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chiude il ristorante di Carlo Cracco a Portofino. Al suo posto arriva un progetto Four Seasons",
-        "description": "Il ristorante lascia il Molo Umberto I dopo il cambio di proprietà dell'immobile. Mattia Pecis e la sua brigata ripartiranno da Rapallo, sempre affacciati sul m…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cracco-portofino-chiude-trasferimento-rapallo-four-seasons/",
-        "pubDate": "2026-11-12T16:14:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "5 profumi di nicchia che raccontano il lusso: le nuove fragranze da scoprire",
-        "description": "Dalle composizioni cuoiate alle interpretazioni speziate della vaniglia, cinque creazioni esclusive puntano su materie prime ricercate, accordi sofisticati e id…",
-        "link": "https://www.stylosophy.it/articolo/profumi-di-nicchia-che-raccontano-il-lusso/254317/",
-        "pubDate": "2026-11-12T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "The Christmas Edit: i regali di Natale “per lei” per tutti i gusti e per tutte le tasche",
-        "description": "Regali di Natale per lei: la missione (im)possibile è ufficialmente aperta, siete pronti? Basta il primo albero illuminato in vetrina, un’ondata di cannella nel…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/regali-natale-per-lei-donna-50-anni-mamma-amica-fidanzata-idee-regalo-1012283",
-        "pubDate": "2026-11-12T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_regali_natale_lei.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Quali sono i nuovi ristoranti stellati italiani per la Guida Michelin 2027",
-        "description": "A 24 ristoranti della Penisola arriva la prima stella Michelin, 3 ottengono le due stelle e nessuno prende la terza stella.\nL'articolo Quali sono i nuovi ristor…",
-        "link": "https://www.dissapore.com/ristoranti/quali-sono-i-nuovi-ristoranti-stellati-italiani-per-la-guida-michelin-2027/",
-        "pubDate": "2026-11-12T14:56:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/1224-Restaurant-Cortina.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Marta Rinaldi: “Per la prima volta abbiamo dovuto irrigare le vecchie vigne”. Il cambiamento climatico arriva a Barolo",
-        "description": "Per la prima volta le sorelle Rinaldi hanno irrigato le vecchie vigne di Cannubi San Lorenzo. Il caldo cambia la viticoltura nelle Langhe e anche il Barolo nel …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/barolo-cambiamento-climatico-siccita-marta-rinaldi/",
-        "pubDate": "2026-11-12T14:48:26+00:00",
+        "title": "“Mia madre cucinava un tacchino di 15 chili per il Giorno del Ringraziamento. Dopo la sua morte ho provato a rifarlo”",
+        "description": "Dopo la morte della madre, Eleonora Baldwin decide di ricreare il suo tradizionale menu del Thanksgiving. Dal tacchino alle patate dolci, un ricordo di famiglia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/thanksgiving-menu-mamma-tacchino-ringraziamento-eleonora-baldwin/",
+        "pubDate": "2026-11-13T10:01:57+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
       }
     ],
     "moda": [
+      {
+        "title": "Hotel Weisses Kreuz, Burgusio: dove l’inverno ha otto secoli di storia e ora 1 Stella Michelin",
+        "description": "Tra le montagne della Val Venosta, un’antica dimora storica accoglie gli ospiti con una Spa di 1.300 metri quadrati, escursioni sulla neve e un ristorante appen…",
+        "link": "https://www.stylosophy.it/articolo/hotel-weisses-kreuz-burgusio-dove-linverno-ha-otto-secoli-di-storia-e-ora-1-stella-michelin/254337/",
+        "pubDate": "2026-11-13T17:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news!",
+        "description": "Designer italiane &#8220;on the go&#8221;, dolci rimedi contro il freddo e nuovi inizi tutti da scoprire. La moda si prepara all’inverno tra creatività, piccoli…",
+        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-flower-mountain-roma-sveva-clavarino-tezenis-leggerissima-demi-lovato-desigual-fieracavalli-lifestyle-awards-jeans-west-united-colors-of-benetton-casadei-the-archivia-1013991",
+        "pubDate": "2026-11-13T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/Senza-titolo-44.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Sézane x Lucia Zolea: la capsule dal fascino vintage perfetta anche per la stagione delle Feste",
+        "description": "La magia della Holiday season incontra il fascino dei ricordi preziosi. Domenica 15 novembre debutta sull’App ufficiale e su Sezane.com il primo capitolo della …",
+        "link": "https://www.grazia.it/moda/news-moda/sezane-lucia-zolea-capsule-vintage-inspired-party-collection-look-natale-capodanno-1014225",
+        "pubDate": "2026-11-13T14:42:18+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/apertura-sezane.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Rosalía lascia tutti senza fiato ai Latin Grammy 2026 con il Look etereo e scultoreo firmato Matières Fécales",
         "description": "Rosalía, sul red carpet dei Latin Grammy Awards 2026, sfoggia un look etereo e scultoreo firmato Matières Fécales.…",
@@ -192,6 +219,33 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Suma Cruz porta a Milano Exquisite Creatures: gioielli-scultura che si trasformano in armatura e talismano",
+        "description": "Non semplici accessori, ma piccole sculture pensate per proteggere e raccontare chi le indossa. Il brand spagnolo di gioielleria Suma Cruz, fondato dalla design…",
+        "link": "https://www.grazia.it/moda/news-moda/suma-cruz-gioielli-exquisite-creatures-drop-2-film-eric-dover-1014181",
+        "pubDate": "2026-11-13T13:19:56+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/suma-cruz.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Come abbinare i mocassini con la gonna: 7 idee dallo street style per sfruttare al meglio la combo più trendy di stagione",
+        "description": "La prima cosa che ci viene in mente di fare quando vogliamo indossare i mocassini è aprire l’armadio, scegliere i nostri jeans preferiti e completare il look co…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-abbinare-mocassini-con-la-gonna-corta-midi-a-pieghe-idee-outfit-autunno-donna-1014127",
+        "pubDate": "2026-11-13T11:26:04+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Come_abbinare_gonna_mocassini.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Kaya Scodelario, Pelenope Cruz e le altre star meglio vestite della settimana",
+        "description": "Nuova settimana, nuova selezione di look da mettere sotto i riflettori. Tra première cinematografiche, eventi mondani e impegni promozionali, le star continuano…",
+        "link": "https://www.grazia.it/moda/celebrity-style/kaya-scodelario-pelenope-cruz-vittoria-puccini-look-red-carpet-star-meglio-vestite-celeb-best-dressed-1013308",
+        "pubDate": "2026-11-13T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/ok-desk-3.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Uno degli abiti più belli della storia del cinema sta per andare all’asta",
@@ -257,24 +311,6 @@
         "source": "Grazia"
       },
       {
-        "title": "5 look sofisticati e chic da sfoggiare a 50 anni",
-        "description": "Lo stile? Una questione di attitudine. Di personalità. E &#8211; soprattutto &#8211; di come queste si riflettono in ciò che indossiamo, anche quando gusti ed e…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-bene-a-50-anni-donna-look-abbinamenti-idee-outfit-abbigliamento-chic-1013004",
-        "pubDate": "2026-11-12T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_DESKTOP_look_effertless_50.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Prada e Mytheresa insieme per le feste: una collezione esclusiva tra heritage e contemporaneità",
-        "description": "Quando arrivano le feste, il guardaroba cambia pelle. Si fa più atteso, più desiderato, e soprattutto diventa il luogo in cui si costruisce l’immagine con cui e…",
-        "link": "https://www.grazia.it/moda/news-moda/prada-mytheresa-holiday-collection-donna-uomo-natale-2026-1013232",
-        "pubDate": "2026-11-11T18:43:36+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/ok-apertura-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Bosa, i complementi d’arredo ispirati alla natura che giocano su materia e forme scultoree",
         "description": "Colori ispirati alla terra e all’acqua, superfici lavorate e silhouette originali: le collezioni Bosa reinterpretano gli elementi naturali attraverso complement…",
         "link": "https://www.stylosophy.it/articolo/bosa-i-complementi-darredo-ispirati-alla-natura-che-giocano-su-materia-e-forme-scultoree/254307/",
@@ -284,15 +320,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Come vestirsi in modo cool anche quando fa freddo? 7 outfit avvistati su Instagram da cui prendere ispirazione",
-        "description": "Uno dei dilemmi principali della fall-winter, per tutte le fashioniste, è: ma ora che inizia a fare freddo, come posso vestirmi cool anche quando devo essere st…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-bene-quando-fa-freddo-idee-look-outfit-invernali-abbinamenti-instagram-1012795",
-        "pubDate": "2026-11-11T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_outfit_cool_freddo.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Il must di stagione per Hailey Bieber? I collant di Calzedonia: ecco quali!",
         "description": "Hailey Bieber riscrive le regole della calzetteria in collaborazione con Calzedonia.…",
         "link": "https://www.stylosophy.it/articolo/il-must-di-stagione-per-hailey-bieber-i-collant-di-calzedonia-ecco-quali/254300/",
@@ -300,24 +327,6 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Tutte pazze per il maglione rosso! Ecco 7 idee (da Instagram) per abbinarlo con stile in ogni occasione",
-        "description": "Eravamo ancora alla fine dell’estate quando abbiamo iniziato a vederlo addosso alle trend setter e a distanza di tempo poco o nulla è cambiato: il maglione ross…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-abbinare-il-maglione-rosso-must-have-mezza-zip-scollo-a-v-abbinamenti-con-pantaloni-gonna-jeans-1013115",
-        "pubDate": "2026-11-11T11:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Come_indossare_il_maglione_rosso.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La giacca ricamata è il capo che darà al vostro autunno tutto un altro stile",
-        "description": "È entrata di diritto tra le nostre crush di stagione: la giacca ricamata è quel capo che fa il look e che renderà ogni look per la stagione fredda ricco di pers…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/giacca-ricamata-donna-trend-autunno-2026-elegante-velluto-giacche-con-ricami-1008528",
-        "pubDate": "2026-11-11T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/10/DESK-giacche-ricamate-.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       },
       {
         "title": "Barò Cosmetics presenta la nuova linea antiage al Tartufo Bianco d’Alba: skincare Made in Italy e ricerca scientifica",
@@ -354,18 +363,72 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Novembre a Fuerteventura: l’itinerario definitivo per gli amanti della natura più autentica",
-        "description": "Novembre è il momento perfetto per scoprire Fuerteventura lontano dalla folla, tra paesaggi incontaminati e scenari naturali mozzafiato. Un itinerario pensato p…",
-        "link": "https://www.stylosophy.it/articolo/novembre-a-fuerteventura-itinerario-definitivo/241367/",
-        "pubDate": "2026-11-08T15:15:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Best of Mercato Vignaioli Fivi 2026: le 18 cantine della Guida Winemag 2027",
+        "description": "La mappa dei migliori vignaioli al 15° Mercato dei Vini Indipendenti FIVI di BolognaFiere, in programma dal 21 al 23 novembre\nL'articolo Best of Mercato Vignaio…",
+        "link": "https://www.winemag.it/best-of-mercato-vignaioli-fivi-2026-18-cantine-guida-winemag-2027/",
+        "pubDate": "2026-11-13T23:10:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "A Roma il primo Forum del bar italiano: al centro qualità, accoglienza e nuove sfide per il settore",
+        "description": "Il 17 novembre a Roma il primo Forum del bar italiano promosso da Fipe. Al centro, chiusure, nuovi consumi e un Galateo per rilanciare il ruolo sociale dei loca…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/forum-bar-italiano-roma-2026-chiusure-fipe/",
+        "pubDate": "2026-11-13T16:39:11+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il mondo dei lievitisti del panettone sta cambiando per sopravvivere",
+        "description": "Le materie prime in aumento, le marginalità ridotte ma anche un mercato di acquirenti sempre più in espansione stanno cambiando le carte in tavola.\nL'articolo I…",
+        "link": "https://www.dissapore.com/spesa/il-mondo-dei-lievitisti-del-panettone-sta-cambiando-per-sopravvivere/",
+        "pubDate": "2026-11-13T16:22:59+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/INFERMENTUM-TAGLIATO-scaled.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "È morto Giovanni Contini Bonacossi, presidente di Tenuta di Capezzana e studioso della Resistenza italiana",
+        "description": "La sua eredità vive non solo nei vini della tenuta di Carmignano, ma anche nelle sue ricerche storiche: ha ricostruito le stragi nazifasciste ed è stato preside…",
+        "link": "https://www.gamberorosso.it/notizie/vino/morto-giovanni-contini-bonacossi-presidente-tenuta-capezzana/",
+        "pubDate": "2026-11-13T15:05:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Sabina una famiglia di agricoltori ha aperto un ristorante di 26 posti",
+        "description": "Si chiama La Brica, è il nuovo ristorante della famiglia Borgognoni a Magliano Sabina. Pasta fatta in casa, ortaggi dell'azienda agricola e brace. Conto sui 50-…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/la-brica-magliano-sabina-ristorante-famiglia-agricoltori/",
+        "pubDate": "2026-11-13T14:56:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Firenze c’è un caffè del 1897 dove giocava a scacchi Lenin. Ha riaperto solo due anni fa",
+        "description": "Nato come birreria tedesca, Le Giubbe Rosse divenne il ritrovo dei futuristi. Dopo il fallimento e cinque anni di chiusura, lo storico caffè ha riaperto nel 202…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/giubbe-rosse-firenze-caffe-storico-futuristi/",
+        "pubDate": "2026-11-13T14:52:50+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Torino un’ex centrale elettrica è diventata uno dei migliori ristoranti d’Italia",
+        "description": "È Condividere, il ristorante della Nuvola Lavazza guidato da Federico Zanasi, con gli interni firmati dal premio Oscar Dante Ferretti e due menu da 130 e 150 eu…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/a-torino-unex-centrale-elettrica-e-diventata-uno-dei-migliori-ristoranti-ditalia/",
+        "pubDate": "2026-11-13T13:40:13+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Brasile, tassa su importazioni vino può salire all’11,6%: i rischi per l’Italia",
         "description": "Il Brasile è un mercato in crescita per il vino italiano. Nel 2025 l’Italia ha esportato nel Paese 10,8 milioni di litri, per un valore di 49,2 milioni di dolla…",
@@ -374,6 +437,42 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "A Gerusalemme c’è un pane al sesamo che si vende ancora caldo sui carretti. È il ka’ak palestinese",
+        "description": "Si vende sui carretti, si mangia ancora caldo ed è un simbolo della cultura palestinese. Il ka'ak al-Quds, il pane al sesamo di Gerusalemme, è candidato a diven…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-palestinese-gerusalemme-kaak-al-quds/",
+        "pubDate": "2026-11-13T13:31:32+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questa città del Messico manca l’acqua, ma la Coca-Cola si trova ovunque. E viene usata anche in chiesa",
+        "description": "A San Cristóbal l'acqua corrente arriva a intermittenza, mentre la Coca-Cola è diffusissima. Tra consumi quotidiani, riti religiosi e polemiche sui prelievi ind…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/chiapas-messico-acqua-coca-cola-siccita-san-cristobal/",
+        "pubDate": "2026-11-13T13:17:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Abbiamo assaggiato 20 kefir del supermercato. Tra i 9 migliori ce n’è uno da 95 centesimi",
+        "description": "Il kefir conquista il carrello degli italiani. Abbiamo assaggiato circa 20 prodotti del supermercato e selezionato i 9 migliori, tra versioni da bere e al cucch…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-kefir-supermercato-classifica-prova-assaggio/",
+        "pubDate": "2026-11-13T12:52:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Più finezza, meno opulenza: i vini superaltoatesini raccontano un’evoluzione che riguarda tutta l’Italia",
+        "description": "Oggi a prevalere tra gli icon wines dell'Alto Adige è il territorio, in passato sacrificato per dare spazio alla struttura. Cristina Mercuri: \"È finita l'epoca …",
+        "link": "https://www.gamberorosso.it/notizie/vino/nuovo-stile-vini-superaltoatesini-2026/",
+        "pubDate": "2026-11-13T11:02:21+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "I ristoranti che perdono la stella con la Guida Michelin 2027",
@@ -385,6 +484,15 @@
         "source": "Dissapore"
       },
       {
+        "title": "“Mia madre cucinava un tacchino di 15 chili per il Giorno del Ringraziamento. Dopo la sua morte ho provato a rifarlo”",
+        "description": "Dopo la morte della madre, Eleonora Baldwin decide di ricreare il suo tradizionale menu del Thanksgiving. Dal tacchino alle patate dolci, un ricordo di famiglia…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/thanksgiving-menu-mamma-tacchino-ringraziamento-eleonora-baldwin/",
+        "pubDate": "2026-11-13T10:01:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
         "title": "Germania, Glühwein analcolico può chiamarsi Alkoholfreier Glühwein",
         "description": "In Germania i prodotti ottenuti da vino dealcolato con una gradazione inferiore a 0,5% vol. possono essere venduti come «Alkoholfreier Glühwein», cioè Glühwein …",
         "link": "https://www.winemag.it/germania-gluhwein-analcolico-puo-chiamarsi-alkoholfreier-gluhwein/",
@@ -392,33 +500,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Tre soci hanno trasformato una vecchia bottega vicino Firenze in un ristorante dove si mangia con 50 euro",
-        "description": "A Pozzolatico tre soci hanno trasformato un'antica bottega in un ristorante creativo. Niente menu degustazione e tre piatti a 45–50 euro, vini esclusi…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/oca-bonda-pozzolatico-ristorante-firenze-prezzi/",
-        "pubDate": "2026-11-13T09:01:17+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Una cooperativa piemontese conquista il secondo posto nella classifica dei 100 vini di Wine Spectator",
-        "description": "Il Rabajà Riserva 2021 dei Produttori del Barbaresco è secondo nella Top 100 americana. Quarto il Brunello 2021 di Caparzo. Attesa per il primo posto…",
-        "link": "https://www.gamberorosso.it/notizie/vino/wine-spectator-top-100-2026-barbaresco-brunello-italiani/",
-        "pubDate": "2026-11-13T08:58:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il foie gras finisce sulla “scheda elettorale” negli Stati Uniti. E i cittadini votano per vietarlo",
-        "description": "Washington e Denver approvano il divieto di vendita del foie gras ottenuto con l'alimentazione forzata di anatre e oche. Ma chef e produttori preparano la batta…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/foie-gras-vietato-washington-denver-voto-cittadini/",
-        "pubDate": "2026-11-13T08:56:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Dal dealcolato al Pinot Nero 1999: chi se non Hofstätter?",
@@ -439,15 +520,6 @@
         "source": "Wine Mag"
       },
       {
-        "title": "Qual è l’idea della cucina italiana della Guida Michelin? Sei domande per il Direttore Sergio Lovrinovich",
-        "description": "Lettera aperta al Direttore della Guida Michelin Italia, Sergio Lovrinovich, all’indomani della presentazione. Sei spunti costruttivi per aprire un confronto…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/lettera-aperta-michelin-direttore-sergio-lovrinovich/",
-        "pubDate": "2026-11-12T21:56:52+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Vino europeo, dati vendemmia 2026 Paese per Paese",
         "description": "La vendemmia 2026 nell’Unione europea si ferma a una produzione stimata di 133,6 milioni di ettolitri di vino e mosto, in calo del 4% rispetto alla campagna pre…",
         "link": "https://www.winemag.it/vino-europeo-vendemmia-2026-dati-paese-calano-consumi-export/",
@@ -455,42 +527,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Le cantine del futuro si spingeranno sempre più sottoterra. Così il clima cambia anche l’architettura del vino",
-        "description": "Le nuove cattedrali del vino? \"Edifici ipogei per salvaguardare il paesaggio, resistere meglio ai cambiamenti climatici e contribuire a mitigarne gli effetti\": …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/architettura-cantine-futuro-intervista-margherita-gozzi/",
-        "pubDate": "2026-11-12T16:26:56+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ecco perché il Messico è uno dei mercati più promettenti per il vino italiano: la lezione di Wines Experience & Fine Food",
-        "description": "Città del Messico è una metropoli da quasi 30 milioni di abitanti in straordinario fermento tra ristorazione vibrante e consumatori giovani e curiosi. I dati Ni…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/wines-experience-citta-del-messico-2026-buyer-produttori/",
-        "pubDate": "2026-11-12T16:25:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Molte meno stelle Michelin in Italia: i ristoranti che salgono e che scendono (e quelli che chiudono)",
-        "description": "Nessun nuovo tre stelle, Uliassi declassato e Quattro Passi chiuso. I ristoranti stellati scendono da 394 a 382, mentre Lazio e Roma conquistano nuovi riconosci…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/guida-michelin-2027-italia-stelle-perse-uliassi/",
-        "pubDate": "2026-11-12T16:22:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Chiude il ristorante di Carlo Cracco a Portofino. Al suo posto arriva un progetto Four Seasons",
-        "description": "Il ristorante lascia il Molo Umberto I dopo il cambio di proprietà dell'immobile. Mattia Pecis e la sua brigata ripartiranno da Rapallo, sempre affacciati sul m…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/cracco-portofino-chiude-trasferimento-rapallo-four-seasons/",
-        "pubDate": "2026-11-12T16:14:36+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Quali sono i nuovi ristoranti stellati italiani per la Guida Michelin 2027",
@@ -502,47 +538,11 @@
         "source": "Dissapore"
       },
       {
-        "title": "Marta Rinaldi: “Per la prima volta abbiamo dovuto irrigare le vecchie vigne”. Il cambiamento climatico arriva a Barolo",
-        "description": "Per la prima volta le sorelle Rinaldi hanno irrigato le vecchie vigne di Cannubi San Lorenzo. Il caldo cambia la viticoltura nelle Langhe e anche il Barolo nel …",
-        "link": "https://www.gamberorosso.it/notizie/attualita/barolo-cambiamento-climatico-siccita-marta-rinaldi/",
-        "pubDate": "2026-11-12T14:48:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "57mila euro per una barrique di Barolo: l’offerta arriva da Hong Kong",
-        "description": "La sesta edizione di Barolo en primeur si chiude con il record di 1,2 milioni di euro. Decisivo il lotto di Barolo Gustava 2025, il cui ricavato verrà devoluto …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/barolo-en-primeur-2026-asta-record/",
-        "pubDate": "2026-11-12T14:09:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Chiude Cracco a Portofino: ecco cosa sarà di Carlo Cracco e Mattia Pecis",
         "description": "Dopo cinque anni termina l'avventura gastronomica di Carlo Cracco nel borgo più esclusivo della Riviera ligure: che ne sarà del talentuoso Mattia Pecis?\nL'artic…",
         "link": "https://www.dissapore.com/notizie/chiude-cracco-a-portofino-il-ristorante-di-carlo-cracco-e-mattia-pecis/",
         "pubDate": "2026-11-12T13:11:18+00:00",
         "image": "https://images.dissapore.com/wp-content/uploads/2026/11/Mattia-pecis.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "L’Italia perde due tre stelle Michelin",
-        "description": "Se l'uscita di scena dai tre stelle Michelin dei fratelli Mellino era ampiamente prevedibile, dopo la chiusura dello storico ristorante di Nerano, sorprende inv…",
-        "link": "https://www.dissapore.com/notizie/litalia-perde-due-tre-stelle-michelin/",
-        "pubDate": "2026-11-12T12:20:28+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/03/mauro-uliassi-e1761814586919.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Il prezzo delle uova sale ancora, e per il panettone può essere un problema",
-        "description": "Come va con i prezzi del tuorlo d'uovo e cosa può comportare per i panettoni, per le pasticcerie che lo producono e per il consumatore finale. \nL'articolo Il pr…",
-        "link": "https://www.dissapore.com/spesa/il-prezzo-delle-uova-sale-ancora-e-per-il-panettone-puo-essere-un-problema/",
-        "pubDate": "2026-11-12T10:13:58+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2025/11/CIACCO-TAGLIATO-scaled-e1764353672508.jpg?width=300&height=150&quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
       }
