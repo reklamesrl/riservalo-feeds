@@ -1,15 +1,141 @@
 {
-  "generated": "2026-11-13T23:18:01.197969+00:00",
+  "generated": "2026-11-14T13:03:05.563076+00:00",
   "feeds": {
     "offerte": [
       {
-        "title": "Best of Mercato Vignaioli Fivi 2026: le 18 cantine della Guida Winemag 2027",
-        "description": "La mappa dei migliori vignaioli al 15° Mercato dei Vini Indipendenti FIVI di BolognaFiere, in programma dal 21 al 23 novembre\nL'articolo Best of Mercato Vignaio…",
-        "link": "https://www.winemag.it/best-of-mercato-vignaioli-fivi-2026-18-cantine-guida-winemag-2027/",
-        "pubDate": "2026-11-13T23:10:00+00:00",
+        "title": "Morellino di Scansano DOCG, la nuova etichetta nasce dal paesaggio della Maremma",
+        "description": "Il paesaggio della Maremma diventa il tratto distintivo della nuova etichetta istituzionale del Consorzio Tutela Morellino di Scansano DOCG. A firmare il proget…",
+        "link": "https://www.winemag.it/morellino-di-scansano-docg-la-nuova-etichetta-nasce-dal-paesaggio-della-maremma/",
+        "pubDate": "2026-11-14T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Casavecchia Rosato Terre del Volturno Igt 2025 Campanus, Tenuta Selvanova",
+        "description": "Dalla Guida Winemag 2027 &#124; Migliori vini italiani, selezione 2026\nL'articolo Casavecchia Rosato Terre del Volturno Igt 2025 Campanus, Tenuta Selvanova prov…",
+        "link": "https://www.winemag.it/casavecchia-rosato-terre-del-volturno-igt-2025-campanus-tenuta-selvanova/",
+        "pubDate": "2026-11-14T12:45:33+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Toscana Rosato Igt 2025 Tua Rosa, Sensi",
+        "description": "Dalla Guida Winemag 2027 &#124; Migliori vini italiani, selezione 2026\nL'articolo Toscana Rosato Igt 2025 Tua Rosa, Sensi proviene da Winemag.it - Davide Borton…",
+        "link": "https://www.winemag.it/toscana-rosato-igt-2025-tua-rosa-sensi/",
+        "pubDate": "2026-11-14T12:45:32+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Nero di Troia Rosé Igp Puglia 2025 Neia, Crifo",
+        "description": "Dalla Guida Winemag 2027 &#124; Migliori vini italiani, selezione 2026\nL'articolo Nero di Troia Rosé Igp Puglia 2025 Neia, Crifo proviene da Winemag.it - Davide…",
+        "link": "https://www.winemag.it/nero-di-troia-rose-igp-puglia-2025-neia-crifo/",
+        "pubDate": "2026-11-14T12:45:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Colli del Limbara Igt Caricagiola Rosé Gjola, Surrau",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Colli del Limbara Igt Caricagiola Rosé Gjola, Surrau proviene da Winemag.it - Davide Bort…",
+        "link": "https://www.winemag.it/colli-del-limbara-igt-caricagiola-rose-gjola-surrau/",
+        "pubDate": "2026-11-14T12:45:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Nero di Troia Rosé 2025 Fuorilemura, Crifo",
+        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Nero di Troia Rosé 2025 Fuorilemura, Crifo proviene da Winemag.it - Davide Bortone: win…",
+        "link": "https://www.winemag.it/nero-di-troia-rose-2025-fuorilemura-crifo/",
+        "pubDate": "2026-11-14T12:45:30+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Langhe Doc Rosato 2025, Diego Morra",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Langhe Doc Rosato 2025, Diego Morra proviene da Winemag.it - Davide Bortone: wine magazin…",
+        "link": "https://www.winemag.it/langhe-doc-rosato-2025-diego-morra/",
+        "pubDate": "2026-11-14T12:45:29+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Lacrima Christi del Vesuvio Doc Rosato 2025 Biologico Munazei, Casa Setaro",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Lacrima Christi del Vesuvio Doc Rosato 2025 Biologico Munazei, Casa Setaro proviene da Wi…",
+        "link": "https://www.winemag.it/lacrima-christi-del-vesuvio-doc-rosato-2025-biologico-munazei-casa-setaro/",
+        "pubDate": "2026-11-14T12:45:28+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Langhe Nebbiolo 2023, Marchese Dalmasso",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Langhe Nebbiolo 2023, Marchese Dalmasso proviene da Winemag.it - Davide Bortone: wine mag…",
+        "link": "https://www.winemag.it/langhe-nebbiolo-2023-marchese-dalmasso/",
+        "pubDate": "2026-11-14T12:45:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Barbaresco Docg 2022, Marchese Dalmasso",
+        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Barbaresco Docg 2022, Marchese Dalmasso proviene da Winemag.it - Davide Bortone: wine mag…",
+        "link": "https://www.winemag.it/barbaresco-docg-2022-marchese-dalmasso/",
+        "pubDate": "2026-11-14T12:45:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "In Messico esistono ancora gli orti costruiti dagli aztechi in mezzo ai laghi. Ora rischiano di scomparire",
+        "description": "A Xochimilco si coltiva ancora su terreni artificiali circondati da canali. Un sistema agricolo preazteco oggi minacciato dall'inquinamento e dall'espansione ur…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chinampas-messico-orti-aztechi-xochimilco/",
+        "pubDate": "2026-11-14T08:23:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come Microsoft down impatta anche sul cibo",
+        "description": "Il down mondiale di Microsoft manda in tilt anche il mondo del cibo: rallentamenti nella logistica, problemi con la spesa online e consegne natalizie a rischio.…",
+        "link": "https://www.dissapore.com/notizie/come-microsoft-down-impatta-anche-sul-cibo/",
+        "pubDate": "2026-11-14T08:21:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/supermercati-bio-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Tre amici iniziano a fare vino in un garage in Irpinia: oggi producono 20mila bottiglie",
+        "description": "Nel 2000 tre amici iniziano a produrre Aglianico in un garage ad Ariano Irpino. Oggi Casa Brecceto coltiva 3,6 ettari di vigne e produce circa 20mila bottiglie…",
+        "link": "https://www.gamberorosso.it/notizie/vino/casa-brecceto-vini-garage-ariano-irpino/",
+        "pubDate": "2026-11-14T08:06:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 86 anni Giorgio Moroder si prepara a suonare al Coachella. Ma il padre della disco music produce anche Prosecco",
+        "description": "Il compositore italiano, protagonista della disco music, ha lanciato nel 2022 Liquid Disco, un Prosecco Doc disponibile anche in versione rosé. E ora si prepara…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/giorgio-moroder-coachella-prosecco-liquid-disco/",
+        "pubDate": "2026-11-14T07:04:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questo paese tutti portavano il pane a cuocere nello stesso forno. Il terremoto lo distrusse, ora rinasce",
+        "description": "Per generazioni le famiglie di Onna hanno portato qui i propri impasti da cuocere. Il sisma del 2009 distrusse il forno e uccise anche Anna Berardina Bonanni, u…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/onna-forno-collettivo-pane-terremoto-ricostruzione/",
+        "pubDate": "2026-11-14T05:58:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Hotel Weisses Kreuz, Burgusio: dove l’inverno ha otto secoli di storia e ora 1 Stella Michelin",
@@ -55,132 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/11/Senza-titolo-44.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "In Sabina una famiglia di agricoltori ha aperto un ristorante di 26 posti",
-        "description": "Si chiama La Brica, è il nuovo ristorante della famiglia Borgognoni a Magliano Sabina. Pasta fatta in casa, ortaggi dell'azienda agricola e brace. Conto sui 50-…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/la-brica-magliano-sabina-ristorante-famiglia-agricoltori/",
-        "pubDate": "2026-11-13T14:56:26+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Firenze c’è un caffè del 1897 dove giocava a scacchi Lenin. Ha riaperto solo due anni fa",
-        "description": "Nato come birreria tedesca, Le Giubbe Rosse divenne il ritrovo dei futuristi. Dopo il fallimento e cinque anni di chiusura, lo storico caffè ha riaperto nel 202…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/giubbe-rosse-firenze-caffe-storico-futuristi/",
-        "pubDate": "2026-11-13T14:52:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sézane x Lucia Zolea: la capsule dal fascino vintage perfetta anche per la stagione delle Feste",
-        "description": "La magia della Holiday season incontra il fascino dei ricordi preziosi. Domenica 15 novembre debutta sull’App ufficiale e su Sezane.com il primo capitolo della …",
-        "link": "https://www.grazia.it/moda/news-moda/sezane-lucia-zolea-capsule-vintage-inspired-party-collection-look-natale-capodanno-1014225",
-        "pubDate": "2026-11-13T14:42:18+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/apertura-sezane.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Rosalía lascia tutti senza fiato ai Latin Grammy 2026 con il Look etereo e scultoreo firmato Matières Fécales",
-        "description": "Rosalía, sul red carpet dei Latin Grammy Awards 2026, sfoggia un look etereo e scultoreo firmato Matières Fécales.…",
-        "link": "https://www.stylosophy.it/articolo/rosalia-lascia-tutti-senza-fiato-ai-latin-grammy-2026-con-il-look-etereo-e-scultoreo-firmato-matieres-fecales/254331/",
-        "pubDate": "2026-11-13T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "A Torino un’ex centrale elettrica è diventata uno dei migliori ristoranti d’Italia",
-        "description": "È Condividere, il ristorante della Nuvola Lavazza guidato da Federico Zanasi, con gli interni firmati dal premio Oscar Dante Ferretti e due menu da 130 e 150 eu…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/a-torino-unex-centrale-elettrica-e-diventata-uno-dei-migliori-ristoranti-ditalia/",
-        "pubDate": "2026-11-13T13:40:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Brasile, tassa su importazioni vino può salire all’11,6%: i rischi per l’Italia",
-        "description": "Il Brasile è un mercato in crescita per il vino italiano. Nel 2025 l’Italia ha esportato nel Paese 10,8 milioni di litri, per un valore di 49,2 milioni di dolla…",
-        "link": "https://www.winemag.it/brasile-tassa-importazioni-vino-puo-salire-rischi-italia/",
-        "pubDate": "2026-11-13T13:38:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "A Gerusalemme c’è un pane al sesamo che si vende ancora caldo sui carretti. È il ka’ak palestinese",
-        "description": "Si vende sui carretti, si mangia ancora caldo ed è un simbolo della cultura palestinese. Il ka'ak al-Quds, il pane al sesamo di Gerusalemme, è candidato a diven…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-palestinese-gerusalemme-kaak-al-quds/",
-        "pubDate": "2026-11-13T13:31:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Suma Cruz porta a Milano Exquisite Creatures: gioielli-scultura che si trasformano in armatura e talismano",
-        "description": "Non semplici accessori, ma piccole sculture pensate per proteggere e raccontare chi le indossa. Il brand spagnolo di gioielleria Suma Cruz, fondato dalla design…",
-        "link": "https://www.grazia.it/moda/news-moda/suma-cruz-gioielli-exquisite-creatures-drop-2-film-eric-dover-1014181",
-        "pubDate": "2026-11-13T13:19:56+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/suma-cruz.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "In questa città del Messico manca l’acqua, ma la Coca-Cola si trova ovunque. E viene usata anche in chiesa",
-        "description": "A San Cristóbal l'acqua corrente arriva a intermittenza, mentre la Coca-Cola è diffusissima. Tra consumi quotidiani, riti religiosi e polemiche sui prelievi ind…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/chiapas-messico-acqua-coca-cola-siccita-san-cristobal/",
-        "pubDate": "2026-11-13T13:17:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo assaggiato 20 kefir del supermercato. Tra i 9 migliori ce n’è uno da 95 centesimi",
-        "description": "Il kefir conquista il carrello degli italiani. Abbiamo assaggiato circa 20 prodotti del supermercato e selezionato i 9 migliori, tra versioni da bere e al cucch…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-kefir-supermercato-classifica-prova-assaggio/",
-        "pubDate": "2026-11-13T12:52:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come abbinare i mocassini con la gonna: 7 idee dallo street style per sfruttare al meglio la combo più trendy di stagione",
-        "description": "La prima cosa che ci viene in mente di fare quando vogliamo indossare i mocassini è aprire l’armadio, scegliere i nostri jeans preferiti e completare il look co…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-abbinare-mocassini-con-la-gonna-corta-midi-a-pieghe-idee-outfit-autunno-donna-1014127",
-        "pubDate": "2026-11-13T11:26:04+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Come_abbinare_gonna_mocassini.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Più finezza, meno opulenza: i vini superaltoatesini raccontano un’evoluzione che riguarda tutta l’Italia",
-        "description": "Oggi a prevalere tra gli icon wines dell'Alto Adige è il territorio, in passato sacrificato per dare spazio alla struttura. Cristina Mercuri: \"È finita l'epoca …",
-        "link": "https://www.gamberorosso.it/notizie/vino/nuovo-stile-vini-superaltoatesini-2026/",
-        "pubDate": "2026-11-13T11:02:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I ristoranti che perdono la stella con la Guida Michelin 2027",
-        "description": "La Michelin 2027 fa strage di stelle e non risparmia i mostri sacri: Mauro Uliassi perde la terza stella, il San Domenico retrocede e tante insegne storiche ven…",
-        "link": "https://www.dissapore.com/notizie/i-ristoranti-che-perdono-la-stella-con-la-guida-michelin-2027/",
-        "pubDate": "2026-11-13T10:34:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/lo-chef-mauro-uliassi-assieme-alla-sua-squadra-sulla-spiaggia-di-senigallia.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Mia madre cucinava un tacchino di 15 chili per il Giorno del Ringraziamento. Dopo la sua morte ho provato a rifarlo”",
-        "description": "Dopo la morte della madre, Eleonora Baldwin decide di ricreare il suo tradizionale menu del Thanksgiving. Dal tacchino alle patate dolci, un ricordo di famiglia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/thanksgiving-menu-mamma-tacchino-ringraziamento-eleonora-baldwin/",
-        "pubDate": "2026-11-13T10:01:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,13 +367,139 @@
     ],
     "lifestyle": [
       {
-        "title": "Best of Mercato Vignaioli Fivi 2026: le 18 cantine della Guida Winemag 2027",
-        "description": "La mappa dei migliori vignaioli al 15° Mercato dei Vini Indipendenti FIVI di BolognaFiere, in programma dal 21 al 23 novembre\nL'articolo Best of Mercato Vignaio…",
-        "link": "https://www.winemag.it/best-of-mercato-vignaioli-fivi-2026-18-cantine-guida-winemag-2027/",
-        "pubDate": "2026-11-13T23:10:00+00:00",
+        "title": "Morellino di Scansano DOCG, la nuova etichetta nasce dal paesaggio della Maremma",
+        "description": "Il paesaggio della Maremma diventa il tratto distintivo della nuova etichetta istituzionale del Consorzio Tutela Morellino di Scansano DOCG. A firmare il proget…",
+        "link": "https://www.winemag.it/morellino-di-scansano-docg-la-nuova-etichetta-nasce-dal-paesaggio-della-maremma/",
+        "pubDate": "2026-11-14T13:00:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Casavecchia Rosato Terre del Volturno Igt 2025 Campanus, Tenuta Selvanova",
+        "description": "Dalla Guida Winemag 2027 &#124; Migliori vini italiani, selezione 2026\nL'articolo Casavecchia Rosato Terre del Volturno Igt 2025 Campanus, Tenuta Selvanova prov…",
+        "link": "https://www.winemag.it/casavecchia-rosato-terre-del-volturno-igt-2025-campanus-tenuta-selvanova/",
+        "pubDate": "2026-11-14T12:45:33+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Toscana Rosato Igt 2025 Tua Rosa, Sensi",
+        "description": "Dalla Guida Winemag 2027 &#124; Migliori vini italiani, selezione 2026\nL'articolo Toscana Rosato Igt 2025 Tua Rosa, Sensi proviene da Winemag.it - Davide Borton…",
+        "link": "https://www.winemag.it/toscana-rosato-igt-2025-tua-rosa-sensi/",
+        "pubDate": "2026-11-14T12:45:32+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Nero di Troia Rosé Igp Puglia 2025 Neia, Crifo",
+        "description": "Dalla Guida Winemag 2027 &#124; Migliori vini italiani, selezione 2026\nL'articolo Nero di Troia Rosé Igp Puglia 2025 Neia, Crifo proviene da Winemag.it - Davide…",
+        "link": "https://www.winemag.it/nero-di-troia-rose-igp-puglia-2025-neia-crifo/",
+        "pubDate": "2026-11-14T12:45:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Colli del Limbara Igt Caricagiola Rosé Gjola, Surrau",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Colli del Limbara Igt Caricagiola Rosé Gjola, Surrau proviene da Winemag.it - Davide Bort…",
+        "link": "https://www.winemag.it/colli-del-limbara-igt-caricagiola-rose-gjola-surrau/",
+        "pubDate": "2026-11-14T12:45:31+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Nero di Troia Rosé 2025 Fuorilemura, Crifo",
+        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Nero di Troia Rosé 2025 Fuorilemura, Crifo proviene da Winemag.it - Davide Bortone: win…",
+        "link": "https://www.winemag.it/nero-di-troia-rose-2025-fuorilemura-crifo/",
+        "pubDate": "2026-11-14T12:45:30+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Langhe Doc Rosato 2025, Diego Morra",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Langhe Doc Rosato 2025, Diego Morra proviene da Winemag.it - Davide Bortone: wine magazin…",
+        "link": "https://www.winemag.it/langhe-doc-rosato-2025-diego-morra/",
+        "pubDate": "2026-11-14T12:45:29+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Lacrima Christi del Vesuvio Doc Rosato 2025 Biologico Munazei, Casa Setaro",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Lacrima Christi del Vesuvio Doc Rosato 2025 Biologico Munazei, Casa Setaro proviene da Wi…",
+        "link": "https://www.winemag.it/lacrima-christi-del-vesuvio-doc-rosato-2025-biologico-munazei-casa-setaro/",
+        "pubDate": "2026-11-14T12:45:28+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Langhe Nebbiolo 2023, Marchese Dalmasso",
+        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Langhe Nebbiolo 2023, Marchese Dalmasso proviene da Winemag.it - Davide Bortone: wine mag…",
+        "link": "https://www.winemag.it/langhe-nebbiolo-2023-marchese-dalmasso/",
+        "pubDate": "2026-11-14T12:45:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Barbaresco Docg 2022, Marchese Dalmasso",
+        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Barbaresco Docg 2022, Marchese Dalmasso proviene da Winemag.it - Davide Bortone: wine mag…",
+        "link": "https://www.winemag.it/barbaresco-docg-2022-marchese-dalmasso/",
+        "pubDate": "2026-11-14T12:45:27+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "In Messico esistono ancora gli orti costruiti dagli aztechi in mezzo ai laghi. Ora rischiano di scomparire",
+        "description": "A Xochimilco si coltiva ancora su terreni artificiali circondati da canali. Un sistema agricolo preazteco oggi minacciato dall'inquinamento e dall'espansione ur…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chinampas-messico-orti-aztechi-xochimilco/",
+        "pubDate": "2026-11-14T08:23:46+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Come Microsoft down impatta anche sul cibo",
+        "description": "Il down mondiale di Microsoft manda in tilt anche il mondo del cibo: rallentamenti nella logistica, problemi con la spesa online e consegne natalizie a rischio.…",
+        "link": "https://www.dissapore.com/notizie/come-microsoft-down-impatta-anche-sul-cibo/",
+        "pubDate": "2026-11-14T08:21:10+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/supermercati-bio-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Tre amici iniziano a fare vino in un garage in Irpinia: oggi producono 20mila bottiglie",
+        "description": "Nel 2000 tre amici iniziano a produrre Aglianico in un garage ad Ariano Irpino. Oggi Casa Brecceto coltiva 3,6 ettari di vigne e produce circa 20mila bottiglie…",
+        "link": "https://www.gamberorosso.it/notizie/vino/casa-brecceto-vini-garage-ariano-irpino/",
+        "pubDate": "2026-11-14T08:06:31+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A 86 anni Giorgio Moroder si prepara a suonare al Coachella. Ma il padre della disco music produce anche Prosecco",
+        "description": "Il compositore italiano, protagonista della disco music, ha lanciato nel 2022 Liquid Disco, un Prosecco Doc disponibile anche in versione rosé. E ora si prepara…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/giorgio-moroder-coachella-prosecco-liquid-disco/",
+        "pubDate": "2026-11-14T07:04:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In questo paese tutti portavano il pane a cuocere nello stesso forno. Il terremoto lo distrusse, ora rinasce",
+        "description": "Per generazioni le famiglie di Onna hanno portato qui i propri impasti da cuocere. Il sisma del 2009 distrusse il forno e uccise anche Anna Berardina Bonanni, u…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/onna-forno-collettivo-pane-terremoto-ricostruzione/",
+        "pubDate": "2026-11-14T05:58:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "A Roma il primo Forum del bar italiano: al centro qualità, accoglienza e nuove sfide per il settore",
@@ -419,132 +545,6 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Torino un’ex centrale elettrica è diventata uno dei migliori ristoranti d’Italia",
-        "description": "È Condividere, il ristorante della Nuvola Lavazza guidato da Federico Zanasi, con gli interni firmati dal premio Oscar Dante Ferretti e due menu da 130 e 150 eu…",
-        "link": "https://www.gamberorosso.it/notizie/ristoranti/a-torino-unex-centrale-elettrica-e-diventata-uno-dei-migliori-ristoranti-ditalia/",
-        "pubDate": "2026-11-13T13:40:13+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Brasile, tassa su importazioni vino può salire all’11,6%: i rischi per l’Italia",
-        "description": "Il Brasile è un mercato in crescita per il vino italiano. Nel 2025 l’Italia ha esportato nel Paese 10,8 milioni di litri, per un valore di 49,2 milioni di dolla…",
-        "link": "https://www.winemag.it/brasile-tassa-importazioni-vino-puo-salire-rischi-italia/",
-        "pubDate": "2026-11-13T13:38:08+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "A Gerusalemme c’è un pane al sesamo che si vende ancora caldo sui carretti. È il ka’ak palestinese",
-        "description": "Si vende sui carretti, si mangia ancora caldo ed è un simbolo della cultura palestinese. Il ka'ak al-Quds, il pane al sesamo di Gerusalemme, è candidato a diven…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pane-palestinese-gerusalemme-kaak-al-quds/",
-        "pubDate": "2026-11-13T13:31:32+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In questa città del Messico manca l’acqua, ma la Coca-Cola si trova ovunque. E viene usata anche in chiesa",
-        "description": "A San Cristóbal l'acqua corrente arriva a intermittenza, mentre la Coca-Cola è diffusissima. Tra consumi quotidiani, riti religiosi e polemiche sui prelievi ind…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/chiapas-messico-acqua-coca-cola-siccita-san-cristobal/",
-        "pubDate": "2026-11-13T13:17:33+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Abbiamo assaggiato 20 kefir del supermercato. Tra i 9 migliori ce n’è uno da 95 centesimi",
-        "description": "Il kefir conquista il carrello degli italiani. Abbiamo assaggiato circa 20 prodotti del supermercato e selezionato i 9 migliori, tra versioni da bere e al cucch…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/classifiche/migliori-kefir-supermercato-classifica-prova-assaggio/",
-        "pubDate": "2026-11-13T12:52:24+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Più finezza, meno opulenza: i vini superaltoatesini raccontano un’evoluzione che riguarda tutta l’Italia",
-        "description": "Oggi a prevalere tra gli icon wines dell'Alto Adige è il territorio, in passato sacrificato per dare spazio alla struttura. Cristina Mercuri: \"È finita l'epoca …",
-        "link": "https://www.gamberorosso.it/notizie/vino/nuovo-stile-vini-superaltoatesini-2026/",
-        "pubDate": "2026-11-13T11:02:21+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "I ristoranti che perdono la stella con la Guida Michelin 2027",
-        "description": "La Michelin 2027 fa strage di stelle e non risparmia i mostri sacri: Mauro Uliassi perde la terza stella, il San Domenico retrocede e tante insegne storiche ven…",
-        "link": "https://www.dissapore.com/notizie/i-ristoranti-che-perdono-la-stella-con-la-guida-michelin-2027/",
-        "pubDate": "2026-11-13T10:34:17+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/lo-chef-mauro-uliassi-assieme-alla-sua-squadra-sulla-spiaggia-di-senigallia.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“Mia madre cucinava un tacchino di 15 chili per il Giorno del Ringraziamento. Dopo la sua morte ho provato a rifarlo”",
-        "description": "Dopo la morte della madre, Eleonora Baldwin decide di ricreare il suo tradizionale menu del Thanksgiving. Dal tacchino alle patate dolci, un ricordo di famiglia…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/thanksgiving-menu-mamma-tacchino-ringraziamento-eleonora-baldwin/",
-        "pubDate": "2026-11-13T10:01:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Germania, Glühwein analcolico può chiamarsi Alkoholfreier Glühwein",
-        "description": "In Germania i prodotti ottenuti da vino dealcolato con una gradazione inferiore a 0,5% vol. possono essere venduti come «Alkoholfreier Glühwein», cioè Glühwein …",
-        "link": "https://www.winemag.it/germania-gluhwein-analcolico-puo-chiamarsi-alkoholfreier-gluhwein/",
-        "pubDate": "2026-11-13T09:52:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dal dealcolato al Pinot Nero 1999: chi se non Hofstätter?",
-        "description": "Un dealcolato per cominciare. Un Pinot Nero del 1999 per chiudere. Nel mezzo, un Gewürztraminer di vent’anni, due diverse letture della vendemmia 2023. E, sopra…",
-        "link": "https://www.winemag.it/dal-dealcolato-al-pinot-nero-1999-chi-se-non-hofstatter/",
-        "pubDate": "2026-11-12T23:20:00+00:00",
-        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Dal-dealcolato-al-Pinot-Nero-1999-chi-se-non-Hofstatter-miglior-cantina-italiana-guida-winemag-2027-martin-foradori-figlio-niklas-foradori-hofstatter-4-660x365.jpg",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Sudafrica, nove Paesi del vino a Stellenbosch per semplificare l’export",
-        "description": "Dal 1° al 4 novembre Stellenbosch ha ospitato la riunione annuale del World Wine Trade Group (WWTG). Al tavolo, secondo le notizie diffuse dopo l’incontro, hann…",
-        "link": "https://www.winemag.it/world-wine-trade-group-wwtg-sudafrica-nove-paesi-vino-stellenbosch-semplificare-export/",
-        "pubDate": "2026-11-12T23:10:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vino europeo, dati vendemmia 2026 Paese per Paese",
-        "description": "La vendemmia 2026 nell’Unione europea si ferma a una produzione stimata di 133,6 milioni di ettolitri di vino e mosto, in calo del 4% rispetto alla campagna pre…",
-        "link": "https://www.winemag.it/vino-europeo-vendemmia-2026-dati-paese-calano-consumi-export/",
-        "pubDate": "2026-11-12T19:28:02+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Quali sono i nuovi ristoranti stellati italiani per la Guida Michelin 2027",
-        "description": "A 24 ristoranti della Penisola arriva la prima stella Michelin, 3 ottengono le due stelle e nessuno prende la terza stella.\nL'articolo Quali sono i nuovi ristor…",
-        "link": "https://www.dissapore.com/ristoranti/quali-sono-i-nuovi-ristoranti-stellati-italiani-per-la-guida-michelin-2027/",
-        "pubDate": "2026-11-12T14:56:56+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/1224-Restaurant-Cortina.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Chiude Cracco a Portofino: ecco cosa sarà di Carlo Cracco e Mattia Pecis",
-        "description": "Dopo cinque anni termina l'avventura gastronomica di Carlo Cracco nel borgo più esclusivo della Riviera ligure: che ne sarà del talentuoso Mattia Pecis?\nL'artic…",
-        "link": "https://www.dissapore.com/notizie/chiude-cracco-a-portofino-il-ristorante-di-carlo-cracco-e-mattia-pecis/",
-        "pubDate": "2026-11-12T13:11:18+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/Mattia-pecis.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
       }
     ]
   }
