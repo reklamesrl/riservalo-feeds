@@ -1,7 +1,52 @@
 {
-  "generated": "2026-11-15T13:31:31.998361+00:00",
+  "generated": "2026-11-15T22:31:42.830933+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Profumi invernali: 5 fragranze calde e speziate da provare durante la stagione fredda",
+        "description": "Dalle note speziate dello zenzero alla dolcezza della fava tonka, ecco cinque profumi che interpretano al meglio l'inverno con accordi intensi, sensuali e avvol…",
+        "link": "https://www.stylosophy.it/articolo/profumi-invernali-5-fragranze-calde-e-speziate-da-provare-durante-la-stagione-fredda/254349/",
+        "pubDate": "2026-11-15T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il must di stagione? La giacca con stampa ‘Bambi’ di Chiara Ferragni",
+        "description": "Chiara Ferragni segue il trend del momento sfoggiando la giacca con stampa cerbiatto.…",
+        "link": "https://www.stylosophy.it/articolo/il-must-di-stagione-la-giacca-con-stampa-bambi-di-chiara-ferragni/254360/",
+        "pubDate": "2026-11-15T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Da vino “proibito” ai Tre Bicchieri: la sfida sostenibile del viticoltore che ha fatto rinascere lo Zibibbo in Calabria",
+        "description": "La storia di Cantine Benvenuto che ha ottenuto il premio per la Vitivinicoltura Sostenibile della guida Vini d'Italia 2027 del Gambero Rosso e i Tre Bicchieri p…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cantine-benvenuto-calabria-premio-vitivinicoltura-sostenibile-2027/",
+        "pubDate": "2026-11-15T11:57:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’italiano che prepara 30mila Martini all’anno in uno dei bar più famosi di Londra",
+        "description": "Giorgio Bargiani racconta il Connaught Bar di Londra, il rito dei Martini al tavolo, i limoni di Amalfi e perché non crede che i cocktail analcolici conquistera…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/giorgio-bargiani-connaught-bar-londra-martini-intervista/",
+        "pubDate": "2026-11-15T11:04:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Paolo Conte rimpiange i vini di una volta: “Quelli di oggi sono troppo alcolici”. E racconta i suoi preferiti",
+        "description": "Durante la presentazione del suo libro ad Alba, il cantautore ha ricordato i vini piemontesi di un tempo, elogiando il Grignolino e il Pelaverga di Verduno…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/paolo-conte-vini-troppo-alcolici-grignolino-pelaverga/",
+        "pubDate": "2026-11-15T09:52:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "European Beer Star 2026, Italia seconda nel medagliere",
         "description": "L’Italia conquista il secondo posto all’European Beer Star 2026 con 38 medaglie, di cui 16 d’oro, 12 d’argento e 10 di bronzo. Un risultato che colloca i produt…",
@@ -28,6 +73,15 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2024/11/trump-vodka.jpg?width=300&height=150&quality=75",
         "cat": "Food",
         "source": "Dissapore"
+      },
+      {
+        "title": "Pellicce faux fur: i modelli lunghi, corti e midi più caldi e cool dell’inverno",
+        "description": "Cropped oppure lunghissime e avvolgenti come un caldo abbraccio. O ancora, dalla lunghezza midi sofisticata. Le pellicce faux fur si riconfermano anche quest&#8…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pellicce-sintetiche-pelliccia-finta-donna-di-qualita-zara-faux-fur-capispalla-inverno-2026-1013765",
+        "pubDate": "2026-11-15T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_faux_fur.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Una delle migliori trattorie d’Italia si trova nel cuore di Palermo e cucina ancora i piatti della tradizione",
@@ -127,63 +181,36 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Nero di Troia Rosé Igp Puglia 2025 Neia, Crifo",
-        "description": "Dalla Guida Winemag 2027 &#124; Migliori vini italiani, selezione 2026\nL'articolo Nero di Troia Rosé Igp Puglia 2025 Neia, Crifo proviene da Winemag.it - Davide…",
-        "link": "https://www.winemag.it/nero-di-troia-rose-igp-puglia-2025-neia-crifo/",
-        "pubDate": "2026-11-14T12:45:31+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dove mangiare i migliori supplì di Roma: 16 indirizzi scelti da chi li conosce bene",
-        "description": "Dal classico al telefono alle versioni con carbonara, porcini e verdure: la redazione del Gambero Rosso sceglie 16 indirizzi per mangiare supplì a Roma…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-migliori-suppli-roma-16-indirizzi/",
-        "pubDate": "2026-11-14T12:10:29+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Fa pizza in Calabria da 35 anni e ha conquistato i Tre Spicchi. Ora il suo metodo arriva in un cocktail bar di Milano",
-        "description": "Dal 19 novembre il cocktail bar Carico di Milano avrà una sala dedicata alla pizza in teglia, realizzata con il metodo del pizzaiolo calabrese Daniele Campana…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/daniele-campana-carico-pizza-teglia-milano/",
-        "pubDate": "2026-11-14T10:49:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Bergamo e Brescia litigano sui casoncelli. Ma c’è una differenza che cambia completamente il ripieno",
-        "description": "Stesso nome, ricette molto diverse: a Bergamo il ripieno è agrodolce, con amaretti, uvetta e pera. Nel Bresciano cambiano ingredienti e forme da un paese all'al…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/casoncelli-bergamaschi-bresciani-differenze/",
-        "pubDate": "2026-11-14T09:58:42+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Messico esistono ancora gli orti costruiti dagli aztechi in mezzo ai laghi. Ora rischiano di scomparire",
-        "description": "A Xochimilco si coltiva ancora su terreni artificiali circondati da canali. Un sistema agricolo preazteco oggi minacciato dall'inquinamento e dall'espansione ur…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chinampas-messico-orti-aztechi-xochimilco/",
-        "pubDate": "2026-11-14T08:23:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come Microsoft down impatta anche sul cibo",
-        "description": "Il down mondiale di Microsoft manda in tilt anche il mondo del cibo: rallentamenti nella logistica, problemi con la spesa online e consegne natalizie a rischio.…",
-        "link": "https://www.dissapore.com/notizie/come-microsoft-down-impatta-anche-sul-cibo/",
-        "pubDate": "2026-11-14T08:21:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/supermercati-bio-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
       }
     ],
     "moda": [
+      {
+        "title": "Profumi invernali: 5 fragranze calde e speziate da provare durante la stagione fredda",
+        "description": "Dalle note speziate dello zenzero alla dolcezza della fava tonka, ecco cinque profumi che interpretano al meglio l'inverno con accordi intensi, sensuali e avvol…",
+        "link": "https://www.stylosophy.it/articolo/profumi-invernali-5-fragranze-calde-e-speziate-da-provare-durante-la-stagione-fredda/254349/",
+        "pubDate": "2026-11-15T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Il must di stagione? La giacca con stampa ‘Bambi’ di Chiara Ferragni",
+        "description": "Chiara Ferragni segue il trend del momento sfoggiando la giacca con stampa cerbiatto.…",
+        "link": "https://www.stylosophy.it/articolo/il-must-di-stagione-la-giacca-con-stampa-bambi-di-chiara-ferragni/254360/",
+        "pubDate": "2026-11-15T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Pellicce faux fur: i modelli lunghi, corti e midi più caldi e cool dell’inverno",
+        "description": "Cropped oppure lunghissime e avvolgenti come un caldo abbraccio. O ancora, dalla lunghezza midi sofisticata. Le pellicce faux fur si riconfermano anche quest&#8…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/pellicce-sintetiche-pelliccia-finta-donna-di-qualita-zara-faux-fur-capispalla-inverno-2026-1013765",
+        "pubDate": "2026-11-15T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_faux_fur.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Come ridurre il consumo d’acqua e risparmiare sulla bolletta: la soluzione IKEA facile da installare!",
         "description": "Scopri come trasformare il bagno in uno spazio più efficiente e consapevole senza interventi complessi né rinunce al comfort quotidiano. Una nuova visione del r…",
@@ -320,15 +347,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Carhartt WIP e Nike di nuovo insieme per una collaborazione esclusiva",
-        "description": "A otto anni dal loro primo fortunato incontro, Carhartt WIP e Nike uniscono nuovamente le forze per la stagione Autunno/Inverno 2026, firmando una capsule che f…",
-        "link": "https://www.grazia.it/moda/news-moda/carhartt-wip-nike-nuova-collaborazione-capsule-collection-campagna-1013641",
-        "pubDate": "2026-11-12T12:28:47+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/carhartt-apertura.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Bosa, i complementi d’arredo ispirati alla natura che giocano su materia e forme scultoree",
         "description": "Colori ispirati alla terra e all’acqua, superfici lavorate e silhouette originali: le collezioni Bosa reinterpretano gli elementi naturali attraverso complement…",
         "link": "https://www.stylosophy.it/articolo/bosa-i-complementi-darredo-ispirati-alla-natura-che-giocano-su-materia-e-forme-scultoree/254307/",
@@ -345,27 +363,36 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Barò Cosmetics presenta la nuova linea antiage al Tartufo Bianco d’Alba: skincare Made in Italy e ricerca scientifica",
-        "description": "Dalle vinacce di Nebbiolo alle proprietà cosmetiche del tartufo bianco, il brand piemontese punta su ingredienti del territorio e ricerca biotecnologica per una…",
-        "link": "https://www.stylosophy.it/articolo/baro-cosmetics-nuova-linea-antiage-al-tartufo-bianco-dalba-skincare-made-in-italy/254284/",
-        "pubDate": "2026-11-10T16:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "Giulia De Lellis, anche in autunno non rinuncia a questa borsa così iconica FOTO",
-        "description": "Giulia De Lellis, anche in autunno non rinuncia a questa borsa così iconica: di quale si tratta?…",
-        "link": "https://www.stylosophy.it/articolo/giulia-de-lellis-anche-in-autunno-non-rinuncia-a-questa-borsa-cosi-iconica-foto/254292/",
-        "pubDate": "2026-11-10T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Da vino “proibito” ai Tre Bicchieri: la sfida sostenibile del viticoltore che ha fatto rinascere lo Zibibbo in Calabria",
+        "description": "La storia di Cantine Benvenuto che ha ottenuto il premio per la Vitivinicoltura Sostenibile della guida Vini d'Italia 2027 del Gambero Rosso e i Tre Bicchieri p…",
+        "link": "https://www.gamberorosso.it/notizie/vino/cantine-benvenuto-calabria-premio-vitivinicoltura-sostenibile-2027/",
+        "pubDate": "2026-11-15T11:57:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "L’italiano che prepara 30mila Martini all’anno in uno dei bar più famosi di Londra",
+        "description": "Giorgio Bargiani racconta il Connaught Bar di Londra, il rito dei Martini al tavolo, i limoni di Amalfi e perché non crede che i cocktail analcolici conquistera…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/interviste/giorgio-bargiani-connaught-bar-londra-martini-intervista/",
+        "pubDate": "2026-11-15T11:04:24+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Paolo Conte rimpiange i vini di una volta: “Quelli di oggi sono troppo alcolici”. E racconta i suoi preferiti",
+        "description": "Durante la presentazione del suo libro ad Alba, il cantautore ha ricordato i vini piemontesi di un tempo, elogiando il Grignolino e il Pelaverga di Verduno…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/paolo-conte-vini-troppo-alcolici-grignolino-pelaverga/",
+        "pubDate": "2026-11-15T09:52:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "European Beer Star 2026, Italia seconda nel medagliere",
         "description": "L’Italia conquista il secondo posto all’European Beer Star 2026 con 38 medaglie, di cui 16 d’oro, 12 d’argento e 10 di bronzo. Un risultato che colloca i produt…",
@@ -515,33 +542,6 @@
         "description": "A Xochimilco si coltiva ancora su terreni artificiali circondati da canali. Un sistema agricolo preazteco oggi minacciato dall'inquinamento e dall'espansione ur…",
         "link": "https://www.gamberorosso.it/notizie/rubriche/storie/chinampas-messico-orti-aztechi-xochimilco/",
         "pubDate": "2026-11-14T08:23:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Come Microsoft down impatta anche sul cibo",
-        "description": "Il down mondiale di Microsoft manda in tilt anche il mondo del cibo: rallentamenti nella logistica, problemi con la spesa online e consegne natalizie a rischio.…",
-        "link": "https://www.dissapore.com/notizie/come-microsoft-down-impatta-anche-sul-cibo/",
-        "pubDate": "2026-11-14T08:21:10+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/02/supermercati-bio-2-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Tre amici iniziano a fare vino in un garage in Irpinia: oggi producono 20mila bottiglie",
-        "description": "Nel 2000 tre amici iniziano a produrre Aglianico in un garage ad Ariano Irpino. Oggi Casa Brecceto coltiva 3,6 ettari di vigne e produce circa 20mila bottiglie…",
-        "link": "https://www.gamberorosso.it/notizie/vino/casa-brecceto-vini-garage-ariano-irpino/",
-        "pubDate": "2026-11-14T08:06:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A 86 anni Giorgio Moroder si prepara a suonare al Coachella. Ma il padre della disco music produce anche Prosecco",
-        "description": "Il compositore italiano, protagonista della disco music, ha lanciato nel 2022 Liquid Disco, un Prosecco Doc disponibile anche in versione rosé. E ora si prepara…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/giorgio-moroder-coachella-prosecco-liquid-disco/",
-        "pubDate": "2026-11-14T07:04:01+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
