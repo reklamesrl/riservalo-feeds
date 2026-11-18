@@ -1,7 +1,133 @@
 {
-  "generated": "2026-11-18T00:37:45.757663+00:00",
+  "generated": "2026-11-18T15:13:14.055585+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Nuovo disciplinare Colli Euganei DOC: cosa cambia per rossi e Serprino",
+        "description": "Serprino è il nome con cui sui Colli Euganei si identifica la Glera, il vitigno alla base del Prosecco. Il nuovo disciplinare della DOC Colli Euganei rafforza i…",
+        "link": "https://www.winemag.it/nuovo-disciplinare-colli-euganei-doc-cosa-cambia-per-rossi-serprino/",
+        "pubDate": "2026-11-18T14:49:58+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Assoenologi, 80° congresso in Abruzzo dal 10 giugno 2027",
+        "description": "Sarà un'occasione per discutere di ricerca, innovazione, mercati e salute del vino italiano.\nL'articolo Assoenologi, 80° congresso in Abruzzo dal 10 giugno 2027…",
+        "link": "https://www.winemag.it/assoenologi-80-congresso-in-abruzzo-dal-10-giugno-2027/",
+        "pubDate": "2026-11-18T14:34:23+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il secondo polo agroalimentare più grande d’Europa ora è in Italia, e vale 3,7 miliardi di euro",
+        "description": "Il 17 novembre si sono uniti MOF  e CAR, due grandi strutture dell'agroalimentare romano, che insieme creano il secondo centro europeo per importanza.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/il-secondo-polo-agroalimentare-piu-grande-deuropa-ora-e-in-italia-e-vale-37-miliardi-di-euro/",
+        "pubDate": "2026-11-18T12:49:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/tir-roma-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il sale Maldon è in realtà sale grosso tedesco?",
+        "description": "Un'inchiesta dell'Observer svela i retroscena sulla produzione del sale più amato dagli chef del mondo.\nL'articolo Il sale Maldon è in realtà sale grosso tedesc…",
+        "link": "https://www.dissapore.com/notizie/il-sale-maldon-e-in-realta-sale-grosso-tedesco/",
+        "pubDate": "2026-11-18T10:50:31+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/sale-maldon-scatola-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Cantina del Vesuvio tra vini biologici ed enoturismo",
+        "description": "Cantina del Vesuvio a Trecase storia dei Russo, vini biologici, Lacryma Christi Doc, degustazioni con abbinamenti gastronomici vicino Pompei\nL'articolo Cantina …",
+        "link": "https://www.winemag.it/cantina-del-vesuvio-vini-biologici-enoturismo/",
+        "pubDate": "2026-11-18T09:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Cantina-del-Vesuvio-a-Trecase-storia-dei-Russo-vini-biologici-Lacryma-Christi-Doc-degustazioni-con-abbinamenti-gastronomici-vicino-Pompei-enoturismo-campania-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "In Italia ci sono quasi 22mila bar in meno rispetto al 2019. Eppure il 72% degli italiani continua a frequentarli ogni settimana",
+        "description": "Secondo FIPE, tra il 2019 e il 2025 sono diminuite di 21.741 unità le imprese attive. Al primo Forum del Bar Italiano si discute di costi, consumi e possibili a…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/crisi-bar-italiani-chiusure-fipe-forum-2026/",
+        "pubDate": "2026-11-18T08:28:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“La cucina italiana vale il 15% del Pil”. Ecco come il governo cerca nuovi mercati per il settore agroalimentare",
+        "description": "Alla Settimana della Cucina Italiana nel Mondo, Lollobrigida e Tajani presentano le iniziative per sostenere l'export agroalimentare e aprire nuovi mercati…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/lollobrigida-cucina-italiana-pil-export-strategia-governo/",
+        "pubDate": "2026-11-18T08:25:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Bologna c’è una bottega del 1783 dove un cavallo faceva girare le mole per affilare i coltelli",
+        "description": "Nel Quadrilatero di Bologna, l'Antica Aguzzeria del Cavallo conserva arredi ottocenteschi e vende utensili da cucina. Un tempo affilava spade e coltelli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/antica-aguzzeria-cavallo-bologna-bottega-storica/",
+        "pubDate": "2026-11-18T08:21:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La carne coltivata arriva in ristoranti e mense, cucinata dallo chef più celebre degli Stati Uniti",
+        "description": "Dopo anni di annunci e sperimentazioni, il pollo ottenuto da cellule animali entra nei menu di alcuni locali americani, sostenuto da Thomas Keller, uno degli ch…",
+        "link": "https://www.dissapore.com/notizie/la-carne-coltivata-arriva-in-ristoranti-e-mense-cucinata-dallo-chef-piu-celebre-degli-stati-uniti/",
+        "pubDate": "2026-11-18T08:14:25+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2017/12/carne_coltivata_memphis_meat-1-e1791567076943.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Partirono con quattro ettari di vigna. Oggi producono 500mila bottiglie e hanno vinto il premio per il miglior spumante italiano",
+        "description": "Il Franciacorta Non Dosato 33 Riserva 2018 di Ferghettina è Bollicine dell'Anno per Vini d'Italia 2027. Per la cantina bresciana è il secondo riconoscimento…",
+        "link": "https://www.gamberorosso.it/notizie/vino/franciacorta-ferghettina-bollicine-anno-2027/",
+        "pubDate": "2026-11-18T08:11:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un marchio unico statale di sostenibilità vitivinicola: si partirà già dalla prossima vendemmia",
+        "description": "La novità è stata annunciata all’inaugurazione del Simei dal presidente Uiv Lamberto Frescobaldi. Adesso si aspetta di sapere quale sarà il simbolo scelto dal M…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri-marchio-unico-sostenibilita-vino/",
+        "pubDate": "2026-11-18T08:02:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dalle prime 3mila bottiglie all’invenzione della Franciacorta: la storia di Guido Berlucchi diventa un film",
+        "description": "Il biopic parte dall'incontro con l'enologo Franco Ziliani e dalla sfida coi grandi metodo classico francesi, per svelare anche il lato umano dell'imprenditore …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/biopic-guido-berluchi-franciacorta/",
+        "pubDate": "2026-11-18T07:07:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Amara Vergine, cinque anni in quattro legni per la limited edition di Amaro Amara",
+        "description": "Sedici barrique nuove, quattro essenze e cinque anni di affinamento. Amaro Amara presenta Amara Vergine, una limited edition in sole 3.800 bottiglie, destinata …",
+        "link": "https://www.winemag.it/amara-vergine-cinque-anni-in-quattro-legni-per-la-limited-edition-di-amaro-amara/",
+        "pubDate": "2026-11-18T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Granaccia & Rossi di Liguria a Quiliano il 28 e 29 novembre: attese 60 cantine",
+        "description": "Granaccia &#38; Rossi di Liguria torna a Quiliano il 28 e 29 novembre: attese oltre 60 cantine La 21ª edizione di Granaccia &#38; Rossi di Liguria si terrà saba…",
+        "link": "https://www.winemag.it/granaccia-rossi-di-liguria-2026-quiliano-28-29-novembre-60-cantine/",
+        "pubDate": "2026-11-18T04:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Natale intorno al mondo con Maisons du Monde: le decorazioni più belle per vivere tutta la magia delle feste",
         "description": "Da Jaipur a Marte, passando per Parigi, Londra, Chamonix e il Québec: un viaggio tra colori, tradizioni e atmosfere sorprendenti per un Natale tutto da immagina…",
@@ -55,132 +181,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Barbera d’Asti Docg Superiore 2021 Beneficio, Cascina Sciorio",
-        "description": "PUNTEGGIO WINEMAG 91 / 100 Medaglia Silver Guida Winemag 2027\nL'articolo Barbera d&#8217;Asti Docg Superiore 2021 Beneficio, Cascina Sciorio proviene da Winemag…",
-        "link": "https://www.winemag.it/barbera-dasti-docg-superiore-2021-beneficio-cascina-sciorio/",
-        "pubDate": "2026-11-17T15:35:16+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Rosso Terre Siciliane Igp 2016 Nino, Caruso & Minini",
-        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Rosso Terre Siciliane Igp 2016 Nino, Caruso   Minini proviene da Winemag.it - Davide Bort…",
-        "link": "https://www.winemag.it/rosso-terre-siciliane-igp-2016-nino-caruso-minini/",
-        "pubDate": "2026-11-17T15:35:15+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Delia Nivolelli Doc Syrah Riserva 2018, Caruso & Minini",
-        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Delia Nivolelli Doc Syrah Riserva 2018, Caruso   Minini proviene da Winemag.it - Davide B…",
-        "link": "https://www.winemag.it/delia-nivolelli-doc-syrah-riserva-2018-caruso-minini/",
-        "pubDate": "2026-11-17T15:35:14+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Montefalco Rosso Doc 2023, Tenuta Alzatura",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Montefalco Rosso Doc 2023, Tenuta Alzatura proviene da Winemag.it - Davide Bortone:…",
-        "link": "https://www.winemag.it/montefalco-rosso-doc-2023-tenuta-alzatura/",
-        "pubDate": "2026-11-17T15:35:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Canaiolo Toscana Igt 2022 Numero Otto, Castelvecchio",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Canaiolo Toscana Igt 2022 Numero Otto, Castelvecchio proviene da Winemag.it - Davide Bort…",
-        "link": "https://www.winemag.it/canaiolo-toscana-igt-2022-numero-otto-castelvecchio/",
-        "pubDate": "2026-11-17T15:35:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Sangiovese Toscana Igt 2020 edizione limitata Solo Uno, Castelvecchio",
-        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sangiovese Toscana Igt 2020 edizione limitata Solo Uno, Castelvecchio proviene da Winemag…",
-        "link": "https://www.winemag.it/sangiovese-toscana-igt-2020-edizione-limitata-solo-uno-castelvecchio/",
-        "pubDate": "2026-11-17T15:35:10+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Rosso Toscano Igt 2021 Il Brecciolino, Castelvecchio",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Rosso Toscano Igt 2021 Il Brecciolino, Castelvecchio proviene da Winemag.it - David…",
-        "link": "https://www.winemag.it/rosso-toscano-igt-2021-il-brecciolino-castelvecchio/",
-        "pubDate": "2026-11-17T15:35:09+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Nel 1994 Lady Diana indossò il celebre “revenge dress”: oggi l’abito va all’asta (e noi abbiamo trovato alcuni modelli per replicare il look)",
-        "description": "Ci sono abiti che fanno la storia della moda e altri che entrano direttamente nella cultura pop come simboli di emancipazione femminile. Il &#8220;Revenge Dress…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/lady-diana-revenge-dress-1994-oggi-va-all-asta-modelli-simili-vestiti-neri-zara-mango-hm-1014810",
-        "pubDate": "2026-11-17T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/diana.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Dal 1878 nel cuore del Canavese, la pasticceria con un dolce a forma di lingotto e la stessa ricetta da novant’anni",
-        "description": "Gli scaffali sono quelli originali, i panettoni hanno una medaglia d’oro del 1911. E a uno di questi tavolini, nel 1934, Silvio Piola firmò per la Lazio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-cuorgne-canavese/",
-        "pubDate": "2026-11-17T14:37:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Italia si cerca il miglior formaggiaio. Cinque finalisti si sfideranno tra assaggi alla cieca e prove di taglio",
-        "description": "Cinque professionisti si contenderanno il titolo a Parma il 6 maggio 2027. In programma degustazioni alla cieca, prove di taglio e abbinamenti…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gran-premio-formaggiaio-2027-finalisti-parma/",
-        "pubDate": "2026-11-17T14:28:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pane al supermercato costa il 23% in meno che in panetteria. Ma il prezzo al chilo non racconta tutto",
-        "description": "Secondo Altroconsumo il pane costa meno nei supermercati. Ma ingredienti, lavorazione, durata e spreco possono cambiare il conto finale per chi lo acquista…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/prezzo-pane-supermercato-panetteria-altroconsumo/",
-        "pubDate": "2026-11-17T14:25:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Che scarpe indossare quando piove? Niente panico! Ecco i modelli da avere per un look che non teme gli acquazzoni",
-        "description": "La domanda è sempre la stessa: come affrontare con nonchalance le giornate di pioggia e, soprattutto, che scarpe indossare quando piove? Trovare delle calzature…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/che-scarpe-indossare-quando-piove-stivali-da-pioggia-hunter-wellington-boots-mocassini-invernali-bis-996134",
-        "pubDate": "2026-11-17T14:15:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2023/04/cover-pioggia.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Jennifer Lawrence, alla première di Hunger Games: L’alba sulla mietitura con un total look Dior",
-        "description": "Jennifer Lawrence alla prima del film Hunger Games: L'alba sulla mietitura ha indossato un total look firmato Dior: qui di seguito per tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/jennifer-lawrence-alla-premiere-di-hunger-games-lalba-sulla-mietitura-con-un-total-look-dior/254382/",
-        "pubDate": "2026-11-17T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
-      },
-      {
-        "title": "In Abruzzo gli spinaci crescono anche a 2mila metri. Si chiamano orapi e con i fagioli diventano una zuppa tradizionale",
-        "description": "Crescono spontanei nei pascoli di montagna e da secoli fanno parte della cucina contadina e pastorale abruzzese. Gli orapi sono protagonisti di zuppe, piatti di…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/orapi-spinaci-selvatici-abruzzo-pastori/",
-        "pubDate": "2026-11-17T12:11:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ],
     "moda": [
@@ -367,6 +367,132 @@
     ],
     "lifestyle": [
       {
+        "title": "Nuovo disciplinare Colli Euganei DOC: cosa cambia per rossi e Serprino",
+        "description": "Serprino è il nome con cui sui Colli Euganei si identifica la Glera, il vitigno alla base del Prosecco. Il nuovo disciplinare della DOC Colli Euganei rafforza i…",
+        "link": "https://www.winemag.it/nuovo-disciplinare-colli-euganei-doc-cosa-cambia-per-rossi-serprino/",
+        "pubDate": "2026-11-18T14:49:58+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Assoenologi, 80° congresso in Abruzzo dal 10 giugno 2027",
+        "description": "Sarà un'occasione per discutere di ricerca, innovazione, mercati e salute del vino italiano.\nL'articolo Assoenologi, 80° congresso in Abruzzo dal 10 giugno 2027…",
+        "link": "https://www.winemag.it/assoenologi-80-congresso-in-abruzzo-dal-10-giugno-2027/",
+        "pubDate": "2026-11-18T14:34:23+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Il secondo polo agroalimentare più grande d’Europa ora è in Italia, e vale 3,7 miliardi di euro",
+        "description": "Il 17 novembre si sono uniti MOF  e CAR, due grandi strutture dell'agroalimentare romano, che insieme creano il secondo centro europeo per importanza.\nL'articol…",
+        "link": "https://www.dissapore.com/notizie/il-secondo-polo-agroalimentare-piu-grande-deuropa-ora-e-in-italia-e-vale-37-miliardi-di-euro/",
+        "pubDate": "2026-11-18T12:49:21+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/tir-roma-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Il sale Maldon è in realtà sale grosso tedesco?",
+        "description": "Un'inchiesta dell'Observer svela i retroscena sulla produzione del sale più amato dagli chef del mondo.\nL'articolo Il sale Maldon è in realtà sale grosso tedesc…",
+        "link": "https://www.dissapore.com/notizie/il-sale-maldon-e-in-realta-sale-grosso-tedesco/",
+        "pubDate": "2026-11-18T10:50:31+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/sale-maldon-scatola-scaled.jpg?width=660&amp;height=0&amp;quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Cantina del Vesuvio tra vini biologici ed enoturismo",
+        "description": "Cantina del Vesuvio a Trecase storia dei Russo, vini biologici, Lacryma Christi Doc, degustazioni con abbinamenti gastronomici vicino Pompei\nL'articolo Cantina …",
+        "link": "https://www.winemag.it/cantina-del-vesuvio-vini-biologici-enoturismo/",
+        "pubDate": "2026-11-18T09:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/uploads/2026/11/Cantina-del-Vesuvio-a-Trecase-storia-dei-Russo-vini-biologici-Lacryma-Christi-Doc-degustazioni-con-abbinamenti-gastronomici-vicino-Pompei-enoturismo-campania-2.jpg",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "In Italia ci sono quasi 22mila bar in meno rispetto al 2019. Eppure il 72% degli italiani continua a frequentarli ogni settimana",
+        "description": "Secondo FIPE, tra il 2019 e il 2025 sono diminuite di 21.741 unità le imprese attive. Al primo Forum del Bar Italiano si discute di costi, consumi e possibili a…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/crisi-bar-italiani-chiusure-fipe-forum-2026/",
+        "pubDate": "2026-11-18T08:28:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "“La cucina italiana vale il 15% del Pil”. Ecco come il governo cerca nuovi mercati per il settore agroalimentare",
+        "description": "Alla Settimana della Cucina Italiana nel Mondo, Lollobrigida e Tajani presentano le iniziative per sostenere l'export agroalimentare e aprire nuovi mercati…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/lollobrigida-cucina-italiana-pil-export-strategia-governo/",
+        "pubDate": "2026-11-18T08:25:08+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Bologna c’è una bottega del 1783 dove un cavallo faceva girare le mole per affilare i coltelli",
+        "description": "Nel Quadrilatero di Bologna, l'Antica Aguzzeria del Cavallo conserva arredi ottocenteschi e vende utensili da cucina. Un tempo affilava spade e coltelli…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/antica-aguzzeria-cavallo-bologna-bottega-storica/",
+        "pubDate": "2026-11-18T08:21:04+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La carne coltivata arriva in ristoranti e mense, cucinata dallo chef più celebre degli Stati Uniti",
+        "description": "Dopo anni di annunci e sperimentazioni, il pollo ottenuto da cellule animali entra nei menu di alcuni locali americani, sostenuto da Thomas Keller, uno degli ch…",
+        "link": "https://www.dissapore.com/notizie/la-carne-coltivata-arriva-in-ristoranti-e-mense-cucinata-dallo-chef-piu-celebre-degli-stati-uniti/",
+        "pubDate": "2026-11-18T08:14:25+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2017/12/carne_coltivata_memphis_meat-1-e1791567076943.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Partirono con quattro ettari di vigna. Oggi producono 500mila bottiglie e hanno vinto il premio per il miglior spumante italiano",
+        "description": "Il Franciacorta Non Dosato 33 Riserva 2018 di Ferghettina è Bollicine dell'Anno per Vini d'Italia 2027. Per la cantina bresciana è il secondo riconoscimento…",
+        "link": "https://www.gamberorosso.it/notizie/vino/franciacorta-ferghettina-bollicine-anno-2027/",
+        "pubDate": "2026-11-18T08:11:02+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un marchio unico statale di sostenibilità vitivinicola: si partirà già dalla prossima vendemmia",
+        "description": "La novità è stata annunciata all’inaugurazione del Simei dal presidente Uiv Lamberto Frescobaldi. Adesso si aspetta di sapere quale sarà il simbolo scelto dal M…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri-marchio-unico-sostenibilita-vino/",
+        "pubDate": "2026-11-18T08:02:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Dalle prime 3mila bottiglie all’invenzione della Franciacorta: la storia di Guido Berlucchi diventa un film",
+        "description": "Il biopic parte dall'incontro con l'enologo Franco Ziliani e dalla sfida coi grandi metodo classico francesi, per svelare anche il lato umano dell'imprenditore …",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/biopic-guido-berluchi-franciacorta/",
+        "pubDate": "2026-11-18T07:07:20+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Amara Vergine, cinque anni in quattro legni per la limited edition di Amaro Amara",
+        "description": "Sedici barrique nuove, quattro essenze e cinque anni di affinamento. Amaro Amara presenta Amara Vergine, una limited edition in sole 3.800 bottiglie, destinata …",
+        "link": "https://www.winemag.it/amara-vergine-cinque-anni-in-quattro-legni-per-la-limited-edition-di-amaro-amara/",
+        "pubDate": "2026-11-18T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Granaccia & Rossi di Liguria a Quiliano il 28 e 29 novembre: attese 60 cantine",
+        "description": "Granaccia &#38; Rossi di Liguria torna a Quiliano il 28 e 29 novembre: attese oltre 60 cantine La 21ª edizione di Granaccia &#38; Rossi di Liguria si terrà saba…",
+        "link": "https://www.winemag.it/granaccia-rossi-di-liguria-2026-quiliano-28-29-novembre-60-cantine/",
+        "pubDate": "2026-11-18T04:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "La Mar, la cevicheria più selvaggia e autentica di Lima",
         "description": "A Lima, in Avenida La Mar, c'è un ristorante che è molto più di un indirizzo imperdibile per chi ama il pesce crudo. E il Pisco. E fare festa. \nL'articolo La Ma…",
         "link": "https://www.dissapore.com/ristoranti/la-mar-la-cevicheria-piu-selvaggia-e-autentica-di-lima/",
@@ -419,132 +545,6 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Delia Nivolelli Doc Syrah Riserva 2018, Caruso & Minini",
-        "description": "PUNTEGGIO WINEMAG 94 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Delia Nivolelli Doc Syrah Riserva 2018, Caruso   Minini proviene da Winemag.it - Davide B…",
-        "link": "https://www.winemag.it/delia-nivolelli-doc-syrah-riserva-2018-caruso-minini/",
-        "pubDate": "2026-11-17T15:35:14+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Montefalco Rosso Doc 2023, Tenuta Alzatura",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Montefalco Rosso Doc 2023, Tenuta Alzatura proviene da Winemag.it - Davide Bortone:…",
-        "link": "https://www.winemag.it/montefalco-rosso-doc-2023-tenuta-alzatura/",
-        "pubDate": "2026-11-17T15:35:13+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Canaiolo Toscana Igt 2022 Numero Otto, Castelvecchio",
-        "description": "PUNTEGGIO WINEMAG 93 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Canaiolo Toscana Igt 2022 Numero Otto, Castelvecchio proviene da Winemag.it - Davide Bort…",
-        "link": "https://www.winemag.it/canaiolo-toscana-igt-2022-numero-otto-castelvecchio/",
-        "pubDate": "2026-11-17T15:35:11+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Sangiovese Toscana Igt 2020 edizione limitata Solo Uno, Castelvecchio",
-        "description": "PUNTEGGIO WINEMAG 95 / 100 Medaglia Gold Guida Winemag 2027\nL'articolo Sangiovese Toscana Igt 2020 edizione limitata Solo Uno, Castelvecchio proviene da Winemag…",
-        "link": "https://www.winemag.it/sangiovese-toscana-igt-2020-edizione-limitata-solo-uno-castelvecchio/",
-        "pubDate": "2026-11-17T15:35:10+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Rosso Toscano Igt 2021 Il Brecciolino, Castelvecchio",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Rosso Toscano Igt 2021 Il Brecciolino, Castelvecchio proviene da Winemag.it - David…",
-        "link": "https://www.winemag.it/rosso-toscano-igt-2021-il-brecciolino-castelvecchio/",
-        "pubDate": "2026-11-17T15:35:09+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Dal 1878 nel cuore del Canavese, la pasticceria con un dolce a forma di lingotto e la stessa ricetta da novant’anni",
-        "description": "Gli scaffali sono quelli originali, i panettoni hanno una medaglia d’oro del 1911. E a uno di questi tavolini, nel 1934, Silvio Piola firmò per la Lazio…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/pasticceria-cuorgne-canavese/",
-        "pubDate": "2026-11-17T14:37:59+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Italia si cerca il miglior formaggiaio. Cinque finalisti si sfideranno tra assaggi alla cieca e prove di taglio",
-        "description": "Cinque professionisti si contenderanno il titolo a Parma il 6 maggio 2027. In programma degustazioni alla cieca, prove di taglio e abbinamenti…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/gran-premio-formaggiaio-2027-finalisti-parma/",
-        "pubDate": "2026-11-17T14:28:14+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il pane al supermercato costa il 23% in meno che in panetteria. Ma il prezzo al chilo non racconta tutto",
-        "description": "Secondo Altroconsumo il pane costa meno nei supermercati. Ma ingredienti, lavorazione, durata e spreco possono cambiare il conto finale per chi lo acquista…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/prezzo-pane-supermercato-panetteria-altroconsumo/",
-        "pubDate": "2026-11-17T14:25:41+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Abruzzo gli spinaci crescono anche a 2mila metri. Si chiamano orapi e con i fagioli diventano una zuppa tradizionale",
-        "description": "Crescono spontanei nei pascoli di montagna e da secoli fanno parte della cucina contadina e pastorale abruzzese. Gli orapi sono protagonisti di zuppe, piatti di…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/orapi-spinaci-selvatici-abruzzo-pastori/",
-        "pubDate": "2026-11-17T12:11:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Quali sono i migliori gelati del mondo? Ce lo dice Sherbeth 2026",
-        "description": "Dal 13 al 16 novembre a Palermo si è svolto il concorso internazionale di gelato artigianale che premia ogni anno i gelatieri attraverso un gusto signature.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/quali-sono-i-migliori-gelati-del-mondo-ce-lo-dice-sherbeth-2026/",
-        "pubDate": "2026-11-17T11:44:38+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/sherbeth-gelato-cover.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I 7 migliori Primitivo di Manduria che costano meno di 20 euro (ben 4 meno di 15 euro)",
-        "description": "La guida all'acquisto delle etichette più convenienti del rosso simbolo della Puglia tra quelle che ci sono piaciute di più e che abbiamo valutato molto bene ne…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/migliori-primitivo-manduria-sotto-20-euro/",
-        "pubDate": "2026-11-17T10:19:01+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Rifiutò un lavoro in banca per andare all’Unicef. Camilla Lunelli racconta la sua vita nella famiglia delle bollicine Ferrari",
-        "description": "Nel libro Un'arte di famiglia, Camilla Lunelli ripercorre le origini delle bollicine Ferrari, le scelte personali e l'impegno sociale che ha segnato la sua vita…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/camilla-lunelli-libro-un-arte-di-famiglia-ferrari/",
-        "pubDate": "2026-11-17T10:17:40+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dove mangiare l’ossobuco alla fiorentina: cinque trattorie tra il centro storico e i quartieri di Firenze",
-        "description": "Pomodoro, vino rosso e una lunga cottura: l'ossobuco alla fiorentina è un classico della cucina toscana. Cinque indirizzi dove assaggiarlo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/dove-mangiare-ossobuco-fiorentina-firenze-trattorie/",
-        "pubDate": "2026-11-17T10:14:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Italia sorpassata: la Turchia ha più cibi riconosciuti dall’Unesco",
-        "description": "L'Italia ha dato il via nel 2010 con la \"Dieta mediterranea\", ma alla vigilia di nuovi riconoscimenti è la Turchia a contare il maggior numero di premi: 7, cont…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/italia-sorpassata-la-turchia-ha-piu-cibi-riconosciuti-dallunesco/",
-        "pubDate": "2026-11-17T10:02:03+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       }
     ]
   }
