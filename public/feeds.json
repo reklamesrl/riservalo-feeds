@@ -1,7 +1,16 @@
 {
-  "generated": "2026-11-22T14:10:13.046677+00:00",
+  "generated": "2026-11-22T23:17:57.196740+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "A due ore da Roma c’è un borgo di montagna dove l’8 dicembre sembra già Natale",
+        "description": "Vicoli in pietra, paesaggi innevati, piste da sci e cucina abruzzese: una destinazione sull’Appennino ideale per un weekend lungo tra relax e attività all’aria …",
+        "link": "https://www.stylosophy.it/articolo/a-due-ore-da-roma-ce-un-borgo-di-montagna-dove-l8-dicembre-sembra-gia-natale/254436/",
+        "pubDate": "2026-11-22T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Giulia Salemi detta tendenza anche in inverno: l’ecopelliccia soffice è il must have di stagione",
         "description": "Giulia Salemi detta tendenza anche in inverno con l'ecopelliccia soffice, must di stagione.…",
@@ -10,6 +19,24 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "In un paese della Basilicata di duemila abitanti c’è un bistrot che ha conquistato il Gambero Rosso",
+        "description": "Mariano Greco e Disma Casella sono tornati a Trecchina per aprire Bulle, tra bistrot e boulangerie. Il locale ha ricevuto il premio «Ci tornerei domani» del Gam…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/bulle-trecchina-bistrot-premio-ci-tornerei-domani/",
+        "pubDate": "2026-11-22T13:04:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Aprirono un’osteria a Roma e per tre mesi non arrivò quasi nessuno. Oggi è uno storico ristorante di pesce",
+        "description": "Nato nel 1955 come osteria per i fagottari dell'Esquilino, Ottavio si trasferisce in via Savoia. La terza generazione rilancia la cucina di pesce con Vincenzo L…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ottavio-ristorante-roma-nuova-sede-via-savoia/",
+        "pubDate": "2026-11-22T10:41:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Come fare l’uovo fritto con il tuorlo morbido: la ricetta e i segreti di uno chef",
@@ -37,6 +64,15 @@
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
+      },
+      {
+        "title": "Fashion oroscopo: inizia il mese del Sagittario e questi sono i suoi must-have",
+        "description": "Inizia ufficialmente il periodo dedicato al segno del Sagittario, che ci accompagnerà dal 22-23 novembre fino al 21 di dicembre. Come da tradizione, per ogni me…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/oroscopo-sagittario-must-have-moda-shopping-del-segno-1014942",
+        "pubDate": "2026-11-22T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_DESKTOP_segno_SAGITTARIO.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Debutta Chianti Rosé Docg. Cosa cambia anche per Terre di Vinci e Riserve",
@@ -138,15 +174,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "I 13 migliori Amarone della Valpolicella premiati dal Gambero Rosso",
-        "description": "Ecco le etichette del grande rosso veneto che hanno conquistato i Tre Bicchieri nella guida Vini d'Italia 2027, tra versioni classiche e altre giocate più su fr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-amarone-valpolicella/",
-        "pubDate": "2026-11-21T09:32:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Canelli e Nizza Docg, accordo UE–Moldova tutela i due vini piemontesi",
         "description": "Dal 19 novembre 2026, Canelli e Nizza DOCG sono protetti in Moldova nell'ambito dell'accordo con l'Unione europea.\nL'articolo Canelli e Nizza Docg, accordo UE–M…",
         "link": "https://www.winemag.it/canelli-nizza-docg-accordo-ue-moldova-tutela-vini-piemontesi/",
@@ -154,36 +181,18 @@
         "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Abbiamo bisogno di una legge sulla Doggy Bag al ristorante?",
-        "description": "La Lega vuole introdurre per legge il diritto dei clienti a portare a casa gli avanzi del ristorante, ma una norma che incentivi questa pratica esiste già dal 2…",
-        "link": "https://www.dissapore.com/notizie/abbiamo-bisogno-di-una-legge-sulla-doggy-bag-al-ristorante/",
-        "pubDate": "2026-11-21T08:33:30+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2022/10/doggy-bag.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "“La fame non deriva dalla scarsità di cibo, ma dalla scarsità di democrazia”. La storia di Frances Moore Lappé  Copia",
-        "description": "Nel 1971 Frances Moore Lappé pubblicò Diet for a Small Planet, mettendo in discussione l'idea che la fame dipenda soltanto dalla scarsità di cibo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/frances-moore-lappe-diet-for-a-small-planet-fame-mondo/",
-        "pubDate": "2026-11-21T08:25:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Regali di Natale per lei: i gioielli e i bijoux che ci fanno brillare gli occhi",
-        "description": "C&#8217;è chi sogna di trovare un pacchetto con un bel fiocco rosso sotto l&#8217;albero e chi, invece, spera di intravedere già dalla carta da regalo la sagoma…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gioielli-regali-natale-2026-bijoux-anelli-collane-orecchini-bracciali-per-lei-1014508",
-        "pubDate": "2026-11-21T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_regali_natale_gioielli.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "moda": [
+      {
+        "title": "A due ore da Roma c’è un borgo di montagna dove l’8 dicembre sembra già Natale",
+        "description": "Vicoli in pietra, paesaggi innevati, piste da sci e cucina abruzzese: una destinazione sull’Appennino ideale per un weekend lungo tra relax e attività all’aria …",
+        "link": "https://www.stylosophy.it/articolo/a-due-ore-da-roma-ce-un-borgo-di-montagna-dove-l8-dicembre-sembra-gia-natale/254436/",
+        "pubDate": "2026-11-22T15:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Giulia Salemi detta tendenza anche in inverno: l’ecopelliccia soffice è il must have di stagione",
         "description": "Giulia Salemi detta tendenza anche in inverno con l'ecopelliccia soffice, must di stagione.…",
@@ -192,6 +201,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Fashion oroscopo: inizia il mese del Sagittario e questi sono i suoi must-have",
+        "description": "Inizia ufficialmente il periodo dedicato al segno del Sagittario, che ci accompagnerà dal 22-23 novembre fino al 21 di dicembre. Come da tradizione, per ogni me…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/oroscopo-sagittario-must-have-moda-shopping-del-segno-1014942",
+        "pubDate": "2026-11-22T07:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_DESKTOP_segno_SAGITTARIO.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "Mani protette sulla neve: le creme ultra-idratanti da avere sempre con sé",
@@ -329,15 +347,6 @@
         "source": "Grazia"
       },
       {
-        "title": "Passione pantaloni larghi? Li adoriamo anche noi e questi sono i modelli più cool che troverete in circolazione",
-        "description": "Dalle passerelle ai look di street style più cool&#8230;fino al nostro armadio! I pantaloni wide leg hanno dimostrato di essere molto più di una tendenza passeg…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pantaloni-larghi-a-chi-stanno-bene-come-abbinare-modelli-wide-leg-quali-scegliere-zara-mango-autunno-inverno-2026-1014839",
-        "pubDate": "2026-11-19T06:30:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_panta_larghi.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Acqua dell’Elba: ecco le box  Profumo e skincare da regalare a Natale",
         "description": "Dalle Eau de Toilette ai profumi per la casa, le box natalizie racchiudono le diverse anime dell'isola in una selezione pensata per portare con sé il mare, la n…",
         "link": "https://www.stylosophy.it/articolo/acqua-dellelba-ecco-le-box-profumo-e-skincare-da-regalare-a-natale/254400/",
@@ -354,18 +363,27 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Jennifer Lawrence, alla première di Hunger Games: L’alba sulla mietitura con un total look Dior",
-        "description": "Jennifer Lawrence alla prima del film Hunger Games: L'alba sulla mietitura ha indossato un total look firmato Dior: qui di seguito per tutti i dettagli.…",
-        "link": "https://www.stylosophy.it/articolo/jennifer-lawrence-alla-premiere-di-hunger-games-lalba-sulla-mietitura-con-un-total-look-dior/254382/",
-        "pubDate": "2026-11-17T14:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "In un paese della Basilicata di duemila abitanti c’è un bistrot che ha conquistato il Gambero Rosso",
+        "description": "Mariano Greco e Disma Casella sono tornati a Trecchina per aprire Bulle, tra bistrot e boulangerie. Il locale ha ricevuto il premio «Ci tornerei domani» del Gam…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/bulle-trecchina-bistrot-premio-ci-tornerei-domani/",
+        "pubDate": "2026-11-22T13:04:07+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Aprirono un’osteria a Roma e per tre mesi non arrivò quasi nessuno. Oggi è uno storico ristorante di pesce",
+        "description": "Nato nel 1955 come osteria per i fagottari dell'Esquilino, Ottavio si trasferisce in via Savoia. La terza generazione rilancia la cucina di pesce con Vincenzo L…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/ottavio-ristorante-roma-nuova-sede-via-savoia/",
+        "pubDate": "2026-11-22T10:41:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Come fare l’uovo fritto con il tuorlo morbido: la ricetta e i segreti di uno chef",
         "description": "Prima cotto per 4 minuti e mezzo, poi impanato e fritto: Cesare Battisti prepara l'uovo alla milanese con il tuorlo morbido, servito su cime di rapa e salsa all…",
@@ -475,15 +493,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "I 13 migliori Amarone della Valpolicella premiati dal Gambero Rosso",
-        "description": "Ecco le etichette del grande rosso veneto che hanno conquistato i Tre Bicchieri nella guida Vini d'Italia 2027, tra versioni classiche e altre giocate più su fr…",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-amarone-valpolicella/",
-        "pubDate": "2026-11-21T09:32:08+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Canelli e Nizza Docg, accordo UE–Moldova tutela i due vini piemontesi",
         "description": "Dal 19 novembre 2026, Canelli e Nizza DOCG sono protetti in Moldova nell'ambito dell'accordo con l'Unione europea.\nL'articolo Canelli e Nizza Docg, accordo UE–M…",
         "link": "https://www.winemag.it/canelli-nizza-docg-accordo-ue-moldova-tutela-vini-piemontesi/",
@@ -500,15 +509,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2022/10/doggy-bag.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "“La fame non deriva dalla scarsità di cibo, ma dalla scarsità di democrazia”. La storia di Frances Moore Lappé  Copia",
-        "description": "Nel 1971 Frances Moore Lappé pubblicò Diet for a Small Planet, mettendo in discussione l'idea che la fame dipenda soltanto dalla scarsità di cibo…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/frances-moore-lappe-diet-for-a-small-planet-fame-mondo/",
-        "pubDate": "2026-11-21T08:25:46+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "Cinzia Otri, il sorbetto nasce dalle braci di Dario Cecchini",
