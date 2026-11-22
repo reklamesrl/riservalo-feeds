@@ -1,7 +1,79 @@
 {
-  "generated": "2026-11-21T22:49:52.951028+00:00",
+  "generated": "2026-11-22T14:10:13.046677+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Giulia Salemi detta tendenza anche in inverno: l’ecopelliccia soffice è il must have di stagione",
+        "description": "Giulia Salemi detta tendenza anche in inverno con l'ecopelliccia soffice, must di stagione.…",
+        "link": "https://www.stylosophy.it/articolo/giulia-salemi-detta-tendenza-anche-in-inverno-lecopelliccia-soffice-e-il-must-have-di-stagione/254433/",
+        "pubDate": "2026-11-22T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
+      {
+        "title": "Come fare l’uovo fritto con il tuorlo morbido: la ricetta e i segreti di uno chef",
+        "description": "Prima cotto per 4 minuti e mezzo, poi impanato e fritto: Cesare Battisti prepara l'uovo alla milanese con il tuorlo morbido, servito su cime di rapa e salsa all…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/uovo-fritto-alla-milanese-ricetta-cesare-battisti/",
+        "pubDate": "2026-11-22T09:05:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Brasile compra sempre più vino italiano. E per le nostre cantine ci sono nuove opportunità",
+        "description": "Le esportazioni italiane crescono in un mercato ricco di opportunità. Il 23 novembre il Gambero Rosso porta a San Paolo 38 cantine per il Top Italian Wines Road…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/il-brasile-compra-sempre-piu-vino-italiano-e-per-le-nostre-cantine-ci-sono-nuove-opportunita/",
+        "pubDate": "2026-11-22T08:56:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Torino apre il museo dei biscotti e delle caramelle che hanno fatto la storia",
+        "description": "In via Roma apre Museo Maggiora 1929, uno spazio tra manifesti, Caroselli e oggetti storici dove acquistare biscotti Finocchini, caramelle Toujours e altre spec…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/museo-maggiora-1929-torino-biscotti-caramelle/",
+        "pubDate": "2026-11-22T07:28:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Debutta Chianti Rosé Docg. Cosa cambia anche per Terre di Vinci e Riserve",
+        "description": "Chianti Rosé DOCG 2026 da 1° dicembre 2026. Disciplinare introduce Terre di Vinci e cambia regole di affinamento Riserve di tre sottozone\nL'articolo Debutta Chi…",
+        "link": "https://www.winemag.it/chianti-rose-docg-debutto-cosa-cambia-anche-per-terre-di-vinci-riserve/",
+        "pubDate": "2026-11-22T07:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dopo 33 anni da macellai aprono una trattoria a Roma. La carbonara è imperdibile e costa 12 euro",
+        "description": "Dopo 33 anni al mercato di Colli Aniene, Paola Savinetti e Fabio Camilletti hanno aperto Picchiapò e Scottadito a Centocelle: carbonara a 12 euro e cucina roman…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/picchiapo-scottadito-trattoria-centocelle-roma/",
+        "pubDate": "2026-11-22T06:12:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Park Hotel Marinetta, viaggio enogastronomico a Bolgheri",
+        "description": "La Toscana si conferma tra le destinazioni internazionali più ambite per il turismo enogastronomico. La regione occupa le prime posizioni nelle preferenze dei v…",
+        "link": "https://www.winemag.it/park-hotel-marinetta-viaggio-enogastronomico-bolgheri/",
+        "pubDate": "2026-11-22T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La pasticceria di un paese vicino a Mantova conquista le Tre Torte dopo tre generazioni",
+        "description": "Fondata nel 1968 a Bagnolo San Vito, Antoniazzi arriva alle Tre Torte del Gambero Rosso. Dalla sbrisolona ai cannoncini, oggi ci lavora la terza generazione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pasticceria-antoniazzi-mantova-tre-torte-2027/",
+        "pubDate": "2026-11-22T05:53:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Hai sentito parlare della shrinkflation? Ora tieniti pronto alla skimpflation",
         "description": "Dalla shrinkflation, che riduce le porzioni, alla skimpflation, che sostituisce gli ingredienti migliori con alternative più economiche. E accorgersene è sempre…",
@@ -109,81 +181,18 @@
         "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_regali_natale_gioielli.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "Come fa il liquore a finire dentro i boeri? Il segreto dei cioccolatini alla ciliegia",
-        "description": "Tra origini incerte, curiosi legami con la storia europea e antiche lavorazioni artigianali, il boero è molto più di un cioccolatino nostalgico. E in Piemonte c…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/boeri-cioccolatini-ciliegia-liquore-storia/",
-        "pubDate": "2026-11-21T06:47:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Apre una pasticceria nella sua città e conquista subito le Tre Torte del Gambero Rosso",
-        "description": "A pochi mesi dall'apertura a Nola, Tommaso Foglia ottiene le Tre Torte del Gambero Rosso. Nel locale anche un laboratorio a vista dove i dolci si preparano dava…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tommaso-foglia-nola-pasticceria-tre-torte/",
-        "pubDate": "2026-11-21T06:11:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Cinzia Otri, il sorbetto nasce dalle braci di Dario Cecchini",
-        "description": "Caldo e freddo, fuoco e ghiaccio. Due mondi apparentemente lontani si incontrano in Toscana, dando vita a un progetto che unisce mixology, cucina alla brace e g…",
-        "link": "https://www.winemag.it/cinzia-otri-sorbetto-braci-dario-cecchini/",
-        "pubDate": "2026-11-21T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Vini dealcolati, Steric Systems applica i campi elettromagnetici: cosa sappiamo",
-        "description": "Secondo l'azienda californiana, migliorerebbero il gusto\nL'articolo Vini dealcolati, Steric Systems applica i campi elettromagnetici: cosa sappiamo proviene da …",
-        "link": "https://www.winemag.it/vini-dealcolati-campi-elettromagnetici-steric-systems-cosa-sappiamo/",
-        "pubDate": "2026-11-21T03:30:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Verso Marchio unico di Stato sostenibilità: perché è utile in Italia",
-        "description": "Che cosa certifica la parola «sostenibile» su una bottiglia di vino? Un marchio unico di Stato per la sostenibilità del vino italiano potrebbe dare al consumato…",
-        "link": "https://www.winemag.it/marchio-unico-di-stato-sostenibilita-perche-utile-italia/",
-        "pubDate": "2026-11-20T18:54:43+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Cristal 2018, il figlio del gesso: 57 parcelle per il 150° anniversario",
-        "description": "Nel 2026 Cristal celebra 150 anni dalla sua creazione per lo zar Alessandro con Cristal 2018. L&#8217;anniversario è legato a un’interpretazione in cui maturità…",
-        "link": "https://www.winemag.it/cristal-2018-il-figlio-del-gesso-57-parcelle-per-il-150-anniversario/",
-        "pubDate": "2026-11-20T17:20:53+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Terre Siciliane Rosso Igt 2021 Tancredi Dolce&Gabbana, Donnafugata",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Terre Siciliane Rosso Igt 2021 Tancredi Dolce Gabbana, Donnafugata proviene da …",
-        "link": "https://www.winemag.it/terre-siciliane-rosso-igt-2021-tancredi-dolcegabbana-donnafugata/",
-        "pubDate": "2026-11-20T15:07:55+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Valpolicella Doc 2023 Zèfiro, Piccoli",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Valpolicella Doc 2023 Zèfiro, Piccoli proviene da Winemag.it - Davide Bortone: …",
-        "link": "https://www.winemag.it/valpolicella-doc-2023-zefiro-piccoli/",
-        "pubDate": "2026-11-20T15:07:52+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
+      {
+        "title": "Giulia Salemi detta tendenza anche in inverno: l’ecopelliccia soffice è il must have di stagione",
+        "description": "Giulia Salemi detta tendenza anche in inverno con l'ecopelliccia soffice, must di stagione.…",
+        "link": "https://www.stylosophy.it/articolo/giulia-salemi-detta-tendenza-anche-in-inverno-lecopelliccia-soffice-e-il-must-have-di-stagione/254433/",
+        "pubDate": "2026-11-22T14:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
+        "cat": "Moda",
+        "source": "Stylosophy"
+      },
       {
         "title": "Mani protette sulla neve: le creme ultra-idratanti da avere sempre con sé",
         "description": "Una selezione di formule ricche e avvolgenti pensate per difendere le mani dal freddo intenso e dal vento tagliente delle giornate in montagna. Un’anteprima dei…",
@@ -354,18 +363,72 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Inverno nelle Marche: il borgo medievale tra terme, storia e natura",
-        "description": "Tra le montagne dei Sibillini, Sarnano è una destinazione da scoprire nella stagione fredda, tra un centro storico medievale, percorsi nella natura e occasioni …",
-        "link": "https://www.stylosophy.it/articolo/inverno-nelle-marche-questo-borgo-ai-piedi-dei-sibillini-conquista-tra-terme-neve-e-scorci-medievali/254371/",
-        "pubDate": "2026-11-16T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Come fare l’uovo fritto con il tuorlo morbido: la ricetta e i segreti di uno chef",
+        "description": "Prima cotto per 4 minuti e mezzo, poi impanato e fritto: Cesare Battisti prepara l'uovo alla milanese con il tuorlo morbido, servito su cime di rapa e salsa all…",
+        "link": "https://www.gamberorosso.it/notizie/ricette/uovo-fritto-alla-milanese-ricetta-cesare-battisti/",
+        "pubDate": "2026-11-22T09:05:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Brasile compra sempre più vino italiano. E per le nostre cantine ci sono nuove opportunità",
+        "description": "Le esportazioni italiane crescono in un mercato ricco di opportunità. Il 23 novembre il Gambero Rosso porta a San Paolo 38 cantine per il Top Italian Wines Road…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/il-brasile-compra-sempre-piu-vino-italiano-e-per-le-nostre-cantine-ci-sono-nuove-opportunita/",
+        "pubDate": "2026-11-22T08:56:05+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "A Torino apre il museo dei biscotti e delle caramelle che hanno fatto la storia",
+        "description": "In via Roma apre Museo Maggiora 1929, uno spazio tra manifesti, Caroselli e oggetti storici dove acquistare biscotti Finocchini, caramelle Toujours e altre spec…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/museo-maggiora-1929-torino-biscotti-caramelle/",
+        "pubDate": "2026-11-22T07:28:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Debutta Chianti Rosé Docg. Cosa cambia anche per Terre di Vinci e Riserve",
+        "description": "Chianti Rosé DOCG 2026 da 1° dicembre 2026. Disciplinare introduce Terre di Vinci e cambia regole di affinamento Riserve di tre sottozone\nL'articolo Debutta Chi…",
+        "link": "https://www.winemag.it/chianti-rose-docg-debutto-cosa-cambia-anche-per-terre-di-vinci-riserve/",
+        "pubDate": "2026-11-22T07:00:00+00:00",
+        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Dopo 33 anni da macellai aprono una trattoria a Roma. La carbonara è imperdibile e costa 12 euro",
+        "description": "Dopo 33 anni al mercato di Colli Aniene, Paola Savinetti e Fabio Camilletti hanno aperto Picchiapò e Scottadito a Centocelle: carbonara a 12 euro e cucina roman…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/picchiapo-scottadito-trattoria-centocelle-roma/",
+        "pubDate": "2026-11-22T06:12:51+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Park Hotel Marinetta, viaggio enogastronomico a Bolgheri",
+        "description": "La Toscana si conferma tra le destinazioni internazionali più ambite per il turismo enogastronomico. La regione occupa le prime posizioni nelle preferenze dei v…",
+        "link": "https://www.winemag.it/park-hotel-marinetta-viaggio-enogastronomico-bolgheri/",
+        "pubDate": "2026-11-22T06:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La pasticceria di un paese vicino a Mantova conquista le Tre Torte dopo tre generazioni",
+        "description": "Fondata nel 1968 a Bagnolo San Vito, Antoniazzi arriva alle Tre Torte del Gambero Rosso. Dalla sbrisolona ai cannoncini, oggi ci lavora la terza generazione…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/pasticceria-antoniazzi-mantova-tre-torte-2027/",
+        "pubDate": "2026-11-22T05:53:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Hai sentito parlare della shrinkflation? Ora tieniti pronto alla skimpflation",
         "description": "Dalla shrinkflation, che riduce le porzioni, alla skimpflation, che sostituisce gli ingredienti migliori con alternative più economiche. E accorgersene è sempre…",
@@ -448,24 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Come fa il liquore a finire dentro i boeri? Il segreto dei cioccolatini alla ciliegia",
-        "description": "Tra origini incerte, curiosi legami con la storia europea e antiche lavorazioni artigianali, il boero è molto più di un cioccolatino nostalgico. E in Piemonte c…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/boeri-cioccolatini-ciliegia-liquore-storia/",
-        "pubDate": "2026-11-21T06:47:47+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Apre una pasticceria nella sua città e conquista subito le Tre Torte del Gambero Rosso",
-        "description": "A pochi mesi dall'apertura a Nola, Tommaso Foglia ottiene le Tre Torte del Gambero Rosso. Nel locale anche un laboratorio a vista dove i dolci si preparano dava…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/tommaso-foglia-nola-pasticceria-tre-torte/",
-        "pubDate": "2026-11-21T06:11:50+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Cinzia Otri, il sorbetto nasce dalle braci di Dario Cecchini",
         "description": "Caldo e freddo, fuoco e ghiaccio. Due mondi apparentemente lontani si incontrano in Toscana, dando vita a un progetto che unisce mixology, cucina alla brace e g…",
         "link": "https://www.winemag.it/cinzia-otri-sorbetto-braci-dario-cecchini/",
@@ -498,51 +543,6 @@
         "link": "https://www.winemag.it/cristal-2018-il-figlio-del-gesso-57-parcelle-per-il-150-anniversario/",
         "pubDate": "2026-11-20T17:20:53+00:00",
         "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Terre Siciliane Rosso Igt 2021 Tancredi Dolce&Gabbana, Donnafugata",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Terre Siciliane Rosso Igt 2021 Tancredi Dolce Gabbana, Donnafugata proviene da …",
-        "link": "https://www.winemag.it/terre-siciliane-rosso-igt-2021-tancredi-dolcegabbana-donnafugata/",
-        "pubDate": "2026-11-20T15:07:55+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Valpolicella Doc 2023 Zèfiro, Piccoli",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Valpolicella Doc 2023 Zèfiro, Piccoli proviene da Winemag.it - Davide Bortone: …",
-        "link": "https://www.winemag.it/valpolicella-doc-2023-zefiro-piccoli/",
-        "pubDate": "2026-11-20T15:07:52+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Valpolicella Ripasso Doc Superiore 2021 Caparbio, Piccoli",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Valpolicella Ripasso Doc Superiore 2021 Caparbio, Piccoli proviene da Winemag.i…",
-        "link": "https://www.winemag.it/valpolicella-ripasso-doc-superiore-2021-caparbio-piccoli/",
-        "pubDate": "2026-11-20T15:07:51+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Amarone della Valpolicella Docg Riserva 2015 La Parte, Piccoli",
-        "description": "Dalla Guida Winemag 2027 &#124; Selezione migliori vini italiani 2026\nL'articolo Amarone della Valpolicella Docg Riserva 2015 La Parte, Piccoli proviene da Wine…",
-        "link": "https://www.winemag.it/amarone-della-valpolicella-docg-riserva-2015-la-parte-piccoli/",
-        "pubDate": "2026-11-20T15:07:50+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Amarone della Valpolicella Docg Classico 2021, La Marega",
-        "description": "PUNTEGGIO WINEMAG 96 / 100 Medaglia Grand Gold Guida Winemag 2027\nL'articolo Amarone della Valpolicella Docg Classico 2021, La Marega proviene da Winemag.it - D…",
-        "link": "https://www.winemag.it/amarone-della-valpolicella-docg-classico-2021-la-marega/",
-        "pubDate": "2026-11-20T15:07:49+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       }
