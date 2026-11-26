@@ -1,13 +1,58 @@
 {
-  "generated": "2026-11-25T16:52:49.187655+00:00",
+  "generated": "2026-11-26T01:37:47.961955+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Graziana Grassini (“lady Sassicaia”) presidente ONAV? Parliamone",
+        "description": "Graziana Grassini (lady Sassicaia) candidata presidente ONAV: chi rappresenta chi? Parliamone. Il punto sulla sfidante della lista di Intini\nL'articolo Graziana…",
+        "link": "https://www.winemag.it/graziana-grassini-lady-sassicaia-presidente-onav-parliamone/",
+        "pubDate": "2026-11-25T23:01:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Aumento dazi Usa su vino UE: proposta al 15%, Champagne escluso",
+        "description": "Gli Usa propongono di aumentare i dazi sui vini europei dal 10% al 15%, riservando allo Champagne un’esenzione dal rialzo. L’annuncio dagli Stati Uniti arriva i…",
+        "link": "https://www.winemag.it/dazi-usa-vino-ue-proposta-al-15-champagne-escluso-da-aumento/",
+        "pubDate": "2026-11-25T21:06:12+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Louis Vuitton celebra Keith Haring: la moda diventa arte",
+        "description": "La collezione Louis Vuitton Keith Haring porta il linguaggio inconfondibile dell&#8217;artista americano nel mondo della moda, trasformando alcune delle creazio…",
+        "link": "https://www.grazia.it/moda/news-moda/louis-vuitton-keith-haring-collezione-borse-1017148",
+        "pubDate": "2026-11-25T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/ok-apertura-1-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Annunciati nuovi dazi statunitensi sul vino europeo. Esentati Champagne e whisky irlandese",
+        "description": "Dopo la bocciatura della Corte Suprema, il governo statunitense ha avviato un'indagine su una decina di Paesi per eccesso di capacità produttiva e concorrenza s…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/trump-nuovi-dazi-concorrenza-sleale-europa/",
+        "pubDate": "2026-11-25T14:57:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché in Giappone si mangia italiano così bene. 14 indirizzi da conoscere a Tokyo",
+        "description": "Dalla cucina siciliana a quella abruzzese, dalla pizza napoletana ai dolci regionali. Come i giapponesi hanno studiato la nostra cucina e 14 indirizzi da provar…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/tokyo-ristoranti-italiani-cucina-regionale-dove-mangiare/",
+        "pubDate": "2026-11-25T14:28:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Piccolo è Bello 2026: a Catania oltre 40 cantine siciliane con Trame di Terra",
         "description": "Oltre 40 cantine siciliane e 20 piccoli produttori del settore agroalimentare e dell’artigianato. Sono i protagonisti dell’ottava edizione di Piccolo è Bello. L…",
         "link": "https://www.winemag.it/piccolo-e-bello-2026-catania-oltre-40-cantine-siciliane-trame-di-terra/",
         "pubDate": "2026-11-25T14:24:50+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
@@ -19,6 +64,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "La serie sul primo chef star della storia ha vinto un Emmy. Chi era Antonin Carême",
+        "description": "Carême, la serie Apple TV sul cuoco dei potenti d'Europa, vince agli International Emmy Awards. Tra gli autori c'è lo sceneggiatore italiano Davide Serino…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/careme-serie-apple-tv-emmy-storia-primo-celebrity-chef/",
+        "pubDate": "2026-11-25T13:38:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Joe Bastianich fa pubblicità a Esselunga ma non lo dichiara",
@@ -34,16 +88,34 @@
         "description": "Il futuro del vino siciliano passa dalla sostenibilità misurabile, dalla salute dei suoli e dalla capacità delle imprese di adattarsi ai cambiamenti climatici, …",
         "link": "https://www.winemag.it/forum-sostain-sicilia-sostenibilita-agricoltura-rigenerativa-e-nuovi-scenari-per-il-vino/",
         "pubDate": "2026-11-25T12:42:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Stop a nuovi vigneti per almeno un anno. L’Italia mette un freno alla produzione per salvare il mercato",
+        "description": "Il Masaf accoglie le richieste delle associazioni di categoria sul blocco temporaneo dei nuovi impianti. Lo schema di decreto dovrà passare in Conferenza Stato-…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/stop-nuovi-impianti-vitivinicoli-nuovo-decreto-masaf/",
+        "pubDate": "2026-11-25T11:44:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Cilento lontano dal mare dove nascono mozzarelle di bufala e fichi bianchi",
+        "description": "La serie tv Paesaggi d'Italia, promossa dal Ministero degli Affari Esteri e della Cooperazione Internazionale e realizzata da Gambero Rosso, arriva in Campania,…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cilento-mozzarella-bufala-fichi/",
+        "pubDate": "2026-11-25T11:17:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Vendemmia 2026 a Maiorca: produzione IGP in crescita del 23%",
         "description": "Cinque nuove cantine e 222 ettari in più. Crescono i vitigni autoctoni Callet e Premsal Blanc\nL'articolo Vendemmia 2026 a Maiorca: produzione IGP in crescita de…",
         "link": "https://www.winemag.it/vendemmia-2026-maiorca-produzione-igp-crescita/",
         "pubDate": "2026-11-25T11:15:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
@@ -52,138 +124,75 @@
         "description": "L’enoturismo italiano raggiunge quota 13,4 milioni di visitatori nel 2025, con una crescita dell’8,5% rispetto all’anno precedente. Il settore vale 2,7 miliardi…",
         "link": "https://www.winemag.it/enoturismo-italiano-a-134-milioni-di-visitatori-il-mercato-vale-27-miliardi-di-euro/",
         "pubDate": "2026-11-25T11:10:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Denim addicted, è il vostro momento! Ecco 7 jeans da acquistare approfittando del Black Friday",
+        "description": "Sono una delle certezze incrollabili del guardaroba e poco importa cosa dicono le tendenze del momento: di jeans non se ne hanno mai abbastanza e per loro ci sa…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-da-comprare-con-il-black-friday-in-sconto-scontati-levis-diesel-dritti-a-gamba-larga-barrel-tendenze-autunno-1017086",
+        "pubDate": "2026-11-25T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Jeans_Black_Friday.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Il nonno comprò il cinema con una stretta di mano. Oggi le nipoti ci hanno aperto un ristorante",
+        "description": "Francesca e Caterina Saviotti raccontano la storia del cinema Barberini, dagli hamburger del Big Burg negli anni Ottanta al B24, ristorante con terrazza nel cuo…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cinema-barberini-roma-ristorante-b24-storia-sorelle-saviotti/",
+        "pubDate": "2026-11-25T10:57:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il latte materno cambia sapore a seconda di ciò che mangiamo. Ecco cosa sappiamo del nostro primo cibo",
+        "description": "Cambia composizione quando il bambino si ammala, contiene batteri vivi, cambia persino sapore. Viaggio alla scoperta del latte materno, tra falsi miti e proprie…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/latte-materno-composizione-proprieta-sapore/",
+        "pubDate": "2026-11-25T10:53:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un’insalata cosentina porta la Calabria alla finale mondiale della S.Pellegrino Young Chef",
+        "description": "Giacomo De Rose, chef de partie all’Hyle di San Giovanni in Fiore, vince la selezione italiana con \"Mappina\", un piatto di lattuga, aglio e peperoncino. Nel 202…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/spellegrino-young-chef-2026-giacomo-de-rose/",
+        "pubDate": "2026-11-25T10:49:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Francia c’è un mercato dove si fa aperitivo di mattina e 12 ostriche costano 10 euro",
+        "description": "Aperitivi a 3,50 euro, ostriche, baccalà, formaggi e panna montata venduta a peso. Viaggio alle Halles di Nîmes, storico mercato del Sud della Francia…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/les-halles-nimes-mercato-francia-ostriche-cosa-mangiare/",
+        "pubDate": "2026-11-25T10:48:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Tenuta Sant’Antonio, Paolo e Armando Castagnedi rilevano le quote dei fratelli Tiziano e Massimo",
         "description": "Cambio nell’assetto societario di Tenuta Sant’Antonio. Formalizzata a settembre 2026, la riorganizzazione vede Paolo e Armando Castagnedi consolidare la propria…",
         "link": "https://www.winemag.it/tenuta-santantonio-paolo-armando-castagnedi-rilevano-quote-fratelli-tiziano-massimo/",
         "pubDate": "2026-11-25T10:40:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
-      },
-      {
-        "title": "Coce apre a Milano: la cucina abruzzese arriva in Darsena",
-        "description": "Dal 26 novembre Coce – Brace &#38; Cucina d&#8217;Abruzzo apre il suo primo ristorante fuori regione. Dopo il debutto a Pescara nel 2022, il format dedicato all…",
-        "link": "https://www.winemag.it/coce-apre-milano-cucina-abruzzese-arriva-darsena/",
-        "pubDate": "2026-11-25T09:55:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Come sarà la futura legge sulla birra italiana",
-        "description": "L'attuale legislazione sulla birra ha più di 60 anni, e si vede. Abbiamo parlato con il senatore Giorgio Salvitti, al lavoro su una nuova legge, per capire qual…",
-        "link": "https://www.dissapore.com/bere/come-sara-la-futura-legge-sulla-birra-italiana/",
-        "pubDate": "2026-11-25T09:02:08+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/giorgio_salvitti12.jpeg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Palermo ha aperto una taverna ispirata alle osterie giapponesi dove si mangia siciliano",
-        "description": "Alla Vucciria apre La Fonderia, la taverna del gruppo Virga e Milano ispirata alle izakaya giapponesi, tra cucina siciliana, vinili e prezzi accessibili…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/la-fonderia-palermo-taverna-vucciria-izakaya/",
-        "pubDate": "2026-11-25T08:59:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sempre più sposi chiedono torte senza glutine e lattosio. Come sta cambiando la pasticceria",
-        "description": "Dalla celiachia del figlio alla sperimentazione di dolci senza glutine, lattosio e con meno zucchero. Loretta Fanella racconta come stanno cambiando le richiest…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/loretta-fanella-pasticceria-dolci-senza-glutine-lattosio-zucchero/",
-        "pubDate": "2026-11-25T08:53:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Costa meno di 20 euro ed è il miglior acquisto dell’anno secondo il Gambero Rosso",
-        "description": "Un imprenditore svizzero, tre tenute in Toscana e una cantina ridisegnata da Mario Botta. La storia del Chianti Classico Sacello 2023, premiato per il rapporto …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/chianti-classico-sacello-arillo-terrabianca-miglior-acquisto-2027/",
-        "pubDate": "2026-11-25T08:50:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La nuova inflazione si nasconde nella lista degli ingredienti. La chiamano skimpflation",
-        "description": "Meno burro nelle salse, meno carne nelle lasagne, meno avocado nel guacamole. Dopo la shrinkflation, a cambiare non sono più soltanto le dimensioni delle confez…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/skimpflation-inflazione-ingredienti-alimenti-supermercato/",
-        "pubDate": "2026-11-25T07:08:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Voco hotels raggiunge quota 50 strutture aperte in Europa",
-        "description": "IHG Hotels &#38; Resorts porta a 50 il numero degli hotel voco aperti in Europa. Il brand premium, lanciato nel 2018, prosegue il proprio percorso di espansione…",
-        "link": "https://www.winemag.it/voco-hotels-raggiunge-quota-50-strutture-aperte-in-europa/",
-        "pubDate": "2026-11-25T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Polveriera elezioni ONAV 2026: accuse e repliche tra Grassini e Frassineti",
-        "description": "Le elezioni ONAV del 5 dicembre 2026 si avvicinano in un clima di aperta contrapposizione, tanto da poter parlare di una vera e propria polveriera pronta ad esp…",
-        "link": "https://www.winemag.it/polveriera-elezioni-onav-2026-accuse-repliche-graziana-grassini-andrea-frassineti/",
-        "pubDate": "2026-11-24T23:54:53+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Granaccia, Pollero (Tenuta Maffone): «Può diventare il rosso di tutta la Liguria»",
-        "description": "La Granaccia potrebbe diventare per i vini rossi liguri ciò che il Vermentino rappresenta per i bianchi: un vitigno capace di raccontare territori diversi e di …",
-        "link": "https://www.winemag.it/granaccia-pollero-tenuta-maffone-puo-diventare-rosso-tutta-liguria/",
-        "pubDate": "2026-11-24T23:01:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Papi’s Kitchen, il progetto di cucina del fidanzato di Chiara Ferragni di cui l’AI non sa nulla",
-        "description": "José Hernández, il nuovo compagno dell'imprenditrice digitale, ha anche un progetto gastronomico che sembra muoversi lontano dal mondo del web e dei social.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/papis-kitchen-il-progetto-di-cucina-del-fidanzato-di-chiara-ferragni-di-cui-lai-non-sa-nulla/",
-        "pubDate": "2026-11-24T17:15:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/SnapInsta.to_702509151_17872061718610837_3397558864092425375_n.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cavit chiude bilancio 2025/2026 con calo ricavi del 6,3%: pesa mercato Usa",
-        "description": "Il Gruppo Cavit chiude l’esercizio 2025/2026 con un fatturato consolidato di 227,5 milioni di euro, in flessione del 6,3% rispetto all’anno precedente. Il calo …",
-        "link": "https://www.winemag.it/cavit-chiude-bilancio-2025-2026-con-calo-ricavi-del-63-pesa-mercato-usa/",
-        "pubDate": "2026-11-24T17:13:20+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Gènesi, la serie sulla rivoluzione di Ferran Adrià ed El Bulli è arrivata in Italia: quando e dove vederla",
-        "description": "Gènesi: ecco la storia di come un ristorante sulla Costa Brava abbia cambiato per sempre il modo di intendere la gastronomia.\nL'articolo Gènesi, la serie sulla …",
-        "link": "https://www.dissapore.com/notizie/genesi-la-serie-sulla-rivoluzione-di-ferran-adria-ed-el-bulli-e-arrivata-in-italia-quando-e-dove-vederla/",
-        "pubDate": "2026-11-24T15:55:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/6016859_Genesi_S01E00_Stills_Story_03-2-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "I trattamenti pre-shampoo per capelli rigenerati, lucenti e forti tutto l’inverno",
-        "description": "Un gesto in più che fa la differenza: il pre-shampoo diventa l’alleato segreto per capelli più forti, setosi e luminosi anche nei mesi più freddi. Scopri come t…",
-        "link": "https://www.stylosophy.it/articolo/i-trattamenti-pre-shampoo-per-capelli-rigenerati/241874/",
-        "pubDate": "2026-11-24T15:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
-        "cat": "Moda",
-        "source": "Stylosophy"
       }
     ],
     "moda": [
+      {
+        "title": "Louis Vuitton celebra Keith Haring: la moda diventa arte",
+        "description": "La collezione Louis Vuitton Keith Haring porta il linguaggio inconfondibile dell&#8217;artista americano nel mondo della moda, trasformando alcune delle creazio…",
+        "link": "https://www.grazia.it/moda/news-moda/louis-vuitton-keith-haring-collezione-borse-1017148",
+        "pubDate": "2026-11-25T15:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/ok-apertura-1-1.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
       {
         "title": "Francesca Fagnani debutta nella nuova edizione di Belve con un un total blue velvet look",
         "description": "Per il debutto dell'ottava edizione del programma di Rai 2, la conduttrice punta su un sofisticato abito firmato Giorgio Armani.…",
@@ -192,6 +201,33 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "Denim addicted, è il vostro momento! Ecco 7 jeans da acquistare approfittando del Black Friday",
+        "description": "Sono una delle certezze incrollabili del guardaroba e poco importa cosa dicono le tendenze del momento: di jeans non se ne hanno mai abbastanza e per loro ci sa…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/jeans-da-comprare-con-il-black-friday-in-sconto-scontati-levis-diesel-dritti-a-gamba-larga-barrel-tendenze-autunno-1017086",
+        "pubDate": "2026-11-25T11:00:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Jeans_Black_Friday.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "Cecilie Bahnsen x Uniqlo: la poesia delle cose semplici",
+        "description": "Un ricamo floreale, una palette di colori delicati, la leggerezza di un dettaglio romantico anche nel più essenziale dei capi quotidiani. È il linguaggio esteti…",
+        "link": "https://www.grazia.it/moda/news-moda/cecilie-bahnsen-uniqlo-seconda-collaborazione-1016987",
+        "pubDate": "2026-11-25T07:51:35+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/cover-articolo.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
+      },
+      {
+        "title": "5 look per la party season da sfoggiare a 40 anni e oltre",
+        "description": "Ebbene sì: it’s tiiime! La party season è alle porte e tra cene, cocktail, ritrovi con gli amici e brindisi di ogni sorta, l’agenda si sta riempiendo a vista d’…",
+        "link": "https://www.grazia.it/moda/tendenze-moda/come-vestirsi-a-40-anni-natale-capodanno-look-eleganti-party-abbinamenti-outfit-over-quaranta-holiday-season-1016808",
+        "pubDate": "2026-11-25T06:30:00+00:00",
+        "image": "https://www.grazia.it/content/uploads/2026/11/00_DESKTOP_party_season_40.jpg",
+        "cat": "Moda",
+        "source": "Grazia"
       },
       {
         "title": "I trattamenti pre-shampoo per capelli rigenerati, lucenti e forti tutto l’inverno",
@@ -302,15 +338,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Fashion oroscopo: inizia il mese del Sagittario e questi sono i suoi must-have",
-        "description": "Inizia ufficialmente il periodo dedicato al segno del Sagittario, che ci accompagnerà dal 22-23 novembre fino al 21 di dicembre. Come da tradizione, per ogni me…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/oroscopo-sagittario-must-have-moda-shopping-del-segno-1014942",
-        "pubDate": "2026-11-22T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_DESKTOP_segno_SAGITTARIO.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Mani protette sulla neve: le creme ultra-idratanti da avere sempre con sé",
         "description": "Una selezione di formule ricche e avvolgenti pensate per difendere le mani dal freddo intenso e dal vento tagliente delle giornate in montagna. Un’anteprima dei…",
         "link": "https://www.stylosophy.it/articolo/mani-protette-sulla-neve-le-creme-ultra-idratanti/243238/",
@@ -329,15 +356,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Regali di Natale per lei: i gioielli e i bijoux che ci fanno brillare gli occhi",
-        "description": "C&#8217;è chi sogna di trovare un pacchetto con un bel fiocco rosso sotto l&#8217;albero e chi, invece, spera di intravedere già dalla carta da regalo la sagoma…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/gioielli-regali-natale-2026-bijoux-anelli-collane-orecchini-bracciali-per-lei-1014508",
-        "pubDate": "2026-11-21T07:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_desktop_regali_natale_gioielli.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
         "title": "Piante da interni ideali per l’inverno: come arredare casa con il verde tutto l’anno",
         "description": "Anche d'inverno il verde può diventare parte del progetto d’interni. Scopri le piante più adatte ai mesi freddi, capaci di donare carattere agli spazi e mantene…",
         "link": "https://www.stylosophy.it/articolo/piante-da-interni-ideali-per-linverno-come-arredare-casa-con-il-verde-tutto-lanno/245942/",
@@ -345,35 +363,62 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
-      },
-      {
-        "title": "Fashion Pills: cos’è successo questa settimana nel mondo della moda in 7 news",
-        "description": "Materiali del futuro, capsule sotto zero pronte a riscaldare il nostro inverno e collaborazioni tutte da scoprire. Tra innovazione, suggestioni rétro e nuove in…",
-        "link": "https://www.grazia.it/moda/news-moda/notizie-moda-settimana-meimeij-veiga-milano-kyoto-capsule-liu-jo-sfilata-in-galleria-roy-rogers-kappa-pierre-mantoux-birkenstock-by-etro-matteo-berrettini-lotto-1015871",
-        "pubDate": "2026-11-20T15:00:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/desk-veiga.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "Tutte pazze per le faux fur! Inclusa Bella Hadid che sfoggia un modello di Mango (già nella nostra wishlist invernale)",
-        "description": "Una tendenza a cui non possiamo dire di no nella stagione fredda è quella delle faux fur. Lontana dall’essere un semplice ripiego, la pelliccia sintetica è dive…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/pelliccia-sintetica-mango-faux-fur-bella-hadid-aspen-collezione-party-selection-1015951",
-        "pubDate": "2026-11-20T11:10:50+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/apertura-bella-hadid.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
       }
     ],
     "lifestyle": [
+      {
+        "title": "Graziana Grassini (“lady Sassicaia”) presidente ONAV? Parliamone",
+        "description": "Graziana Grassini (lady Sassicaia) candidata presidente ONAV: chi rappresenta chi? Parliamone. Il punto sulla sfidante della lista di Intini\nL'articolo Graziana…",
+        "link": "https://www.winemag.it/graziana-grassini-lady-sassicaia-presidente-onav-parliamone/",
+        "pubDate": "2026-11-25T23:01:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Aumento dazi Usa su vino UE: proposta al 15%, Champagne escluso",
+        "description": "Gli Usa propongono di aumentare i dazi sui vini europei dal 10% al 15%, riservando allo Champagne un’esenzione dal rialzo. L’annuncio dagli Stati Uniti arriva i…",
+        "link": "https://www.winemag.it/dazi-usa-vino-ue-proposta-al-15-champagne-escluso-da-aumento/",
+        "pubDate": "2026-11-25T21:06:12+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "Annunciati nuovi dazi statunitensi sul vino europeo. Esentati Champagne e whisky irlandese",
+        "description": "Dopo la bocciatura della Corte Suprema, il governo statunitense ha avviato un'indagine su una decina di Paesi per eccesso di capacità produttiva e concorrenza s…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/trump-nuovi-dazi-concorrenza-sleale-europa/",
+        "pubDate": "2026-11-25T14:57:03+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Perché in Giappone si mangia italiano così bene. 14 indirizzi da conoscere a Tokyo",
+        "description": "Dalla cucina siciliana a quella abruzzese, dalla pizza napoletana ai dolci regionali. Come i giapponesi hanno studiato la nostra cucina e 14 indirizzi da provar…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/miniguide/tokyo-ristoranti-italiani-cucina-regionale-dove-mangiare/",
+        "pubDate": "2026-11-25T14:28:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
       {
         "title": "Piccolo è Bello 2026: a Catania oltre 40 cantine siciliane con Trame di Terra",
         "description": "Oltre 40 cantine siciliane e 20 piccoli produttori del settore agroalimentare e dell’artigianato. Sono i protagonisti dell’ottava edizione di Piccolo è Bello. L…",
         "link": "https://www.winemag.it/piccolo-e-bello-2026-catania-oltre-40-cantine-siciliane-trame-di-terra/",
         "pubDate": "2026-11-25T14:24:50+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "La serie sul primo chef star della storia ha vinto un Emmy. Chi era Antonin Carême",
+        "description": "Carême, la serie Apple TV sul cuoco dei potenti d'Europa, vince agli International Emmy Awards. Tra gli autori c'è lo sceneggiatore italiano Davide Serino…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/careme-serie-apple-tv-emmy-storia-primo-celebrity-chef/",
+        "pubDate": "2026-11-25T13:38:43+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Joe Bastianich fa pubblicità a Esselunga ma non lo dichiara",
@@ -389,16 +434,34 @@
         "description": "Il futuro del vino siciliano passa dalla sostenibilità misurabile, dalla salute dei suoli e dalla capacità delle imprese di adattarsi ai cambiamenti climatici, …",
         "link": "https://www.winemag.it/forum-sostain-sicilia-sostenibilita-agricoltura-rigenerativa-e-nuovi-scenari-per-il-vino/",
         "pubDate": "2026-11-25T12:42:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Stop a nuovi vigneti per almeno un anno. L’Italia mette un freno alla produzione per salvare il mercato",
+        "description": "Il Masaf accoglie le richieste delle associazioni di categoria sul blocco temporaneo dei nuovi impianti. Lo schema di decreto dovrà passare in Conferenza Stato-…",
+        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/stop-nuovi-impianti-vitivinicoli-nuovo-decreto-masaf/",
+        "pubDate": "2026-11-25T11:44:16+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il Cilento lontano dal mare dove nascono mozzarelle di bufala e fichi bianchi",
+        "description": "La serie tv Paesaggi d'Italia, promossa dal Ministero degli Affari Esteri e della Cooperazione Internazionale e realizzata da Gambero Rosso, arriva in Campania,…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cilento-mozzarella-bufala-fichi/",
+        "pubDate": "2026-11-25T11:17:58+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Vendemmia 2026 a Maiorca: produzione IGP in crescita del 23%",
         "description": "Cinque nuove cantine e 222 ettari in più. Crescono i vitigni autoctoni Callet e Premsal Blanc\nL'articolo Vendemmia 2026 a Maiorca: produzione IGP in crescita de…",
         "link": "https://www.winemag.it/vendemmia-2026-maiorca-produzione-igp-crescita/",
         "pubDate": "2026-11-25T11:15:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
@@ -407,16 +470,52 @@
         "description": "L’enoturismo italiano raggiunge quota 13,4 milioni di visitatori nel 2025, con una crescita dell’8,5% rispetto all’anno precedente. Il settore vale 2,7 miliardi…",
         "link": "https://www.winemag.it/enoturismo-italiano-a-134-milioni-di-visitatori-il-mercato-vale-27-miliardi-di-euro/",
         "pubDate": "2026-11-25T11:10:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "Il nonno comprò il cinema con una stretta di mano. Oggi le nipoti ci hanno aperto un ristorante",
+        "description": "Francesca e Caterina Saviotti raccontano la storia del cinema Barberini, dagli hamburger del Big Burg negli anni Ottanta al B24, ristorante con terrazza nel cuo…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/cinema-barberini-roma-ristorante-b24-storia-sorelle-saviotti/",
+        "pubDate": "2026-11-25T10:57:26+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il latte materno cambia sapore a seconda di ciò che mangiamo. Ecco cosa sappiamo del nostro primo cibo",
+        "description": "Cambia composizione quando il bambino si ammala, contiene batteri vivi, cambia persino sapore. Viaggio alla scoperta del latte materno, tra falsi miti e proprie…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/latte-materno-composizione-proprieta-sapore/",
+        "pubDate": "2026-11-25T10:53:38+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Un’insalata cosentina porta la Calabria alla finale mondiale della S.Pellegrino Young Chef",
+        "description": "Giacomo De Rose, chef de partie all’Hyle di San Giovanni in Fiore, vince la selezione italiana con \"Mappina\", un piatto di lattuga, aglio e peperoncino. Nel 202…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/spellegrino-young-chef-2026-giacomo-de-rose/",
+        "pubDate": "2026-11-25T10:49:22+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In Francia c’è un mercato dove si fa aperitivo di mattina e 12 ostriche costano 10 euro",
+        "description": "Aperitivi a 3,50 euro, ostriche, baccalà, formaggi e panna montata venduta a peso. Viaggio alle Halles di Nîmes, storico mercato del Sud della Francia…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/les-halles-nimes-mercato-francia-ostriche-cosa-mangiare/",
+        "pubDate": "2026-11-25T10:48:33+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Tenuta Sant’Antonio, Paolo e Armando Castagnedi rilevano le quote dei fratelli Tiziano e Massimo",
         "description": "Cambio nell’assetto societario di Tenuta Sant’Antonio. Formalizzata a settembre 2026, la riorganizzazione vede Paolo e Armando Castagnedi consolidare la propria…",
         "link": "https://www.winemag.it/tenuta-santantonio-paolo-armando-castagnedi-rilevano-quote-fratelli-tiziano-massimo/",
         "pubDate": "2026-11-25T10:40:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
@@ -425,7 +524,7 @@
         "description": "Dal 26 novembre Coce – Brace &#38; Cucina d&#8217;Abruzzo apre il suo primo ristorante fuori regione. Dopo il debutto a Pescara nel 2022, il format dedicato all…",
         "link": "https://www.winemag.it/coce-apre-milano-cucina-abruzzese-arriva-darsena/",
         "pubDate": "2026-11-25T09:55:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
       },
@@ -439,109 +538,10 @@
         "source": "Dissapore"
       },
       {
-        "title": "A Palermo ha aperto una taverna ispirata alle osterie giapponesi dove si mangia siciliano",
+        "title": "A Palermo c’è una taverna ispirata alle osterie giapponesi dove si mangia siciliano",
         "description": "Alla Vucciria apre La Fonderia, la taverna del gruppo Virga e Milano ispirata alle izakaya giapponesi, tra cucina siciliana, vinili e prezzi accessibili…",
         "link": "https://www.gamberorosso.it/notizie/attualita/la-fonderia-palermo-taverna-vucciria-izakaya/",
         "pubDate": "2026-11-25T08:59:19+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Sempre più sposi chiedono torte senza glutine e lattosio. Come sta cambiando la pasticceria",
-        "description": "Dalla celiachia del figlio alla sperimentazione di dolci senza glutine, lattosio e con meno zucchero. Loretta Fanella racconta come stanno cambiando le richiest…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/loretta-fanella-pasticceria-dolci-senza-glutine-lattosio-zucchero/",
-        "pubDate": "2026-11-25T08:53:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Costa meno di 20 euro ed è il miglior acquisto dell’anno secondo il Gambero Rosso",
-        "description": "Un imprenditore svizzero, tre tenute in Toscana e una cantina ridisegnata da Mario Botta. La storia del Chianti Classico Sacello 2023, premiato per il rapporto …",
-        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/chianti-classico-sacello-arillo-terrabianca-miglior-acquisto-2027/",
-        "pubDate": "2026-11-25T08:50:54+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "La nuova inflazione si nasconde nella lista degli ingredienti. La chiamano skimpflation",
-        "description": "Meno burro nelle salse, meno carne nelle lasagne, meno avocado nel guacamole. Dopo la shrinkflation, a cambiare non sono più soltanto le dimensioni delle confez…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/skimpflation-inflazione-ingredienti-alimenti-supermercato/",
-        "pubDate": "2026-11-25T07:08:31+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Voco hotels raggiunge quota 50 strutture aperte in Europa",
-        "description": "IHG Hotels &#38; Resorts porta a 50 il numero degli hotel voco aperti in Europa. Il brand premium, lanciato nel 2018, prosegue il proprio percorso di espansione…",
-        "link": "https://www.winemag.it/voco-hotels-raggiunge-quota-50-strutture-aperte-in-europa/",
-        "pubDate": "2026-11-25T05:00:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Polveriera elezioni ONAV 2026: accuse e repliche tra Grassini e Frassineti",
-        "description": "Le elezioni ONAV del 5 dicembre 2026 si avvicinano in un clima di aperta contrapposizione, tanto da poter parlare di una vera e propria polveriera pronta ad esp…",
-        "link": "https://www.winemag.it/polveriera-elezioni-onav-2026-accuse-repliche-graziana-grassini-andrea-frassineti/",
-        "pubDate": "2026-11-24T23:54:53+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Granaccia, Pollero (Tenuta Maffone): «Può diventare il rosso di tutta la Liguria»",
-        "description": "La Granaccia potrebbe diventare per i vini rossi liguri ciò che il Vermentino rappresenta per i bianchi: un vitigno capace di raccontare territori diversi e di …",
-        "link": "https://www.winemag.it/granaccia-pollero-tenuta-maffone-puo-diventare-rosso-tutta-liguria/",
-        "pubDate": "2026-11-24T23:01:00+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Papi’s Kitchen, il progetto di cucina del fidanzato di Chiara Ferragni di cui l’AI non sa nulla",
-        "description": "José Hernández, il nuovo compagno dell'imprenditrice digitale, ha anche un progetto gastronomico che sembra muoversi lontano dal mondo del web e dei social.\nL'a…",
-        "link": "https://www.dissapore.com/notizie/papis-kitchen-il-progetto-di-cucina-del-fidanzato-di-chiara-ferragni-di-cui-lai-non-sa-nulla/",
-        "pubDate": "2026-11-24T17:15:57+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/SnapInsta.to_702509151_17872061718610837_3397558864092425375_n.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Cavit chiude bilancio 2025/2026 con calo ricavi del 6,3%: pesa mercato Usa",
-        "description": "Il Gruppo Cavit chiude l’esercizio 2025/2026 con un fatturato consolidato di 227,5 milioni di euro, in flessione del 6,3% rispetto all’anno precedente. Il calo …",
-        "link": "https://www.winemag.it/cavit-chiude-bilancio-2025-2026-con-calo-ricavi-del-63-pesa-mercato-usa/",
-        "pubDate": "2026-11-24T17:13:20+00:00",
-        "image": "https://www.winemag.it/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Gènesi, la serie sulla rivoluzione di Ferran Adrià ed El Bulli è arrivata in Italia: quando e dove vederla",
-        "description": "Gènesi: ecco la storia di come un ristorante sulla Costa Brava abbia cambiato per sempre il modo di intendere la gastronomia.\nL'articolo Gènesi, la serie sulla …",
-        "link": "https://www.dissapore.com/notizie/genesi-la-serie-sulla-rivoluzione-di-ferran-adria-ed-el-bulli-e-arrivata-in-italia-quando-e-dove-vederla/",
-        "pubDate": "2026-11-24T15:55:25+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/11/6016859_Genesi_S01E00_Stills_Story_03-2-1.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "A Milano arrivano 130 cantine per una grande festa del vino: torna il Grand Tasting",
-        "description": "Domenica 29 novembre al Milan Marriott Hotel una grande degustazione con i vini premiati dal Gambero Rosso, la presentazione delle nuove guide Lombardia e Bereb…",
-        "link": "https://www.gamberorosso.it/notizie/attualita/evento-vino-milano-grand-tasting-guida-lombardia/",
-        "pubDate": "2026-11-24T14:47:34+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "A Viareggio una pasticceria conquista il Gambero Rosso con i bomboloni preparati con la ricetta di famiglia",
-        "description": "A Viareggio, Riccardo Patalani unisce tre generazioni di ricette familiari e una formazione artistica. Dai bomboloncini al cioccolato, ora arriva il riconoscime…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/riccardo-patalani-pasticceria-viareggio-tre-torte-2027/",
-        "pubDate": "2026-11-24T14:31:15+00:00",
         "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
         "cat": "Food",
         "source": "Gambero Rosso"
