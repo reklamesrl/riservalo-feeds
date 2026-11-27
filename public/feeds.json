@@ -1,7 +1,88 @@
 {
-  "generated": "2026-11-27T01:31:28.459795+00:00",
+  "generated": "2026-11-27T16:15:18.587660+00:00",
   "feeds": {
     "offerte": [
+      {
+        "title": "Isole Eolie, sequestrata azienda vitivinicola biologica da 10 milioni di euro",
+        "description": "Un&#8217;azienda vitivinicola certificata biologica è stata sottoposta a sequestro preventivo nelle isole Eolie. Il provvedimento, disposto nell&#8217;ambito di…",
+        "link": "https://www.winemag.it/isole-eolie-sequestrata-azienda-vitivinicola-biologica/",
+        "pubDate": "2026-11-27T16:13:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La guerra dello Champagne tra Angelina Jolie e Brad Pitt è finita così",
+        "description": "Dopo anni di cause, accuse e milioni di dollari contesi intorno a Château Miraval, i due ex coniugi più celebri dello star system hanno raggiunto un accordo ext…",
+        "link": "https://www.dissapore.com/notizie/la-guerra-dello-champagne-tra-angelina-jolie-e-brad-pitt-e-finita-cosi/",
+        "pubDate": "2026-11-27T10:23:37+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/10/brad-pitt.jpg?width=300&height=150&quality=75",
+        "cat": "Food",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ci sono anche due vini sotto i 30 euro tra i 10 migliori Bolgheri. Ecco i grandi classici e i fuoriclasse da collezione",
+        "description": "Dalle bottiglie più accessibili fino alle icone internazionali: ecco le migliori etichette di Bolgheri premiate con i Tre Bicchieri nella Guida Vini d'Italia 20…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/bolgheri-migliori-vini-2027/",
+        "pubDate": "2026-11-27T08:48:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Carlotta Delicato: “La sostenibilità? Iniziamo a non trattare come schiavi i ragazzi in cucina”",
+        "description": "Carlotta Delicato e Gabriele Tarquini raccontano l'economia di un ristorante d'autore: dagli stipendi della brigata ai ricarichi sul vino, fino all'investimento…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/carlotta-delicato-fine-dining-prezzi-stipendi-sostenibilita/",
+        "pubDate": "2026-11-27T08:31:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La cipolla campana che dura quasi un anno e che abbiamo rischiato di perdere",
+        "description": "Per decenni venduta come cipolla napoletana, la ramata di Montoro ha rischiato di scomparire a causa del tabacco. Oggi è il simbolo della biodiversità locale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cipolla-ramata-montoro-storia-caratteristiche-come-si-cucina/",
+        "pubDate": "2026-11-27T08:29:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo storico ristorante toscano diventato virale perché frigge la bistecca",
+        "description": "Alta, croccante al morso e tenera al taglio. La bistecca fritta di Tullio a Montebeni ha spopolato sui social, ma già esisteva in altri ristoranti fiorentini. E…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/bistecca-fiorentina-fritta-tullio-fiesole-storia/",
+        "pubDate": "2026-11-27T08:18:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante bolognese famoso per la lasagna apre in una villa del Cinquecento",
+        "description": "Matteo Poggi e Piero Pompili raddoppiano nella campagna bolognese. Il nuovo Al Cambio aprirà a dicembre all'Accademia dei Notturni, soltanto nei giorni festivi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/al-cambio-bologna-nuova-apertura-accademia-notturni-budrio/",
+        "pubDate": "2026-11-27T07:26:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In un piccolo paese del Friuli c’è una delle migliori pasticcerie d’Italia. La storia di tre generazioni",
+        "description": "Tre generazioni di pasticceri, cinque indirizzi e le Tre Torte del Gambero Rosso. La storia della famiglia Maritani, tra lievitati e dolci mitteleuropei…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/maritani-pasticceria-staranzano-friuli-tre-torte-2027/",
+        "pubDate": "2026-11-27T05:42:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Hotel de la Poste Cortina: riapertura il 4 dicembre",
+        "description": "L’Hotel de la Poste di Cortina d’Ampezzo riaprirà il 4 dicembre 2026, inaugurando la prima stagione invernale sotto la proprietà della famiglia Vacchi. Per lo s…",
+        "link": "https://www.winemag.it/hotel-de-la-poste-cortina-riapertura-4-dicembre/",
+        "pubDate": "2026-11-27T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
       {
         "title": "Collio, il Pinot Grigio Doc ramato ruba la scena. Ma non “esiste” ancora",
         "description": "Collio Evolution 2026, Consorzio al lavoro per introdurre la menzione/tipologia Collio Pinot Grigio Doc ramato, che non \"esiste\" ancora\nL'articolo Collio, il Pi…",
@@ -28,6 +109,15 @@
         "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&q=70",
         "cat": "Moda",
         "source": "Stylosophy"
+      },
+      {
+        "title": "In Brianza ha riaperto una storica gelateria rimasta chiusa per anni. E ora rilancia le coppe di una volta",
+        "description": "A Montorfano, sul lago, una famiglia ha rilevato La Madonnina, insegna nata come osteria ai primi del Novecento. Ecco cosa propongono tra classici intramontabil…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-la-madonnina-brianza-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-11-26T17:37:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Dal convento alla pasticceria, la storia di Maria Grammatico, scomparsa a 85 anni",
@@ -66,33 +156,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dopo 40 anni ricevono 124 euro per una vendemmia mai saldata. Il conto ancora aperto del metanolo",
-        "description": "Microstoria sociale del vino italiano: una famiglia abruzzese, lo scandalo del metanolo e quarant’anni di trasformazioni del capitalismo vitivinicolo italiano…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/scandalo-metanolo-ricordo-tenuta-fauri/",
-        "pubDate": "2026-11-26T15:38:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Cile c’è un paese dove da 120 anni si mangiano cappelletti e borlenghi come in Emilia",
-        "description": "Nel 1904 alcune famiglie modenesi emigrarono nel sud del Cile. Oggi i loro discendenti preparano ancora pasta fresca, borlenghi e prosciutti con spezie mapuche…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/capitan-pastene-cile-paese-emiliano-prosciutto-cucina-italiana/",
-        "pubDate": "2026-11-26T15:23:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché gli americani mangiano il tacchino nel Giorno del Ringraziamento",
-        "description": "Dal banchetto del 1621 al menu codificato nell'Ottocento: perché gli americani festeggiano il Thanksgiving con tacchino, patate dolci e torta di zucca…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/thanksgiving-giorno-ringraziamento-storia-menu-tacchino/",
-        "pubDate": "2026-11-26T15:00:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Parola d’ordine: scintillare! Ecco gli abiti di paillettes da sfoggiare da qui a Capodanno",
         "description": "La sparkly season è alle porte e come accoglierla al meglio, se non con un abito scintillante nuovo di zecca? Non c’è nulla che celebri e omaggi meglio questo p…",
         "link": "https://www.grazia.it/moda/tendenze-moda/abiti-di-paillettes-vestito-strass-dischetti-paillette-feste-natale-capodanno-look-1017312",
@@ -111,33 +174,6 @@
         "source": "Stylosophy"
       },
       {
-        "title": "Dalla cenere di Lanzarote ai fondali marini di Fuerteventura: il carattere unico dei vini delle Canarie",
-        "description": "Con undici Denominazioni di Origine Protetta, l’arcipelago custodisce una diversità vitivinicola unica. Dalla cenere di Lanzarote ai fondali marini di Fuerteven…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/itinerari/lanzarote-vini-canarie/",
-        "pubDate": "2026-11-26T11:56:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Brunello da 40 euro che ha conquistato gli Usa. La produttrice: “A Montalcino c’è chi ha alzato troppo i prezzi”",
-        "description": "Elisabetta Gnudi, dopo il quarto posto nella Top 100 di Wine Spectator, spiega la sua filosofia: \"Non alzerò i prezzi: il mio vino deve essere per tutti\". E rac…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/brunello-montalcino-caparzo-elisabetta-gnudi-wine-spectator/",
-        "pubDate": "2026-11-26T11:24:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ricopriva di cioccolato le medicine amare. Così nacque il più famoso cioccolatino belga",
-        "description": "Da un espediente adottato in una farmacia dell’Ottocento per mascherare il sapore amaro dei medicinali nasce, due generazioni dopo, una delle specialità più con…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/neuhaus-storia-pralina-belga-farmacia-cioccolatini/",
-        "pubDate": "2026-11-26T11:10:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "Quali borse acquistare con il Black Friday? Ecco 7 modelli da puntare al volo",
         "description": "Non facciamo altro che inserire nuovi modelli alla nostra wishlist, ogni scusa è buona per acquistarne di nuove e ora che sono iniziate le offerte del Black Fri…",
         "link": "https://www.grazia.it/moda/tendenze-moda/borse-da-comprare-con-il-black-friday-in-sconto-tote-bag-pochette-tracolla-mini-a-spalla-firmate-furla-demellier-1017376",
@@ -145,42 +181,6 @@
         "image": "https://www.grazia.it/content/uploads/2026/11/COVER_Borse_Black_Friday.jpg",
         "cat": "Moda",
         "source": "Grazia"
-      },
-      {
-        "title": "C’è un Friuli gastronomico ancora da scoprire, e Al Fogolar di Udine lo dimostra",
-        "description": "Da un'osteria per viaggiatori a un ristorante di fine dining, passando per cinque generazioni: Al Fogolar di Udine ritrova nella cucina di Alberto Tonizzo il mo…",
-        "link": "https://www.dissapore.com/ristoranti/ristorante-al-fogolar-di-udine/",
-        "pubDate": "2026-11-26T10:58:32+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Al-Fogolar-6-scaled.jpg?width=660&amp;height=0&amp;quality=75",
-        "cat": "Food",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Tra le colline del Prosecco un’esposizione da non perdere: cinque sculture sull’universo femminile di Roberto Merotto",
-        "description": "La cantina Col Vetoraz ospita fino a febbraio 2027 le opere lignee dedicate alle donne dello scultore trevigiano Merotto. Si rinnova così il dialogo tra vino e …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/col-vetoraz-statue-roberto-merotto/",
-        "pubDate": "2026-11-26T10:39:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Piumini: 6 modi cool per indossarli e trasformarli nel caposalla più fashion della fall-winter",
-        "description": "Se c’è un capospalla in particolare che, per lungo tempo, le cool girls non hanno considerato “in”, è proprio il piumino.In quanto capo “tecnico”, la puffer jac…",
-        "link": "https://www.grazia.it/moda/tendenze-moda/come-abbinare-piumino-donna-inspo-look-instagram-1016970",
-        "pubDate": "2026-11-26T06:32:00+00:00",
-        "image": "https://www.grazia.it/content/uploads/2026/11/00_DESKTOP_piumini_IG.jpg",
-        "cat": "Moda",
-        "source": "Grazia"
-      },
-      {
-        "title": "La Piadineria apre a Napoli Centrale: nuovo ristorante nella Food Hall",
-        "description": "La Piadineria apre un nuovo ristorante a Napoli Centrale, nella Food Hall al piano terra della stazione. È la seconda apertura dell&#8217;insegna nel capoluogo …",
-        "link": "https://www.winemag.it/la-piadineria-apre-napoli-centrale-nuovo-ristorante-nella-food-hall/",
-        "pubDate": "2026-11-26T05:00:00+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
       }
     ],
     "moda": [
@@ -367,6 +367,87 @@
     ],
     "lifestyle": [
       {
+        "title": "Isole Eolie, sequestrata azienda vitivinicola biologica da 10 milioni di euro",
+        "description": "Un&#8217;azienda vitivinicola certificata biologica è stata sottoposta a sequestro preventivo nelle isole Eolie. Il provvedimento, disposto nell&#8217;ambito di…",
+        "link": "https://www.winemag.it/isole-eolie-sequestrata-azienda-vitivinicola-biologica/",
+        "pubDate": "2026-11-27T16:13:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
+        "title": "La guerra dello Champagne tra Angelina Jolie e Brad Pitt è finita così",
+        "description": "Dopo anni di cause, accuse e milioni di dollari contesi intorno a Château Miraval, i due ex coniugi più celebri dello star system hanno raggiunto un accordo ext…",
+        "link": "https://www.dissapore.com/notizie/la-guerra-dello-champagne-tra-angelina-jolie-e-brad-pitt-e-finita-cosi/",
+        "pubDate": "2026-11-27T10:23:37+00:00",
+        "image": "https://images.dissapore.com/wp-content/uploads/2023/10/brad-pitt.jpg?width=300&height=150&quality=75",
+        "cat": "Cucina",
+        "source": "Dissapore"
+      },
+      {
+        "title": "Ci sono anche due vini sotto i 30 euro tra i 10 migliori Bolgheri. Ecco i grandi classici e i fuoriclasse da collezione",
+        "description": "Dalle bottiglie più accessibili fino alle icone internazionali: ecco le migliori etichette di Bolgheri premiate con i Tre Bicchieri nella Guida Vini d'Italia 20…",
+        "link": "https://www.gamberorosso.it/notizie/vino/degustazioni/bolgheri-migliori-vini-2027/",
+        "pubDate": "2026-11-27T08:48:30+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Carlotta Delicato: “La sostenibilità? Iniziamo a non trattare come schiavi i ragazzi in cucina”",
+        "description": "Carlotta Delicato e Gabriele Tarquini raccontano l'economia di un ristorante d'autore: dagli stipendi della brigata ai ricarichi sul vino, fino all'investimento…",
+        "link": "https://www.gamberorosso.it/notizie/attualita/carlotta-delicato-fine-dining-prezzi-stipendi-sostenibilita/",
+        "pubDate": "2026-11-27T08:31:41+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "La cipolla campana che dura quasi un anno e che abbiamo rischiato di perdere",
+        "description": "Per decenni venduta come cipolla napoletana, la ramata di Montoro ha rischiato di scomparire a causa del tabacco. Oggi è il simbolo della biodiversità locale…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/cipolla-ramata-montoro-storia-caratteristiche-come-si-cucina/",
+        "pubDate": "2026-11-27T08:29:01+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Lo storico ristorante toscano diventato virale perché frigge la bistecca",
+        "description": "Alta, croccante al morso e tenera al taglio. La bistecca fritta di Tullio a Montebeni ha spopolato sui social, ma già esisteva in altri ristoranti fiorentini. E…",
+        "link": "https://www.gamberorosso.it/notizie/ristoranti/bistecca-fiorentina-fritta-tullio-fiesole-storia/",
+        "pubDate": "2026-11-27T08:18:25+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Il ristorante bolognese famoso per la lasagna apre in una villa del Cinquecento",
+        "description": "Matteo Poggi e Piero Pompili raddoppiano nella campagna bolognese. Il nuovo Al Cambio aprirà a dicembre all'Accademia dei Notturni, soltanto nei giorni festivi…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/al-cambio-bologna-nuova-apertura-accademia-notturni-budrio/",
+        "pubDate": "2026-11-27T07:26:57+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "In un piccolo paese del Friuli c’è una delle migliori pasticcerie d’Italia. La storia di tre generazioni",
+        "description": "Tre generazioni di pasticceri, cinque indirizzi e le Tre Torte del Gambero Rosso. La storia della famiglia Maritani, tra lievitati e dolci mitteleuropei…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/maritani-pasticceria-staranzano-friuli-tre-torte-2027/",
+        "pubDate": "2026-11-27T05:42:19+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
+      },
+      {
+        "title": "Hotel de la Poste Cortina: riapertura il 4 dicembre",
+        "description": "L’Hotel de la Poste di Cortina d’Ampezzo riaprirà il 4 dicembre 2026, inaugurando la prima stagione invernale sotto la proprietà della famiglia Vacchi. Per lo s…",
+        "link": "https://www.winemag.it/hotel-de-la-poste-cortina-riapertura-4-dicembre/",
+        "pubDate": "2026-11-27T05:00:00+00:00",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
+        "cat": "Vino",
+        "source": "Wine Mag"
+      },
+      {
         "title": "Collio, il Pinot Grigio Doc ramato ruba la scena. Ma non “esiste” ancora",
         "description": "Collio Evolution 2026, Consorzio al lavoro per introdurre la menzione/tipologia Collio Pinot Grigio Doc ramato, che non \"esiste\" ancora\nL'articolo Collio, il Pi…",
         "link": "https://www.winemag.it/collio-pinot-grigio-doc-ramato-ruba-scena-ma-non-esiste-ancora/",
@@ -383,6 +464,15 @@
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
+      },
+      {
+        "title": "In Brianza ha riaperto una storica gelateria rimasta chiusa per anni. E ora rilancia le coppe di una volta",
+        "description": "A Montorfano, sul lago, una famiglia ha rilevato La Madonnina, insegna nata come osteria ai primi del Novecento. Ecco cosa propongono tra classici intramontabil…",
+        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/gelateria-la-madonnina-brianza-nocciola-monferrato-agrimontana/",
+        "pubDate": "2026-11-26T17:37:34+00:00",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
+        "cat": "Food",
+        "source": "Gambero Rosso"
       },
       {
         "title": "Dal convento alla pasticceria, la storia di Maria Grammatico, scomparsa a 85 anni",
@@ -421,60 +511,6 @@
         "source": "Gambero Rosso"
       },
       {
-        "title": "Dopo 40 anni ricevono 124 euro per una vendemmia mai saldata. Il conto ancora aperto del metanolo",
-        "description": "Microstoria sociale del vino italiano: una famiglia abruzzese, lo scandalo del metanolo e quarant’anni di trasformazioni del capitalismo vitivinicolo italiano…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/scandalo-metanolo-ricordo-tenuta-fauri/",
-        "pubDate": "2026-11-26T15:38:38+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "In Cile c’è un paese dove da 120 anni si mangiano cappelletti e borlenghi come in Emilia",
-        "description": "Nel 1904 alcune famiglie modenesi emigrarono nel sud del Cile. Oggi i loro discendenti preparano ancora pasta fresca, borlenghi e prosciutti con spezie mapuche…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/capitan-pastene-cile-paese-emiliano-prosciutto-cucina-italiana/",
-        "pubDate": "2026-11-26T15:23:09+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Perché gli americani mangiano il tacchino nel Giorno del Ringraziamento",
-        "description": "Dal banchetto del 1621 al menu codificato nell'Ottocento: perché gli americani festeggiano il Thanksgiving con tacchino, patate dolci e torta di zucca…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/thanksgiving-giorno-ringraziamento-storia-menu-tacchino/",
-        "pubDate": "2026-11-26T15:00:58+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Dalla cenere di Lanzarote ai fondali marini di Fuerteventura: il carattere unico dei vini delle Canarie",
-        "description": "Con undici Denominazioni di Origine Protetta, l’arcipelago custodisce una diversità vitivinicola unica. Dalla cenere di Lanzarote ai fondali marini di Fuerteven…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/itinerari/lanzarote-vini-canarie/",
-        "pubDate": "2026-11-26T11:56:48+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Il Brunello da 40 euro che ha conquistato gli Usa. La produttrice: “A Montalcino c’è chi ha alzato troppo i prezzi”",
-        "description": "Elisabetta Gnudi, dopo il quarto posto nella Top 100 di Wine Spectator, spiega la sua filosofia: \"Non alzerò i prezzi: il mio vino deve essere per tutti\". E rac…",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/brunello-montalcino-caparzo-elisabetta-gnudi-wine-spectator/",
-        "pubDate": "2026-11-26T11:24:55+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
-        "title": "Ricopriva di cioccolato le medicine amare. Così nacque il più famoso cioccolatino belga",
-        "description": "Da un espediente adottato in una farmacia dell’Ottocento per mascherare il sapore amaro dei medicinali nasce, due generazioni dopo, una delle specialità più con…",
-        "link": "https://www.gamberorosso.it/notizie/rubriche/storie/neuhaus-storia-pralina-belga-farmacia-cioccolatini/",
-        "pubDate": "2026-11-26T11:10:28+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
-      },
-      {
         "title": "C’è un Friuli gastronomico ancora da scoprire, e Al Fogolar di Udine lo dimostra",
         "description": "Da un'osteria per viaggiatori a un ristorante di fine dining, passando per cinque generazioni: Al Fogolar di Udine ritrova nella cucina di Alberto Tonizzo il mo…",
         "link": "https://www.dissapore.com/ristoranti/ristorante-al-fogolar-di-udine/",
@@ -482,15 +518,6 @@
         "image": "https://images.dissapore.com/wp-content/uploads/2026/10/Al-Fogolar-6-scaled.jpg?width=660&amp;height=0&amp;quality=75",
         "cat": "Cucina",
         "source": "Dissapore"
-      },
-      {
-        "title": "Tra le colline del Prosecco un’esposizione da non perdere: cinque sculture sull’universo femminile di Roberto Merotto",
-        "description": "La cantina Col Vetoraz ospita fino a febbraio 2027 le opere lignee dedicate alle donne dello scultore trevigiano Merotto. Si rinnova così il dialogo tra vino e …",
-        "link": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/col-vetoraz-statue-roberto-merotto/",
-        "pubDate": "2026-11-26T10:39:57+00:00",
-        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=70",
-        "cat": "Food",
-        "source": "Gambero Rosso"
       },
       {
         "title": "La Piadineria apre a Napoli Centrale: nuovo ristorante nella Food Hall",
@@ -515,33 +542,6 @@
         "description": "Gli Usa propongono di aumentare i dazi sui vini europei dal 10% al 15%, riservando allo Champagne un’esenzione dal rialzo. L’annuncio dagli Stati Uniti arriva i…",
         "link": "https://www.winemag.it/dazi-usa-vino-ue-proposta-al-15-champagne-escluso-da-aumento/",
         "pubDate": "2026-11-25T21:06:12+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Piccolo è Bello 2026: a Catania oltre 40 cantine siciliane con Trame di Terra",
-        "description": "Oltre 40 cantine siciliane e 20 piccoli produttori del settore agroalimentare e dell’artigianato. Sono i protagonisti dell’ottava edizione di Piccolo è Bello. L…",
-        "link": "https://www.winemag.it/piccolo-e-bello-2026-catania-oltre-40-cantine-siciliane-trame-di-terra/",
-        "pubDate": "2026-11-25T14:24:50+00:00",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
-        "cat": "Vino",
-        "source": "Wine Mag"
-      },
-      {
-        "title": "Joe Bastianich fa pubblicità a Esselunga ma non lo dichiara",
-        "description": "La nuova partnership tra Esselunga Superstore e Joe Bastianich è bella, ma dovrebbe essere segnalata come pubblicità.\nL'articolo Joe Bastianich fa pubblicità a …",
-        "link": "https://www.dissapore.com/notizie/joe-bastianich-fa-pubblicita-a-esselunga-ma-non-lo-dichiara/",
-        "pubDate": "2026-11-25T13:28:02+00:00",
-        "image": "https://images.dissapore.com/wp-content/uploads/2026/01/vino-stipato-1.jpg?width=300&height=150&quality=75",
-        "cat": "Cucina",
-        "source": "Dissapore"
-      },
-      {
-        "title": "Forum SOStain Sicilia: sostenibilità, agricoltura rigenerativa e nuovi scenari per il vino",
-        "description": "Il futuro del vino siciliano passa dalla sostenibilità misurabile, dalla salute dei suoli e dalla capacità delle imprese di adattarsi ai cambiamenti climatici, …",
-        "link": "https://www.winemag.it/forum-sostain-sicilia-sostenibilita-agricoltura-rigenerativa-e-nuovi-scenari-per-il-vino/",
-        "pubDate": "2026-11-25T12:42:00+00:00",
         "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&q=70",
         "cat": "Vino",
         "source": "Wine Mag"
